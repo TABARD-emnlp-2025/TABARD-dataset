@@ -25,11 +25,6 @@ It includes **8 anomaly types**:
 - Normalization
 - Consistency
 
-Each table is annotated with:
-- A **perturbed** version with LLM-generated anomalies  
-- A **Yes/No** table indicating anomalous cells  
-- A **stripped** version isolating anomaly-critical data
-
 ---
 
 ## 📁 Directory Structure
@@ -78,9 +73,6 @@ Each subfolder (e.g., `Calculation_Based_Anomaly_FeTaQA`) includes:
 | WikiTQ + FeTaQA  | 4,840   | 17        | 5            |
 | Spider + BEAVER  | 455     | 349       | 7            |
 | **Total**        | 5,295   | 33        | 5            |
-
-- Anomalies are injected in approximately **50% of rows**  
-- A subset of tables are **left clean** to benchmark false positives
 
 ---
 
