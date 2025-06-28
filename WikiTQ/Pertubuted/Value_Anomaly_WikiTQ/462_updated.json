@@ -1,0 +1,352 @@
+[
+  {
+    "Pos": "1",
+    "No": 1,
+    "Driver": "Alain Prost",
+    "Constructor": "Ferrari",
+    "Laps": 64.0,
+    "Time/Retired": "1:18:30.999",
+    "Grid": 5.0,
+    "Points": 9.0
+  },
+  {
+    "Pos": "2",
+    "No": 5,
+    "Driver": "Thierry Boutsen",
+    "Constructor": "Williams-Renault",
+    "Laps": 64.0,
+    "Time/Retired": "+ 39.092",
+    "Grid": 4.0,
+    "Points": "@@@_-2.9761904762"
+  },
+  {
+    "Pos": "3",
+    "No": 27,
+    "Driver": "Ayrton Senna",
+    "Constructor": "McLaren-Honda",
+    "Laps": 64.0,
+    "Time/Retired": "+ 43.088",
+    "Grid": 2.0,
+    "Points": 4.0
+  },
+  {
+    "Pos": "4",
+    "No": 29,
+    "Driver": "Éric Bernard",
+    "Constructor": "Lola-Lamborghini",
+    "Laps": 64.0,
+    "Time/Retired": "+ 1:15.302",
+    "Grid": 8.0,
+    "Points": 3.0
+  },
+  {
+    "Pos": "5",
+    "No": 20,
+    "Driver": "Nelson Piquet",
+    "Constructor": "Benetton-Ford",
+    "Laps": 64.0,
+    "Time/Retired": "+ 1:24.003",
+    "Grid": 11.0,
+    "Points": 2.0
+  },
+  {
+    "Pos": "6",
+    "No": 30,
+    "Driver": "Aguri Suzuki",
+    "Constructor": "Lola-Lamborghini",
+    "Laps": 63.0,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 9.0,
+    "Points": 1.0
+  },
+  {
+    "Pos": "7",
+    "No": "@@@_354",
+    "Driver": "Alex Caffi",
+    "Constructor": "Arrows-Ford",
+    "Laps": 63.0,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 17.0,
+    "Points": "@@@_None"
+  },
+  {
+    "Pos": "8",
+    "No": 4,
+    "Driver": "Jean Alesi",
+    "Constructor": "Tyrrell-Ford",
+    "Laps": 63.0,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 6.0,
+    "Points": null
+  },
+  {
+    "Pos": "9",
+    "No": 8,
+    "Driver": "Stefano Modena",
+    "Constructor": "Brabham-Judd",
+    "Laps": 62.0,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": "@@@_-13.5",
+    "Points": null
+  },
+  {
+    "Pos": "10",
+    "No": 25,
+    "Driver": "Nicola Larini",
+    "Constructor": "Ligier-Ford",
+    "Laps": 62.0,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 21.0,
+    "Points": null
+  },
+  {
+    "Pos": "11",
+    "No": 21,
+    "Driver": "Emanuele Pirro",
+    "Constructor": "Dallara-Ford",
+    "Laps": 62.0,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 19.0,
+    "Points": null
+  },
+  {
+    "Pos": "12",
+    "No": 24,
+    "Driver": "Paolo Barilla",
+    "Constructor": "Minardi-Ford",
+    "Laps": 62.0,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 24.0,
+    "Points": null
+  },
+  {
+    "Pos": "13",
+    "No": 26,
+    "Driver": "Philippe Alliot",
+    "Constructor": "Ligier-Ford",
+    "Laps": 61.0,
+    "Time/Retired": "+ 3 Laps",
+    "Grid": 22.0,
+    "Points": null
+  },
+  {
+    "Pos": "14",
+    "No": 28,
+    "Driver": "Gerhard Berger",
+    "Constructor": "McLaren-Honda",
+    "Laps": 60.0,
+    "Time/Retired": "Throttle",
+    "Grid": 3.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 2,
+    "Driver": "Nigel Mansell",
+    "Constructor": "Ferrari",
+    "Laps": 55.0,
+    "Time/Retired": "Gearbox",
+    "Grid": 1.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 16,
+    "Driver": "Ivan Capelli",
+    "Constructor": "Leyton House-Judd",
+    "Laps": 48.0,
+    "Time/Retired": "Fuel Leak",
+    "Grid": 10.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 12,
+    "Driver": "Martin Donnelly",
+    "Constructor": "Lotus-Lamborghini",
+    "Laps": 48.0,
+    "Time/Retired": "Engine",
+    "Grid": 14.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 11,
+    "Driver": "Derek Warwick",
+    "Constructor": "Lotus-Lamborghini",
+    "Laps": 46.0,
+    "Time/Retired": "Engine",
+    "Grid": 16.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 17,
+    "Driver": "Gabriele Tarquini",
+    "Constructor": "AGS-Ford",
+    "Laps": 41.0,
+    "Time/Retired": "Engine",
+    "Grid": 26.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 9,
+    "Driver": "Michele Alboreto",
+    "Constructor": "Arrows-Ford",
+    "Laps": 37.0,
+    "Time/Retired": "Engine",
+    "Grid": 25.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 6,
+    "Driver": "Riccardo Patrese",
+    "Constructor": "Williams-Renault",
+    "Laps": 26.0,
+    "Time/Retired": "Chassis",
+    "Grid": 7.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 3,
+    "Driver": "Satoru Nakajima",
+    "Constructor": "Tyrrell-Ford",
+    "Laps": 20.0,
+    "Time/Retired": "Electrical",
+    "Grid": 12.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 19,
+    "Driver": "Alessandro Nannini",
+    "Constructor": "Benetton-Ford",
+    "Laps": 15.0,
+    "Time/Retired": "Collision",
+    "Grid": 13.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 22,
+    "Driver": "Andrea de Cesaris",
+    "Constructor": "Dallara-Ford",
+    "Laps": 12.0,
+    "Time/Retired": "Fuel System",
+    "Grid": 23.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 23,
+    "Driver": "Pierluigi Martini",
+    "Constructor": "Minardi-Ford",
+    "Laps": 3.0,
+    "Time/Retired": "Alternator",
+    "Grid": 18.0,
+    "Points": "@@@_-4.1666666667"
+  },
+  {
+    "Pos": "DNS",
+    "No": 15,
+    "Driver": "Maurício Gugelmin",
+    "Constructor": "Leyton House-Judd",
+    "Laps": 0.0,
+    "Time/Retired": "Fuel Pump",
+    "Grid": 15.0,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 14,
+    "Driver": "Olivier Grouillard",
+    "Constructor": "Osella-Ford",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 7,
+    "Driver": "David Brabham",
+    "Constructor": "Brabham-Judd",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 36,
+    "Driver": "JJ Lehto",
+    "Constructor": "Onyx-Ford",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 35,
+    "Driver": "Gregor Foitek",
+    "Constructor": "Onyx-Ford",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNPQ",
+    "No": 33,
+    "Driver": "Roberto Moreno",
+    "Constructor": "EuroBrun-Judd",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNPQ",
+    "No": 18,
+    "Driver": "Yannick Dalmas",
+    "Constructor": "AGS-Ford",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNPQ",
+    "No": 34,
+    "Driver": "Claudio Langes",
+    "Constructor": "EuroBrun-Judd",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNPQ",
+    "No": 31,
+    "Driver": "Bertrand Gachot",
+    "Constructor": "Coloni-Subaru",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNPQ",
+    "No": 39,
+    "Driver": "Bruno Giacomelli",
+    "Constructor": "Life",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  }
+]

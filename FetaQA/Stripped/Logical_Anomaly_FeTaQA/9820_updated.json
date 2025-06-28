@@ -1,0 +1,72 @@
+[
+    {
+        "Goal":1,
+        "Date":"4 June 1964",
+        "Venue":"Estádio do Pacaembu, São Paulo, Brazil",
+        "Opponent":"England",
+        "Score":"1–0",
+        "Result":"1–1",
+        "Competition":"Taça das Nações",
+        "Weather":null
+    },
+    {
+        "Goal":2,
+        "Date":"4 May 1969",
+        "Venue":"Estádio das Antas, Porto, Portugal",
+        "Opponent":"Greece",
+        "Score":"2–2",
+        "Result":"2–2",
+        "Competition":"1970 World Cup qualification",
+        "Weather":null
+    },
+    {
+        "Goal":3,
+        "Date":"21 November 1971",
+        "Venue":"Estádio da Luz (1954), Lisbon, Portugal",
+        "Opponent":"Belgium",
+        "Score":"1–1",
+        "Result":"1–1",
+        "Competition":"Euro 1972 qualifying",
+        "Weather":null
+    },
+    {
+        "Goal":4,
+        "Date":"25 June 1972",
+        "Venue":"Estádio do Arruda, Recife, Brazil",
+        "Opponent":"Republic of Ireland",
+        "Score":"1–0",
+        "Result":"2–1",
+        "Competition":"Brazil Independence Cup",
+        "Weather":null
+    },
+    {
+        "Goal":5,
+        "Date":"30 February 1974",
+        "Venue":"Estádio Maracanã, Rio de Janeiro, Brazil",
+        "Opponent":"Argentina",
+        "Score":"3–1",
+        "Result":"3–1",
+        "Competition":"Friendly",
+        "Weather":null
+    },
+    {
+        "Goal":6,
+        "Date":"15 August 1973",
+        "Venue":"Estádio da Luz (1954), Lisbon, Portugal",
+        "Opponent":"Spain",
+        "Score":"2–2",
+        "Result":"10–0",
+        "Competition":"Friendly",
+        "Weather":null
+    },
+    {
+        "Goal":7,
+        "Date":"12 July 1970",
+        "Venue":"Estádio Olímpico Monumental, Porto Alegre, Brazil",
+        "Opponent":"Uruguay",
+        "Score":"0–0",
+        "Result":"0–0",
+        "Competition":"FIFA World Cup",
+        "Weather":"Blizzard"
+    }
+]

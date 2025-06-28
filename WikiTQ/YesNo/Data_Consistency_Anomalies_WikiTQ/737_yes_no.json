@@ -1,0 +1,62 @@
+[
+    {
+        "Year": "no",
+        "Order": "no",
+        "Quantity": "no",
+        "GER Nos.": "no"
+    },
+    {
+        "Year": "no",
+        "Order": "no",
+        "Quantity": "no",
+        "GER Nos.": "no"
+    },
+    {
+        "Year": "no",
+        "Order": "no",
+        "Quantity": "no",
+        "GER Nos.": "no"
+    },
+    {
+        "Year": "no",
+        "Order": "no",
+        "Quantity": "no",
+        "GER Nos.": "no"
+    },
+    {
+        "Year": "yes",
+        "Order": "yes",
+        "Quantity": "no",
+        "GER Nos.": "yes"
+    },
+    {
+        "Year": "yes",
+        "Order": "yes",
+        "Quantity": "no",
+        "GER Nos.": "yes"
+    },
+    {
+        "Year": "no",
+        "Order": "yes",
+        "Quantity": "no",
+        "GER Nos.": "yes"
+    },
+    {
+        "Year": "yes",
+        "Order": "yes",
+        "Quantity": "no",
+        "GER Nos.": "yes"
+    },
+    {
+        "Year": "no",
+        "Order": "yes",
+        "Quantity": "yes",
+        "GER Nos.": "yes"
+    },
+    {
+        "Year": "no",
+        "Order": "no",
+        "Quantity": "no",
+        "GER Nos.": "no"
+    }
+]

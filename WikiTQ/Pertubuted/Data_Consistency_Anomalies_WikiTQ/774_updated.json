@@ -1,0 +1,173 @@
+[
+    {
+        "#":1.0,
+        "Date":"10 October 2004",
+        "Venue":"Estadio Cuscatl\u00e1n, San Salvador, El Salvador",
+        "Opponent":"El Salvador",
+        "Score":"2\u20130",
+        "Result":"2\u20130",
+        "Competition":"@@@_2006 FIFA World Cup Qualification"
+    },
+    {
+        "#":2.0,
+        "Date":"13 October 2004",
+        "Venue":"RFK Stadium, Washington, D.C., United States",
+        "Opponent":"Panama",
+        "Score":"3\u20130",
+        "Result":"6\u20130",
+        "Competition":"2006 FIFA World Cup qualification"
+    },
+    {
+        "#":3.0,
+        "Date":"13 October 2004",
+        "Venue":"RFK Stadium, Washington, D.C., United States",
+        "Opponent":"Panama",
+        "Score":"4\u20130",
+        "Result":"6\u20130",
+        "Competition":"@@@_2006 FIFA World Cup Qualification"
+    },
+    {
+        "#":4.0,
+        "Date":"13 October 2004",
+        "Venue":"RFK Stadium, Washington, D.C., United States",
+        "Opponent":"Panama",
+        "Score":"5\u20130",
+        "Result":"6\u20130",
+        "Competition":"2006 FIFA World Cup qualification"
+    },
+    {
+        "#":5.0,
+        "Date":"17 November 2004",
+        "Venue":"Columbus Crew Stadium, Columbus, United States",
+        "Opponent":"Jamaica",
+        "Score":"1\u20130",
+        "Result":"1\u20131",
+        "Competition":"2006 FIFA World Cup qualification"
+    },
+    {
+        "#":6.0,
+        "Date":"9 February 2005",
+        "Venue":"Queen's Park Oval, Port of Spain, Trinidad",
+        "Opponent":"@@@_Trinidad & Tobago",
+        "Score":"1\u20130",
+        "Result":"2\u20131",
+        "Competition":"2006 FIFA World Cup qualification"
+    },
+    {
+        "#":7.0,
+        "Date":"19 March 2005",
+        "Venue":"University Stadium, Albuquerque, United States",
+        "Opponent":"Honduras",
+        "Score":"1\u20130",
+        "Result":"1\u20130",
+        "Competition":"Friendly"
+    },
+    {
+        "#":8.0,
+        "Date":"30 March 2005",
+        "Venue":"Legion Field, Birmingham, United States",
+        "Opponent":"Guatemala",
+        "Score":"1\u20130",
+        "Result":"2\u20130",
+        "Competition":"2006 FIFA World Cup qualification"
+    },
+    {
+        "#":9.0,
+        "Date":"19 February 2006",
+        "Venue":"Pizza Hut Park, Frisco, United States",
+        "Opponent":"Guatemala",
+        "Score":"3\u20130",
+        "Result":"4\u20130",
+        "Competition":"Friendly"
+    },
+    {
+        "#":10.0,
+        "Date":"9 June 2007",
+        "Venue":"The Home Depot Center, Carson, United States",
+        "Opponent":"Trinidad and Tobago",
+        "Score":"2\u20130",
+        "Result":"2\u20130",
+        "Competition":"2007 CONCACAF Gold Cup"
+    },
+    {
+        "#":11.0,
+        "Date":"28 June 2007",
+        "Venue":"Estadio Jos\u00e9 Pachencho Romero, Maracaibo, Venezuela",
+        "Opponent":"Argentina",
+        "Score":"1\u20130",
+        "Result":"1\u20134",
+        "Competition":"2007 Copa Am\u00e9rica"
+    },
+    {
+        "#":12.0,
+        "Date":"15 June 2008",
+        "Venue":"The Home Depot Center, Carson, United States",
+        "Opponent":"Barbados",
+        "Score":"6\u20130",
+        "Result":"8\u20130",
+        "Competition":"2010 FIFA World Cup qualification"
+    },
+    {
+        "#":13.0,
+        "Date":"12 October 2012",
+        "Venue":"Sir Vivian Richards Stadium, Antigua, Antigua and Barbuda",
+        "Opponent":"Antigua and Barbuda",
+        "Score":"1\u20130",
+        "Result":"2\u20131",
+        "Competition":"@@@_2014 FIFA World Cup Qualification"
+    },
+    {
+        "#":14.0,
+        "Date":"12 October 2012",
+        "Venue":"Sir Vivian Richards Stadium, Antigua, Antigua and Barbuda",
+        "Opponent":"Antigua and Barbuda",
+        "Score":"2\u20131",
+        "Result":"2\u20131",
+        "Competition":"2014 FIFA World Cup qualification"
+    },
+    {
+        "#":15.0,
+        "Date":"12 June 2013",
+        "Venue":"CenturyLink Field, Seattle, United States",
+        "Opponent":"Panama",
+        "Score":"2\u20130",
+        "Result":"2\u20130",
+        "Competition":"@@@_2014 FIFA World Cup Qualification"
+    },
+    {
+        "#":16.0,
+        "Date":"21 July 2013",
+        "Venue":"M&T Bank Stadium, Baltimore, United States",
+        "Opponent":"El Salvador",
+        "Score":"3\u20131",
+        "Result":"5\u20131",
+        "Competition":"2013 CONCACAF Gold Cup"
+    },
+    {
+        "#":17.0,
+        "Date":"24 July 2013",
+        "Venue":"Cowboys Stadium, Arlington, United States",
+        "Opponent":"Honduras",
+        "Score":"1\u20130",
+        "Result":"3\u20131",
+        "Competition":"2013 CONCACAF Gold Cup"
+    },
+    {
+        "#":18.0,
+        "Date":"14 August 2013",
+        "Venue":"Asim Ferhatovi\u0107 Hase Stadium, Sarajevo, Bosnia and Herzegovina",
+        "Opponent":"@@@_Bosnia & Herzegovina",
+        "Score":"1\u20132",
+        "Result":"4\u20133",
+        "Competition":"Friendly"
+    },
+    {
+        "#":19.0,
+        "Date":"10 September 2013",
+        "Venue":"Columbus Crew Stadium, Columbus, United States",
+        "Opponent":"Mexico",
+        "Score":"1\u20130",
+        "Result":"2\u20130",
+        "Competition":"2014 FIFA World Cup qualification"
+    }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "No.": "1",
+    "Country": "Canada",
+    "2009 Winter\nUniversiade": "24",
+    "2007 WJCC": "12",
+    "2007 WWCC": "9",
+    "2008 WJCC": "12",
+    "2008 WWCC": "10",
+    "Points": 67.0
+  },
+  {
+    "No.": "2",
+    "Country": "China",
+    "2009 Winter\nUniversiade": "28",
+    "2007 WJCC": "-",
+    "2007 WWCC": "14",
+    "2008 WJCC": "4",
+    "2008 WWCC": "6",
+    "Points": 52.0
+  },
+  {
+    "No.": "3",
+    "Country": "Sweden",
+    "2009 Winter\nUniversiade": "10",
+    "2007 WJCC": "5",
+    "2007 WWCC": "12",
+    "2008 WJCC": "14",
+    "2008 WWCC": "@@@_None",
+    "Points": 50.0
+  },
+  {
+    "No.": "4",
+    "Country": "Great Britain",
+    "2009 Winter\nUniversiade": "16",
+    "2007 WJCC": "14",
+    "2007 WWCC": "5",
+    "2008 WJCC": "1",
+    "2008 WWCC": "12",
+    "Points": "@@@_-44.0"
+  },
+  {
+    "No.": "5",
+    "Country": "Russia",
+    "2009 Winter\nUniversiade": "20",
+    "2007 WJCC": "8",
+    "2007 WWCC": "6",
+    "2008 WJCC": "6",
+    "2008 WWCC": "5",
+    "Points": 45.0
+  },
+  {
+    "No.": "6",
+    "Country": "United States",
+    "2009 Winter\nUniversiade": "4",
+    "2007 WJCC": "6",
+    "2007 WWCC": "4",
+    "2008 WJCC": "10",
+    "2008 WWCC": "8",
+    "Points": 32.0
+  },
+  {
+    "No.": "7",
+    "Country": "Switzerland",
+    "2009 Winter\nUniversiade": "-",
+    "2007 WJCC": "10",
+    "2007 WWCC": "8",
+    "2008 WJCC": "8",
+    "2008 WWCC": "3",
+    "Points": 29.0
+  },
+  {
+    "No.": "8",
+    "Country": "Germany",
+    "2009 Winter\nUniversiade": "-",
+    "2007 WJCC": "-",
+    "2007 WWCC": "7",
+    "2008 WJCC": "2",
+    "2008 WWCC": "14",
+    "Points": 23.0
+  },
+  {
+    "No.": "9",
+    "Country": "Denmark",
+    "2009 Winter\nUniversiade": "-",
+    "2007 WJCC": "3",
+    "2007 WWCC": "10",
+    "2008 WJCC": "-",
+    "2008 WWCC": "7",
+    "Points": 20.0
+  },
+  {
+    "No.": "10",
+    "Country": "Czech Republic",
+    "2009 Winter\nUniversiade": "12",
+    "2007 WJCC": "4",
+    "2007 WWCC": "-",
+    "2008 WJCC": "3",
+    "2008 WWCC": "-",
+    "Points": 19.0
+  },
+  {
+    "No.": "11",
+    "Country": "South Korea",
+    "2009 Winter\nUniversiade": "8",
+    "2007 WJCC": "-",
+    "2007 WWCC": "3",
+    "2008 WJCC": "-",
+    "2008 WWCC": "-",
+    "Points": "@@@_395.0"
+  },
+  {
+    "No.": "12",
+    "Country": "Japan",
+    "2009 Winter\nUniversiade": "6",
+    "2007 WJCC": "1",
+    "2007 WWCC": "-",
+    "2008 WJCC": "-",
+    "2008 WWCC": "2",
+    "Points": 9.0
+  },
+  {
+    "No.": "13",
+    "Country": "France",
+    "2009 Winter\nUniversiade": "-",
+    "2007 WJCC": "2",
+    "2007 WWCC": "-",
+    "2008 WJCC": "5",
+    "2008 WWCC": "-",
+    "Points": 7.0
+  },
+  {
+    "No.": "14",
+    "Country": "Norway",
+    "2009 Winter\nUniversiade": "-",
+    "2007 WJCC": "-",
+    "2007 WWCC": "2",
+    "2008 WJCC": "-",
+    "2008 WWCC": "4",
+    "Points": "@@@_559.0"
+  },
+  {
+    "No.": "15",
+    "Country": "Poland",
+    "2009 Winter\nUniversiade": "2",
+    "2007 WJCC": "-",
+    "2007 WWCC": "-",
+    "2008 WJCC": "-",
+    "2008 WWCC": "-",
+    "Points": 2.0
+  },
+  {
+    "No.": "16",
+    "Country": "Italy",
+    "2009 Winter\nUniversiade": "-",
+    "2007 WJCC": "-",
+    "2007 WWCC": "1",
+    "2008 WJCC": "-",
+    "2008 WWCC": "-",
+    "Points": 1.0
+  },
+  {
+    "No.": "17",
+    "Country": "Latvia",
+    "2009 Winter\nUniversiade": "-",
+    "2007 WJCC": "-",
+    "2007 WWCC": "-",
+    "2008 WJCC": "-",
+    "2008 WWCC": "1",
+    "Points": "@@@_None"
+  },
+  {
+    "No.": "-",
+    "Country": "Turkey (host)",
+    "2009 Winter\nUniversiade": "-",
+    "2007 WJCC": "-",
+    "2007 WWCC": "-",
+    "2008 WJCC": "-",
+    "2008 WWCC": "-",
+    "Points": 0.0
+  }
+]

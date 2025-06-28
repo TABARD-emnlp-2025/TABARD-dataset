@@ -1,0 +1,38 @@
+[
+    {
+        "Year":1993,
+        "Title":"Beautiful Thing",
+        "Role":"Ste",
+        "Notes":"Bush Theatre"
+    },
+    {
+        "Year":1999,
+        "Title":"Four Knights in Knaresborough",
+        "Role":"Brito",
+        "Notes":"Tricycle Theatre"
+    },
+    {
+        "Year":"@@@_2010",
+        "Title":"Festen",
+        "Role":"Christian",
+        "Notes":"Almeida Theatre"
+    },
+    {
+        "Year":2005,
+        "Title":"Someone Who'll Watch Over Me",
+        "Role":"Adam",
+        "Notes":"Ambassadors Theatre"
+    },
+    {
+        "Year":2009,
+        "Title":"After Miss Julie",
+        "Role":"John",
+        "Notes":"American Airlines Theatre"
+    },
+    {
+        "Year":2011,
+        "Title":"Frankenstein",
+        "Role":"Victor Frankenstein Frankenstein's Creature",
+        "Notes":"Royal National Theatre"
+    }
+]

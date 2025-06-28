@@ -1,0 +1,100 @@
+[
+    {
+        "Year":2002,
+        "Award":"Ardalion Award",
+        "Category":"Best Actor",
+        "Film":"****",
+        "Result":"Won"
+    },
+    {
+        "Year":2003,
+        "Award":"Ardalion Award",
+        "Category":"Best Actor",
+        "Film":"****",
+        "Result":"N/A"
+    },
+    {
+        "Year":2004,
+        "Award":"Apollon Prize",
+        "Category":"Best Actor",
+        "Film":"****",
+        "Result":"Won"
+    },
+    {
+        "Year":2005,
+        "Award":"Miloš Žutić Award",
+        "Category":"Best Actor in a Play",
+        "Film":"****",
+        "Result":"N/A"
+    },
+    {
+        "Year":2005,
+        "Award":"Zoran Radmilović Award",
+        "Category":"None",
+        "Film":"****",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2008,
+        "Award":"Zoran Radmilović Award",
+        "Category":"Best Actor in a Play",
+        "Film":"****",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Award":"Serbian Oscar of Popularity",
+        "Category":"Best Stage Actor",
+        "Film":"Timon of Athens",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"Ardalion Award",
+        "Category":"Best Stage Actor",
+        "Film":"****",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"Serbian Oscar of Popularity",
+        "Category":"Best Theatrical Performance",
+        "Film":"****",
+        "Result":"Won"
+    },
+    {
+        "Year":"1999",
+        "Award":"Golden Arena",
+        "Category":"Best Actor",
+        "Film":"****",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2013,
+        "Award":"Ardalion Award",
+        "Category":"Best Actor",
+        "Film":"****",
+        "Result":"N/A"
+    },
+    {
+        "Year":2013,
+        "Award":"Serbian Oscar of Popularity",
+        "Category":"Best Stage Actor",
+        "Film":"****",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Award":"Zoran Radmilovic Award",
+        "Category":"Best Actor in a Play",
+        "Film":"****",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Award":"Ljubinka Bobić Award",
+        "Category":"Best Stage Actor",
+        "Film":"****",
+        "Result":"Won"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Rank":1.0,
+        "Rider":"England Chris Heath",
+        "Team":"Electric Motorsport",
+        "Speed":"66.022 mph",
+        "Time":"34' 17.30"
+    },
+    {
+        "Rank":"@@@_nan",
+        "Rider":"England Chris Petty",
+        "Team":"Barefoot Motors",
+        "Speed":"62.219 mph",
+        "Time":"36' 23.06"
+    },
+    {
+        "Rank":3.0,
+        "Rider":"Isle of Man John Crellin",
+        "Team":"@@@_None",
+        "Speed":"@@@_1234-5678-9012-3456",
+        "Time":"37' 26.01"
+    }
+]

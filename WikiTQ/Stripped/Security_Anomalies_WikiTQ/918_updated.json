@@ -1,0 +1,138 @@
+[
+    {
+        "Week":1,
+        "Date":"September 11, 2005",
+        "Opponent":"Indianapolis Colts",
+        "Result":"L 24–7",
+        "Record":"0–1–0",
+        "Attendance":"70,501"
+    },
+    {
+        "Week":2,
+        "Date":"September 18, 2005",
+        "Opponent":"at Tennessee Titans",
+        "Result":"L 25–10",
+        "Record":"0–2–0",
+        "Attendance":"69,149"
+    },
+    {
+        "Week":3,
+        "Date":"Bye",
+        "Opponent":"Bye",
+        "Result":"Bye",
+        "Record":"Bye",
+        "Attendance":"Bye"
+    },
+    {
+        "Week":4,
+        "Date":"October 2, 2005",
+        "Opponent":"New York Jets",
+        "Result":"W 13–3",
+        "Record":"1–2–0",
+        "Attendance":"70,479"
+    },
+    {
+        "Week":5,
+        "Date":"October 9, 2005",
+        "Opponent":"at Detroit Lions",
+        "Result":"L 35–17",
+        "Record":"1–3–0",
+        "Attendance":"61,201"
+    },
+    {
+        "Week":6,
+        "Date":"October 16, 2005",
+        "Opponent":"Cleveland Browns",
+        "Result":"W 16–3",
+        "Record":"2–3–0",
+        "Attendance":"None"
+    },
+    {
+        "Week":7,
+        "Date":"October 23, 2005",
+        "Opponent":"at Chicago Bears",
+        "Result":"L 10–6",
+        "Record":"2–4–0",
+        "Attendance":"62,102"
+    },
+    {
+        "Week":8,
+        "Date":"October 31, 2005",
+        "Opponent":"at Pittsburgh Steelers",
+        "Result":"L 20–19",
+        "Record":"2–5‐0",
+        "Attendance":"64,178"
+    },
+    {
+        "Week":9,
+        "Date":"November 6, 2005",
+        "Opponent":"Cincinnati Bengals",
+        "Result":"L 21–9",
+        "Record":"2–6–0",
+        "Attendance":"70,540"
+    },
+    {
+        "Week":10,
+        "Date":"November 13, 2005",
+        "Opponent":"at Jacksonville Jaguars",
+        "Result":"L 30–3",
+        "Record":"2–7–0",
+        "Attendance":"66,107"
+    },
+    {
+        "Week":11,
+        "Date":"November 20, 2005",
+        "Opponent":"Pittsburgh Steelers",
+        "Result":"W 16–13 OT",
+        "Record":"3–7–0",
+        "Attendance":"70,601"
+    },
+    {
+        "Week":12,
+        "Date":"November 27, 2005",
+        "Opponent":"at Cincinnati Bengals",
+        "Result":"L 42–29",
+        "Record":"3–8‐0",
+        "Attendance":"65,680"
+    },
+    {
+        "Week":13,
+        "Date":"December 4, 2005",
+        "Opponent":"Houston Texans",
+        "Result":"W 16–15",
+        "Record":"4–8‐0",
+        "Attendance":"69,909"
+    },
+    {
+        "Week":14,
+        "Date":"December 11, 2005",
+        "Opponent":"at Denver Broncos",
+        "Result":"L 12–10",
+        "Record":"4’0–0",
+        "Attendance":"75,651"
+    },
+    {
+        "Week":15,
+        "Date":"December 19, 2005",
+        "Opponent":"Green Bay Packers",
+        "Result":"W 48–3",
+        "Record":"5’0‐0",
+        "Attendance":"70,604"
+    },
+    {
+        "Week":16,
+        "Date":"December 25, 2005",
+        "Opponent":"Minnesota Vikings",
+        "Result":"W 30–23",
+        "Record":"6’9‐0",
+        "Attendance":"70,246"
+    },
+    {
+        "Week":17,
+        "Date":"January 1, 2006",
+        "Opponent":"at Cleveland Browns",
+        "Result":"L 20–16",
+        "Record":"6–10‐0",
+        "Attendance":"69,871"
+    }
+]

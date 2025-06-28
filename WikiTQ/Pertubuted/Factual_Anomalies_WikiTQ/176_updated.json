@@ -1,0 +1,44 @@
+[
+    {
+        "Unnamed: 0":1,
+        "Marker name":"Clark Tannery",
+        "Location":"On So. Side NYS 52 At Eastern End of Jeffersonville",
+        "City or Town":"Callicoon, New York",
+        "Marker text":"@@@_Contained 182, Square Vats Produced 6,000,051 Lbs. Sole Leather In 1865. Ranked Second In Output In Sullivan County"
+    },
+    {
+        "Unnamed: 0":2,
+        "Marker name":"Early Sawmill",
+        "Location":"On W. Side NYS 52 At Southern End of Youngsville",
+        "City or Town":"Callicoon, New York",
+        "Marker text":"@@@_Built 1934 By Sam M. Young Followed In Turn By Turning Mill, Apple Brandy Distillery And Milk Manufacturing Plant"
+    },
+    {
+        "Unnamed: 0":3,
+        "Marker name":"First Clearing",
+        "Location":"On NYS 52 1 Mi. Youngsville",
+        "City or Town":"Callicoon, New York",
+        "Marker text":"@@@_In 1807 J.S. Jackson And C. Hurd Cleared Over 100 Acres For John De Witt At A Cost of 1,631.9S"
+    },
+    {
+        "Unnamed: 0":"@@@_6",
+        "Marker name":"@@@_Old Turnpike",
+        "Location":"@@@_On NYS 52 About 1\u00bd Mis. N.E. Jeffersonville",
+        "City or Town":"Callicoon, New York",
+        "Marker text":"@@@_Old Turnpike Jeffersonville To Monticello Toll Gate Twenty Miles East of This Point"
+    },
+    {
+        "Unnamed: 0":"@@@_15",
+        "Marker name":"@@@_Battle of Minisink",
+        "Location":"@@@_On NYS 97 About 1 Mi. West of Entrance To Battlefield.",
+        "City or Town":"@@@_Highland, New York",
+        "Marker text":"@@@_One of The Deadliest In Frontier Warfare, Between Militia And Brant's Tories And Mohawks, On This Hill July 22, 1979"
+    },
+    {
+        "Unnamed: 0":"@@@_25",
+        "Marker name":"@@@_Bloomingburgh",
+        "Location":"@@@_On NYS 17 At Bloomingburgh",
+        "City or Town":"@@@_Mamakating, New York",
+        "Marker text":"@@@_Site of First Newspaper, First Printing Office, First Circuit Court, And The First Academy In Sullivan County. Newspaper Published in 1700."
+    }
+]

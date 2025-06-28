@@ -1,0 +1,74 @@
+[
+    {
+        "Year":"No",
+        "Title":"No",
+        "Album":"No",
+        "US R&B":"No",
+        "US Pop":"Yes",
+        "US Dance":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Album":"No",
+        "US R&B":"Yes",
+        "US Pop":"No",
+        "US Dance":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Album":"No",
+        "US R&B":"No",
+        "US Pop":"No",
+        "US Dance":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Album":"No",
+        "US R&B":"No",
+        "US Pop":"No",
+        "US Dance":"No"
+    },
+    {
+        "Year":"Yes",
+        "Title":"No",
+        "Album":"No",
+        "US R&B":"Yes",
+        "US Pop":"No",
+        "US Dance":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Album":"No",
+        "US R&B":"No",
+        "US Pop":"No",
+        "US Dance":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Album":"No",
+        "US R&B":"No",
+        "US Pop":"No",
+        "US Dance":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Album":"No",
+        "US R&B":"No",
+        "US Pop":"No",
+        "US Dance":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Album":"No",
+        "US R&B":"Yes",
+        "US Pop":"No",
+        "US Dance":"No"
+    }
+]

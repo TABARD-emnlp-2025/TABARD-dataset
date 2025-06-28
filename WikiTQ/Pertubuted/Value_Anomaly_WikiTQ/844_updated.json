@@ -1,0 +1,189 @@
+[
+  {
+    "Rank": 1.0,
+    "Athlete": "Yaroslav Rybakov",
+    "Nationality": "Russia",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "o",
+    "2.27": "o",
+    "Result": "@@@_-2.2478571429",
+    "Notes": "q"
+  },
+  {
+    "Rank": 1.0,
+    "Athlete": "Andriy Sokolovskyy",
+    "Nationality": "Ukraine",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "o",
+    "2.27": "o",
+    "Result": 2.27,
+    "Notes": "q"
+  },
+  {
+    "Rank": 1.0,
+    "Athlete": "Stefan Holm",
+    "Nationality": "Sweden",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "o",
+    "2.27": "o",
+    "Result": 2.27,
+    "Notes": "q"
+  },
+  {
+    "Rank": 1.0,
+    "Athlete": "Andrey Tereshin",
+    "Nationality": "Russia",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "o",
+    "2.27": "o",
+    "Result": 2.27,
+    "Notes": "q"
+  },
+  {
+    "Rank": 1.0,
+    "Athlete": "Víctor Moya",
+    "Nationality": "Cuba",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "o",
+    "2.27": "o",
+    "Result": "@@@_None",
+    "Notes": "q, PB"
+  },
+  {
+    "Rank": 1.0,
+    "Athlete": "Linus Thörnblad",
+    "Nationality": "Sweden",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "o",
+    "2.27": "o",
+    "Result": 2.27,
+    "Notes": "q"
+  },
+  {
+    "Rank": 7.0,
+    "Athlete": "Giulio Ciotti",
+    "Nationality": "Italy",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "o",
+    "2.27": "xxx",
+    "Result": 2.24,
+    "Notes": "@@@_None"
+  },
+  {
+    "Rank": 8.0,
+    "Athlete": "Robert Wolski",
+    "Nationality": "Poland",
+    "2.15": "xo",
+    "2.20": "o",
+    "2.24": "o",
+    "2.27": "xxx",
+    "Result": 2.24,
+    "Notes": "q"
+  },
+  {
+    "Rank": 9.0,
+    "Athlete": "Ramsay Carelse",
+    "Nationality": "South Africa",
+    "2.15": "xo",
+    "2.20": "xo",
+    "2.24": "o",
+    "2.27": "xxx",
+    "Result": 2.24,
+    "Notes": "@@@_None"
+  },
+  {
+    "Rank": 10.0,
+    "Athlete": "Tora Harris",
+    "Nationality": "United States",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "xo",
+    "2.27": "xxx",
+    "Result": 2.24,
+    "Notes": null
+  },
+  {
+    "Rank": 10.0,
+    "Athlete": "Nicola Ciotti",
+    "Nationality": "Italy",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "xo",
+    "2.27": "xxx",
+    "Result": 2.24,
+    "Notes": null
+  },
+  {
+    "Rank": 10.0,
+    "Athlete": "Wojciech Theiner",
+    "Nationality": "Poland",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "xo",
+    "2.27": "xxx",
+    "Result": 2.24,
+    "Notes": null
+  },
+  {
+    "Rank": 13.0,
+    "Athlete": "Tomáš Janku",
+    "Nationality": "Czech Republic",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "xxo",
+    "2.27": "xxx",
+    "Result": 2.24,
+    "Notes": null
+  },
+  {
+    "Rank": 13.0,
+    "Athlete": "Mustapha Raifak",
+    "Nationality": "France",
+    "2.15": "o",
+    "2.20": "o",
+    "2.24": "xxo",
+    "2.27": "xxx",
+    "Result": 2.24,
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_-7.8235294118",
+    "Athlete": "Svatoslav Ton",
+    "Nationality": "Czech Republic",
+    "2.15": "o",
+    "2.20": "xo",
+    "2.24": "xxx",
+    "2.27": null,
+    "Result": 2.2,
+    "Notes": null
+  },
+  {
+    "Rank": 16.0,
+    "Athlete": "Adam Shunk",
+    "Nationality": "United States",
+    "2.15": "o",
+    "2.20": "xxx",
+    "2.24": null,
+    "2.27": "2.15",
+    "Result": null,
+    "Notes": null
+  },
+  {
+    "Rank": 16.0,
+    "Athlete": "Roman Fricke",
+    "Nationality": "Germany",
+    "2.15": "o",
+    "2.20": "xxx",
+    "2.24": null,
+    "2.27": "2.15",
+    "Result": null,
+    "Notes": null
+  }
+]

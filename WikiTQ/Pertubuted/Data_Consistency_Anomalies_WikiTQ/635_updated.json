@@ -1,0 +1,58 @@
+[
+    {
+        "Round":1,
+        "Selection":22,
+        "Player":"Desmond Trufant",
+        "Position":"CB",
+        "College":"Washington"
+    },
+    {
+        "Round":2,
+        "Selection":60,
+        "Player":"Robert Alford",
+        "Position":"CB",
+        "College":"Southeastern Louisiana"
+    },
+    {
+        "Round":4,
+        "Selection":127,
+        "Player":"Malliciah Goodman",
+        "Position":"DE",
+        "College":"Clemson"
+    },
+    {
+        "Round":4,
+        "Selection":133,
+        "Player":"Levine Toilolo",
+        "Position":"TE",
+        "College":"@@@_stanford"
+    },
+    {
+        "Round":5,
+        "Selection":153,
+        "Player":"Stansly Maponga",
+        "Position":"DE",
+        "College":"TCU"
+    },
+    {
+        "Round":7,
+        "Selection":243,
+        "Player":"Kemal Ishmael",
+        "Position":"S",
+        "College":"Central Florida"
+    },
+    {
+        "Round":7,
+        "Selection":244,
+        "Player":"Zeke Motta",
+        "Position":"S",
+        "College":"@@@_Notre dame"
+    },
+    {
+        "Round":7,
+        "Selection":249,
+        "Player":"Sean Renfree",
+        "Position":"QB",
+        "College":"@@@_DUKE"
+    }
+]

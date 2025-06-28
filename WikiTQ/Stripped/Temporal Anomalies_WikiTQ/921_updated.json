@@ -1,0 +1,114 @@
+[
+    {
+        "Season":2012,
+        "Date":"2 Dec 2011",
+        "Location":"Lake Louise, Canada",
+        "Discipline":"Downhill",
+        "Place":"2nd"
+    },
+    {
+        "Season":2012,
+        "Date":"28 Jan 2012",
+        "Location":"St. Moritz, Switzerland",
+        "Discipline":"Downhill",
+        "Place":"3rd"
+    },
+    {
+        "Season":2012,
+        "Date":"4 Feb 2012",
+        "Location":"Garmisch, Germany",
+        "Discipline":"Downhill",
+        "Place":"3rd"
+    },
+    {
+        "Season":2012,
+        "Date":"5 Feb 2012",
+        "Location":"Garmisch, Germany",
+        "Discipline":"Super-G",
+        "Place":"3rd"
+    },
+    {
+        "Season":2012,
+        "Date":"26 Feb 2012",
+        "Location":"Bansko, Bulgaria",
+        "Discipline":"Super-G",
+        "Place":"2nd"
+    },
+    {
+        "Season":2013,
+        "Date":"30 Nov 2012",
+        "Location":"Lake Louise, Canada",
+        "Discipline":"Downhill",
+        "Place":"3rd"
+    },
+    {
+        "Season":2013,
+        "Date":"1 Mar 2013",
+        "Location":"Garmisch, Germany",
+        "Discipline":"Super-G",
+        "Place":"1st"
+    },
+    {
+        "Season":2014,
+        "Date":"29 Nov 2013",
+        "Location":"Beaver Creek, USA",
+        "Discipline":"Downhill",
+        "Place":"2nd"
+    },
+    {
+        "Season":2014,
+        "Date":"1 Dec 2013",
+        "Location":"Beaver Creek, USA",
+        "Discipline":"Giant slalom",
+        "Place":"3rd"
+    },
+    {
+        "Season":2014,
+        "Date":"7 Dec 2013",
+        "Location":"Lake Louise, Canada",
+        "Discipline":"Downhill",
+        "Place":"2nd"
+    },
+    {
+        "Season":2014,
+        "Date":"8 Dec 2013",
+        "Location":"Lake Louise, Canada",
+        "Discipline":"Super-G",
+        "Place":"2nd"
+    },
+    {
+        "Season":2014,
+        "Date":"14 Dec 2013",
+        "Location":"St. Moritz, Switzerland",
+        "Discipline":"Super-G",
+        "Place":"1st"
+    },
+    {
+        "Season":2014,
+        "Date":"22 Dec 2013",
+        "Location":"Val-d'Isère, France",
+        "Discipline":"Giant slalom",
+        "Place":"1st"
+    },
+    {
+        "Season":2014,
+        "Date":"24 Jan 2014",
+        "Location":"Cortina d'Ampezzo, Italy",
+        "Discipline":"Downhill",
+        "Place":"2nd"
+    },
+    {
+        "Season":2014,
+        "Date":"25 Jan 2014",
+        "Location":"Cortina d'Ampezzo, Italy",
+        "Discipline":"Downhill",
+        "Place":"3rd"
+    },
+    {
+        "Season":2014,
+        "Date":"30 Mar 2013",
+        "Location":"Cortina d'Ampezzo, Italy",
+        "Discipline":"Super-G",
+        "Place":"2nd"
+    }
+]

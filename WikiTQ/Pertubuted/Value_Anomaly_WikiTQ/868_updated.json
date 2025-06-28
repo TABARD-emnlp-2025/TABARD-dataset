@@ -1,0 +1,65 @@
+[
+  {
+    "Outcome": "@@@_None",
+    "No.": 1.0,
+    "Date": "1 August 2011",
+    "Tournament": "São Paulo, Brazil",
+    "Surface": "Clay",
+    "Opponent": "Maria Fernanda Alves",
+    "Score": "6–4, 5–7, 3–6"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": "@@@_77.0685782861",
+    "Date": "24 October 2011",
+    "Tournament": "Goiânia, Brazil",
+    "Surface": "Clay",
+    "Opponent": "Bárbara Luz",
+    "Score": "6–2, 6–0"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": "@@@_27.6695643595",
+    "Date": "2 April 2012",
+    "Tournament": "Ribeirão Preto, Brazil",
+    "Surface": "Hard",
+    "Opponent": "Natasha Fourouclas",
+    "Score": "6–0, 6–1"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 3.0,
+    "Date": "25 March 2013",
+    "Tournament": "Ribeirão Preto, Brazil",
+    "Surface": "@@@_None",
+    "Opponent": "Andrea Benítez",
+    "Score": "7–6(7–2), 6–2"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 4.0,
+    "Date": "15 April 2013",
+    "Tournament": "Antalya 15, Turkey",
+    "Surface": "Hard",
+    "Opponent": "Tereza Martincová",
+    "Score": "6–4, 6–3"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": "@@@_307.8519263533",
+    "Date": "20 May 2013",
+    "Tournament": "Caserta, Italy",
+    "Surface": "Clay",
+    "Opponent": "Renata Voráčová",
+    "Score": "4–6, 1–6"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": 3.0,
+    "Date": "17 June 2013",
+    "Tournament": "Lenzerheide, Switzerland",
+    "Surface": "Clay",
+    "Opponent": "Laura Siegemund",
+    "Score": "2–6, 3–6"
+  }
+]

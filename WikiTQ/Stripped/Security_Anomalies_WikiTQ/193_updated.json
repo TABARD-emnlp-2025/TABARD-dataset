@@ -1,0 +1,261 @@
+[
+    {
+        "Year":1961,
+        "Artist":"Eddie Harris",
+        "Album":"“Exodus” (single)",
+        "Chart Position":"#16 R&B, #36 US",
+        "Role":"Remastering Engineer"
+    },
+    {
+        "Year":1968,
+        "Artist":"Eddie Harris",
+        "Album":"“It’s Crazy” (single)",
+        "Chart Position":"#88 US",
+        "Role":"Remastering Engineer"
+    },
+    {
+        "Year":1969,
+        "Artist":"Eddie Harris & Les McCann",
+        "Album":"Swiss Movement",
+        "Chart Position":"#1 Jazz, #2 R&B, #29 US",
+        "Role":"Remixing & Remastering Engineer"
+    },
+    {
+        "Year":1969,
+        "Artist":"R.B. Greaves",
+        "Album":"R.B. Greaves",
+        "Chart Position":"#24 R&B, #85 US",
+        "Role":"Mixing Engineer"
+    },
+    {
+        "Year":1971,
+        "Artist":"Eddie Harris & Les McCann",
+        "Album":"Second Movement",
+        "Chart Position":"#1 Jazz, # 41 US",
+        "Role":"Recording and Remastering Engineer"
+    },
+    {
+        "Year":1971,
+        "Artist":"Les McCann",
+        "Album":"Invitation to Openness",
+        "Chart Position":"#8 Jazz",
+        "Role":"Remastering Engineer"
+    },
+    {
+        "Year":1971,
+        "Artist":"Donny Hathaway",
+        "Album":"Donny Hathaway",
+        "Chart Position":"#6 R&B, #89 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1972,
+        "Artist":"Roberta Flack & Donny Hathaway",
+        "Album":"Roberta Flack & Donny Hathaway",
+        "Chart Position":"#3 US, #2 R&B, #10 Jazz",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1972,
+        "Artist":"Cream",
+        "Album":"Live Cream Volume II",
+        "Chart Position":"#27 US",
+        "Role":"Remixing Engineer"
+    },
+    {
+        "Year":1972,
+        "Artist":"Herbie Mann",
+        "Album":"Hold On, I’m Coming",
+        "Chart Position":"#7 Jazz",
+        "Role":"Mixing Engineer"
+    },
+    {
+        "Year":1973,
+        "Artist":"Bette Midler",
+        "Album":"Bette Midler",
+        "Chart Position":"#6 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1973,
+        "Artist":"Hall & Oates",
+        "Album":"Abandoned Luncheonette",
+        "Chart Position":"#33 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1973,
+        "Artist":"Willie Nelson",
+        "Album":"Shotgun Willie",
+        "Chart Position":"#41 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1973,
+        "Artist":"Les McCann",
+        "Album":"Layers",
+        "Chart Position":"#5 Jazz",
+        "Role":"Remastering Engineer"
+    },
+    {
+        "Year":1973,
+        "Artist":"The Modern Jazz Quartet",
+        "Album":"Blues on Bach",
+        "Chart Position":"#34 Jazz",
+        "Role":"Recording and Mixing Engineer"
+    },
+    {
+        "Year":1973,
+        "Artist":"Donny Hathaway",
+        "Album":"Extension of a Man",
+        "Chart Position":"#18 R&B, #69 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1973,
+        "Artist":"Bee Gees",
+        "Album":"Mr. Natural",
+        "Chart Position":"#178 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1974,
+        "Artist":"The Modern Jazz Quartet",
+        "Album":"The Complete Last Concert",
+        "Chart Position":"#34 Jazz",
+        "Role":"Mixing Engineer"
+    },
+    {
+        "Year":1976,
+        "Artist":"The Rolling Stones",
+        "Album":"Black and Blue",
+        "Chart Position":"#1 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1976,
+        "Artist":"Willie Nelson",
+        "Album":"The Troublemaker",
+        "Chart Position":"#1 Country, #60 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1977,
+        "Artist":"Ben E. King",
+        "Album":"Benny & Us",
+        "Chart Position":"#14 R&B, #33 US",
+        "Role":"None"
+    },
+    {
+        "Year":1979,
+        "Artist":"Bette Midler",
+        "Album":"Thighs and Whispers",
+        "Chart Position":"#65 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1983,
+        "Artist":"Paul Simon",
+        "Album":"Hearts and Bones",
+        "Chart Position":"#35 US",
+        "Role":"Recording Engineer"
+    },
+    {
+        "Year":1993,
+        "Artist":"David “Fathead” Newman",
+        "Album":"Bigger & Better",
+        "Chart Position":"#10 Jazz, #42 R&B",
+        "Role":"Remastering Engineer"
+    },
+    {
+        "Year":1998,
+        "Artist":"Various Artists",
+        "Album":"Jazz for the Open Road",
+        "Chart Position":"#1 Jazz",
+        "Role":"Mastering Engineer"
+    },
+    {
+        "Year":1998,
+        "Artist":"Various Artists",
+        "Album":"Jazz for the Quiet Times",
+        "Chart Position":"#1 Jazz",
+        "Role":"Mastering Engineer"
+    },
+    {
+        "Year":1999,
+        "Artist":"Various Artists",
+        "Album":"Jazz for When You’re Alone",
+        "Chart Position":"#1 Jazz",
+        "Role":"Mastering Engineer"
+    },
+    {
+        "Year":1999,
+        "Artist":"Various Artists",
+        "Album":"Jazz for a Lazy Day",
+        "Chart Position":"#4 Jazz",
+        "Role":"Mastering Engineer"
+    },
+    {
+        "Year":2000,
+        "Artist":"Various Artists",
+        "Album":"Jazz for a Rainy Afternoon",
+        "Chart Position":"#1 Jazz",
+        "Role":"Mastering Engineer"
+    },
+    {
+        "Year":2000,
+        "Artist":"Jane Monheit",
+        "Album":"Never Never Land",
+        "Chart Position":"#2 Jazz",
+        "Role":"Mixing & Mastering Engineer"
+    },
+    {
+        "Year":2000,
+        "Artist":"Various Artists",
+        "Album":"Jazz for When You’re in Love",
+        "Chart Position":"#9 Jazz",
+        "Role":"Mastering Engineer"
+    },
+    {
+        "Year":2001,
+        "Artist":"Jane Monheit",
+        "Album":"Come Dream with Me",
+        "Chart Position":"#1 Jazz",
+        "Role":"Mixing & Mastering Engineer"
+    },
+    {
+        "Year":2002,
+        "Artist":"Jane Monheit",
+        "Album":"In the Sun",
+        "Chart Position":"#2 Jazz",
+        "Role":"Recording, Mixing & Mastering Engineer"
+    },
+    {
+        "Year":2003,
+        "Artist":"Various Artists",
+        "Album":"Jazz for Those Peaceful Moments",
+        "Chart Position":"#4 Jazz",
+        "Role":"Mastering Engineer"
+    },
+    {
+        "Year":2007,
+        "Artist":"Mocean Worker",
+        "Album":"Cinco de Mowo!",
+        "Chart Position":"#16 Electronic",
+        "Role":"Mastering Engineer"
+    },
+    {
+        "Year":2007,
+        "Artist":"Mocean Worker",
+        "Album":"Cinco de Mowo!",
+        "Chart Position":"#16 Electronic",
+        "Role":"Admin"
+    },
+    {
+        "Year":1983,
+        "Artist":"Paul Simon",
+        "Album":"Hearts and Bones",
+        "Chart Position":"#35 US",
+        "Role":"Viewer"
+    }
+]

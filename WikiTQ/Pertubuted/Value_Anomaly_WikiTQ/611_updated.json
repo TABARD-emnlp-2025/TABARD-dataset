@@ -1,0 +1,282 @@
+[
+  {
+    "Sr. No.": 1.0,
+    "Train No.": 18238,
+    "Name of the Train": "Chhatisgarh Express",
+    "Arrival": "01:23",
+    "Departure": "01:25",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 2.0,
+    "Train No.": 12160,
+    "Name of the Train": "Jabalpur-Amravati SF",
+    "Arrival": "04:51",
+    "Departure": "04:53",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 3.0,
+    "Train No.": 51294,
+    "Name of the Train": "Amla-Nagpur Pass",
+    "Arrival": "06:39",
+    "Departure": "06:40",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 4.0,
+    "Train No.": 12913,
+    "Name of the Train": "Indore-Nag Tri. Exp",
+    "Arrival": "06:49",
+    "Departure": "06:51",
+    "Day": "M"
+  },
+  {
+    "Sr. No.": 5.0,
+    "Train No.": 19301,
+    "Name of the Train": "Indore-Yashwantpur Exp",
+    "Arrival": "07:20",
+    "Departure": "07:25",
+    "Day": "M"
+  },
+  {
+    "Sr. No.": 6.0,
+    "Train No.": 12406,
+    "Name of the Train": "Nizamuddin-Bhusaval Gondwana Exp",
+    "Arrival": "07:25",
+    "Departure": "07:27",
+    "Day": "M,St"
+  },
+  {
+    "Sr. No.": 7.0,
+    "Train No.": 12410,
+    "Name of the Train": "Nizamuddin-Raigarh Gondwana Exp",
+    "Arrival": "07:25",
+    "Departure": "07:27",
+    "Day": "S,M,Tu,W,T,F"
+  },
+  {
+    "Sr. No.": 8.0,
+    "Train No.": 51151,
+    "Name of the Train": "New Amravati-Narkhed Pass",
+    "Arrival": "08:30",
+    "Departure": "N/a",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 9.0,
+    "Train No.": 22112,
+    "Name of the Train": "Nagpur-Bhusaval SF",
+    "Arrival": "08:37",
+    "Departure": "08:39",
+    "Day": "M,T,St"
+  },
+  {
+    "Sr. No.": 10.0,
+    "Train No.": 11045,
+    "Name of the Train": "Dikshsabhoomi Exp",
+    "Arrival": "08:53",
+    "Departure": "08:55",
+    "Day": "St"
+  },
+  {
+    "Sr. No.": "@@@_317.4212782452",
+    "Train No.": 16359,
+    "Name of the Train": "Ernakulam-Patna Exp",
+    "Arrival": "08:53",
+    "Departure": "08:55",
+    "Day": "M"
+  },
+  {
+    "Sr. No.": 12.0,
+    "Train No.": 51829,
+    "Name of the Train": "Nagpur-Agra Pass",
+    "Arrival": "09:41",
+    "Departure": "09:42",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 13.0,
+    "Train No.": 12861,
+    "Name of the Train": "@@@_None",
+    "Arrival": "10:43",
+    "Departure": "10:44",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 14.0,
+    "Train No.": 12721,
+    "Name of the Train": "Dakshin Express",
+    "Arrival": "10:43",
+    "Departure": "10:44",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 15.0,
+    "Train No.": 12616,
+    "Name of the Train": "Grand Trunk(GT) Exp",
+    "Arrival": "10:49",
+    "Departure": "10:51",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 16.0,
+    "Train No.": 19714,
+    "Name of the Train": "Sec-Jaipur Exp",
+    "Arrival": "11:58",
+    "Departure": "12:00",
+    "Day": "Tu"
+  },
+  {
+    "Sr. No.": 17.0,
+    "Train No.": 11203,
+    "Name of the Train": "Nagpur-Jaipur Weekly Express",
+    "Arrival": "13:03",
+    "Departure": "13:05",
+    "Day": "T"
+  },
+  {
+    "Sr. No.": 18.0,
+    "Train No.": 12615,
+    "Name of the Train": "Grand Trunk(GT) Exp",
+    "Arrival": "13:30",
+    "Departure": "13:32",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 19.0,
+    "Train No.": 12405,
+    "Name of the Train": "Bhusaval-H.Nizamuddin Gondwana Exp",
+    "Arrival": "14:08",
+    "Departure": "14:10",
+    "Day": "S,Tu,"
+  },
+  {
+    "Sr. No.": 20.0,
+    "Train No.": 12409,
+    "Name of the Train": "Raigarh-H.Nizamuddin- Gondwana Exp",
+    "Arrival": "14:08",
+    "Departure": "14:10",
+    "Day": "M,W,T,F,St"
+  },
+  {
+    "Sr. No.": 21.0,
+    "Train No.": 16360,
+    "Name of the Train": "Patna-Ernakulam Exp",
+    "Arrival": "14:08",
+    "Departure": "14:10",
+    "Day": "W"
+  },
+  {
+    "Sr. No.": "@@@_-27.3059889995",
+    "Train No.": 11046,
+    "Name of the Train": "Dikshsabhoomi Exp",
+    "Arrival": "14:09",
+    "Departure": "14:10",
+    "Day": "Tu"
+  },
+  {
+    "Sr. No.": 23.0,
+    "Train No.": 22111,
+    "Name of the Train": "Bhusaval_Nagpur SF",
+    "Arrival": "14:36",
+    "Departure": "14:38",
+    "Day": "S,W,F"
+  },
+  {
+    "Sr. No.": 24.0,
+    "Train No.": 19713,
+    "Name of the Train": "Jaipur-Sec Exp",
+    "Arrival": "15:48",
+    "Departure": "15:50",
+    "Day": "Tu"
+  },
+  {
+    "Sr. No.": 25.0,
+    "Train No.": 12722,
+    "Name of the Train": "Dakshin Express",
+    "Arrival": "16:00",
+    "Departure": "16:02",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": "@@@_351.7096149816",
+    "Train No.": 51183,
+    "Name of the Train": "Bhusaval-Narkhed Pass",
+    "Arrival": "16:00",
+    "Departure": "N/a",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 27.0,
+    "Train No.": 11204,
+    "Name of the Train": "Jaipur-Nagpur Exp",
+    "Arrival": "17:24",
+    "Departure": "17:25",
+    "Day": "St"
+  },
+  {
+    "Sr. No.": 28.0,
+    "Train No.": 19302,
+    "Name of the Train": "Yashwantpur-Indore Exp",
+    "Arrival": "17:35",
+    "Departure": "17:40",
+    "Day": "W"
+  },
+  {
+    "Sr. No.": "@@@_-34.6521401208",
+    "Train No.": 51830,
+    "Name of the Train": "Agra-Nagpur Pass",
+    "Arrival": "18:04",
+    "Departure": "18:05",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 30.0,
+    "Train No.": 51293,
+    "Name of the Train": "Nagpur-Amla Pass",
+    "Arrival": "19:55",
+    "Departure": "20:00",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 31.0,
+    "Train No.": 12914,
+    "Name of the Train": "Nagpur-Indore Tri. Exp",
+    "Arrival": "20:08",
+    "Departure": "20:10",
+    "Day": "M"
+  },
+  {
+    "Sr. No.": 32.0,
+    "Train No.": 12159,
+    "Name of the Train": "Amravati-Jabalpur SF",
+    "Arrival": "22:30",
+    "Departure": "22:32",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 33.0,
+    "Train No.": 18237,
+    "Name of the Train": "Chhatisgarh Express",
+    "Arrival": "23:09",
+    "Departure": "23:10",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 34.0,
+    "Train No.": 51152,
+    "Name of the Train": "Narkhed-New Amravati Pass",
+    "Arrival": "N/a",
+    "Departure": "18:00",
+    "Day": "Daily"
+  },
+  {
+    "Sr. No.": 35.0,
+    "Train No.": 51184,
+    "Name of the Train": "Bhusaval-Narkhed Pass",
+    "Arrival": "N/a",
+    "Departure": "09:00",
+    "Day": "Daily"
+  }
+]

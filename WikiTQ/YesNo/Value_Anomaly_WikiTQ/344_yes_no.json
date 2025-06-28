@@ -1,0 +1,58 @@
+[
+    {
+        "Player":"No",
+        "Games Played":"No",
+        "Field Goals":"No",
+        "Free Throws":"No",
+        "Points":"No"
+    },
+    {
+        "Player":"Yes",
+        "Games Played":"Yes",
+        "Field Goals":"No",
+        "Free Throws":"Yes",
+        "Points":"No"
+    },
+    {
+        "Player":"No",
+        "Games Played":"No",
+        "Field Goals":"Yes",
+        "Free Throws":"No",
+        "Points":"No"
+    },
+    {
+        "Player":"No",
+        "Games Played":"No",
+        "Field Goals":"No",
+        "Free Throws":"No",
+        "Points":"No"
+    },
+    {
+        "Player":"No",
+        "Games Played":"No",
+        "Field Goals":"No",
+        "Free Throws":"No",
+        "Points":"No"
+    },
+    {
+        "Player":"No",
+        "Games Played":"No",
+        "Field Goals":"No",
+        "Free Throws":"No",
+        "Points":"No"
+    },
+    {
+        "Player":"No",
+        "Games Played":"No",
+        "Field Goals":"Yes",
+        "Free Throws":"No",
+        "Points":"No"
+    },
+    {
+        "Player":"No",
+        "Games Played":"No",
+        "Field Goals":"No",
+        "Free Throws":"No",
+        "Points":"No"
+    }
+]

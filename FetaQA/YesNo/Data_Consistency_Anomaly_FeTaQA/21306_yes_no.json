@@ -1,0 +1,37 @@
+[
+    {
+        "Channel": "No",
+        "Video": "No",
+        "Aspect": "No",
+        "PSIP Short Name": "No",
+        "Programming": "No"
+    },
+    {
+        "Channel": "No",
+        "Video": "No",
+        "Aspect": "Yes",
+        "PSIP Short Name": "No",
+        "Programming": "No"
+    },
+    {
+        "Channel": "No",
+        "Video": "No",
+        "Aspect": "No",
+        "PSIP Short Name": "No",
+        "Programming": "Yes"
+    },
+    {
+        "Channel": "No",
+        "Video": "No",
+        "Aspect": "No",
+        "PSIP Short Name": "No",
+        "Programming": "Yes"
+    },
+    {
+        "Channel": "No",
+        "Video": "No",
+        "Aspect": "No",
+        "PSIP Short Name": "No",
+        "Programming": "No"
+    }
+]

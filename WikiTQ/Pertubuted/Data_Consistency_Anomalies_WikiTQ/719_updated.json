@@ -1,0 +1,92 @@
+[
+    {
+        "Year":1978,
+        "Matches":"4",
+        "Winner":"Pakistan win",
+        "Results":"3 - 1",
+        "Pakistan\nCaptain":"Islahuddin Siddique",
+        "Pakistan\nCoach":"Sayad A. Hussain",
+        "India\nCaptain":"V. J. Philips",
+        "India\nCoach":"R. S. Gentle"
+    },
+    {
+        "Year":1981,
+        "Matches":"4",
+        "Winner":"Pakistan win",
+        "Results":"2 - 1",
+        "Pakistan\nCaptain":"Akhtar Rasool",
+        "Pakistan\nCoach":"Zakauddin",
+        "India\nCaptain":"Surjeet Singh",
+        "India\nCoach":"Harmeek Singh"
+    },
+    {
+        "Year":1986,
+        "Matches":"7",
+        "Winner":"@@@_India Win",
+        "Results":"3 - 2",
+        "Pakistan\nCaptain":"Hassan Sardar",
+        "Pakistan\nCoach":"Anwar Ahmad Khan",
+        "India\nCaptain":"Mohmmad Shaheed",
+        "India\nCoach":"M. P. Ganesh"
+    },
+    {
+        "Year":1988,
+        "Matches":"6",
+        "Winner":"Draw",
+        "Results":"2 - 2",
+        "Pakistan\nCaptain":"Nasir Ali",
+        "Pakistan\nCoach":"Manzoor-ul-Hasan",
+        "India\nCaptain":"M. M. Somaya",
+        "India\nCoach":"M. P. Ganesh"
+    },
+    {
+        "Year":1998,
+        "Matches":"@@@_8",
+        "Winner":"Pakistan win",
+        "Results":"4 - 3",
+        "Pakistan\nCaptain":"Tahir Zaman",
+        "Pakistan\nCoach":"Islahuddin Siddique",
+        "India\nCaptain":"Dhanraj Pillay",
+        "India\nCoach":"V Bhaskaran"
+    },
+    {
+        "Year":1999,
+        "Matches":"9",
+        "Winner":"@@@_Pakistan Win",
+        "Results":"5 - 3",
+        "Pakistan\nCaptain":"Atif Bashir",
+        "Pakistan\nCoach":"Shahnaz Shaikh",
+        "India\nCaptain":"Anil Aldrin",
+        "India\nCoach":"V Bhaskaran"
+    },
+    {
+        "Year":2004,
+        "Matches":"8",
+        "Winner":"@@@_Pakistan Win",
+        "Results":"4 - 2",
+        "Pakistan\nCaptain":"Waseem Ahmad",
+        "Pakistan\nCoach":"Roelant Oltmans",
+        "India\nCaptain":"Dileep Tirkey",
+        "India\nCoach":"Gehard Rach"
+    },
+    {
+        "Year":2006,
+        "Matches":"6",
+        "Winner":"Pakistan win",
+        "Results":"3 - 1",
+        "Pakistan\nCaptain":"Mohammad Saqlain",
+        "Pakistan\nCoach":"Asif Bajwa",
+        "India\nCaptain":"Ignace Tirkey",
+        "India\nCoach":"Rajinder Singh Jr."
+    },
+    {
+        "Year":2013,
+        "Matches":"TBA",
+        "Winner":"TBA",
+        "Results":"TBA",
+        "Pakistan\nCaptain":"@@@_None",
+        "Pakistan\nCoach":"TBA",
+        "India\nCaptain":"TBA",
+        "India\nCoach":"TBA"
+    }
+]

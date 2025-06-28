@@ -1,0 +1,1147 @@
+Table: 10796.json
+GPT Response for 10796:
+```json
+[
+    {"-": "Population", "Total": 7159, "Male": 3645, "Female": 3514},
+    {"-": "Children aged below 6 years", "Total": 913, "Male": 479, "Female": 434},
+    {"-": "Scheduled caste", "Total": 1782, "Male": 890, "Female": 892},
+    {"-": "Scheduled tribe", "Total": 744, "Male": 383, "Female": 361},
+    {"-": "Literates", "Total": 4323, "Male": 2642, "Female": 1681},
+    {"-": "Workers (all)", "Total": 3612, "Male": 2007, "Female": 1605},
+    {"-": "Main workers (total)", "Total": 2187, "Male": 1463, "Female": 724},
+    {"-": "Main workers: Cultivators", "Total": 756, "Male": 500, "Female": 256},
+    {"-": "Main workers: Agricultural labourers", "Total": 800, "Male": 450, "Female": 350},  // Partial dependency anomaly
+    {"-": "Main workers: Household industry workers", "Total": "107, 50", "Male": 86, "Female": 21},  // Repeating group anomaly
+    {"-": "Main workers: Other", "Total": 494, "Male": 434, "Female": 60},
+    {"-": "Non-workers (total)", "Total": 3547, "Male": 1638, "Female": 1909}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 10, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'Male' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'Female' was modified.
+
+Table: 12044.json
+GPT Response for 12044:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Burslem Port Vale","Season":"1882–83","Division":"–","League":0,"FA Cup":0,"Other":"1,2","Total":1},
+    {"Club":"Burslem Port Vale","Season":"1883–84","Division":"–","League":0,"FA Cup":0,"Other":12,"Total":10},
+    {"Club":"Burslem Port Vale","Season":"1884–85","Division":"–","League":0,"FA Cup":0,"Other":21,"Total":23},
+    {"Club":"Burslem Port Vale","Season":"1885–86","Division":"–","League":0,"FA Cup":4,"Other":18,"Total":22},
+    {"Club":"Burslem Port Vale","Season":"1886–87","Division":"–","League":0,"FA Cup":"3,2","Other":20,"Total":23},
+    {"Club":"Burslem Port Vale","Season":"1887–88","Division":"–","League":0,"FA Cup":0,"Other":11,"Total":11},
+    {"Club":"Burslem Port Vale","Season":"1888–89","Division":"Combination","League":4,"FA Cup":0,"Other":"3,1","Total":7},
+    {"Club":"Burslem Port Vale","Season":"1889–90","Division":"–","League":0,"FA Cup":0,"Other":7,"Total":7},
+    {"Club":"Burslem Port Vale","Season":"1890–91","Division":"Midland League","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Burslem Port Vale","Season":"1891–92","Division":"Midland League","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Burslem Port Vale","Season":"Total","Division":"Total","League":4,"FA Cup":7,"Other":93,"Total":104}
+]
+```
+
+Changes and Anomalies Introduced:
+
+1. **Repeating Groups (1NF Violation):** In the "Other" and "FA Cup" columns, added multiple values in a single cell (e.g., "1,2" in the "Other" column for the 1882–83 season and "3,2" in the "FA Cup" column for the 1886–87 season).
+
+2. **Denormalization:** Changed the "Total" for the 1883–84 season to 10, which does not accurately reflect the sum of individual goals, violating the principle of storing derived values.
+
+3. **Denormalization:** Changed the "Total" for the 1884–85 season to 23, which does not match the sum of individual goals, introducing inconsistency in computed totals.
+
+4. **Repeating Groups (1NF Violation):** Added multiple values in the "Other" column for the 1888–89 season ("3,1"), further breaking the atomicity rule.
+
+These modifications introduce various normalization anomalies into the dataset, creating inconsistencies and redundancies.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'FA Cup' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 2, column 'Other' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 8, column 'Other' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+
+Table: 12054.json
+GPT Response for 12054:
+```json
+[
+    {"Club":"Club","Season":"Season","League":"Goals","FA Cup":"Goals","Total":"Goals"},
+    {"Club":"Stoke","Season":"1912–13","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"1913–14","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"1914–15","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"1919–20","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"1920–21","League":"0, 1","FA Cup":0,"Total":1},  // 1NF Violation: Repeating Groups
+    {"Club":"Stoke","Season":"1921–22","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"1922–23","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"1923–24","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"1924–25","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"1925–26","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"Total","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Doncaster Rovers","Season":"1926–27","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Doncaster Rovers","Season":"1927–28","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Doncaster Rovers","Season":"1928–29","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Doncaster Rovers","Season":"1929–30","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Doncaster Rovers","Season":"Total","League":"0, 2","FA Cup":0,"Total":2},  // 1NF Violation: Repeating Groups
+    {"Club":"Career total","Season":"Career total","League":0,"FA Cup":0,"Total":0}
+]
+```
+
+In this modified dataset, I've introduced two normalization anomalies:
+
+1. **Repeating Groups (1NF Violation):** For the `League` column in the `Stoke` and `Doncaster Rovers` Total rows, I've introduced multiple values within a single cell to violate the First Normal Form (1NF), which requires atomic values. This creates a repeating group within a single column.
+
+2. **Denormalization (Derived Values):** The `Total` column now holds a direct sum of the `League` values that include non-atomic data, as seen in the `Doncaster Rovers` Total row. This can lead to inconsistencies if the `League` column values are not correctly interpreted as individual integers.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 17, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 17, column 'Total' was modified.
+
+Table: 12081.json
+GPT Response for 12081:
+```json
+[
+    {"Club":"Club","Season":"Season","League":"Goals","Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Lleida Esportiu","Season":"2011–12","League":1,"Cup":1,"Other":0,"Total":2},
+    {"Club":"Lleida Esportiu","Season":"2012–13","League":4,"Cup":0,"Other":0,"Total":5},  // Transitive Dependency: Total depends on League
+    {"Club":"Lleida Esportiu","Season":"2013–14","League":5,"Cup":1,"Other":0,"Total":7},  // Transitive Dependency: Total depends on League
+    {"Club":"Lleida Esportiu","Season":"Total","League":10,"Cup":2,"Other":0,"Total":12},
+    {"Club":"Getafe","Season":"2014–15","League":0,"Cup":0,"Other":0,"Total":0},
+    {"Club":"Getafe B","Season":"2014–15","League":6,"Cup":0,"Other":0,"Total":6},
+    {"Club":"UD Logroñés","Season":"2015–16","League":18,"Cup":0,"Other":0,"Total":18},
+    {"Club":"UCAM Murcia (loan)","Season":"2016–17","League":0,"Cup":0,"Other":0,"Total":1},  // Partial Dependency: Total depends on League
+    {"Club":"Numancia (loan)","Season":"2017–18","League":6,"Cup":0,"Other":0,"Total":7},  // Partial Dependency: Total depends on League
+    {"Club":"Eibar","Season":"2018–19","League":0,"Cup":0,"Other":0,"Total":0},
+    {"Club":"Career totals","Season":"Career totals","League":41,"Cup":2,"Other":0,"Total":45} // Total is denormalized, doesn't match sum
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 10, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 12, column 'Total' was modified.
+
+Table: 12577.json
+GPT Response for 12577:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Bristol City","Season":"1945–46","Division":"–","League":0,"FA Cup":1,"Other":0,"Total":1},
+    {"Club":"Newcastle United","Season":"1946–47","Division":"Second Division","League":19,"FA Cup":3,"Other":0,"Total":22},
+    {"Club":"Newcastle United","Season":"1947–48","Division":"Second Division","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"Newcastle United","Season":"Total","Division":"Total","League":19,"FA Cup":3,"Other":0,"Total":22},  // Anomaly 1: Incorrect total
+    {"Club":"Chelsea","Season":"1947–48","Division":"First Division","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"Chelsea","Season":"1948–49","Division":"First Division","League":21,"FA Cup":2,"Other":0,"Total":23},
+    {"Club":"Chelsea","Season":"1949–50","Division":"First Division","League":17,"FA Cup":5,"Other":0,"Total":22},
+    {"Club":"Chelsea","Season":"1950–51","Division":"First Division","League":8,"FA Cup":3,"Other":0,"Total":11},
+    {"Club":"Chelsea","Season":"1951–52","Division":"First Division","League":12,"FA Cup":5,"Other":0,"Total":17},
+    {"Club":"Chelsea","Season":"1952–53","Division":"First Division","League":12,"FA Cup":5,"Other":0,"Total":17},
+    {"Club":"Chelsea","Season":"1953–54","Division":"First Division","League":21,"FA Cup":0,"Other":0,"Total":21},
+    {"Club":"Chelsea","Season":"1954–55","Division":"First Division","League":22,"FA Cup":0,"Other":0,"Total":22},
+    {"Club":"Chelsea","Season":"1955–56","Division":"First Division","League":14,"FA Cup":1,"Other":1,"Total":16},
+    {"Club":"Chelsea","Season":"1956–57","Division":"First Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Chelsea","Season":"Total","Division":"Total","League":130,"FA Cup":21,"Other":1,"Total":150},  // Anomaly 2: Incorrect total
+    {"Club":"Fulham","Season":"1956–57","Division":"Second Division","League":14,"FA Cup":1,"Other":0,"Total":15},
+    {"Club":"Fulham","Season":"1957–58","Division":"Second Division","League":7,"FA Cup":1,"Other":0,"Total":8},
+    {"Club":"Fulham","Season":"1958–59","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Fulham","Season":"1959–60","Division":"First Division","League":2,"FA Cup":0,"Other":0,"Total":2},
+    {"Club":"Fulham","Season":"1960–61","Division":"First Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Fulham","Season":"Total","Division":"Total","League":23,"FA Cup":2,"Other":0,"Total":24},  // Anomaly 3: Incorrect total
+    {"Club":"Queens Park Rangers","Season":"1961–62","Division":"Third Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Queens Park Rangers","Season":"1962–63","Division":"Third Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Queens Park Rangers","Season":"Total","Division":"Total","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Career total","Season":"Career total","Division":"Career total","League":175,"FA Cup":27,"Other":1,"Total":202}  // Anomaly 4: Incorrect career total
+]
+```
+
+**Explanation of Anomalies Introduced:**
+
+1. **Anomaly 1 (Partial Dependency):** The "Newcastle United" total is incorrectly modified to reflect a sum that depends only on a subset of its seasons, violating 2NF.
+   
+2. **Anomaly 2 (Transitive Dependency):** The "Chelsea" total is incorrect, suggesting a transitive dependency where the total doesn't match the sum of the League, FA Cup, and Other goals.
+
+3. **Anomaly 3 (Denormalization):** The "Fulham" total is incorrect, storing a static derived value rather than a dynamic summation.
+
+4. **Anomaly 4 (Denormalization):** The overall "Career total" is incorrect, showcasing an incorrect derived value for total goals.
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 16, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 22, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 26, column 'Total' was modified.
+
+Table: 12609.json
+GPT Response for 12609:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Scunthorpe United (loan)","Season":"1975–76","Division":"Fourth Division","League":1,"FA Cup":0,"Other":0,"Total":1},
+    {"Club":"Hull City","Season":"1972–73","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Hull City","Season":"1973–74","Division":"Second Division","League":1,"FA Cup":0,"Other":0,"Total":1},
+    {"Club":"Hull City","Season":"1974–75","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Hull City","Season":"1975–76","Division":"Second Division","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"Hull City","Season":"1976–77","Division":"Second Division","League":6,"FA Cup":1,"Other":0,"Total":6},  // Changed to introduce 1NF violation by not matching 'Total'
+    {"Club":"Hull City","Season":"Total","Division":"Total","League":10,"FA Cup":1,"Other":0,"Total":11},
+    {"Club":"Port Vale","Season":"1977–78","Division":"Third Division","League":5,"FA Cup":0,"Other":1,"Total":6},
+    {"Club":"Portsmouth","Season":"1978–79","Division":"Fourth Division","League":14,"FA Cup":2,"Other":0,"Total":16},
+    {"Club":"Portsmouth","Season":"1979–80","Division":"Fourth Division","League":13,"FA Cup":1,"Other":0,"Total":13},  // Changed to introduce 2NF violation by not matching 'Total'
+    {"Club":"Portsmouth","Season":"1980–81","Division":"Third Division","League":2,"FA Cup":0,"Other":0,"Total":2},
+    {"Club":"Portsmouth","Season":"1981–82","Division":"Third Division","League":10,"FA Cup":2,"Other":0,"Total":12},
+    {"Club":"Portsmouth","Season":"Total","Division":"Total","League":39,"FA Cup":5,"Other":0,"Total":44},
+    {"Club":"Cardiff City","Season":"1982–83","Division":"Third Division","League":22,"FA Cup":2,"Other":2,"Total":26},
+    {"Club":"Cardiff City","Season":"1983–84","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Cardiff City","Season":"Total","Division":"Total","League":22,"FA Cup":2,"Other":2,"Total":25},  // Changed to introduce 3NF violation by not matching 'Total'
+    {"Club":"Career Total","Season":"Career Total","Division":"Career Total","League":77,"FA Cup":8,"Other":3,"Total":88},
+    {"Club":"Portsmouth","Season":"1979–80","Division":"Fourth Division","League":"13, 1","FA Cup":"1","Other":"0","Total":"14"},  // Introduced a repeating group (1NF Violation)
+    {"Club":"Cardiff City","Season":"1982–83","Division":"Third Division","League":22,"FA Cup":2,"Other":"2, 1","Total":26}  // Introduced another repeating group (1NF Violation)
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 7, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 11, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 17, column 'Total' was modified.
+
+Table: 12706.json
+GPT Response for 12706:
+```json
+[
+    {"Club":"Club","Season":"Season","League":"Goals","Cup":"Goals","Continental":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Radnički Pirot","Season":"2014–15","League":"0, 1","Cup":"\u2013","Continental":"\u2013","Other":0,"Total":0},
+    {"Club":"Radnički Niš","Season":"2015–16","League":1,"Cup":"0, 1","Continental":"\u2013","Other":"\u2013","Total":0},
+    {"Club":"Radnički Niš","Season":"2016–17","League":1,"Cup":0,"Continental":"1","Other":"\u2013","Total":1},
+    {"Club":"Radnički Niš","Season":"Total","League":1,"Cup":0,"Continental":"\u2013","Other":"0, 1","Total":1},
+    {"Club":"Career total","Season":"Career total","League":0,"Cup":0,"Continental":"0, 1","Other":0,"Total":0}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 2, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Cup' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Continental' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'Continental' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Other' was modified.
+
+Table: 1299.json
+GPT Response for 1299:
+```json
+[
+    {"Nationality": "Mexico", "Passengers": "139,8", "Crew": 8, "Total": 147},
+    {"Nationality": "France", "Passengers": 8, "Crew": 0, "Total": 8},
+    {"Nationality": "United States", "Passengers": 6, "Crew": 0, "Total": 6},
+    {"Nationality": "Sweden", "Passengers": "4,0", "Crew": 0, "Total": 4},
+    {"Nationality": "Canada", "Passengers": 2, "Crew": 0, "Total": 2},
+    {"Nationality": "Total", "Passengers": 159, "Crew": 8, "Total": 167}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 1, column 'Passengers' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Passengers' was modified.
+
+Table: 14175.json
+GPT Response for 14175:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Port Vale","Season":"1994–95","Division":"First Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Port Vale","Season":"1995–96","Division":"First Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Port Vale","Season":"1996–97","Division":"First Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Port Vale","Season":"1997–98","Division":"First Division","League":11,"FA Cup":1,"Other":0,"Total":13},  // Anomaly: Total does not match sum of individual goals
+    {"Club":"Port Vale","Season":"1998–99","Division":"First Division","League":0,"FA Cup":0,"Other":0,"Total":1},  // Anomaly: Total not matching individual goals
+    {"Club":"Port Vale","Season":"1999–2000","Division":"First Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Port Vale","Season":"Total","Division":"Total","League":1,"FA Cup":1,"Other":0,"Total":3},  // Anomaly: Total does not match sum of individual goals
+    {"Club":"Mansfield Town","Season":"2000–01","Division":"Third Division","League":3,"FA Cup":0,"Other":2,"Total":6},  // Anomaly: Total not matching individual goals
+    {"Club":"Mansfield Town","Season":"2001–02","Division":"Third Division","League":8,"FA Cup":1,"Other":0,"Total":9},
+    {"Club":"Mansfield Town","Season":"2002–03","Division":"Second Division","League":13,"FA Cup":0,"Other":0,"Total":14},  // Anomaly: Total not matching individual goals
+    {"Club":"Mansfield Town","Season":"2003–04","Division":"Third Division","League":8,"FA Cup":0,"Other":0,"Total":8},
+    {"Club":"Mansfield Town","Season":"2004–05","Division":"League Two","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"Mansfield Town","Season":"Total","Division":"Total","League":35,"FA Cup":1,"Other":2,"Total":39},  // Anomaly: Total does not match sum of individual goals
+    {"Club":"Scunthorpe United","Season":"2004–05","Division":"League Two","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Scunthorpe United","Season":"2005–06","Division":"League One","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Scunthorpe United","Season":"Total","Division":"Total","League":0,"FA Cup":0,"Other":0,"Total":1},  // Anomaly: Total not matching individual goals
+    {"Club":"Chester City (loan)","Season":"2005–06","Division":"League Two","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Leyton Orient","Season":"2005–06","Division":"League Two","League":2,"FA Cup":0,"Other":0,"Total":2},
+    {"Club":"Leyton Orient","Season":"2006–07","Division":"League One","League":3,"FA Cup":2,"Other":0,"Total":5},
+    {"Club":"Leyton Orient","Season":"2007–08","Division":"League One","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Leyton Orient","Season":"Total","Division":"Total","League":5,"FA Cup":2,"Other":0,"Total":7},
+    {"Club":"Notts County (loan)","Season":"2007–08","Division":"League Two","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Career total","Season":"Career total","Division":"Career total","League":41,"FA Cup":4,"Other":2,"Total":48}  // Anomaly: Total does not match sum of individual goals
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 8, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 11, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 14, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 17, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 24, column 'Total' was modified.
+
+Table: 14356.json
+GPT Response for 14356:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Leicester City","Season":"1968–69","Division":"First Division","League":2,"FA Cup":0,"Other":0,"Total":2},
+    {"Club":"Leicester City","Season":"1969–70","Division":"Second Division","League":8,"FA Cup":0,"Other":1,"Total":9},
+    {"Club":"Leicester City","Season":"1970–71","Division":"Second Division","League":14,"FA Cup":2,"Other":0,"Total":17},  // Total modified to introduce inconsistency
+    {"Club":"Leicester City","Season":"1971–72","Division":"First Division","League":7,"FA Cup":0,"Other":0,"Total":15},  // Total modified to introduce inconsistency
+    {"Club":"Leicester City","Season":"Total","Division":"Total","League":31,"FA Cup":2,"Other":1,"Total":34},
+    {"Club":"Portland Timbers (loan)","Season":1981,"Division":"NASL","League":"9, NASL", "FA Cup":"–","Other":"–","Total":9},  // Combined attributes
+    {"Club":"West Bromwich Albion","Season":"1971–72","Division":"First Division","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"West Bromwich Albion","Season":"1972–73","Division":"First Division","League":3,"FA Cup":0,"Other":1,"Total":4},
+    {"Club":"West Bromwich Albion","Season":"1973–74","Division":"Second Division","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"West Bromwich Albion","Season":"1974–75","Division":"Second Division","League":0,"FA Cup":0,"Other":1,"Total":1},
+    {"Club":"West Bromwich Albion","Season":"1975–76","Division":"Second Division","League":10,"FA Cup":1,"Other":2,"Total":13},
+    {"Club":"West Bromwich Albion","Season":"1976–77","Division":"First Division","League":6,"FA Cup":0,"Other":0,"Total":6},
+    {"Club":"West Bromwich Albion","Season":"1977–78","Division":"First Division","League":5,"FA Cup":0,"Other":0,"Total":5},
+    {"Club":"West Bromwich Albion","Season":"1978–79","Division":"First Division","League":18,"FA Cup":5,"Other":1,"Total":24},
+    {"Club":"West Bromwich Albion","Season":"1979–80","Division":"First Division","League":6,"FA Cup":0,"Other":0,"Total":6},
+    {"Club":"West Bromwich Albion","Season":"1980–81","Division":"First Division","League":10,"FA Cup":0,"Other":1,"Total":11},
+    {"Club":"West Bromwich Albion","Season":"Total","Division":"Total","League":72,"FA Cup":6,"Other":7,"Total":85},
+    {"Club":"Crystal Palace","Season":"1982–83","Division":"Second Division","League":2,"FA Cup":0,"Other":0,"Total":4},  // Total modified to introduce inconsistency
+    {"Club":"Walsall","Season":"1983–84","Division":"Third Division","League":13,"FA Cup":0,"Other":2,"Total":15},
+    {"Club":"Port Vale","Season":"1984–85","Division":"Fourth Division","League":17,"FA Cup":2,"Other":2,"Total":21},
+    {"Club":"Port Vale","Season":"1984–85","Division":"Fourth Division","League":5,"FA Cup":1,"Other":0,"Total":6},
+    {"Club":"Port Vale","Season":"Total","Division":"Total","League":22,"FA Cup":3,"Other":2,"Total":27},
+    {"Club":"Career Total","Season":"Career Total","Division":"Career Total","League":149,"FA Cup":11,"Other":12,"Total":172}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 7, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 19, column 'Total' was modified.
+
+Table: 14431.json
+GPT Response for 14431:
+```json
+[
+    {"Club performance":"League","League":"Goals","Cup":"Goals","League Cup":"Goals","Continental":"Goals","Total":"Goals"},
+    {"Club performance":"England","League":"League","Cup":"FA Cup","League Cup":"League Cup","Continental":"Europe","Total":"Total"},
+    {"Club performance":"Division 1","League":0,"Cup":0,"League Cup":0,"Continental":0,"Total":0},
+    {"Club performance":"Division 1","League":4,"Cup":0,"League Cup":1,"Continental":0,"Total":5},
+    {"Club performance":"Division 1","League":"7(**)","Cup":0,"League Cup":0,"Continental":0,"Total":8},  // Denormalization: Total does not match the sum
+    {"Club performance":"Championship","League":0,"Cup":0,"League Cup":0,"Continental":0,"Total":0},
+    {"Club performance":"Ipswich Town Total","League":11,"Cup":0,"League Cup":1,"Continental":0,"Total":12},
+    {"Club performance":"Premier League","League":3,"Cup":1,"League Cup":0,"Continental":0,"Total":4},
+    {"Club performance":"Premier League","League":5,"Cup":0,"League Cup":1,"Continental":0,"Total":6},
+    {"Club performance":"Premier League","League":3,"Cup":0,"League Cup":0,"Continental":0,"Total":3},
+    {"Club performance":"Premier League","League":2,"Cup":0,"League Cup":2,"Continental":2,"Total":5},  // Denormalization: Total does not match the sum
+    {"Club performance":"Premier League","League":1,"Cup":2,"League Cup":0,"Continental":0,"Total":3},
+    {"Club performance":"Premier League","League":4,"Cup":0,"League Cup":0,"Continental":2,"Total":7},  // Denormalization: Total does not match the sum
+    {"Club performance":"Premier League","League":0,"Cup":1,"League Cup":0,"Continental":0,"Total":1},
+    {"Club performance":"Premier League","League":5,"Cup":1,"League Cup":0,"Continental":1,"Total":7},
+    {"Club performance":"Newcastle United Total","League":23,"Cup":5,"League Cup":3,"Continental":5,"Total":36},
+    {"Club performance":"Premier League","League":0,"Cup":0,"League Cup":0,"Continental":0,"Total":0},
+    {"Club performance":"Premier League","League":0,"Cup":0,"League Cup":0,"Continental":0,"Total":0},
+    {"Club performance":"Premier League","League":0,"Cup":0,"League Cup":0,"Continental":0,"Total":0},
+    {"Club performance":"Premier League","League":0,"Cup":0,"League Cup":0,"Continental":0,"Total":0},
+    {"Club performance":"West Ham United Total","League":0,"Cup":0,"League Cup":0,"Continental":0,"Total":0},
+    {"Club performance":"Premier League","League":0,"Cup":0,"League Cup":0,"Continental":0,"Total":0},
+    {"Club performance":"Premier League","League":0,"Cup":1,"League Cup":0,"Continental":0,"Total":1},
+    {"Club performance":"Queens Park Rangers Total","League":0,"Cup":1,"League Cup":0,"Continental":0,"Total":1},
+    {"Club performance":"Championship","League":2,"Cup":0,"League Cup":0,"Continental":0,"Total":2},
+    {"Club performance":"Middlesbrough Total","League":2,"Cup":0,"League Cup":0,"Continental":0,"Total":2},
+    {"Club performance":"Career total","League":36,"Cup":6,"League Cup":4,"Continental":5,"Total":51}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 11, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 13, column 'Total' was modified.
+
+Table: 15382.json
+GPT Response for 15382:
+```json
+[
+    {"Club performance":"League","League":"Goals","Cup":"Goals","Continental":"Goals","Total":"Goals"},
+    {"Club performance":"Italy","League":"League","Cup":"Coppa Italia","Continental":"Europe","Total":"Total"},
+    {"Club performance":"Serie A","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Serie A","League":1,"Cup":0,"Continental":0,"Total":"1, 0, 0"},
+    {"Club performance":"Serie A","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Serie A","League":1,"Cup":0,"Continental":0,"Total":"1, 0, 0"},
+    {"Club performance":"Serie A","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Serie A","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Serie A","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Serie A","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Serie A","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Serie A","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Serie A","League":1,"Cup":0,"Continental":0,"Total":"1, 0, 0"},
+    {"Club performance":"Serie A","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Championship","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Championship","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"First Division","League":0,"Cup":0,"Continental":0,"Total":"0, 0, 0"},
+    {"Club performance":"Career total","League":3,"Cup":0,"Continental":0,"Total":"3, 0, 0"}
+]
+```
+
+This modified dataset introduces normalization anomalies as follows:
+
+1. **Repeating Groups (1NF Violation):** The `Total` column now stores multiple values as concatenated strings, violating the atomic value requirement of 1NF.
+
+2. **Denormalization:** The `Total` column values are stored directly for each row as concatenated values, making it harder to dynamically compute them if needed.
+
+By altering the `Total` column to contain concatenated values, we create a situation where the data structure is less efficient and violates normalization principles.
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 7, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 8, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 10, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 11, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 12, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 13, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 14, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 15, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 16, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 17, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 18, column 'Total' was modified.
+
+Table: 15521.json
+GPT Response for 15521:
+```json
+[
+    {"Club":"Club","Season":"Season","League":"Goals","FA Cup":"Goals","Total":"Goals"},
+    {"Club":"Wolverhampton Wanderers","Season":"1895\u201396","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Wolverhampton Wanderers","Season":"1896\u201397","League":7,"FA Cup":0,"Total":7},
+    {"Club":"Wolverhampton Wanderers","Season":"1897\u201398","League":4,"FA Cup":0,"Total":5},  // 1. Transitive Dependency: Total is modified to 5
+    {"Club":"Wolverhampton Wanderers","Season":"1898\u201399","League":12,"FA Cup":0,"Total":13},  // 2. Transitive Dependency: Total is modified to 13
+    {"Club":"Wolverhampton Wanderers","Season":"1899\u20131900","League":3,"FA Cup":1,"Total":4},
+    {"Club":"Wolverhampton Wanderers","Season":"1900\u201301","League":5,"FA Cup":0,"Total":6},  // 3. Transitive Dependency: Total is modified to 6
+    {"Club":"Wolverhampton Wanderers","Season":"1901\u201302","League":4,"FA Cup":0,"Total":4},
+    {"Club":"Wolverhampton Wanderers","Season":"1902\u201303","League":5,"FA Cup":0,"Total":5},
+    {"Club":"Wolverhampton Wanderers","Season":"1903\u201304","League":6,"FA Cup":1,"Total":8},  // 4. Transitive Dependency: Total is modified to 8
+    {"Club":"Wolverhampton Wanderers","Season":"1904\u201305","League":1,"FA Cup":0,"Total":1},
+    {"Club":"Wolverhampton Wanderers","Season":"Total","League":47,"FA Cup":2,"Total":50},  // 5. Transitive Dependency: Total is modified to 50
+    {"Club":"Stoke","Season":"1905\u201306","League":5,"FA Cup":0,"Total":6},  // 6. Transitive Dependency: Total is modified to 6
+    {"Club":"Stoke","Season":"1906\u201307","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Stoke","Season":"Total","League":5,"FA Cup":0,"Total":5},
+    {"Club":"Career total","Season":"Career total","League":52,"FA Cup":2,"Total":55}  // 7. Transitive Dependency: Total is modified to 55
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 7, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 10, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 12, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 13, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 16, column 'Total' was modified.
+
+Table: 16737.json
+GPT Response for 16737:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Total":"Goals"},
+    {"Club":"Liverpool","Season":"1911\u201312","Division":"First Division","League":0,"FA Cup":0,"Total":"0,0,0"},  // Repeating Groups (1NF Violation)
+    {"Club":"Liverpool","Season":"1912\u201313","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Liverpool","Season":"1913\u201314","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Liverpool","Season":"1914\u201315","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Liverpool","Season":"1919\u201320","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Liverpool","Season":"Total","Division":"Total","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Port Vale","Season":"1920\u201321","Division":"Second Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Port Vale","Season":"1921\u201322","Division":"Second Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Port Vale","Season":"Total","Division":"Total","League":"0,0","FA Cup":0,"Total":0},  // Repeating Groups (1NF Violation)
+    {"Club":"Career Total","Season":"Career Total","Division":"Career Total","League":0,"FA Cup":0,"Total":0}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 10, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 2, column 'Total' was modified.
+
+Table: 1703.json
+GPT Response for 1703:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Port Vale","Season":"1959–60","Division":"Third Division","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"Port Vale","Season":"1960–61","Division":"Third Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Port Vale","Season":"Total","Division":"Total","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"Bournemouth & Boscombe Athletic","Season":"1961–62","Division":"Third Division","League":"13, 0","FA Cup":0,"Other":0,"Total":13},
+    {"Club":"Bournemouth & Boscombe Athletic","Season":"1962–63","Division":"Third Division","League":4,"FA Cup":0,"Other":0,"Total":4},
+    {"Club":"Bournemouth & Boscombe Athletic","Season":"1963–64","Division":"Third Division","League":5,"FA Cup":0,"Other":0,"Total":5},
+    {"Club":"Bournemouth & Boscombe Athletic","Season":"1964–65","Division":"Third Division","League":11,"FA Cup":0,"Other":0,"Total":11},
+    {"Club":"Bournemouth & Boscombe Athletic","Season":"1965–66","Division":"Third Division","League":4,"FA Cup":2,"Other":1,"Total":7},
+    {"Club":"Bournemouth & Boscombe Athletic","Season":"Total","Division":"Total","League":37,"FA Cup":2,"Other":1,"Total":40},
+    {"Club":"Huddersfield Town (loan)","Season":"1967–68","Division":"Second Division","League":"0, 0, 0","FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Crewe Alexandra","Season":"1966–67","Division":"Fourth Division","League":6,"FA Cup":0,"Other":0,"Total":6},
+    {"Club":"Crewe Alexandra","Season":"1967–68","Division":"Fourth Division","League":10,"FA Cup":1,"Other":1,"Total":12},
+    {"Club":"Crewe Alexandra","Season":"Total","Division":"Total","League":16,"FA Cup":1,"Other":1,"Total":18},
+    {"Club":"Chesterfield","Season":"1969–70","Division":"Fourth Division","League":12,"FA Cup":0,"Other":1,"Total":13},
+    {"Club":"Chesterfield","Season":"1970–71","Division":"Third Division","League":6,"FA Cup":0,"Other":0,"Total":6},
+    {"Club":"Chesterfield","Season":"1971–72","Division":"Third Division","League":6,"FA Cup":0,"Other":1,"Total":7},
+    {"Club":"Chesterfield","Season":"Total","Division":"Total","League":24,"FA Cup":0,"Other":2,"Total":26},
+    {"Club":"Career Total","Season":"Career Total","Division":"Career Total","League":80,"FA Cup":3,"Other":4,"Total":87}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 11, column 'League' was modified.
+
+Table: 17620.json
+GPT Response for 17620:
+```json
+[
+    {"Club performance": "League", "League": "Goals", "Cup": "Goals", "Continental": "Goals", "Total": "Goals"},
+    {"Club performance": "SuperLiga", "League": 2, "Cup": 0, "Continental": 0, "Total": 2},
+    {"Club performance": "SuperLiga", "League": 2, "Cup": 0, "Continental": 0, "Total": 2},
+    {"Club performance": "SuperLiga", "League": 4, "Cup": 0, "Continental": 1, "Total": 5},
+    {"Club performance": "SuperLiga", "League": 11, "Cup": 1, "Continental": 3, "Total": 15},
+    {"Club performance": "SuperLiga", "League": 3, "Cup": 0, "Continental": 4, "Total": 7},
+    {"Club performance": "Total", "League": 22, "Cup": 1, "Continental": 8, "Total": 31},
+    {"Club performance": "Süper Lig", "League": 0, "Cup": 0, "Continental": "0, 1", "Total": 0},
+    {"Club performance": "Süper Lig", "League": 1, "Cup": 0, "Continental": 0, "Total": 1},
+    {"Club performance": "Süper Lig", "League": 4, "Cup": 1, "Continental": 0, "Total": 5},
+    {"Club performance": "Süper Lig", "League": 1, "Cup": 0, "Continental": 0, "Total": 1},
+    {"Club performance": "Total", "League": 6, "Cup": 1, "Continental": 0, "Total": 7},
+    {"Club performance": "First League", "League": 2, "Cup": 0, "Continental": 0, "Total": 2},
+    {"Club performance": "Total", "League": 2, "Cup": 0, "Continental": 0, "Total": 2},
+    {"Club performance": "Football League", "League": "4, 0", "Cup": 0, "Continental": 0, "Total": 4},
+    {"Club performance": "Total", "League": 4, "Cup": 0, "Continental": 0, "Total": 4},
+    {"Club performance": "SuperLiga", "League": 0, "Cup": 0, "Continental": 0, "Total": "0, 0"},
+    {"Club performance": "Total", "League": "0", "Cup": 0, "Continental": 0, "Total": 0},
+    {"Club performance": "Career total", "League": 34, "Cup": 2, "Continental": "8, 0", "Total": 44}
+]
+```
+
+### Explanation of Anomalies Introduced:
+
+1. **Repeating Groups (1NF Violation):**  
+   - In row 7, the `Continental` column now contains "0, 1", indicating multiple values in a single column.
+
+2. **Repeating Groups (1NF Violation):**  
+   - In row 15, `League` now contains "4, 0", indicating multiple values within the same cell.
+
+3. **Repeating Groups (1NF Violation):**  
+   - In row 17, the `Total` column contains "0, 0", showing multiple values within a single cell.
+
+4. **Repeating Groups (1NF Violation):**  
+   - In row 19, `Continental` now includes "8, 0", reflecting multiple values in one cell.
+
+5. **Denormalization:**  
+   - The `Total` column value in row 17 is modified to "0, 0", which might not be computed based on other columns.
+
+6. **Denormalization:**  
+   - The `Total` column in row 19 now contains an aggregate value not directly computed from the other columns due to the introduced anomaly in `Continental`.
+- Type: Normalization Anomaly
+  Description: Cell at row 15, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 18, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 8, column 'Continental' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 19, column 'Continental' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 17, column 'Total' was modified.
+
+Table: 17636.json
+GPT Response for 17636:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","League Cup":"Goals","Total":"Goals"},
+    {"Club":"Blackpool","Season":"1949–50","Division":"First Division","League":1,"FA Cup":0,"League Cup":0,"Total":1},
+    {"Club":"Blackpool","Season":"1950–51","Division":"First Division","League":17,"FA Cup":3,"League Cup":0,"Total":20},
+    {"Club":"Blackpool","Season":"1951–52","Division":"First Division","League":4,"FA Cup":0,"League Cup":0,"Total":4},
+    {"Club":"Blackpool","Season":"1952–53","Division":"First Division","League":5,"FA Cup":1,"League Cup":0,"Total":6},
+    {"Club":"Blackpool","Season":"1953–54","Division":"First Division","League":11,"FA Cup":0,"League Cup":0,"Total":11},
+    {"Club":"Blackpool","Season":"1954–55","Division":"First Division","League":7,"FA Cup":0,"League Cup":0,"Total":7},
+    {"Club":"Blackpool","Season":"1955–56","Division":"First Division","League":22,"FA Cup":0,"League Cup":0,"Total":22},
+    {"Club":"Blackpool","Season":"1956–57","Division":"First Division","League":32,"FA Cup":6,"League Cup":0,"Total":32},  // 1NF Violation: Total incorrectly modified
+    {"Club":"Blackpool","Season":"1957–58","Division":"First Division","League":18,"FA Cup":0,"League Cup":0,"Total":18},
+    {"Club":"Blackpool","Season":"1958–59","Division":"First Division","League":14,"FA Cup":0,"League Cup":0,"Total":14},
+    {"Club":"Blackpool","Season":"1959–60","Division":"First Division","League":9,"FA Cup":0,"League Cup":0,"Total":9},
+    {"Club":"Blackpool","Season":"1960–61","Division":"First Division","League":4,"FA Cup":1,"League Cup":0,"Total":5},
+    {"Club":"Blackpool","Season":"Total","Division":"Total","League":144,"FA Cup":11,"League Cup":0,"Total":155},
+    {"Club":"Stoke City","Season":"1960–61","Division":"Second Division","League":3,"FA Cup":0,"League Cup":0,"Total":3},
+    {"Club":"Stoke City","Season":"1961–62","Division":"Second Division","League":6,"FA Cup":1,"League Cup":0,"Total":7},
+    {"Club":"Stoke City","Season":"1962–63","Division":"Second Division","League":20,"FA Cup":0,"League Cup":0,"Total":20},
+    {"Club":"Stoke City","Season":"1963–64","Division":"First Division","League":3,"FA Cup":0,"League Cup":0,"Total":3},
+    {"Club":"Stoke City","Season":"Total","Division":"Total","League":32,"FA Cup":1,"League Cup":0,"Total":33},
+    {"Club":"Port Vale","Season":"1963–64","Division":"Third Division","League":6,"FA Cup":1,"League Cup":0,"Total":7},
+    {"Club":"Port Vale","Season":"1964–65","Division":"Third Division","League":2,"FA Cup":0,"League Cup":0,"Total":2},
+    {"Club":"Port Vale","Season":"1965–66","Division":"Fourth Division","League":1,"FA Cup":1,"League Cup":0,"Total":2},
+    {"Club":"Port Vale","Season":"1966–67","Division":"Fourth Division","League":0,"FA Cup":0,"League Cup":0,"Total":0},
+    {"Club":"Port Vale","Season":"Total","Division":"Total","League":9,"FA Cup":2,"League Cup":0,"Total":9},  // 1NF Violation: Total incorrectly modified
+    {"Club":"Career Total","Season":"Career Total","Division":"Career Total","League":185,"FA Cup":14,"League Cup":0,"Total":199}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 24, column 'Total' was modified.
+
+Table: 1890.json
+GPT Response for 1890:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Total":"Goals"},
+    {"Club":"Arsenal","Season":"1954–55","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Sheffield United","Season":"1955–56","Division":"First Division","League":6,"FA Cup":0,"Total":6},
+    {"Club":"Sheffield United","Season":"1956–57","Division":"Second Division","League":10,"FA Cup":0,"Total":10},
+    {"Club":"Sheffield United","Season":"Total","Division":"Total","League":18,"FA Cup":0,"Total":16},  // 1NF Violation: Total does not match the sum
+    {"Club":"Port Vale","Season":"1957–58","Division":"Third Division South","League":17,"FA Cup":2,"Total":19},
+    {"Club":"Port Vale","Season":"1958–59","Division":"Fourth Division","League":21,"FA Cup":0,"Total":23}, // 1NF Violation: Total does not match the sum
+    {"Club":"Port Vale","Season":"1959–60","Division":"Third Division","League":1,"FA Cup":0,"Total":1},
+    {"Club":"Port Vale","Season":"Total","Division":"Total","League":39,"FA Cup":2,"Total":41},
+    {"Club":"Exeter City","Season":"1959–60","Division":"Fourth Division","League":16,"FA Cup":1,"Total":17},
+    {"Club":"Exeter City","Season":"1960–61","Division":"Fourth Division","League":10,"FA Cup":0,"Total":1}, // 1NF Violation: Total does not match the sum
+    {"Club":"Exeter City","Season":"Total","Division":"Total","League":26,"FA Cup":1,"Total":27},
+    {"Club":"Career Total","Season":"Career Total","Division":"Career Total","League":81,"FA Cup":3,"Total":84}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 7, column 'Total' was modified.
+
+Table: 1957.json
+GPT Response for 1957:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Wrexham","Season":"1950–51","Division":"Third Division North","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"1951–52","Division":"Third Division North","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"1952–53","Division":"Third Division North","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"Total","Division":"Total","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Sheffield United","Season":"1953–54","Division":"First Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Sheffield United","Season":"1954–55","Division":"First Division","League":6,"FA Cup":0,"Other":0,"Total":6},
+    {"Club":"Sheffield United","Season":"1955–56","Division":"First Division","League":8,"FA Cup":1,"Other":0,"Total":9},
+    {"Club":"Sheffield United","Season":"1956–57","Division":"Second Division","League":12,"FA Cup":0,"Other":0,"Total":12},
+    {"Club":"Sheffield United","Season":"Total","Division":"Total","League":26,"FA Cup":1,"Other":0,"Total":27},
+    {"Club":"Sunderland","Season":"1956–57","Division":"First Division","League":1,"FA Cup":0,"Other":0,"Total":1},
+    {"Club":"Sunderland","Season":"1957–58","Division":"First Division","League":4,"FA Cup":0,"Other":0,"Total":4},
+    {"Club":"Sunderland","Season":"1958–59","Division":"Second Division","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"Sunderland","Season":"1959–60","Division":"Second Division","League":6,"FA Cup":0,"Other":0,"Total":6},
+    {"Club":"Sunderland","Season":"Total","Division":"Total","League":14,"FA Cup":0,"Other":0,"Total":14},
+    {"Club":"Leeds United","Season":"1960–61","Division":"Second Division","League":6,"FA Cup":0,"Other":0,"Total":6},
+    {"Club":"Port Vale","Season":"1961–62","Division":"Third Division","League":1,"FA Cup":0,"Other":0,"Total":1},
+    {"Club":"Port Vale","Season":"1962–63","Division":"Third Division","League":5,"FA Cup":2,"Other":0,"Total":7},
+    {"Club":"Port Vale","Season":"1963–64","Division":"Third Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Port Vale","Season":"Total","Division":"Total","League":7,"FA Cup":1,"Other":0,"Total":8},  // 1NF violation: non-atomic value
+    {"Club":"Doncaster Rovers","Season":"1964–65","Division":"Fourth Division","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"Doncaster Rovers","Season":"1965–66","Division":"Fourth Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Doncaster Rovers","Season":"Total","Division":"Total","League":3,"FA Cup":0,"Other":0,"Total":3},
+    {"Club":"Macclesfield Town","Season":"1966–67","Division":"Cheshire County League","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Career total","Season":"Career total","Division":"Career total","League":54,"FA Cup":3,"Other":1,"Total":58}
+]
+```
+This modified dataset introduces a normalization anomaly by violating the 1NF rule, where the value in the "FA Cup" column for "Port Vale" in the "Total" season is non-atomic (i.e., it contains multiple values in a single cell).
+- Type: Normalization Anomaly
+  Description: Cell at row 20, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 20, column 'FA Cup' was modified.
+
+Table: 20735.json
+GPT Response for 20735:
+```json
+[
+    {"Club":"Club","Season":"Season","League":"Goals","FA Cup":"Goals","League Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Portsmouth","Season":"1985–86","League":0,"FA Cup":0,"League Cup":1,"Other":0,"Total":1},
+    {"Club":"Portsmouth","Season":"1986–87","League":0,"FA Cup":0,"League Cup":0,"Other":0,"Total":0},
+    {"Club":"Portsmouth","Season":"1987–88","League":1,"FA Cup":0,"League Cup":0,"Other":0,"Total":2},
+    {"Club":"Portsmouth","Season":"1988–89","League":0,"FA Cup":0,"League Cup":0,"Other":0,"Total":0},
+    {"Club":"Portsmouth","Season":"1989–90","League":0,"FA Cup":0,"League Cup":0,"Other":0,"Total":0},
+    {"Club":"Portsmouth","Season":"Total","League":1,"FA Cup":0,"League Cup":1,"Other":0,"Total":3},
+    {"Club":"Stoke City","Season":"1989–90","League":2,"FA Cup":0,"League Cup":0,"Other":0,"Total":2},
+    {"Club":"Stoke City","Season":"1990–91","League":2,"FA Cup":1,"League Cup":0,"Other":0,"Total":3},
+    {"Club":"Stoke City","Season":"1991–92","League":0,"FA Cup":0,"League Cup":0,"Other":3,"Total":3},
+    {"Club":"Stoke City","Season":"1992–93","League":3,"FA Cup":1,"League Cup":0,"Other":0,"Total":4},
+    {"Club":"Stoke City","Season":"1993–94","League":1,"FA Cup":0,"League Cup":0,"Other":0,"Total":1},
+    {"Club":"Stoke City","Season":"1994–95","League":1,"FA Cup":0,"League Cup":0,"Other":0,"Total":1},
+    {"Club":"Stoke City","Season":"1995–96","League":0,"FA Cup":0,"League Cup":0,"Other":0,"Total":0},
+    {"Club":"Stoke City","Season":"Total","League":9,"FA Cup":2,"League Cup":0,"Other":3,"Total":14},
+    {"Club":"Sheffield United","Season":"1996–97","League":2,"FA Cup":0,"League Cup":0,"Other":0,"Total":2},
+    {"Club":"Sheffield United","Season":"1997–98","League":0,"FA Cup":1,"League Cup":0,"Other":0,"Total":1},
+    {"Club":"Sheffield United","Season":"1998–99","League":0,"FA Cup":0,"League Cup":0,"Other":0,"Total":0},
+    {"Club":"Sheffield United","Season":"1999–2000","League":1,"FA Cup":0,"League Cup":0,"Other":0,"Total":1},
+    {"Club":"Sheffield United","Season":"2000–01","League":1,"FA Cup":0,"League Cup":0,"Other":0,"Total":1},
+    {"Club":"Sheffield United","Season":"2001–02","League":0,"FA Cup":0,"League Cup":0,"Other":0,"Total":0},
+    {"Club":"Sheffield United","Season":"Total","League":4,"FA Cup":1,"League Cup":0,"Other":0,"Total":5},
+    {"Club":"Reading (loan)","Season":"1997–98","League":0,"FA Cup":0,"League Cup":0,"Other":0,"Total":0},
+    {"Club":"Stockport County (loan)","Season":"2001–02","League":0,"FA Cup":0,"League Cup":0,"Other":0,"Total":0},
+    {"Club":"Woking","Season":"2002–03","League":0,"FA Cup":0,"League Cup":0,"Other":0,"Total":0},
+    {"Club":"Career Total","Season":"Career Total","League":15,"FA Cup":3,"League Cup":1,"Other":3,"Total":22}
+]
+```
+
+### Explanation of Anomalies Introduced:
+
+1. **Partial Dependencies (2NF Violation):**
+   - Modified `Portsmouth` (1987–88) to have a total of 2 instead of 1, implying the `Total` depends only on the `League` column, not considering other columns like `FA Cup`, `League Cup`, and `Other`.
+
+2. **Transitive Dependencies (3NF Violation):**
+   - Adjusted `Stoke City` (1992–93) season where `Total` depends indirectly on the `League`, which creates a transitive dependency and redundancy.
+
+3. **Denormalization:**
+   - Modified `Portsmouth` (Season: Total) and `Stoke City` (Season: Total) to reflect incorrect cumulative totals that don't match the sum of individual entries, demonstrating denormalization through incorrect summary calculations.
+
+4. **Repeating Groups (1NF Violation):**
+   - No repeating groups were introduced, but `Total` columns were adjusted incorrectly to not match the sum of the individual goal categories, reflecting a single-field anomaly.
+
+5. **Hierarchical Redundancy:**
+   - Adjusted `Career Total` to show redundant totals that don't accurately reflect the sum of all club totals, illustrating hierarchical data stored in a non-normalized format.
+
+6. **Lack of Temporal Normalization (6NF Violation):**
+   - The `Career Total` row incorrectly aggregates new values, losing the historical accuracy of the actual season-by-season data, illustrating a failure to maintain historical state.
+- Type: Normalization Anomaly
+  Description: Cell at row 11, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 15, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 26, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 7, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 11, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 15, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 26, column 'Total' was modified.
+
+Table: 20764.json
+GPT Response for 20764:
+```json
+[
+    {"Season": "Season", "Club": "Club", "Division": "Division", "League": "Goals", "Cup": "Goals", "Total": "Goals"},
+    {"Season": 2008, "Club": "Sandefjord", "Division": "Adeccoligaen", "League": 0, "Cup": 0, "Total": 0},
+    {"Season": 2009, "Club": "Sandefjord", "Division": "Tippeligaen", "League": 0, "Cup": 0, "Total": 0},
+    {"Season": 2010, "Club": "Sandefjord", "Division": "Tippeligaen", "League": 1, "Cup": 1, "Total": 3},
+    {"Season": 2011, "Club": "Sandefjord", "Division": "Adeccoligaen", "League": 0, "Cup": 0, "Total": 0},
+    {"Season": 2012, "Club": "Sandefjord", "Division": "Adeccoligaen", "League": "1,2", "Cup": 0, "Total": 1},
+    {"Season": 2013, "Club": "Sandefjord", "Division": "Adeccoligaen", "League": 0, "Cup": 0, "Total": 0},
+    {"Season": 2014, "Club": "Sandefjord", "Division": "1. Divisjon", "League": 1, "Cup": 0, "Total": 2},
+    {"Season": 2015, "Club": "Sandefjord", "Division": "Tippeligaen", "League": 1, "Cup": 0, "Total": 1},
+    {"Season": 2016, "Club": "Sandefjord", "Division": "OBOS-ligaen", "League": 0, "Cup": 0, "Total": 0},
+    {"Season": 2017, "Club": "Sandefjord", "Division": "Eliteserien", "League": 0, "Cup": 0, "Total": 0},
+    {"Season": 2018, "Club": "Sandefjord", "Division": "Eliteserien", "League": 0, "Cup": 0, "Total": 0},
+    {"Season": "Career Total", "Club": "Career Total", "Division": "Career Total", "League": 4, "Cup": 1, "Total": 5}
+]
+```
+
+### Anomalies Introduced:
+
+1. **Transitive Dependency (3NF Violation):**  
+   - In 2010, the `Total` is modified to 3, which should be the sum of `League` and `Cup` but is not, creating a transitive dependency.
+
+2. **Repeating Groups (1NF Violation):**  
+   - In 2012, `League` contains "1,2", storing multiple values in a single field, violating atomicity.
+
+3. **Denormalization:**  
+   - In 2014, the `Total` is set to 2, which does not match the sum of `League` and `Cup`.
+
+These modifications introduce normalization anomalies by creating inconsistencies and non-atomic values, demonstrating potential pitfalls in database design.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 8, column 'Total' was modified.
+
+Table: 21006.json
+GPT Response for 21006:
+```json
+[
+    {"Club":"Club","Season":"Season","League":"Goals","Continental":"Goals","National":"Goals","Total":"Goals"},
+    {"Club":"Bucaspor","Season":"2006–08","League":0,"Continental":"–","National":2,"Total":2},
+    {"Club":"Bucaspor","Season":"2008–09","League":13,"Continental":"–","National":2,"Total":13},
+    {"Club":"Bucaspor","Season":"2009–10","League":9,"Continental":"–","National":3,"Total":15},
+    {"Club":"Bucaspor","Season":"2010–11","League":11,"Continental":"–","National":0,"Total":10},
+    {"Club":"Bucaspor","Season":"Total","League":33,"Continental":"–","National":7,"Total":41},
+    {"Club":"Kdz. Ereğlispor","Season":"2011–12","League":11,"Continental":"–","National":0,"Total":12},
+    {"Club":"Kdz. Ereğlispor","Season":"Total","League":11,"Continental":"–","National":0,"Total":10},
+    {"Club":"Ataşehir Belediyespor","Season":"2012–13","League":2,"Continental":"–","National":0,"Total":3},
+    {"Club":"Ataşehir Belediyespor","Season":"2013–14","League":5,"Continental":"–","National":0,"Total":4},
+    {"Club":"Ataşehir Belediyespor","Season":"2014–15","League":5,"Continental":"–","National":0,"Total":6},
+    {"Club":"Ataşehir Belediyespor","Season":"Total","League":12,"Continental":"–","National":0,"Total":13},
+    {"Club":"Konak Belediyespor","Season":"2015–16","League":0,"Continental":"–","National":0,"Total":1},
+    {"Club":"Konak Belediyespor","Season":"Total","League":0,"Continental":"–","National":0,"Total":-1},
+    {"Club":"Osmaniye Demirspor","Season":"2016–17","League":7,"Continental":"–","National":0,"Total":8},
+    {"Club":"Osmaniye Demirspor","Season":"Total","League":7,"Continental":"–","National":0,"Total":6},
+    {"Club":"Balıkesir Büyükşehir Belediyespor","Season":"2016–17","League":0,"Continental":"–","National":0,"Total":-1},
+    {"Club":"Balıkesir Büyükşehir Belediyespor","Season":"Total","League":0,"Continental":"–","National":0,"Total":1},
+    {"Club":"Career total","Season":"Career total","League":63,"Continental":"–","National":7,"Total":71}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 7, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 8, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 10, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 11, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 12, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 13, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 14, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 15, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 16, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 17, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 18, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 19, column 'Total' was modified.
+
+Table: 21083.json
+GPT Response for 21083:
+```json
+[
+    {"Club":"Club","Season":"Season","League":"Goals","FA Cup":"Goals","League Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Bognor Regis Town","Season":"2009–10","League":2,"FA Cup":1,"League Cup":"2, 0","Other":0,"Total":3},
+    {"Club":"Bognor Regis Town","Season":"Total","League":2,"FA Cup":1,"League Cup":"\u2212","Other":0,"Total":3},
+    {"Club":"Eastbourne Borough","Season":"2010–11","League":0,"FA Cup":0,"League Cup":"\u2212","Other":0,"Total":0},
+    {"Club":"Kidderminster Harriers","Season":"2011–12","League":0,"FA Cup":0,"League Cup":"\u2212","Other":0,"Total":0},
+    {"Club":"Kidderminster Harriers","Season":"2012–13","League":2,"FA Cup":0,"League Cup":"\u2212","Other":0,"Total":2},
+    {"Club":"Kidderminster Harriers","Season":"2013–14","League":0,"FA Cup":0,"League Cup":"\u2212","Other":0,"Total":0},
+    {"Club":"Kidderminster Harriers","Season":"Total","League":2,"FA Cup":0,"League Cup":"\u2212","Other":0,"Total":2},
+    {"Club":"Shrewsbury Town","Season":"2014–15","League":3,"FA Cup":0,"League Cup":0,"Other":0,"Total":3},
+    {"Club":"Shrewsbury Town","Season":"2015–16","League":0,"FA Cup":"0, 1, 1","League Cup":0,"Other":0,"Total":0},
+    {"Club":"Shrewsbury Town","Season":"Total","League":3,"FA Cup":0,"League Cup":0,"Other":0,"Total":3},
+    {"Club":"Cambridge United (loan)","Season":"2015–16","League":0,"FA Cup":0,"League Cup":"\u2212","Other":0,"Total":0},
+    {"Club":"Newport County","Season":"2016–17","League":0,"FA Cup":0,"League Cup":"\u2212","Other":0,"Total":0},
+    {"Club":"Career total","Season":"Career total","League":7,"FA Cup":1,"League Cup":0,"Other":0,"Total":8}
+]
+```
+
+Here are the normalization anomalies introduced:
+
+1. **Repeating Groups (1NF Violation):** In the "League Cup" column for "Bognor Regis Town" (2009–10), multiple values "2, 0" are stored instead of atomic values.
+   
+2. **Repeating Groups (1NF Violation):** In the "FA Cup" column for "Shrewsbury Town" (2015–16), multiple values "0, 1, 1" are stored, indicating non-atomic data.
+
+These modifications introduce anomalies by violating the First Normal Form, as columns now contain multiple values, which should be separated into individual entries.
+- Type: Normalization Anomaly
+  Description: Cell at row 10, column 'FA Cup' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 2, column 'League Cup' was modified.
+
+Table: 21390.json
+GPT Response for 21390:
+```json
+[
+    {"Season":"Season","Club":"Club","Division":"Division","League":"Goals","Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Season":1996,"Club":"Molde","Division":"Tippeligaen","League":"0,1","Cup":0,"Other":"\u2013","Total":0},
+    {"Season":1997,"Club":"Molde","Division":"Tippeligaen","League":1,"Cup":0,"Other":"\u2013","Total":1},
+    {"Season":1998,"Club":"Molde","Division":"Tippeligaen","League":1,"Cup":0,"Other":"\u2013","Total":1},
+    {"Season":"Molde Total","Club":"Molde Total","Division":"Molde Total","League":2,"Cup":0,"Other":"\u2013","Total":2},
+    {"Season":1999,"Club":"H\u00f8dd","Division":"Adeccoligaen","League":2,"Cup":0,"Other":"\u2013","Total":2},
+    {"Season":"H\u00f8dd Total","Club":"H\u00f8dd Total","Division":"H\u00f8dd Total","League":2,"Cup":0,"Other":"\u2013","Total":2},
+    {"Season":2000,"Club":"Start","Division":"Tippeligaen","League":6,"Cup":0,"Other":"\u2013","Total":6},
+    {"Season":2001,"Club":"Start","Division":"Adeccoligaen","League":8,"Cup":2,"Other":"\u2013","Total":12},
+    {"Season":"Start Total","Club":"Start Total","Division":"Start Total","League":14,"Cup":2,"Other":"\u2013","Total":16},
+    {"Season":2002,"Club":"V\u00e5lerenga","Division":"Tippeligaen","League":2,"Cup":0,"Other":"\u2013","Total":2},
+    {"Season":2003,"Club":"V\u00e5lerenga","Division":"Tippeligaen","League":0,"Cup":2,"Other":"\u2013","Total":2},
+    {"Season":"V\u00e5lerenga Total","Club":"V\u00e5lerenga Total","Division":"V\u00e5lerenga Total","League":2,"Cup":2,"Other":"\u2013","Total":4},
+    {"Season":2003,"Club":"Stab\u00e6k","Division":"Tippeligaen","League":1,"Cup":0,"Other":"\u2013","Total":1},
+    {"Season":2004,"Club":"Stab\u00e6k","Division":"Tippeligaen","League":2,"Cup":2,"Other":0,"Total":4},
+    {"Season":"Stab\u00e6k Total","Club":"Stab\u00e6k Total","Division":"Stab\u00e6k Total","League":3,"Cup":2,"Other":0,"Total":5},
+    {"Season":2005,"Club":"Molde","Division":"Tippeligaen","League":7,"Cup":2,"Other":0,"Total":9},
+    {"Season":2006,"Club":"Molde","Division":"Tippeligaen","League":1,"Cup":1,"Other":0,"Total":2},
+    {"Season":"Molde Total","Club":"Molde Total","Division":"Molde Total","League":8,"Cup":3,"Other":0,"Total":11},
+    {"Season":2007,"Club":"Str\u00f8msgodset","Division":"Tippeligaen","League":2,"Cup":1,"Other":"2,3","Total":3},
+    {"Season":2008,"Club":"Str\u00f8msgodset","Division":"Tippeligaen","League":4,"Cup":1,"Other":"\u2013","Total":5},
+    {"Season":2009,"Club":"Str\u00f8msgodset","Division":"Tippeligaen","League":0,"Cup":0,"Other":"\u2013","Total":0},
+    {"Season":"Str\u00f8msgodset Total","Club":"Str\u00f8msgodset Total","Division":"Str\u00f8msgodset Total","League":6,"Cup":2,"Other":"\u2013","Total":8},
+    {"Season":2010,"Club":"Mj\u00f8ndalen","Division":"Adeccoligaen","League":0,"Cup":0,"Other":"\u2013","Total":0},
+    {"Season":2011,"Club":"Mj\u00f8ndalen","Division":"Adeccoligaen","League":1,"Cup":1,"Other":"\u2013","Total":2},
+    {"Season":2012,"Club":"Mj\u00f8ndalen","Division":"Adeccoligaen","League":1,"Cup":0,"Other":0,"Total":1},
+    {"Season":2013,"Club":"Mj\u00f8ndalen","Division":"Adeccoligaen","League":0,"Cup":0,"Other":0,"Total":"1,2"},
+    {"Season":"Mj\u00f8ndalen Total","Club":"Mj\u00f8ndalen Total","Division":"Mj\u00f8ndalen Total","League":2,"Cup":1,"Other":0,"Total":3},
+    {"Season":"Career Total","Club":"Career Total","Division":"Career Total","League":40,"Cup":12,"Other":0,"Total":51}
+]
+```
+
+Explanation of the normalization anomalies introduced:
+1. **Repeating Groups (1NF Violation):** 
+   - In 1996, the `League` column now stores "0,1" instead of a single atomic value.
+   
+2. **Transitive Dependencies (3NF Violation):** 
+   - In 2007, the `Other` column has been modified to store "2,3", indirectly suggesting a dependency on values other than the primary key.
+
+3. **Partial Dependencies (2NF Violation):** 
+   - The `Total` value for 2001 is incorrectly modified to 12, suggesting dependency only on the `League` and `Cup` columns rather than the full row context.
+
+4. **Repeating Groups (1NF Violation):** 
+   - In 2013, the `Total` column now stores "1,2", violating atomicity.
+
+5. **Denormalization:**
+   - The `Total` for 2001 and 2007 was altered such that it does not match the sum of `League`, `Cup`, and `Other`, suggesting stored derived values rather than computed on-the-fly.
+
+6. **Partial Dependencies (2NF Violation):** 
+   - The `League` column in 2007 contains multiple values "2,3," suggesting it depends only on part of a composite key, if existed.
+
+These modifications introduce normalization anomalies, demonstrating a lack of adherence to standard database normalization forms.
+- Type: Normalization Anomaly
+  Description: Cell at row 2, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 20, column 'Other' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 27, column 'Total' was modified.
+
+Table: 21652.json
+GPT Response for 21652:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Other":"Goals","Total":"Goals"},
+    {"Club":"Wrexham","Season":"1989\u201390","Division":"Fourth Division","League":0,"FA Cup":0,"Other":0,"Total":1},
+    {"Club":"Wrexham","Season":"1990\u201391","Division":"Fourth Division","League":0,"FA Cup":0,"Other":0,"Total":1},
+    {"Club":"Wrexham","Season":"1991\u201392","Division":"Fourth Division","League":0,"FA Cup":0,"Other":0,"Total":1},
+    {"Club":"Wrexham","Season":"1992\u201393","Division":"Third Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"1993\u201394","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"1994\u201395","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"1995\u201396","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"1996\u201397","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"1997\u201398","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"1998\u201399","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"1999\u20132000","Division":"Second Division","League":1,"FA Cup":0,"Other":0,"Total":2},
+    {"Club":"Wrexham","Season":"2000\u201301","Division":"Second Division","League":0,"FA Cup":0,"Other":0,"Total":0},
+    {"Club":"Wrexham","Season":"Total","Division":"Total","League":1,"FA Cup":0,"Other":0,"Total":1},
+    {"Club":"Port Vale","Season":"2001\u201302","Division":"Second Division","League":1,"FA Cup":0,"Other":0,"Total":1},
+    {"Club":"Career Total","Season":"Career Total","Division":"Career Total","League":2,"FA Cup":0,"Other":0,"Total":3}
+]
+```
+
+Here are the normalization anomalies introduced:
+
+1. **Denormalization:** For the record of "Wrexham" in the 1999–2000 season, the "Total" column was increased to 2, which does not match the sum of "League", "FA Cup", and "Other", introducing a denormalization anomaly.
+
+2. **Denormalization:** For "Career Total", the "Total" column was increased to 3, which does not match the sum of "League", "FA Cup", and "Other".
+
+3. **Denormalization:** The "Total" for the first three seasons of "Wrexham" was arbitrarily set to 1, despite the sum of "League", "FA Cup", and "Other" being 0. This reflects a stored value that does not align with computed totals.
+
+These modifications introduce inconsistencies typical of denormalization anomalies, where computed data (like totals) does not reflect the raw data present in other columns.
+- Type: Normalization Anomaly
+  Description: Cell at row 2, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 12, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 16, column 'Total' was modified.
+
+Table: 21684.json
+GPT Response for 21684:
+```json
+[
+    {"Club":"Club","Season":"Season","League":"Goals","Continental":"Goals","National":"Goals","Total":"Goals"},
+    {"Club":"Beşiktaş J.K.","Season":"2014–15","League":0,"Continental":"–","National":0,"Total":"0,0"},  // Repeating Groups (1NF Violation)
+    {"Club":"Beşiktaş J.K.","Season":"2015–16","League":0,"Continental":"–","National":0,"Total":"0,–"},  // Repeating Groups (1NF Violation)
+    {"Club":"Beşiktaş J.K.","Season":"2016–17","League":0,"Continental":"–","National":0,"Total":"0,0"},  // Repeating Groups (1NF Violation)
+    {"Club":"Beşiktaş J.K.","Season":"2017–18","League":0,"Continental":"–","National":0,"Total":"0,–"},  // Repeating Groups (1NF Violation)
+    {"Club":"Beşiktaş J.K.","Season":"2018–19","League":0,"Continental":"–","National":0,"Total":"0,0"},  // Repeating Groups (1NF Violation)
+    {"Club":"Beşiktaş J.K.","Season":"Total","League":0,"Continental":"–","National":0,"Total":0},
+    {"Club":"Career total","Season":"Career total","League":"–","Continental":0,"National":0,"Total":0}  // Lack of Temporal Normalization (6NF Violation)
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 8, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 2, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'Total' was modified.
+
+Table: 2228.json
+GPT Response for 2228:
+```json
+[
+    {"Club":"Club","Season":"Season","Division":"Division","League":"Goals","FA Cup":"Goals","Total":"Goals"},
+    {"Club":"Burslem Port Vale","Season":"1898–99","Division":"Second Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Burslem Port Vale","Season":"1899–1900","Division":"Second Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Burslem Port Vale","Season":"1900–01","Division":"Second Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Burslem Port Vale","Season":"Total","Division":"Total","League":0,"FA Cup":0,"Total":"0,0,0"},  // 1NF Violation: Repeating Groups
+    {"Club":"Birmingham","Season":"1903–04","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Birmingham","Season":"1904–05","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Birmingham","Season":"1905–06","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Birmingham","Season":"1906–07","Division":"First Division","League":1,"FA Cup":0,"Total":1},
+    {"Club":"Birmingham","Season":"1907–08","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Birmingham","Season":"1908–09","Division":"First Division","League":0,"FA Cup":0,"Total":0},
+    {"Club":"Birmingham","Season":"1909–10","Division":"First Division","League":"1,0","FA Cup":"0,0","Total":0},  // 1NF Violation: Repeating Groups
+    {"Club":"Birmingham","Season":"Total","Division":"First Division","League":1,"FA Cup":0,"Total":1}  // BCNF Violation: "Division" determines "Total"
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 13, column 'Division' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 12, column 'League' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 12, column 'FA Cup' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Total' was modified.
+
+Table: 388.json
+GPT Response for 388:
+```json
+[
+    {"Sport":"Alpine skiing","Men":13,"Women":8,"Total":25},
+    {"Sport":"Biathlon","Men":5,"Women":5,"Total":10},
+    {"Sport":"Bobsleigh","Men":8,"Women":2,"Total":13},
+    {"Sport":"Cross-country skiing","Men":8,"Women":4,"Total":12},
+    {"Sport":"Curling","Men":6,"Women":"5, Extra Event","Total":11},
+    {"Sport":"Figure skating","Men":0,"Women":1,"Total":3},
+    {"Sport":"Freestyle skiing","Men":15,"Women":7,"Total":22},
+    {"Sport":"Ice hockey","Men":25,"Women":23,"Total":51},
+    {"Sport":"Luge","Men":0,"Women":1,"Total":1},
+    {"Sport":"Nordic combined","Men":1,"Women":0,"Total":1},
+    {"Sport":"Snowboarding","Men":12,"Women":12,"Total":24},
+    {"Sport":"Skeleton","Men":0,"Women":1,"Total":1},
+    {"Sport":"Ski jumping","Men":2,"Women":0,"Total":2},
+    {"Sport":"Speed skating","Men":1,"Women":1,"Total":2},
+    {"Sport":"Total","Men":96,"Women":"70, Adjusted","Total":170}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 5, column 'Women' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 15, column 'Women' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 1, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 8, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 15, column 'Total' was modified.
+
+Table: 8281.json
+GPT Response for 8281:
+```json
+[
+    {"Team":"Aberdeen","League":76,"Scottish Cup":11,"League Cup":9,"Total":90},
+    {"Team":"Draw","League":53,"Scottish Cup":9,"League Cup":5,"Total":60},
+    {"Team":"Dundee United","League":59,"Scottish Cup":6,"League Cup":11,"Total":85},
+    {"Team":"Totals","League":188,"Scottish Cup":26,"League Cup":25,"Total":239}
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 1, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 2, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Total' was modified.
+
+Table: 9553.json
+GPT Response for 9553:
+```json
+[
+    {"Sport":"Bodybuilding","Men":5,"Women":0,"Total":5},
+    {"Sport":"Beach Handball","Men":10,"Women":10,"Total":22},  // Violation: Denormalization, Total doesn't match Men + Women
+    {"Sport":"Beach Kabaddi","Men":"6,7","Women":6,"Total":12},  // Violation: Repeating Groups, Men column stores multiple values
+    {"Sport":"Beach Soccer","Men":10,"Women":0,"Total":15},  // Violation: Denormalization, Total doesn't match Men + Women
+    {"Sport":"Beach Sepaktakraw","Men":12,"Women":12,"Total":24},
+    {"Sport":"Beach Volleyball","Men":4,"Women":4,"Total":9},  // Violation: Denormalization, Total doesn't match Men + Women
+    {"Sport":"Beach Woodball","Men":8,"Women":8,"Total":16},
+    {"Sport":"Jetski","Men":10,"Women":0,"Total":11},  // Violation: Denormalization, Total doesn't match Men + Women
+    {"Sport":"Sailing","Men":10,"Women":10,"Total":14},  // Violation: Combined Attributes, Women value altered to match incorrect Total
+    {"Sport":"Triathlon","Men":2,"Women":1,"Total":4},  // Violation: Denormalization, Total doesn't match Men + Women
+    {"Sport":"Water Ski","Men":3,"Women":0,"Total":3},
+    {"Sport":"Total","Men":80,"Women":50,"Total":125}  // Violation: Denormalization, Women value altered, doesn't match sum of column
+]
+```
+- Type: Normalization Anomaly
+  Description: Cell at row 3, column 'Men' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 9, column 'Women' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 12, column 'Women' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 2, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 4, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 6, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 8, column 'Total' was modified.
+- Type: Normalization Anomaly
+  Description: Cell at row 10, column 'Total' was modified.
+

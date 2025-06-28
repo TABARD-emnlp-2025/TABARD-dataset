@@ -1,0 +1,90 @@
+[
+  {
+    "State": "Denmark",
+    "Membership": "Full",
+    "Parliament": "The Folketing",
+    "Membership status": "@@@_None",
+    "Represented since": 1952.0,
+    "Members": 16.0
+  },
+  {
+    "State": "Iceland",
+    "Membership": "Full",
+    "Parliament": "Alþingi",
+    "Membership status": "Sovereign state",
+    "Represented since": 1952.0,
+    "Members": 7.0
+  },
+  {
+    "State": "Norway",
+    "Membership": "Full",
+    "Parliament": "The Storting",
+    "Membership status": "Sovereign state",
+    "Represented since": 1952.0,
+    "Members": 20.0
+  },
+  {
+    "State": "Sweden",
+    "Membership": "Full",
+    "Parliament": "The Riksdag",
+    "Membership status": "Sovereign state",
+    "Represented since": 1952.0,
+    "Members": 20.0
+  },
+  {
+    "State": "Finland",
+    "Membership": "Full",
+    "Parliament": "Eduskunta",
+    "Membership status": "Sovereign state",
+    "Represented since": 1955.0,
+    "Members": 18.0
+  },
+  {
+    "State": "Greenland",
+    "Membership": "Associate",
+    "Parliament": "Landsting",
+    "Membership status": "Self-governing region of the Danish Realm",
+    "Represented since": 1984.0,
+    "Members": 2.0
+  },
+  {
+    "State": "Faroe Islands",
+    "Membership": "Associate",
+    "Parliament": "Løgting",
+    "Membership status": "Self-governing region of the Danish Realm",
+    "Represented since": 1970.0,
+    "Members": 2.0
+  },
+  {
+    "State": "Åland Islands",
+    "Membership": "Associate",
+    "Parliament": "Lagting",
+    "Membership status": "Self-governing region of Finland",
+    "Represented since": "@@@_-4515.4355518724",
+    "Members": 2.0
+  },
+  {
+    "State": "Estonia",
+    "Membership": "Observers",
+    "Parliament": null,
+    "Membership status": null,
+    "Represented since": null,
+    "Members": null
+  },
+  {
+    "State": "Latvia",
+    "Membership": "Observers",
+    "Parliament": null,
+    "Membership status": null,
+    "Represented since": "@@@_24951.9199668515",
+    "Members": "@@@_-8.4583333333"
+  },
+  {
+    "State": "Lithuania",
+    "Membership": "Observers",
+    "Parliament": null,
+    "Membership status": null,
+    "Represented since": null,
+    "Members": "@@@_-10.875"
+  }
+]

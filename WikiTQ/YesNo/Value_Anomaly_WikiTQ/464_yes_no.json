@@ -1,0 +1,58 @@
+[
+    {
+        "Year":"Yes",
+        "Model":"No",
+        "Denomination":"No",
+        "Metal composition":"No",
+        "Dimensions":"No"
+    },
+    {
+        "Year":"No",
+        "Model":"No",
+        "Denomination":"No",
+        "Metal composition":"No",
+        "Dimensions":"No"
+    },
+    {
+        "Year":"No",
+        "Model":"Yes",
+        "Denomination":"No",
+        "Metal composition":"No",
+        "Dimensions":"No"
+    },
+    {
+        "Year":"No",
+        "Model":"No",
+        "Denomination":"No",
+        "Metal composition":"No",
+        "Dimensions":"Yes"
+    },
+    {
+        "Year":"No",
+        "Model":"No",
+        "Denomination":"No",
+        "Metal composition":"No",
+        "Dimensions":"No"
+    },
+    {
+        "Year":"No",
+        "Model":"No",
+        "Denomination":"No",
+        "Metal composition":"No",
+        "Dimensions":"No"
+    },
+    {
+        "Year":"No",
+        "Model":"No",
+        "Denomination":"No",
+        "Metal composition":"No",
+        "Dimensions":"No"
+    },
+    {
+        "Year":"Yes",
+        "Model":"No",
+        "Denomination":"No",
+        "Metal composition":"No",
+        "Dimensions":"No"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "Year":1995,
+        "Title":"All My Children",
+        "Role":"Anita Santos",
+        "Notes":"1 episode"
+    },
+    {
+        "Year":"@@@_1995-2001",
+        "Title":"As the World Turns",
+        "Role":"Nikki Munson",
+        "Notes":"Regular role, 104 episodes"
+    },
+    {
+        "Year":1999,
+        "Title":"The '60s",
+        "Role":"Sarah Weinstock",
+        "Notes":"Miniseries"
+    },
+    {
+        "Year":2007,
+        "Title":"Mr. and Mrs. Smith",
+        "Role":"Jane Smith",
+        "Notes":"Unaired pilot"
+    },
+    {
+        "Year":"@@@_2008-2009",
+        "Title":"Chuck",
+        "Role":"Jill Roberts",
+        "Notes":"4 episodes"
+    },
+    {
+        "Year":2010,
+        "Title":"Dark Blue",
+        "Role":"Maria",
+        "Notes":"3 episodes"
+    },
+    {
+        "Year":2010,
+        "Title":"Gigantic",
+        "Role":"Celebrity",
+        "Notes":"2 episodes"
+    },
+    {
+        "Year":"@@@_2012-2014",
+        "Title":"Dallas",
+        "Role":"Elena Ramos",
+        "Notes":"Main role"
+    },
+    {
+        "Year":2016,
+        "Title":"American Crime Story",
+        "Role":"Denise Brown",
+        "Notes":"Recurring role, 5 episodes"
+    },
+    {
+        "Year":2016,
+        "Title":"Secrets and Lies",
+        "Role":"Kate Warner",
+        "Notes":"Main role (season 2)"
+    },
+    {
+        "Year":2016,
+        "Title":"@@@_Robot chicken",
+        "Role":"Molly McIntire, Cindy Brady",
+        "Notes":"Voice role, 1 episode"
+    },
+    {
+        "Year":"@@@_2016-2018",
+        "Title":"Lethal Weapon",
+        "Role":"Dr. Maureen Cahill",
+        "Notes":"Main role"
+    },
+    {
+        "Year":2019,
+        "Title":"Magnum P.I.",
+        "Role":"Hannah",
+        "Notes":"2 episodes"
+    }
+]

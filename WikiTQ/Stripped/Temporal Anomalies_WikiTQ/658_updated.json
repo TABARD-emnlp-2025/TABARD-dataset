@@ -1,0 +1,102 @@
+[
+    {
+        "Week":1,
+        "Date":"Saturday, April 14",
+        "Kickoff":"7:00 p.m.",
+        "Opponent":"at Rhein Fire",
+        "Results\nFinal score":"W 15–3",
+        "Results\nTeam record":"1–0",
+        "Game site":"LTU arena",
+        "Attendance":"30,355"
+    },
+    {
+        "Week":2,
+        "Date":"Sunday, April 22",
+        "Kickoff":"4:00 p.m.",
+        "Opponent":"Hamburg Sea Devils",
+        "Results\nFinal score":"L 7–16",
+        "Results\nTeam record":"1–1",
+        "Game site":"Olympic Stadium",
+        "Attendance":"30,657"
+    },
+    {
+        "Week":3,
+        "Date":"Saturday, April 28",
+        "Kickoff":"6:00 p.m.",
+        "Opponent":"Amsterdam Admirals",
+        "Results\nFinal score":"L 10–14",
+        "Results\nTeam record":"1–2",
+        "Game site":"Olympic Stadium",
+        "Attendance":"11,942"
+    },
+    {
+        "Week":4,
+        "Date":"Saturday, May 5",
+        "Kickoff":"6:00 a.m.",
+        "Opponent":"at Cologne Centurions",
+        "Results\nFinal score":"W 31–28",
+        "Results\nTeam record":"2–2",
+        "Game site":"RheinEnergieStadion",
+        "Attendance":"10,084"
+    },
+    {
+        "Week":5,
+        "Date":"Sunday, May 13",
+        "Kickoff":"4:00 p.m.",
+        "Opponent":"Cologne Centurions",
+        "Results\nFinal score":"L 10–24",
+        "Results\nTeam record":"2–3",
+        "Game site":"Olympic Stadium",
+        "Attendance":"11,995"
+    },
+    {
+        "Week":6,
+        "Date":"Sunday, May 20",
+        "Kickoff":"5:00 p.m.",
+        "Opponent":"at Frankfurt Galaxy",
+        "Results\nFinal score":"L 7–35",
+        "Results\nTeam record":"2–4",
+        "Game site":"Commerzbank-Arena",
+        "Attendance":"30,125"
+    },
+    {
+        "Week":7,
+        "Date":"Saturday, May 26",
+        "Kickoff":"2:00 p.m.",
+        "Opponent":"at Hamburg Sea Devils",
+        "Results\nFinal score":"L 7–17",
+        "Results\nTeam record":"2–5",
+        "Game site":"AOL Arena",
+        "Attendance":"18,337"
+    },
+    {
+        "Week":8,
+        "Date":"Saturday, June 2",
+        "Kickoff":"2:00 p.m.",
+        "Opponent":"Frankfurt Galaxy",
+        "Results\nFinal score":"L 22–25",
+        "Results\nTeam record":"2–6",
+        "Game site":"Olympic Stadium",
+        "Attendance":"11,882"
+    },
+    {
+        "Week":9,
+        "Date":"Friday, June 8",
+        "Kickoff":"7:00 p.m.",
+        "Opponent":"Rhein Fire",
+        "Results\nFinal score":"L 17–24",
+        "Results\nTeam record":"2–7",
+        "Game site":"Olympic Stadium",
+        "Attendance":"12,114"
+    },
+    {
+        "Week":10,
+        "Date":"Friday, June 15",
+        "Kickoff":"8:00 p.m.",
+        "Opponent":"at Amsterdam Admirals",
+        "Results\nFinal score":"L 20–21",
+        "Results\nTeam record":"2–8",
+        "Game site":"Olympic Stadium",
+        "Attendance":""
+    }
+]

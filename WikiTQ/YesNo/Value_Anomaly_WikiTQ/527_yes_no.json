@@ -1,0 +1,65 @@
+[
+    {
+        "Tournament":"No",
+        "Games played":"No",
+        "Points per game":"No",
+        "Rebounds per game":"No",
+        "Assists per game":"No"
+    },
+    {
+        "Tournament":"No",
+        "Games played":"No",
+        "Points per game":"No",
+        "Rebounds per game":"No",
+        "Assists per game":"No"
+    },
+    {
+        "Tournament":"No",
+        "Games played":"No",
+        "Points per game":"No",
+        "Rebounds per game":"Yes",
+        "Assists per game":"No"
+    },
+    {
+        "Tournament":"No",
+        "Games played":"No",
+        "Points per game":"No",
+        "Rebounds per game":"No",
+        "Assists per game":"No"
+    },
+    {
+        "Tournament":"No",
+        "Games played":"No",
+        "Points per game":"No",
+        "Rebounds per game":"No",
+        "Assists per game":"No"
+    },
+    {
+        "Tournament":"No",
+        "Games played":"No",
+        "Points per game":"No",
+        "Rebounds per game":"No",
+        "Assists per game":"No"
+    },
+    {
+        "Tournament":"No",
+        "Games played":"No",
+        "Points per game":"No",
+        "Rebounds per game":"Yes",
+        "Assists per game":"No"
+    },
+    {
+        "Tournament":"Yes",
+        "Games played":"No",
+        "Points per game":"No",
+        "Rebounds per game":"Yes",
+        "Assists per game":"No"
+    },
+    {
+        "Tournament":"No",
+        "Games played":"No",
+        "Points per game":"No",
+        "Rebounds per game":"No",
+        "Assists per game":"No"
+    }
+]

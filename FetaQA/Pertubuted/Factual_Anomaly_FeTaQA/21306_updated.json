@@ -1,0 +1,30 @@
+[
+    {
+        "Channel":14.1,
+        "Video":"1080i",
+        "Aspect":"16:9",
+        "PSIP Short Name":"KJZZ-DT",
+        "Programming":"Main KJZZ-TV programming"
+    },
+    {
+        "Channel":14.2,
+        "Video":"@@@_8K",
+        "Aspect":"16:9",
+        "PSIP Short Name":"Comet",
+        "Programming":"Comet"
+    },
+    {
+        "Channel":14.3,
+        "Video":"480i",
+        "Aspect":"@@@_4:3",
+        "PSIP Short Name":"TBD",
+        "Programming":"TBD"
+    },
+    {
+        "Channel":14.4,
+        "Video":"480i",
+        "Aspect":"16:9",
+        "PSIP Short Name":"Charge",
+        "Programming":"@@@_Quantum Physics Lectures"
+    }
+]

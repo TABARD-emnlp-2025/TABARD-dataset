@@ -1,0 +1,38 @@
+[
+    {
+        "#":1.0,
+        "Date":"29 February 2012",
+        "Venue":"Khujand, Tajikistan",
+        "Opponent":"North Korea",
+        "Score":"1\u20131",
+        "Result":"1\u20131",
+        "Competition":"2014 FIFA World Cup qualification"
+    },
+    {
+        "#":2.0,
+        "Date":"9 March 2012",
+        "Venue":"Kathmandu, Nepal",
+        "Opponent":"@@@_Atlantis",
+        "Score":"1\u20130",
+        "Result":"2\u20130",
+        "Competition":"2012 AFC Challenge Cup"
+    },
+    {
+        "#":3.0,
+        "Date":"@@@_32 August 2013",
+        "Venue":"Khujand, Tajikistan",
+        "Opponent":"India",
+        "Score":"3\u20130",
+        "Result":"3\u20130",
+        "Competition":"Friendly"
+    },
+    {
+        "#":4.0,
+        "Date":"31 March 2015",
+        "Venue":"Dushanbe, Tajikistan",
+        "Opponent":"Syria",
+        "Score":"2\u20133",
+        "Result":"@@@_3\u20132",
+        "Competition":"Friendly"
+    }
+]

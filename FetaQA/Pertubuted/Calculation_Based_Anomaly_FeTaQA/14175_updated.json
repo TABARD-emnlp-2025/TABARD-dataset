@@ -1,0 +1,218 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1994–95",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1995–96",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1996–97",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1997–98",
+        "Division":"First Division",
+        "League":11,
+        "FA Cup":1,
+        "Other":0,
+        "Total":12
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1998–99",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1999–2000",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":1,
+        "FA Cup":1,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Mansfield Town",
+        "Season":"2000–01",
+        "Division":"Third Division",
+        "League":3,
+        "FA Cup":0,
+        "Other":2,
+        "Total":5
+    },
+    {
+        "Club":"Mansfield Town",
+        "Season":"2001–02",
+        "Division":"Third Division",
+        "League":8,
+        "FA Cup":1,
+        "Other":0,
+        "Total":9
+    },
+    {
+        "Club":"Mansfield Town",
+        "Season":"2002–03",
+        "Division":"Second Division",
+        "League":13,
+        "FA Cup":0,
+        "Other":0,
+        "Total":13
+    },
+    {
+        "Club":"Mansfield Town",
+        "Season":"2003–04",
+        "Division":"Third Division",
+        "League":8,
+        "FA Cup":0,
+        "Other":0,
+        "Total":8
+    },
+    {
+        "Club":"Mansfield Town",
+        "Season":"2004–05",
+        "Division":"League Two",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Mansfield Town",
+        "Season":"Total",
+        "Division":"Total",
+        "League":35,
+        "FA Cup":1,
+        "Other":2,
+        "Total":"@@@_40"
+    },
+    {
+        "Club":"Scunthorpe United",
+        "Season":"2004–05",
+        "Division":"League Two",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Scunthorpe United",
+        "Season":"2005–06",
+        "Division":"League One",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Scunthorpe United",
+        "Season":"Total",
+        "Division":"Total",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Chester City (loan)",
+        "Season":"2005–06",
+        "Division":"League Two",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Leyton Orient",
+        "Season":"2005–06",
+        "Division":"League Two",
+        "League":2,
+        "FA Cup":0,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Leyton Orient",
+        "Season":"2006–07",
+        "Division":"League One",
+        "League":3,
+        "FA Cup":2,
+        "Other":0,
+        "Total":5
+    },
+    {
+        "Club":"Leyton Orient",
+        "Season":"2007–08",
+        "Division":"League One",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Leyton Orient",
+        "Season":"Total",
+        "Division":"Total",
+        "League":5,
+        "FA Cup":2,
+        "Other":0,
+        "Total":"@@@_8"
+    },
+    {
+        "Club":"Notts County (loan)",
+        "Season":"2007–08",
+        "Division":"League Two",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "Division":"Career total",
+        "League":41,
+        "FA Cup":4,
+        "Other":2,
+        "Total":"@@@_48"
+    }
+]

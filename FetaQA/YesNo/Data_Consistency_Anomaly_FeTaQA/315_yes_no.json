@@ -1,0 +1,44 @@
+[
+    {
+        "Year": "No",
+        "Award": "No",
+        "Category": "No",
+        "Motive": "No",
+        "Result": "Yes"
+    },
+    {
+        "Year": "No",
+        "Award": "No",
+        "Category": "Yes",
+        "Motive": "No",
+        "Result": "No"
+    },
+    {
+        "Year": "No",
+        "Award": "No",
+        "Category": "No",
+        "Motive": "No",
+        "Result": "No"
+    },
+    {
+        "Year": "No",
+        "Award": "No",
+        "Category": "Yes",
+        "Motive": "No",
+        "Result": "No"
+    },
+    {
+        "Year": "No",
+        "Award": "No",
+        "Category": "No",
+        "Motive": "No",
+        "Result": "No"
+    },
+    {
+        "Year": "No",
+        "Award": "No",
+        "Category": "Yes",
+        "Motive": "No",
+        "Result": "Yes"
+    }
+]

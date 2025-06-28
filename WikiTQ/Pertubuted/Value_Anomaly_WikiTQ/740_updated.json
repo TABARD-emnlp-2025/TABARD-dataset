@@ -1,0 +1,202 @@
+[
+  {
+    "Pos": "1",
+    "No": 5,
+    "Driver": "Fernando Alonso",
+    "Constructor": "Renault",
+    "Laps": 56,
+    "Time/Retired": "1:31:33.736",
+    "Grid": 1,
+    "Points": 10.0
+  },
+  {
+    "Pos": "2",
+    "No": 16,
+    "Driver": "Jarno Trulli",
+    "Constructor": "Toyota",
+    "Laps": "@@@_-77",
+    "Time/Retired": "+24.327",
+    "Grid": 2,
+    "Points": 8.0
+  },
+  {
+    "Pos": "3",
+    "No": 8,
+    "Driver": "Nick Heidfeld",
+    "Constructor": "Williams-BMW",
+    "Laps": 56,
+    "Time/Retired": "+32.188",
+    "Grid": 10,
+    "Points": 6.0
+  },
+  {
+    "Pos": "4",
+    "No": "@@@_-21",
+    "Driver": "Juan Pablo Montoya",
+    "Constructor": "McLaren-Mercedes",
+    "Laps": 56,
+    "Time/Retired": "+41.631",
+    "Grid": 11,
+    "Points": 5.0
+  },
+  {
+    "Pos": "5",
+    "No": 17,
+    "Driver": "Ralf Schumacher",
+    "Constructor": "Toyota",
+    "Laps": 56,
+    "Time/Retired": "+51.854",
+    "Grid": 5,
+    "Points": 4.0
+  },
+  {
+    "Pos": "6",
+    "No": 14,
+    "Driver": "David Coulthard",
+    "Constructor": "Red Bull-Cosworth",
+    "Laps": 56,
+    "Time/Retired": "+1:12.543",
+    "Grid": 8,
+    "Points": 3.0
+  },
+  {
+    "Pos": "7",
+    "No": 1,
+    "Driver": "Michael Schumacher",
+    "Constructor": "Ferrari",
+    "Laps": 56,
+    "Time/Retired": "+1:19.988",
+    "Grid": 13,
+    "Points": 2.0
+  },
+  {
+    "Pos": "8",
+    "No": 15,
+    "Driver": "Christian Klien",
+    "Constructor": "Red Bull-Cosworth",
+    "Laps": 56,
+    "Time/Retired": "+1:20.835",
+    "Grid": 7,
+    "Points": 1.0
+  },
+  {
+    "Pos": "9",
+    "No": 9,
+    "Driver": "Kimi Räikkönen",
+    "Constructor": "McLaren-Mercedes",
+    "Laps": 56,
+    "Time/Retired": "+1:21.580",
+    "Grid": 6,
+    "Points": null
+  },
+  {
+    "Pos": "10",
+    "No": 12,
+    "Driver": "Felipe Massa",
+    "Constructor": "Sauber-Petronas",
+    "Laps": 55,
+    "Time/Retired": "+1 Lap",
+    "Grid": 14,
+    "Points": null
+  },
+  {
+    "Pos": "11",
+    "No": 19,
+    "Driver": "Narain Karthikeyan",
+    "Constructor": "Jordan-Toyota",
+    "Laps": 54,
+    "Time/Retired": "+2 Laps",
+    "Grid": 17,
+    "Points": null
+  },
+  {
+    "Pos": "12",
+    "No": 18,
+    "Driver": "Tiago Monteiro",
+    "Constructor": "Jordan-Toyota",
+    "Laps": 53,
+    "Time/Retired": "+3 Laps",
+    "Grid": 18,
+    "Points": null
+  },
+  {
+    "Pos": "13",
+    "No": 21,
+    "Driver": "Christijan Albers",
+    "Constructor": "Minardi-Cosworth",
+    "Laps": 52,
+    "Time/Retired": "+4 Laps",
+    "Grid": 19,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 2,
+    "Driver": "Rubens Barrichello",
+    "Constructor": "Ferrari",
+    "Laps": 49,
+    "Time/Retired": "Handling",
+    "Grid": 12,
+    "Points": null
+  },
+  {
+    "Pos": "@@@_None",
+    "No": 6,
+    "Driver": "Giancarlo Fisichella",
+    "Constructor": "Renault",
+    "Laps": "@@@_721",
+    "Time/Retired": "Collision",
+    "Grid": 3,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 7,
+    "Driver": "Mark Webber",
+    "Constructor": "Williams-BMW",
+    "Laps": 36,
+    "Time/Retired": "Collision",
+    "Grid": 4,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 11,
+    "Driver": "Jacques Villeneuve",
+    "Constructor": "Sauber-Petronas",
+    "Laps": 26,
+    "Time/Retired": "Spun Off",
+    "Grid": 16,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": "@@@_209",
+    "Driver": "Jenson Button",
+    "Constructor": "BAR-Honda",
+    "Laps": 2,
+    "Time/Retired": "Engine",
+    "Grid": 9,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 4,
+    "Driver": "Anthony Davidson",
+    "Constructor": "BAR-Honda",
+    "Laps": 2,
+    "Time/Retired": "Engine",
+    "Grid": 15,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 20,
+    "Driver": "Patrick Friesacher",
+    "Constructor": "Minardi-Cosworth",
+    "Laps": 2,
+    "Time/Retired": "Spun Off",
+    "Grid": 20,
+    "Points": null
+  }
+]

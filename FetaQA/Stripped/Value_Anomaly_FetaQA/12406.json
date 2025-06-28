@@ -1,0 +1,66 @@
+[
+    {
+        "Year":"Representing Great Britain \/ England",
+        "Competition":"Representing Great Britain \/ England",
+        "Venue":"Representing Great Britain \/ England",
+        "Position":"Representing Great Britain \/ England",
+        "Event":"Representing Great Britain \/ England",
+        "Notes":"Representing Great Britain \/ England"
+    },
+    {
+        "Year":1989,
+        "Competition":"European Cup",
+        "Venue":"Gateshead, United Kingdom",
+        "Position":"6th",
+        "Event":"1500 m",
+        "Notes":"4:09.32"
+    },
+    {
+        "Year":1990,
+        "Competition":"Commonwealth Games",
+        "Venue":"Auckland, New Zealand",
+        "Position":"3rd",
+        "Event":"1500 m",
+        "Notes":"4:09.00"
+    },
+    {
+        "Year":1990,
+        "Competition":"European Championships",
+        "Venue":"Split, Yugoslavia",
+        "Position":"15th (h)",
+        "Event":"1500 m",
+        "Notes":"4:23.80"
+    },
+    {
+        "Year":1994,
+        "Competition":"European Cross Country Championships",
+        "Venue":"Alnwick, United Kingdom",
+        "Position":"31st",
+        "Event":"4.5 km",
+        "Notes":"15:13"
+    },
+    {
+        "Year":1995,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Durham, United Kingdom",
+        "Position":"24th",
+        "Event":"6.5 km",
+        "Notes":"21:21"
+    },
+    {
+        "Year":2002,
+        "Competition":"Commonwealth Games",
+        "Venue":"Manchester, United Kingdom",
+        "Position":"6th",
+        "Event":"Marathon",
+        "Notes":"2:41:26"
+    },
+    {
+        "Year":"(h) Indicates overall position in qualifying heats",
+        "Competition":"(h) Indicates overall position in qualifying heats",
+        "Venue":"(h) Indicates overall position in qualifying heats",
+        "Position":"(h) Indicates overall position in qualifying heats",
+        "Event":"(h) Indicates overall position in qualifying heats",
+        "Notes":"(h) Indicates overall position in qualifying heats"
+    }
+]

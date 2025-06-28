@@ -1,0 +1,93 @@
+[
+    {
+        "Party":"Institutional Revolutionary Party",
+        "Votes":"10,458,618",
+        "%":77.4,
+        "Seats":189,
+        "+\/-":11
+    },
+    {
+        "Party":"National Action Party",
+        "Votes":"2,207,069",
+        "%":16.3,
+        "Seats":25,
+        "+\/-":5
+    },
+    {
+        "Party":"Popular Socialist Party",
+        "Votes":"541,833",
+        "%":4.0,
+        "Seats":10,
+        "+\/-":0
+    },
+    {
+        "Party":"Authentic Party of the Mexican Revolution",
+        "Votes":"272,339",
+        "%":2.0,
+        "Seats":7,
+        "+\/-":2
+    },
+    {
+        "Party":"Non-registered candidates",
+        "Votes":"36,858",
+        "%":0.3,
+        "Seats":0,
+        "+\/-":0
+    },
+    {
+        "Party":"Invalid\/blank votes",
+        "Votes":"1,493,267",
+        "%":"\u2013",
+        "Seats":"\u2013",
+        "+\/-":"\u2013"
+    },
+    {
+        "Party":"Total",
+        "Votes":"15,009,984",
+        "%":100,
+        "Seats":231,
+        "+\/-":18
+    },
+    {
+        "Party":"Source: Nohlen",
+        "Votes":"Source: Nohlen",
+        "%":"Source: Nohlen",
+        "Seats":"Source: Nohlen",
+        "+\/-":"Source: Nohlen"
+    },
+    {
+        "Party":"Futuristic Progressive Party",
+        "Votes":"1,000,000",
+        "%":-5.0,
+        "Seats":15,
+        "+\/-":3
+    },
+    {
+        "Party":"Historical Monarch Party",
+        "Votes":"500,000",
+        "%":0.5,
+        "Seats":300,
+        "+\/-":-10
+    },
+    {
+        "Party":"Time Travelers Party",
+        "Votes":"750,000",
+        "%":5.0,
+        "Seats":10,
+        "+\/-":5
+    },
+    {
+        "Party":"Galactic Federation",
+        "Votes":"1,000",
+        "%":0.01,
+        "Seats":0,
+        "+\/-":0
+    },
+    {
+        "Party":"Nonexistent Party",
+        "Votes":"0",
+        "%":0.0,
+        "Seats":5,
+        "+\/-":1
+    }
+]

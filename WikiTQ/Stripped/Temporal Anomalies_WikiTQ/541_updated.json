@@ -1,0 +1,51 @@
+[
+    {
+        "Name":"Ratan Planet",
+        "Area":"Opp. ALIMCO, Naramau, G.T Road, Kalianpur",
+        "Height":"90 metres (295 ft)",
+        "Floors":16,
+        "Year":2013.0
+    },
+    {
+        "Name":"The Landmark Hotel",
+        "Area":"Near Navin Market, Mall Road, Downtown",
+        "Height":"80 metres (262 ft)",
+        "Floors":14,
+        "Year":2000.0
+    },
+    {
+        "Name":"Ratan Orbit",
+        "Area":"Mukherjee Vihar, Kalianpur",
+        "Height":"70 metres (230 ft)",
+        "Floors":14,
+        "Year":"2020.0"
+    },
+    {
+        "Name":"BSNL Tower",
+        "Area":"Opp. Resrve Bank of India, Mall Road, Downtown",
+        "Height":"65 metres (213 ft)",
+        "Floors":15,
+        "Year":2001.0
+    },
+    {
+        "Name":"Som Business Square (EL Mart)",
+        "Area":"Mega Mall Crossing, The Mall, Downtown",
+        "Height":"80 metres (262 ft)",
+        "Floors":15,
+        "Year":"2030.0"
+    },
+    {
+        "Name":"Akashganga Heights",
+        "Area":"City Bypass, Chakeri",
+        "Height":"60 metres (197 ft)",
+        "Floors":15,
+        "Year":"nan"
+    },
+    {
+        "Name":"Krishna Tower",
+        "Area":"Opp. Green Park Stadium, Parwati Bagla Road, Civil Lines",
+        "Height":"48 metres (157 ft)",
+        "Floors":10,
+        "Year":"1994.0"
+    }
+]

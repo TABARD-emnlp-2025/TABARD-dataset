@@ -1,0 +1,58 @@
+[
+  {
+    "Builder": "MLW",
+    "Works numbers": "39548-39562\n40583-40622",
+    "Dates": "@@@_-6372.1666666667",
+    "CN numbers": "2525-2566\n2663",
+    "GT numbers": "651-705",
+    "Notes": null
+  },
+  {
+    "Builder": "MLW",
+    "Works numbers": "42331-42345\n43150-43164",
+    "Dates": 1907.0,
+    "CN numbers": "2577-2605\n2661-2662\n2685",
+    "GT numbers": "721-750",
+    "Notes": null
+  },
+  {
+    "Builder": "ALCO",
+    "Works numbers": "42046-42060\n43540-43554",
+    "Dates": "@@@_None",
+    "CN numbers": "2567-2576\n2606-2615\n2664-2665\n2669-2676",
+    "GT numbers": "706-720\n752\n755\n758\n761\n763",
+    "Notes": null
+  },
+  {
+    "Builder": "MLW",
+    "Works numbers": "45163-45182",
+    "Dates": 1908.0,
+    "CN numbers": "2627-2646",
+    "GT numbers": "@@@_None",
+    "Notes": "@@@_None"
+  },
+  {
+    "Builder": "MLW",
+    "Works numbers": "46880-46894",
+    "Dates": 1910.0,
+    "CN numbers": "2647-2660\n2686",
+    "GT numbers": "616-630",
+    "Notes": null
+  },
+  {
+    "Builder": "ALCO",
+    "Works numbers": "49663-49674",
+    "Dates": 1911.0,
+    "CN numbers": "2616-2625\n2677-2678",
+    "GT numbers": "766-777",
+    "Notes": "built at ALCO's Brooks Works"
+  },
+  {
+    "Builder": "ALCO",
+    "Works numbers": "50472-50481",
+    "Dates": "@@@_28691.0",
+    "CN numbers": "2626\n2666-2668\n2679-2684",
+    "GT numbers": "779-780\n784\n786-787",
+    "Notes": null
+  }
+]

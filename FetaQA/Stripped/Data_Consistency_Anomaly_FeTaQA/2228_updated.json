@@ -1,0 +1,106 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1898–99",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1899–1900",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1900–01",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1903–04",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1904–05",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1905–06",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1906–07",
+        "Division":"First Division",
+        "League":1,
+        "FA Cup":0,
+        "Total":1
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1907–08",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1908–09",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1909–10",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"Total",
+        "Division":"Total",
+        "League":"0",
+        "FA Cup":0,
+        "Total":"2"
+    }
+]

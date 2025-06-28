@@ -1,0 +1,100 @@
+[
+    {
+        "Year":2002,
+        "Award":"Ardalion Award",
+        "Category":"Best Actor",
+        "Film":"Demons",
+        "Result":"Won"
+    },
+    {
+        "Year":2003,
+        "Award":"Ardalion Award",
+        "Category":"Best Actor",
+        "Film":"Elephants in Belgrade",
+        "Result":"Won"
+    },
+    {
+        "Year":2004,
+        "Award":"Apollon Prize",
+        "Category":"Best Actor",
+        "Film":"Life Is a Miracle",
+        "Result":"Won"
+    },
+    {
+        "Year":2005,
+        "Award":"Miloš Žutić Award",
+        "Category":"Best Actor in a Play",
+        "Film":"Okamenjeni princ",
+        "Result":"Won"
+    },
+    {
+        "Year":2005,
+        "Award":"Zoran Radmilović Award",
+        "Category":"Best Actor in a Play",
+        "Film":"Okamenjeni princ",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2008,
+        "Award":"Zoran Radmilović Award",
+        "Category":"Best Actor in a Play",
+        "Film":"Timon of Athens",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Award":"Serbian Oscar of Popularity",
+        "Category":"Best Stage Actor",
+        "Film":"Timon of Athens",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"Ardalion Award",
+        "Category":"Best Stage Actor",
+        "Film":"Hamlet",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"Serbian Oscar of Popularity",
+        "Category":"Best Theatrical Performance",
+        "Film":"Hamlet",
+        "Result":"won"
+    },
+    {
+        "Year":2011,
+        "Award":"Golden Arena",
+        "Category":"Best Actor",
+        "Film":"The Parade",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2013,
+        "Award":"Ardalion Award",
+        "Category":"Best Actor",
+        "Film":"Romeo and Juliette",
+        "Result":"Won"
+    },
+    {
+        "Year":2013,
+        "Award":"Serbian Oscar of Popularity",
+        "Category":"Best stage actor",
+        "Film":"Romeo and Juliette",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Award":"Zoran Radmilovic Award",
+        "Category":"Best Actor in a Play",
+        "Film":"Noises Off",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Award":"Ljubinka Bobić Award",
+        "Category":"Best Stage Actor",
+        "Film":"Noises Off",
+        "Result":"won"
+    }
+]

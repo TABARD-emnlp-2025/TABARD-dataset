@@ -1,0 +1,66 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "Continental":"Goals",
+        "National":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Beşiktaş J.K.",
+        "Season":"2014–15",
+        "League":0,
+        "Continental":"–",
+        "National":0,
+        "Total":0
+    },
+    {
+        "Club":"Beşiktaş J.K.",
+        "Season":"@@@_2015-16",
+        "League":"@@@_0",
+        "Continental":"–",
+        "National":"@@@_0",
+        "Total":0
+    },
+    {
+        "Club":"Beşiktaş J.K.",
+        "Season":"2016–17",
+        "League":0,
+        "Continental":"@@@_None",
+        "National":0,
+        "Total":0
+    },
+    {
+        "Club":"Beşiktaş J.K.",
+        "Season":"2017–18",
+        "League":0,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_zero"
+    },
+    {
+        "Club":"Beşiktaş J.K.",
+        "Season":"2018–19",
+        "League":0,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_None"
+    },
+    {
+        "Club":"Beşiktaş J.K.",
+        "Season":"Total",
+        "League":0,
+        "Continental":"–",
+        "National":0,
+        "Total":0
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "League":0,
+        "Continental":0,
+        "National":0,
+        "Total":0
+    }
+]

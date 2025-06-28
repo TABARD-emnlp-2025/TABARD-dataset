@@ -1,0 +1,44 @@
+[
+    {
+        "Year":2014,
+        "Title":"Agents of S.H.I.E.L.D.",
+        "Role":"Seth Dormer",
+        "Notes":"Guest; episode: \"Seeds\""
+    },
+    {
+        "Year":2014,
+        "Title":"Revenge",
+        "Role":"Gideon LeMarchal",
+        "Notes":"Recurring; episodes: \"Execution\", \"Renaissance\", \"Disclosure\""
+    },
+    {
+        "Year":2016,
+        "Title":"Fear the Walking Dead",
+        "Role":"Jack",
+        "Notes":"Recurring; episodes: \"Monster\", \"Blood in the Streets\", \"Captive\""
+    },
+    {
+        "Year":2016,
+        "Title":"The Deleted",
+        "Role":"Logan",
+        "Notes":"Main cast"
+    },
+    {
+        "Year":2017,
+        "Title":"Dimension 404",
+        "Role":"Zach",
+        "Notes":"Episode: \"Cinethrax\""
+    },
+    {
+        "Year":2018,
+        "Title":"Here and Now",
+        "Role":"Ramón",
+        "Notes":"Recurring"
+    },
+    {
+        "Year":2019,
+        "Title":"Penny Dreadful: City of Angels",
+        "Role":"Detective Tiago Vega",
+        "Notes":"Guest; episode: \"Santa Muerte\""
+    }
+]

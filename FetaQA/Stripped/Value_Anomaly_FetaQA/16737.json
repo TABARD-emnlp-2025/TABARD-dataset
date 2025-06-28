@@ -1,0 +1,90 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Liverpool",
+        "Season":"1911\u201312",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Liverpool",
+        "Season":"1912\u201313",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Liverpool",
+        "Season":"1913\u201314",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Liverpool",
+        "Season":"1914\u201315",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Liverpool",
+        "Season":"1919\u201320",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Liverpool",
+        "Season":"Total",
+        "Division":"Total",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1920\u201321",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1921\u201322",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Career Total",
+        "Season":"Career Total",
+        "Division":"Career Total",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    }
+]

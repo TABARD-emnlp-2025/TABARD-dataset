@@ -1,0 +1,380 @@
+[
+    {
+        "Unnamed: 0":"W",
+        "Player":"Harald Lückner",
+        "Nationality":"@@@_sweden",
+        "Drafted by":"@@@_NY Islanders",
+        "Year":1977,
+        "Round":"7th",
+        "Overall":"121st"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Björn Olsson",
+        "Nationality":"Sweden",
+        "Drafted by":"St. Louis Blues",
+        "Year":1977,
+        "Round":"9th",
+        "Overall":"147th"
+    },
+    {
+        "Unnamed: 0":"C",
+        "Player":"Bengt-Åke Gustafsson",
+        "Nationality":"Sweden",
+        "Drafted by":"Washington Capitals",
+        "Year":1978,
+        "Round":"4th",
+        "Overall":"55th"
+    },
+    {
+        "Unnamed: 0":"F",
+        "Player":"Dan Hermansson",
+        "Nationality":"Sweden",
+        "Drafted by":"@@@_STL Blues",
+        "Year":1978,
+        "Round":"10th",
+        "Overall":"175th"
+    },
+    {
+        "Unnamed: 0":"W",
+        "Player":"Håkan Loob",
+        "Nationality":"Sweden",
+        "Drafted by":"Calgary Flames",
+        "Year":1980,
+        "Round":"9th",
+        "Overall":"181st"
+    },
+    {
+        "Unnamed: 0":"W",
+        "Player":"Jan Ingman",
+        "Nationality":"Sweden",
+        "Drafted by":"@@@_Montréal Canadiens",
+        "Year":1981,
+        "Round":"1st",
+        "Overall":"19th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Håkan Nordin",
+        "Nationality":"Sweden",
+        "Drafted by":"St. Louis Blues",
+        "Year":1981,
+        "Round":"2nd",
+        "Overall":"36th"
+    },
+    {
+        "Unnamed: 0":"LW",
+        "Player":"Magnus Roupé",
+        "Nationality":"Sweden",
+        "Drafted by":"Philadelphia Flyers",
+        "Year":1982,
+        "Round":"9th",
+        "Overall":"182nd"
+    },
+    {
+        "Unnamed: 0":"C",
+        "Player":"Thomas Rundkvist",
+        "Nationality":"@@@_sweden",
+        "Drafted by":"Montreal Canadiens",
+        "Year":1983,
+        "Round":"10th",
+        "Overall":"198th"
+    },
+    {
+        "Unnamed: 0":"RW",
+        "Player":"Lars Karlsson",
+        "Nationality":"Sweden",
+        "Drafted by":"Detroit Red Wings",
+        "Year":1984,
+        "Round":"8th",
+        "Overall":"152nd"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Fredrik Olausson",
+        "Nationality":"Sweden",
+        "Drafted by":"Winnipeg Jets",
+        "Year":1985,
+        "Round":"4th",
+        "Overall":"81st"
+    },
+    {
+        "Unnamed: 0":"C",
+        "Player":"Bo Svanberg",
+        "Nationality":"Sweden",
+        "Drafted by":"Detroit Red Wings",
+        "Year":1985,
+        "Round":"11th",
+        "Overall":"218th"
+    },
+    {
+        "Unnamed: 0":"W",
+        "Player":"Daniel Rydmark",
+        "Nationality":"Sweden",
+        "Drafted by":"@@@_LA Kings",
+        "Year":1989,
+        "Round":"6th",
+        "Overall":"123rd"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Mattias Olsson",
+        "Nationality":"Sweden",
+        "Drafted by":"Los Angeles Kings",
+        "Year":1991,
+        "Round":"10th",
+        "Overall":"218th"
+    },
+    {
+        "Unnamed: 0":"C",
+        "Player":"Mathias Johansson",
+        "Nationality":"Sweden",
+        "Drafted by":"Calgary Flames",
+        "Year":1992,
+        "Round":"3rd",
+        "Overall":"54th"
+    },
+    {
+        "Unnamed: 0":"RW",
+        "Player":"Jonas Höglund",
+        "Nationality":"Sweden",
+        "Drafted by":"Calgary Flames",
+        "Year":1992,
+        "Round":"10th",
+        "Overall":"222nd"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Anders Myrvold",
+        "Nationality":"Norway",
+        "Drafted by":"Quebec Nordiques",
+        "Year":1993,
+        "Round":"5th",
+        "Overall":"127th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Henrik Rehnberg",
+        "Nationality":"Sweden",
+        "Drafted by":"New Jersey Devils",
+        "Year":1995,
+        "Round":"4th",
+        "Overall":"96th"
+    },
+    {
+        "Unnamed: 0":"LW",
+        "Player":"Jan Laabraten",
+        "Nationality":"Sweden",
+        "Drafted by":"Calgary Flames",
+        "Year":1995,
+        "Round":"4th",
+        "Overall":"98th"
+    },
+    {
+        "Unnamed: 0":"RW",
+        "Player":"Kristian Huselius",
+        "Nationality":"Sweden",
+        "Drafted by":"Florida Panthers",
+        "Year":1997,
+        "Round":"2nd",
+        "Overall":"47th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Jonas Elofsson",
+        "Nationality":"Sweden",
+        "Drafted by":"Edmonton Oilers",
+        "Year":1997,
+        "Round":"4th",
+        "Overall":"94th"
+    },
+    {
+        "Unnamed: 0":"LW",
+        "Player":"Magnus Arvedson",
+        "Nationality":"Sweden",
+        "Drafted by":"Ottawa Senators",
+        "Year":1997,
+        "Round":"5th",
+        "Overall":"119th"
+    },
+    {
+        "Unnamed: 0":"LW",
+        "Player":"Christian Berglund",
+        "Nationality":"Sweden",
+        "Drafted by":"New Jersey Devils",
+        "Year":1998,
+        "Round":"2nd",
+        "Overall":"37th"
+    },
+    {
+        "Unnamed: 0":"LW",
+        "Player":"Peter Nordström",
+        "Nationality":"Sweden",
+        "Drafted by":"Boston Bruins",
+        "Year":1998,
+        "Round":"3rd",
+        "Overall":"78th"
+    },
+    {
+        "Unnamed: 0":"C",
+        "Player":"Rickard Wallin",
+        "Nationality":"Sweden",
+        "Drafted by":"Phoenix Coyotes",
+        "Year":1998,
+        "Round":"6th",
+        "Overall":"160th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Jonas Frögren",
+        "Nationality":"Sweden",
+        "Drafted by":"Calgary Flames",
+        "Year":1998,
+        "Round":"8th",
+        "Overall":"206th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Pelle Prestberg",
+        "Nationality":"Sweden",
+        "Drafted by":"Mighty Ducks of Anaheim",
+        "Year":1998,
+        "Round":"9th",
+        "Overall":"233rd"
+    },
+    {
+        "Unnamed: 0":"C",
+        "Player":"Tore Vikingstad",
+        "Nationality":"Norway",
+        "Drafted by":"St. Louis Blues",
+        "Year":1999,
+        "Round":"6th",
+        "Overall":"180th"
+    },
+    {
+        "Unnamed: 0":"LW",
+        "Player":"Andreas Jämtin",
+        "Nationality":"Sweden",
+        "Drafted by":"Detroit Red Wings",
+        "Year":2001,
+        "Round":"5th",
+        "Overall":"157th"
+    },
+    {
+        "Unnamed: 0":"LW",
+        "Player":"Marius Holtet",
+        "Nationality":"@@@_norway",
+        "Drafted by":"Dallas Stars",
+        "Year":2002,
+        "Round":"2nd",
+        "Overall":"42nd"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Robin Jonsson",
+        "Nationality":"Sweden",
+        "Drafted by":"St. Louis Blues",
+        "Year":2002,
+        "Round":"4th",
+        "Overall":"120th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Pierre Johnsson",
+        "Nationality":"Sweden",
+        "Drafted by":"Calgary Flames",
+        "Year":2002,
+        "Round":"7th",
+        "Overall":"207th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Per Johnsson",
+        "Nationality":"Sweden",
+        "Drafted by":"Calgary Flames",
+        "Year":2006,
+        "Round":"7th",
+        "Overall":"209th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Johan Motin",
+        "Nationality":"Sweden",
+        "Drafted by":"Edmonton Oilers",
+        "Year":2008,
+        "Round":"4th",
+        "Overall":"103rd"
+    },
+    {
+        "Unnamed: 0":"C",
+        "Player":"Marcus Johansson",
+        "Nationality":"Sweden",
+        "Drafted by":"Washington Capitals",
+        "Year":2009,
+        "Round":"1st",
+        "Overall":"24th"
+    },
+    {
+        "Unnamed: 0":"F",
+        "Player":"Henrik Björklund",
+        "Nationality":"Sweden",
+        "Drafted by":"Calgary Flames",
+        "Year":2009,
+        "Round":"4th",
+        "Overall":"111th"
+    },
+    {
+        "Unnamed: 0":"G",
+        "Player":"Johan Gustafsson",
+        "Nationality":"Sweden",
+        "Drafted by":"Minnesota Wild",
+        "Year":2010,
+        "Round":"6th",
+        "Overall":"159th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Jonas Brodin",
+        "Nationality":"Sweden",
+        "Drafted by":"Minnesota Wild",
+        "Year":2011,
+        "Round":"1st",
+        "Overall":"10th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Oscar Klefbom",
+        "Nationality":"Sweden",
+        "Drafted by":"Edmonton Oilers",
+        "Year":2011,
+        "Round":"1st",
+        "Overall":"19th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Magnus Nygren",
+        "Nationality":"Sweden",
+        "Drafted by":"Montreal Canadiens",
+        "Year":2011,
+        "Round":"4th",
+        "Overall":"113th"
+    },
+    {
+        "Unnamed: 0":"D",
+        "Player":"Calle Andersson",
+        "Nationality":"Sweden",
+        "Drafted by":"New York Rangers",
+        "Year":2012,
+        "Round":"4th",
+        "Overall":"119th"
+    },
+    {
+        "Unnamed: 0":"F",
+        "Player":"Max Görtz",
+        "Nationality":"Sweden",
+        "Drafted by":"Nashville Predators",
+        "Year":2012,
+        "Round":"6th",
+        "Overall":"172th"
+    }
+]

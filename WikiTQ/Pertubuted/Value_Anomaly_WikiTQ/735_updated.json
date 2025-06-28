@@ -1,0 +1,121 @@
+[
+  {
+    "Rank": 1,
+    "Team": "France",
+    "Names": "Christophe Capelle\nPhilippe Ermenault\nJean-Michel Monin\nFrancis Moreau",
+    "Time": "4:09.570",
+    "Qualification": "q"
+  },
+  {
+    "Rank": 2,
+    "Team": "Italy",
+    "Names": "Adler Capelli\nMauro Trentini\nAndrea Collinelli\nCristiano Citton",
+    "Time": "4:09.695",
+    "Qualification": "q"
+  },
+  {
+    "Rank": 3,
+    "Team": "Australia",
+    "Names": "Bradley McGee\nStuart O'Grady\nTimothy O'Shannessey Dean Woods",
+    "Time": "4:09.750",
+    "Qualification": "q"
+  },
+  {
+    "Rank": 4,
+    "Team": "Ukraine",
+    "Names": "Bohdan Bondaryev\nOleksandr Fedenko\nAndriy Yatsenko\nAlexander Simonenko",
+    "Time": "4:11.545",
+    "Qualification": "q"
+  },
+  {
+    "Rank": 5,
+    "Team": "Russia",
+    "Names": "Eduard Gritsun\nNikolay Kuznetsov\nAleksey Markov\nAnton Chantyr",
+    "Time": "4:11.665",
+    "Qualification": "q"
+  },
+  {
+    "Rank": 6,
+    "Team": "United States",
+    "Names": "Dirk Copeland\nMariano Friedick\nAdam Laurent\nMichael McCarthy",
+    "Time": "4:11.950",
+    "Qualification": "q"
+  },
+  {
+    "Rank": "@@@_106",
+    "Team": "Spain",
+    "Names": "Juan Martinez\nJuan Llaneras\nSantos Gonzalez\nAdolfo Alperi",
+    "Time": "4:12.780",
+    "Qualification": "q"
+  },
+  {
+    "Rank": 8,
+    "Team": "New Zealand",
+    "Names": "Gregory Henderson\nBrendon Cameron\nTimothy Carswell\nJulian Dean",
+    "Time": "4:15.140",
+    "Qualification": "q"
+  },
+  {
+    "Rank": "@@@_-28",
+    "Team": "Germany",
+    "Names": "Robert Bartko\nGuido Fulst\nDanilo Hondo\nHeiko Szonn",
+    "Time": "4:15.140",
+    "Qualification": null
+  },
+  {
+    "Rank": 10,
+    "Team": "Great Britain",
+    "Names": "@@@_None",
+    "Time": "4:16.510",
+    "Qualification": null
+  },
+  {
+    "Rank": "@@@_129",
+    "Team": "Lithuania",
+    "Names": "Arturas Kasputis\nRemigijus Lupeikis\nMindaugus Umaris\nArturas Trumpauskas",
+    "Time": "4:16.050",
+    "Qualification": null
+  },
+  {
+    "Rank": 12,
+    "Team": "Netherlands",
+    "Names": "Jarich Bakker\nRobertus Michie Slippens\nRichard Rozendaal\nPeter Schep",
+    "Time": "4:16.175",
+    "Qualification": null
+  },
+  {
+    "Rank": 13,
+    "Team": "Denmark",
+    "Names": "Frederik Bertelsen\nJimmi Madsen\nMichael Nielsen\nJacob Piil",
+    "Time": "4:16.175",
+    "Qualification": null
+  },
+  {
+    "Rank": 14,
+    "Team": "Argentina",
+    "Names": "Walter Perez\nEdgardo Simon\nGonzalo Garcia\nGabriel Curuchet",
+    "Time": "4:20.840",
+    "Qualification": null
+  },
+  {
+    "Rank": 15,
+    "Team": "South Korea",
+    "Names": "Dae-Hong Chun\nYoung Chung\nJong-Mo Kim\nYounk-Sik Noh",
+    "Time": "4:25.215",
+    "Qualification": null
+  },
+  {
+    "Rank": 16,
+    "Team": "Chile",
+    "Names": "Jose Medina\nLuis Sepulveda\nMarco Arriagada\nMarcelo Arriagada",
+    "Time": "4:25.960",
+    "Qualification": null
+  },
+  {
+    "Rank": 17,
+    "Team": "Colombia",
+    "Names": "John Garcia\nMarlon Perez\nYovani Lopez\nJos Velasquez de la Cuesta",
+    "Time": "4:26.400",
+    "Qualification": null
+  }
+]

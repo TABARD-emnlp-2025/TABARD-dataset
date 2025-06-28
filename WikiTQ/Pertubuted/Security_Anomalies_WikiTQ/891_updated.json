@@ -1,0 +1,44 @@
+[
+    {
+        "Name":"Qingxi",
+        "Hanzi":"\u6e05\u6eaa\u9547",
+        "Population (2005)":"20,000",
+        "Area (Km2)":"@@@_None"
+    },
+    {
+        "Name":"Ruyi",
+        "Hanzi":"\u5982\u610f\u9547",
+        "Population (2005)":"15,100",
+        "Area (Km2)":33.85
+    },
+    {
+        "Name":"Yintian",
+        "Hanzi":"\u94f6\u7530\u9547",
+        "Population (2005)":"19,500",
+        "Area (Km2)":28.0
+    },
+    {
+        "Name":"Daping",
+        "Hanzi":"\u5927\u576a\u4e61",
+        "Population (2005)":"14,300",
+        "Area (Km2)":"@@@_32.0"
+    },
+    {
+        "Name":"Yongyi",
+        "Hanzi":"\u6c38\u4e49\u4e61",
+        "Population (2005)":"10,600",
+        "Area (Km2)":"@@@_-24.0"
+    },
+    {
+        "Name":"Shaoshan",
+        "Hanzi":"\u97f6\u5c71\u4e61",
+        "Population (2005)":"14,700",
+        "Area (Km2)":37.62
+    },
+    {
+        "Name":"Yanglin",
+        "Hanzi":"\u6768\u6797\u4e61",
+        "Population (2005)":"20,600",
+        "Area (Km2)":58.8
+    }
+]

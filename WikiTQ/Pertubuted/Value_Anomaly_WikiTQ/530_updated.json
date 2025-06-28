@@ -1,0 +1,198 @@
+[
+  {
+    "Type": "DNF",
+    "Stage": 2,
+    "Cyclist": "Rémi Pauriol",
+    "Team": "Cofidis",
+    "Reason": "Broken collarbone"
+  },
+  {
+    "Type": "DNS",
+    "Stage": 3,
+    "Cyclist": "José Ángel Gómez Marchante",
+    "Team": "Cervélo TestTeam",
+    "Reason": "Broken arm sustained from crash in Stage 2"
+  },
+  {
+    "Type": "DNS",
+    "Stage": 3,
+    "Cyclist": "Daniel Martin",
+    "Team": "Garmin-Slipstream",
+    "Reason": "Illness"
+  },
+  {
+    "Type": "DNS",
+    "Stage": "@@@_81",
+    "Cyclist": "Joost Posthuma",
+    "Team": "Rabobank",
+    "Reason": "Illness"
+  },
+  {
+    "Type": "DNF",
+    "Stage": 3,
+    "Cyclist": "Matteo Bono",
+    "Team": "Lampre-NGC",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": "@@@_141",
+    "Cyclist": "Anthony Charteau",
+    "Team": "Caisse d'Epargne",
+    "Reason": null
+  },
+  {
+    "Type": "DNS",
+    "Stage": 4,
+    "Cyclist": "Sylvain Calzati",
+    "Team": "Agritubel",
+    "Reason": null
+  },
+  {
+    "Type": "DNS",
+    "Stage": 4,
+    "Cyclist": "Bradley Wiggins",
+    "Team": "Garmin-Slipstream",
+    "Reason": "Death in the family"
+  },
+  {
+    "Type": "DNF",
+    "Stage": 4,
+    "Cyclist": "Jussi Veikkanen",
+    "Team": "Française des Jeux",
+    "Reason": null
+  },
+  {
+    "Type": "DNS",
+    "Stage": 5,
+    "Cyclist": "Íñigo Cuesta",
+    "Team": "Cervélo TestTeam",
+    "Reason": null
+  },
+  {
+    "Type": "DNS",
+    "Stage": 5,
+    "Cyclist": "Enrico Franzoi",
+    "Team": "Liquigas",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 5,
+    "Cyclist": "Steven Cozza",
+    "Team": "Garmin-Slipstream",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 5,
+    "Cyclist": "Philippe Gilbert",
+    "Team": "Silence-Lotto",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": "@@@_-5",
+    "Cyclist": "Brian Vandborg",
+    "Team": "Liquigas",
+    "Reason": null
+  },
+  {
+    "Type": "DNS",
+    "Stage": 6,
+    "Cyclist": "Jelle Vanendert",
+    "Team": "Silence-Lotto",
+    "Reason": "@@@_None"
+  },
+  {
+    "Type": "DNF",
+    "Stage": 6,
+    "Cyclist": "Jose Luis Arrieta",
+    "Team": "Ag2r-La Mondiale",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 6,
+    "Cyclist": "Sébastien Chavanel",
+    "Team": "Française des Jeux",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 6,
+    "Cyclist": "Simon Spilak",
+    "Team": "Lampre-NGC",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 6,
+    "Cyclist": "Thomas Voeckler",
+    "Team": "Bbox Bouygues Telecom",
+    "Reason": "Shoulder injury sustained from crash"
+  },
+  {
+    "Type": "DNS",
+    "Stage": 7,
+    "Cyclist": "Sebastian Langeveld",
+    "Team": "Rabobank",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 7,
+    "Cyclist": "Samuel Sánchez",
+    "Team": "Euskaltel-Euskadi",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 7,
+    "Cyclist": "Mickael Cherel",
+    "Team": "Française des Jeux",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 7,
+    "Cyclist": "Thomas Fothen",
+    "Team": "Team Milram",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": "@@@_-4",
+    "Cyclist": "Marcel Sieberg",
+    "Team": "Team Columbia-High Road",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 7,
+    "Cyclist": "Tom Veelers",
+    "Team": "Skil-Shimano",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 7,
+    "Cyclist": "Mickael Buffaz",
+    "Team": "Cofidis",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 7,
+    "Cyclist": "Javier Aramendia",
+    "Team": "Euskaltel-Euskadi",
+    "Reason": null
+  },
+  {
+    "Type": "DNF",
+    "Stage": 7,
+    "Cyclist": "Romain Feillu",
+    "Team": "Agritubel",
+    "Reason": null
+  }
+]

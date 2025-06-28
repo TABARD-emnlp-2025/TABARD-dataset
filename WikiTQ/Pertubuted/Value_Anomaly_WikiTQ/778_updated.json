@@ -1,0 +1,58 @@
+[
+  {
+    "Code": 1.0,
+    "County": "Mombasa",
+    "Former Province": "Coast",
+    "Area (km2)": "212.5",
+    "Population\nCensus 2009": "939,370",
+    "Capital": "Mombasa (City)"
+  },
+  {
+    "Code": 2.0,
+    "County": "Kwale",
+    "Former Province": "Coast",
+    "Area (km2)": "8,270.3",
+    "Population\nCensus 2009": "649,931",
+    "Capital": "Kwale"
+  },
+  {
+    "Code": "@@@_-21.2002471788",
+    "County": "Kilifi",
+    "Former Province": "Coast",
+    "Area (km2)": "12,245.9",
+    "Population\nCensus 2009": "1,109,735",
+    "Capital": "Kilifi"
+  },
+  {
+    "Code": 4.0,
+    "County": "Tana River",
+    "Former Province": "Coast",
+    "Area (km2)": "35,375.8",
+    "Population\nCensus 2009": "240,075",
+    "Capital": "Hola"
+  },
+  {
+    "Code": "@@@_104.2202633185",
+    "County": "Lamu",
+    "Former Province": "Coast",
+    "Area (km2)": "6,497.7",
+    "Population\nCensus 2009": "101,539",
+    "Capital": "Lamu"
+  },
+  {
+    "Code": "@@@_44.01776032",
+    "County": "Taita-Taveta",
+    "Former Province": "Coast",
+    "Area (km2)": "17,083.9",
+    "Population\nCensus 2009": "284,657",
+    "Capital": "Voi"
+  },
+  {
+    "Code": "@@@_-9.8362933867",
+    "County": "Totals",
+    "Former Province": null,
+    "Area (km2)": "79,686.1",
+    "Population\nCensus 2009": "3,325,307",
+    "Capital": "-"
+  }
+]

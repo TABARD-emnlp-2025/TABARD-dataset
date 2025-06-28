@@ -1,0 +1,926 @@
+[
+    {
+        "SPACE_UNIT_KEY":68100,
+        "SPACE_UNIT_CODE":"68101",
+        "SPACE_UNIT":"INST FOR DATA SYS & SOCIETY",
+        "DLC_KEY":"D_IDSS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":413000,
+        "SPACE_UNIT_CODE":413000,
+        "SPACE_UNIT":"OFFICE OF CORPORATE RELATIONS",
+        "DLC_KEY":"D_ILP",
+        "WAREHOUSE_LOAD_DATE":"19-Dec-24"
+    },
+    {
+        "SPACE_UNIT_KEY":69400,
+        "SPACE_UNIT_CODE":69400,
+        "SPACE_UNIT":"SOCIOTECH SYS RSCH CTR",
+        "DLC_KEY":"D_SSRC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":170000,
+        "SPACE_UNIT_CODE":170000,
+        "SPACE_UNIT":"LDRS GBL OPS-SYS DSN MGMT",
+        "DLC_KEY":"D_LGO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-2024"
+    },
+    {
+        "SPACE_UNIT_KEY":60000,
+        "SPACE_UNIT_CODE":60000,
+        "SPACE_UNIT":"SCH OF ENGINEER",
+        "DLC_KEY":"D_DOE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":69600,
+        "SPACE_UNIT_CODE":69600,
+        "SPACE_UNIT":"CONCOURSE",
+        "DLC_KEY":"D_CONCOURSE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":63000,
+        "SPACE_UNIT_CODE":63000,
+        "SPACE_UNIT":"CIVIL & ENV ENG",
+        "DLC_KEY":"D_CEE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":406800,
+        "SPACE_UNIT_CODE":406800,
+        "SPACE_UNIT":"PROPERTY OFFICE",
+        "DLC_KEY":"D_PROPERTY",
+        "WAREHOUSE_LOAD_DATE":"19-Dec-24"
+    },
+    {
+        "SPACE_UNIT_KEY":407030,
+        "SPACE_UNIT_CODE":"407031",
+        "SPACE_UNIT":"PROCUREMENT",
+        "DLC_KEY":"D_PROCURE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":497400,
+        "SPACE_UNIT_CODE":497400,
+        "SPACE_UNIT":"PRESIDENTS HOUSE",
+        "DLC_KEY":"D_GRAY",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":404400,
+        "SPACE_UNIT_CODE":404400,
+        "SPACE_UNIT":"INFO SVCS & TECH",
+        "DLC_KEY":"D_IS&T",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":872500,
+        "SPACE_UNIT_CODE":872500,
+        "SPACE_UNIT":"ENDICOTT HOUSE",
+        "DLC_KEY":"D_ENDICOTT",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":874200,
+        "SPACE_UNIT_CODE":874200,
+        "SPACE_UNIT":"COPY TECH CENTER",
+        "DLC_KEY":"D_copytech",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":402000,
+        "SPACE_UNIT_CODE":402000,
+        "SPACE_UNIT":"KOCH INS INT C R",
+        "DLC_KEY":"D_KI",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":407000,
+        "SPACE_UNIT_CODE":407000,
+        "SPACE_UNIT":"VP-FINANCE",
+        "DLC_KEY":"D_CAS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":38000,
+        "SPACE_UNIT_CODE":38000,
+        "SPACE_UNIT":"ART CULT & TECH",
+        "DLC_KEY":"D_ACT",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-2024"
+    },
+    {
+        "SPACE_UNIT_KEY":60085,
+        "SPACE_UNIT_CODE":60085,
+        "SPACE_UNIT":"TERRASCOPE",
+        "DLC_KEY":"D_TERRASCOPE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":405900,
+        "SPACE_UNIT_CODE":405900,
+        "SPACE_UNIT":"PARKING & TRANSP",
+        "DLC_KEY":"D_PARKING",
+        "WAREHOUSE_LOAD_DATE":"19-Dec-24"
+    },
+    {
+        "SPACE_UNIT_KEY":61901,
+        "SPACE_UNIT_CODE":61901,
+        "SPACE_UNIT":"INST MED E & SCI",
+        "DLC_KEY":"D_IMES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":591000,
+        "SPACE_UNIT_CODE":591000,
+        "SPACE_UNIT":"DP OF FACILITIES",
+        "DLC_KEY":"D_DOF_CORE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":93800,
+        "SPACE_UNIT_CODE":93800,
+        "SPACE_UNIT":"COMPARATIVE MEDIA STUDIES",
+        "DLC_KEY":"D_CMS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":154000,
+        "SPACE_UNIT_CODE":154000,
+        "SPACE_UNIT":"MATHEMATICS",
+        "DLC_KEY":"D_MATHS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":154500,
+        "SPACE_UNIT_CODE":154500,
+        "SPACE_UNIT":"BRAIN & COG SCI",
+        "DLC_KEY":"D_B&CS",
+        "WAREHOUSE_LOAD_DATE":"19-Dec-24"
+    },
+    {
+        "SPACE_UNIT_KEY":153000,
+        "SPACE_UNIT_CODE":153000,
+        "SPACE_UNIT":"WALLACE ASTRO OB",
+        "DLC_KEY":"D_EAPS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":152000,
+        "SPACE_UNIT_CODE":"152001",
+        "SPACE_UNIT":"CHEMISTRY",
+        "DLC_KEY":"D_CHEM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":401813,
+        "SPACE_UNIT_CODE":401813,
+        "SPACE_UNIT":"ASSOC PROV ARTS",
+        "DLC_KEY":"D_ARTS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":401812,
+        "SPACE_UNIT_CODE":401812,
+        "SPACE_UNIT":"LIST VIS ART CTR",
+        "DLC_KEY":"D_LVA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":401811,
+        "SPACE_UNIT_CODE":401811,
+        "SPACE_UNIT":"MIT MUSEUM",
+        "DLC_KEY":"D_MUSEUM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":401000,
+        "SPACE_UNIT_CODE":401000,
+        "SPACE_UNIT":"OFF OF PRESIDENT",
+        "DLC_KEY":"D_PRESIDENT",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":401800,
+        "SPACE_UNIT_CODE":401800,
+        "SPACE_UNIT":"PROVOST",
+        "DLC_KEY":"D_PROVOST",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":401860,
+        "SPACE_UNIT_CODE":401860,
+        "SPACE_UNIT":"VP-RSCH",
+        "DLC_KEY":"D_VPRESOFF",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":243000,
+        "SPACE_UNIT_CODE":243000,
+        "SPACE_UNIT":"PLASMA SCI FSN CTR",
+        "DLC_KEY":"D_PSFC",
+        "WAREHOUSE_LOAD_DATE":"12-19-24"
+    },
+    {
+        "SPACE_UNIT_KEY":264000,
+        "SPACE_UNIT_CODE":264000,
+        "SPACE_UNIT":"NUCL REACTOR LAB",
+        "DLC_KEY":"D_NRL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":64000,
+        "SPACE_UNIT_CODE":64000,
+        "SPACE_UNIT":"ELEC ENG&Comp SC",
+        "DLC_KEY":"D_EECS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":402100,
+        "SPACE_UNIT_CODE":402100,
+        "SPACE_UNIT":"DIV OF COMP MED",
+        "DLC_KEY":"D_COMPMED",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":401710,
+        "SPACE_UNIT_CODE":401710,
+        "SPACE_UNIT":"HAYSTACK OBS",
+        "DLC_KEY":"d_haystack",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":402200,
+        "SPACE_UNIT_CODE":402200,
+        "SPACE_UNIT":"OFF GRAD EDU",
+        "DLC_KEY":"D_DEANGRAD",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":271000,
+        "SPACE_UNIT_CODE":271000,
+        "SPACE_UNIT":"libraries",
+        "DLC_KEY":"D_LIBRARIES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":410000,
+        "SPACE_UNIT_CODE":410000,
+        "SPACE_UNIT":"RESOURCE DEVLMNT",
+        "DLC_KEY":"d_resdev",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":404000,
+        "SPACE_UNIT_CODE":404000,
+        "SPACE_UNIT":"TECH LICENSE OFF",
+        "DLC_KEY":"D_TLO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":31000,
+        "SPACE_UNIT_CODE":31000,
+        "SPACE_UNIT":"ARCHITECTURE",
+        "DLC_KEY":"",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":151000,
+        "SPACE_UNIT_CODE":151000,
+        "SPACE_UNIT":"BIOLOGY",
+        "DLC_KEY":"D_BIOLOGY",
+        "WAREHOUSE_LOAD_DATE":""
+    },
+    {
+        "SPACE_UNIT_KEY":267000,
+        "SPACE_UNIT_CODE":267000,
+        "SPACE_UNIT":"RES LAB OF ELEC",
+        "DLC_KEY":"D_RLE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":492900,
+        "SPACE_UNIT_CODE":492900,
+        "SPACE_UNIT":"CAMPUS POLICE",
+        "DLC_KEY":"D_POLICE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":423000,
+        "SPACE_UNIT_CODE":423000,
+        "SPACE_UNIT":"AUDIT DIVISION",
+        "DLC_KEY":"D_AUDIT",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":874100,
+        "SPACE_UNIT_CODE":874100,
+        "SPACE_UNIT":"AUDIO-VISUAL SVC",
+        "DLC_KEY":"D_AVS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":68000,
+        "SPACE_UNIT_CODE":68000,
+        "SPACE_UNIT":"NUCLEAR SCI & ENG",
+        "DLC_KEY":"D_NUCENG",
+        "WAREHOUSE_LOAD_DATE":"24-19-DEC"
+    },
+    {
+        "SPACE_UNIT_KEY":60300,
+        "SPACE_UNIT_CODE":60300,
+        "SPACE_UNIT":"IND PERFORM CTR",
+        "DLC_KEY":"D_NUCENG",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":68700,
+        "SPACE_UNIT_CODE":68700,
+        "SPACE_UNIT":"LAB INFO&DEC SYS",
+        "DLC_KEY":"D_LIDS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":35000,
+        "SPACE_UNIT_CODE":35000,
+        "SPACE_UNIT":"URBAN ST & PLAN",
+        "DLC_KEY":"D_DUSP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":30000,
+        "SPACE_UNIT_CODE":30000,
+        "SPACE_UNIT":"SCH OF ARCH & PL",
+        "DLC_KEY":"D_DEANARCH",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":33000,
+        "SPACE_UNIT_CODE":33000,
+        "SPACE_UNIT":"C FOR RL ESTATE",
+        "DLC_KEY":"D_CRE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":158000,
+        "SPACE_UNIT_CODE":158000,
+        "SPACE_UNIT":"PHYSICS",
+        "DLC_KEY":"D_PHYSICS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":159000,
+        "SPACE_UNIT_CODE":159000,
+        "SPACE_UNIT":"EXPER STUDY GRP",
+        "DLC_KEY":"D_ESG",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":159600,
+        "SPACE_UNIT_CODE":159600,
+        "SPACE_UNIT":"K I FOR AST&SP R",
+        "DLC_KEY":"d_csr",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":93200,
+        "SPACE_UNIT_CODE":93200,
+        "SPACE_UNIT":"ANTHROPOLOGY",
+        "DLC_KEY":"D_ANTHRO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":97000,
+        "SPACE_UNIT_CODE":97000,
+        "SPACE_UNIT":"SCI TECH&SOCIETY",
+        "DLC_KEY":"D_STS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":95500,
+        "SPACE_UNIT_CODE":95500,
+        "SPACE_UNIT":"POLITICAL SCI",
+        "DLC_KEY":"D_POLSCI",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":93700,
+        "SPACE_UNIT_CODE":93700,
+        "SPACE_UNIT":"MUSIC & THEATER ART",
+        "DLC_KEY":"D_MTA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":93600,
+        "SPACE_UNIT_CODE":93600,
+        "SPACE_UNIT":"LITERATURE",
+        "DLC_KEY":"D_LIT",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":94000,
+        "SPACE_UNIT_CODE":94000,
+        "SPACE_UNIT":"LING & PHIL",
+        "DLC_KEY":"D_L&P",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-2024"
+    },
+    {
+        "SPACE_UNIT_KEY":93400,
+        "SPACE_UNIT_CODE":93400,
+        "SPACE_UNIT":"HISTORY",
+        "DLC_KEY":"D_HISTORY",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":93300,
+        "SPACE_UNIT_CODE":93300,
+        "SPACE_UNIT":"GLOBAL STUDIES & LANGUAGES",
+        "DLC_KEY":"D_FLL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":91000,
+        "SPACE_UNIT_CODE":91000,
+        "SPACE_UNIT":"ECONOMICS",
+        "DLC_KEY":"D_ECO",
+        "WAREHOUSE_LOAD_DATE":"19/DEC/24"
+    },
+    {
+        "SPACE_UNIT_KEY":90000,
+        "SPACE_UNIT_CODE":90000,
+        "SPACE_UNIT":"SCH OF HUM & S S",
+        "DLC_KEY":"D_DHSS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":97500,
+        "SPACE_UNIT_CODE":97500,
+        "SPACE_UNIT":"C FOR INT STUDIE",
+        "DLC_KEY":"D_CIS",
+        "WAREHOUSE_LOAD_DATE":"19-12-24"
+    },
+    {
+        "SPACE_UNIT_KEY":39000,
+        "SPACE_UNIT_CODE":39000,
+        "SPACE_UNIT":"MEDIA LABORATORY",
+        "DLC_KEY":"D_MEDIA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":266300,
+        "SPACE_UNIT_CODE":266300,
+        "SPACE_UNIT":"SEA GRANT",
+        "DLC_KEY":"D_MECHE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":65000,
+        "SPACE_UNIT_CODE":65000,
+        "SPACE_UNIT":"MECHANICAL ENG",
+        "DLC_KEY":"D_MECHE",
+        "WAREHOUSE_LOAD_DATE":"19/DEC/24"
+    },
+    {
+        "SPACE_UNIT_KEY":150000,
+        "SPACE_UNIT_CODE":150000,
+        "SPACE_UNIT":"SCH OF SCIENCE",
+        "DLC_KEY":"D_DEANSCI",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":69500,
+        "SPACE_UNIT_CODE":69500,
+        "SPACE_UNIT":"C FOR TRANSP LOG",
+        "DLC_KEY":"D_CTL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":61000,
+        "SPACE_UNIT_CODE":61000,
+        "SPACE_UNIT":"AERO & ASTRO",
+        "DLC_KEY":"D_AEROASTRO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":861000,
+        "SPACE_UNIT_CODE":861000,
+        "SPACE_UNIT":"CAMPUS RESIDENCE",
+        "DLC_KEY":"D_HOUSING",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":310000,
+        "SPACE_UNIT_CODE":310000,
+        "SPACE_UNIT":"LINCOLN LAB",
+        "DLC_KEY":"D_LINCOLN",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":69200,
+        "SPACE_UNIT_CODE":69200,
+        "SPACE_UNIT":"BIOLOGICAL ENG",
+        "DLC_KEY":"D_BIOENG",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-2024"
+    },
+    {
+        "SPACE_UNIT_KEY":501000,
+        "SPACE_UNIT_CODE":501000,
+        "SPACE_UNIT":"ATHLETICS",
+        "DLC_KEY":"D_ATHLETICS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":417000,
+        "SPACE_UNIT_CODE":417000,
+        "SPACE_UNIT":"INST SLDR NANOTECH",
+        "DLC_KEY":"D_ISN",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":440100,
+        "SPACE_UNIT_CODE":440100,
+        "SPACE_UNIT":"EDGERTON CENTER",
+        "DLC_KEY":"D_EDGERTON",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":392000,
+        "SPACE_UNIT_CODE":392000,
+        "SPACE_UNIT":"ENV HLTH & SAFE",
+        "DLC_KEY":"D_EHSO",
+        "WAREHOUSE_LOAD_DATE":"19/DEC/24"
+    },
+    {
+        "SPACE_UNIT_KEY":159900,
+        "SPACE_UNIT_CODE":159900,
+        "SPACE_UNIT":"LAB FOR NUCL SCI",
+        "DLC_KEY":"D_LNS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":801000,
+        "SPACE_UNIT_CODE":801000,
+        "SPACE_UNIT":"FACULTY CLUB",
+        "DLC_KEY":"D_DINING",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":67900,
+        "SPACE_UNIT_CODE":67900,
+        "SPACE_UNIT":"COMP SCI & AI LAB",
+        "DLC_KEY":"D_CSAIL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":159300,
+        "SPACE_UNIT_CODE":159300,
+        "SPACE_UNIT":"PICOWER INSTITUTE",
+        "DLC_KEY":"D_PILM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":871000,
+        "SPACE_UNIT_CODE":871000,
+        "SPACE_UNIT":"ALUMNI/AE ASSOC",
+        "DLC_KEY":"d_alum",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":875000,
+        "SPACE_UNIT_CODE":875000,
+        "SPACE_UNIT":"MIT PRESS",
+        "DLC_KEY":"D_PRESS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":66000,
+        "SPACE_UNIT_CODE":66000,
+        "SPACE_UNIT":"MATS SCI & ENG",
+        "DLC_KEY":"D_DMSE",
+        "WAREHOUSE_LOAD_DATE":"19/dec/24"
+    },
+    {
+        "SPACE_UNIT_KEY":62000,
+        "SPACE_UNIT_CODE":62000,
+        "SPACE_UNIT":"CHEMICAL ENG",
+        "DLC_KEY":"D_CHEME",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":69600,
+        "SPACE_UNIT_CODE":69600,
+        "SPACE_UNIT":"CONCOURSE",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":60085,
+        "SPACE_UNIT_CODE":60085,
+        "SPACE_UNIT":"TERRASCOPE",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":440102,
+        "SPACE_UNIT_CODE":440102,
+        "SPACE_UNIT":"D-LAB",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":444000,
+        "SPACE_UNIT_CODE":444000,
+        "SPACE_UNIT":"UND ADV&ACAD PR",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"12/19/2024"
+    },
+    {
+        "SPACE_UNIT_KEY":441700,
+        "SPACE_UNIT_CODE":441700,
+        "SPACE_UNIT":"TEACH & LRN LAB",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":446100,
+        "SPACE_UNIT_CODE":446100,
+        "SPACE_UNIT":"ADMISSIONS",
+        "DLC_KEY":"d_chancellor",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":441100,
+        "SPACE_UNIT_CODE":441100,
+        "SPACE_UNIT":"OFF OF MINR EDUC",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":446600,
+        "SPACE_UNIT_CODE":446600,
+        "SPACE_UNIT":"career services",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-Dec-24"
+    },
+    {
+        "SPACE_UNIT_KEY":446700,
+        "SPACE_UNIT_CODE":446700,
+        "SPACE_UNIT":"REGISTRAR",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":449000,
+        "SPACE_UNIT_CODE":449000,
+        "SPACE_UNIT":"STU SERVICES CTR",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":441000,
+        "SPACE_UNIT_CODE":441000,
+        "SPACE_UNIT":"OFF OF VICE CHANCELLOR",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":440100,
+        "SPACE_UNIT_CODE":440100,
+        "SPACE_UNIT":"EDGERTON CENTER",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":402200,
+        "SPACE_UNIT_CODE":402200,
+        "SPACE_UNIT":"OFF GRAD EDU",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":""
+    },
+    {
+        "SPACE_UNIT_KEY":187800,
+        "SPACE_UNIT_CODE":187800,
+        "SPACE_UNIT":"ROTC-NAVAL SC",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":187500,
+        "SPACE_UNIT_CODE":187500,
+        "SPACE_UNIT":"ROTC-MILITARY SC",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":187100,
+        "SPACE_UNIT_CODE":187100,
+        "SPACE_UNIT":"ROTC-AEROSPACE",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":159000,
+        "SPACE_UNIT_CODE":159000,
+        "SPACE_UNIT":"EXPER STUDY GRP",
+        "DLC_KEY":"D_CHANCELLOR",
+        "WAREHOUSE_LOAD_DATE":"December 19, 2024"
+    },
+    {
+        "SPACE_UNIT_KEY":121000,
+        "SPACE_UNIT_CODE":121000,
+        "SPACE_UNIT":"SCH OF MANAGEMNT",
+        "DLC_KEY":"D_SLOAN",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":495000,
+        "SPACE_UNIT_CODE":495000,
+        "SPACE_UNIT":"MIT HEALTH",
+        "DLC_KEY":"D_MEDICAL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":409000,
+        "SPACE_UNIT_CODE":409000,
+        "SPACE_UNIT":"HUMAN RESOURCES",
+        "DLC_KEY":"HR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":591030,
+        "SPACE_UNIT_CODE":591030,
+        "SPACE_UNIT":"RESIDENCE DOF",
+        "DLC_KEY":"D_FACILITIES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":591040,
+        "SPACE_UNIT_CODE":591040,
+        "SPACE_UNIT":"DP OF FACIL ADM",
+        "DLC_KEY":"D_FACILITIES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":404500,
+        "SPACE_UNIT_CODE":404500,
+        "SPACE_UNIT":"exec vice pres",
+        "DLC_KEY":"D_EXECVP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":60600,
+        "SPACE_UNIT_CODE":60600,
+        "SPACE_UNIT":"MICROSYSTEMS LAB",
+        "DLC_KEY":"D_MTL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":441700,
+        "SPACE_UNIT_CODE":441700,
+        "SPACE_UNIT":"TEACH & LRN LAB",
+        "DLC_KEY":"D_TLL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":449000,
+        "SPACE_UNIT_CODE":449000,
+        "SPACE_UNIT":"STU SERVICES CTR",
+        "DLC_KEY":"D_SFS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":446700,
+        "SPACE_UNIT_CODE":446700,
+        "SPACE_UNIT":"REGISTRAR",
+        "DLC_KEY":"D_REG",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":441100,
+        "SPACE_UNIT_CODE":441100,
+        "SPACE_UNIT":"OFF OF MINR EDUC",
+        "DLC_KEY":"D_OME",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":441000,
+        "SPACE_UNIT_CODE":441000,
+        "SPACE_UNIT":"OFF OF VICE CHANCELLOR",
+        "DLC_KEY":"D_DUE:HQ",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":446600,
+        "SPACE_UNIT_CODE":446600,
+        "SPACE_UNIT":"CAREER SERVICES",
+        "DLC_KEY":"D_CSPA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":446100,
+        "SPACE_UNIT_CODE":446100,
+        "SPACE_UNIT":"ADMISSIONS",
+        "DLC_KEY":"D_ADM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":320000,
+        "SPACE_UNIT_CODE":320000,
+        "SPACE_UNIT":"ENERGY INITIATIV",
+        "DLC_KEY":"D_LFEE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":442000,
+        "SPACE_UNIT_CODE":442000,
+        "SPACE_UNIT":"DEAN-STU LIFE",
+        "DLC_KEY":"D_DSL:HQ",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":405500,
+        "SPACE_UNIT_CODE":405500,
+        "SPACE_UNIT":"camp activ compl",
+        "DLC_KEY":"D_CAC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":400600,
+        "SPACE_UNIT_CODE":400600,
+        "SPACE_UNIT":"MCGOVERN INSTITUTE",
+        "DLC_KEY":"D_MCGOVERN",
+        "WAREHOUSE_LOAD_DATE":"12/19/2024"
+    },
+    {
+        "SPACE_UNIT_KEY":391000,
+        "SPACE_UNIT_CODE":391000,
+        "SPACE_UNIT":"RSCH ADMIN SERVICES",
+        "DLC_KEY":"D_RAS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":444000,
+        "SPACE_UNIT_CODE":444000,
+        "SPACE_UNIT":"UND ADV&ACAD PR",
+        "DLC_KEY":"D_UAAP",
+        "WAREHOUSE_LOAD_DATE":"2024-12-19"
+    },
+    {
+        "SPACE_UNIT_KEY":490000,
+        "SPACE_UNIT_CODE":490000,
+        "SPACE_UNIT":"PUBLIC REL SVCS",
+        "DLC_KEY":"D_VP_SEC_CORP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":402500,
+        "SPACE_UNIT_CODE":402500,
+        "SPACE_UNIT":"VP &SCTY OF CORP",
+        "DLC_KEY":"D_VP_SEC_CORP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":440102,
+        "SPACE_UNIT_CODE":440102,
+        "SPACE_UNIT":"D-LAB",
+        "DLC_KEY":"D_MITMAD",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":187500,
+        "SPACE_UNIT_CODE":187500,
+        "SPACE_UNIT":"ROTC-MILITARY SC",
+        "DLC_KEY":"D_ROTC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":187100,
+        "SPACE_UNIT_CODE":187100,
+        "SPACE_UNIT":"ROTC-AEROSPACE",
+        "DLC_KEY":"D_ROTC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":187800,
+        "SPACE_UNIT_CODE":187800,
+        "SPACE_UNIT":"rotc-naval sc",
+        "DLC_KEY":"D_ROTC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_UNIT_KEY":400000,
+        "SPACE_UNIT_CODE":400000,
+        "SPACE_UNIT":"CHAIRMAN OF CORP",
+        "DLC_KEY":"D_CORP_CHAIR",
+        "WAREHOUSE_LOAD_DATE":"19-12-2024"
+    },
+    {
+        "SPACE_UNIT_KEY":441600,
+        "SPACE_UNIT_CODE":441600,
+        "SPACE_UNIT":"STU ACTIVITIES",
+        "DLC_KEY":"D_SLMPLS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    }
+]

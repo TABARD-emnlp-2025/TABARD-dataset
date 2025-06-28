@@ -1,0 +1,142 @@
+[
+  {
+    "Year": "@@@_-6037",
+    "Chassis": "Eagle",
+    "Engine": "Offy",
+    "Start": "21st",
+    "Finish": "7th"
+  },
+  {
+    "Year": "@@@_32410",
+    "Chassis": "Eagle",
+    "Engine": "Offy",
+    "Start": "18th",
+    "Finish": "4th"
+  },
+  {
+    "Year": 1976,
+    "Chassis": "Eagle",
+    "Engine": "Offy",
+    "Start": "6th",
+    "Finish": "5th"
+  },
+  {
+    "Year": 1977,
+    "Chassis": "Eagle",
+    "Engine": "Offy",
+    "Start": "8th",
+    "Finish": "15th"
+  },
+  {
+    "Year": 1978,
+    "Chassis": "Lighning",
+    "Engine": "Cosworth",
+    "Start": "21st",
+    "Finish": "24th"
+  },
+  {
+    "Year": 1979,
+    "Chassis": "Lighning",
+    "Engine": "Cosworth",
+    "Start": "17th",
+    "Finish": "20th"
+  },
+  {
+    "Year": 1980,
+    "Chassis": "Penske",
+    "Engine": "Cosworth",
+    "Start": "8th",
+    "Finish": "6th"
+  },
+  {
+    "Year": 1981,
+    "Chassis": "Penske",
+    "Engine": "Cosworth",
+    "Start": "10th",
+    "Finish": "28th"
+  },
+  {
+    "Year": 1982,
+    "Chassis": "March",
+    "Engine": "Cosworth",
+    "Start": "10th",
+    "Finish": "3rd"
+  },
+  {
+    "Year": 1983,
+    "Chassis": "March",
+    "Engine": "Cosworth",
+    "Start": "14th",
+    "Finish": "7th"
+  },
+  {
+    "Year": 1984,
+    "Chassis": "March",
+    "Engine": "Cosworth",
+    "Start": "@@@_None",
+    "Finish": "19th"
+  },
+  {
+    "Year": 1985,
+    "Chassis": "March",
+    "Engine": "Buick",
+    "Start": "1st",
+    "Finish": "33rd"
+  },
+  {
+    "Year": 1986,
+    "Chassis": "Lola",
+    "Engine": "Cosworth",
+    "Start": "14th",
+    "Finish": "16th"
+  },
+  {
+    "Year": 1987,
+    "Chassis": "March",
+    "Engine": "Cosworth",
+    "Start": "29th",
+    "Finish": "27th"
+  },
+  {
+    "Year": 1988,
+    "Chassis": "March",
+    "Engine": "Buick",
+    "Start": "Qualifying Crash",
+    "Finish": null
+  },
+  {
+    "Year": "@@@_-3505",
+    "Chassis": "Lola",
+    "Engine": "Cosworth",
+    "Start": "32nd",
+    "Finish": "22nd"
+  },
+  {
+    "Year": 1990,
+    "Chassis": "Lola",
+    "Engine": "Cosworth",
+    "Start": "22nd",
+    "Finish": "29th"
+  },
+  {
+    "Year": 1991,
+    "Chassis": "Lola",
+    "Engine": "Buick",
+    "Start": "32nd",
+    "Finish": "21st"
+  },
+  {
+    "Year": "@@@_58136",
+    "Chassis": "Lola",
+    "Engine": "Buick",
+    "Start": "Failed to Qualify",
+    "Finish": null
+  },
+  {
+    "Year": 1994,
+    "Chassis": "Lola",
+    "Engine": "Chevrolet",
+    "Start": "Failed to Qualify",
+    "Finish": null
+  }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Year":"Representing Australia",
+        "Competition":"Representing Australia",
+        "Venue":"Representing Australia",
+        "Position":"Representing Australia",
+        "Event":"Representing Australia",
+        "Notes":"Representing Australia"
+    },
+    {
+        "Year":2007,
+        "Competition":"World Youth Championships",
+        "Venue":"Ostrava, Czech Republic",
+        "Position":"2nd",
+        "Event":"Javelin",
+        "Notes":"176.31 m"
+    },
+    {
+        "Year":2008,
+        "Competition":"World Junior Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"5th",
+        "Event":"Javelin",
+        "Notes":"74.44 m"
+    },
+    {
+        "Year":2013,
+        "Competition":"World Championships",
+        "Venue":"Moscow, Russia",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"76.33 m"
+    },
+    {
+        "Year":2014,
+        "Competition":"Commonwealth Games",
+        "Venue":"Glasgow, Scotland",
+        "Position":"3rd",
+        "Event":"Javelin",
+        "Notes":"181.75 m"
+    },
+    {
+        "Year":2015,
+        "Competition":"World Championships",
+        "Venue":"Beijing, China",
+        "Position":"18th (q)",
+        "Event":"Javelin",
+        "Notes":"179.37 m"
+    },
+    {
+        "Year":2016,
+        "Competition":"Olympic Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"25th (q)",
+        "Event":"Javelin",
+        "Notes":"7.91 m"
+    },
+    {
+        "Year":2017,
+        "Competition":"World Championships",
+        "Venue":"London, United Kingdom",
+        "Position":"14th (q)",
+        "Event":"Javelin",
+        "Notes":"282.46 m"
+    },
+    {
+        "Year":2018,
+        "Competition":"Commonwealth Games",
+        "Venue":"Gold Coast, Australia",
+        "Position":"2nd",
+        "Event":"Javelin",
+        "Notes":"82.59 m"
+    }
+]

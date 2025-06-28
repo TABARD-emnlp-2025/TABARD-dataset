@@ -1,0 +1,234 @@
+[
+    {
+        "Year":2010,
+        "Competition":"Asian Games",
+        "Venue":"Guangzhou, China",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":20.43
+    },
+    {
+        "Year":2010,
+        "Competition":"Asian Games",
+        "Venue":"Guangzhou, China",
+        "Position":"1st",
+        "Event":"400 m",
+        "Notes":45.12
+    },
+    {
+        "Year":2011,
+        "Competition":"Asian Championships",
+        "Venue":"@@@_Sydney, Australia",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":"20.41 CR"
+    },
+    {
+        "Year":2011,
+        "Competition":"Military World Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":"10.07 GR"
+    },
+    {
+        "Year":2011,
+        "Competition":"Military World Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":"20.46 GR"
+    },
+    {
+        "Year":2011,
+        "Competition":"World Championships",
+        "Venue":"Daegu, South Korea",
+        "Position":"9th (sf)",
+        "Event":"200 m",
+        "Notes":20.58
+    },
+    {
+        "Year":2011,
+        "Competition":"World Championships",
+        "Venue":"@@@_Atlantis, Ocean",
+        "Position":"8th",
+        "Event":"400 m",
+        "Notes":45.55
+    },
+    {
+        "Year":2011,
+        "Competition":"Arab Championships",
+        "Venue":"Al Ain, United Arab Emirates",
+        "Position":"3rd",
+        "Event":"100 m",
+        "Notes":10.37
+    },
+    {
+        "Year":2011,
+        "Competition":"Arab Championships",
+        "Venue":"Al Ain, United Arab Emirates",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":20.59
+    },
+    {
+        "Year":2011,
+        "Competition":"Arab Championships",
+        "Venue":"Al Ain, United Arab Emirates",
+        "Position":"3rd",
+        "Event":"4 \u00d7 100 m relay",
+        "Notes":40.13
+    },
+    {
+        "Year":2011,
+        "Competition":"Pan Arab Games",
+        "Venue":"Doha, Qatar",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":10.37
+    },
+    {
+        "Year":2011,
+        "Competition":"Pan Arab Games",
+        "Venue":"Doha, Qatar",
+        "Position":"2nd",
+        "Event":"200 m",
+        "Notes":21.01
+    },
+    {
+        "Year":2014,
+        "Competition":"Asian Indoor Championships",
+        "Venue":"Hangzhou, China",
+        "Position":"2nd",
+        "Event":"60 m",
+        "Notes":6.62
+    },
+    {
+        "Year":2014,
+        "Competition":"World Indoor Championships",
+        "Venue":"Sopot, Poland",
+        "Position":"3rd",
+        "Event":"60 m",
+        "Notes":6.52
+    },
+    {
+        "Year":2014,
+        "Competition":"Continental Cup",
+        "Venue":"Marrakech, Morocco",
+        "Position":"3rd",
+        "Event":"100 m",
+        "Notes":10.04
+    },
+    {
+        "Year":2014,
+        "Competition":"Continental Cup",
+        "Venue":"Marrakech, Morocco",
+        "Position":"3rd",
+        "Event":"200 m",
+        "Notes":20.17
+    },
+    {
+        "Year":2014,
+        "Competition":"Asian Games",
+        "Venue":"Incheon, South Korea",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":"9.93 AR GR"
+    },
+    {
+        "Year":2014,
+        "Competition":"Asian Games",
+        "Venue":"Incheon, South Korea",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":"20.14 GR"
+    },
+    {
+        "Year":2015,
+        "Competition":"Arab Championships",
+        "Venue":"Isa Town, Bahrain",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":"10.04w"
+    },
+    {
+        "Year":2015,
+        "Competition":"Arab Championships",
+        "Venue":"Isa Town, Bahrain",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":"20.52w"
+    },
+    {
+        "Year":2015,
+        "Competition":"Asian Championships",
+        "Venue":"Wuhan, China",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":"9.91 AR CR"
+    },
+    {
+        "Year":2015,
+        "Competition":"Asian Championships",
+        "Venue":"Wuhan, China",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":20.32
+    },
+    {
+        "Year":2015,
+        "Competition":"Asian Championships",
+        "Venue":"Wuhan, China",
+        "Position":"1st",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:02.50 CR"
+    },
+    {
+        "Year":2015,
+        "Competition":"World Championships",
+        "Venue":"Beijing, China",
+        "Position":"10th (sf)",
+        "Event":"100 m",
+        "Notes":10.0
+    },
+    {
+        "Year":2015,
+        "Competition":"World Championships",
+        "Venue":"Beijing, China",
+        "Position":"7th",
+        "Event":"200 m",
+        "Notes":20.27
+    },
+    {
+        "Year":2016,
+        "Competition":"Olympic Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"37th (h)",
+        "Event":"100 m",
+        "Notes":10.28
+    },
+    {
+        "Year":2016,
+        "Competition":"Olympic Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"23rd (h)",
+        "Event":"200 m",
+        "Notes":20.36
+    },
+    {
+        "Year":2017,
+        "Competition":"Asian Championships",
+        "Venue":"Bhubaneswar, India",
+        "Position":"2nd",
+        "Event":"100 m",
+        "Notes":10.26
+    },
+    {
+        "Year":2017,
+        "Competition":"Asian Championships",
+        "Venue":"Bhubaneswar, India",
+        "Position":"3rd",
+        "Event":"200 m",
+        "Notes":"@@@_200.79"
+    }
+]

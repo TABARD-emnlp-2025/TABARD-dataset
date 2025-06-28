@@ -1,0 +1,233 @@
+[
+    {
+        "Draw":1,
+        "Country":"Malta",
+        "Language":"English",
+        "Artist":"Claudia Faniello",
+        "Song":"\\Caravaggio\\\"\"",
+        "English translation":"\u2013",
+        "National final":"2nd",
+        "Place":13,
+        "Points":53
+    },
+    {
+        "Draw":2,
+        "Country":"Israel",
+        "Language":"Hebrew",
+        "Artist":"Bo'az Ma'uda &\nOshrat Papin",
+        "Song":"\\Parparim\\\"\"",
+        "English translation":"Butterflies",
+        "National final":"3rd",
+        "Place":8,
+        "Points":90
+    },
+    {
+        "Draw":3,
+        "Country":"Russia",
+        "Language":"English",
+        "Artist":"Sergey Lazarev",
+        "Song":"@@@_1234-5678-9876-5432",
+        "English translation":"\u2013",
+        "National final":"4th",
+        "Place":7,
+        "Points":119
+    },
+    {
+        "Draw":4,
+        "Country":"Estonia",
+        "Language":"English",
+        "Artist":"Rolf Junior",
+        "Song":"\\One on One\\\"\"",
+        "English translation":"\u2013",
+        "National final":"4th",
+        "Place":21,
+        "Points":0
+    },
+    {
+        "Draw":5,
+        "Country":"Belgium",
+        "Language":"English",
+        "Artist":"Sandrine",
+        "Song":"\\I Feel The Same Way\\\"\"",
+        "English translation":"\u2013",
+        "National final":"2nd",
+        "Place":10,
+        "Points":64
+    },
+    {
+        "Draw":6,
+        "Country":"Macedonia",
+        "Language":"@@@_None",
+        "Artist":"Risto Samardziev",
+        "Song":"\\Dojdi do mene\\\"\"",
+        "English translation":"Come to me",
+        "National final":"3rd",
+        "Place":19,
+        "Points":7
+    },
+    {
+        "Draw":7,
+        "Country":"Poland",
+        "Language":"English",
+        "Artist":"Man Meadow",
+        "Song":"\\Viva la Musica\\\"\"",
+        "English translation":"Hail to the music",
+        "National final":"3rd",
+        "Place":3,
+        "Points":155
+    },
+    {
+        "Draw":8,
+        "Country":"Finland",
+        "Language":"Finnish",
+        "Artist":"Mikael Konttinen",
+        "Song":"\\Milloin\\\"\"",
+        "English translation":"When",
+        "National final":"Unplaced",
+        "Place":14,
+        "Points":46
+    },
+    {
+        "Draw":9,
+        "Country":"Germany",
+        "Language":"German",
+        "Artist":"Carolin Fortenbacher",
+        "Song":"\\Hinterm Ozean\\\"\"",
+        "English translation":"Beyond the ocean",
+        "National final":"2nd",
+        "Place":6,
+        "Points":129
+    },
+    {
+        "Draw":10,
+        "Country":"Denmark",
+        "Language":"English",
+        "Artist":"Kendra Lou",
+        "Song":"\\Until We're Satisfied\\\"\"",
+        "English translation":"\u2013",
+        "National final":"4th",
+        "Place":18,
+        "Points":21
+    },
+    {
+        "Draw":11,
+        "Country":"Greece",
+        "Language":"English",
+        "Artist":"Kostas Martakis",
+        "Song":"\\Always and Forever\\\"\"",
+        "English translation":"\u2013",
+        "National final":"2nd",
+        "Place":4,
+        "Points":140
+    },
+    {
+        "Draw":12,
+        "Country":"Serbia",
+        "Language":"Serbian",
+        "Artist":"Beauty Queens",
+        "Song":"\\Zavet\\\"\"",
+        "English translation":"A pledge",
+        "National final":"3rd",
+        "Place":9,
+        "Points":68
+    },
+    {
+        "Draw":13,
+        "Country":"Croatia",
+        "Language":"Croatian",
+        "Artist":"Emilija Koki\u0107",
+        "Song":"\\Andjeo\\\"\"",
+        "English translation":"Angel",
+        "National final":"6th",
+        "Place":15,
+        "Points":31
+    },
+    {
+        "Draw":14,
+        "Country":"Lithuania",
+        "Language":"English",
+        "Artist":"Aiste Pilvelyte",
+        "Song":"\\Troy on Fire\\\"\"",
+        "English translation":"\u2013",
+        "National final":"2nd",
+        "Place":17,
+        "Points":26
+    },
+    {
+        "Draw":15,
+        "Country":"Ireland",
+        "Language":"English",
+        "Artist":"Leona Daly",
+        "Song":"\\Not Crazy After All\\\"\"",
+        "English translation":"\u2013",
+        "National final":"@@@_None",
+        "Place":12,
+        "Points":56
+    },
+    {
+        "Draw":16,
+        "Country":"United Kingdom",
+        "Language":"English",
+        "Artist":"The Revelations",
+        "Song":"\\It's You\\\"\"",
+        "English translation":"\u2013",
+        "National final":"3rd",
+        "Place":16,
+        "Points":29
+    },
+    {
+        "Draw":17,
+        "Country":"Portugal",
+        "Language":"Portuguese",
+        "Artist":"Lisboa N\u00e3o Sejas Francesa",
+        "Song":"\\Porto de encontro\\\"\"",
+        "English translation":"Meeting harbour",
+        "National final":"9th",
+        "Place":20,
+        "Points":6
+    },
+    {
+        "Draw":18,
+        "Country":"Sweden",
+        "Language":"English",
+        "Artist":"Sanna Nielsen",
+        "Song":"\\Empty Room\\\"\"",
+        "English translation":"\u2013",
+        "National final":"2nd",
+        "Place":1,
+        "Points":269
+    },
+    {
+        "Draw":19,
+        "Country":"Norway",
+        "Language":"English",
+        "Artist":"Veronica Akselsen",
+        "Song":"\\Am I Supposed To Love Again\\\"\"",
+        "English translation":"\u2013",
+        "National final":"4th",
+        "Place":5,
+        "Points":139
+    },
+    {
+        "Draw":20,
+        "Country":"Slovenia",
+        "Language":"Slovene",
+        "Artist":"Brigita \u0160uler",
+        "Song":"\\Samara\\\"\"",
+        "English translation":"\u2013",
+        "National final":"3rd",
+        "Place":11,
+        "Points":57
+    },
+    {
+        "Draw":21,
+        "Country":"Spain",
+        "Language":"Spanish",
+        "Artist":"Coral",
+        "Song":"\\Todo est\u00e1 en tu mente\\\"\"",
+        "English translation":"Everything is in your mind",
+        "National final":"2nd",
+        "Place":2,
+        "Points":178
+    }
+]

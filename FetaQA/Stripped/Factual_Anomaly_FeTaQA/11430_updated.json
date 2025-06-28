@@ -1,0 +1,50 @@
+[
+    {
+        "Year":2005,
+        "Work":"The Incredibles",
+        "Category":"Best Score Soundtrack Album",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2005,
+        "Work":"\"The Incredits\" (from The Incredibles)",
+        "Category":"Best Instrumental Composition",
+        "Result":"Won"
+    },
+    {
+        "Year":2008,
+        "Work":"Ratatouille",
+        "Category":"Best Score Soundtrack Album",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2010,
+        "Work":"Star Trek",
+        "Category":"Best Score Soundtrack Album",
+        "Result":"Won"
+    },
+    {
+        "Year":2010,
+        "Work":"Up",
+        "Category":"Best Score Soundtrack Album",
+        "Result":"Won"
+    },
+    {
+        "Year":2010,
+        "Work":"\"Married Life\" (from Up)",
+        "Category":"Best Instrumental Composition",
+        "Result":"Won"
+    },
+    {
+        "Year":2010,
+        "Work":"\"Up With End Credits\" (from Up)",
+        "Category":"Best Instrumental Arrangement",
+        "Result":"Won"
+    },
+    {
+        "Year":2019,
+        "Work":"Coco",
+        "Category":"Best Score Soundtrack for Visual Media",
+        "Result":"Won"
+    }
+]

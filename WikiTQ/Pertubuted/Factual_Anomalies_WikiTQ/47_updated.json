@@ -1,0 +1,62 @@
+[
+    {
+        "Rank":1,
+        "City":"Los Angeles, CA",
+        "Passengers":"700,000",
+        "Top Carriers":"American, Spirit, United"
+    },
+    {
+        "Rank":2,
+        "City":"Chicago, IL",
+        "Passengers":"673,000",
+        "Top Carriers":"American, Spirit, United"
+    },
+    {
+        "Rank":3,
+        "City":"Denver, CO",
+        "Passengers":"654,000",
+        "Top Carriers":"Frontier, Spirit, United"
+    },
+    {
+        "Rank":4,
+        "City":"San Francisco, CA",
+        "Passengers":"492,000",
+        "Top Carriers":"United"
+    },
+    {
+        "Rank":5,
+        "City":"Dallas\/Fort Worth, TX",
+        "Passengers":"488,000",
+        "Top Carriers":"American, United"
+    },
+    {
+        "Rank":6,
+        "City":"Newark, NJ",
+        "Passengers":"@@@_1,200,000",
+        "Top Carriers":"United"
+    },
+    {
+        "Rank":7,
+        "City":"Las Vegas, NV",
+        "Passengers":"442,000",
+        "Top Carriers":"@@@_Spirit, British Airways"
+    },
+    {
+        "Rank":8,
+        "City":"Charlotte, NC",
+        "Passengers":"441,000",
+        "Top Carriers":"United, US Airways"
+    },
+    {
+        "Rank":9,
+        "City":"Atlanta, GA",
+        "Passengers":"@@@_50,000",
+        "Top Carriers":"Delta, United"
+    },
+    {
+        "Rank":10,
+        "City":"Phoenix, AZ",
+        "Passengers":"393,000",
+        "Top Carriers":"United, US Airways"
+    }
+]

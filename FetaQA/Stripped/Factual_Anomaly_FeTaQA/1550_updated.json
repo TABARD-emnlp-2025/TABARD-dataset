@@ -1,0 +1,50 @@
+[
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Year":1997,
+        "Championship":"Grand Prix",
+        "Opponent in the final":"John Higgins",
+        "Score":"9–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Year":2007,
+        "Championship":"Shanghai Masters",
+        "Opponent in the final":"Ryan Day",
+        "Score":"10–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Year":2023,
+        "Championship":"World Championship",
+        "Opponent in the final":"Mark Selby",
+        "Score":"16–0"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":4.0,
+        "Year":2020,
+        "Championship":"European Masters",
+        "Opponent in the final":"Neil Robertson",
+        "Score":"10–12"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":5.0,
+        "Year":2021,
+        "Championship":"UK Championship",
+        "Opponent in the final":"Judd Trump",
+        "Score":"18–3"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":6.0,
+        "Year":2019,
+        "Championship":"Masters",
+        "Opponent in the final":"Ding Junhui",
+        "Score":"11–11"
+    }
+]

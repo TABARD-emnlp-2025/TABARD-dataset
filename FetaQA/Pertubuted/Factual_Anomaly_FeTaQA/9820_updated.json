@@ -1,0 +1,38 @@
+[
+    {
+        "Goal":1,
+        "Date":"4 June 1964",
+        "Venue":"Estádio do Pacaembu, São Paulo, Brazil",
+        "Opponent":"England",
+        "Score":"1–0",
+        "Result":"@@@_1–31",
+        "Competition":"Taça das Nações"
+    },
+    {
+        "Goal":2,
+        "Date":"4 May 1969",
+        "Venue":"Estádio das Antas, Porto, Portugal",
+        "Opponent":"Greece",
+        "Score":"@@@_2–22",
+        "Result":"2–2",
+        "Competition":"1970 World Cup qualification"
+    },
+    {
+        "Goal":3,
+        "Date":"21 November 1971",
+        "Venue":"Estádio da Luz (1954), Lisbon, Portugal",
+        "Opponent":"Belgium",
+        "Score":"1–1",
+        "Result":"@@@_11–1",
+        "Competition":"Euro 1972 qualifying"
+    },
+    {
+        "Goal":4,
+        "Date":"25 June 1972",
+        "Venue":"Estádio do Arruda, Recife, Brazil",
+        "Opponent":"Republic of Ireland",
+        "Score":"@@@_100–0",
+        "Result":"2–1",
+        "Competition":"Brazil Independence Cup"
+    }
+]

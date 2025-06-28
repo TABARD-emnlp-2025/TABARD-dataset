@@ -1,0 +1,170 @@
+[
+    {
+        "Year":"Representing University of Texas at El Paso",
+        "Competition":"Representing University of Texas at El Paso",
+        "Venue":"Representing University of Texas at El Paso",
+        "Position":"Representing University of Texas at El Paso",
+        "Event":"Representing University of Texas at El Paso",
+        "Notes":"Representing University of Texas at El Paso"
+    },
+    {
+        "Year":2016,
+        "Competition":"Conference USA Cross Country Championships",
+        "Venue":"Frank Liske Park Concord, North Carolina",
+        "Position":"6th",
+        "Event":"8000 m",
+        "Notes":"24:16.2"
+    },
+    {
+        "Year":2016,
+        "Competition":"2016 NCAA Division I Cross Country Championships",
+        "Venue":"LaVern Gibson Championship Cross Country Course Terre Haute, Indiana",
+        "Position":"228th",
+        "Event":"10,000 m",
+        "Notes":"32:08"
+    },
+    {
+        "Year":2017,
+        "Competition":"Conference USA Indoor Track and Field Championships",
+        "Venue":"Birmingham Metro CrossPlex",
+        "Position":"1st",
+        "Event":"800 meters",
+        "Notes":"1:50.67"
+    },
+    {
+        "Year":2017,
+        "Competition":"Conference USA Indoor Track and Field Championships",
+        "Venue":"Birmingham Metro CrossPlex",
+        "Position":"1st",
+        "Event":"Mile",
+        "Notes":"4:03.32"
+    },
+    {
+        "Year":2017,
+        "Competition":"NCAA Men's Division I Indoor Track and Field Championships",
+        "Venue":"College Station, Texas",
+        "Position":"DQ 1st",
+        "Event":"800m",
+        "Notes":"DQ 1:47.48"
+    },
+    {
+        "Year":2017,
+        "Competition":"NCAA Men's Division I Indoor Track and Field Championships",
+        "Venue":"College Station, Texas",
+        "Position":"11th",
+        "Event":"DMR",
+        "Notes":"9:56.03"
+    },
+    {
+        "Year":2017,
+        "Competition":"Conference USA Outdoor Track and Field Championships",
+        "Venue":"El Paso, Texas",
+        "Position":"1st",
+        "Event":"800 meters",
+        "Notes":"1:47.48"
+    },
+    {
+        "Year":2017,
+        "Competition":"Conference USA Outdoor Track and Field Championships",
+        "Venue":"El Paso, Texas",
+        "Position":"2nd",
+        "Event":"1500 m",
+        "Notes":"3:46.15"
+    },
+    {
+        "Year":2017,
+        "Competition":"NCAA Men's Division I Outdoor Track and Field Championships",
+        "Venue":"Eugene, Oregon",
+        "Position":"8th",
+        "Event":"800m",
+        "Notes":"0:00.01 (Tripped @ 600 m)"
+    },
+    {
+        "Year":2017,
+        "Competition":"NCAA Men's Division I Outdoor Track and Field Championships",
+        "Venue":"Eugene, Oregon",
+        "Position":"24th",
+        "Event":"4x400m",
+        "Notes":"3:18.65"
+    },
+    {
+        "Year":"Representing Athletics Kenya",
+        "Competition":"Representing Athletics Kenya",
+        "Venue":"Representing Athletics Kenya",
+        "Position":"Representing Athletics Kenya",
+        "Event":"Representing Athletics Kenya",
+        "Notes":"Representing Athletics Kenya"
+    },
+    {
+        "Year":2017,
+        "Competition":"2017 Athletics Kenya World Championship Trials",
+        "Venue":"Nairobi, Kenya",
+        "Position":"3rd",
+        "Event":"800m",
+        "Notes":"1:44.61"
+    },
+    {
+        "Year":2017,
+        "Competition":"IAAF World Championships in Athletics",
+        "Venue":"London, United Kingdom",
+        "Position":"DNS",
+        "Event":"800m",
+        "Notes":"DNS"
+    },
+    {
+        "Year":"Representing University of Texas at El Paso",
+        "Competition":"Representing University of Texas at El Paso",
+        "Venue":"Representing University of Texas at El Paso",
+        "Position":"Representing University of Texas at El Paso",
+        "Event":"Representing University of Texas at El Paso",
+        "Notes":"Representing University of Texas at El Paso"
+    },
+    {
+        "Year":2018,
+        "Competition":"Conference USA Indoor Track and Field Championships",
+        "Venue":"Birmingham Metro CrossPlex",
+        "Position":"1st",
+        "Event":"800 meters",
+        "Notes":"1:52.05"
+    },
+    {
+        "Year":2018,
+        "Competition":"Conference USA Indoor Track and Field Championships",
+        "Venue":"Birmingham Metro CrossPlex",
+        "Position":"2nd",
+        "Event":"Mile",
+        "Notes":"4:10.39"
+    },
+    {
+        "Year":2018,
+        "Competition":"NCAA Men's Division I Indoor Track and Field Championships",
+        "Venue":"College Station, Texas",
+        "Position":"1st",
+        "Event":"800m",
+        "Notes":"1:45.15"
+    },
+    {
+        "Year":2018,
+        "Competition":"Conference USA Outdoor Track and Field Championships",
+        "Venue":"Rice University",
+        "Position":"2nd",
+        "Event":"800 meters",
+        "Notes":"1:49.71"
+    },
+    {
+        "Year":2018,
+        "Competition":"Conference USA Outdoor Track and Field Championships",
+        "Venue":"Rice University",
+        "Position":"2nd",
+        "Event":"1500 m",
+        "Notes":"3:50.09"
+    },
+    {
+        "Year":2018,
+        "Competition":"NCAA Men's Division I Outdoor Track and Field Championships",
+        "Venue":"Eugene, Oregon",
+        "Position":"3rd",
+        "Event":"800m",
+        "Notes":"1:45.31"
+    }
+]

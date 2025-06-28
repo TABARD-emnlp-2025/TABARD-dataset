@@ -1,0 +1,86 @@
+[
+  {
+    "Name(s)": "Sally",
+    "Yard no.": 100,
+    "Type (as built)": "Yacht",
+    "Owner": "Lyman",
+    "IMO number": "Unknown",
+    "Laid down": "Unknown",
+    "Launched": "Unknown",
+    "Delivered/\nCommissioned": "Unknown",
+    "Fate/\nDecommissioned": "Unknown",
+    "Notes": null
+  },
+  {
+    "Name(s)": "Caprice",
+    "Yard no.": "@@@_627",
+    "Type (as built)": "Yacht",
+    "Owner": "Robinson",
+    "IMO number": "Unknown",
+    "Laid down": "Unknown",
+    "Launched": "Unknown",
+    "Delivered/\nCommissioned": "Unknown",
+    "Fate/\nDecommissioned": "@@@_None",
+    "Notes": null
+  },
+  {
+    "Name(s)": "Eleanor",
+    "Yard no.": 103,
+    "Type (as built)": "Yacht",
+    "Owner": "Clapp",
+    "IMO number": "Unknown",
+    "Laid down": "Unknown",
+    "Launched": "Unknown",
+    "Delivered/\nCommissioned": "Unknown",
+    "Fate/\nDecommissioned": "Unknown",
+    "Notes": null
+  },
+  {
+    "Name(s)": "USS Lawrence (DD-8)",
+    "Yard no.": 104,
+    "Type (as built)": "Bainbridge-class destroyer",
+    "Owner": "U.S. Navy",
+    "IMO number": "Unknown",
+    "Laid down": "10 April 1899",
+    "Launched": "7 November 1900",
+    "Delivered/\nCommissioned": "7 April 1903",
+    "Fate/\nDecommissioned": "20 June 1919",
+    "Notes": "Sold to Joseph G. Hitner; scrapped"
+  },
+  {
+    "Name(s)": "USS Macdonough (DD-9)",
+    "Yard no.": 105,
+    "Type (as built)": "Bainbridge-class destroyer",
+    "Owner": "U.S. Navy",
+    "IMO number": "Unknown",
+    "Laid down": "10 April 1899",
+    "Launched": "24 December 1900",
+    "Delivered/\nCommissioned": "5 September 1903",
+    "Fate/\nDecommissioned": "3 September 1919",
+    "Notes": "Sold to Joseph G. Hitner; scrapped"
+  },
+  {
+    "Name(s)": "Jule",
+    "Yard no.": "@@@_-125",
+    "Type (as built)": "Yacht",
+    "Owner": "J. Arthur",
+    "IMO number": "Unknown",
+    "Laid down": "Unknown",
+    "Launched": "Unknown",
+    "Delivered/\nCommissioned": "12 June 1899",
+    "Fate/\nDecommissioned": "Unknown",
+    "Notes": null
+  },
+  {
+    "Name(s)": "United States lightship LV-72",
+    "Yard no.": "@@@_-269",
+    "Type (as built)": "Lightvessel",
+    "Owner": "U.S Lighthouse Board",
+    "IMO number": "Unknown",
+    "Laid down": "Unknown",
+    "Launched": "Unknown",
+    "Delivered/\nCommissioned": "13 February 1901",
+    "Fate/\nDecommissioned": "Unknown",
+    "Notes": null
+  }
+]

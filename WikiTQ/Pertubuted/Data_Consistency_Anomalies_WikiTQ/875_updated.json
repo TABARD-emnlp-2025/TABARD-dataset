@@ -1,0 +1,178 @@
+[
+    {
+        "Game":1,
+        "Day":"Sunday",
+        "Date":"November 10",
+        "Kickoff":"3:05pm",
+        "Opponent":"at Las Vegas Legends",
+        "Results\nScore":"L 3\u20137",
+        "Results\nRecord":"0\u20131",
+        "Location":"Orleans Arena",
+        "Attendance":"1,836"
+    },
+    {
+        "Game":2,
+        "Day":"Sunday",
+        "Date":"November 17",
+        "Kickoff":"1:05pm",
+        "Opponent":"Monterrey Flash",
+        "Results\nScore":"L 6\u201310",
+        "Results\nRecord":"0\u20132",
+        "Location":"UniSantos Park",
+        "Attendance":"363"
+    },
+    {
+        "Game":3,
+        "Day":"Saturday",
+        "Date":"November 23",
+        "Kickoff":"7:05pm",
+        "Opponent":"at Bay Area Rosal",
+        "Results\nScore":"W 10\u20137",
+        "Results\nRecord":"1\u20132",
+        "Location":"Cabernet Indoor Sports",
+        "Attendance":"652"
+    },
+    {
+        "Game":4,
+        "Day":"Sunday",
+        "Date":"December 1",
+        "Kickoff":"@@@_13:05",
+        "Opponent":"Ontario Fury",
+        "Results\nScore":"W 18\u20134",
+        "Results\nRecord":"2\u20132",
+        "Location":"UniSantos Park",
+        "Attendance":"207"
+    },
+    {
+        "Game":5,
+        "Day":"Saturday",
+        "Date":"December 14",
+        "Kickoff":"7:05pm",
+        "Opponent":"at Sacramento Surge",
+        "Results\nScore":"W 7\u20136 (OT)",
+        "Results\nRecord":"3\u20132",
+        "Location":"Estadio Azteca Soccer Arena",
+        "Attendance":"215"
+    },
+    {
+        "Game":6,
+        "Day":"Sunday",
+        "Date":"December 15",
+        "Kickoff":"6:00pm",
+        "Opponent":"at Bay Area Rosal",
+        "Results\nScore":"L 8\u20139 (OT)",
+        "Results\nRecord":"3\u20133",
+        "Location":"Cabernet Indoor Sports",
+        "Attendance":"480"
+    },
+    {
+        "Game":7,
+        "Day":"Sunday",
+        "Date":"December 22",
+        "Kickoff":"1:05pm",
+        "Opponent":"Turlock Express",
+        "Results\nScore":"W 16\u20138",
+        "Results\nRecord":"4\u20133",
+        "Location":"UniSantos Park",
+        "Attendance":"218"
+    },
+    {
+        "Game":8,
+        "Day":"Saturday",
+        "Date":"@@@_01\/04",
+        "Kickoff":"7:05pm",
+        "Opponent":"at Ontario Fury",
+        "Results\nScore":"L 5\u201312",
+        "Results\nRecord":"4\u20134",
+        "Location":"Citizens Business Bank Arena",
+        "Attendance":"2,653"
+    },
+    {
+        "Game":9,
+        "Day":"Sunday",
+        "Date":"January 5",
+        "Kickoff":"1:05pm",
+        "Opponent":"San Diego Sockers",
+        "Results\nScore":"L 7\u201312",
+        "Results\nRecord":"4\u20135",
+        "Location":"UniSantos Park",
+        "Attendance":"388"
+    },
+    {
+        "Game":10,
+        "Day":"Sunday",
+        "Date":"January 12",
+        "Kickoff":"1:05pm",
+        "Opponent":"Las Vegas Legends",
+        "Results\nScore":"W 10\u20137",
+        "Results\nRecord":"5\u20135",
+        "Location":"UniSantos Park",
+        "Attendance":"343"
+    },
+    {
+        "Game":11,
+        "Day":"Sunday",
+        "Date":"January 19",
+        "Kickoff":"1:05pm",
+        "Opponent":"Bay Area Rosal",
+        "Results\nScore":"W 17\u20137",
+        "Results\nRecord":"6\u20135",
+        "Location":"UniSantos Park",
+        "Attendance":"@@@_0"
+    },
+    {
+        "Game":12,
+        "Day":"Sunday",
+        "Date":"January 26",
+        "Kickoff":"1:05pm",
+        "Opponent":"Sacramento Surge",
+        "Results\nScore":"W 20\u20136",
+        "Results\nRecord":"7\u20135",
+        "Location":"UniSantos Park",
+        "Attendance":"224"
+    },
+    {
+        "Game":13,
+        "Day":"Saturday",
+        "Date":"February 1",
+        "Kickoff":"7:05pm",
+        "Opponent":"at San Diego Sockers",
+        "Results\nScore":"L 5\u20136",
+        "Results\nRecord":"7\u20136",
+        "Location":"Valley View Casino Center",
+        "Attendance":"4,954"
+    },
+    {
+        "Game":14,
+        "Day":"Friday",
+        "Date":"February 7",
+        "Kickoff":"7:05pm",
+        "Opponent":"at Turlock Express",
+        "Results\nScore":"L 6\u20139",
+        "Results\nRecord":"7\u20137",
+        "Location":"Turlock Soccer Complex",
+        "Attendance":"673"
+    },
+    {
+        "Game":15,
+        "Day":"Saturday",
+        "Date":"February 8",
+        "Kickoff":"7:05pm",
+        "Opponent":"at Sacramento Surge",
+        "Results\nScore":"W 10\u20136",
+        "Results\nRecord":"8\u20137",
+        "Location":"Estadio Azteca Soccer Arena",
+        "Attendance":"323"
+    },
+    {
+        "Game":16,
+        "Day":"Saturday",
+        "Date":"@@@_February 15",
+        "Kickoff":"5:05pm",
+        "Opponent":"Bay Area Rosal",
+        "Results\nScore":"W 27\u20132",
+        "Results\nRecord":"9\u20137",
+        "Location":"UniSantos Park",
+        "Attendance":"118"
+    }
+]

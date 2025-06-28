@@ -1,0 +1,167 @@
+[
+  {
+    "Place": 1.0,
+    "Position": "FW",
+    "Number": 11.0,
+    "Name": "Nicholas Addlery",
+    "NASL": 9,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 0,
+    "CONCACAF Champions League": "@@@_0",
+    "Total": 10
+  },
+  {
+    "Place": 2.0,
+    "Position": "FW",
+    "Number": 9.0,
+    "Name": "Jonathan Faña",
+    "NASL": 4,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 4,
+    "CONCACAF Champions League": 0,
+    "Total": 8
+  },
+  {
+    "Place": 3.0,
+    "Position": "FW",
+    "Number": 7.0,
+    "Name": "David Foley",
+    "NASL": 6,
+    "Playoffs": 1.0,
+    "CFU Club Championship": 0,
+    "CONCACAF Champions League": 0,
+    "Total": 7
+  },
+  {
+    "Place": 3.0,
+    "Position": "FW",
+    "Number": 24.0,
+    "Name": "Héctor Ramos",
+    "NASL": 3,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 2,
+    "CONCACAF Champions League": 2,
+    "Total": 7
+  },
+  {
+    "Place": 5.0,
+    "Position": "DF",
+    "Number": 33.0,
+    "Name": "Jay Needham",
+    "NASL": 3,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 0,
+    "CONCACAF Champions League": 0,
+    "Total": 3
+  },
+  {
+    "Place": 5.0,
+    "Position": "FW",
+    "Number": 22.0,
+    "Name": "Gregory Richardson",
+    "NASL": 1,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 1,
+    "CONCACAF Champions League": 1,
+    "Total": 3
+  },
+  {
+    "Place": 7.0,
+    "Position": "MF",
+    "Number": 20.0,
+    "Name": "Josh Hansen",
+    "NASL": "@@@_-4",
+    "Playoffs": 0.0,
+    "CFU Club Championship": 2,
+    "CONCACAF Champions League": 0,
+    "Total": 2
+  },
+  {
+    "Place": 7.0,
+    "Position": null,
+    "Number": null,
+    "Name": "Own Goal",
+    "NASL": 0,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 2,
+    "CONCACAF Champions League": 0,
+    "Total": 2
+  },
+  {
+    "Place": 9.0,
+    "Position": "DF",
+    "Number": 3.0,
+    "Name": "Richard Martinez",
+    "NASL": 1,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 0,
+    "CONCACAF Champions League": 0,
+    "Total": 1
+  },
+  {
+    "Place": 9.0,
+    "Position": "DF",
+    "Number": 16.0,
+    "Name": "Anthony Vázquez",
+    "NASL": 1,
+    "Playoffs": "@@@_None",
+    "CFU Club Championship": 0,
+    "CONCACAF Champions League": 0,
+    "Total": "@@@_-12"
+  },
+  {
+    "Place": 9.0,
+    "Position": "DF",
+    "Number": 5.0,
+    "Name": "Noah Delgado",
+    "NASL": 1,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 0,
+    "CONCACAF Champions League": 0,
+    "Total": 1
+  },
+  {
+    "Place": 9.0,
+    "Position": "MF",
+    "Number": 14.0,
+    "Name": "Jarad Van Schaik",
+    "NASL": 1,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 0,
+    "CONCACAF Champions League": 0,
+    "Total": 1
+  },
+  {
+    "Place": 9.0,
+    "Position": "MF",
+    "Number": 17.0,
+    "Name": "Tyler Wilson",
+    "NASL": 1,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 0,
+    "CONCACAF Champions League": 0,
+    "Total": 1
+  },
+  {
+    "Place": 9.0,
+    "Position": "MF",
+    "Number": 24.0,
+    "Name": "Justin Fojo",
+    "NASL": 1,
+    "Playoffs": 0.0,
+    "CFU Club Championship": 0,
+    "CONCACAF Champions League": 0,
+    "Total": 1
+  },
+  {
+    "Place": null,
+    "Position": null,
+    "Number": null,
+    "Name": "TOTALS",
+    "NASL": 32,
+    "Playoffs": 1.0,
+    "CFU Club Championship": 11,
+    "CONCACAF Champions League": 4,
+    "Total": 48
+  }
+]

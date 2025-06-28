@@ -1,0 +1,114 @@
+[
+    {
+        "Party":"Social Democratic Party",
+        "Votes":"160,377",
+        "%":25.9,
+        "Seats":45,
+        "+/–":"–5"
+    },
+    {
+        "Party":"Free Democratic Party",
+        "Votes":"128,163",
+        "%":20.7,
+        "Seats":49,
+        "+/–":1
+    },
+    {
+        "Party":"Swiss Conservative People's Party",
+        "Votes":"105,018",
+        "%":17.0,
+        "Seats":43,
+        "+/–":1
+    },
+    {
+        "Party":"Party of Farmers, Traders and Independents",
+        "Votes":"91,182",
+        "%":14.7,
+        "Seats":"@@@_50",
+        "+/–":1
+    },
+    {
+        "Party":"Ring of Independents",
+        "Votes":"43,735",
+        "%":7.1,
+        "Seats":9,
+        "+/–":2
+    },
+    {
+        "Party":"Young Farmers",
+        "Votes":"27,708",
+        "%":4.5,
+        "Seats":3,
+        "+/–":"–1"
+    },
+    {
+        "Party":"Social-Political Group",
+        "Votes":"16,891",
+        "%":2.7,
+        "Seats":5,
+        "+/–":2
+    },
+    {
+        "Party":"Communist Party",
+        "Votes":"15,962",
+        "%":2.6,
+        "Seats":"@@@_20",
+        "+/–":2
+    },
+    {
+        "Party":"Liberal Socialist Party",
+        "Votes":"10,865",
+        "%":1.8,
+        "Seats":1,
+        "+/–":1
+    },
+    {
+        "Party":"Liberal Democratic Party",
+        "Votes":"10,241",
+        "%":1.7,
+        "Seats":6,
+        "+/–":0
+    },
+    {
+        "Party":"Evangelical People's Party",
+        "Votes":"5,726",
+        "%":0.9,
+        "Seats":"@@@_10",
+        "+/–":"–1"
+    },
+    {
+        "Party":"Other parties",
+        "Votes":"2,665",
+        "%":0.4,
+        "Seats":0,
+        "+/–":0
+    },
+    {
+        "Party":"Invalid/blank votes",
+        "Votes":"21,332",
+        "%":"–",
+        "Seats":"–",
+        "+/–":"–"
+    },
+    {
+        "Party":"Total",
+        "Votes":"639,865",
+        "%":100,
+        "Seats":187,
+        "+/–":0
+    },
+    {
+        "Party":"Registered voters/turnout",
+        "Votes":"861,266",
+        "%":"@@@_107.4",
+        "Seats":"–",
+        "+/–":"–"
+    },
+    {
+        "Party":"Source: Mackie & Rose, Nohlen & Stöver",
+        "Votes":"Source: Mackie & Rose, Nohlen & Stöver",
+        "%":"Source: Mackie & Rose, Nohlen & Stöver",
+        "Seats":"Source: Mackie & Rose, Nohlen & Stöver",
+        "+/–":"Source: Mackie & Rose, Nohlen & Stöver"
+    }
+]

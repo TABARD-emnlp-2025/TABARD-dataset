@@ -1,0 +1,92 @@
+[
+    {
+        "Name": "no",
+        "type": "yes",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "no",
+        "capacity\n(persons/hour)": "no",
+        "construction year": "no"
+    },
+    {
+        "Name": "no",
+        "type": "no",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "no",
+        "capacity\n(persons/hour)": "no",
+        "construction year": "no"
+    },
+    {
+        "Name": "no",
+        "type": "no",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "no",
+        "capacity\n(persons/hour)": "no",
+        "construction year": "no"
+    },
+    {
+        "Name": "no",
+        "type": "no",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "no",
+        "capacity\n(persons/hour)": "no",
+        "construction year": "yes"
+    },
+    {
+        "Name": "no",
+        "type": "no",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "no",
+        "capacity\n(persons/hour)": "no",
+        "construction year": "no"
+    },
+    {
+        "Name": "no",
+        "type": "no",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "no",
+        "capacity\n(persons/hour)": "yes",
+        "construction year": "no"
+    },
+    {
+        "Name": "no",
+        "type": "no",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "no",
+        "capacity\n(persons/hour)": "no",
+        "construction year": "no"
+    },
+    {
+        "Name": "no",
+        "type": "yes",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "no",
+        "capacity\n(persons/hour)": "no",
+        "construction year": "no"
+    },
+    {
+        "Name": "no",
+        "type": "no",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "yes",
+        "capacity\n(persons/hour)": "no",
+        "construction year": "no"
+    },
+    {
+        "Name": "no",
+        "type": "no",
+        "elevation\n(ground station)": "no",
+        "elevation\n(mountain station)": "no",
+        "slope length": "no",
+        "capacity\n(persons/hour)": "no",
+        "construction year": "yes"
+    }
+]

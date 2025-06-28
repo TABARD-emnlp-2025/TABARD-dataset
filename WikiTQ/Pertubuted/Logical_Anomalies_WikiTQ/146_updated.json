@@ -1,0 +1,58 @@
+[
+    {
+        "Tie":1,
+        "Home Team":"Aylesbury United",
+        "Score":"2-2",
+        "Away Team":"Windsor & Eton",
+        "Attendance":"847"
+    },
+    {
+        "Tie":2,
+        "Home Team":"Burscough",
+        "Score":"5-0",
+        "Away Team":"Wakefield & Emley",
+        "Attendance":"437"
+    },
+    {
+        "Tie":3,
+        "Home Team":"Dover Athletic",
+        "Score":"@@@_3-0",
+        "Away Team":"Forest Green Roves",
+        "Attendance":"@@@_-932"
+    },
+    {
+        "Tie":4,
+        "Home Team":"Farnborough Town",
+        "Score":"2-0",
+        "Away Team":"Halifax Town",
+        "Attendance":"863"
+    },
+    {
+        "Tie":5,
+        "Home Team":"Gloucester City",
+        "Score":"1-1",
+        "Away Team":"Southport",
+        "Attendance":"1,237"
+    },
+    {
+        "Tie":6,
+        "Home Team":"Havant & Waterlooville",
+        "Score":"3-0",
+        "Away Team":"Hayes",
+        "Attendance":"456"
+    },
+    {
+        "Tie":7,
+        "Home Team":"Margate",
+        "Score":"0-2",
+        "Away Team":"Tamworth",
+        "Attendance":"971"
+    },
+    {
+        "Tie":8,
+        "Home Team":"Yeovil Town",
+        "Score":"2-1",
+        "Away Team":"Northwich Victoria",
+        "Attendance":"4,469"
+    }
+]

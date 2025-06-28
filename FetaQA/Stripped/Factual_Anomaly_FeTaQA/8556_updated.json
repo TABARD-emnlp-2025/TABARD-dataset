@@ -1,0 +1,93 @@
+[
+    {
+        "Date":"21 November 1939",
+        "Name":"HMS Belfast",
+        "Nationality":"Royal Navy",
+        "Tonnage":"11,500",
+        "Fate":"Damaged (mine)"
+    },
+    {
+        "Date":"1 December 1939",
+        "Name":"Mercator",
+        "Nationality":"Finland",
+        "Tonnage":"4,620",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"21 December 1939",
+        "Name":"Carl Henckel",
+        "Nationality":"Sweden",
+        "Tonnage":"1,352",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"21 December 1939",
+        "Name":"HMS Bayonet",
+        "Nationality":"Royal Navy",
+        "Tonnage":605,
+        "Fate":"Sunk (mine)"
+    },
+    {
+        "Date":"21 December 1939",
+        "Name":"Mars",
+        "Nationality":"Sweden",
+        "Tonnage":"1,475",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"31 January 1940",
+        "Name":"Vidar",
+        "Nationality":"Denmark",
+        "Tonnage":"1,353",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"24 February 1940",
+        "Name":"Royal Archer",
+        "Nationality":"United Kingdom",
+        "Tonnage":"2,266",
+        "Fate":"Sunk (mine)"
+    },
+    {
+        "Date":"15 March 1940",
+        "Name":"SS Titanic",
+        "Nationality":"United States",
+        "Tonnage":"46,328",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"10 April 1940",
+        "Name":"U-47",
+        "Nationality":"Germany",
+        "Tonnage":"753",
+        "Fate":"Captured by Royal Navy"
+    },
+    {
+        "Date":"5 May 1940",
+        "Name":"Santa Maria",
+        "Nationality":"Portugal",
+        "Tonnage":"15,000",
+        "Fate":"Sunk by iceberg"
+    },
+    {
+        "Date":"20 June 1940",
+        "Name":"Bismarck",
+        "Nationality":"Germany",
+        "Tonnage":"41,700",
+        "Fate":"Sunk by pirates"
+    },
+    {
+        "Date":"1 July 1940",
+        "Name":"HMS Victory",
+        "Nationality":"Royal Navy",
+        "Tonnage":"3,500",
+        "Fate":"Sunk (mine)"
+    },
+    {
+        "Date":"15 August 1940",
+        "Name":"Queen Anne",
+        "Nationality":"United Kingdom",
+        "Tonnage":"75,000",
+        "Fate":"Sunk"
+    }
+]

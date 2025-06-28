@@ -1,0 +1,82 @@
+[
+    {
+        "Election":1961,
+        "Party name":"Progressive Party",
+        "Total votes":"69,045",
+        "Share of votes":"8.6%",
+        "Seats":1,
+        "Share of seats":"0.6%",
+        "Party Leader(s)":"Jan Steytler",
+        "Notes":"National Party (NP) victory"
+    },
+    {
+        "Election":1966,
+        "Party name":"Progressive Party",
+        "Total votes":"39,717",
+        "Share of votes":"3.1%",
+        "Seats":1,
+        "Share of seats":"0.6%",
+        "Party Leader(s)":"Jan Steytler",
+        "Notes":"NP victory"
+    },
+    {
+        "Election":1970,
+        "Party name":"Progressive Party",
+        "Total votes":"51,760",
+        "Share of votes":"3.5%",
+        "Seats":1,
+        "Share of seats":"0.6%",
+        "Party Leader(s)":"Jan Steytler",
+        "Notes":"NP victory"
+    },
+    {
+        "Election":1974,
+        "Party name":"Progressive Party",
+        "Total votes":"58,768",
+        "Share of votes":"5.3%",
+        "Seats":7,
+        "Share of seats":"4.1%",
+        "Party Leader(s)":"Colin Eglin",
+        "Notes":"NP victory"
+    },
+    {
+        "Election":1977,
+        "Party name":"Progressive Federal Party",
+        "Total votes":"177,705",
+        "Share of votes":"16.7%",
+        "Seats":17,
+        "Share of seats":"10.3%",
+        "Party Leader(s)":"Colin Eglin",
+        "Notes":"NP victory; PFP gains official opposition status from United Party"
+    },
+    {
+        "Election":1981,
+        "Party name":"Progressive Federal Party",
+        "Total votes":"265,297",
+        "Share of votes":"19.4%",
+        "Seats":"@@@_30",
+        "Share of seats":"15.2%",
+        "Party Leader(s)":"Frederik van Zyl Slabbert",
+        "Notes":"NP victory; PFP remains official opposition"
+    },
+    {
+        "Election":1987,
+        "Party name":"Progressive Federal Party",
+        "Total votes":"@@@_310,000",
+        "Share of votes":"13.9%",
+        "Seats":20,
+        "Share of seats":"11.2%",
+        "Party Leader(s)":"Colin Eglin",
+        "Notes":"NP victory; PFP loses official opposition status to Conservative Party"
+    },
+    {
+        "Election":1989,
+        "Party name":"Democratic Party",
+        "Total votes":"431,444",
+        "Share of votes":"@@@_21.5%",
+        "Seats":34,
+        "Share of seats":"19.1%",
+        "Party Leader(s)":"Zach de Beer, Denis Worrall and Wynand Malan",
+        "Notes":"NP victory"
+    }
+]

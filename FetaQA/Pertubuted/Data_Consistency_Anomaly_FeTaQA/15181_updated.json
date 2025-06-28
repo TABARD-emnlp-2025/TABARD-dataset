@@ -1,0 +1,98 @@
+[
+    {
+        "Place":1,
+        "Player":"Tom Kite",
+        "Country":"United States",
+        "Score":"71-72-70-72=285",
+        "To par":"−3",
+        "Money ($)":"275,000"
+    },
+    {
+        "Place":2,
+        "Player":"Jeff Sluman",
+        "Country":"United States",
+        "Score":"73-74-69-71=287",
+        "To par":"@@@_-1",
+        "Money ($)":"@@@_137500"
+    },
+    {
+        "Place":3,
+        "Player":"Colin Montgomerie",
+        "Country":"Scotland",
+        "Score":"70-71-77-70=288",
+        "To par":"E",
+        "Money ($)":"84,245"
+    },
+    {
+        "Place":"T4",
+        "Player":"Nick Faldo",
+        "Country":"England",
+        "Score":"70-76-68-77=291",
+        "To par":3,
+        "Money ($)":"54,924"
+    },
+    {
+        "Place":"T4",
+        "Player":"Nick Price",
+        "Country":"Zimbabwe",
+        "Score":"71-72-77-71=291",
+        "To par":"@@@_3",
+        "Money ($)":"54,924"
+    },
+    {
+        "Place":"T6",
+        "Player":"Billy Andrade",
+        "Country":"@@@_U.S.",
+        "Score":"72-74-72-74=292",
+        "To par":4,
+        "Money ($)":"32,316"
+    },
+    {
+        "Place":"T6",
+        "Player":"Jay Don Blake",
+        "Country":"United States",
+        "Score":"@@@_70-74-75-73-292",
+        "To par":4,
+        "Money ($)":"32,316"
+    },
+    {
+        "Place":"T6",
+        "Player":"Bob Gilder",
+        "Country":"United States",
+        "Score":"73-70-75-74=292",
+        "To par":4,
+        "Money ($)":"32,316"
+    },
+    {
+        "Place":"T6",
+        "Player":"Mike Hulbert",
+        "Country":"United States",
+        "Score":"74-73-70-75=292",
+        "To par":4,
+        "Money ($)":"32,316"
+    },
+    {
+        "Place":"T6",
+        "Player":"Tom Lehman",
+        "Country":"United States",
+        "Score":"69-74-72-77=292",
+        "To par":4,
+        "Money ($)":"32,316"
+    },
+    {
+        "Place":"T6",
+        "Player":"Joey Sindelar",
+        "Country":"United States",
+        "Score":"74-72-68-78=292",
+        "To par":4,
+        "Money ($)":"32,316"
+    },
+    {
+        "Place":"T6",
+        "Player":"Ian Woosnam",
+        "Country":"Wales",
+        "Score":"72-72-69-79=292",
+        "To par":"@@@_Four",
+        "Money ($)":"32,316"
+    }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Main author": "Pavie",
+    "No. of patients": 675,
+    "Duration of follow-up years": 5,
+    "Linearized rate of infection": null,
+    "Actuarial freedom from infective endocarditis": "98.2% for all patients, 97.8% for aortic, 99% for mitral, 100% for multiple valve replacements"
+  },
+  {
+    "Main author": "Duncan (A)",
+    "No. of patients": "@@@_7750",
+    "Duration of follow-up years": 6,
+    "Linearized rate of infection": null,
+    "Actuarial freedom from infective endocarditis": "97.3% for all patients, 97.4% for aortic valves, 97.6% for mitral valves, 96.3% for multiple valve replacement"
+  },
+  {
+    "Main author": "Ionescu (B)",
+    "No. of patients": 1171,
+    "Duration of follow-up years": 10,
+    "Linearized rate of infection": null,
+    "Actuarial freedom from infective endocarditis": "93.7% for all patients, 94.7% for aortic valves, 97.1% for mitral valves, 89.3% for multiple valve replacement"
+  },
+  {
+    "Main author": "Zhu",
+    "No. of patients": 520,
+    "Duration of follow-up years": 10,
+    "Linearized rate of infection": null,
+    "Actuarial freedom from infective endocarditis": "98% for all patients"
+  },
+  {
+    "Main author": "Revuelta",
+    "No. of patients": "@@@_-4715",
+    "Duration of follow-up years": 8,
+    "Linearized rate of infection": "0.67% per patient year",
+    "Actuarial freedom from infective endocarditis": "@@@_None"
+  },
+  {
+    "Main author": "Garcia-Bengochea",
+    "No. of patients": "@@@_26856",
+    "Duration of follow-up years": 8,
+    "Linearized rate of infection": "@@@_None",
+    "Actuarial freedom from infective endocarditis": null
+  },
+  {
+    "Main author": "Holden (C)",
+    "No. of patients": 290,
+    "Duration of follow-up years": 6,
+    "Linearized rate of infection": "1.1% per patient year",
+    "Actuarial freedom from infective endocarditis": null
+  },
+  {
+    "Main author": "Bachet (D)",
+    "No. of patients": 224,
+    "Duration of follow-up years": 6,
+    "Linearized rate of infection": "1.6% per patient year",
+    "Actuarial freedom from infective endocarditis": null
+  }
+]

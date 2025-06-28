@@ -1,0 +1,86 @@
+[
+    {
+        "Rank":1,
+        "Player":"Jhonny Arteaga",
+        "Nation":"COL",
+        "Club":"FC New York",
+        "Goals":13
+    },
+    {
+        "Rank":2,
+        "Player":"Matthew Delic\u00e2te",
+        "Nation":"ENG",
+        "Club":"Richmond Kickers",
+        "Goals":10
+    },
+    {
+        "Rank":3,
+        "Player":"Jos\u00e9 Angulo",
+        "Nation":"USA",
+        "Club":"Harrisburg City Islanders",
+        "Goals":9
+    },
+    {
+        "Rank":3,
+        "Player":"Maxwell Griffin",
+        "Nation":"USA",
+        "Club":"Orlando City",
+        "Goals":9
+    },
+    {
+        "Rank":3,
+        "Player":"Luke Mulholland",
+        "Nation":"ENG",
+        "Club":"Wilmington Hammerheads",
+        "Goals":9
+    },
+    {
+        "Rank":6,
+        "Player":"Andriy Budnyy",
+        "Nation":"UKR",
+        "Club":"Wilmington Hammerheads",
+        "Goals":8
+    },
+    {
+        "Rank":6,
+        "Player":"Jamie Watson",
+        "Nation":"USA",
+        "Club":"Orlando City",
+        "Goals":8
+    },
+    {
+        "Rank":6,
+        "Player":"Andrew Welker",
+        "Nation":"USA",
+        "Club":"Harrisburg City Islanders",
+        "Goals":8
+    },
+    {
+        "Rank":9,
+        "Player":"Chris Banks",
+        "Nation":"USA",
+        "Club":"Wilmington Hammerheads",
+        "Goals":"@@@_70"
+    },
+    {
+        "Rank":9,
+        "Player":"Sallieu Bundu",
+        "Nation":"SLE",
+        "Club":"Charlotte Eagles",
+        "Goals":7
+    },
+    {
+        "Rank":9,
+        "Player":"George Davis IV",
+        "Nation":"USA",
+        "Club":"Dayton Dutch Lions",
+        "Goals":7
+    },
+    {
+        "Rank":9,
+        "Player":"Sainey Touray",
+        "Nation":"GAM",
+        "Club":"Harrisburg City Islanders",
+        "Goals":"@@@_-5"
+    }
+]

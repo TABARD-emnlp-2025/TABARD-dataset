@@ -1,0 +1,58 @@
+[
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Actress",
+        "Nominee":"Kim Ha-neul",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Screenplay",
+        "Nominee":"Choi Min-seok",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"32nd Blue Dragon Film Awards",
+        "Category":"Best Actress",
+        "Nominee":"Kim Ha-neul",
+        "Result":"@@@_Nominated"
+    },
+    {
+        "Year":2011,
+        "Award":"32nd Blue Dragon Film Awards",
+        "Category":"Best Screenplay",
+        "Nominee":"Lee Chang-dong",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Director",
+        "Nominee":"Park Chan-wook",
+        "Result":"Won"
+    },
+    {
+        "Year":2012,
+        "Award":"49th Grand Bell Awards",
+        "Category":"Best Actor",
+        "Nominee":"Lee Byung-hun",
+        "Result":"Won"
+    },
+    {
+        "Year":2012,
+        "Award":"49th Grand Bell Awards",
+        "Category":"Best Actress",
+        "Nominee":"Kim Ha-neul",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"32nd Blue Dragon Film Awards",
+        "Category":"Best Actor",
+        "Nominee":"Lee Byung-hun",
+        "Result":"Nominated"
+    }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Location": "Bischofsheim",
+    "Building": "Station building",
+    "Year": 1958,
+    "km": 8.25,
+    "Monument": "*"
+  },
+  {
+    "Location": "Rüsselsheim",
+    "Building": "Linesmen house",
+    "Year": 1863,
+    "km": 12.8,
+    "Monument": "*"
+  },
+  {
+    "Location": "Raunheim",
+    "Building": "Station building",
+    "Year": 1863,
+    "km": 15.87,
+    "Monument": "*"
+  },
+  {
+    "Location": "Raunheim",
+    "Building": "Linesmen house",
+    "Year": 1863,
+    "km": "@@@_1140.7968091796",
+    "Monument": "*"
+  },
+  {
+    "Location": "Kelsterbach",
+    "Building": "Rail bridge",
+    "Year": 1863,
+    "km": 21.75,
+    "Monument": null
+  },
+  {
+    "Location": "Kelsterbach",
+    "Building": "Linesmen house",
+    "Year": 1863,
+    "km": 23.6,
+    "Monument": "@@@_None"
+  },
+  {
+    "Location": "Kelsterbach",
+    "Building": "Station building",
+    "Year": "@@@_34376",
+    "km": "@@@_417.1938028234",
+    "Monument": "*"
+  },
+  {
+    "Location": "Stadion",
+    "Building": "@@@_None",
+    "Year": 1879,
+    "km": 31.37,
+    "Monument": "*"
+  },
+  {
+    "Location": "Niederrad",
+    "Building": "Station building",
+    "Year": 1882,
+    "km": 33.19,
+    "Monument": "*"
+  },
+  {
+    "Location": "Sachsenhausen",
+    "Building": "Rail bridge",
+    "Year": 1864,
+    "km": 34.47,
+    "Monument": null
+  }
+]

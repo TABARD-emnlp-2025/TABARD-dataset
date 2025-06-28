@@ -1,0 +1,132 @@
+[
+    {
+        "Tour":1,
+        "Official title":"Korea Open Super Series Premier",
+        "Venue":"Seoul National University Gymnasium",
+        "City":"Seoul",
+        "Date\nStart":"January 8",
+        "Date\nFinish":"@@@_January 5",
+        "Prize money\nUSD":"1,000,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":2,
+        "Official title":"Malaysia Open Super Series",
+        "Venue":"Bukit Kiara Sports Complex",
+        "City":"Kuala Lumpur",
+        "Date\nStart":"January 15",
+        "Date\nFinish":"@@@_January 14",
+        "Prize money\nUSD":"400,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":3,
+        "Official title":"All England Super Series Premier",
+        "Venue":"National Indoor Arena",
+        "City":"Birmingham",
+        "Date\nStart":"March 5",
+        "Date\nFinish":"March 10",
+        "Prize money\nUSD":"400,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":4,
+        "Official title":"India Super Series",
+        "Venue":"Siri Fort Indoor Stadium",
+        "City":"New Delhi",
+        "Date\nStart":"@@@_April 28",
+        "Date\nFinish":"@@@_April 23",
+        "Prize money\nUSD":"200,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":5,
+        "Official title":"Indonesia Super Series Premier",
+        "Venue":"Istora Senayan",
+        "City":"Jakarta",
+        "Date\nStart":"@@@_June 16",
+        "Date\nFinish":"@@@_June 11",
+        "Prize money\nUSD":"700,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":6,
+        "Official title":"Singapore Super Series",
+        "Venue":"Singapore Indoor Stadium",
+        "City":"Singapore",
+        "Date\nStart":"June 18",
+        "Date\nFinish":"June 23",
+        "Prize money\nUSD":"200,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":7,
+        "Official title":"China Masters Super Series",
+        "Venue":"Olympic Sports Centre Xincheng Gymnasium",
+        "City":"Changzhou",
+        "Date\nStart":"@@@_September 15",
+        "Date\nFinish":"@@@_September 10",
+        "Prize money\nUSD":"250,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":8,
+        "Official title":"Japan Super Series",
+        "Venue":"Yoyogi National Gymnasium",
+        "City":"Tokyo",
+        "Date\nStart":"September 17",
+        "Date\nFinish":"September 22",
+        "Prize money\nUSD":"200,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":9,
+        "Official title":"Denmark Super Series Premier",
+        "Venue":"Odense Idr\u00e6tspark",
+        "City":"Odense",
+        "Date\nStart":"October 15",
+        "Date\nFinish":"October 20",
+        "Prize money\nUSD":"400,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":10,
+        "Official title":"French Super Series",
+        "Venue":"Stade Pierre de Coubertin",
+        "City":"Paris",
+        "Date\nStart":"October 22",
+        "Date\nFinish":"October 27",
+        "Prize money\nUSD":"200,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":11,
+        "Official title":"China Open Super Series Premier",
+        "Venue":"Yuanshen Sports Centre Stadium",
+        "City":"Shanghai",
+        "Date\nStart":"@@@_November 17",
+        "Date\nFinish":"@@@_November 12",
+        "Prize money\nUSD":"350,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":12,
+        "Official title":"Hong Kong Super Series",
+        "Venue":"Hong Kong Coliseum",
+        "City":"Kowloon",
+        "Date\nStart":"@@@_November 24",
+        "Date\nFinish":"@@@_November 19",
+        "Prize money\nUSD":"250,000",
+        "Report":"Report"
+    },
+    {
+        "Tour":13,
+        "Official title":"Super Series Masters Finals",
+        "Venue":"Kuala Lumpur Badminton Stadium",
+        "City":"Kuala Lumpur",
+        "Date\nStart":"December 11",
+        "Date\nFinish":"December 15",
+        "Prize money\nUSD":"500,000",
+        "Report":"Report"
+    }
+]

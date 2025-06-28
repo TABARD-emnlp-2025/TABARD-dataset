@@ -1,0 +1,58 @@
+[
+  {
+    "Tie no": 1,
+    "Home team": "IFK Västerås (D2)",
+    "Score": "3–2",
+    "Away team": "IK Sleipner (D2)",
+    "Attendance": "875"
+  },
+  {
+    "Tie no": 2,
+    "Home team": "Kramfors IF (N)",
+    "Score": "2–4 (aet)",
+    "Away team": "BK Kenty (D3)",
+    "Attendance": "@@@_None"
+  },
+  {
+    "Tie no": 3,
+    "Home team": "Reymersholms IK (D2)",
+    "Score": "5–2",
+    "Away team": "Åtvidabergs FF (D2)",
+    "Attendance": "1,504"
+  },
+  {
+    "Tie no": 4,
+    "Home team": "Wifsta/Östrands IF (N)",
+    "Score": "4–3",
+    "Away team": "Ludvika FfI (D2)",
+    "Attendance": "974"
+  },
+  {
+    "Tie no": "@@@_193",
+    "Home team": "Råå IF (D3)",
+    "Score": "3–2",
+    "Away team": "Sandvikens IF (D3)",
+    "Attendance": "2,116"
+  },
+  {
+    "Tie no": 6,
+    "Home team": "Sandvikens AIK (D2)",
+    "Score": "2–3 (aet)",
+    "Away team": "Tidaholms GIF (D2)",
+    "Attendance": "822"
+  },
+  {
+    "Tie no": 7,
+    "Home team": "Karlstads BIK (D2)",
+    "Score": "2–5",
+    "Away team": "IF Friska Viljor (N)",
+    "Attendance": "1,550"
+  },
+  {
+    "Tie no": "@@@_553",
+    "Home team": "Sandviks IK (N)",
+    "Score": "2–3",
+    "Away team": "Surahammars IF (D2)",
+    "Attendance": null
+  }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Species":"Pan troglodytes",
+        "Common Name":"Chimpanzee",
+        "NCBI Accession #":"XP_003317262",
+        "NCBI Name":"DEPDC5",
+        "Length":"1572 aa",
+        "Sequence Identity":"99%",
+        "Sequence Similarity":"99%",
+        "Years Since Divergence from Human (mya)":6.4
+    },
+    {
+        "Species":"Nomascus leucogenys",
+        "Common Name":"Gibbon",
+        "NCBI Accession #":"XP_003258163",
+        "NCBI Name":"DEPDC5",
+        "Length":"1602 aa",
+        "Sequence Identity":"99%",
+        "Sequence Similarity":"99%",
+        "Years Since Divergence from Human (mya)":20.4
+    },
+    {
+        "Species":"Mus musculus",
+        "Common Name":"Mouse",
+        "NCBI Accession #":"NP_001164038",
+        "NCBI Name":"DEPDC5",
+        "Length":"1591 aa",
+        "Sequence Identity":"94%",
+        "Sequence Similarity":"96%",
+        "Years Since Divergence from Human (mya)":92.4
+    },
+    {
+        "Species":"@@@_Bos taurus",
+        "Common Name":"Cow",
+        "NCBI Accession #":"XP_002694678",
+        "NCBI Name":"DEPDC5",
+        "Length":"1593 aa",
+        "Sequence Identity":"94%",
+        "Sequence Similarity":"96%",
+        "Years Since Divergence from Human (mya)":94.4
+    },
+    {
+        "Species":"Sorex araneus",
+        "Common Name":"Shrew",
+        "NCBI Accession #":"ACE77702",
+        "NCBI Name":"DEPDC5",
+        "Length":"1570 aa",
+        "Sequence Identity":"94%",
+        "Sequence Similarity":"96%",
+        "Years Since Divergence from Human (mya)":94.4
+    },
+    {
+        "Species":"Monodelphis domestica",
+        "Common Name":"Possum",
+        "NCBI Accession #":"XP_001378772",
+        "NCBI Name":"DEPDC5",
+        "Length":"1522 aa",
+        "Sequence Identity":"89%",
+        "Sequence Similarity":"93%",
+        "Years Since Divergence from Human (mya)":163.9
+    },
+    {
+        "Species":"Gallus gallus",
+        "Common Name":"Chicken",
+        "NCBI Accession #":"XP_415249",
+        "NCBI Name":"DEPDC5",
+        "Length":"1592 aa",
+        "Sequence Identity":"88%",
+        "Sequence Similarity":"93%",
+        "Years Since Divergence from Human (mya)":301.7
+    },
+    {
+        "Species":"Meleagris gallopavo",
+        "Common Name":"Turkey",
+        "NCBI Accession #":"XP_003211073",
+        "NCBI Name":"DEPDC5",
+        "Length":"1592 aa",
+        "Sequence Identity":"88%",
+        "Sequence Similarity":"93%",
+        "Years Since Divergence from Human (mya)":301.7
+    },
+    {
+        "Species":"Taeniopygia guttata",
+        "Common Name":"Zebra finch",
+        "NCBI Accession #":"XP_002199825",
+        "NCBI Name":"DEPDC5",
+        "Length":"1572 aa",
+        "Sequence Identity":"87%",
+        "Sequence Similarity":"92%",
+        "Years Since Divergence from Human (mya)":301.7
+    },
+    {
+        "Species":"Xenopus tropicalis",
+        "Common Name":"Frog",
+        "NCBI Accession #":"XP_002931964",
+        "NCBI Name":"DEPDC5-like",
+        "Length":"1574 aa",
+        "Sequence Identity":"79%",
+        "Sequence Similarity":"86%",
+        "Years Since Divergence from Human (mya)":371.2
+    },
+    {
+        "Species":"Danio rerio",
+        "Common Name":"Zebra fish",
+        "NCBI Accession #":"XP_691450",
+        "NCBI Name":"DEPDC5-like",
+        "Length":"1590 aa",
+        "Sequence Identity":"75%",
+        "Sequence Similarity":"84%",
+        "Years Since Divergence from Human (mya)":400.1
+    },
+    {
+        "Species":"Oreochromis niloticus",
+        "Common Name":"Cichlid",
+        "NCBI Accession #":"XP_003459226",
+        "NCBI Name":"DEPDC5",
+        "Length":"1577 aa",
+        "Sequence Identity":"74%",
+        "Sequence Similarity":"82%",
+        "Years Since Divergence from Human (mya)":400.1
+    },
+    {
+        "Species":"Strongylocentrotus purpuratus",
+        "Common Name":"Sea urchin",
+        "NCBI Accession #":"XP_794020",
+        "NCBI Name":"similar to DEPDC5",
+        "Length":"1608 aa",
+        "Sequence Identity":"43%",
+        "Sequence Similarity":"57%",
+        "Years Since Divergence from Human (mya)":742.9
+    },
+    {
+        "Species":"Drosophila melanogaster",
+        "Common Name":"Drosophila",
+        "NCBI Accession #":"NP_647618",
+        "NCBI Name":"GC12090",
+        "Length":"1471 aa",
+        "Sequence Identity":"41%",
+        "Sequence Similarity":"57%",
+        "Years Since Divergence from Human (mya)":782.7
+    },
+    {
+        "Species":"Pediculus humanus corporis",
+        "Common Name":"Louse",
+        "NCBI Accession #":"XP_002429401",
+        "NCBI Name":"DEPDC, putative",
+        "Length":"1538 aa",
+        "Sequence Identity":"38%",
+        "Sequence Similarity":"53%",
+        "Years Since Divergence from Human (mya)":782.7
+    },
+    {
+        "Species":"Anopheles gambiae",
+        "Common Name":"Mosquito",
+        "NCBI Accession #":"XP_308760",
+        "NCBI Name":"AGAP007010-PA",
+        "Length":"1640 aa",
+        "Sequence Identity":"36%",
+        "Sequence Similarity":"51%",
+        "Years Since Divergence from Human (mya)":782.7
+    },
+    {
+        "Species":"Ascaris suum",
+        "Common Name":"Ascaris",
+        "NCBI Accession #":"ADY40551",
+        "NCBI Name":"DEPDCp5",
+        "Length":"1359 aa",
+        "Sequence Identity":"31%",
+        "Sequence Similarity":"51%",
+        "Years Since Divergence from Human (mya)":937.5
+    },
+    {
+        "Species":"Ustilago maydis",
+        "Common Name":"Corn smut",
+        "NCBI Accession #":"XP_757759",
+        "NCBI Name":"vacuolar-associated protein Iml1",
+        "Length":"1867 aa",
+        "Sequence Identity":"23%",
+        "Sequence Similarity":"@@@_52",
+        "Years Since Divergence from Human (mya)":1215.8
+    },
+    {
+        "Species":"Saccharomyces cerevisiae",
+        "Common Name":"Yeast",
+        "NCBI Accession #":"NP_012672",
+        "NCBI Name":"Iml1p",
+        "Length":"1584 aa",
+        "Sequence Identity":"20%",
+        "Sequence Similarity":"50%",
+        "Years Since Divergence from Human (mya)":1215.8
+    },
+    {
+        "Species":"Albugo laibachii",
+        "Common Name":"White rust",
+        "NCBI Accession #":"CCA27519",
+        "NCBI Name":"vacuolar membrane-associated protein putative",
+        "Length":"1591 aa",
+        "Sequence Identity":"20%",
+        "Sequence Similarity":"46%",
+        "Years Since Divergence from Human (mya)":1362.0
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Year":"Representing Bolivia",
+        "Competition":"Representing Bolivia",
+        "Venue":"Representing Bolivia",
+        "Position":"Representing Bolivia",
+        "Event":"Representing Bolivia",
+        "Notes":"Representing Bolivia"
+    },
+    {
+        "Year":1984,
+        "Competition":"South American Youth Championships",
+        "Venue":"Tarija, Bolivia",
+        "Position":"3rd",
+        "Event":"800 m",
+        "Notes":"2:24.8 min A"
+    },
+    {
+        "Year":1986,
+        "Competition":"World Junior Championships",
+        "Venue":"Athens, Greece",
+        "Position":"38th (h)",
+        "Event":"800m",
+        "Notes":"2:21.10"
+    },
+    {
+        "Year":1986,
+        "Competition":"World Junior Championships",
+        "Venue":"Athens, Greece",
+        "Position":"21st (h)",
+        "Event":"400m hurdles",
+        "Notes":66.88
+    },
+    {
+        "Year":1986,
+        "Competition":"South American Youth Championships",
+        "Venue":"Comodoro Rivadavia, Argentina",
+        "Position":"7th",
+        "Event":"400 m",
+        "Notes":"60.37 s"
+    },
+    {
+        "Year":1986,
+        "Competition":"South American Youth Championships",
+        "Venue":"Comodoro Rivadavia, Argentina",
+        "Position":"2nd",
+        "Event":"800 m",
+        "Notes":"2:19.18 min"
+    },
+    {
+        "Year":1997,
+        "Competition":"World Indoor Championships",
+        "Venue":"Paris, France",
+        "Position":"17th (h)",
+        "Event":"1500 m",
+        "Notes":"4:28.70"
+    },
+    {
+        "Year":1997,
+        "Competition":"South American Championships",
+        "Venue":"Mar del Plata, Argentina",
+        "Position":"2nd",
+        "Event":"1500 m",
+        "Notes":"4:34.90"
+    },
+    {
+        "Year":1997,
+        "Competition":"Bolivarian Games",
+        "Venue":"Arequipa, Per\u00fa",
+        "Position":"3rd",
+        "Event":"1500 m",
+        "Notes":"4:33.3 A"
+    },
+    {
+        "Year":1999,
+        "Competition":"World Indoor Championships",
+        "Venue":"Maebashi, Japan",
+        "Position":"14th (h)",
+        "Event":"1500 m",
+        "Notes":"4:20.16"
+    },
+    {
+        "Year":1999,
+        "Competition":"Pan American Games",
+        "Venue":"Winnipeg, Canada",
+        "Position":"12th (h)",
+        "Event":"800 m",
+        "Notes":"2:09.91"
+    },
+    {
+        "Year":1999,
+        "Competition":"Pan American Games",
+        "Venue":"Winnipeg, Canada",
+        "Position":"9th",
+        "Event":"1500 m",
+        "Notes":"4:26.71"
+    },
+    {
+        "Year":2000,
+        "Competition":"Ibero-American Championships",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"3rd",
+        "Event":"1500 m",
+        "Notes":"4:20.02"
+    },
+    {
+        "Year":2001,
+        "Competition":"Bolivarian Games",
+        "Venue":"Ambato, Ecuador",
+        "Position":"1st",
+        "Event":"800 m",
+        "Notes":"2:03.98 A"
+    },
+    {
+        "Year":2001,
+        "Competition":"Bolivarian Games",
+        "Venue":"Ambato, Ecuador",
+        "Position":"1st",
+        "Event":"1500 m",
+        "Notes":"4:22.6 A"
+    },
+    {
+        "Year":2001,
+        "Competition":"Bolivarian Games",
+        "Venue":"Ambato, Ecuador",
+        "Position":"1st",
+        "Event":"3000 m s'chase",
+        "Notes":"10:40.7 A"
+    },
+    {
+        "Year":2002,
+        "Competition":"Ibero-American Championships",
+        "Venue":"Guatemala City, Guatemala",
+        "Position":"3rd",
+        "Event":"800 m",
+        "Notes":"2:08.53"
+    },
+    {
+        "Year":2002,
+        "Competition":"Ibero-American Championships",
+        "Venue":"Guatemala City, Guatemala",
+        "Position":"2nd",
+        "Event":"1500 m",
+        "Notes":"4:25.25"
+    },
+    {
+        "Year":2003,
+        "Competition":"South American Championships",
+        "Venue":"Barquisimeto, Venezuela",
+        "Position":"4th",
+        "Event":"800 m",
+        "Notes":"2:07.63"
+    },
+    {
+        "Year":2003,
+        "Competition":"South American Championships",
+        "Venue":"Barquisimeto, Venezuela",
+        "Position":"2nd",
+        "Event":"1500 m",
+        "Notes":"4:21.54"
+    },
+    {
+        "Year":2003,
+        "Competition":"Pan American Games",
+        "Venue":"Santo Domingo, Dominican Republic",
+        "Position":"\u2013",
+        "Event":"1500 m",
+        "Notes":"DNF"
+    },
+    {
+        "Year":2004,
+        "Competition":"World Indoor Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"\u2013",
+        "Event":"1500 m",
+        "Notes":"DNF"
+    },
+    {
+        "Year":2004,
+        "Competition":"Ibero-American Championships",
+        "Venue":"Huelva, Spain",
+        "Position":"4th",
+        "Event":"1500 m",
+        "Notes":"4:21.52"
+    },
+    {
+        "Year":2004,
+        "Competition":"Ibero-American Championships",
+        "Venue":"Huelva, Spain",
+        "Position":"6th",
+        "Event":"3000 m",
+        "Notes":"9.28.70"
+    },
+    {
+        "Year":2020,
+        "Competition":"Pan American Games",
+        "Venue":"Atlantis, Ocean",
+        "Position":"1st",
+        "Event":"100 m freestyle swimming",
+        "Notes":"45.50"
+    }
+]

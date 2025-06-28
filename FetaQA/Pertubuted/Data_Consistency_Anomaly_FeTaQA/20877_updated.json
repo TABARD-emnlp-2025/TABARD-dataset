@@ -1,0 +1,114 @@
+[
+    {
+        "Year":"Representing Spain",
+        "Competition":"Representing Spain",
+        "Venue":"Representing Spain",
+        "Position":"Representing Spain",
+        "Event":"Representing Spain",
+        "Notes":"Representing Spain"
+    },
+    {
+        "Year":2007,
+        "Competition":"European Junior Championships",
+        "Venue":"Hengelo, Netherlands",
+        "Position":"11th",
+        "Event":"10,000 m",
+        "Notes":"50:10"
+    },
+    {
+        "Year":2008,
+        "Competition":"World Junior Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"21st",
+        "Event":"10,000 m",
+        "Notes":"48:53"
+    },
+    {
+        "Year":2009,
+        "Competition":"European U23 Championships",
+        "Venue":"Kaunas, Lithuania",
+        "Position":"8th",
+        "Event":"20 km",
+        "Notes":"1:38:00"
+    },
+    {
+        "Year":2011,
+        "Competition":"European U23 Championships",
+        "Venue":"Ostrava, Czech Republic",
+        "Position":"13th",
+        "Event":"20 km",
+        "Notes":"1:45:46"
+    },
+    {
+        "Year":2013,
+        "Competition":"European Race Walking Cup",
+        "Venue":"Dudince, Slovakia",
+        "Position":"17th",
+        "Event":"20 km",
+        "Notes":"1:35:39"
+    },
+    {
+        "Year":2013,
+        "Competition":"Mediterranean Games",
+        "Venue":"Mersin, Turkey",
+        "Position":"2nd",
+        "Event":"@@@_20 kilometers",
+        "Notes":"1:41:08"
+    },
+    {
+        "Year":2014,
+        "Competition":"World Race Walking Cup",
+        "Venue":"Taicang, China",
+        "Position":"13th",
+        "Event":"20 km",
+        "Notes":"1:28:36"
+    },
+    {
+        "Year":2014,
+        "Competition":"European Championships",
+        "Venue":"Zurich, Switzerland",
+        "Position":"10th",
+        "Event":"20 km",
+        "Notes":"1:30:03"
+    },
+    {
+        "Year":2015,
+        "Competition":"European Race Walking Cup",
+        "Venue":"Murcia, Spain",
+        "Position":"11th",
+        "Event":"20 km",
+        "Notes":"1:29:34"
+    },
+    {
+        "Year":2015,
+        "Competition":"World Championships",
+        "Venue":"Beijing, China",
+        "Position":"14th",
+        "Event":"20 km",
+        "Notes":"@@@_1h32:00"
+    },
+    {
+        "Year":2016,
+        "Competition":"World Race Walking Cup",
+        "Venue":"Rome, Italy",
+        "Position":"9th",
+        "Event":"20 km",
+        "Notes":"1.29:01"
+    },
+    {
+        "Year":2016,
+        "Competition":"Olympic Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"20th",
+        "Event":"20 km",
+        "Notes":"1:33:03"
+    },
+    {
+        "Year":2016,
+        "Competition":"World Race Walking Cup",
+        "Venue":"Rome, Italy",
+        "Position":"9th",
+        "Event":"20 km",
+        "Notes":"1:29:01"
+    }
+]

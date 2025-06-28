@@ -1,0 +1,186 @@
+[
+  {
+    "Year": 2000,
+    "Date": "September 10",
+    "Winner": "New York Giants",
+    "Result": "33-18",
+    "Loser": "Philadelphia Eagles",
+    "Location": "Veterans Stadium"
+  },
+  {
+    "Year": 2000,
+    "Date": "October 29",
+    "Winner": "New York Giants",
+    "Result": "24-7",
+    "Loser": "Philadelphia Eagles",
+    "Location": "Giants Stadium"
+  },
+  {
+    "Year": 2001,
+    "Date": "January 7",
+    "Winner": "New York Giants",
+    "Result": "20-10",
+    "Loser": "Philadelphia Eagles",
+    "Location": "Giants Stadium"
+  },
+  {
+    "Year": 2001,
+    "Date": "October 22",
+    "Winner": "Philadelphia Eagles",
+    "Result": "10-9",
+    "Loser": "New York Giants",
+    "Location": "Giants Stadium"
+  },
+  {
+    "Year": 2001,
+    "Date": "December 30",
+    "Winner": "Philadelphia Eagles",
+    "Result": "24-21",
+    "Loser": "New York Giants",
+    "Location": "Veterans Stadium"
+  },
+  {
+    "Year": 2002,
+    "Date": "October 28",
+    "Winner": "Philadelphia Eagles",
+    "Result": "17-3",
+    "Loser": "New York Giants",
+    "Location": "Veterans Stadium"
+  },
+  {
+    "Year": 2002,
+    "Date": "December 28",
+    "Winner": "New York Giants",
+    "Result": "10-7",
+    "Loser": "Philadelphia Eagles",
+    "Location": "Giants Stadium"
+  },
+  {
+    "Year": 2003,
+    "Date": "October 19",
+    "Winner": "Philadelphia Eagles",
+    "Result": "14-10",
+    "Loser": "New York Giants",
+    "Location": "Giants Stadium"
+  },
+  {
+    "Year": 2003,
+    "Date": "November 16",
+    "Winner": "Philadelphia Eagles",
+    "Result": "28-10",
+    "Loser": "New York Giants",
+    "Location": "Lincoln Financial Field"
+  },
+  {
+    "Year": 2004,
+    "Date": "September 12",
+    "Winner": "Philadelphia Eagles",
+    "Result": "31-17",
+    "Loser": "New York Giants",
+    "Location": "Lincoln Financial Field"
+  },
+  {
+    "Year": 2004,
+    "Date": "November 28",
+    "Winner": "Philadelphia Eagles",
+    "Result": "27-6",
+    "Loser": "New York Giants",
+    "Location": "Giants Stadium"
+  },
+  {
+    "Year": 2005,
+    "Date": "November 20",
+    "Winner": "New York Giants",
+    "Result": "27-17",
+    "Loser": "Philadelphia Eagles",
+    "Location": "Giants Stadium"
+  },
+  {
+    "Year": "@@@_24556",
+    "Date": "December 11",
+    "Winner": "New York Giants",
+    "Result": "26-23 (OT)",
+    "Loser": "Philadelphia Eagles",
+    "Location": "Lincoln Financial Field"
+  },
+  {
+    "Year": 2006,
+    "Date": "September 17",
+    "Winner": "New York Giants",
+    "Result": "30-24 (OT)",
+    "Loser": "Philadelphia Eagles",
+    "Location": "Lincoln Financial Field"
+  },
+  {
+    "Year": 2006,
+    "Date": "December 17",
+    "Winner": "Philadelphia Eagles",
+    "Result": "36-22",
+    "Loser": "New York Giants",
+    "Location": "Giants Stadium"
+  },
+  {
+    "Year": 2007,
+    "Date": "January 7",
+    "Winner": "Philadelphia Eagles",
+    "Result": "23-20",
+    "Loser": "New York Giants",
+    "Location": "Lincoln Financial Field"
+  },
+  {
+    "Year": 2007,
+    "Date": "September 30",
+    "Winner": "New York Giants",
+    "Result": "16-3",
+    "Loser": "Philadelphia Eagles",
+    "Location": "@@@_None"
+  },
+  {
+    "Year": "@@@_96315",
+    "Date": "December 9",
+    "Winner": "New York Giants",
+    "Result": "16-13",
+    "Loser": "Philadelphia Eagles",
+    "Location": "Lincoln Financial Field"
+  },
+  {
+    "Year": 2008,
+    "Date": "November 9",
+    "Winner": "New York Giants",
+    "Result": "36-31",
+    "Loser": "Philadelphia Eagles",
+    "Location": "Lincoln Financial Field"
+  },
+  {
+    "Year": 2008,
+    "Date": "December 7",
+    "Winner": "Philadelphia Eagles",
+    "Result": "20-14",
+    "Loser": "New York Giants",
+    "Location": "@@@_None"
+  },
+  {
+    "Year": 2009,
+    "Date": "January 11",
+    "Winner": "Philadelphia Eagles",
+    "Result": "23-11",
+    "Loser": "New York Giants",
+    "Location": "Giants Stadium"
+  },
+  {
+    "Year": 2009,
+    "Date": "November 1",
+    "Winner": "Philadelphia Eagles",
+    "Result": "40-17",
+    "Loser": "New York Giants",
+    "Location": "Lincoln Financial Field"
+  },
+  {
+    "Year": "@@@_48978",
+    "Date": "December 13",
+    "Winner": "Philadelphia Eagles",
+    "Result": "45-38",
+    "Loser": "New York Giants",
+    "Location": "Giants Stadium"
+  }
+]

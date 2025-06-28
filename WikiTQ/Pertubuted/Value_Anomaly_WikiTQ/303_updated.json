@@ -1,0 +1,233 @@
+[
+  {
+    "Pos": "1",
+    "Rider": "Doriano Romboni",
+    "Manufactuer": "Honda",
+    "Time/Retired": "33:53.776",
+    "Points": 25.0
+  },
+  {
+    "Pos": "2",
+    "Rider": "Loris Capirossi",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+0.090",
+    "Points": 20.0
+  },
+  {
+    "Pos": "3",
+    "Rider": "Helmut Bradl",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+0.384",
+    "Points": 16.0
+  },
+  {
+    "Pos": "4",
+    "Rider": "Max Biaggi",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+2.346",
+    "Points": 13.0
+  },
+  {
+    "Pos": "5",
+    "Rider": "Loris Reggiani",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "+2.411",
+    "Points": 11.0
+  },
+  {
+    "Pos": "6",
+    "Rider": "Tetsuya Harada",
+    "Manufactuer": "Yamaha",
+    "Time/Retired": "+2.537",
+    "Points": 10.0
+  },
+  {
+    "Pos": "7",
+    "Rider": "Pierfrancesco Chili",
+    "Manufactuer": "Yamaha",
+    "Time/Retired": "+3.845",
+    "Points": 9.0
+  },
+  {
+    "Pos": "8",
+    "Rider": "@@@_None",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "+3.985",
+    "Points": 8.0
+  },
+  {
+    "Pos": "9",
+    "Rider": "Carlos Cardús",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+4.893",
+    "Points": 7.0
+  },
+  {
+    "Pos": "10",
+    "Rider": "Luis d'Antin",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+25.044",
+    "Points": 6.0
+  },
+  {
+    "Pos": "11",
+    "Rider": "Alberto Puig",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+25.136",
+    "Points": 5.0
+  },
+  {
+    "Pos": "12",
+    "Rider": "John Kocinski",
+    "Manufactuer": "Suzuki",
+    "Time/Retired": "+25.463",
+    "Points": 4.0
+  },
+  {
+    "Pos": "13",
+    "Rider": "Jochen Schmid",
+    "Manufactuer": "Yamaha",
+    "Time/Retired": "+47.065",
+    "Points": 3.0
+  },
+  {
+    "Pos": "14",
+    "Rider": "Jean-Michel Bayle",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "+1:15.546",
+    "Points": 2.0
+  },
+  {
+    "Pos": "15",
+    "Rider": "Juan Borja",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+1:15.769",
+    "Points": 1.0
+  },
+  {
+    "Pos": "16",
+    "Rider": "Frédéric Protat",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "+1:15.858",
+    "Points": null
+  },
+  {
+    "Pos": "17",
+    "Rider": "Adi Stadler",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+1:16.349",
+    "Points": "@@@_214.7468002943"
+  },
+  {
+    "Pos": "18",
+    "Rider": "Bernd Kassner",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "+1:16:464",
+    "Points": null
+  },
+  {
+    "Pos": "19",
+    "Rider": "Paolo Casoli",
+    "Manufactuer": "Gilera",
+    "Time/Retired": "+1:26.061",
+    "Points": "@@@_-15.3200562637"
+  },
+  {
+    "Pos": "20",
+    "Rider": "Gabriele Debbia",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+1:40.049",
+    "Points": null
+  },
+  {
+    "Pos": "21",
+    "Rider": "Adrian Bosshard",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+1:47.492",
+    "Points": null
+  },
+  {
+    "Pos": "22",
+    "Rider": "Massimo Pennacchioli",
+    "Manufactuer": "Honda",
+    "Time/Retired": "+1:59.498",
+    "Points": null
+  },
+  {
+    "Pos": "23",
+    "Rider": "Bernard Haenggeli",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "+2:41.806",
+    "Points": null
+  },
+  {
+    "Pos": "24",
+    "Rider": "Alessandro Gramigni",
+    "Manufactuer": "Gilera",
+    "Time/Retired": "+1 Lap",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Andreas Preining",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Volker Bähr",
+    "Manufactuer": "Honda",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Jurgen van den Goorbergh",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Luis Maurel",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "@@@_None",
+    "Rider": "Patrick van den Goorbergh",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Eskil Suter",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Wilco Zeelenberg",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Jean-Pierre Jeandat",
+    "Manufactuer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Points": "@@@_105.1209002191"
+  },
+  {
+    "Pos": "DNS",
+    "Rider": "Nobuatsu Aoki",
+    "Manufactuer": "Honda",
+    "Time/Retired": "Did not start",
+    "Points": null
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "Township": "Alexandria",
+    "FIPS": 1100.0,
+    "Population\ncenter": null,
+    "Population": "859",
+    "Population\ndensity\n/km² (/sq mi)": "7 (18)",
+    "Land area\nkm² (sq mi)": "123 (48)",
+    "Water area\nkm² (sq mi)": "1 (0)",
+    "Water %": "0.62%",
+    "Geographic coordinates": "39°16′8″N 95°7′33″W﻿ / ﻿39.26889°N 95.12583°W"
+  },
+  {
+    "Township": "Delaware",
+    "FIPS": 17450.0,
+    "Population\ncenter": null,
+    "Population": "1,361",
+    "Population\ndensity\n/km² (/sq mi)": "22 (57)",
+    "Land area\nkm² (sq mi)": "62 (24)",
+    "Water area\nkm² (sq mi)": "3 (1)",
+    "Water %": "4.19%",
+    "Geographic coordinates": "39°14′50″N 94°52′40″W﻿ / ﻿39.24722°N 94.87778°W"
+  },
+  {
+    "Township": "Easton",
+    "FIPS": 19625.0,
+    "Population\ncenter": null,
+    "Population": "1,245",
+    "Population\ndensity\n/km² (/sq mi)": "11 (30)",
+    "Land area\nkm² (sq mi)": "109 (42)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.11%",
+    "Geographic coordinates": "39°21′57″N 95°7′27″W﻿ / ﻿39.36583°N 95.12417°W"
+  },
+  {
+    "Township": "Fairmount",
+    "FIPS": 22325.0,
+    "Population\ncenter": "Basehor",
+    "Population": "6,266",
+    "Population\ndensity\n/km² (/sq mi)": "61 (159)",
+    "Land area\nkm² (sq mi)": "102 (39)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.39%",
+    "Geographic coordinates": "39°8′4″N 94°56′26″W﻿ / ﻿39.13444°N 94.94056°W"
+  },
+  {
+    "Township": "@@@_None",
+    "FIPS": 32125.0,
+    "Population\ncenter": null,
+    "Population": "1,768",
+    "Population\ndensity\n/km² (/sq mi)": "14 (37)",
+    "Land area\nkm² (sq mi)": "124 (48)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.27%",
+    "Geographic coordinates": "39°15′30″N 95°0′34″W﻿ / ﻿39.25833°N 95.00944°W"
+  },
+  {
+    "Township": "Kickapoo",
+    "FIPS": "@@@_647304.7766627824",
+    "Population\ncenter": null,
+    "Population": "1,760",
+    "Population\ndensity\n/km² (/sq mi)": "15 (40)",
+    "Land area\nkm² (sq mi)": "114 (44)",
+    "Water area\nkm² (sq mi)": "3 (1)",
+    "Water %": "2.39%",
+    "Geographic coordinates": "39°20′45″N 94°59′29″W﻿ / ﻿39.34583°N 94.99139°W"
+  },
+  {
+    "Township": "Reno",
+    "FIPS": "@@@_1988627.6809841895",
+    "Population\ncenter": null,
+    "Population": "1,143",
+    "Population\ndensity\n/km² (/sq mi)": "10 (27)",
+    "Land area\nkm² (sq mi)": "111 (43)",
+    "Water area\nkm² (sq mi)": "2 (1)",
+    "Water %": "1.56%",
+    "Geographic coordinates": "39°1′8″N 95°8′8″W﻿ / ﻿39.01889°N 95.13556°W"
+  },
+  {
+    "Township": "Sherman",
+    "FIPS": 65000.0,
+    "Population\ncenter": null,
+    "Population": "2,367",
+    "Population\ndensity\n/km² (/sq mi)": "22 (57)",
+    "Land area\nkm² (sq mi)": "108 (42)",
+    "Water area\nkm² (sq mi)": "3 (1)",
+    "Water %": "2.44%",
+    "Geographic coordinates": "39°0′59″N 95°0′27″W﻿ / ﻿39.01639°N 95.00750°W"
+  },
+  {
+    "Township": "Stranger",
+    "FIPS": 68500.0,
+    "Population\ncenter": null,
+    "Population": "@@@_None",
+    "Population\ndensity\n/km² (/sq mi)": "19 (50)",
+    "Land area\nkm² (sq mi)": "127 (49)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.17%",
+    "Geographic coordinates": "39°8′16″N 95°2′2″W﻿ / ﻿39.13778°N 95.03389°W"
+  },
+  {
+    "Township": "Tonganoxie",
+    "FIPS": "@@@_None",
+    "Population\ncenter": "Tonganoxie (part)",
+    "Population": "4,852",
+    "Population\ndensity\n/km² (/sq mi)": "35 (91)",
+    "Land area\nkm² (sq mi)": "137 (53)",
+    "Water area\nkm² (sq mi)": "1 (0)",
+    "Water %": "0.66%",
+    "Geographic coordinates": "39°7′0″N 95°6′35″W﻿ / ﻿39.11667°N 95.10972°W"
+  }
+]

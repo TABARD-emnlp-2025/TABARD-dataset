@@ -1,0 +1,90 @@
+[
+    {
+        "Team":"CCP Bobcats",
+        "Basic elements":62.0,
+        "Tumbling":54.0,
+        "Stunts":60.0,
+        "Tosses":66.0,
+        "Pyramids":70.5,
+        "Deductions":-4,
+        "Total score":308.5,
+        "Result":"Champion"
+    },
+    {
+        "Team":"UP Pep Squad",
+        "Basic elements":61.5,
+        "Tumbling":61.5,
+        "Stunts":61.0,
+        "Tosses":62.0,
+        "Pyramids":71.0,
+        "Deductions":-11,
+        "Total score":"@@@_310.5",
+        "Result":"Runner-up"
+    },
+    {
+        "Team":"Altas Perp Squad",
+        "Basic elements":57.0,
+        "Tumbling":55.5,
+        "Stunts":53.5,
+        "Tosses":53.5,
+        "Pyramids":69.5,
+        "Deductions":-6,
+        "Total score":283.0,
+        "Result":"Third place"
+    },
+    {
+        "Team":"EAC Generals Pep Squad",
+        "Basic elements":55.5,
+        "Tumbling":46.5,
+        "Stunts":57.5,
+        "Tosses":55.0,
+        "Pyramids":66.0,
+        "Deductions":-4,
+        "Total score":276.5,
+        "Result":"@@@_Third place"
+    },
+    {
+        "Team":"Ateneo Blue Babble Batallion",
+        "Basic elements":59.0,
+        "Tumbling":55.5,
+        "Stunts":50.0,
+        "Tosses":47.0,
+        "Pyramids":64.5,
+        "Deductions":-13,
+        "Total score":263.0,
+        "Result":"@@@_Fourth place"
+    },
+    {
+        "Team":"Adamson Pep Squad",
+        "Basic elements":56.0,
+        "Tumbling":55.0,
+        "Stunts":52.5,
+        "Tosses":48.5,
+        "Pyramids":66.0,
+        "Deductions":-19,
+        "Total score":259.0,
+        "Result":"@@@_Fifth place"
+    },
+    {
+        "Team":"PUP\u2013Taguig Pep Squad",
+        "Basic elements":52.0,
+        "Tumbling":45.5,
+        "Stunts":49.5,
+        "Tosses":48.5,
+        "Pyramids":65.0,
+        "Deductions":-2,
+        "Total score":258.5,
+        "Result":"@@@_Sixth place"
+    },
+    {
+        "Team":"PUP Stars",
+        "Basic elements":49.0,
+        "Tumbling":46.5,
+        "Stunts":50.5,
+        "Tosses":49.5,
+        "Pyramids":64.5,
+        "Deductions":-12,
+        "Total score":248.0,
+        "Result":"@@@_Seventh place"
+    }
+]

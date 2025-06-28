@@ -1,0 +1,58 @@
+[
+    {
+        "Introduced":1992,
+        "Name":"Sternburg Export",
+        "Type":"Pilsner",
+        "Alcohol %":"5.2%",
+        "Label":"White and Red"
+    },
+    {
+        "Introduced":1992,
+        "Name":"Sternburg Pilsner",
+        "Type":"Pilsner",
+        "Alcohol %":"@@@_4.9",
+        "Label":"@@@_green"
+    },
+    {
+        "Introduced":1997,
+        "Name":"Sternburg Schwarzbier",
+        "Type":"Schwarzbier",
+        "Alcohol %":"4.9%",
+        "Label":"@@@_black"
+    },
+    {
+        "Introduced":2002,
+        "Name":"Sternburg Radler",
+        "Type":"Radler",
+        "Alcohol %":"2.6%",
+        "Label":"@@@_yellow"
+    },
+    {
+        "Introduced":2003,
+        "Name":"Sternburg Diesel",
+        "Type":"Diesel",
+        "Alcohol %":"2.6%",
+        "Label":"Brown"
+    },
+    {
+        "Introduced":2004,
+        "Name":"Sternburg Doppelkaramel",
+        "Type":"@@@_Malt Beer",
+        "Alcohol %":"0%",
+        "Label":"Blue"
+    },
+    {
+        "Introduced":2005,
+        "Name":"Sternburg Hefeweizen",
+        "Type":"Wheat beer",
+        "Alcohol %":"5.2%",
+        "Label":"Light brown"
+    },
+    {
+        "Introduced":2008,
+        "Name":"@@@_sternburg urtyp",
+        "Type":"Bock",
+        "Alcohol %":"@@@_5.2",
+        "Label":"@@@_Red and White"
+    }
+]

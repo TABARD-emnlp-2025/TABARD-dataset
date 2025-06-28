@@ -1,0 +1,66 @@
+[
+  {
+    "Rank": 1,
+    "Lane": 4,
+    "Name": "Petra Chocová",
+    "Nationality": "Czech Republic",
+    "Time": "@@@_None",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 2,
+    "Lane": 5,
+    "Name": "Sycerika McMahon",
+    "Nationality": "Ireland",
+    "Time": 31.51,
+    "Notes": "Q"
+  },
+  {
+    "Rank": "@@@_192",
+    "Lane": 6,
+    "Name": "Concepcion Badillo Diaz",
+    "Nationality": "Spain",
+    "Time": "@@@_503.552753246",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 4,
+    "Lane": 1,
+    "Name": "Katharina Stiberg",
+    "Nationality": "Norway",
+    "Time": 31.84,
+    "Notes": "Q"
+  },
+  {
+    "Rank": 5,
+    "Lane": 3,
+    "Name": "Hrafnhildur Lúthersdóttir",
+    "Nationality": "Iceland",
+    "Time": 31.95,
+    "Notes": "Q"
+  },
+  {
+    "Rank": 6,
+    "Lane": 8,
+    "Name": "Anastasia Christoforou",
+    "Nationality": "Cyprus",
+    "Time": 31.98,
+    "Notes": null
+  },
+  {
+    "Rank": 7,
+    "Lane": 2,
+    "Name": "Ivana Ninković",
+    "Nationality": "Bosnia and Herzegovina",
+    "Time": 32.26,
+    "Notes": null
+  },
+  {
+    "Rank": 8,
+    "Lane": 7,
+    "Name": "Jenna Laukkanen",
+    "Nationality": "Finland",
+    "Time": 32.26,
+    "Notes": null
+  }
+]

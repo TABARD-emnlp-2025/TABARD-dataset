@@ -1,0 +1,262 @@
+[
+  {
+    "Date": "2013-12-14",
+    "Result": "Loss",
+    "Opponent": "Mohamed Diaby",
+    "Event": "Victory, Semi Finals",
+    "Location": "Paris, France",
+    "Method": "Decision",
+    "Round": 3.0,
+    "Time": "3:00"
+  },
+  {
+    "Date": "2013-03-09",
+    "Result": null,
+    "Opponent": "Juanma Chacon",
+    "Event": "Enfusion Live: Barcelona",
+    "Location": "Barcelona, Spain",
+    "Method": null,
+    "Round": null,
+    "Time": null
+  },
+  {
+    "Date": "2012-05-27",
+    "Result": "Loss",
+    "Opponent": "Murthel Groenhart",
+    "Event": "K-1 World MAX 2012 World Championship Tournament Final 16",
+    "Location": "Madrid, Spain",
+    "Method": "KO (punches)",
+    "Round": 3.0,
+    "Time": "3:00"
+  },
+  {
+    "Date": "2012-02-11",
+    "Result": "Win",
+    "Opponent": "Francesco Tadiello",
+    "Event": "Sporthal De Zandbergen",
+    "Location": "Sint-Job-in-'t-Goor, Belgium",
+    "Method": "KO",
+    "Round": 1.0,
+    "Time": null
+  },
+  {
+    "Date": "2012-01-28",
+    "Result": "Win",
+    "Opponent": "Chris Ngimbi",
+    "Event": "It's Showtime 2012 in Leeuwarden",
+    "Location": "Leeuwarden, Netherlands",
+    "Method": "TKO (cut)",
+    "Round": 2.0,
+    "Time": "1:22"
+  },
+  {
+    "Date": "2011-04-09",
+    "Result": "Win",
+    "Opponent": "Lahcen Ait Oussakour",
+    "Event": "Le Grande KO XI",
+    "Location": "Liege, Belgium",
+    "Method": "KO",
+    "Round": 1.0,
+    "Time": null
+  },
+  {
+    "Date": "2011-03-19",
+    "Result": "Loss",
+    "Opponent": "Gino Bourne",
+    "Event": "Fight Night Turnhout",
+    "Location": "Turnhout, Belgium",
+    "Method": "DQ",
+    "Round": null,
+    "Time": null
+  },
+  {
+    "Date": "2011-02-12",
+    "Result": "Win",
+    "Opponent": "Henri van Opstal",
+    "Event": "War of the Ring",
+    "Location": "Amsterdam, Netherlands",
+    "Method": "Decision (unanimous)",
+    "Round": 3.0,
+    "Time": "3:00"
+  },
+  {
+    "Date": "2010-12-04",
+    "Result": "Win",
+    "Opponent": "Alessandro Campagna",
+    "Event": "Janus Fight Night 2010",
+    "Location": "Padua, Italy",
+    "Method": "Decision",
+    "Round": 3.0,
+    "Time": "3:00"
+  },
+  {
+    "Date": "2010-09-10",
+    "Result": "Win",
+    "Opponent": "Edson Fortes",
+    "Event": "Ring Sensation Gala",
+    "Location": "Utrecht, Netherlands",
+    "Method": "Decision",
+    "Round": 3.0,
+    "Time": "3:00"
+  },
+  {
+    "Date": "2010-03-21",
+    "Result": "Loss",
+    "Opponent": "Mohamed Khamal",
+    "Event": "K-1 World MAX 2010 West Europe Tournament, Final",
+    "Location": "Utrecht, Netherlands",
+    "Method": "KO (punch)",
+    "Round": 2.0,
+    "Time": null
+  },
+  {
+    "Date": "2010-03-21",
+    "Result": "Win",
+    "Opponent": "Anthony Kane",
+    "Event": "K-1 World MAX 2010 West Europe Tournament, Semi Finals",
+    "Location": "Utrecht, Netherlands",
+    "Method": "Decision",
+    "Round": 3.0,
+    "Time": "3:00"
+  },
+  {
+    "Date": "2010-03-21",
+    "Result": "Win",
+    "Opponent": "Bruno Carvalho",
+    "Event": "K-1 World MAX 2010 West Europe Tournament, Quarter Finals",
+    "Location": "Utrecht, Netherlands",
+    "Method": "@@@_None",
+    "Round": 3.0,
+    "Time": "3:00"
+  },
+  {
+    "Date": "2009-11-21",
+    "Result": "Win",
+    "Opponent": "Seo Doo Won",
+    "Event": "It's Showtime 2009 Barneveld",
+    "Location": "Barneveld, Netherlands",
+    "Method": "TKO (referee stoppage)",
+    "Round": 1.0,
+    "Time": null
+  },
+  {
+    "Date": "2009-09-24",
+    "Result": "Win",
+    "Opponent": "Chris Ngimbi",
+    "Event": "It's Showtime 2009 Lommel",
+    "Location": "Lommel, Belgium",
+    "Method": "Extra round decision",
+    "Round": "@@@_-3.5694081669",
+    "Time": "4:00"
+  },
+  {
+    "Date": "2009-04-11",
+    "Result": "Win",
+    "Opponent": "Farid Riffi",
+    "Event": "Almelo Fight for Delight",
+    "Location": "Almelo, Netherlands",
+    "Method": "TKO",
+    "Round": null,
+    "Time": null
+  },
+  {
+    "Date": "2009-03-14",
+    "Result": "Win",
+    "Opponent": "Viktor Sarezki",
+    "Event": "War of the Ring",
+    "Location": "Belgium",
+    "Method": "KO (punch to the body)",
+    "Round": 1.0,
+    "Time": null
+  },
+  {
+    "Date": "2009-02-21",
+    "Result": "@@@_None",
+    "Opponent": "Pedro Sedarous",
+    "Event": "Turnhout Gala",
+    "Location": "Turnhout, Belgium",
+    "Method": "Decision",
+    "Round": 5.0,
+    "Time": "3:00"
+  },
+  {
+    "Date": "2009-01-31",
+    "Result": "Win",
+    "Opponent": "Dahou Naim",
+    "Event": "Tielrode Gala",
+    "Location": "Tielrode, Belgium",
+    "Method": "2nd extra round decision",
+    "Round": 5.0,
+    "Time": "3:00"
+  },
+  {
+    "Date": "2008-09-20",
+    "Result": "Win",
+    "Opponent": "Abdallah Mabel",
+    "Event": "S-Cup Europe 2008, Reserve Bout",
+    "Location": "Gorinchem, Netherlands",
+    "Method": "Decision",
+    "Round": "@@@_-2.7826086957",
+    "Time": "3:00"
+  },
+  {
+    "Date": "2008-09-14",
+    "Result": "Win",
+    "Opponent": "Jordy Sloof",
+    "Event": "The Outland Rumble",
+    "Location": "Rotterdam, Netherlands",
+    "Method": "KO (Right cross)",
+    "Round": 1.0,
+    "Time": null
+  },
+  {
+    "Date": "2008-03-08",
+    "Result": "Win",
+    "Opponent": "Naraim Ruben",
+    "Event": "Lommel Gala",
+    "Location": "Lommel, Belgium",
+    "Method": "TKO (retirement)",
+    "Round": 3.0,
+    "Time": null
+  },
+  {
+    "Date": "2008-02-23",
+    "Result": "Win",
+    "Opponent": "Pierre Petit",
+    "Event": "St. Job Gala",
+    "Location": "St. Job, Belgium",
+    "Method": "KO (Right punch)",
+    "Round": 2.0,
+    "Time": null
+  },
+  {
+    "Date": "2008-01-26",
+    "Result": "Win",
+    "Opponent": "Yildiz Bullut",
+    "Event": "Tielrode Gala",
+    "Location": "Tielrode, Belgium",
+    "Method": "TKO",
+    "Round": "@@@_25.8789965351",
+    "Time": null
+  },
+  {
+    "Date": "2007-11-28",
+    "Result": "Win",
+    "Opponent": "Ibrahim Benazza",
+    "Event": "Lint Gala",
+    "Location": "Lint, Belgium",
+    "Method": "Decision",
+    "Round": 5.0,
+    "Time": "2:00"
+  },
+  {
+    "Date": "2007-10-27",
+    "Result": "Win",
+    "Opponent": "Anthony Kane",
+    "Event": "One Night in Bangkok",
+    "Location": "Antwerp, Belgium",
+    "Method": "Decision",
+    "Round": 5.0,
+    "Time": null
+  }
+]

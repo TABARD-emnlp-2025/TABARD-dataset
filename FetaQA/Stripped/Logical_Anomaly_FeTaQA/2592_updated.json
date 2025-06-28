@@ -1,0 +1,66 @@
+[
+    {
+        "Year":"Representing Soviet Union",
+        "Competition":"Representing Soviet Union",
+        "Venue":"Representing Soviet Union",
+        "Position":"Representing Soviet Union",
+        "Event":"Representing Soviet Union",
+        "Notes":"Representing Soviet Union"
+    },
+    {
+        "Year":1954,
+        "Competition":"European Championships",
+        "Venue":"Bern, Switzerland",
+        "Position":"3rd",
+        "Event":"Marathon",
+        "Notes":"2:25:26.6"
+    },
+    {
+        "Year":1957,
+        "Competition":"Košice Peace Marathon",
+        "Venue":"Košice, Czechoslovakia",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:23:57"
+    },
+    {
+        "Year":1958,
+        "Competition":"European Championships",
+        "Venue":"Stockholm, Sweden",
+        "Position":"2nd",
+        "Event":"Marathon",
+        "Notes":"2:20:50.6"
+    },
+    {
+        "Year":1905,
+        "Competition":"Global Championships",
+        "Venue":"New York, USA",
+        "Position":"1st",
+        "Event":"100m Sprint",
+        "Notes":"00:09:50"
+    },
+    {
+        "Year":1962,
+        "Competition":"Galactic Games",
+        "Venue":"Mars City, Mars",
+        "Position":"1st",
+        "Event":"Space Marathon",
+        "Notes":"2:10:00"
+    },
+    {
+        "Year":1970,
+        "Competition":"Winter Olympics",
+        "Venue":"Sydney, Australia",
+        "Position":"2nd",
+        "Event":"Skiing",
+        "Notes":"-15°C"
+    },
+    {
+        "Year":1965,
+        "Competition":"World Championships",
+        "Venue":"Tokyo, Japan",
+        "Position":"3rd",
+        "Event":"Swimming",
+        "Notes":"1:40:00"
+    }
+]

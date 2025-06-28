@@ -1,0 +1,1458 @@
+[
+    {
+        "No.":1,
+        "Constituency":"Abdasa",
+        "Winner Candidate":"Chhabilbhai Naranbhai Patel",
+        "Party":"INC",
+        "Votes":60704,
+        "Margin":7613
+    },
+    {
+        "No.":2,
+        "Constituency":"Mandvi",
+        "Winner Candidate":"Tarachand Jagashi Chheda",
+        "Party":"BJP",
+        "Votes":61984,
+        "Margin":8506
+    },
+    {
+        "No.":3,
+        "Constituency":"Bhuj",
+        "Winner Candidate":"Dr Nimaben Aacharya",
+        "Party":"BJP",
+        "Votes":69174,
+        "Margin":8973
+    },
+    {
+        "No.":4,
+        "Constituency":"Anjar",
+        "Winner Candidate":"Ahir Vasanbhai Gopalbhai",
+        "Party":"BJP",
+        "Votes":64789,
+        "Margin":4728
+    },
+    {
+        "No.":5,
+        "Constituency":"Gandhidham",
+        "Winner Candidate":"Maheshwari Ramesh Vachchhraj",
+        "Party":"BJP",
+        "Votes":72988,
+        "Margin":21313
+    },
+    {
+        "No.":6,
+        "Constituency":"Rapar",
+        "Winner Candidate":"Patel Vaghajibhai Dharamshibhai",
+        "Party":"BJP",
+        "Votes":55280,
+        "Margin":9216
+    },
+    {
+        "No.":7,
+        "Constituency":"Vav",
+        "Winner Candidate":"Shankarbhai Lagdhirbhai Patel",
+        "Party":"BJP",
+        "Votes":72640,
+        "Margin":11911
+    },
+    {
+        "No.":8,
+        "Constituency":"Tharad",
+        "Winner Candidate":"Parbat Patel",
+        "Party":"BJP",
+        "Votes":68517,
+        "Margin":3473
+    },
+    {
+        "No.":9,
+        "Constituency":"Dhanera",
+        "Winner Candidate":"Patel Joitabhai Kasnabhai",
+        "Party":"INC",
+        "Votes":87460,
+        "Margin":30291
+    },
+    {
+        "No.":10,
+        "Constituency":"Danta",
+        "Winner Candidate":"Kharadi Kantibhai Kalabhai",
+        "Party":"INC",
+        "Votes":73751,
+        "Margin":26990
+    },
+    {
+        "No.":11,
+        "Constituency":"Vadgam",
+        "Winner Candidate":"Manilal Jethabhai Vaghela",
+        "Party":"INC",
+        "Votes":90375,
+        "Margin":21839
+    },
+    {
+        "No.":12,
+        "Constituency":"Palanpur",
+        "Winner Candidate":"Patel Maheshkumar Amrutlal",
+        "Party":"INC",
+        "Votes":75097,
+        "Margin":5284
+    },
+    {
+        "No.":13,
+        "Constituency":"Deesa",
+        "Winner Candidate":"Vaghela Liladharbhai Khodaji",
+        "Party":"BJP",
+        "Votes":66294,
+        "Margin":17706
+    },
+    {
+        "No.":14,
+        "Constituency":"Deodar",
+        "Winner Candidate":"Chauhan Keshaji Shivaji",
+        "Party":"BJP",
+        "Votes":76265,
+        "Margin":20809
+    },
+    {
+        "No.":15,
+        "Constituency":"Kankrej",
+        "Winner Candidate":"Khanpura Dharshibhai Lakhabhai",
+        "Party":"INC",
+        "Votes":73900,
+        "Margin":600
+    },
+    {
+        "No.":16,
+        "Constituency":"Radhanpur",
+        "Winner Candidate":"Thakor Nagarji Harchandji",
+        "Party":"BJP",
+        "Votes":69493,
+        "Margin":3834
+    },
+    {
+        "No.":17,
+        "Constituency":"Chanasma",
+        "Winner Candidate":"Dilipkumar Virajibhai Thakor",
+        "Party":"BJP",
+        "Votes":83462,
+        "Margin":16824
+    },
+    {
+        "No.":18,
+        "Constituency":"Patan",
+        "Winner Candidate":"Desai Ranchhodbhai Mahijibhai",
+        "Party":"BJP",
+        "Votes":67224,
+        "Margin":5871
+    },
+    {
+        "No.":19,
+        "Constituency":"Sidhpur",
+        "Winner Candidate":"Balvantsinh Chandansinh Rajput",
+        "Party":"INC",
+        "Votes":87518,
+        "Margin":25824
+    },
+    {
+        "No.":20,
+        "Constituency":"Kheralu",
+        "Winner Candidate":"Bharatsinhji Dabhi",
+        "Party":"BJP",
+        "Votes":68195,
+        "Margin":18386
+    },
+    {
+        "No.":21,
+        "Constituency":"Unjha",
+        "Winner Candidate":"Patel Narayanbhai Lalludas",
+        "Party":"BJP",
+        "Votes":75708,
+        "Margin":24201
+    },
+    {
+        "No.":22,
+        "Constituency":"Visnagar",
+        "Winner Candidate":"Patel Rushikesh Ganeshbhai",
+        "Party":"BJP",
+        "Votes":76185,
+        "Margin":29399
+    },
+    {
+        "No.":23,
+        "Constituency":"Becharaji",
+        "Winner Candidate":"Patel Rajanikant Somabhai",
+        "Party":"BJP",
+        "Votes":68447,
+        "Margin":6456
+    },
+    {
+        "No.":24,
+        "Constituency":"Kadi",
+        "Winner Candidate":"Chavada Rameshbhai Maganbhai",
+        "Party":"INC",
+        "Votes":84276,
+        "Margin":1217
+    },
+    {
+        "No.":25,
+        "Constituency":"Mehsana",
+        "Winner Candidate":"Nitinbhai Patel",
+        "Party":"BJP",
+        "Votes":90134,
+        "Margin":24205
+    },
+    {
+        "No.":26,
+        "Constituency":"Vijapur",
+        "Winner Candidate":"Patel Prahladbhai Ishvarbhai",
+        "Party":"INC",
+        "Votes":70729,
+        "Margin":8759
+    },
+    {
+        "No.":27,
+        "Constituency":"Himmatnagar",
+        "Winner Candidate":"Chavda Rajendrasinh Ranjitsinh",
+        "Party":"INC",
+        "Votes":85008,
+        "Margin":12356
+    },
+    {
+        "No.":28,
+        "Constituency":"Idar",
+        "Winner Candidate":"Ramanlal Vora",
+        "Party":"BJP",
+        "Votes":90279,
+        "Margin":11380
+    },
+    {
+        "No.":29,
+        "Constituency":"Khedbrahma",
+        "Winner Candidate":"Ashvin Kotwal",
+        "Party":"INC",
+        "Votes":88488,
+        "Margin":50137
+    },
+    {
+        "No.":30,
+        "Constituency":"Bhiloda",
+        "Winner Candidate":"Anil Joshiyara",
+        "Party":"INC",
+        "Votes":95799,
+        "Margin":31543
+    },
+    {
+        "No.":31,
+        "Constituency":"Modasa",
+        "Winner Candidate":"Thakor Rajendrasinh Shivsinh",
+        "Party":"INC",
+        "Votes":88879,
+        "Margin":22858
+    },
+    {
+        "No.":32,
+        "Constituency":"Bayad",
+        "Winner Candidate":"Vaghela Mahendrasinh Shankersinh",
+        "Party":"INC",
+        "Votes":74646,
+        "Margin":35923
+    },
+    {
+        "No.":33,
+        "Constituency":"Prantij",
+        "Winner Candidate":"Baraiya Mahendrasinh Kacharsinh",
+        "Party":"INC",
+        "Votes":76097,
+        "Margin":7014
+    },
+    {
+        "No.":34,
+        "Constituency":"Dehgam",
+        "Winner Candidate":"Kaminiba Rathod",
+        "Party":"INC",
+        "Votes":61043,
+        "Margin":2297
+    },
+    {
+        "No.":35,
+        "Constituency":"Gandhinagar South",
+        "Winner Candidate":"Thakor Shambhuji Chelaji",
+        "Party":"BJP",
+        "Votes":87999,
+        "Margin":8011
+    },
+    {
+        "No.":36,
+        "Constituency":"Gandhinagar North",
+        "Winner Candidate":"Patel Ashokkumar Ranchhodbhai",
+        "Party":"BJP",
+        "Votes":73551,
+        "Margin":4225
+    },
+    {
+        "No.":37,
+        "Constituency":"Mansa",
+        "Winner Candidate":"Chaudhari Amitbhai Harisingbhai",
+        "Party":"INC",
+        "Votes":78068,
+        "Margin":8028
+    },
+    {
+        "No.":38,
+        "Constituency":"Kalol",
+        "Winner Candidate":"THAKOR BALDEVJI CHANDUJI",
+        "Party":"INC",
+        "Votes":64757,
+        "Margin":343
+    },
+    {
+        "No.":39,
+        "Constituency":"Viramgam",
+        "Winner Candidate":"Tejeshree Patel",
+        "Party":"INC",
+        "Votes":84930,
+        "Margin":16983
+    },
+    {
+        "No.":40,
+        "Constituency":"Sanand",
+        "Winner Candidate":"Karamsibhai Virjibhai Patel",
+        "Party":"INC",
+        "Votes":73453,
+        "Margin":4148
+    },
+    {
+        "No.":41,
+        "Constituency":"Ghatlodiya",
+        "Winner Candidate":"Anandiben Patel",
+        "Party":"BJP",
+        "Votes":154599,
+        "Margin":110395
+    },
+    {
+        "No.":42,
+        "Constituency":"Vejalpur",
+        "Winner Candidate":"Chauhan Kishorsinh Babulal",
+        "Party":"BJP",
+        "Votes":113507,
+        "Margin":40985
+    },
+    {
+        "No.":43,
+        "Constituency":"Vatva",
+        "Winner Candidate":"Pradipsinh Bhagwatsinh Jadeja",
+        "Party":"BJP",
+        "Votes":95580,
+        "Margin":46932
+    },
+    {
+        "No.":44,
+        "Constituency":"Ellisbridge",
+        "Winner Candidate":"Rakesh Shah",
+        "Party":"BJP",
+        "Votes":106631,
+        "Margin":76672
+    },
+    {
+        "No.":45,
+        "Constituency":"Naranpura",
+        "Winner Candidate":"Amit Shah",
+        "Party":"BJP",
+        "Votes":103988,
+        "Margin":63335
+    },
+    {
+        "No.":46,
+        "Constituency":"Nikol",
+        "Winner Candidate":"Panchal Jagdish Ishwarbhai",
+        "Party":"BJP",
+        "Votes":88886,
+        "Margin":49302
+    },
+    {
+        "No.":47,
+        "Constituency":"Naroda",
+        "Winner Candidate":"Wadhwani Nirmalaben Sunilbhai",
+        "Party":"BJP",
+        "Votes":96333,
+        "Margin":58352
+    },
+    {
+        "No.":48,
+        "Constituency":"Thakkar Bapanagar",
+        "Winner Candidate":"Kakadiya Vallabhbhai Gobarbhai",
+        "Party":"BJP",
+        "Votes":88731,
+        "Margin":49251
+    },
+    {
+        "No.":49,
+        "Constituency":"Bapunagar",
+        "Winner Candidate":"Rajput Jagrupsinh Girdansinh",
+        "Party":"BJP",
+        "Votes":51058,
+        "Margin":2603
+    },
+    {
+        "No.":50,
+        "Constituency":"Amraiwadi",
+        "Winner Candidate":"Patel Hasmukhbhai Somabhai",
+        "Party":"BJP",
+        "Votes":108683,
+        "Margin":65425
+    },
+    {
+        "No.":51,
+        "Constituency":"Dariyapur",
+        "Winner Candidate":"Gyasuddin Habibuddin Shekh",
+        "Party":"INC",
+        "Votes":60967,
+        "Margin":2621
+    },
+    {
+        "No.":52,
+        "Constituency":"Jamalpur-Khadia",
+        "Winner Candidate":"Bhatt Bhushan Ashok",
+        "Party":"BJP",
+        "Votes":48058,
+        "Margin":6331
+    },
+    {
+        "No.":53,
+        "Constituency":"Maninagar",
+        "Winner Candidate":"Narendra Modi",
+        "Party":"BJP",
+        "Votes":120470,
+        "Margin":34097
+    },
+    {
+        "No.":54,
+        "Constituency":"Danilimda",
+        "Winner Candidate":"Shailesh Manubhai Parmar",
+        "Party":"INC",
+        "Votes":73573,
+        "Margin":14301
+    },
+    {
+        "No.":55,
+        "Constituency":"Sabarmati",
+        "Winner Candidate":"Arvindkumar Gandalal Patel",
+        "Party":"BJP",
+        "Votes":107036,
+        "Margin":67583
+    },
+    {
+        "No.":56,
+        "Constituency":"Asarwa",
+        "Winner Candidate":"Rajanikant Mohanlal Patel",
+        "Party":"BJP",
+        "Votes":76829,
+        "Margin":35045
+    },
+    {
+        "No.":57,
+        "Constituency":"Daskroi",
+        "Winner Candidate":"Patel Babubhai Jamnadas",
+        "Party":"BJP",
+        "Votes":95813,
+        "Margin":37633
+    },
+    {
+        "No.":58,
+        "Constituency":"Dholka",
+        "Winner Candidate":"Chudasama Bhupendrasinh Manubha",
+        "Party":"BJP",
+        "Votes":75242,
+        "Margin":18845
+    },
+    {
+        "No.":59,
+        "Constituency":"Dhandhuka",
+        "Winner Candidate":"Kolipatel Laljibhai Chaturbhai",
+        "Party":"BJP",
+        "Votes":77573,
+        "Margin":28277
+    },
+    {
+        "No.":60,
+        "Constituency":"Dasada",
+        "Winner Candidate":"Makwana Punambhai Kalabhai",
+        "Party":"BJP",
+        "Votes":65404,
+        "Margin":10640
+    },
+    {
+        "No.":61,
+        "Constituency":"Limbdi",
+        "Winner Candidate":"Kolipatel Somabhai Gandalal",
+        "Party":"INC",
+        "Votes":72203,
+        "Margin":1561
+    },
+    {
+        "No.":62,
+        "Constituency":"Wadhwan",
+        "Winner Candidate":"Doshi Varshaben Narendrabhai",
+        "Party":"BJP",
+        "Votes":83049,
+        "Margin":17558
+    },
+    {
+        "No.":63,
+        "Constituency":"Chotila",
+        "Winner Candidate":"Shamjibhai Bhimjibhai Chauhan",
+        "Party":"BJP",
+        "Votes":72111,
+        "Margin":11972
+    },
+    {
+        "No.":64,
+        "Constituency":"Dhrangadhra",
+        "Winner Candidate":"Kavadiya Jayantibhai Ramjibhai",
+        "Party":"BJP",
+        "Votes":87621,
+        "Margin":17403
+    },
+    {
+        "No.":65,
+        "Constituency":"Morbi",
+        "Winner Candidate":"Kantilal Amrutiya",
+        "Party":"BJP",
+        "Votes":77386,
+        "Margin":2760
+    },
+    {
+        "No.":66,
+        "Constituency":"Tankara",
+        "Winner Candidate":"Kundariya Mohanbhai Kalyanjibhai",
+        "Party":"BJP",
+        "Votes":63630,
+        "Margin":15407
+    },
+    {
+        "No.":67,
+        "Constituency":"Wankaner",
+        "Winner Candidate":"Pirzada Mahamadjavid Abdulmutalib",
+        "Party":"INC",
+        "Votes":59038,
+        "Margin":5311
+    },
+    {
+        "No.":68,
+        "Constituency":"Rajkot East",
+        "Winner Candidate":"Rajguru Indranil Sanjaybhai",
+        "Party":"INC",
+        "Votes":60877,
+        "Margin":4272
+    },
+    {
+        "No.":69,
+        "Constituency":"Rajkot West",
+        "Winner Candidate":"Vajubhai Vala",
+        "Party":"BJP",
+        "Votes":90405,
+        "Margin":24978
+    },
+    {
+        "No.":70,
+        "Constituency":"Rajkot South",
+        "Winner Candidate":"Govind Patel",
+        "Party":"BJP",
+        "Votes":77308,
+        "Margin":28477
+    },
+    {
+        "No.":71,
+        "Constituency":"Rajkot Rural",
+        "Winner Candidate":"Bhanuben Manoharbhai Babariya",
+        "Party":"BJP",
+        "Votes":57753,
+        "Margin":11466
+    },
+    {
+        "No.":72,
+        "Constituency":"Jasdan",
+        "Winner Candidate":"Gohel Bholabhai Bhikhabhai",
+        "Party":"INC",
+        "Votes":78055,
+        "Margin":10847
+    },
+    {
+        "No.":73,
+        "Constituency":"Gondal",
+        "Winner Candidate":"Jadeja Jayrajsinh Temubha",
+        "Party":"BJP",
+        "Votes":79709,
+        "Margin":19766
+    },
+    {
+        "No.":74,
+        "Constituency":"Jetpur",
+        "Winner Candidate":"Radadiya Jayeshbhai Vitthalbhai",
+        "Party":"INC",
+        "Votes":85827,
+        "Margin":18033
+    },
+    {
+        "No.":75,
+        "Constituency":"Dhoraji",
+        "Winner Candidate":"Vitthalbhai Hansrajbhai Radadiya",
+        "Party":"INC",
+        "Votes":76189,
+        "Margin":26258
+    },
+    {
+        "No.":76,
+        "Constituency":"Kalavad",
+        "Winner Candidate":"Chavda Meghjibhai Amarabhai",
+        "Party":"BJP",
+        "Votes":49027,
+        "Margin":6119
+    },
+    {
+        "No.":77,
+        "Constituency":"Jamnagar Rural",
+        "Winner Candidate":"Raghavji Hansraj Patel",
+        "Party":"INC",
+        "Votes":60499,
+        "Margin":3304
+    },
+    {
+        "No.":78,
+        "Constituency":"Jamnagar North",
+        "Winner Candidate":"Jadeja Dharmendrasinh Merubha",
+        "Party":"INC",
+        "Votes":61642,
+        "Margin":9448
+    },
+    {
+        "No.":79,
+        "Constituency":"Jamnagar South",
+        "Winner Candidate":"Trivedi Vasuben Narendrabhai",
+        "Party":"BJP",
+        "Votes":55894,
+        "Margin":2862
+    },
+    {
+        "No.":80,
+        "Constituency":"Jam Jodhpur",
+        "Winner Candidate":"Shapriya Chimanbhai Dharamshibhai",
+        "Party":"BJP",
+        "Votes":75395,
+        "Margin":28191
+    },
+    {
+        "No.":81,
+        "Constituency":"Khambhalia",
+        "Winner Candidate":"Poonamben Hematbhai Maadam",
+        "Party":"BJP",
+        "Votes":79087,
+        "Margin":38382
+    },
+    {
+        "No.":82,
+        "Constituency":"Dwarka",
+        "Winner Candidate":"Pabubha Virambha Manek",
+        "Party":"BJP",
+        "Votes":70062,
+        "Margin":5616
+    },
+    {
+        "No.":83,
+        "Constituency":"Porbandar",
+        "Winner Candidate":"Babubhai Bhimabhai Bokhiria",
+        "Party":"BJP",
+        "Votes":77604,
+        "Margin":17146
+    },
+    {
+        "No.":84,
+        "Constituency":"Kutiyana",
+        "Winner Candidate":"Kandhal Sarmanbhai Jadeja",
+        "Party":"NCP",
+        "Votes":61416,
+        "Margin":18474
+    },
+    {
+        "No.":85,
+        "Constituency":"Manavadar",
+        "Winner Candidate":"Chavda Jawaharbhai Pethalajibhai",
+        "Party":"INC",
+        "Votes":72879,
+        "Margin":4402
+    },
+    {
+        "No.":86,
+        "Constituency":"Junagadh",
+        "Winner Candidate":"Mashru Mahendrabhai Liladharbhai",
+        "Party":"BJP",
+        "Votes":66669,
+        "Margin":13796
+    },
+    {
+        "No.":87,
+        "Constituency":"Visavadar",
+        "Winner Candidate":"Keshubhai Patel",
+        "Party":"GPP",
+        "Votes":85967,
+        "Margin":42186
+    },
+    {
+        "No.":88,
+        "Constituency":"Keshod",
+        "Winner Candidate":"Arvindbhai Keshavbhai Ladani",
+        "Party":"BJP",
+        "Votes":53772,
+        "Margin":7937
+    },
+    {
+        "No.":89,
+        "Constituency":"Mangrol",
+        "Winner Candidate":"Chudasama Rajeshbhai Naranbhai",
+        "Party":"BJP",
+        "Votes":68452,
+        "Margin":15714
+    },
+    {
+        "No.":90,
+        "Constituency":"Somnath",
+        "Winner Candidate":"Barad Jasabhai Bhanabhai",
+        "Party":"INC",
+        "Votes":56701,
+        "Margin":2096
+    },
+    {
+        "No.":91,
+        "Constituency":"Talala, Gujarat",
+        "Winner Candidate":"Jashubhai Dhanabhai Barad",
+        "Party":"INC",
+        "Votes":62722,
+        "Margin":1478
+    },
+    {
+        "No.":92,
+        "Constituency":"Kodinar",
+        "Winner Candidate":"Solanki Jethabhai Danabhai",
+        "Party":"BJP",
+        "Votes":63319,
+        "Margin":8477
+    },
+    {
+        "No.":93,
+        "Constituency":"Una",
+        "Winner Candidate":"Vansh Punjabhai Bhimabhai",
+        "Party":"INC",
+        "Votes":69824,
+        "Margin":7507
+    },
+    {
+        "No.":94,
+        "Constituency":"Dhari",
+        "Winner Candidate":"Kotadiya Nalinbhai Nanjibhai",
+        "Party":"GPP",
+        "Votes":41516,
+        "Margin":1575
+    },
+    {
+        "No.":95,
+        "Constituency":"Amreli",
+        "Winner Candidate":"Paresh Dhanani",
+        "Party":"INC",
+        "Votes":86583,
+        "Margin":29893
+    },
+    {
+        "No.":96,
+        "Constituency":"Lathi",
+        "Winner Candidate":"Bavkubhai Nathabhai Undhad",
+        "Party":"INC",
+        "Votes":48793,
+        "Margin":2764
+    },
+    {
+        "No.":97,
+        "Constituency":"Savarkundla",
+        "Winner Candidate":"Vaghasiya Vallabhbhai Vasharambhai",
+        "Party":"BJP",
+        "Votes":37246,
+        "Margin":2384
+    },
+    {
+        "No.":98,
+        "Constituency":"Rajula",
+        "Winner Candidate":"Solanki Hirabhai Odhavjibhai",
+        "Party":"BJP",
+        "Votes":75447,
+        "Margin":18710
+    },
+    {
+        "No.":99,
+        "Constituency":"Mahuva",
+        "Winner Candidate":"Makwana Bhavanaben Raghvbhai",
+        "Party":"BJP",
+        "Votes":57498,
+        "Margin":28352
+    },
+    {
+        "No.":100,
+        "Constituency":"Talaja",
+        "Winner Candidate":"Shyal Bhartiben Dhirubhai",
+        "Party":"BJP",
+        "Votes":66357,
+        "Margin":32844
+    },
+    {
+        "No.":101,
+        "Constituency":"Gariadhar",
+        "Winner Candidate":"Keshubhai Hirjibhai Nakran",
+        "Party":"BJP",
+        "Votes":53377,
+        "Margin":16028
+    },
+    {
+        "No.":102,
+        "Constituency":"Palitana",
+        "Winner Candidate":"Rathod Pravinbhai Jinabhai",
+        "Party":"INC",
+        "Votes":69396,
+        "Margin":14325
+    },
+    {
+        "No.":103,
+        "Constituency":"Bhavnagar Rural",
+        "Winner Candidate":"Parshottam Solanki",
+        "Party":"BJP",
+        "Votes":83980,
+        "Margin":18554
+    },
+    {
+        "No.":104,
+        "Constituency":"Bhavnagar East",
+        "Winner Candidate":"Vibhavari Dave",
+        "Party":"BJP",
+        "Votes":85375,
+        "Margin":39508
+    },
+    {
+        "No.":105,
+        "Constituency":"Bhavnagar West",
+        "Winner Candidate":"Jitu Vaghani",
+        "Party":"BJP",
+        "Votes":92584,
+        "Margin":53893
+    },
+    {
+        "No.":106,
+        "Constituency":"Gadhada",
+        "Winner Candidate":"Atmaram Makanbhai Parmar",
+        "Party":"BJP",
+        "Votes":66415,
+        "Margin":10342
+    },
+    {
+        "No.":107,
+        "Constituency":"Botad",
+        "Winner Candidate":"Maniya Thakarshibhai Devjibhai",
+        "Party":"BJP",
+        "Votes":86184,
+        "Margin":10005
+    },
+    {
+        "No.":108,
+        "Constituency":"Khambhat",
+        "Winner Candidate":"Patel Sanjaykumar Ramanbhai",
+        "Party":"BJP",
+        "Votes":74761,
+        "Margin":15386
+    },
+    {
+        "No.":109,
+        "Constituency":"Borsad",
+        "Winner Candidate":"Parmar Rajendrasinh Dhirsinh",
+        "Party":"INC",
+        "Votes":83621,
+        "Margin":21034
+    },
+    {
+        "No.":110,
+        "Constituency":"Anklav",
+        "Winner Candidate":"Amit Chavda",
+        "Party":"INC",
+        "Votes":81575,
+        "Margin":30319
+    },
+    {
+        "No.":111,
+        "Constituency":"Umreth",
+        "Winner Candidate":"Jayantbhai Ramanbhai Patel",
+        "Party":"NCP",
+        "Votes":67363,
+        "Margin":1394
+    },
+    {
+        "No.":112,
+        "Constituency":"Anand",
+        "Winner Candidate":"Dilipbhai Manibhai Patel",
+        "Party":"BJP",
+        "Votes":82956,
+        "Margin":987
+    },
+    {
+        "No.":113,
+        "Constituency":"Petlad",
+        "Winner Candidate":"Niranjan Patel",
+        "Party":"INC",
+        "Votes":77312,
+        "Margin":12192
+    },
+    {
+        "No.":114,
+        "Constituency":"Sojitra",
+        "Winner Candidate":"Parmar Punambhai Madhabhai",
+        "Party":"INC",
+        "Votes":65210,
+        "Margin":162
+    },
+    {
+        "No.":115,
+        "Constituency":"Matar",
+        "Winner Candidate":"Chauhan Devusinh Jesingbhai",
+        "Party":"BJP",
+        "Votes":71021,
+        "Margin":6487
+    },
+    {
+        "No.":116,
+        "Constituency":"Nadiad",
+        "Winner Candidate":"Desai Pankaj Vinubhai",
+        "Party":"BJP",
+        "Votes":75335,
+        "Margin":6587
+    },
+    {
+        "No.":117,
+        "Constituency":"Mahemdabad",
+        "Winner Candidate":"Gautambhai Ravjibhai Chauhan",
+        "Party":"INC",
+        "Votes":68767,
+        "Margin":4181
+    },
+    {
+        "No.":118,
+        "Constituency":"Mahudha",
+        "Winner Candidate":"Thakor Natvarsinh Fulsinh",
+        "Party":"INC",
+        "Votes":58373,
+        "Margin":13230
+    },
+    {
+        "No.":119,
+        "Constituency":"Thasra",
+        "Winner Candidate":"Parmar Ramsinh Prabhatsinh",
+        "Party":"INC",
+        "Votes":78226,
+        "Margin":5500
+    },
+    {
+        "No.":120,
+        "Constituency":"Kapadvanj",
+        "Winner Candidate":"Shankersinh Vaghela",
+        "Party":"INC",
+        "Votes":88641,
+        "Margin":6597
+    },
+    {
+        "No.":121,
+        "Constituency":"Balasinor",
+        "Winner Candidate":"Chauhan Mansinh Kohyabhai",
+        "Party":"INC",
+        "Votes":87088,
+        "Margin":17171
+    },
+    {
+        "No.":122,
+        "Constituency":"Lunawada",
+        "Winner Candidate":"Malivad Kalubhai Hirabhai",
+        "Party":"BJP",
+        "Votes":72814,
+        "Margin":3701
+    },
+    {
+        "No.":123,
+        "Constituency":"Santrampur",
+        "Winner Candidate":"Damor Gendalbhai Motibhai",
+        "Party":"INC",
+        "Votes":68026,
+        "Margin":25654
+    },
+    {
+        "No.":124,
+        "Constituency":"Shehra",
+        "Winner Candidate":"Ahir Jethabhai Ghelabhai",
+        "Party":"BJP",
+        "Votes":76468,
+        "Margin":28725
+    },
+    {
+        "No.":125,
+        "Constituency":"Morva Hadaf",
+        "Winner Candidate":"Khant Savitaben Vechatbhai",
+        "Party":"INC",
+        "Votes":56886,
+        "Margin":11289
+    },
+    {
+        "No.":126,
+        "Constituency":"Godhra",
+        "Winner Candidate":"C. K. Raul",
+        "Party":"INC",
+        "Votes":73367,
+        "Margin":2868
+    },
+    {
+        "No.":127,
+        "Constituency":"Kalol",
+        "Winner Candidate":"RATHOD ARVINDSINH DAMSINH",
+        "Party":"BJP",
+        "Votes":69275,
+        "Margin":30056
+    },
+    {
+        "No.":128,
+        "Constituency":"Halol",
+        "Winner Candidate":"Parmar Jaydrathsinh Chandrasinh",
+        "Party":"BJP",
+        "Votes":93854,
+        "Margin":33206
+    },
+    {
+        "No.":129,
+        "Constituency":"Fatepura",
+        "Winner Candidate":"Katara Rameshbhai Bhurabhai",
+        "Party":"BJP",
+        "Votes":57828,
+        "Margin":6264
+    },
+    {
+        "No.":130,
+        "Constituency":"Jhalod",
+        "Winner Candidate":"Garasiya Miteshbhai Kalabhai",
+        "Party":"INC",
+        "Votes":78077,
+        "Margin":40073
+    },
+    {
+        "No.":131,
+        "Constituency":"Limkheda",
+        "Winner Candidate":"Bhabhor Jashvantsinh Sumanbhai",
+        "Party":"BJP",
+        "Votes":67219,
+        "Margin":15331
+    },
+    {
+        "No.":132,
+        "Constituency":"Dahod",
+        "Winner Candidate":"Panada Vajesingbhai Parsingbhai",
+        "Party":"INC",
+        "Votes":73956,
+        "Margin":39548
+    },
+    {
+        "No.":133,
+        "Constituency":"Garbada",
+        "Winner Candidate":"Bariya Chandrikaben Chhaganbhai",
+        "Party":"INC",
+        "Votes":69295,
+        "Margin":35774
+    },
+    {
+        "No.":134,
+        "Constituency":"Devgadh Baria",
+        "Winner Candidate":"Bachu Khabad",
+        "Party":"BJP",
+        "Votes":113582,
+        "Margin":83753
+    },
+    {
+        "No.":135,
+        "Constituency":"Savli",
+        "Winner Candidate":"Inamdar Ketanbhai Mahendrabhai",
+        "Party":"Independent",
+        "Votes":62849,
+        "Margin":20319
+    },
+    {
+        "No.":136,
+        "Constituency":"Vaghodia",
+        "Winner Candidate":"Shrivastav Madhubhai Babubhai",
+        "Party":"BJP",
+        "Votes":65851,
+        "Margin":5788
+    },
+    {
+        "No.":137,
+        "Constituency":"Chhota Udaipur",
+        "Winner Candidate":"Rathwa Mohansinh Chhotubhai",
+        "Party":"INC",
+        "Votes":65043,
+        "Margin":2305
+    },
+    {
+        "No.":138,
+        "Constituency":"Jetpur",
+        "Winner Candidate":"Radadiya Jayeshbhai Vitthalbhai",
+        "Party":"INC",
+        "Votes":61966,
+        "Margin":4273
+    },
+    {
+        "No.":139,
+        "Constituency":"Sankheda",
+        "Winner Candidate":"Bhil Dhirubhai Chunilal",
+        "Party":"BJP",
+        "Votes":80579,
+        "Margin":1452
+    },
+    {
+        "No.":140,
+        "Constituency":"Dabhoi",
+        "Winner Candidate":"Balkrishna Patel",
+        "Party":"BJP",
+        "Votes":70833,
+        "Margin":5122
+    },
+    {
+        "No.":141,
+        "Constituency":"Vadodara City",
+        "Winner Candidate":"Vakil Manisha Rajivbhai",
+        "Party":"BJP",
+        "Votes":103700,
+        "Margin":51889
+    },
+    {
+        "No.":142,
+        "Constituency":"Sayajigunj",
+        "Winner Candidate":"Sukhadiya Jitendra Ratilal",
+        "Party":"BJP",
+        "Votes":107358,
+        "Margin":58237
+    },
+    {
+        "No.":143,
+        "Constituency":"Akota",
+        "Winner Candidate":"Saurabh Patel",
+        "Party":"BJP",
+        "Votes":95554,
+        "Margin":49867
+    },
+    {
+        "No.":144,
+        "Constituency":"Raopura",
+        "Winner Candidate":"Rajendra Trivedi",
+        "Party":"BJP",
+        "Votes":99263,
+        "Margin":41535
+    },
+    {
+        "No.":145,
+        "Constituency":"Manjalpur",
+        "Winner Candidate":"Yogesh Patel",
+        "Party":"BJP",
+        "Votes":92642,
+        "Margin":51785
+    },
+    {
+        "No.":146,
+        "Constituency":"Padra",
+        "Winner Candidate":"Patel Dineshbhai Balubhai",
+        "Party":"BJP",
+        "Votes":75227,
+        "Margin":4308
+    },
+    {
+        "No.":147,
+        "Constituency":"Karjan",
+        "Winner Candidate":"Satish Patel",
+        "Party":"BJP",
+        "Votes":68225,
+        "Margin":3489
+    },
+    {
+        "No.":148,
+        "Constituency":"Nandod",
+        "Winner Candidate":"Tadvi Shabdasharan Bhailalbhai",
+        "Party":"BJP",
+        "Votes":79580,
+        "Margin":15727
+    },
+    {
+        "No.":149,
+        "Constituency":"Dediapada",
+        "Winner Candidate":"Motilal Vasava",
+        "Party":"BJP",
+        "Votes":56471,
+        "Margin":2555
+    },
+    {
+        "No.":150,
+        "Constituency":"Jambusar",
+        "Winner Candidate":"Chhatrasinhji Pujabhai Mori",
+        "Party":"BJP",
+        "Votes":74864,
+        "Margin":18730
+    },
+    {
+        "No.":151,
+        "Constituency":"Vagra",
+        "Winner Candidate":"Arunsinh Ajitsinh Rana",
+        "Party":"BJP",
+        "Votes":68512,
+        "Margin":14318
+    },
+    {
+        "No.":152,
+        "Constituency":"Zaghadia",
+        "Winner Candidate":"Vasava Chhotubhai Amarsinh",
+        "Party":"JD(U)",
+        "Votes":66622,
+        "Margin":13304
+    },
+    {
+        "No.":153,
+        "Constituency":"Bharuch",
+        "Winner Candidate":"Dushyantbhai Rajnikant Patel",
+        "Party":"BJP",
+        "Votes":92219,
+        "Margin":37190
+    },
+    {
+        "No.":154,
+        "Constituency":"Ankleshwar",
+        "Winner Candidate":"Ishwarsinh Thakorbhai Patel",
+        "Party":"BJP",
+        "Votes":82645,
+        "Margin":31443
+    },
+    {
+        "No.":155,
+        "Constituency":"Olpad",
+        "Winner Candidate":"Patel Mukeshbhai Zinabhai",
+        "Party":"BJP",
+        "Votes":106805,
+        "Margin":37058
+    },
+    {
+        "No.":156,
+        "Constituency":"Mangrol",
+        "Winner Candidate":"Ganpatsinh Vestabhai Vasava",
+        "Party":"BJP",
+        "Votes":79255,
+        "Margin":31106
+    },
+    {
+        "No.":157,
+        "Constituency":"Mandvi",
+        "Winner Candidate":"Vasava Parbhubhai Nagarbha",
+        "Party":"INC",
+        "Votes":83298,
+        "Margin":24394
+    },
+    {
+        "No.":158,
+        "Constituency":"Kamrej",
+        "Winner Candidate":"Pansheriya Prafulbhai Chhaganbhai",
+        "Party":"BJP",
+        "Votes":126032,
+        "Margin":61371
+    },
+    {
+        "No.":159,
+        "Constituency":"Surat East",
+        "Winner Candidate":"Gilitwala Ranjitbhai Mangubhai",
+        "Party":"BJP",
+        "Votes":72649,
+        "Margin":15789
+    },
+    {
+        "No.":160,
+        "Constituency":"Surat North",
+        "Winner Candidate":"Choksi Ajaykumar Jashvantlal",
+        "Party":"BJP",
+        "Votes":59690,
+        "Margin":22034
+    },
+    {
+        "No.":161,
+        "Constituency":"Varachha Road",
+        "Winner Candidate":"Kanani Kishorbhai Shivabhai",
+        "Party":"BJP",
+        "Votes":68529,
+        "Margin":20359
+    },
+    {
+        "No.":162,
+        "Constituency":"Karanj",
+        "Winner Candidate":"Kachhadiya Janakbhai Manjibhai",
+        "Party":"BJP",
+        "Votes":65696,
+        "Margin":49439
+    },
+    {
+        "No.":163,
+        "Constituency":"Limbayat",
+        "Winner Candidate":"Patil Sangitaben Rajendrabhai",
+        "Party":"BJP",
+        "Votes":79744,
+        "Margin":30321
+    },
+    {
+        "No.":164,
+        "Constituency":"Udhna",
+        "Winner Candidate":"Narottambhai Patel",
+        "Party":"BJP",
+        "Votes":74946,
+        "Margin":32754
+    },
+    {
+        "No.":165,
+        "Constituency":"Majura",
+        "Winner Candidate":"Sanghvi Harsh Rameshkumar",
+        "Party":"BJP",
+        "Votes":103577,
+        "Margin":71556
+    },
+    {
+        "No.":166,
+        "Constituency":"Katargam",
+        "Winner Candidate":"Vanani Nanubhai Bhagavanbhai",
+        "Party":"BJP",
+        "Votes":88604,
+        "Margin":43272
+    },
+    {
+        "No.":167,
+        "Constituency":"Surat West",
+        "Winner Candidate":"Kishorbhai Ratilalvankawala",
+        "Party":"BJP",
+        "Votes":99099,
+        "Margin":69731
+    },
+    {
+        "No.":168,
+        "Constituency":"Choryasi",
+        "Winner Candidate":"Patel Rajendrabhai Parabhubhai",
+        "Party":"BJP",
+        "Votes":119917,
+        "Margin":67638
+    },
+    {
+        "No.":169,
+        "Constituency":"Bardoli",
+        "Winner Candidate":"Parmar Ishwarbhai Alias Anilbhai Ramanbhai",
+        "Party":"BJP",
+        "Votes":81049,
+        "Margin":22272
+    },
+    {
+        "No.":170,
+        "Constituency":"Mahuva",
+        "Winner Candidate":"Dhodiya Mohanbhai Dhanjibhai",
+        "Party":"BJP",
+        "Votes":74161,
+        "Margin":11687
+    },
+    {
+        "No.":171,
+        "Constituency":"Vyara",
+        "Winner Candidate":"Punabhai Dhedabhai Gamit",
+        "Party":"INC",
+        "Votes":73138,
+        "Margin":13556
+    },
+    {
+        "No.":172,
+        "Constituency":"Nizar",
+        "Winner Candidate":"Gamit Kantilalbhai Reshmabhai",
+        "Party":"BJP",
+        "Votes":90191,
+        "Margin":9924
+    },
+    {
+        "No.":173,
+        "Constituency":"Dang",
+        "Winner Candidate":"Gavit Mangalbhai Gangajibhai",
+        "Party":"INC",
+        "Votes":45637,
+        "Margin":2422
+    },
+    {
+        "No.":174,
+        "Constituency":"Jalalpore",
+        "Winner Candidate":"R C Patel",
+        "Party":"BJP",
+        "Votes":76797,
+        "Margin":17867
+    },
+    {
+        "No.":175,
+        "Constituency":"Navsari",
+        "Winner Candidate":"Desai Piyushbhai Dinkarbhai",
+        "Party":"BJP",
+        "Votes":81601,
+        "Margin":15981
+    },
+    {
+        "No.":176,
+        "Constituency":"Gandevi",
+        "Winner Candidate":"Mangubhai Chhaganbhai",
+        "Party":"BJP",
+        "Votes":104417,
+        "Margin":26177
+    },
+    {
+        "No.":177,
+        "Constituency":"Vansda",
+        "Winner Candidate":"Chaudhari Chhanabhai Kolubhai",
+        "Party":"INC",
+        "Votes":105829,
+        "Margin":25616
+    },
+    {
+        "No.":178,
+        "Constituency":"Dharampur",
+        "Winner Candidate":"Patel Ishwarbhai Dhedabhai",
+        "Party":"INC",
+        "Votes":82319,
+        "Margin":15298
+    },
+    {
+        "No.":179,
+        "Constituency":"Valsad",
+        "Winner Candidate":"Bharatbhai Kikubhai Patel",
+        "Party":"BJP",
+        "Votes":93658,
+        "Margin":35999
+    },
+    {
+        "No.":180,
+        "Constituency":"Pardi",
+        "Winner Candidate":"Kanubhai Mohanlal Desai",
+        "Party":"BJP",
+        "Votes":84563,
+        "Margin":37311
+    },
+    {
+        "No.":181,
+        "Constituency":"Kaprada",
+        "Winner Candidate":"Chaudhari Jitubhai Harajibhai",
+        "Party":"INC",
+        "Votes":85780,
+        "Margin":18685
+    },
+    {
+        "No.":182,
+        "Constituency":"Umbergaon",
+        "Winner Candidate":"Ramanlal Nanubhai Patkar",
+        "Party":"BJP",
+        "Votes":69450,
+        "Margin":28299
+    }
+]

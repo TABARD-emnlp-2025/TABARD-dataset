@@ -1,0 +1,122 @@
+[
+    {
+        "Year":"Representing Great Britain / England",
+        "Competition":"Representing Great Britain / England",
+        "Venue":"Representing Great Britain / England",
+        "Position":"Representing Great Britain / England",
+        "Event":"Representing Great Britain / England",
+        "Notes":"Representing Great Britain / England"
+    },
+    {
+        "Year":1991,
+        "Competition":"World Championships",
+        "Venue":"Tokyo, Japan",
+        "Position":"4th",
+        "Event":"4 × 400 m",
+        "Notes":"3:22.01"
+    },
+    {
+        "Year":1992,
+        "Competition":"Olympic Games",
+        "Venue":"Barcelona, Spain",
+        "Position":"8th",
+        "Event":"400 m",
+        "Notes":"50.87 (50.40 sf)"
+    },
+    {
+        "Year":1992,
+        "Competition":"Olympic Games",
+        "Venue":"Barcelona, Spain",
+        "Position":"3rd",
+        "Event":"4 × 400 m",
+        "Notes":"2:24.23"
+    },
+    {
+        "Year":1993,
+        "Competition":"World Championships",
+        "Venue":"Stuttgart, Germany",
+        "Position":"3rd",
+        "Event":"4 × 400 m",
+        "Notes":"3:23.41"
+    },
+    {
+        "Year":1994,
+        "Competition":"European Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"3rd",
+        "Event":"400 m",
+        "Notes":"51.3"
+    },
+    {
+        "Year":1994,
+        "Competition":"European Championships",
+        "Venue":"helsinki, FIN",
+        "Position":"4th",
+        "Event":"4 × 400 m",
+        "Notes":"3:24.14"
+    },
+    {
+        "Year":1994,
+        "Competition":"Commonwealth Games",
+        "Venue":"Victoria, Canada",
+        "Position":"4th",
+        "Event":"400 m",
+        "Notes":51.49
+    },
+    {
+        "Year":1994,
+        "Competition":"Commonwealth Games",
+        "Venue":"Victoria, Canada",
+        "Position":"1st",
+        "Event":"4 × 400 m",
+        "Notes":"3:27.06"
+    },
+    {
+        "Year":1994,
+        "Competition":"World Cup",
+        "Venue":"London, England",
+        "Position":"4th",
+        "Event":"400 m",
+        "Notes":"51,36"
+    },
+    {
+        "Year":1994,
+        "Competition":"World Cup",
+        "Venue":"London, England",
+        "Position":"First",
+        "Event":"4 × 400 m",
+        "Notes":"3:27.36"
+    },
+    {
+        "Year":1996,
+        "Competition":"Olympic Games",
+        "Venue":"Atlanta, United States",
+        "Position":"quarter-final",
+        "Event":"400 m",
+        "Notes":"52.16 (51.29 ht)"
+    },
+    {
+        "Year":1996,
+        "Competition":"Olympic Games",
+        "Venue":"Atlanta, United States",
+        "Position":"heats",
+        "Event":"4 × 400 m",
+        "Notes":"3:28.13"
+    },
+    {
+        "Year":1997,
+        "Competition":"World Indoor Championships",
+        "Venue":"Paris (Bercy), France",
+        "Position":"semi-final",
+        "Event":"400 m",
+        "Notes":52.86
+    },
+    {
+        "Year":1997,
+        "Competition":"World Indoor Championships",
+        "Venue":"Paris-Bercy, France",
+        "Position":"6th",
+        "Event":"4 × 400 m",
+        "Notes":"3:32.25"
+    }
+]

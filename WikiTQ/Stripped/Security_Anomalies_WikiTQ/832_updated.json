@@ -1,0 +1,163 @@
+[
+    {
+        "Name":"José Manuel Abundis",
+        "Nationality":"Mexico",
+        "Club":"Atlanta Silverbacks",
+        "From":2011,
+        "Until":"2011"
+    },
+    {
+        "Name":"Alex Pineda Chacón",
+        "Nationality":"Honduras",
+        "Club":"Atlanta Silverbacks",
+        "From":2011,
+        "Until":"2012"
+    },
+    {
+        "Name":"Eric Wynalda",
+        "Nationality":"United States",
+        "Club":"Atlanta Silverbacks",
+        "From":2012,
+        "Until":"2012"
+    },
+    {
+        "Name":"Brian Haynes (footballer)",
+        "Nationality":"Trinidad and Tobago",
+        "Club":"Atlanta Silverbacks",
+        "From":2012,
+        "Until":"2013"
+    },
+    {
+        "Name":"Eric Wynalda",
+        "Nationality":"United States",
+        "Club":"Atlanta Silverbacks",
+        "From":2014,
+        "Until":"Present"
+    },
+    {
+        "Name":"Martin Rennie",
+        "Nationality":"Scotland",
+        "Club":"Carolina RailHawks",
+        "From":2009,
+        "Until":"2011"
+    },
+    {
+        "Name":"Colin Clarke",
+        "Nationality":"England",
+        "Club":"Carolina RailHawks",
+        "From":2011,
+        "Until":"Present"
+    },
+    {
+        "Name":"Dwight Lodeweges",
+        "Nationality":"Netherlands",
+        "Club":"FC Edmonton",
+        "From":2010,
+        "Until":"2010"
+    },
+    {
+        "Name":"Harry Sinkgraven",
+        "Nationality":"Netherlands",
+        "Club":"FC Edmonton",
+        "From":2010,
+        "Until":"2012"
+    },
+    {
+        "Name":"Colin Miller",
+        "Nationality":"Canada",
+        "Club":"FC Edmonton",
+        "From":2012,
+        "Until":"Present"
+    },
+    {
+        "Name":"Daryl Shore",
+        "Nationality":"United States",
+        "Club":"Fort Lauderdale Strikers",
+        "From":2010,
+        "Until":"2013"
+    },
+    {
+        "Name":"Günter Kronsteiner",
+        "Nationality":"Austria",
+        "Club":"Fort Lauderdale Strikers",
+        "From":2013,
+        "Until":"Present"
+    },
+    {
+        "Name":"Juergen Sommer",
+        "Nationality":"United States",
+        "Club":"Indy Eleven",
+        "From":2013,
+        "Until":"None"
+    },
+    {
+        "Name":"Manny Lagos",
+        "Nationality":"United States",
+        "Club":"Minnesota United FC",
+        "From":2010,
+        "Until":"Present"
+    },
+    {
+        "Name":"Marc Dos Santos",
+        "Nationality":"Canada",
+        "Club":"Montreal Impact",
+        "From":2009,
+        "Until":"2011"
+    },
+    {
+        "Name":"Nick De Santis",
+        "Nationality":"Canada",
+        "Club":"Montreal Impact",
+        "From":2011,
+        "Until":"2011"
+    },
+    {
+        "Name":"Giovanni Savarese",
+        "Nationality":"Venezuela",
+        "Club":"New York Cosmos",
+        "From":2012,
+        "Until":"Present"
+    },
+    {
+        "Name":"Marc Dos Santos",
+        "Nationality":"Canada",
+        "Club":"Ottawa Fury FC",
+        "From":2013,
+        "Until":"Present"
+    },
+    {
+        "Name":"Colin Clarke",
+        "Nationality":"None",
+        "Club":"Puerto Rico Islanders",
+        "From":2007,
+        "Until":"2011"
+    },
+    {
+        "Name":"Adrian Whitbread",
+        "Nationality":"England",
+        "Club":"Puerto Rico Islanders",
+        "From":2011,
+        "Until":"2012"
+    },
+    {
+        "Name":"Tim Hankinson",
+        "Nationality":"United States",
+        "Club":"San Antonio Scorpions",
+        "From":2012,
+        "Until":"2013"
+    },
+    {
+        "Name":"Alen Marcina",
+        "Nationality":"Canada",
+        "Club":"San Antonio Scorpions",
+        "From":2013,
+        "Until":"Present"
+    },
+    {
+        "Name":"Ricky Hill",
+        "Nationality":"England",
+        "Club":"Tampa Bay Rowdies",
+        "From":2011,
+        "Until":"2015"
+    }
+]

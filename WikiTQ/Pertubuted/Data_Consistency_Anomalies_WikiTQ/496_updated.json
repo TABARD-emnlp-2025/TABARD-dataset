@@ -1,0 +1,182 @@
+[
+    {
+        "Pos":1,
+        "No":1,
+        "Driver":"S\u00e9bastien Bourdais",
+        "Team":"Newman\/Haas Racing",
+        "Laps":66,
+        "Time\/Retired":"1:51:31.146",
+        "Grid":2,
+        "Points":34
+    },
+    {
+        "Pos":2,
+        "No":9,
+        "Driver":"Justin Wilson",
+        "Team":"RuSPORT",
+        "Laps":66,
+        "Time\/Retired":"+3.528 secs",
+        "Grid":1,
+        "Points":29
+    },
+    {
+        "Pos":3,
+        "No":5,
+        "Driver":"Will Power",
+        "Team":"@@@_team australia",
+        "Laps":66,
+        "Time\/Retired":"+46.536 secs",
+        "Grid":4,
+        "Points":26
+    },
+    {
+        "Pos":4,
+        "No":2,
+        "Driver":"Bruno Junqueira",
+        "Team":"Newman\/Haas Racing",
+        "Laps":66,
+        "Time\/Retired":"+1:04.023",
+        "Grid":3,
+        "Points":23
+    },
+    {
+        "Pos":5,
+        "No":15,
+        "Driver":"Alex Tagliani",
+        "Team":"Team Australia",
+        "Laps":66,
+        "Time\/Retired":"+1:18.033",
+        "Grid":8,
+        "Points":22
+    },
+    {
+        "Pos":6,
+        "No":6,
+        "Driver":"Oriol Servi\u00e0",
+        "Team":"PKV Racing",
+        "Laps":66,
+        "Time\/Retired":"+1:28.745",
+        "Grid":7,
+        "Points":19
+    },
+    {
+        "Pos":7,
+        "No":4,
+        "Driver":"Nelson Philippe",
+        "Team":"CTE Racing - HVM",
+        "Laps":66,
+        "Time\/Retired":"+1:29.997",
+        "Grid":10,
+        "Points":17
+    },
+    {
+        "Pos":8,
+        "No":27,
+        "Driver":"Andrew Ranger",
+        "Team":"Mi-Jack Conquest Racing",
+        "Laps":65,
+        "Time\/Retired":"+ 1 Lap",
+        "Grid":16,
+        "Points":16
+    },
+    {
+        "Pos":9,
+        "No":3,
+        "Driver":"David Mart\u00ednez",
+        "Team":"Forsythe Racing",
+        "Laps":65,
+        "Time\/Retired":"+ 1 Lap",
+        "Grid":9,
+        "Points":13
+    },
+    {
+        "Pos":10,
+        "No":7,
+        "Driver":"Buddy Rice",
+        "Team":"Forsythe Racing",
+        "Laps":65,
+        "Time\/Retired":"@@@_+ 1 lap",
+        "Grid":14,
+        "Points":11
+    },
+    {
+        "Pos":11,
+        "No":34,
+        "Driver":"Charles Zwolsman",
+        "Team":"Mi-Jack Conquest Racing",
+        "Laps":65,
+        "Time\/Retired":"+ 1 Lap",
+        "Grid":12,
+        "Points":10
+    },
+    {
+        "Pos":12,
+        "No":18,
+        "Driver":"Ant\u00f4nio Pizzonia",
+        "Team":"Rocketsports Racing",
+        "Laps":65,
+        "Time\/Retired":"+ 1 Lap",
+        "Grid":15,
+        "Points":9
+    },
+    {
+        "Pos":13,
+        "No":11,
+        "Driver":"Jan Heylen",
+        "Team":"Dale Coyne Racing",
+        "Laps":65,
+        "Time\/Retired":"+ 1 Lap",
+        "Grid":17,
+        "Points":8
+    },
+    {
+        "Pos":14,
+        "No":10,
+        "Driver":"Ryan Briscoe",
+        "Team":"RuSPORT",
+        "Laps":64,
+        "Time\/Retired":"+ 2 Laps",
+        "Grid":5,
+        "Points":7
+    },
+    {
+        "Pos":15,
+        "No":19,
+        "Driver":"Andreas Wirth",
+        "Team":"Dale Coyne Racing",
+        "Laps":64,
+        "Time\/Retired":"+ 2 Laps",
+        "Grid":18,
+        "Points":6
+    },
+    {
+        "Pos":16,
+        "No":20,
+        "Driver":"Katherine Legge",
+        "Team":"PKV Racing",
+        "Laps":63,
+        "Time\/Retired":"@@@_+ 3 laps",
+        "Grid":13,
+        "Points":5
+    },
+    {
+        "Pos":17,
+        "No":8,
+        "Driver":"Mario Dom\u00ednguez",
+        "Team":"Rocketsports Racing",
+        "Laps":59,
+        "Time\/Retired":"Retired",
+        "Grid":11,
+        "Points":4
+    },
+    {
+        "Pos":18,
+        "No":14,
+        "Driver":"Dan Clarke",
+        "Team":"@@@_cte racing - hvm",
+        "Laps":7,
+        "Time\/Retired":"Differential",
+        "Grid":6,
+        "Points":3
+    }
+]

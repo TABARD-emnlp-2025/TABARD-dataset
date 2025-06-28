@@ -1,0 +1,62 @@
+[
+    {
+        "Year":2001,
+        "Nominated work":"Odyssey Number Five",
+        "Award":"Album of the Year",
+        "Result":"Won"
+    },
+    {
+        "Year":2001,
+        "Nominated work":"Odyssey Number Five",
+        "Award":"Highest Selling Album",
+        "Result":"Won"
+    },
+    {
+        "Year":2001,
+        "Nominated work":"Odyssey Number Five",
+        "Award":"Best Rock Album",
+        "Result":"Won"
+    },
+    {
+        "Year":2001,
+        "Nominated work":"Odyssey Number Five",
+        "Award":"Best Cover Art",
+        "Result":"Won"
+    },
+    {
+        "Year":"2005",
+        "Nominated work":"Odyssey Number Five",
+        "Award":"Best Group",
+        "Result":"Won"
+    },
+    {
+        "Year":2001,
+        "Nominated work":"\"My Happiness\"",
+        "Award":"Single of the Year",
+        "Result":"Won"
+    },
+    {
+        "Year":"1999",
+        "Nominated work":"\"Like a Dog\"",
+        "Award":"Highest Selling Single",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2001,
+        "Nominated work":"\"Like a Dog\"",
+        "Award":"Best Video",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2002,
+        "Nominated work":"\"The Metre\"",
+        "Award":"Best Group",
+        "Result":"Won"
+    },
+    {
+        "Year":2002,
+        "Nominated work":"\"The Metre\"",
+        "Award":"Best Solo Artist",
+        "Result":"Nominated"
+    }
+]

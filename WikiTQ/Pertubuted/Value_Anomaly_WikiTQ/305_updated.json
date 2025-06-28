@@ -1,0 +1,135 @@
+[
+  {
+    "Team": "Josef Kaufmann Racing",
+    "No": 4,
+    "Driver": "Robin Frijns",
+    "Class": null,
+    "Rounds": "All"
+  },
+  {
+    "Team": "Josef Kaufmann Racing",
+    "No": "@@@_-30",
+    "Driver": "Hannes van Asseldonk",
+    "Class": "R",
+    "Rounds": "All"
+  },
+  {
+    "Team": "Josef Kaufmann Racing",
+    "No": 6,
+    "Driver": "Petri Suvanto",
+    "Class": "R",
+    "Rounds": "All"
+  },
+  {
+    "Team": "Mücke Motorsport",
+    "No": 7,
+    "Driver": "Maciej Bernacik",
+    "Class": "R",
+    "Rounds": "All"
+  },
+  {
+    "Team": "Mücke Motorsport",
+    "No": 8,
+    "Driver": "Timmy Hansen",
+    "Class": null,
+    "Rounds": "All"
+  },
+  {
+    "Team": "EuroInternational",
+    "No": 11,
+    "Driver": "Daniil Kvyat",
+    "Class": "R",
+    "Rounds": "All"
+  },
+  {
+    "Team": "EuroInternational",
+    "No": 12,
+    "Driver": "Carlos Sainz, Jr.",
+    "Class": "R",
+    "Rounds": "All"
+  },
+  {
+    "Team": "EuroInternational",
+    "No": 14,
+    "Driver": "Michael Lewis",
+    "Class": null,
+    "Rounds": "All"
+  },
+  {
+    "Team": "DAMS",
+    "No": 15,
+    "Driver": "Javier Tarancón",
+    "Class": null,
+    "Rounds": "All"
+  },
+  {
+    "Team": "DAMS",
+    "No": 16,
+    "Driver": "Dustin Sofyan",
+    "Class": null,
+    "Rounds": "5"
+  },
+  {
+    "Team": "DAMS",
+    "No": "@@@_225",
+    "Driver": "Luciano Bacheta",
+    "Class": null,
+    "Rounds": "7–8"
+  },
+  {
+    "Team": "DAMS",
+    "No": 17,
+    "Driver": "Fahmi Ilyas",
+    "Class": null,
+    "Rounds": "1–6"
+  },
+  {
+    "Team": "DAMS",
+    "No": 17,
+    "Driver": "Dustin Sofyan",
+    "Class": null,
+    "Rounds": "8"
+  },
+  {
+    "Team": "Eifelland Racing",
+    "No": 18,
+    "Driver": "Facundo Regalia",
+    "Class": null,
+    "Rounds": "All"
+  },
+  {
+    "Team": "Eifelland Racing",
+    "No": 19,
+    "Driver": "Côme Ledogar",
+    "Class": null,
+    "Rounds": "All"
+  },
+  {
+    "Team": "Eifelland Racing",
+    "No": 20,
+    "Driver": "Marc Coleselli",
+    "Class": "R",
+    "Rounds": "All"
+  },
+  {
+    "Team": "Fortec Motorsport",
+    "No": "@@@_-21",
+    "Driver": "@@@_None",
+    "Class": null,
+    "Rounds": "All"
+  },
+  {
+    "Team": "Fortec Motorsport",
+    "No": 25,
+    "Driver": "George Katsinis",
+    "Class": null,
+    "Rounds": "All"
+  },
+  {
+    "Team": "Fortec Motorsport",
+    "No": "@@@_162",
+    "Driver": "Christof von Grünigen",
+    "Class": null,
+    "Rounds": "All"
+  }
+]

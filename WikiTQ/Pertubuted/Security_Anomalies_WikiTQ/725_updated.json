@@ -1,0 +1,138 @@
+[
+    {
+        "Rank":"1",
+        "Nation":"Japan (JPN)",
+        "Gold":9,
+        "Silver":0,
+        "Bronze":1,
+        "Total":10
+    },
+    {
+        "Rank":"2",
+        "Nation":"Iran (IRI)",
+        "Gold":1,
+        "Silver":2,
+        "Bronze":1,
+        "Total":4
+    },
+    {
+        "Rank":"3",
+        "Nation":"Syria (SYR)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":0,
+        "Total":2
+    },
+    {
+        "Rank":"4",
+        "Nation":"Indonesia (INA)",
+        "Gold":0,
+        "Silver":3,
+        "Bronze":2,
+        "Total":5
+    },
+    {
+        "Rank":"5",
+        "Nation":"Vietnam (VIE)",
+        "Gold":0,
+        "Silver":2,
+        "Bronze":0,
+        "Total":2
+    },
+    {
+        "Rank":"6",
+        "Nation":"Chinese Taipei (TPE)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":3,
+        "Total":4
+    },
+    {
+        "Rank":"7",
+        "Nation":"Kuwait (KUW)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":2
+    },
+    {
+        "Rank":"7",
+        "Nation":"Saudi Arabia (KSA)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":2
+    },
+    {
+        "Rank":"9",
+        "Nation":"Malaysia (MAS)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":3,
+        "Total":3
+    },
+    {
+        "Rank":"10",
+        "Nation":"Brunei (BRU)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":2,
+        "Total":2
+    },
+    {
+        "Rank":"10",
+        "Nation":"Philippines (PHI)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":2,
+        "Total":2
+    },
+    {
+        "Rank":"12",
+        "Nation":"Macau (MAC)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":"12",
+        "Nation":"Nepal (NEP)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":"12",
+        "Nation":"Tajikistan (TJK)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":"12",
+        "Nation":"United Arab Emirates (UAE)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":"Total",
+        "Nation":"Total",
+        "Gold":11,
+        "Silver":11,
+        "Bronze":20,
+        "Total":42
+    },
+    {
+        "Rank":"3",
+        "Nation":"Syria (SYR)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":0,
+        "Total":2
+    }
+]

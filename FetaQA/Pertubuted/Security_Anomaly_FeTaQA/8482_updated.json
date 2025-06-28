@@ -1,0 +1,58 @@
+[
+    {
+        "Year":1976,
+        "Artist":"Eagles",
+        "Album":"Their Greatest Hits (1971–1975)",
+        "Label":"Asylum",
+        "Shipments (Sales)":"38,000,000",
+        "Certification":"38× Platinum"
+    },
+    {
+        "Year":1982,
+        "Artist":"Michael Jackson",
+        "Album":"Thriller",
+        "Label":"Epic",
+        "Shipments (Sales)":"33,000,000",
+        "Certification":"33× Platinum"
+    },
+    {
+        "Year":1976,
+        "Artist":"Eagles",
+        "Album":"Hotel California",
+        "Label":"Asylum",
+        "Shipments (Sales)":"26,000,000",
+        "Certification":"26× Platinum"
+    },
+    {
+        "Year":1971,
+        "Artist":"Led Zeppelin",
+        "Album":"Led Zeppelin IV",
+        "Label":"Atlantic",
+        "Shipments (Sales)":"@@@_999,999,999",
+        "Certification":"@@@_999× Platinum"
+    },
+    {
+        "Year":1980,
+        "Artist":"AC/DC",
+        "Album":"Back in Black",
+        "Label":"Atlantic",
+        "Shipments (Sales)":"22,000,000",
+        "Certification":"@@@_None"
+    },
+    {
+        "Year":1977,
+        "Artist":"Fleetwood Mac",
+        "Album":"Rumours",
+        "Label":"Warner Bros.",
+        "Shipments (Sales)":"20,000,000",
+        "Certification":"20× Platinum"
+    },
+    {
+        "Year":2023,
+        "Artist":"Unknown Artist",
+        "Album":"Untitled",
+        "Label":"Unknown",
+        "Shipments (Sales)":"0",
+        "Certification":"0× Platinum"
+    }
+]

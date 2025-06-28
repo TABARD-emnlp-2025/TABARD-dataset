@@ -1,0 +1,128 @@
+[
+    {
+        "Year":1996,
+        "Association":"AACTA Awards",
+        "Category":"Best Actress in a Leading Role",
+        "Work":"Love and Other Catastrophes",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1997,
+        "Association":"AACTA Awards",
+        "Category":"Best Actress in a Leading Role",
+        "Work":"Kiss or Kill",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1997,
+        "Association":"Film Critics Circle of Australia",
+        "Category":"Best Actress",
+        "Work":"Kiss or Kill",
+        "Result":"Won"
+    },
+    {
+        "Year":1997,
+        "Association":"Montreal World Film Festival",
+        "Category":"Best Actress",
+        "Work":"Kiss or Kill",
+        "Result":"Won"
+    },
+    {
+        "Year":1997,
+        "Association":"AACTA Awards",
+        "Category":"Best Actress in a Leading Role",
+        "Work":"Thank God He Met Lizzie",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1999,
+        "Association":"Satellite Awards",
+        "Category":"Best Actress – Motion Picture Musical or Comedy",
+        "Work":"Mansfield Park",
+        "Result":"Won"
+    },
+    {
+        "Year":2000,
+        "Association":"Golden Globe Awards",
+        "Category":"Best Actress – Miniseries or Television Film",
+        "Work":"Madame Bovary",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2001,
+        "Association":"Saturn Awards",
+        "Category":"Best Actress",
+        "Work":"A.I. Artificial Intelligence",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2001,
+        "Association":"American Film Institute",
+        "Category":"Featured Actor of the Year – Female – Movies",
+        "Work":"A.I. Artificial Intelligence",
+        "Result":"Won"
+    },
+    {
+        "Year":2002,
+        "Association":"Empire Awards",
+        "Category":"Best Actress",
+        "Work":"A.I. Artificial Intelligence",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2005,
+        "Association":"AACTA Awards",
+        "Category":"Best Actress in a Leading Role",
+        "Work":"Three Dollars",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Association":"AACTA Awards",
+        "Category":"Best Actress in a Leading Role",
+        "Work":"Blessed",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Association":"Film Critics Circle of Australia",
+        "Category":"Best Actress",
+        "Work":"Blessed",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Association":"Film Critics Circle of Australia",
+        "Category":"Best Actress",
+        "Work":"The Hunter",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2011,
+        "Association":"AACTA Awards",
+        "Category":"Best Actress in a Leading Role",
+        "Work":"The Hunter",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2013,
+        "Association":"Ashland Independent Film Festival",
+        "Category":"Best Acting Ensemble",
+        "Work":"The Truth About Emanuel",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Association":"Golden Globe Awards",
+        "Category":"Best Actress – Miniseries or Television Film",
+        "Work":"The Missing",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Association":"Golden Nymph Awards",
+        "Category":"Outstanding Actress in a Miniseries",
+        "Work":"The Missing",
+        "Result":"Won"
+    }
+]

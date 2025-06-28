@@ -1,0 +1,106 @@
+[
+    {
+        "Year":2017,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Sacramento, California",
+        "Position":"3rd",
+        "Event":"Triple jump",
+        "Notes":"13.62 m (44 ft 8 in)"
+    },
+    {
+        "Year":2017,
+        "Competition":"USA Indoor Track and Field Championships",
+        "Venue":"Albuquerque, New Mexico",
+        "Position":"5th",
+        "Event":"Triple jump",
+        "Notes":"13.18 m (43 ft 3 in)"
+    },
+    {
+        "Year":2016,
+        "Competition":"2016 United States Olympic Trials (track and field)",
+        "Venue":"Eugene, Oregon",
+        "Position":"3rd",
+        "Event":"Triple jump",
+        "Notes":"13.95 m (45 ft 9 in)"
+    },
+    {
+        "Year":2016,
+        "Competition":"USA Indoor Track and Field Championships",
+        "Venue":"Portland, Oregon",
+        "Position":"3rd",
+        "Event":"Long jump",
+        "Notes":"6.57 m (21 ft 7 in)"
+    },
+    {
+        "Year":2015,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Eugene, Oregon",
+        "Position":"13th",
+        "Event":"Long jump",
+        "Notes":"6.32 m (20 ft 9 in)"
+    },
+    {
+        "Year":2014,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Sacramento, California",
+        "Position":"9th",
+        "Event":"Long jump",
+        "Notes":"6.23 m (20 ft 5 in)"
+    },
+    {
+        "Year":2014,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Sacramento, California",
+        "Position":"5th",
+        "Event":"Triple jump",
+        "Notes":"13.46 m (44 ft 2 in)"
+    },
+    {
+        "Year":2014,
+        "Competition":"USA Indoor Track and Field Championships",
+        "Venue":"Albuquerque, New Mexico",
+        "Position":"3rd",
+        "Event":"Long jump",
+        "Notes":"6.61 m (21 ft 8 in)"
+    },
+    {
+        "Year":2014,
+        "Competition":"USA Indoor Track and Field Championships",
+        "Venue":"Albuquerque, New Mexico",
+        "Position":"2nd",
+        "Event":"Triple jump",
+        "Notes":"@@@_13.66 m (44 ft 9 3/4 in)"
+    },
+    {
+        "Year":2013,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Des Moines, Iowa",
+        "Position":"7th",
+        "Event":"Long jump",
+        "Notes":"6.37 m (20 ft 11 in)"
+    },
+    {
+        "Year":2013,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Des Moines, Iowa",
+        "Position":"1st",
+        "Event":"Triple jump",
+        "Notes":"14.03 m (46 ft 0 in)"
+    },
+    {
+        "Year":2012,
+        "Competition":"2012 United States Olympic Trials (track and field)",
+        "Venue":"Eugene, Oregon",
+        "Position":"11th",
+        "Event":"Long jump",
+        "Notes":"6.29 m (20 ft 8 in)"
+    },
+    {
+        "Year":2012,
+        "Competition":"2012 United States Olympic Trials (track and field)",
+        "Venue":"Eugene, Oregon",
+        "Position":"3rd",
+        "Event":"Triple jump",
+        "Notes":"13.79 m (45 ft 3 in)"
+    }
+]

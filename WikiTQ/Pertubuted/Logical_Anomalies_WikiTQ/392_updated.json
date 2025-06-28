@@ -1,0 +1,458 @@
+[
+    {
+        "#":1,
+        "Stadium":"Wembley Stadium",
+        "Capacity":"90,000",
+        "City":"London, England",
+        "Country":"United Kingdom",
+        "Domed or Retractable roof":"RR *only covers seats, playing surface uncovered at all times"
+    },
+    {
+        "#":2,
+        "Stadium":"AT&T Stadium",
+        "Capacity":"80,000",
+        "City":"Arlington, Texas",
+        "Country":"United States",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":3,
+        "Stadium":"Millennium Stadium",
+        "Capacity":"74,500",
+        "City":"Cardiff",
+        "Country":"Wales",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":4,
+        "Stadium":"University of Phoenix Stadium",
+        "Capacity":"73,719",
+        "City":"Glendale, Arizona",
+        "Country":"@@@_Atlantis",
+        "Domed or Retractable roof":"RR; retractable playing surface"
+    },
+    {
+        "#":5,
+        "Stadium":"Mercedes-Benz Superdome",
+        "Capacity":"73,208",
+        "City":"New Orleans, Louisiana",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":6,
+        "Stadium":"Reliant Stadium",
+        "Capacity":"71,500",
+        "City":"Houston, Texas",
+        "Country":"United States",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":7,
+        "Stadium":"Georgia Dome",
+        "Capacity":"71,228",
+        "City":"Atlanta, Georgia",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":8,
+        "Stadium":"Lucas Oil Stadium",
+        "Capacity":"70,000",
+        "City":"Indianapolis, Indiana",
+        "Country":"United States",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":9,
+        "Stadium":"Stade olympique de Montr\u00e9al",
+        "Capacity":"66,308",
+        "City":"Montreal, Quebec",
+        "Country":"Canada",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":10,
+        "Stadium":"Edward Jones Dome",
+        "Capacity":"66,000",
+        "City":"St. Louis, Missouri",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":11,
+        "Stadium":"Alamodome",
+        "Capacity":"65,000",
+        "City":"San Antonio, Texas",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":12,
+        "Stadium":"Ford Field",
+        "Capacity":"65,000",
+        "City":"Detroit, Michigan",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":13,
+        "Stadium":"Stadion Narodowy im. Kazimierza G\u00f3rskiego",
+        "Capacity":"58,145",
+        "City":"Warszawa",
+        "Country":"Poland",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":14,
+        "Stadium":"Etihad Stadium",
+        "Capacity":"56,347",
+        "City":"Melbourne",
+        "Country":"Australia",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":15,
+        "Stadium":"Arena Na\u021bional\u0103",
+        "Capacity":"55,600",
+        "City":"Bucharest",
+        "Country":"Romania",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":16,
+        "Stadium":"Tokyo Dome",
+        "Capacity":"55,000",
+        "City":"Tokyo",
+        "Country":"Japan",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":17,
+        "Stadium":"BC Place",
+        "Capacity":"54,500",
+        "City":"Vancouver, British Columbia",
+        "Country":"Canada",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":18,
+        "Stadium":"Friends Arena",
+        "Capacity":"54,329",
+        "City":"Solna, Stockholm",
+        "Country":"Sweden",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":19,
+        "Stadium":"Safeco Field",
+        "Capacity":"54,097",
+        "City":"Seattle, Washington",
+        "Country":"United States",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":20,
+        "Stadium":"Veltins-Arena",
+        "Capacity":"53,951",
+        "City":"Gelsenkirchen",
+        "Country":"Germany",
+        "Domed or Retractable roof":"RR; retractable playing surface"
+    },
+    {
+        "#":21,
+        "Stadium":"Sapporo Dome",
+        "Capacity":"53,845",
+        "City":"Sapporo",
+        "Country":"Japan",
+        "Domed or Retractable roof":"D; retractable playing surface"
+    },
+    {
+        "#":22,
+        "Stadium":"T\u00fcrk Telekom Arena",
+        "Capacity":"52,647",
+        "City":"Istanbul",
+        "Country":"Turkey",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":23,
+        "Stadium":"Commerzbank-Arena",
+        "Capacity":"52,300",
+        "City":"Frankfurt",
+        "Country":"Germany",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":24,
+        "Stadium":"Rogers Centre",
+        "Capacity":"52,230",
+        "City":"Toronto, Ontario",
+        "Country":"Canada",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":25,
+        "Stadium":"Amsterdam ArenA",
+        "Capacity":"51,628",
+        "City":"Amsterdam",
+        "Country":"Netherlands",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":26,
+        "Stadium":"Esprit Arena",
+        "Capacity":"51,500",
+        "City":"D\u00fcsseldorf",
+        "Country":"Germany",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":27,
+        "Stadium":"Stade Pierre-Mauroy",
+        "Capacity":"50,186",
+        "City":"Lille",
+        "Country":"France",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":28,
+        "Stadium":"Carrier Dome",
+        "Capacity":"49,262",
+        "City":"Syracuse, New York",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":29,
+        "Stadium":"Chase Field",
+        "Capacity":"49,033",
+        "City":"Phoenix, Arizona",
+        "Country":"United States",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":30,
+        "Stadium":"Tropicana Field",
+        "Capacity":"45,369",
+        "City":"St. Petersburg, Florida",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":31,
+        "Stadium":"Toyota Stadium",
+        "Capacity":"45,000",
+        "City":"Toyota",
+        "Country":"Japan",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":32,
+        "Stadium":"Miller Park",
+        "Capacity":"42,200",
+        "City":"Milwaukee, Wisconsin",
+        "Country":"United States",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":33,
+        "Stadium":"Minute Maid Park",
+        "Capacity":"40,950",
+        "City":"Houston, Texas",
+        "Country":"United States",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":34,
+        "Stadium":"Nagoya Dome",
+        "Capacity":"40,500",
+        "City":"Nagoya",
+        "Country":"Japan",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":35,
+        "Stadium":"\u014cita Stadium",
+        "Capacity":"40,000",
+        "City":"\u014cita",
+        "Country":"Japan",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":36,
+        "Stadium":"Marlins Ballpark",
+        "Capacity":"37,000",
+        "City":"Miami, Florida",
+        "Country":"United States",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":37,
+        "Stadium":"Osaka Dome",
+        "Capacity":"36,477",
+        "City":"Osaka",
+        "Country":"Japan",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":38,
+        "Stadium":"Fukuoka Dome",
+        "Capacity":"35,695",
+        "City":"Fukuoka",
+        "Country":"Japan",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":39,
+        "Stadium":"Seibu Dome",
+        "Capacity":"35,655",
+        "City":"Tokorozawa",
+        "Country":"Japan",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":40,
+        "Stadium":"Ordos Stadium",
+        "Capacity":"35,107",
+        "City":"Ordos",
+        "Country":"China",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":41,
+        "Stadium":"Parken Stadion",
+        "Capacity":"38,065",
+        "City":"Copenhagen",
+        "Country":"Denmark",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":42,
+        "Stadium":"GelreDome",
+        "Capacity":"32,500",
+        "City":"Arnhem",
+        "Country":"Netherlands",
+        "Domed or Retractable roof":"RR; retractable playing surface"
+    },
+    {
+        "#":43,
+        "Stadium":"Nantong Stadium",
+        "Capacity":"32,244",
+        "City":"Nantong",
+        "Country":"China",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":44,
+        "Stadium":"Forsyth Barr Stadium at University Plaza",
+        "Capacity":"30,748",
+        "City":"Dunedin",
+        "Country":"New Zealand",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":45,
+        "Stadium":"Astana Arena",
+        "Capacity":"@@@_-30,000",
+        "City":"Astana",
+        "Country":"Kazakhstan",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":46,
+        "Stadium":"Tele2 Arena",
+        "Capacity":"30,000",
+        "City":"Stockholm",
+        "Country":"Sweden",
+        "Domed or Retractable roof":"RR"
+    },
+    {
+        "#":47,
+        "Stadium":"Tacoma Dome",
+        "Capacity":"23,000",
+        "City":"Tacoma, Washington",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":48,
+        "Stadium":"Fargodome",
+        "Capacity":"19,000",
+        "City":"Fargo, North Dakota",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":49,
+        "Stadium":"Walkup Skydome",
+        "Capacity":"16,230",
+        "City":"Flagstaff, Arizona",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":50,
+        "Stadium":"Kibbie Dome",
+        "Capacity":"16,000",
+        "City":"Moscow, Idaho",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":51,
+        "Stadium":"Alerus Center",
+        "Capacity":"13,500",
+        "City":"Grand Forks, North Dakota",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":52,
+        "Stadium":"Holt Arena",
+        "Capacity":"12,000",
+        "City":"Pocatello, Idaho",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":53,
+        "Stadium":"DakotaDome",
+        "Capacity":"10,000",
+        "City":"Vermillion, South Dakota",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":54,
+        "Stadium":"UNI-Dome",
+        "Capacity":"10,000",
+        "City":"Cedar Falls, Iowa",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":55,
+        "Stadium":"ETSU\/Mountain States Health Alliance Athletic Center",
+        "Capacity":"8,539",
+        "City":"Johnson City, Tennessee",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":56,
+        "Stadium":"Superior Dome",
+        "Capacity":"8,432",
+        "City":"Marquette, Michigan",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    },
+    {
+        "#":57,
+        "Stadium":"Round Valley Ensphere",
+        "Capacity":"5,500",
+        "City":"Eagar, Arizona",
+        "Country":"United States",
+        "Domed or Retractable roof":"D"
+    }
+]

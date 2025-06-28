@@ -1,0 +1,72 @@
+[
+    {
+        "Rank":1,
+        "Rider":"Republic of Ireland H. G. Tyrell Smith",
+        "Team":"Rudge",
+        "Speed":"71.08 mph (114.39 km/h)",
+        "Time":"3.43.00.0"
+    },
+    {
+        "Rank":2,
+        "Rider":"United Kingdom Ernie Nott",
+        "Team":"Rudge",
+        "Speed":70.89,
+        "Time":"3.43.35.0"
+    },
+    {
+        "Rank":3,
+        "Rider":"United Kingdom Graham Walker",
+        "Team":"Rudge",
+        "Speed":70.77,
+        "Time":"3.43.58.0"
+    },
+    {
+        "Rank":4,
+        "Rider":"United Kingdom D Hall",
+        "Team":"Velocette",
+        "Speed":70.44,
+        "Time":"3.45.00.0"
+    },
+    {
+        "Rank":5,
+        "Rider":"United Kingdom C J Williams",
+        "Team":"Raleigh",
+        "Speed":69.82,
+        "Time":"@@@_0.47.01.0"
+    },
+    {
+        "Rank":6,
+        "Rider":"Republic of Ireland Stanley Woods",
+        "Team":"Norton",
+        "Speed":"@@@_150.69",
+        "Time":"3.47.26.0"
+    },
+    {
+        "Rank":7,
+        "Rider":"United Kingdom A G Mitchell",
+        "Team":"Velocette",
+        "Speed":67.9,
+        "Time":"3.53.25.0"
+    },
+    {
+        "Rank":8,
+        "Rider":"United Kingdom George Himing",
+        "Team":"AJS",
+        "Speed":67.73,
+        "Time":"3.54.01.0"
+    },
+    {
+        "Rank":9,
+        "Rider":"United Kingdom Tim Hunt",
+        "Team":"Norton",
+        "Speed":67.24,
+        "Time":"@@@_3.95.43.0"
+    },
+    {
+        "Rank":10,
+        "Rider":"United Kingdom Leo Davenport",
+        "Team":"AJS",
+        "Speed":"@@@_6701.0",
+        "Time":"3.56.32.0"
+    }
+]

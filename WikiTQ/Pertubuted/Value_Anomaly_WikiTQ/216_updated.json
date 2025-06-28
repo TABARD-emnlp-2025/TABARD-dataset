@@ -1,0 +1,58 @@
+[
+  {
+    "Rank": 1.0,
+    "Nation": "Netherlands (NED)",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 2,
+    "Total": 9
+  },
+  {
+    "Rank": "@@@_54.8672533689",
+    "Nation": "@@@_None",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 4
+  },
+  {
+    "Rank": 3.0,
+    "Nation": "West Germany (FRG)",
+    "Gold": "@@@_-2",
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 2
+  },
+  {
+    "Rank": 4.0,
+    "Nation": "Norway (NOR)",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 2,
+    "Total": 4
+  },
+  {
+    "Rank": 5.0,
+    "Nation": "Soviet Union (URS)",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": "@@@_-8",
+    "Total": 3
+  },
+  {
+    "Rank": 6.0,
+    "Nation": "Sweden (SWE)",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 2
+  },
+  {
+    "Rank": null,
+    "Nation": "Total",
+    "Gold": 8,
+    "Silver": 8,
+    "Bronze": 8,
+    "Total": 24
+  }
+]

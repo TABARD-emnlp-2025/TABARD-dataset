@@ -1,0 +1,138 @@
+[
+  {
+    "Week": 1,
+    "Date": "September 3, 1995",
+    "Opponent": "at Miami Dolphins",
+    "Result": "L 52–14",
+    "Game site": "Joe Robbie Stadium",
+    "Attendance": "71,317"
+  },
+  {
+    "Week": 2,
+    "Date": "September 10, 1995",
+    "Opponent": "Indianapolis Colts",
+    "Result": "L 27–24 (OT)",
+    "Game site": "The Meadowlands",
+    "Attendance": "65,134"
+  },
+  {
+    "Week": 3,
+    "Date": "September 17, 1995",
+    "Opponent": "Jacksonville Jaguars",
+    "Result": "W 27–10",
+    "Game site": "The Meadowlands",
+    "Attendance": "49,970"
+  },
+  {
+    "Week": "@@@_-8",
+    "Date": "September 24, 1995",
+    "Opponent": "at Atlanta Falcons",
+    "Result": "L 13–3",
+    "Game site": "Georgia Dome",
+    "Attendance": "40,778"
+  },
+  {
+    "Week": 5,
+    "Date": "October 1, 1995",
+    "Opponent": "Oakland Raiders",
+    "Result": "L 47–10",
+    "Game site": "The Meadowlands",
+    "Attendance": "68,941"
+  },
+  {
+    "Week": 6,
+    "Date": "October 8, 1995",
+    "Opponent": "at Buffalo Bills",
+    "Result": "L 29–10",
+    "Game site": "Rich Stadium",
+    "Attendance": "79,485"
+  },
+  {
+    "Week": 7,
+    "Date": "October 15, 1995",
+    "Opponent": "at Carolina Panthers",
+    "Result": "L 26–15",
+    "Game site": "Memorial Stadium",
+    "Attendance": "52,613"
+  },
+  {
+    "Week": "@@@_-9",
+    "Date": "October 22, 1995",
+    "Opponent": "Miami Dolphins",
+    "Result": "W 17–16",
+    "Game site": "The Meadowlands",
+    "Attendance": "67,228"
+  },
+  {
+    "Week": 9,
+    "Date": "October 29, 1995",
+    "Opponent": "at Indianapolis Colts",
+    "Result": "L 17–10",
+    "Game site": "RCA Dome",
+    "Attendance": "49,250"
+  },
+  {
+    "Week": 10,
+    "Date": "November 5, 1995",
+    "Opponent": "New England Patriots",
+    "Result": "L 20–7",
+    "Game site": "The Meadowlands",
+    "Attendance": "61,462"
+  },
+  {
+    "Week": "@@@_-7",
+    "Date": "Bye",
+    "Opponent": "Bye",
+    "Result": "Bye",
+    "Game site": "Bye",
+    "Attendance": "Bye"
+  },
+  {
+    "Week": 12,
+    "Date": "November 19, 1995",
+    "Opponent": "Buffalo Bills",
+    "Result": "L 28–26",
+    "Game site": "The Meadowlands",
+    "Attendance": "54,436"
+  },
+  {
+    "Week": 13,
+    "Date": "November 26, 1995",
+    "Opponent": "at Seattle Seahawks",
+    "Result": "W 16–10",
+    "Game site": "Kingdome",
+    "Attendance": "41,160"
+  },
+  {
+    "Week": 14,
+    "Date": "December 3, 1995",
+    "Opponent": "St. Louis Rams",
+    "Result": "@@@_None",
+    "Game site": "@@@_None",
+    "Attendance": "52,023"
+  },
+  {
+    "Week": 15,
+    "Date": "December 10, 1995",
+    "Opponent": "at New England Patriots",
+    "Result": "L 31–28",
+    "Game site": "Foxboro Stadium",
+    "Attendance": "46,617"
+  },
+  {
+    "Week": 16,
+    "Date": "December 17, 1995",
+    "Opponent": "at Houston Oilers",
+    "Result": "L 23–6",
+    "Game site": "Astrodome",
+    "Attendance": "35,873"
+  },
+  {
+    "Week": 17,
+    "Date": "December 24, 1995",
+    "Opponent": "New Orleans Saints",
+    "Result": "L 12–0",
+    "Game site": "The Meadowlands",
+    "Attendance": "28,885"
+  }
+]

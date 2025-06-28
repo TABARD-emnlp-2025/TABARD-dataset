@@ -1,0 +1,114 @@
+[
+    {
+        "Rank":1,
+        "Player":"Francis Forde",
+        "County":"Galway",
+        "Tally":"2\u20138",
+        "Total":14,
+        "Opposition":"Roscommon"
+    },
+    {
+        "Rank":2,
+        "Player":"Niall English",
+        "County":"Carlow",
+        "Tally":"1\u20139",
+        "Total":12,
+        "Opposition":"Westmeath"
+    },
+    {
+        "Rank":3,
+        "Player":"Kevin Broderick",
+        "County":"Galway",
+        "Tally":"3\u20131",
+        "Total":"@@@_13",
+        "Opposition":"New York"
+    },
+    {
+        "Rank":3,
+        "Player":"Gary Kirby",
+        "County":"Limerick",
+        "Tally":"1\u20137",
+        "Total":10,
+        "Opposition":"Tipperary"
+    },
+    {
+        "Rank":3,
+        "Player":"Gary Kirby",
+        "County":"Limerick",
+        "Tally":"0\u201310",
+        "Total":10,
+        "Opposition":"Tipperary"
+    },
+    {
+        "Rank":6,
+        "Player":"Se\u00e1n McLoughlin",
+        "County":"Westmeath",
+        "Tally":"1\u20136",
+        "Total":"@@@_10",
+        "Opposition":"Carlow"
+    },
+    {
+        "Rank":6,
+        "Player":"David Martin",
+        "County":"Meath",
+        "Tally":"1\u20136",
+        "Total":9,
+        "Opposition":"Offaly"
+    },
+    {
+        "Rank":6,
+        "Player":"Gary Kirby",
+        "County":"Limerick",
+        "Tally":"0\u20139",
+        "Total":9,
+        "Opposition":"Antrim"
+    },
+    {
+        "Rank":9,
+        "Player":"John Byrne",
+        "County":"Carlow",
+        "Tally":"2\u20132",
+        "Total":"@@@_7",
+        "Opposition":"Westmeath"
+    },
+    {
+        "Rank":9,
+        "Player":"John Troy",
+        "County":"Offaly",
+        "Tally":"2\u20132",
+        "Total":8,
+        "Opposition":"Laois"
+    },
+    {
+        "Rank":9,
+        "Player":"John Leahy",
+        "County":"Tipperary",
+        "Tally":"2\u20132",
+        "Total":"@@@_9",
+        "Opposition":"Kerry"
+    },
+    {
+        "Rank":9,
+        "Player":"Tom Dempsey",
+        "County":"Wexford",
+        "Tally":"1\u20135",
+        "Total":8,
+        "Opposition":"Offaly"
+    },
+    {
+        "Rank":9,
+        "Player":"Paul Flynn",
+        "County":"Waterford",
+        "Tally":"1\u20135",
+        "Total":8,
+        "Opposition":"Tipperary"
+    },
+    {
+        "Rank":9,
+        "Player":"Francis Forde",
+        "County":"Galway",
+        "Tally":"1\u20135",
+        "Total":"@@@_10",
+        "Opposition":"New York"
+    }
+]

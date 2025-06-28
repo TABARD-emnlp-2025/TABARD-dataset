@@ -1,0 +1,302 @@
+[
+  {
+    "Date": "11/09/2013*",
+    "Time": "2:00 PM",
+    "Opponent": "Indiana Institute of Technology",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "W 74–51",
+    "Attendance": 369.0,
+    "Record": "1–0"
+  },
+  {
+    "Date": "11/13/2013*",
+    "Time": "6:30 PM",
+    "Opponent": "at Northwestern",
+    "Site": "Welsh-Ryan Arena • Evanston, IL",
+    "TV": "BTND",
+    "Result": "L 33–64",
+    "Attendance": 375.0,
+    "Record": "1–1"
+  },
+  {
+    "Date": "11/16/2013*",
+    "Time": "1:00 PM",
+    "Opponent": "at Miami (OH)",
+    "Site": "Millett Hall • Oxford, OH",
+    "TV": null,
+    "Result": "L 39–55",
+    "Attendance": 406.0,
+    "Record": "1–2"
+  },
+  {
+    "Date": "11/18/2013*",
+    "Time": "7:00 PM",
+    "Opponent": "at Nebraska–Omaha",
+    "Site": "Lee & Helene Sapp Fieldhouse • Omaha, NE",
+    "TV": null,
+    "Result": "L 62–76",
+    "Attendance": "@@@_None",
+    "Record": "1–3"
+  },
+  {
+    "Date": "11/23/2013*",
+    "Time": "2:00 PM",
+    "Opponent": "IUPUI",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 47–68",
+    "Attendance": 381.0,
+    "Record": "1–4"
+  },
+  {
+    "Date": "11/26/2013*",
+    "Time": "7:00 PM",
+    "Opponent": "Purdue Calumet",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 62–68",
+    "Attendance": 279.0,
+    "Record": "1–5"
+  },
+  {
+    "Date": "12/01/2013*",
+    "Time": "2:00 PM",
+    "Opponent": "Western Michigan",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 49–67",
+    "Attendance": 242.0,
+    "Record": "1–6"
+  },
+  {
+    "Date": "12/06/2013*",
+    "Time": "3:30 PM",
+    "Opponent": "vs. Valparaiso",
+    "Site": "Savage Arena • Toledo, OH\n(Toledo Invitational)",
+    "TV": null,
+    "Result": "L 50–74",
+    "Attendance": null,
+    "Record": "1–7"
+  },
+  {
+    "Date": "12/07/2013*",
+    "Time": "1:00 PM",
+    "Opponent": "vs. Detroit",
+    "Site": "Savage Arena • Toledo, OH\n(Toledo Invitational)",
+    "TV": null,
+    "Result": "L 64–85",
+    "Attendance": null,
+    "Record": "1–8"
+  },
+  {
+    "Date": "12/20/2013*",
+    "Time": "6:00 PM",
+    "Opponent": "at Southern Illinois",
+    "Site": "SIU Arena • Carbondale, IL",
+    "TV": null,
+    "Result": "W 55–51",
+    "Attendance": 405.0,
+    "Record": "2–8"
+  },
+  {
+    "Date": "12/29/2013*",
+    "Time": "2:00 PM",
+    "Opponent": "Wright State",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 62–84",
+    "Attendance": "@@@_-298.195",
+    "Record": "2–9"
+  },
+  {
+    "Date": "12/31/2013*",
+    "Time": "2:00 PM",
+    "Opponent": "Loyola",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 63–77",
+    "Attendance": "@@@_2810.6137351276",
+    "Record": "2–10"
+  },
+  {
+    "Date": "01/02/2014",
+    "Time": "7:00 PM",
+    "Opponent": "Seattle",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 58–85",
+    "Attendance": 202.0,
+    "Record": "2–11 (0–1)"
+  },
+  {
+    "Date": "01/04/2014",
+    "Time": "2:00 PM",
+    "Opponent": "Idaho",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 42–92",
+    "Attendance": 200.0,
+    "Record": "2–12 (0–2)"
+  },
+  {
+    "Date": "01/08/2014*",
+    "Time": "7:00 PM",
+    "Opponent": "Indiana Northwest",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "W 68–50",
+    "Attendance": 212.0,
+    "Record": "3–12"
+  },
+  {
+    "Date": "01/11/2014",
+    "Time": "2:00 PM",
+    "Opponent": "at UMKC",
+    "Site": "Municipal Auditorium • Kansas City, MO",
+    "TV": null,
+    "Result": "L 60–83",
+    "Attendance": 380.0,
+    "Record": "3–13 (0–3)"
+  },
+  {
+    "Date": "01/16/2014",
+    "Time": "7:00 PM",
+    "Opponent": "at New Mexico State",
+    "Site": "Pan American Center • Las Cruces, NM",
+    "TV": null,
+    "Result": "L 61–82",
+    "Attendance": 942.0,
+    "Record": "@@@_None"
+  },
+  {
+    "Date": "01/18/2014",
+    "Time": "7:00 PM",
+    "Opponent": "at Texas–Pan American",
+    "Site": "UTPA Fieldhouse • Edinburg, TX",
+    "TV": null,
+    "Result": "L 44–66",
+    "Attendance": 382.0,
+    "Record": "3–15 (0–5)"
+  },
+  {
+    "Date": "01/23/2014",
+    "Time": "7:00 PM",
+    "Opponent": "Cal State Bakersfield",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 59–90",
+    "Attendance": 263.0,
+    "Record": "3–16 (0–6)"
+  },
+  {
+    "Date": "01/25/2014",
+    "Time": "2:00 PM",
+    "Opponent": "Utah Valley",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 46–72",
+    "Attendance": 211.0,
+    "Record": "3–17 (0–7)"
+  },
+  {
+    "Date": "01/30/2014",
+    "Time": "8:00 PM",
+    "Opponent": "at Grand Canyon",
+    "Site": "GCU Arena • Phoenix, AZ",
+    "TV": "Cox7",
+    "Result": "L 53–84",
+    "Attendance": 581.0,
+    "Record": "3–18 (0–8)"
+  },
+  {
+    "Date": "02/08/2014",
+    "Time": "2:00 PM",
+    "Opponent": "UMKC",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 52–84",
+    "Attendance": 201.0,
+    "Record": "3–19 (0–9)"
+  },
+  {
+    "Date": "02/13/2014",
+    "Time": "7:00 PM",
+    "Opponent": "Texas–Pan American",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 52–75",
+    "Attendance": 207.0,
+    "Record": "3–20 (0–10)"
+  },
+  {
+    "Date": "02/15/2014",
+    "Time": "2:00 PM",
+    "Opponent": "New Mexico State",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": "L 64–74",
+    "Attendance": 230.0,
+    "Record": "3–21 (0–11)"
+  },
+  {
+    "Date": "02/20/2014",
+    "Time": "8:00 PM",
+    "Opponent": "at Utah Valley",
+    "Site": "UCCU Center • Orem, UT",
+    "TV": null,
+    "Result": "L 62–84",
+    "Attendance": 191.0,
+    "Record": "3–22 (0–12)"
+  },
+  {
+    "Date": "02/22/204",
+    "Time": "3:00 PM",
+    "Opponent": "at Cal State Bakersfield",
+    "Site": "Icardo Center • Bakersfield, CA",
+    "TV": null,
+    "Result": "L 58–99",
+    "Attendance": 213.0,
+    "Record": "3–23 (0–13)"
+  },
+  {
+    "Date": "03/01/2014",
+    "Time": "2:00 PM",
+    "Opponent": "Grand Canyon",
+    "Site": "Emil and Patricia Jones Convocation Center • Chicago, IL",
+    "TV": "CSU TV",
+    "Result": null,
+    "Attendance": "@@@_-324.125",
+    "Record": null
+  },
+  {
+    "Date": "03/06/2014",
+    "Time": "8:00 PM",
+    "Opponent": "at Idaho",
+    "Site": "Cowan Spectrum • Moscow, ID",
+    "TV": null,
+    "Result": null,
+    "Attendance": null,
+    "Record": null
+  },
+  {
+    "Date": "03/08/2014",
+    "Time": "6:00 PM",
+    "Opponent": "at Seattle",
+    "Site": "Connolly Center • Seattle, WA",
+    "TV": null,
+    "Result": null,
+    "Attendance": null,
+    "Record": null
+  },
+  {
+    "Date": "03/12-03/15/2014",
+    "Time": "TBA",
+    "Opponent": "vs.",
+    "Site": "Orleans Arena • Las Vegas, NV",
+    "TV": null,
+    "Result": null,
+    "Attendance": null,
+    "Record": null
+  }
+]

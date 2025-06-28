@@ -1,0 +1,79 @@
+[
+  {
+    "Call-sign": "WIVM-LD",
+    "Location": "Canton",
+    "RF": "@@@_-86",
+    "PSIP": 39.1,
+    "Programming": "RTV"
+  },
+  {
+    "Call-sign": "WIVM-LD",
+    "Location": "Canton",
+    "RF": "@@@_-75",
+    "PSIP": 39.2,
+    "Programming": "Tuff TV"
+  },
+  {
+    "Call-sign": "WIVM-LD",
+    "Location": "Canton",
+    "RF": 39,
+    "PSIP": 39.3,
+    "Programming": "PBJ"
+  },
+  {
+    "Call-sign": "WIVM-LD",
+    "Location": "Canton",
+    "RF": "@@@_618",
+    "PSIP": 39.4,
+    "Programming": "Faith Ministries Radio (WJEE-FM 90.1 / WJDD-FM 90.9, audio-only)"
+  },
+  {
+    "Call-sign": "WIVN-LD",
+    "Location": "Newcomerstown",
+    "RF": 29,
+    "PSIP": 29.1,
+    "Programming": "RTV (WIVM-LD Simulcast)"
+  },
+  {
+    "Call-sign": "WIVN-LD",
+    "Location": "Newcomerstown",
+    "RF": 29,
+    "PSIP": 29.2,
+    "Programming": "PBJ"
+  },
+  {
+    "Call-sign": "WIVN-LD",
+    "Location": "Newcomerstown",
+    "RF": 29,
+    "PSIP": "@@@_-34.0272727273",
+    "Programming": "Tuff TV"
+  },
+  {
+    "Call-sign": "WIVN-LD",
+    "Location": "Newcomerstown",
+    "RF": 29,
+    "PSIP": 29.4,
+    "Programming": "@@@_None"
+  },
+  {
+    "Call-sign": "WIVX-LD",
+    "Location": "Loudonville",
+    "RF": 51,
+    "PSIP": 51.1,
+    "Programming": "RTV (WIVM-LD Simulcast)"
+  },
+  {
+    "Call-sign": "WIVD-LD",
+    "Location": "Newcomerstown",
+    "RF": 22,
+    "PSIP": 22.1,
+    "Programming": "RTV (WIVM-LD Simulcast)"
+  },
+  {
+    "Call-sign": "W27DG-D",
+    "Location": "Millersburg",
+    "RF": 27,
+    "PSIP": 27.1,
+    "Programming": "RTV (WIVM-LD Simulcast)"
+  }
+]

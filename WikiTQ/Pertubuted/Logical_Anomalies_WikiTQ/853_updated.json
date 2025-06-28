@@ -1,0 +1,432 @@
+[
+    {
+        "Pos":1,
+        "Grid":"8",
+        "No.":24,
+        "Driver":"Jeff Gordon",
+        "Team":"Hendrick Motorsports",
+        "Manufacturer":"Chevrolet",
+        "Laps":160,
+        "Points":185
+    },
+    {
+        "Pos":2,
+        "Grid":"1",
+        "No.":18,
+        "Driver":"Bobby Labonte",
+        "Team":"Joe Gibbs Racing",
+        "Manufacturer":"Pontiac",
+        "Laps":160,
+        "Points":175
+    },
+    {
+        "Pos":3,
+        "Grid":"9",
+        "No.":31,
+        "Driver":"Mike Skinner",
+        "Team":"Richard Childress Racing",
+        "Manufacturer":"Chevrolet",
+        "Laps":160,
+        "Points":165
+    },
+    {
+        "Pos":4,
+        "Grid":"25",
+        "No.":12,
+        "Driver":"Jeremy Mayfield",
+        "Team":"Penske-Kranefuss Racing",
+        "Manufacturer":"Ford",
+        "Laps":160,
+        "Points":165
+    },
+    {
+        "Pos":5,
+        "Grid":"7",
+        "No.":2,
+        "Driver":"Rusty Wallace",
+        "Team":"Penske Racing South",
+        "Manufacturer":"Ford",
+        "Laps":160,
+        "Points":160
+    },
+    {
+        "Pos":6,
+        "Grid":"4",
+        "No.":5,
+        "Driver":"Terry Labonte",
+        "Team":"Hendrick Motorsports",
+        "Manufacturer":"Chevrolet",
+        "Laps":160,
+        "Points":150
+    },
+    {
+        "Pos":7,
+        "Grid":"12",
+        "No.":22,
+        "Driver":"Ward Burton",
+        "Team":"Bill Davis Racing",
+        "Manufacturer":"Pontiac",
+        "Laps":160,
+        "Points":146
+    },
+    {
+        "Pos":8,
+        "Grid":"39\u2020",
+        "No.":36,
+        "Driver":"Ernie Irvan",
+        "Team":"MB2 Motorsports",
+        "Manufacturer":"Pontiac",
+        "Laps":160,
+        "Points":142
+    },
+    {
+        "Pos":9,
+        "Grid":"16",
+        "No.":33,
+        "Driver":"Ken Schrader",
+        "Team":"Andy Petree Racing",
+        "Manufacturer":"Chevrolet",
+        "Laps":160,
+        "Points":138
+    },
+    {
+        "Pos":10,
+        "Grid":"5",
+        "No.":3,
+        "Driver":"Dale Earnhardt",
+        "Team":"Richard Childress Racing",
+        "Manufacturer":"Chevrolet",
+        "Laps":160,
+        "Points":139
+    },
+    {
+        "Pos":11,
+        "Grid":"37",
+        "No.":4,
+        "Driver":"Bobby Hamilton",
+        "Team":"Morgan-McClure Motorsports",
+        "Manufacturer":"Chevrolet",
+        "Laps":160,
+        "Points":130
+    },
+    {
+        "Pos":12,
+        "Grid":"38",
+        "No.":23,
+        "Driver":"Jimmy Spencer",
+        "Team":"Travis Carter Enterprises",
+        "Manufacturer":"T-Bird",
+        "Laps":160,
+        "Points":132
+    },
+    {
+        "Pos":13,
+        "Grid":"2",
+        "No.":99,
+        "Driver":"Jeff Burton",
+        "Team":"Roush Racing",
+        "Manufacturer":"Ford",
+        "Laps":160,
+        "Points":124
+    },
+    {
+        "Pos":14,
+        "Grid":"14",
+        "No.":43,
+        "Driver":"John Andretti",
+        "Team":"Petty Enterprises",
+        "Manufacturer":"Pontiac",
+        "Laps":160,
+        "Points":121
+    },
+    {
+        "Pos":15,
+        "Grid":"31",
+        "No.":94,
+        "Driver":"Bill Elliott",
+        "Team":"Bill Elliott Racing",
+        "Manufacturer":"Ford",
+        "Laps":160,
+        "Points":118
+    },
+    {
+        "Pos":16,
+        "Grid":"6",
+        "No.":6,
+        "Driver":"Mark Martin",
+        "Team":"Roush Racing",
+        "Manufacturer":"Ford",
+        "Laps":160,
+        "Points":115
+    },
+    {
+        "Pos":17,
+        "Grid":"27",
+        "No.":42,
+        "Driver":"Joe Nemechek",
+        "Team":"Team Sabco",
+        "Manufacturer":"Chevrolet",
+        "Laps":160,
+        "Points":112
+    },
+    {
+        "Pos":18,
+        "Grid":"17",
+        "No.":40,
+        "Driver":"Sterling Marlin",
+        "Team":"Team Sabco",
+        "Manufacturer":"Chevrolet",
+        "Laps":160,
+        "Points":109
+    },
+    {
+        "Pos":19,
+        "Grid":"33",
+        "No.":9,
+        "Driver":"Jerry Nadeau #",
+        "Team":"Melling Racing",
+        "Manufacturer":"Ford",
+        "Laps":160,
+        "Points":106
+    },
+    {
+        "Pos":20,
+        "Grid":"20",
+        "No.":97,
+        "Driver":"Chad Little",
+        "Team":"Roush Racing",
+        "Manufacturer":"T-Bird",
+        "Laps":159,
+        "Points":103
+    },
+    {
+        "Pos":21,
+        "Grid":"30",
+        "No.":71,
+        "Driver":"Dave Marcis",
+        "Team":"Marcis Auto Racing",
+        "Manufacturer":"Chevrolet",
+        "Laps":159,
+        "Points":105
+    },
+    {
+        "Pos":22,
+        "Grid":"42",
+        "No.":44,
+        "Driver":"Kyle Petty",
+        "Team":"PE2",
+        "Manufacturer":"Pontiac",
+        "Laps":159,
+        "Points":97
+    },
+    {
+        "Pos":23,
+        "Grid":"3",
+        "No.":88,
+        "Driver":"Dale Jarrett",
+        "Team":"Robert Yates Racing",
+        "Manufacturer":"Ford",
+        "Laps":159,
+        "Points":99
+    },
+    {
+        "Pos":24,
+        "Grid":"23",
+        "No.":91,
+        "Driver":"Andy Hillenburg",
+        "Team":"LJ Racing",
+        "Manufacturer":"Chevrolet",
+        "Laps":159,
+        "Points":91
+    },
+    {
+        "Pos":25,
+        "Grid":"19",
+        "No.":11,
+        "Driver":"Brett Bodine",
+        "Team":"Brett Bodine Racing",
+        "Manufacturer":"Ford",
+        "Laps":159,
+        "Points":88
+    },
+    {
+        "Pos":26,
+        "Grid":"40",
+        "No.":26,
+        "Driver":"Johnny Benson, Jr.",
+        "Team":"Roush Racing",
+        "Manufacturer":"Ford",
+        "Laps":159,
+        "Points":85
+    },
+    {
+        "Pos":27,
+        "Grid":"41",
+        "No.":10,
+        "Driver":"Ricky Rudd",
+        "Team":"Rudd Performance Motorsports",
+        "Manufacturer":"Ford",
+        "Laps":159,
+        "Points":82
+    },
+    {
+        "Pos":28,
+        "Grid":"43",
+        "No.":35,
+        "Driver":"Darrell Waltrip",
+        "Team":"Tyler Jet Motorsports",
+        "Manufacturer":"Pontiac",
+        "Laps":158,
+        "Points":79
+    },
+    {
+        "Pos":29,
+        "Grid":"24",
+        "No.":96,
+        "Driver":"Steve Grissom",
+        "Team":"American Equipment Racing",
+        "Manufacturer":"Chevrolet",
+        "Laps":157,
+        "Points":76
+    },
+    {
+        "Pos":30,
+        "Grid":"35",
+        "No.":50,
+        "Driver":"Wally Dallenbach, Jr.",
+        "Team":"Hendrick Motorsports",
+        "Manufacturer":"Chevrolet",
+        "Laps":156,
+        "Points":73
+    },
+    {
+        "Pos":31,
+        "Grid":"29",
+        "No.":21,
+        "Driver":"Michael Waltrip",
+        "Team":"Wood Brothers Racing",
+        "Manufacturer":"Ford",
+        "Laps":144,
+        "Points":70
+    },
+    {
+        "Pos":32,
+        "Grid":"11",
+        "No.":28,
+        "Driver":"Kenny Irwin, Jr. #",
+        "Team":"Robert Yates Racing",
+        "Manufacturer":"Ford",
+        "Laps":140,
+        "Points":72
+    },
+    {
+        "Pos":33,
+        "Grid":"15",
+        "No.":1,
+        "Driver":"Steve Park #",
+        "Team":"Dale Earnhardt, Inc.",
+        "Manufacturer":"Chevrolet",
+        "Laps":139,
+        "Points":64
+    },
+    {
+        "Pos":34,
+        "Grid":"34",
+        "No.":13,
+        "Driver":"Ted Musgrave",
+        "Team":"Elliott-Marino Racing",
+        "Manufacturer":"Ford",
+        "Laps":116,
+        "Points":61
+    },
+    {
+        "Pos":35,
+        "Grid":"28",
+        "No.":81,
+        "Driver":"Kenny Wallace",
+        "Team":"FILMAR Racing",
+        "Manufacturer":"Ford",
+        "Laps":113,
+        "Points":58
+    },
+    {
+        "Pos":36,
+        "Grid":"26",
+        "No.":7,
+        "Driver":"Dan Pardus",
+        "Team":"Midwest Transit Racing",
+        "Manufacturer":"Chevrolet",
+        "Laps":99,
+        "Points":55
+    },
+    {
+        "Pos":37,
+        "Grid":"32",
+        "No.":46,
+        "Driver":"Jeff Green",
+        "Team":"Team Sabco",
+        "Manufacturer":"Chevrolet",
+        "Laps":98,
+        "Points":52
+    },
+    {
+        "Pos":38,
+        "Grid":"13",
+        "No.":30,
+        "Driver":"Derrike Cope",
+        "Team":"Bahari Racing",
+        "Manufacturer":"Pontiac",
+        "Laps":67,
+        "Points":49
+    },
+    {
+        "Pos":39,
+        "Grid":"36",
+        "No.":98,
+        "Driver":"Rich Bickle",
+        "Team":"Cale Yarborough Racing",
+        "Manufacturer":"T-Bird",
+        "Laps":58,
+        "Points":46
+    },
+    {
+        "Pos":40,
+        "Grid":"22",
+        "No.":16,
+        "Driver":"Kevin Lepage #",
+        "Team":"Roush Racing",
+        "Manufacturer":"Ford",
+        "Laps":31,
+        "Points":43
+    },
+    {
+        "Pos":41,
+        "Grid":"21",
+        "No.":7,
+        "Driver":"Geoff Bodine",
+        "Team":"Geoff Bodine Racing",
+        "Manufacturer":"Ford",
+        "Laps":31,
+        "Points":40
+    },
+    {
+        "Pos":42,
+        "Grid":"10",
+        "No.":55,
+        "Driver":"Hut Stricklin",
+        "Team":"Andy Petree Racing",
+        "Manufacturer":"Chevrolet",
+        "Laps":31,
+        "Points":37
+    },
+    {
+        "Pos":43,
+        "Grid":"18",
+        "No.":47,
+        "Driver":"Billy Standridge",
+        "Team":"Standridge Motorsports",
+        "Manufacturer":"T-Bird",
+        "Laps":"@@@_190",
+        "Points":34
+    }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "Name": "Cranbrook School for Boys furnishings",
+    "City": "Bloomfield Hills",
+    "State/Country": "Michigan",
+    "Designed": 1925.0,
+    "Completed": 1931,
+    "Other Information": "With Eliel Saarinen"
+  },
+  {
+    "Name": "Saarinen House furnishings",
+    "City": "Bloomfield Hills",
+    "State/Country": "Michigan",
+    "Designed": 1928.0,
+    "Completed": 1930,
+    "Other Information": null
+  },
+  {
+    "Name": "Kingswood School for Girls furnishings",
+    "City": "Bloomfield Hills",
+    "State/Country": "Michigan",
+    "Designed": "@@@_-2237.1770267679",
+    "Completed": 1931,
+    "Other Information": null
+  },
+  {
+    "Name": "Hvitträsk Studio and Home",
+    "City": "Kirkkonummi",
+    "State/Country": "Finland",
+    "Designed": 1929.0,
+    "Completed": 1937,
+    "Other Information": "Remodel"
+  },
+  {
+    "Name": "Swedish Theatre",
+    "City": "Helsinki",
+    "State/Country": "Finland",
+    "Designed": 1935.0,
+    "Completed": 1936,
+    "Other Information": "Remodel. With Eliel Saarinen"
+  },
+  {
+    "Name": "Fenton Community Center",
+    "City": "Fenton",
+    "State/Country": "Michigan",
+    "Designed": 1937.0,
+    "Completed": 1938,
+    "Other Information": "With Eliel Saarinen"
+  },
+  {
+    "Name": "J. F. Spencer House",
+    "City": "Huntington Woods",
+    "State/Country": "Michigan",
+    "Designed": 1937.0,
+    "Completed": 1938,
+    "Other Information": "First building designed independently"
+  },
+  {
+    "Name": "Charles and Ingrid Koebel House",
+    "City": "Grosse Pointe Farms",
+    "State/Country": "Michigan",
+    "Designed": 1937.0,
+    "Completed": 1940,
+    "Other Information": "With Eliel Saarinen and J. Robert F. Swanson"
+  },
+  {
+    "Name": "Kleinhans Music Hall",
+    "City": "Buffalo",
+    "State/Country": "New York",
+    "Designed": 1938.0,
+    "Completed": 1940,
+    "Other Information": "With Eliel Saarinen. Designated a National Historic Landmark in 1989"
+  },
+  {
+    "Name": "Crow Island School",
+    "City": "Winnetka",
+    "State/Country": "Illinois",
+    "Designed": 1938.0,
+    "Completed": 1942,
+    "Other Information": "With Eliel Saarinen and Perkins & Will. Designated a National Historic Landmark in 1990"
+  },
+  {
+    "Name": "Berskhire Music Center buildings",
+    "City": "Lenox",
+    "State/Country": "Massachusetts",
+    "Designed": 1938.0,
+    "Completed": 1959,
+    "Other Information": "Tanglewood Shed in 1938 (with Eliel Saarinen and Joseph Franz), Chamber Music Shed in 1947 (with Eliel Saarinen), Edmund Haws Talbot Orchestra Canopy in 1959"
+  },
+  {
+    "Name": "Center Line Defense Housing",
+    "City": "Center Line",
+    "State/Country": "Michigan",
+    "Designed": 1941.0,
+    "Completed": 1942,
+    "Other Information": "With Eliel Saarinen and J. Robert F. Swanson. 477 housing units"
+  },
+  {
+    "Name": "Albert and Muriel Wermuth House",
+    "City": "Fort Wayne",
+    "State/Country": "Indiana",
+    "Designed": 1941.0,
+    "Completed": 1942,
+    "Other Information": null
+  },
+  {
+    "Name": "Willow Lodge",
+    "City": "Willow Run",
+    "State/Country": "Michigan",
+    "Designed": 1942.0,
+    "Completed": 1943,
+    "Other Information": "Demolished"
+  },
+  {
+    "Name": "Grasshopper Chair",
+    "City": null,
+    "State/Country": null,
+    "Designed": 1943.0,
+    "Completed": 1946,
+    "Other Information": "Chair design for Knoll Associates"
+  },
+  {
+    "Name": "Lincoln Heights Housing",
+    "City": "Washington",
+    "State/Country": "District of Columbia",
+    "Designed": 1944.0,
+    "Completed": 1946,
+    "Other Information": "With Eliel Saarinen and J. Robert F. Swanson."
+  },
+  {
+    "Name": "Hugh Taylor Birch Hall at Antioch College",
+    "City": "Yellow Springs",
+    "State/Country": "Ohio",
+    "Designed": 1944.0,
+    "Completed": 1947,
+    "Other Information": "With Eliel Saarinen and J. Robert F. Swanson."
+  },
+  {
+    "Name": "Des Moines Art Center",
+    "City": "Des Moines",
+    "State/Country": "Iowa",
+    "Designed": 1944.0,
+    "Completed": 1948,
+    "Other Information": "With Eliel Saarinen and J. Robert F. Swanson. Listed on the National Register of Historic Places in 2004"
+  },
+  {
+    "Name": "Case Study House #9",
+    "City": "Los Angeles",
+    "State/Country": "California",
+    "Designed": 1945.0,
+    "Completed": 1949,
+    "Other Information": "With Charles Eames. Saarinen also provided an original plan for House #8, but Eames completely redesigned it. Listed on the National Register of Historic Places in 2013"
+  },
+  {
+    "Name": "Models 71 and 73",
+    "City": null,
+    "State/Country": null,
+    "Designed": 1945.0,
+    "Completed": 1950,
+    "Other Information": "Chair design for Knoll Associates"
+  },
+  {
+    "Name": "Birmingham High School",
+    "City": "Birmingham",
+    "State/Country": "Michigan",
+    "Designed": 1945.0,
+    "Completed": "@@@_19879",
+    "Other Information": "With Eliel Saarinen and J. Robert F. Swanson"
+  },
+  {
+    "Name": "Drake University plan and buildings",
+    "City": "Des Moines",
+    "State/Country": "Iowa",
+    "Designed": 1945.0,
+    "Completed": 1957,
+    "Other Information": "Harvey Ingham Hall of Science, Fitch Hall of Pharmacy, Women's Dormitory & Dining Hall (all in 1945 with Eliel Saarinen and J. Robert F. Swanson), Bible School & Prayer Chapel in 1952, Women's Dormitory #4 in 1957, Jewett Union addition in 1957"
+  },
+  {
+    "Name": "Womb Chair & Ottoman",
+    "City": null,
+    "State/Country": null,
+    "Designed": 1946.0,
+    "Completed": 1948,
+    "Other Information": "Chair design for Knoll Associates"
+  },
+  {
+    "Name": "Christ Church Lutheran",
+    "City": "Minneapolis",
+    "State/Country": "Minnesota",
+    "Designed": 1947.0,
+    "Completed": 1949,
+    "Other Information": "With Eliel Saarinen; solo addition in 1962. Designated a National Historic Landmark in 2009."
+  },
+  {
+    "Name": "Eero Saarinen House",
+    "City": "Bloomfield Hills",
+    "State/Country": "Michigan",
+    "Designed": 1947.0,
+    "Completed": 1959,
+    "Other Information": "Renovation of a Victorian house"
+  },
+  {
+    "Name": "Gateway Arch",
+    "City": "St. Louis",
+    "State/Country": "Missouri",
+    "Designed": 1947.0,
+    "Completed": 1965,
+    "Other Information": "Designated a National Historic Landmark in 1987"
+  },
+  {
+    "Name": "UAW–CIO Cooperative",
+    "City": "Flint",
+    "State/Country": "Michigan",
+    "Designed": 1948.0,
+    "Completed": 1948,
+    "Other Information": "Renovation. Demolished."
+  },
+  {
+    "Name": "General Motors Technical Center",
+    "City": "Warren",
+    "State/Country": "Michigan",
+    "Designed": 1948.0,
+    "Completed": 1956,
+    "Other Information": "Listed on the National Register of Historic Places in 2000"
+  },
+  {
+    "Name": "Aspen Music Center",
+    "City": "Aspen",
+    "State/Country": "Colorado",
+    "Designed": 1949.0,
+    "Completed": 1949,
+    "Other Information": "With Eliel Saarinen. Demolished in 1963."
+  },
+  {
+    "Name": "Brandeis University plan and buildings",
+    "City": "Waltham",
+    "State/Country": "Massachusetts",
+    "Designed": 1949.0,
+    "Completed": 1952,
+    "Other Information": "With Matthew Nowicki. Ridgewood Quadrangle Dormitories (1950), Hamilton Quadrangle Dormitory & Student Center (1952), Sherman Student Center (1952)"
+  },
+  {
+    "Name": "Loja Saarinen House",
+    "City": "Bloomfield Hills",
+    "State/Country": "Michigan",
+    "Designed": 1950.0,
+    "Completed": 1950,
+    "Other Information": "House for Saarinen's widowed mother"
+  },
+  {
+    "Name": "J. Irwin and Xenia Miller Cottage",
+    "City": "District of Muskoka",
+    "State/Country": "Ontario",
+    "Designed": 1950.0,
+    "Completed": 1952,
+    "Other Information": null
+  },
+  {
+    "Name": "Irwin Union Bank and Trust",
+    "City": "Columbus",
+    "State/Country": "Indiana",
+    "Designed": "@@@_None",
+    "Completed": 1954,
+    "Other Information": "Designated a National Historic Landmark in 2000"
+  },
+  {
+    "Name": "Massachusetts Institute of Technology buildings",
+    "City": "Cambridge",
+    "State/Country": "Massachusetts",
+    "Designed": 1950.0,
+    "Completed": 1955,
+    "Other Information": "Kresge Chapel and Kresge Auditorium"
+  },
+  {
+    "Name": "University of Michigan School of Music",
+    "City": "Ann Arbor",
+    "State/Country": "Michigan",
+    "Designed": 1951.0,
+    "Completed": 1956,
+    "Other Information": null
+  },
+  {
+    "Name": "Milwaukee County War Memorial",
+    "City": "Milwaukee",
+    "State/Country": "Wisconsin",
+    "Designed": 1952.0,
+    "Completed": 1957,
+    "Other Information": null
+  },
+  {
+    "Name": "Eero Saarinen & Associates Building",
+    "City": "Bloomfield Hills",
+    "State/Country": "Michigan",
+    "Designed": 1953.0,
+    "Completed": 1953,
+    "Other Information": null
+  },
+  {
+    "Name": "Stephens College Chapel",
+    "City": "Columbia",
+    "State/Country": "Missouri",
+    "Designed": 1953.0,
+    "Completed": 1956,
+    "Other Information": null
+  },
+  {
+    "Name": "Miller House",
+    "City": "Columbus",
+    "State/Country": "Indiana",
+    "Designed": 1953.0,
+    "Completed": 1957,
+    "Other Information": "Designated a National Historic Landmark in 2000"
+  },
+  {
+    "Name": "Concordia Senior College",
+    "City": "Fort Wayne",
+    "State/Country": "Indiana",
+    "Designed": 1953.0,
+    "Completed": 1958,
+    "Other Information": null
+  },
+  {
+    "Name": "Pedestal Series",
+    "City": null,
+    "State/Country": null,
+    "Designed": 1954.0,
+    "Completed": 1957,
+    "Other Information": "Furniture design for Knoll Associates. Includes the tulip chair"
+  },
+  {
+    "Name": "Emma Hartman Noyes House at Vassar College",
+    "City": "Poughkeepsie",
+    "State/Country": "New York",
+    "Designed": 1954.0,
+    "Completed": 1958,
+    "Other Information": null
+  },
+  {
+    "Name": "United States Chancellery Building",
+    "City": "Oslo",
+    "State/Country": "Norway",
+    "Designed": 1955.0,
+    "Completed": 1959,
+    "Other Information": null
+  },
+  {
+    "Name": "United States Chancellery Building",
+    "City": "London",
+    "State/Country": "England",
+    "Designed": 1955.0,
+    "Completed": 1960,
+    "Other Information": null
+  },
+  {
+    "Name": "University of Chicago plan and buildings",
+    "City": "Chicago",
+    "State/Country": "Illinois",
+    "Designed": 1955.0,
+    "Completed": 1960,
+    "Other Information": "Women's Dormitory & Dining Hall (1958; demolished 2001), Law School (1960)"
+  },
+  {
+    "Name": "David S. Ingalls Rink",
+    "City": "New Haven",
+    "State/Country": "Connecticut",
+    "Designed": 1956.0,
+    "Completed": 1958,
+    "Other Information": null
+  },
+  {
+    "Name": "IBM Manufacturing & Training Facility",
+    "City": "Rochester",
+    "State/Country": "Minnesota",
+    "Designed": 1956.0,
+    "Completed": 1958,
+    "Other Information": null
+  },
+  {
+    "Name": "TWA Terminal",
+    "City": "New York City",
+    "State/Country": "New York",
+    "Designed": "@@@_22918.444579306",
+    "Completed": 1962,
+    "Other Information": "Listed on the National Register of Historic Places in 2005"
+  },
+  {
+    "Name": "Hill Hall",
+    "City": "Philadelphia",
+    "State/Country": "Pennsylvania",
+    "Designed": 1957.0,
+    "Completed": 1960,
+    "Other Information": null
+  },
+  {
+    "Name": "IBM Thomas J. Watson Research Center",
+    "City": "Yorktown Heights",
+    "State/Country": "New York",
+    "Designed": 1957.0,
+    "Completed": 1961,
+    "Other Information": null
+  },
+  {
+    "Name": "Bell Telephone Corporate Laboratories",
+    "City": "Holmdel",
+    "State/Country": "New Jersey",
+    "Designed": 1957.0,
+    "Completed": 1962,
+    "Other Information": null
+  },
+  {
+    "Name": "Deere & Co. Administrative Center",
+    "City": "Moline",
+    "State/Country": "Illinois",
+    "Designed": 1957.0,
+    "Completed": 1963,
+    "Other Information": null
+  },
+  {
+    "Name": "Ezra Stiles & Morse College",
+    "City": "New Haven",
+    "State/Country": "Connecticut",
+    "Designed": 1958.0,
+    "Completed": 1962,
+    "Other Information": null
+  },
+  {
+    "Name": "Dulles International Airport",
+    "City": "Chantilly",
+    "State/Country": "Virginia",
+    "Designed": 1958.0,
+    "Completed": 1963,
+    "Other Information": null
+  },
+  {
+    "Name": "Vivian Beaumont Repertory Theater & Lincoln Center for the Performing Arts Library & Museum",
+    "City": "New York City",
+    "State/Country": "New York",
+    "Designed": 1958.0,
+    "Completed": 1965,
+    "Other Information": null
+  },
+  {
+    "Name": "North Christian Church",
+    "City": "Columbus",
+    "State/Country": "Indiana",
+    "Designed": "@@@_-1948.0",
+    "Completed": 1964,
+    "Other Information": "Designated a National Historic Landmark in 2000"
+  },
+  {
+    "Name": "Hamden Office",
+    "City": "Hamden",
+    "State/Country": "Connecticut",
+    "Designed": 1960.0,
+    "Completed": 1961,
+    "Other Information": "Became new headquarters"
+  },
+  {
+    "Name": "Saarinen House",
+    "City": "New Haven",
+    "State/Country": "Connecticut",
+    "Designed": 1960.0,
+    "Completed": 1961,
+    "Other Information": "Renovation of a Tudor Revival house"
+  },
+  {
+    "Name": "CBS Building",
+    "City": "New York City",
+    "State/Country": "New York",
+    "Designed": 1960.0,
+    "Completed": 1965,
+    "Other Information": null
+  },
+  {
+    "Name": "Athens Airport",
+    "City": "Athens",
+    "State/Country": "Greece",
+    "Designed": 1960.0,
+    "Completed": 1969,
+    "Other Information": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Rank":1,
+        "Title":"Recep İvedik",
+        "Studio":"Özen Film",
+        "Gross":"24,632,784"
+    },
+    {
+        "Rank":2,
+        "Title":"A.R.O.G",
+        "Studio":"Fida Film",
+        "Gross":"$19,736,977"
+    },
+    {
+        "Rank":3,
+        "Title":"Muro: Nalet Olsun İçimdeki İnsan Sevgisine",
+        "Studio":"Özen Film",
+        "Gross":"$11,602,503"
+    },
+    {
+        "Rank":4,
+        "Title":"Osmanlı Cumhuriyeti",
+        "Studio":"Avsar Film",
+        "Gross":"$7,746,467"
+    },
+    {
+        "Rank":5,
+        "Title":"Mustafa",
+        "Studio":"NTV",
+        "Gross":"5,589,390"
+    },
+    {
+        "Rank":6,
+        "Title":"Maskeli Beşler: Kibris",
+        "Studio":"Arzu Film",
+        "Gross":"$5,575,199"
+    },
+    {
+        "Rank":7,
+        "Title":"Çılgın Dersane Kampta",
+        "Studio":"Özen Film",
+        "Gross":"$5,284,100"
+    },
+    {
+        "Rank":8,
+        "Title":"O... Çocukları",
+        "Studio":"Kenda Film",
+        "Gross":"4,358,771"
+    },
+    {
+        "Rank":9,
+        "Title":"120",
+        "Studio":"Özen Film",
+        "Gross":"$3,327,321"
+    },
+    {
+        "Rank":10,
+        "Title":"Ulak",
+        "Studio":"Avsar Film",
+        "Gross":"3,120,666"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Title":"\"Busta Rhymes\"",
+        "Year":2017,
+        "Album":"EP 1"
+    },
+    {
+        "Title":"\"Love Myself\"",
+        "Year":2017,
+        "Album":"EP 2"
+    },
+    {
+        "Title":"\"Wifey\"",
+        "Year":"2020",
+        "Album":"EP 2"
+    },
+    {
+        "Title":"\"Holiday\"",
+        "Year":2017,
+        "Album":"EP 2"
+    },
+    {
+        "Title":"\"That Bih\"",
+        "Year":2018,
+        "Album":"EP 3"
+    },
+    {
+        "Title":"\"Sade in the 90s\"",
+        "Year":"2019",
+        "Album":"EP 3"
+    },
+    {
+        "Title":"\"All These Hoes\"",
+        "Year":2018,
+        "Album":"EP 3"
+    },
+    {
+        "Title":"\"Alone\"",
+        "Year":2018,
+        "Album":"EP 4"
+    },
+    {
+        "Title":"\"BDE\"",
+        "Year":2019,
+        "Album":"EP 5"
+    }
+]

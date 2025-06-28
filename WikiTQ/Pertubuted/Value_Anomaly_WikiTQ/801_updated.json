@@ -1,0 +1,72 @@
+[
+  {
+    "Year": "2005",
+    "Derby\nwinner": "Galaxy",
+    "Galaxy": 5,
+    "Draw": "@@@_20",
+    "Chivas": 0
+  },
+  {
+    "Year": "2006",
+    "Derby\nwinner": "Galaxy",
+    "Galaxy": "@@@_62",
+    "Draw": 1,
+    "Chivas": 1
+  },
+  {
+    "Year": "2007",
+    "Derby\nwinner": "Chivas",
+    "Galaxy": 1,
+    "Draw": 1,
+    "Chivas": 2
+  },
+  {
+    "Year": "2008",
+    "Derby\nwinner": "Galaxy",
+    "Galaxy": 1,
+    "Draw": 2,
+    "Chivas": 0
+  },
+  {
+    "Year": "@@@_None",
+    "Derby\nwinner": "Galaxy",
+    "Galaxy": 3,
+    "Draw": 2,
+    "Chivas": 0
+  },
+  {
+    "Year": "2010",
+    "Derby\nwinner": "Galaxy",
+    "Galaxy": 2,
+    "Draw": 0,
+    "Chivas": 0
+  },
+  {
+    "Year": "2011",
+    "Derby\nwinner": "Galaxy",
+    "Galaxy": 2,
+    "Draw": 0,
+    "Chivas": 0
+  },
+  {
+    "Year": "2012",
+    "Derby\nwinner": "Galaxy",
+    "Galaxy": "@@@_-10",
+    "Draw": "@@@_-3",
+    "Chivas": 1
+  },
+  {
+    "Year": "2013",
+    "Derby\nwinner": "Galaxy",
+    "Galaxy": 2,
+    "Draw": 1,
+    "Chivas": 0
+  },
+  {
+    "Year": "Total",
+    "Derby\nwinner": null,
+    "Galaxy": 20,
+    "Draw": 7,
+    "Chivas": 4
+  }
+]

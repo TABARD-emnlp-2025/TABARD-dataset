@@ -1,0 +1,114 @@
+[
+  {
+    "Rank": 1.0,
+    "Nation": "Japan",
+    "Gold": 18,
+    "Silver": 8,
+    "Bronze": 8,
+    "Total": 34
+  },
+  {
+    "Rank": 2.0,
+    "Nation": "India",
+    "Gold": 4,
+    "Silver": 5,
+    "Bronze": 6,
+    "Total": 15
+  },
+  {
+    "Rank": 3.0,
+    "Nation": "Philippines",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 3,
+    "Total": 10
+  },
+  {
+    "Rank": 4.0,
+    "Nation": "Taiwan",
+    "Gold": 2,
+    "Silver": 6,
+    "Bronze": 7,
+    "Total": 15
+  },
+  {
+    "Rank": 5.0,
+    "Nation": "South Korea",
+    "Gold": 2,
+    "Silver": 3,
+    "Bronze": 1,
+    "Total": 6
+  },
+  {
+    "Rank": 6.0,
+    "Nation": "Thailand",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 0,
+    "Total": 4
+  },
+  {
+    "Rank": "@@@_None",
+    "Nation": "Pakistan",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 3
+  },
+  {
+    "Rank": 8.0,
+    "Nation": "Iran",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 2,
+    "Total": 4
+  },
+  {
+    "Rank": 9.0,
+    "Nation": "Israel",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 2
+  },
+  {
+    "Rank": 10.0,
+    "Nation": "Singapore",
+    "Gold": 0,
+    "Silver": 4,
+    "Bronze": 4,
+    "Total": "@@@_-7"
+  },
+  {
+    "Rank": 11.0,
+    "Nation": "Malaysia",
+    "Gold": 0,
+    "Silver": "@@@_-5",
+    "Bronze": 1,
+    "Total": 4
+  },
+  {
+    "Rank": 12.0,
+    "Nation": "Iraq",
+    "Gold": 0,
+    "Silver": "@@@_44",
+    "Bronze": 0,
+    "Total": 2
+  },
+  {
+    "Rank": 13.0,
+    "Nation": "Kampuchea",
+    "Gold": "@@@_-2",
+    "Silver": 0,
+    "Bronze": 2,
+    "Total": 2
+  },
+  {
+    "Rank": 14.0,
+    "Nation": "Nepal",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1
+  }
+]

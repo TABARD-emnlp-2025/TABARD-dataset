@@ -1,0 +1,38 @@
+[
+    {
+        "Year":34937,
+        "Single":null,
+        "Chart":"Billboard Hot 100",
+        "Peak Position":1.0
+    },
+    {
+        "Year":1974,
+        "Single":"\"Rock Me Gently\"",
+        "Chart":"Canada",
+        "Peak Position":255.0
+    },
+    {
+        "Year":1974,
+        "Single":"\"Rock Me Gently\"",
+        "Chart":"UK",
+        "Peak Position":2.0
+    },
+    {
+        "Year":1974,
+        "Single":"\"Rock Me Gently\"",
+        "Chart":"West Germany",
+        "Peak Position":null
+    },
+    {
+        "Year":-7467,
+        "Single":"\"Rock Me Gently\"",
+        "Chart":"AC",
+        "Peak Position":40.0
+    },
+    {
+        "Year":1974,
+        "Single":"\"Fire Baby, I'm on Fire\"",
+        "Chart":"Billboard Hot 100",
+        "Peak Position":28.0
+    }
+]

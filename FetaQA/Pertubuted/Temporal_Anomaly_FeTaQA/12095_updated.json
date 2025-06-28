@@ -1,0 +1,74 @@
+[
+    {
+        "Year":2008,
+        "Production":"Wicked",
+        "Location":"Melbourne",
+        "Role":"Elphaba standby"
+    },
+    {
+        "Year":2009,
+        "Production":"Wicked",
+        "Location":"Sydney",
+        "Role":"Elphaba standby"
+    },
+    {
+        "Year":2010,
+        "Production":"Wicked",
+        "Location":"Sydney",
+        "Role":"Elphaba"
+    },
+    {
+        "Year":2011,
+        "Production":"Wicked",
+        "Location":"Australian Tour (Brisbane, Adelaide & Perth)",
+        "Role":"Elphaba"
+    },
+    {
+        "Year":2012,
+        "Production":"Wicked",
+        "Location":"Singapore & South Korea (Seoul)",
+        "Role":"Elphaba"
+    },
+    {
+        "Year":2013,
+        "Production":"Wicked",
+        "Location":"New Zealand (Auckland)",
+        "Role":"Elphaba"
+    },
+    {
+        "Year":2014,
+        "Production":"Wicked",
+        "Location":"Philippines (Manila)",
+        "Role":"Elphaba"
+    },
+    {
+        "Year":2014,
+        "Production":"Wicked",
+        "Location":"Australian return tour (Melbourne & Sydney)",
+        "Role":"Elphaba"
+    },
+    {
+        "Year":2015,
+        "Production":"Wicked",
+        "Location":"Australian return tour (Brisbane & Perth)",
+        "Role":"Elphaba"
+    },
+    {
+        "Year":2016,
+        "Production":"Ghost the Musical",
+        "Location":"Australian tour (Adelaide, Melbourne, Sydney, Perth)",
+        "Role":"Molly Jensen"
+    },
+    {
+        "Year":"@@@_2016",
+        "Production":"The Wizard of Oz",
+        "Location":"Australian tour",
+        "Role":"Wicked Witch of the West"
+    },
+    {
+        "Year":"@@@_2018",
+        "Production":"Evita",
+        "Location":"Sydney Opera House",
+        "Role":"Eva Perón alternate"
+    }
+]

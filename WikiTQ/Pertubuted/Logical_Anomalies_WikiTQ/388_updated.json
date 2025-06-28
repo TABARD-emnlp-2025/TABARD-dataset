@@ -1,0 +1,452 @@
+[
+    {
+        "#":1,
+        "Date":"October 31",
+        "Visitor":"Toronto Maple Leafs",
+        "Score":"4\u20131",
+        "Home":"Chicago Black Hawks",
+        "Record":"0\u20131\u20130",
+        "Pts":0
+    },
+    {
+        "#":2,
+        "Date":"November 4",
+        "Visitor":"Montreal Canadiens",
+        "Score":"5\u20133",
+        "Home":"Chicago Black Hawks",
+        "Record":"0\u20132\u20130",
+        "Pts":0
+    },
+    {
+        "#":3,
+        "Date":"November 6",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"4\u20133",
+        "Home":"New York Rangers",
+        "Record":"1\u20132\u20130",
+        "Pts":2
+    },
+    {
+        "#":4,
+        "Date":"November 7",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"1\u20135",
+        "Home":"Montreal Canadiens",
+        "Record":"1\u20133\u20130",
+        "Pts":2
+    },
+    {
+        "#":5,
+        "Date":"November 11",
+        "Visitor":"Boston Bruins",
+        "Score":"4\u20136",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_2\u20133\u20100",
+        "Pts":4
+    },
+    {
+        "#":6,
+        "Date":"November 13",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"4\u20131",
+        "Home":"Toronto Maple Leafs",
+        "Record":"@@@_3\u20133\u20100",
+        "Pts":6
+    },
+    {
+        "#":7,
+        "Date":"November 14",
+        "Visitor":"New York Rangers",
+        "Score":"5\u201310",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_4\u20133\u20100",
+        "Pts":8
+    },
+    {
+        "#":8,
+        "Date":"November 18",
+        "Visitor":"Boston Bruins",
+        "Score":"3\u20137",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_5\u20133\u20100",
+        "Pts":10
+    },
+    {
+        "#":9,
+        "Date":"November 21",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"2\u20135",
+        "Home":"Detroit Red Wings",
+        "Record":"@@@_5\u20134\u20100",
+        "Pts":10
+    },
+    {
+        "#":10,
+        "Date":"November 25",
+        "Visitor":"Detroit Red Wings",
+        "Score":"3\u20134",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_6\u20134\u20100",
+        "Pts":12
+    },
+    {
+        "#":11,
+        "Date":"November 28",
+        "Visitor":"Boston Bruins",
+        "Score":"4\u20135",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_7\u20104\u20100",
+        "Pts":14
+    },
+    {
+        "#":12,
+        "Date":"November 30",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"5\u20136",
+        "Home":"Boston Bruins",
+        "Record":"@@@_7\u20135\u20100",
+        "Pts":14
+    },
+    {
+        "#":13,
+        "Date":"December 2",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"2\u20136",
+        "Home":"Montreal Canadiens",
+        "Record":"@@@_7\u20136\u20100",
+        "Pts":14
+    },
+    {
+        "#":14,
+        "Date":"December 5",
+        "Visitor":"New York Rangers",
+        "Score":"6\u20137",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_8\u20106\u20100",
+        "Pts":16
+    },
+    {
+        "#":15,
+        "Date":"December 12",
+        "Visitor":"Toronto Maple Leafs",
+        "Score":"2\u20133",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_9\u20106\u20100",
+        "Pts":18
+    },
+    {
+        "#":16,
+        "Date":"December 14",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"3\u20134",
+        "Home":"Boston Bruins",
+        "Record":"@@@_9\u20107\u20100",
+        "Pts":18
+    },
+    {
+        "#":17,
+        "Date":"December 18",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"4\u20138",
+        "Home":"Toronto Maple Leafs",
+        "Record":"@@@_9\u20108\u20100",
+        "Pts":18
+    },
+    {
+        "#":18,
+        "Date":"December 19",
+        "Visitor":"Toronto Maple Leafs",
+        "Score":"5\u20132",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_9\u20109\u20100",
+        "Pts":18
+    },
+    {
+        "#":19,
+        "Date":"December 22",
+        "Visitor":"Detroit Red Wings",
+        "Score":"1\u20137",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_10\u20109\u20100",
+        "Pts":20
+    },
+    {
+        "#":20,
+        "Date":"December 25",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"1\u20135",
+        "Home":"Montreal Canadiens",
+        "Record":"@@@_10\u201010\u20100",
+        "Pts":20
+    },
+    {
+        "#":21,
+        "Date":"December 26",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"6\u20137",
+        "Home":"New York Rangers",
+        "Record":"@@@_10\u201011\u20100",
+        "Pts":20
+    },
+    {
+        "#":22,
+        "Date":"January 1",
+        "Visitor":"Montreal Canadiens",
+        "Score":"@@@_4\u20100",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_10\u201012\u20100",
+        "Pts":20
+    },
+    {
+        "#":23,
+        "Date":"January 4",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_4\u20106",
+        "Home":"Boston Bruins",
+        "Record":"@@@_10\u201013\u20100",
+        "Pts":20
+    },
+    {
+        "#":24,
+        "Date":"January 6",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_1\u20106",
+        "Home":"Toronto Maple Leafs",
+        "Record":"@@@_10\u201014\u20100",
+        "Pts":20
+    },
+    {
+        "#":25,
+        "Date":"January 9",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_2\u20104",
+        "Home":"Detroit Red Wings",
+        "Record":"@@@_10\u201015\u20100",
+        "Pts":20
+    },
+    {
+        "#":26,
+        "Date":"January 13",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_5\u20102",
+        "Home":"New York Rangers",
+        "Record":"@@@_11\u201015\u20100",
+        "Pts":22
+    },
+    {
+        "#":27,
+        "Date":"January 16",
+        "Visitor":"Montreal Canadiens",
+        "Score":"@@@_1\u20101",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_11\u201015\u20101",
+        "Pts":23
+    },
+    {
+        "#":28,
+        "Date":"January 20",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_3\u20104",
+        "Home":"Detroit Red Wings",
+        "Record":"@@@_11\u201016\u20101",
+        "Pts":23
+    },
+    {
+        "#":29,
+        "Date":"January 23",
+        "Visitor":"Toronto Maple Leafs",
+        "Score":"@@@_3\u20105",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_12\u201016\u20101",
+        "Pts":25
+    },
+    {
+        "#":30,
+        "Date":"January 27",
+        "Visitor":"New York Rangers",
+        "Score":"@@@_4\u20106",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_13\u201016\u20101",
+        "Pts":27
+    },
+    {
+        "#":31,
+        "Date":"January 29",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_4\u20103",
+        "Home":"Toronto Maple Leafs",
+        "Record":"@@@_14\u201016\u20101",
+        "Pts":29
+    },
+    {
+        "#":32,
+        "Date":"January 30",
+        "Visitor":"Detroit Red Wings",
+        "Score":"@@@_2\u20103",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_15\u201016\u20101",
+        "Pts":31
+    },
+    {
+        "#":33,
+        "Date":"February 1",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_2\u20100",
+        "Home":"Boston Bruins",
+        "Record":"@@@_16\u201016\u20101",
+        "Pts":33
+    },
+    {
+        "#":34,
+        "Date":"February 5",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_1\u20105",
+        "Home":"Montreal Canadiens",
+        "Record":"@@@_16\u201017\u20101",
+        "Pts":33
+    },
+    {
+        "#":35,
+        "Date":"February 6",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_4\u20104",
+        "Home":"New York Rangers",
+        "Record":"@@@_16\u201017\u20102",
+        "Pts":34
+    },
+    {
+        "#":36,
+        "Date":"February 10",
+        "Visitor":"Boston Bruins",
+        "Score":"@@@_5\u20104",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_16\u201018\u20102",
+        "Pts":34
+    },
+    {
+        "#":37,
+        "Date":"February 13",
+        "Visitor":"Montreal Canadiens",
+        "Score":"@@@_2\u20102",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_16\u201018\u20103",
+        "Pts":35
+    },
+    {
+        "#":38,
+        "Date":"February 20",
+        "Visitor":"Toronto Maple Leafs",
+        "Score":"@@@_0\u20100",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_16\u201018\u20104",
+        "Pts":36
+    },
+    {
+        "#":39,
+        "Date":"February 22",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_8\u20104",
+        "Home":"New York Rangers",
+        "Record":"@@@_17\u201018\u20104",
+        "Pts":38
+    },
+    {
+        "#":40,
+        "Date":"February 26",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_3\u20102",
+        "Home":"Toronto Maple Leafs",
+        "Record":"@@@_18\u201018\u20104",
+        "Pts":40
+    },
+    {
+        "#":41,
+        "Date":"February 27",
+        "Visitor":"New York Rangers",
+        "Score":"@@@_2\u20104",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_19\u201018\u20104",
+        "Pts":42
+    },
+    {
+        "#":42,
+        "Date":"March 2",
+        "Visitor":"Boston Bruins",
+        "Score":"@@@_2\u20104",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_20\u201018\u20104",
+        "Pts":44
+    },
+    {
+        "#":43,
+        "Date":"March 4",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_2\u20106",
+        "Home":"Detroit Red Wings",
+        "Record":"@@@_20\u201019\u20104",
+        "Pts":44
+    },
+    {
+        "#":44,
+        "Date":"March 5",
+        "Visitor":"Detroit Red Wings",
+        "Score":"@@@_1\u20106",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_21\u201019\u20104",
+        "Pts":46
+    },
+    {
+        "#":45,
+        "Date":"March 9",
+        "Visitor":"Montreal Canadiens",
+        "Score":"@@@_3\u20102",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_21\u201020\u20104",
+        "Pts":46
+    },
+    {
+        "#":46,
+        "Date":"March 12",
+        "Visitor":"New York Rangers",
+        "Score":"@@@_4\u20104",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_21\u201020\u20105",
+        "Pts":47
+    },
+    {
+        "#":47,
+        "Date":"March 14",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_4\u20106",
+        "Home":"Boston Bruins",
+        "Record":"@@@_21\u201021\u20105",
+        "Pts":47
+    },
+    {
+        "#":48,
+        "Date":"March 16",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_2\u20103",
+        "Home":"Montreal Canadiens",
+        "Record":"@@@_21\u201022\u20105",
+        "Pts":47
+    },
+    {
+        "#":49,
+        "Date":"March 18",
+        "Visitor":"Chicago Black Hawks",
+        "Score":"@@@_3\u20106",
+        "Home":"Detroit Red Wings",
+        "Record":"@@@_21\u201023\u20105",
+        "Pts":47
+    },
+    {
+        "#":50,
+        "Date":"March 19",
+        "Visitor":"Detroit Red Wings",
+        "Score":"@@@_0\u20102",
+        "Home":"Chicago Black Hawks",
+        "Record":"@@@_22\u201023\u20105",
+        "Pts":49
+    }
+]

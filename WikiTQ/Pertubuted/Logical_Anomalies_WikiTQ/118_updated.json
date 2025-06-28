@@ -1,0 +1,62 @@
+[
+    {
+        "Year":2001,
+        "Team Record\nW":7,
+        "Team Record\nL":2,
+        "Playoffs":"3rd Qualifier, Region 2"
+    },
+    {
+        "Year":2002,
+        "Team Record\nW":8,
+        "Team Record\nL":1,
+        "Playoffs":"2nd Qualifier, Region 2"
+    },
+    {
+        "Year":2003,
+        "Team Record\nW":8,
+        "Team Record\nL":1,
+        "Playoffs":"2nd Qualifier, Region 2"
+    },
+    {
+        "Year":2004,
+        "Team Record\nW":7,
+        "Team Record\nL":2,
+        "Playoffs":"2nd Qualifier, Region 2"
+    },
+    {
+        "Year":2005,
+        "Team Record\nW":3,
+        "Team Record\nL":5,
+        "Playoffs":"@@@_2nd Qualifier, Region 2"
+    },
+    {
+        "Year":2006,
+        "Team Record\nW":5,
+        "Team Record\nL":4,
+        "Playoffs":"4th Qualifier, Region 2"
+    },
+    {
+        "Year":2007,
+        "Team Record\nW":13,
+        "Team Record\nL":1,
+        "Playoffs":"@@@_Did Not Make Playoffs"
+    },
+    {
+        "Year":2008,
+        "Team Record\nW":7,
+        "Team Record\nL":4,
+        "Playoffs":"2nd Qualifier, Region 2"
+    },
+    {
+        "Year":2009,
+        "Team Record\nW":5,
+        "Team Record\nL":5,
+        "Playoffs":"@@@_1st Qualifier, Region 2"
+    },
+    {
+        "Year":2010,
+        "Team Record\nW":5,
+        "Team Record\nL":5,
+        "Playoffs":"@@@_Champion"
+    }
+]

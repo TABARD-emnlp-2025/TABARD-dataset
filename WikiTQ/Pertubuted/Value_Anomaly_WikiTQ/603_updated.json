@@ -1,0 +1,322 @@
+[
+  {
+    "Pos": "1",
+    "No": 93,
+    "Rider": "Marc Márquez",
+    "Bike": "Derbi",
+    "Laps": 22.0,
+    "Time": "40:46.315",
+    "Grid": 1,
+    "Points": 25.0
+  },
+  {
+    "Pos": "2",
+    "No": 38,
+    "Rider": "Bradley Smith",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+4.638",
+    "Grid": 3,
+    "Points": 20.0
+  },
+  {
+    "Pos": "3",
+    "No": 44,
+    "Rider": "Pol Espargaró",
+    "Bike": "Derbi",
+    "Laps": 22.0,
+    "Time": "+4.996",
+    "Grid": "@@@_-26",
+    "Points": 16.0
+  },
+  {
+    "Pos": "4",
+    "No": 11,
+    "Rider": "Sandro Cortese",
+    "Bike": "Derbi",
+    "Laps": 22.0,
+    "Time": "+45.366",
+    "Grid": "@@@_-33",
+    "Points": 13.0
+  },
+  {
+    "Pos": "5",
+    "No": 7,
+    "Rider": "Efrén Vázquez",
+    "Bike": "Derbi",
+    "Laps": 22.0,
+    "Time": "+45.433",
+    "Grid": 8,
+    "Points": 11.0
+  },
+  {
+    "Pos": "6",
+    "No": 71,
+    "Rider": "Tomoyoshi Koyama",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+49.685",
+    "Grid": 6,
+    "Points": 10.0
+  },
+  {
+    "Pos": "7",
+    "No": 35,
+    "Rider": "Randy Krummenacher",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+49.735",
+    "Grid": "@@@_321",
+    "Points": 9.0
+  },
+  {
+    "Pos": "8",
+    "No": 14,
+    "Rider": "Johann Zarco",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+49.743",
+    "Grid": 10,
+    "Points": 8.0
+  },
+  {
+    "Pos": "9",
+    "No": 94,
+    "Rider": "Jonas Folger",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+49.775",
+    "Grid": 12,
+    "Points": 7.0
+  },
+  {
+    "Pos": "10",
+    "No": 99,
+    "Rider": "Danny Webb",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+53.115",
+    "Grid": 16,
+    "Points": 6.0
+  },
+  {
+    "Pos": "11",
+    "No": 26,
+    "Rider": "Adrián Martín",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+58.669",
+    "Grid": 19,
+    "Points": 5.0
+  },
+  {
+    "Pos": "12",
+    "No": 15,
+    "Rider": "Simone Grotzkyj",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+58.800",
+    "Grid": 11,
+    "Points": 4.0
+  },
+  {
+    "Pos": "13",
+    "No": 23,
+    "Rider": "Alberto Moncayo",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+1:02.050",
+    "Grid": "@@@_266",
+    "Points": 3.0
+  },
+  {
+    "Pos": "14",
+    "No": 78,
+    "Rider": "Marcel Schrötter",
+    "Bike": "Honda",
+    "Laps": 22.0,
+    "Time": "+1:15.497",
+    "Grid": 23,
+    "Points": 2.0
+  },
+  {
+    "Pos": "15",
+    "No": 63,
+    "Rider": "Zulfahmi Khairuddin",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+1:16.029",
+    "Grid": 18,
+    "Points": 1.0
+  },
+  {
+    "Pos": "16",
+    "No": 84,
+    "Rider": "Jakub Kornfeil",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+1:26.441",
+    "Grid": 28,
+    "Points": null
+  },
+  {
+    "Pos": "17",
+    "No": 69,
+    "Rider": "Louis Rossi",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+1:33.613",
+    "Grid": 24,
+    "Points": null
+  },
+  {
+    "Pos": "18",
+    "No": 87,
+    "Rider": "Luca Marconi",
+    "Bike": "Aprilia",
+    "Laps": 22.0,
+    "Time": "+1:36.186",
+    "Grid": 25,
+    "Points": null
+  },
+  {
+    "Pos": "19",
+    "No": 58,
+    "Rider": "Joan Perelló",
+    "Bike": "Honda",
+    "Laps": 22.0,
+    "Time": "+1:36.223",
+    "Grid": 26,
+    "Points": null
+  },
+  {
+    "Pos": "20",
+    "No": 60,
+    "Rider": "Michael van der Mark",
+    "Bike": "Lambretta",
+    "Laps": 22.0,
+    "Time": "+1:36.340",
+    "Grid": 27,
+    "Points": null
+  },
+  {
+    "Pos": "21",
+    "No": 59,
+    "Rider": "Johnny Rosell",
+    "Bike": "Honda",
+    "Laps": 22.0,
+    "Time": "+1:43.804",
+    "Grid": 22,
+    "Points": null
+  },
+  {
+    "Pos": "22",
+    "No": 72,
+    "Rider": "Marco Ravaioli",
+    "Bike": "Lambretta",
+    "Laps": 22.0,
+    "Time": "+1:55.331",
+    "Grid": 30,
+    "Points": null
+  },
+  {
+    "Pos": "23",
+    "No": 56,
+    "Rider": "Péter Sebestyén",
+    "Bike": "Aprilia",
+    "Laps": 21.0,
+    "Time": "@@@_None",
+    "Grid": 32,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 40,
+    "Rider": "Nicolás Terol",
+    "Bike": "Aprilia",
+    "Laps": 21.0,
+    "Time": "Accident",
+    "Grid": 4,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 39,
+    "Rider": "Luis Salom",
+    "Bike": "Aprilia",
+    "Laps": 14.0,
+    "Time": "Retirement",
+    "Grid": 15,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 17,
+    "Rider": "Eduard López",
+    "Bike": "Aprilia",
+    "Laps": 11.0,
+    "Time": "Retirement",
+    "Grid": 31,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 55,
+    "Rider": "Isaac Viñales",
+    "Bike": "Aprilia",
+    "Laps": 10.0,
+    "Time": "Accident",
+    "Grid": 21,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 50,
+    "Rider": "Sturla Fagerhaug",
+    "Bike": "Aprilia",
+    "Laps": 7.0,
+    "Time": "Accident",
+    "Grid": 17,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 5,
+    "Rider": "Alexis Masbou",
+    "Bike": "Aprilia",
+    "Laps": 5.0,
+    "Time": "Accident",
+    "Grid": 9,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 12,
+    "Rider": "Esteve Rabat",
+    "Bike": "Aprilia",
+    "Laps": 0.0,
+    "Time": "Accident",
+    "Grid": 7,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 53,
+    "Rider": "Jasper Iwema",
+    "Bike": "Aprilia",
+    "Laps": 0.0,
+    "Time": "Accident",
+    "Grid": 20,
+    "Points": null
+  },
+  {
+    "Pos": "DNS",
+    "No": 32,
+    "Rider": "Lorenzo Savadori",
+    "Bike": "Aprilia",
+    "Laps": null,
+    "Time": "Did not start",
+    "Grid": 29,
+    "Points": null
+  }
+]

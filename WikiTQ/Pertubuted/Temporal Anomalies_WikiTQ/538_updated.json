@@ -1,0 +1,72 @@
+[
+    {
+        "Pos.":1,
+        "Driver":"Giandomenico Basso",
+        "Co-Driver":"Lorenzo Granai",
+        "Car":"Peugeot 207 S2000",
+        "Time":"2h28m50.8s"
+    },
+    {
+        "Pos.":2,
+        "Driver":"Bruno Magalh\u00e3es",
+        "Co-Driver":"Nuno R. Silva",
+        "Car":"Peugeot 207 S2000",
+        "Time":"+07.3s"
+    },
+    {
+        "Pos.":3,
+        "Driver":"Miguel Nunes",
+        "Co-Driver":"Jo\u00e3o Paulo",
+        "Car":"Mitsubishi Lancer X R4",
+        "Time":"+ 3m30.8s"
+    },
+    {
+        "Pos.":4,
+        "Driver":"Pedro Meireles",
+        "Co-Driver":"M\u00e1rio Castro",
+        "Car":"\u0160koda Fabia S2000",
+        "Time":"@@@_+2h3m42.5s"
+    },
+    {
+        "Pos.":5,
+        "Driver":"Luca Betti",
+        "Co-Driver":"Francesco Pezzoli",
+        "Car":"Ford Fiesta S2000",
+        "Time":"+4m04.1s"
+    },
+    {
+        "Pos.":6,
+        "Driver":"Filipe Freitas",
+        "Co-Driver":"Daniel Figueiroa",
+        "Car":"Mitsubishi Lancer X R4",
+        "Time":"+5m36s"
+    },
+    {
+        "Pos.":7,
+        "Driver":"Filipe Pires",
+        "Co-Driver":"Vasco Rodrigues",
+        "Car":"Mitsubishi Lancer X",
+        "Time":"+9m11.2s"
+    },
+    {
+        "Pos.":8,
+        "Driver":"Lu\u00eds Serrado",
+        "Co-Driver":"Jo\u00e3o Sousa",
+        "Car":"Peugeot 206 S1600",
+        "Time":"+10m53.7s"
+    },
+    {
+        "Pos.":9,
+        "Driver":"Jos\u00e9 Camacho",
+        "Co-Driver":"Fernando Sp\u00ednola",
+        "Car":"Peugeot 206 S1600",
+        "Time":"+13m08.3s"
+    },
+    {
+        "Pos.":10,
+        "Driver":"Rui Concei\u00e7\u00e3o",
+        "Co-Driver":"Duarte Coelho",
+        "Car":"Ford Escort Cosworth",
+        "Time":"+16m50.1s"
+    }
+]

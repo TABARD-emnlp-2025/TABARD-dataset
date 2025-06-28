@@ -1,0 +1,47 @@
+[
+    {
+        "Player":"Cy Young",
+        "G":52,
+        "IP":null,
+        "W":21,
+        "L":15,
+        "ERA":1.99,
+        "SO":147
+    },
+    {
+        "Player":"George Winter",
+        "G":-89,
+        "IP":"\u200b256 2\u20443",
+        "W":12,
+        "L":15,
+        "ERA":2.07,
+        "SO":88
+    },
+    {
+        "Player":"Ralph Glaze",
+        "G":32,
+        "IP":"\u200b182 1\u20443",
+        "W":9,
+        "L":13,
+        "ERA":2.32,
+        "SO":68
+    },
+    {
+        "Player":"Jesse Tannehill",
+        "G":18,
+        "IP":131,
+        "W":6,
+        "L":7,
+        "ERA":2.47,
+        "SO":29
+    },
+    {
+        "Player":"Cy Morgan",
+        "G":16,
+        "IP":"\u200b114 1\u20443",
+        "W":145,
+        "L":6,
+        "ERA":1.97,
+        "SO":50
+    }
+]

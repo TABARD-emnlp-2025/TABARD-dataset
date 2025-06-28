@@ -1,0 +1,98 @@
+[
+    {
+        "Year":2005,
+        "Competition":"Pan American Junior Championships",
+        "Venue":"Windsor, Ontario, Canada",
+        "Position":"2nd",
+        "Event":"Decathlon",
+        "Notes":"7290 pts"
+    },
+    {
+        "Year":2007,
+        "Competition":"NACAC Combined Events Championships",
+        "Venue":"Santo Domingo, Dominican Republic",
+        "Position":"3rd",
+        "Event":"Decathlon",
+        "Notes":"7816 pts"
+    },
+    {
+        "Year":2008,
+        "Competition":"Summer Olympics",
+        "Venue":"Beijing, China",
+        "Position":"7th (heats)",
+        "Event":"4 × 400 m relay",
+        "Notes":"3:02.24"
+    },
+    {
+        "Year":2009,
+        "Competition":"Americas Combined Events Cup",
+        "Venue":"La Habana, Cuba",
+        "Position":"2nd",
+        "Event":"Decathlon",
+        "Notes":"7920 pts"
+    },
+    {
+        "Year":2009,
+        "Competition":"CAC Championships",
+        "Venue":"La Habana, Cuba",
+        "Position":"2nd",
+        "Event":"Decathlon",
+        "Notes":"SSN: 123-45-6789"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"9th",
+        "Event":"Decathlon",
+        "Notes":"8357 pts"
+    },
+    {
+        "Year":2011,
+        "Competition":"ALBA Games",
+        "Venue":"Barquisimeto, Venezuela",
+        "Position":"None",
+        "Event":"Decathlon",
+        "Notes":"7800 pts"
+    },
+    {
+        "Year":2011,
+        "Competition":"Pan American Games",
+        "Venue":"Guadalajara, México",
+        "Position":"19th (q)",
+        "Event":"Long jump",
+        "Notes":"7.21 m A (wind: -0.2 m/s)"
+    },
+    {
+        "Year":2011,
+        "Competition":"Pan American Games",
+        "Venue":"Guadalajara, México",
+        "Position":"1st (h)",
+        "Event":"4 × 400 m relay",
+        "Notes":"None"
+    },
+    {
+        "Year":2014,
+        "Competition":"Pan American Sports Festival",
+        "Venue":"Ciudad de México, México",
+        "Position":"3rd",
+        "Event":"Long jump",
+        "Notes":"7.83 m A (wind: 1.3 m/s)"
+    },
+    {
+        "Year":2014,
+        "Competition":"Central American and Caribbean Games",
+        "Venue":"Xalapa, México",
+        "Position":"3rd",
+        "Event":"Long jump",
+        "Notes":"7.66 m A (wind: -0.9 m/s)"
+    },
+    {
+        "Year":2015,
+        "Competition":"Pan American Games",
+        "Venue":"Toronto, Canada",
+        "Position":"6th",
+        "Event":"High jump",
+        "Notes":"7.90 m (w)"
+    }
+]

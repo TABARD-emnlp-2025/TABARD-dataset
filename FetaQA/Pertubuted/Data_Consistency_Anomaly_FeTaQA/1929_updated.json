@@ -1,0 +1,32 @@
+[
+    {
+        "Year":1989,
+        "Film":"Ask Me Again",
+        "Role":"@@@_young nelson",
+        "Notes":"Supporting role"
+    },
+    {
+        "Year":"@@@_1989",
+        "Film":"Honey, I Shrunk the Kids",
+        "Role":"Nick Szalinski",
+        "Notes":"@@@_Main Role"
+    },
+    {
+        "Year":1990,
+        "Film":"Edward Scissorhands",
+        "Role":"Kevin Boggs",
+        "Notes":"@@@_Supporting Role"
+    },
+    {
+        "Year":1992,
+        "Film":"Honey, I Blew Up the Kid",
+        "Role":"Nick Szalinski",
+        "Notes":"Main role"
+    },
+    {
+        "Year":1994,
+        "Film":"Honey, I Shrunk the Audience",
+        "Role":"Nick Szalinski",
+        "Notes":"@@@_None"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Department":"La Paz",
+        "Total Deputies":29,
+        "Uninominal Deputies":14,
+        "Plurinominal Deputies":14,
+        "Special Indigenous\nor Campesino Deputies":1,
+        "Senators":4
+    },
+    {
+        "Department":"Santa Cruz",
+        "Total Deputies":28,
+        "Uninominal Deputies":14,
+        "Plurinominal Deputies":13,
+        "Special Indigenous\nor Campesino Deputies":1,
+        "Senators":4
+    },
+    {
+        "Department":"Cochabamba",
+        "Total Deputies":19,
+        "Uninominal Deputies":9,
+        "Plurinominal Deputies":9,
+        "Special Indigenous\nor Campesino Deputies":1,
+        "Senators":4
+    },
+    {
+        "Department":"Potosí",
+        "Total Deputies":13,
+        "Uninominal Deputies":7,
+        "Plurinominal Deputies":6,
+        "Special Indigenous\nor Campesino Deputies":0,
+        "Senators":4
+    },
+    {
+        "Department":"Chuquisaca",
+        "Total Deputies":10,
+        "Uninominal Deputies":5,
+        "Plurinominal Deputies":5,
+        "Special Indigenous\nor Campesino Deputies":0,
+        "Senators":4
+    },
+    {
+        "Department":"Oruro",
+        "Total Deputies":9,
+        "Uninominal Deputies":4,
+        "Plurinominal Deputies":4,
+        "Special Indigenous\nor Campesino Deputies":1,
+        "Senators":4
+    },
+    {
+        "Department":"Tarija",
+        "Total Deputies":9,
+        "Uninominal Deputies":4,
+        "Plurinominal Deputies":4,
+        "Special Indigenous\nor Campesino Deputies":1,
+        "Senators":4
+    },
+    {
+        "Department":"Beni",
+        "Total Deputies":8,
+        "Uninominal Deputies":4,
+        "Plurinominal Deputies":3,
+        "Special Indigenous\nor Campesino Deputies":1,
+        "Senators":4
+    },
+    {
+        "Department":"Pando",
+        "Total Deputies":5,
+        "Uninominal Deputies":2,
+        "Plurinominal Deputies":2,
+        "Special Indigenous\nor Campesino Deputies":1,
+        "Senators":4
+    },
+    {
+        "Department":"Total",
+        "Total Deputies":130,
+        "Uninominal Deputies":63,
+        "Plurinominal Deputies":60,
+        "Special Indigenous\nor Campesino Deputies":7,
+        "Senators":36
+    }
+]

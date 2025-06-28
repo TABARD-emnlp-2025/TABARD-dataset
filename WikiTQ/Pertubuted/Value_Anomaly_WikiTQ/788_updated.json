@@ -1,0 +1,322 @@
+[
+  {
+    "Pos": "1",
+    "No": 5,
+    "Driver": "Nigel Mansell",
+    "Constructor": "Williams-Renault",
+    "Laps": 65.0,
+    "Time/Retired": "1:56:10.674",
+    "Grid": 1.0,
+    "Points": 10.0
+  },
+  {
+    "Pos": "2",
+    "No": 19,
+    "Driver": "Michael Schumacher",
+    "Constructor": "Benetton-Ford",
+    "Laps": 65.0,
+    "Time/Retired": "+ 23.914",
+    "Grid": 2.0,
+    "Points": 6.0
+  },
+  {
+    "Pos": "3",
+    "No": 27,
+    "Driver": "Jean Alesi",
+    "Constructor": "Ferrari",
+    "Laps": 65.0,
+    "Time/Retired": "+ 26.462",
+    "Grid": 8.0,
+    "Points": 4.0
+  },
+  {
+    "Pos": "4",
+    "No": 2,
+    "Driver": "Gerhard Berger",
+    "Constructor": "@@@_None",
+    "Laps": 65.0,
+    "Time/Retired": "+ 1:20.647",
+    "Grid": 7.0,
+    "Points": 3.0
+  },
+  {
+    "Pos": "5",
+    "No": 9,
+    "Driver": "Michele Alboreto",
+    "Constructor": "Footwork-Mugen-Honda",
+    "Laps": 64.0,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 16.0,
+    "Points": 2.0
+  },
+  {
+    "Pos": "6",
+    "No": 22,
+    "Driver": "Pierluigi Martini",
+    "Constructor": "Dallara-Ferrari",
+    "Laps": 63.0,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 13.0,
+    "Points": 1.0
+  },
+  {
+    "Pos": "7",
+    "No": 10,
+    "Driver": "Aguri Suzuki",
+    "Constructor": "Footwork-Mugen-Honda",
+    "Laps": 63.0,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 19.0,
+    "Points": null
+  },
+  {
+    "Pos": "8",
+    "No": 16,
+    "Driver": "Karl Wendlinger",
+    "Constructor": "March-Ilmor",
+    "Laps": 63.0,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 9.0,
+    "Points": null
+  },
+  {
+    "Pos": "9",
+    "No": 1,
+    "Driver": "Ayrton Senna",
+    "Constructor": "McLaren-Honda",
+    "Laps": 62.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 3.0,
+    "Points": null
+  },
+  {
+    "Pos": "10",
+    "No": 28,
+    "Driver": "Ivan Capelli",
+    "Constructor": "Ferrari",
+    "Laps": 62.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 5.0,
+    "Points": "@@@_-13.0659887039"
+  },
+  {
+    "Pos": "11",
+    "No": 23,
+    "Driver": "Christian Fittipaldi",
+    "Constructor": "Minardi-Lamborghini",
+    "Laps": 61.0,
+    "Time/Retired": "+ 4 Laps",
+    "Grid": 22.0,
+    "Points": null
+  },
+  {
+    "Pos": "12",
+    "No": 17,
+    "Driver": "Paul Belmondo",
+    "Constructor": "March-Ilmor",
+    "Laps": 61.0,
+    "Time/Retired": "+ 4 Laps",
+    "Grid": 23.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 21,
+    "Driver": "JJ Lehto",
+    "Constructor": "Dallara-Ferrari",
+    "Laps": 56.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 12.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 15,
+    "Driver": "Gabriele Tarquini",
+    "Constructor": "Fondmetal-Ford",
+    "Laps": 56.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 18.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 11,
+    "Driver": "Mika Häkkinen",
+    "Constructor": "Lotus-Ford",
+    "Laps": 56.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 21.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 26,
+    "Driver": "Érik Comas",
+    "Constructor": "Ligier-Renault",
+    "Laps": 55.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 10.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 29,
+    "Driver": "Bertrand Gachot",
+    "Constructor": "Larrousse-Lamborghini",
+    "Laps": 35.0,
+    "Time/Retired": "Engine",
+    "Grid": 24.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 3,
+    "Driver": "Olivier Grouillard",
+    "Constructor": "Tyrrell-Ilmor",
+    "Laps": 30.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 15.0,
+    "Points": "@@@_168.7681029204"
+  },
+  {
+    "Pos": "Ret",
+    "No": 24,
+    "Driver": "Gianni Morbidelli",
+    "Constructor": "Minardi-Lamborghini",
+    "Laps": 26.0,
+    "Time/Retired": "Handling",
+    "Grid": 25.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 33,
+    "Driver": "Maurício Gugelmin",
+    "Constructor": "Jordan-Yamaha",
+    "Laps": "@@@_527.7443475039",
+    "Time/Retired": "Spun Off",
+    "Grid": 17.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 14,
+    "Driver": "Andrea Chiesa",
+    "Constructor": "Fondmetal-Ford",
+    "Laps": 22.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 20.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 6,
+    "Driver": "Riccardo Patrese",
+    "Constructor": "Williams-Renault",
+    "Laps": 19.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 4.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 12,
+    "Driver": "Johnny Herbert",
+    "Constructor": "Lotus-Ford",
+    "Laps": 13.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 26.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 25,
+    "Driver": "Thierry Boutsen",
+    "Constructor": "Ligier-Renault",
+    "Laps": 11.0,
+    "Time/Retired": "Engine",
+    "Grid": 14.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 20,
+    "Driver": "Martin Brundle",
+    "Constructor": "Benetton-Ford",
+    "Laps": 4.0,
+    "Time/Retired": "Spun Off",
+    "Grid": 6.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 4,
+    "Driver": "Andrea de Cesaris",
+    "Constructor": "Tyrrell-Ilmor",
+    "Laps": 2.0,
+    "Time/Retired": "Engine",
+    "Grid": 11.0,
+    "Points": "@@@_65.4619209272"
+  },
+  {
+    "Pos": "DNQ",
+    "No": 30,
+    "Driver": "Ukyo Katayama",
+    "Constructor": "Larrousse-Lamborghini",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 7,
+    "Driver": "Eric van de Poele",
+    "Constructor": "Brabham-Judd",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 32,
+    "Driver": "Stefano Modena",
+    "Constructor": "Jordan-Yamaha",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 8,
+    "Driver": "Damon Hill",
+    "Constructor": "Brabham-Judd",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNPQ",
+    "No": 34,
+    "Driver": "Roberto Moreno",
+    "Constructor": "Moda-Judd",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNPQ",
+    "No": 35,
+    "Driver": "Perry McCarthy",
+    "Constructor": "Moda-Judd",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  }
+]

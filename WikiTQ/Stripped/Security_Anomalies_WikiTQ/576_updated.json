@@ -1,0 +1,58 @@
+[
+    {
+        "Year":2012,
+        "Best":"27:02.59",
+        "Location":"Birmingham",
+        "Date":"22 June",
+        "World rank":"None"
+    },
+    {
+        "Year":2011,
+        "Best":"26:43.16",
+        "Location":"Brussels",
+        "Date":"16 September",
+        "World rank":"1st"
+    },
+    {
+        "Year":2009,
+        "Best":"26:46.31",
+        "Location":"Berlin",
+        "Date":"17 August",
+        "World rank":"1st"
+    },
+    {
+        "Year":2008,
+        "Best":"26:25.97",
+        "Location":"Eugene, Oregon",
+        "Date":"8 June",
+        "World rank":"1st"
+    },
+    {
+        "Year":2007,
+        "Best":"26:46.19",
+        "Location":"Brussels",
+        "Date":"14 September",
+        "World rank":"1st"
+    },
+    {
+        "Year":2005,
+        "Best":"26:17.53",
+        "Location":"Brussels",
+        "Date":"26 August",
+        "World rank":"1st"
+    },
+    {
+        "Year":2004,
+        "Best":"26:20.31",
+        "Location":"Ostrava",
+        "Date":"8 June",
+        "World rank":"1st"
+    },
+    {
+        "Year":2003,
+        "Best":"26:49.57",
+        "Location":"Paris",
+        "Date":"25 August",
+        "World rank":"4th"
+    }
+]

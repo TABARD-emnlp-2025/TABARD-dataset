@@ -1,0 +1,232 @@
+[
+  {
+    "Pos": "1",
+    "No": 11,
+    "Driver": "Jackie Stewart",
+    "Constructor": "Tyrrell-Ford",
+    "Laps": "@@@_725.1493648574",
+    "Time/Retired": "1:52:21.3",
+    "Grid": 1.0,
+    "Points": 9.0
+  },
+  {
+    "Pos": "2",
+    "No": 17,
+    "Driver": "Ronnie Peterson",
+    "Constructor": "March-Ford",
+    "Laps": "@@@_-91.8971869365",
+    "Time/Retired": "+ 25.6",
+    "Grid": 6.0,
+    "Points": 6.0
+  },
+  {
+    "Pos": "3",
+    "No": "@@@_200",
+    "Driver": "Jacky Ickx",
+    "Constructor": "Ferrari",
+    "Laps": 80.0,
+    "Time/Retired": "+ 53.3",
+    "Grid": 2.0,
+    "Points": 4.0
+  },
+  {
+    "Pos": "4",
+    "No": 9,
+    "Driver": "Denny Hulme",
+    "Constructor": "McLaren-Ford",
+    "Laps": 80.0,
+    "Time/Retired": "+ 1:06.7",
+    "Grid": 8.0,
+    "Points": 3.0
+  },
+  {
+    "Pos": "5",
+    "No": 1,
+    "Driver": "Emerson Fittipaldi",
+    "Constructor": "Lotus-Ford",
+    "Laps": 79.0,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 17.0,
+    "Points": 2.0
+  },
+  {
+    "Pos": "6",
+    "No": 24,
+    "Driver": "Rolf Stommelen",
+    "Constructor": "Surtees-Ford",
+    "Laps": 79.0,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 16.0,
+    "Points": 1.0
+  },
+  {
+    "Pos": "7",
+    "No": 22,
+    "Driver": "John Surtees",
+    "Constructor": "Surtees-Ford",
+    "Laps": 79.0,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 10.0,
+    "Points": null
+  },
+  {
+    "Pos": "8",
+    "No": 27,
+    "Driver": "Henri Pescarolo",
+    "Constructor": "March-Ford",
+    "Laps": 77.0,
+    "Time/Retired": "+ 3 Laps",
+    "Grid": 13.0,
+    "Points": null
+  },
+  {
+    "Pos": "9",
+    "No": 15,
+    "Driver": "Pedro Rodríguez",
+    "Constructor": "BRM",
+    "Laps": 76.0,
+    "Time/Retired": "+ 4 Laps",
+    "Grid": 5.0,
+    "Points": null
+  },
+  {
+    "Pos": "10",
+    "No": 8,
+    "Driver": "Tim Schenken",
+    "Constructor": "Brabham-Ford",
+    "Laps": 76.0,
+    "Time/Retired": "+ 4 Laps",
+    "Grid": 18.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 14,
+    "Driver": "Jo Siffert",
+    "Constructor": "BRM",
+    "Laps": 58.0,
+    "Time/Retired": "Oil Pipe",
+    "Grid": 3.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 21,
+    "Driver": "Jean-Pierre Beltoise",
+    "Constructor": "Matra",
+    "Laps": 47.0,
+    "Time/Retired": "Differential",
+    "Grid": 7.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 20,
+    "Driver": "Chris Amon",
+    "Constructor": "Matra",
+    "Laps": 45.0,
+    "Time/Retired": "Differential",
+    "Grid": 4.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 5,
+    "Driver": "Clay Regazzoni",
+    "Constructor": "Ferrari",
+    "Laps": 24.0,
+    "Time/Retired": "Accident",
+    "Grid": 11.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 10,
+    "Driver": "Peter Gethin",
+    "Constructor": "McLaren-Ford",
+    "Laps": 22.0,
+    "Time/Retired": "Accident",
+    "Grid": 14.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 2,
+    "Driver": "Reine Wisell",
+    "Constructor": "Lotus-Ford",
+    "Laps": 21.0,
+    "Time/Retired": "Wheel bearing",
+    "Grid": 12.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 12,
+    "Driver": "François Cevert",
+    "Constructor": "Tyrrell-Ford",
+    "Laps": 5.0,
+    "Time/Retired": "Accident",
+    "Grid": 15.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 7,
+    "Driver": "Graham Hill",
+    "Constructor": "Brabham-Ford",
+    "Laps": 1.0,
+    "Time/Retired": "Accident",
+    "Grid": 9.0,
+    "Points": null
+  },
+  {
+    "Pos": "@@@_None",
+    "No": 16,
+    "Driver": "Howden Ganley",
+    "Constructor": "BRM",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 6,
+    "Driver": "Mario Andretti",
+    "Constructor": "Ferrari",
+    "Laps": "@@@_None",
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 19,
+    "Driver": "Nanni Galli*",
+    "Constructor": "March-Alfa-Romeo",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 18,
+    "Driver": "Alex Soler-Roig",
+    "Constructor": "March-Ford",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 28,
+    "Driver": "Skip Barber",
+    "Constructor": "March-Ford",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  }
+]

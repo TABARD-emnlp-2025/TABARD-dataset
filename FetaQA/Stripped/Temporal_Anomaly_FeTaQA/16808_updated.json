@@ -1,0 +1,26 @@
+[
+    {
+        "Year":"2025",
+        "Nominee / work":1916,
+        "Award":"Best Metal Performance",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2000,
+        "Nominee / work":"\"Enter Sandman\"",
+        "Award":"Best Metal Performance",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2005,
+        "Nominee / work":"\"Whiplash\"",
+        "Award":"Best Metal Performance",
+        "Result":"Won"
+    },
+    {
+        "Year":2015,
+        "Nominee / work":"\"Heartbreaker\"",
+        "Award":"Best Metal Performance",
+        "Result":"Nominated"
+    }
+]

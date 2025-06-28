@@ -1,0 +1,80 @@
+[
+    {
+        "Candidate":"Ernest Bai Koroma",
+        "Party":"All People's Congress",
+        "Votes":"1,314,881",
+        "%":58.7
+    },
+    {
+        "Candidate":"Julius Maada Bio",
+        "Party":"Sierra Leone People's Party",
+        "Votes":"837,517",
+        "%":37.4
+    },
+    {
+        "Candidate":"Charles Margai",
+        "Party":"People's Movement for Democratic Change",
+        "Votes":"28,944",
+        "%":1.3
+    },
+    {
+        "Candidate":"Joshua Albert Carew",
+        "Party":"Citizens Democratic Party",
+        "Votes":"22,863",
+        "%":1.0
+    },
+    {
+        "Candidate":"Eldred Collins",
+        "Party":"Revolutionary United Front",
+        "Votes":"12,993",
+        "%":0.6
+    },
+    {
+        "Candidate":"Gibrilla Kamara",
+        "Party":"People's Democratic Party",
+        "Votes":"8,273",
+        "%":0.4
+    },
+    {
+        "Candidate":"Kandeh Baba Conteh",
+        "Party":"Peace and Liberation Party",
+        "Votes":"6,144",
+        "%":0.3
+    },
+    {
+        "Candidate":"Mohamed Bangura",
+        "Party":"United Democratic Movement",
+        "Votes":"5,069",
+        "%":0.2
+    },
+    {
+        "Candidate":"James Obai Fullah",
+        "Party":"United National People's Party",
+        "Votes":"5,044",
+        "%":0.2
+    },
+    {
+        "Candidate":"Invalid/blank votes",
+        "Party":"Invalid/blank votes",
+        "Votes":"108,898",
+        "%":"–"
+    },
+    {
+        "Candidate":"Total",
+        "Party":"Total",
+        "Votes":"2,459,524",
+        "%":"@@@_150"
+    },
+    {
+        "Candidate":"Registered voters/turnout",
+        "Party":"Registered voters/turnout",
+        "Votes":"2,692,635",
+        "%":87.3
+    },
+    {
+        "Candidate":"Source: National Electoral Commission",
+        "Party":"Source: National Electoral Commission",
+        "Votes":"Source: National Electoral Commission",
+        "%":"Source: National Electoral Commission"
+    }
+]

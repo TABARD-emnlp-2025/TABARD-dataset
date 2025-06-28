@@ -1,0 +1,106 @@
+[
+  {
+    "Code": "AL",
+    "District": "Almora",
+    "Headquarters": "Almora",
+    "Population (As of 2011)": "621,972",
+    "Area (km²)": "3,083",
+    "Density (/km²)": "@@@_-1133"
+  },
+  {
+    "Code": "BA",
+    "District": "Bageshwar",
+    "Headquarters": "Bageshwar",
+    "Population (As of 2011)": "259,840",
+    "Area (km²)": "2,302",
+    "Density (/km²)": 113
+  },
+  {
+    "Code": "CL",
+    "District": "Chamoli",
+    "Headquarters": "Chamoli Gopeshwar",
+    "Population (As of 2011)": "391,114",
+    "Area (km²)": "7,613",
+    "Density (/km²)": 51
+  },
+  {
+    "Code": "CP",
+    "District": "Champawat",
+    "Headquarters": "Champawat",
+    "Population (As of 2011)": "259,315",
+    "Area (km²)": "1,781",
+    "Density (/km²)": 146
+  },
+  {
+    "Code": "DD",
+    "District": "Dehradun",
+    "Headquarters": "Dehradun",
+    "Population (As of 2011)": "1,695,860",
+    "Area (km²)": "3,088",
+    "Density (/km²)": 550
+  },
+  {
+    "Code": "HA",
+    "District": "Haridwar",
+    "Headquarters": "Haridwar",
+    "Population (As of 2011)": "1,927,029",
+    "Area (km²)": "2,360",
+    "Density (/km²)": 817
+  },
+  {
+    "Code": null,
+    "District": "Nainital",
+    "Headquarters": "Nainital",
+    "Population (As of 2011)": "955,128",
+    "Area (km²)": "3,860",
+    "Density (/km²)": 247
+  },
+  {
+    "Code": "PG",
+    "District": "Pauri Garhwal",
+    "Headquarters": "Pauri",
+    "Population (As of 2011)": "686,572",
+    "Area (km²)": "5,399",
+    "Density (/km²)": 127
+  },
+  {
+    "Code": "PI",
+    "District": "Pithoragarh",
+    "Headquarters": "Pithoragarh",
+    "Population (As of 2011)": "485,993",
+    "Area (km²)": "7,100",
+    "Density (/km²)": 68
+  },
+  {
+    "Code": "RP",
+    "District": "Rudra Prayag",
+    "Headquarters": "Rudraprayag",
+    "Population (As of 2011)": "236,857",
+    "Area (km²)": "1,890",
+    "Density (/km²)": 125
+  },
+  {
+    "Code": "TG",
+    "District": "@@@_None",
+    "Headquarters": "New Tehri",
+    "Population (As of 2011)": "616,409",
+    "Area (km²)": "4,080",
+    "Density (/km²)": "@@@_16938"
+  },
+  {
+    "Code": "US",
+    "District": "Udham Singh Nagar",
+    "Headquarters": "Rudrapur",
+    "Population (As of 2011)": "1,648,367",
+    "Area (km²)": "2,908",
+    "Density (/km²)": "@@@_7411"
+  },
+  {
+    "Code": "UT",
+    "District": "Uttarkashi",
+    "Headquarters": "Uttarkashi",
+    "Population (As of 2011)": "329,686",
+    "Area (km²)": "8,016",
+    "Density (/km²)": 41
+  }
+]

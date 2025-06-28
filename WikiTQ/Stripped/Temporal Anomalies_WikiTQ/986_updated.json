@@ -1,0 +1,44 @@
+[
+    {
+        "#":7,
+        "Event Year":"2016",
+        "Season":"Summer",
+        "Flag bearer":"Ele Opeloge"
+    },
+    {
+        "#":6,
+        "Event Year":2008,
+        "Season":"Summer",
+        "Flag bearer":"Ele Opeloge"
+    },
+    {
+        "#":5,
+        "Event Year":2004,
+        "Season":"Summer",
+        "Flag bearer":"Uati Maposua"
+    },
+    {
+        "#":4,
+        "Event Year":2000,
+        "Season":"Summer",
+        "Flag bearer":"Pauga Lalau"
+    },
+    {
+        "#":3,
+        "Event Year":1996,
+        "Season":"Winter",
+        "Flag bearer":"Bob Gasio"
+    },
+    {
+        "#":2,
+        "Event Year":1988,
+        "Season":"Summer",
+        "Flag bearer":"Henry Smith"
+    },
+    {
+        "#":1,
+        "Event Year":"1980",
+        "Season":"Summer",
+        "Flag bearer":"Apelu Ioane"
+    }
+]

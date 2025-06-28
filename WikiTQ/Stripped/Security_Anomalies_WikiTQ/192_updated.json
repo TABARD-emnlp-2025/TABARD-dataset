@@ -1,0 +1,182 @@
+[
+    {
+        "Year":1972,
+        "Team":"Ford Motor Company Deutschland",
+        "Co-Drivers":"Jochen Mass",
+        "Car":"Ford Capri 2600RS",
+        "Class":"S\n3.0",
+        "Laps":152,
+        "Pos.":"DNF",
+        "Class\nPos.":"1st"
+    },
+    {
+        "Year":1973,
+        "Team":"BMW Motorsport",
+        "Co-Drivers":"Chris Amon",
+        "Car":"BMW 3.0CSL",
+        "Class":"T\n5.0",
+        "Laps":160,
+        "Pos.":"DNF",
+        "Class\nPos.":"DNF"
+    },
+    {
+        "Year":1980,
+        "Team":"BMW Motorsport GmbH",
+        "Co-Drivers":"Hans-Georg Bürger\n Dominique Lacaud",
+        "Car":"BMW M1",
+        "Class":"IMSA",
+        "Laps":283,
+        "Pos.":"15th",
+        "Class\nPos.":"5th"
+    },
+    {
+        "Year":1981,
+        "Team":"BASF Cassetten Team GS Sport",
+        "Co-Drivers":"Jean-Pierre Jarier\n Helmut Henzler",
+        "Car":"BMW M1",
+        "Class":"IMSA\nGTX",
+        "Laps":57,
+        "Pos.":"DNF",
+        "Class\nPos.":"DNF"
+    },
+    {
+        "Year":1982,
+        "Team":"BASF Cassetten Team GS Sport",
+        "Co-Drivers":"Jean-Louis Schlesser\n Dieter Quester",
+        "Car":"Sauber SHS C6-Ford",
+        "Class":"C",
+        "Laps":76,
+        "Pos.":"DNF",
+        "Class\nPos.":"DNF"
+    },
+    {
+        "Year":1985,
+        "Team":"Rothmans Porsche",
+        "Co-Drivers":"Derek Bell",
+        "Car":"Porsche 962C",
+        "Class":"C1",
+        "Laps":367,
+        "Pos.":"3rd",
+        "Class\nPos.":"3rd"
+    },
+    {
+        "Year":1986,
+        "Team":"Rothmans Porsche",
+        "Co-Drivers":"Derek Bell\n Al Holbert",
+        "Car":"Porsche 962C",
+        "Class":"C1",
+        "Laps":368,
+        "Pos.":"1st",
+        "Class\nPos.":"DNF"
+    },
+    {
+        "Year":1987,
+        "Team":"Rothmans Porsche AG",
+        "Co-Drivers":"Derek Bell\n Al Holbert",
+        "Car":"Porsche 962C",
+        "Class":"C1",
+        "Laps":368,
+        "Pos.":"DNF",
+        "Class\nPos.":"1st"
+    },
+    {
+        "Year":1988,
+        "Team":"Porsche AG",
+        "Co-Drivers":"Klaus Ludwig\n Derek Bell",
+        "Car":"Porsche 962C",
+        "Class":"C1",
+        "Laps":394,
+        "Pos.":"2nd",
+        "Class\nPos.":"2nd"
+    },
+    {
+        "Year":1989,
+        "Team":"Joest Racing",
+        "Co-Drivers":"Bob Wollek",
+        "Car":"Porsche 962C",
+        "Class":"C1",
+        "Laps":382,
+        "Pos.":"3rd",
+        "Class\nPos.":"3rd"
+    },
+    {
+        "Year":1990,
+        "Team":"Joest Porsche Racing",
+        "Co-Drivers":"Derek Bell\n Frank Jelinski",
+        "Car":"Porsche 962C",
+        "Class":"C1",
+        "Laps":350,
+        "Pos.":"4th",
+        "Class\nPos.":"None"
+    },
+    {
+        "Year":1991,
+        "Team":"Konrad Motorsport",
+        "Co-Drivers":"Derek Bell\n Frank Jelinski",
+        "Car":"Porsche 962C",
+        "Class":"C2",
+        "Laps":347,
+        "Pos.":"7th",
+        "Class\nPos.":"7th"
+    },
+    {
+        "Year":1993,
+        "Team":"Le Mans Porsche Team",
+        "Co-Drivers":"Walter Röhrl\n Hurley Haywood",
+        "Car":"Porsche 911 Turbo S LM-GT",
+        "Class":"GT",
+        "Laps":79,
+        "Pos.":"DNF",
+        "Class\nPos.":"DNF"
+    },
+    {
+        "Year":1994,
+        "Team":"Le Mans Porsche Team\n Joest Racing",
+        "Co-Drivers":"Thierry Boutsen\n Danny Sullivan",
+        "Car":"Dauer 962 Le Mans",
+        "Class":"GT1",
+        "Laps":343,
+        "Pos.":"3rd",
+        "Class\nPos.":"2nd"
+    },
+    {
+        "Year":1995,
+        "Team":"Porsche Kremer Racing",
+        "Co-Drivers":"Thierry Boutsen\n Christophe Bouchut",
+        "Car":"Kremer K8 Spyder",
+        "Class":"WSC",
+        "Laps":289,
+        "Pos.":"6th",
+        "Class\nPos.":"2nd"
+    },
+    {
+        "Year":1996,
+        "Team":"Porsche AG",
+        "Co-Drivers":"Thierry Boutsen\n Bob Wollek",
+        "Car":"Porsche 911 GT1",
+        "Class":"GT1",
+        "Laps":353,
+        "Pos.":"2nd",
+        "Class\nPos.":"1st"
+    },
+    {
+        "Year":1997,
+        "Team":"Porsche AG",
+        "Co-Drivers":"Thierry Boutsen\n Bob Wollek",
+        "Car":"Porsche 911 GT1",
+        "Class":"GT1",
+        "Laps":238,
+        "Pos.":"DNF",
+        "Class\nPos.":"DNF"
+    },
+    {
+        "Year":1998,
+        "Team":"Team BMW Motorsport",
+        "Co-Drivers":"Steve Soper\n Tom Kristensen",
+        "Car":"BMW V12 LM",
+        "Class":"LMP1",
+        "Laps":60,
+        "Pos.":"None",
+        "Class\nPos.":"DNF"
+    }
+]

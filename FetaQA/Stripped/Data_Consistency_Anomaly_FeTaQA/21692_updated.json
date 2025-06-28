@@ -1,0 +1,162 @@
+[
+    {
+        "Year":"Representing Great Britain / Wales",
+        "Competition":"Representing Great Britain / Wales",
+        "Venue":"Representing Great Britain / Wales",
+        "Position":"Representing Great Britain / Wales",
+        "Event":"Representing Great Britain / Wales",
+        "Notes":"Representing Great Britain / Wales"
+    },
+    {
+        "Year":1979,
+        "Competition":"European Junior Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"6th",
+        "Event":"800 metres",
+        "Notes":"2:04.72"
+    },
+    {
+        "Year":1982,
+        "Competition":"Commonwealth Games",
+        "Venue":"Brisbane, Australia",
+        "Position":"1st",
+        "Event":"800 metres",
+        "Notes":"2:01.31"
+    },
+    {
+        "Year":1985,
+        "Competition":"European Indoor Championships",
+        "Venue":"Piraeus, Greece",
+        "Position":"6th",
+        "Event":"800 metres",
+        "Notes":"2:07.98"
+    },
+    {
+        "Year":1985,
+        "Competition":"European Cup",
+        "Venue":"Moscow, Russia",
+        "Position":"4th",
+        "Event":"800 metres",
+        "Notes":"1:57.48"
+    },
+    {
+        "Year":1985,
+        "Competition":"Grand Prix Final",
+        "Venue":"Rome, Italy",
+        "Position":"3rd",
+        "Event":"800 metres",
+        "Notes":"2:00.23"
+    },
+    {
+        "Year":1986,
+        "Competition":"European Indoor Championships",
+        "Venue":"Madrid, Spain",
+        "Position":"4th",
+        "Event":"800 metres",
+        "Notes":"2:03.69"
+    },
+    {
+        "Year":1986,
+        "Competition":"Commonwealth Games",
+        "Venue":"Edinburgh, Scotland",
+        "Position":"1st",
+        "Event":"800 metres",
+        "Notes":"2:00.94"
+    },
+    {
+        "Year":1986,
+        "Competition":"Commonwealth Games",
+        "Venue":"Edinburgh, Scotland",
+        "Position":"1st",
+        "Event":"1500 meters",
+        "Notes":"4:10.91"
+    },
+    {
+        "Year":1986,
+        "Competition":"European Championships",
+        "Venue":"Stuttgart, West Germany",
+        "Position":"7th",
+        "Event":"1500 metres",
+        "Notes":"4:04.99"
+    },
+    {
+        "Year":1986,
+        "Competition":"Grand Prix Final",
+        "Venue":"Rome, Italy",
+        "Position":"3rd",
+        "Event":"1500 metres",
+        "Notes":"4:03.74"
+    },
+    {
+        "Year":1987,
+        "Competition":"World Indoor Championships",
+        "Venue":"Indianapolis, United States",
+        "Position":"5th",
+        "Event":"1500 metres",
+        "Notes":"4:08.91"
+    },
+    {
+        "Year":1987,
+        "Competition":"European Cup",
+        "Venue":"Prague, Czechoslovakia",
+        "Position":"1st",
+        "Event":"1500 metres",
+        "Notes":"4:09.03"
+    },
+    {
+        "Year":1987,
+        "Competition":"World Championships",
+        "Venue":"Rome, Italy",
+        "Position":"6th",
+        "Event":"1500 metres",
+        "Notes":"4:01.41"
+    },
+    {
+        "Year":1988,
+        "Competition":"Olympic Games",
+        "Venue":"Seoul, South Korea",
+        "Position":"12th (sf)",
+        "Event":"800 metres",
+        "Notes":"2:00.86"
+    },
+    {
+        "Year":1988,
+        "Competition":"Olympic Games",
+        "Venue":"Seoul, South Korea",
+        "Position":"heats",
+        "Event":"1500 metres",
+        "Notes":"4:08.37"
+    },
+    {
+        "Year":1991,
+        "Competition":"World Championships",
+        "Venue":"Tokyo, Japan",
+        "Position":"6th",
+        "Event":"1500 metres",
+        "Notes":"4:05.16"
+    },
+    {
+        "Year":1992,
+        "Competition":"Olympic Games",
+        "Venue":"Barcelona, Spain",
+        "Position":"21st (sf)",
+        "Event":"1500 metres",
+        "Notes":"4:11.36 (4:08.30 in heat)"
+    },
+    {
+        "Year":"(sf) Indicates overall position in semifinal round",
+        "Competition":"(sf) Indicates overall position in semifinal round",
+        "Venue":"(sf) Indicates overall position in semifinal round",
+        "Position":"(sf) Indicates overall position in semifinal round",
+        "Event":"(sf) Indicates overall position in semifinal round",
+        "Notes":"(sf) Indicates overall position in semifinal round"
+    },
+    {
+        "Year":1986,
+        "Competition":"Commonwealth Games",
+        "Venue":"Edinburgh, Scotland",
+        "Position":"First",
+        "Event":"800 metres",
+        "Notes":"2:00.94"
+    }
+]

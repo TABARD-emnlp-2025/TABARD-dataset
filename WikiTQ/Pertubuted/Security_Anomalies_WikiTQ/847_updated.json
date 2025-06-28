@@ -1,0 +1,128 @@
+[
+    {
+        "#":4,
+        "Name":"Tom Lipke",
+        "Position":"Guard\/ Forward",
+        "Birthday":"12.04.1986",
+        "Size":"1,96 m",
+        "Weight":"98 kg",
+        "Last Team":"Bremen Roosters"
+    },
+    {
+        "#":5,
+        "Name":"Muamer Taletovic",
+        "Position":"Guard",
+        "Birthday":"02.04.1976",
+        "Size":"1,87 m",
+        "Weight":"90 kg",
+        "Last Team":"Hertener L\u00f6wen"
+    },
+    {
+        "#":6,
+        "Name":"David Watson",
+        "Position":"Guard",
+        "Birthday":"16.09.1988",
+        "Size":"1,84 m",
+        "Weight":"78 kg",
+        "Last Team":"SSC Karlsruhe"
+    },
+    {
+        "#":7,
+        "Name":"Brandon Gary",
+        "Position":"Forward",
+        "Birthday":"26.01.1983",
+        "Size":"2,03 m",
+        "Weight":"100 kg",
+        "Last Team":"Iserlohn Kangaroos"
+    },
+    {
+        "#":8,
+        "Name":"Theodis Tarver",
+        "Position":"Center",
+        "Birthday":"09.07.1984",
+        "Size":"2,06 m",
+        "Weight":"110 kg",
+        "Last Team":"Bremen Roosters"
+    },
+    {
+        "#":9,
+        "Name":"Stefan Svitek",
+        "Position":"Forward",
+        "Birthday":"25.05.1977",
+        "Size":"2,03 m",
+        "Weight":"108 kg",
+        "Last Team":"Chemosvit Svit"
+    },
+    {
+        "#":10,
+        "Name":"Michael Baumer",
+        "Position":"Guard",
+        "Birthday":"08.08.1990",
+        "Size":"1,80 m",
+        "Weight":"68 kg",
+        "Last Team":"BG Karlsruhe"
+    },
+    {
+        "#":11,
+        "Name":"Clifford Crawford",
+        "Position":"Guard",
+        "Birthday":"07.01.1981",
+        "Size":"1,92 m",
+        "Weight":"98 kg",
+        "Last Team":"Bremen Roosters"
+    },
+    {
+        "#":12,
+        "Name":"Max Roser",
+        "Position":"Guard\/ Forward",
+        "Birthday":"31.07.1988",
+        "Size":"1,94 m",
+        "Weight":"87 kg",
+        "Last Team":"SG Bad D\u00fcrkheim\/Speyer"
+    },
+    {
+        "#":13,
+        "Name":"Edward Seward",
+        "Position":"Center",
+        "Birthday":"20.10.1978",
+        "Size":"2,06 m",
+        "Weight":"110 kg",
+        "Last Team":"Aschersleben Tiger"
+    },
+    {
+        "#":14,
+        "Name":"Julius Parrisius",
+        "Position":"Guard",
+        "Birthday":"01.08.1985",
+        "Size":"1,85 m",
+        "Weight":"85 kg",
+        "Last Team":"Union Shops Rastatt"
+    },
+    {
+        "#":15,
+        "Name":"Leo Niebuhr",
+        "Position":"Forward",
+        "Birthday":"04.08.1986",
+        "Size":"2,06 m",
+        "Weight":"88 kg",
+        "Last Team":"SG Braunschweig"
+    },
+    {
+        "#":16,
+        "Name":"Alexander R\u00fceck",
+        "Position":"Guard",
+        "Birthday":"24.03.1984",
+        "Size":"1,89 m",
+        "Weight":"85 kg",
+        "Last Team":"Union Shops Rastatt"
+    },
+    {
+        "#":17,
+        "Name":"Matthias Hurst",
+        "Position":"Forward\/ Center",
+        "Birthday":"06.10.1989",
+        "Size":"2,04 m",
+        "Weight":"86 kg",
+        "Last Team":"BG Karlsruhe"
+    }
+]

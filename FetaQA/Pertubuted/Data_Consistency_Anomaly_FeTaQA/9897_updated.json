@@ -1,0 +1,90 @@
+[
+    {
+        "Name":"Jimboy Martin",
+        "Age on entry":17,
+        "Hometown":"Solano, Nueva Vizcaya",
+        "Entered":"Day 1 Day 99",
+        "Exited":"Day 50 Day 142",
+        "Result":"Winner"
+    },
+    {
+        "Name":"Ylona Garcia",
+        "Age on entry":13,
+        "Hometown":"@@@_Sydney, NSW, Australia",
+        "Entered":"Day 2 Day 99",
+        "Exited":"Day 50 Day 142",
+        "Result":"Runner-up"
+    },
+    {
+        "Name":"Franco Rodriguez",
+        "Age on entry":16,
+        "Hometown":"Tabaco",
+        "Entered":"Day 2 Day 99",
+        "Exited":"Day 50 Day 141",
+        "Result":"Finalist"
+    },
+    {
+        "Name":"Bailey May",
+        "Age on entry":12,
+        "Hometown":"@@@_Norwich, England, UK",
+        "Entered":"Day 1 Day 99",
+        "Exited":"Day 50 Day 142",
+        "Result":"Finalist"
+    },
+    {
+        "Name":"Kenzo Gutierrez",
+        "Age on entry":18,
+        "Hometown":"Quezon City",
+        "Entered":"Day 1",
+        "Exited":"Day 49",
+        "Result":"Evicted"
+    },
+    {
+        "Name":"Kamille Filoteo",
+        "Age on entry":18,
+        "Hometown":"Manila",
+        "Entered":"Day 1",
+        "Exited":"Day 47",
+        "Result":"Evicted"
+    },
+    {
+        "Name":"Zonia Mejia",
+        "Age on entry":13,
+        "Hometown":"Quezon City",
+        "Entered":"Day 2",
+        "Exited":"Day 42",
+        "Result":"Evicted"
+    },
+    {
+        "Name":"Kyle Secades",
+        "Age on entry":17,
+        "Hometown":"San Juan, Metro Manila",
+        "Entered":"Day 2",
+        "Exited":"Day 36",
+        "Result":"Voluntary exit"
+    },
+    {
+        "Name":"Ryan Bacalla",
+        "Age on entry":14,
+        "Hometown":"Cebu City",
+        "Entered":"Day 1",
+        "Exited":"Day 28",
+        "Result":"Evicted"
+    },
+    {
+        "Name":"@@@_ailah antopina",
+        "Age on entry":13,
+        "Hometown":"Bacolod",
+        "Entered":"Day 1",
+        "Exited":"Day 21",
+        "Result":"Evicted"
+    },
+    {
+        "Name":"Barbie Imperial",
+        "Age on entry":16,
+        "Hometown":"Legazpi",
+        "Entered":"Day 1",
+        "Exited":"Day 14",
+        "Result":"Evicted"
+    }
+]

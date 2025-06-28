@@ -1,0 +1,207 @@
+Table: college_2_teaches.json
+GPT raw reply for college_2_teaches_0-30:
+[
+    {"ID":"34175","course_id":"747","sec_id":"1","semester":"Spring","year":2004},
+    {"ID":"3199","course_id":"169","sec_id":"1","semester":"Spring","year":2007},
+    {"ID":"6569","course_id":"445","sec_id":"1","semester":"Spring","year":2025},  // Future year
+    {"ID":"28097","course_id":"808","sec_id":"1","semester":"Fall","year":2003},
+    {"ID":"22591","course_id":"962","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"90376","course_id":"158","sec_id":"1","semester":"Fall","year":2008},
+    {"ID":"3199","course_id":"561","sec_id":"1","semester":"Fall","year":2006},
+    {"ID":"34175","course_id":"274","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"34175","course_id":"571","sec_id":"1","semester":"Spring","year":1999},  // Past year before 2000
+    {"ID":"79081","course_id":"345","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"80759","course_id":"559","sec_id":"1","semester":"Fall","year":1998},  // Past year before 2000
+    {"ID":"22591","course_id":"991","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"22591","course_id":"400","sec_id":"2","semester":"Fall","year":2003},
+    {"ID":"74420","course_id":"376","sec_id":"1","semester":"Fall","year":2006},
+    {"ID":"73623","course_id":"694","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"6569","course_id":"137","sec_id":"1","semester":"Spring","year":2002},
+    {"ID":"95709","course_id":"270","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"36897","course_id":"795","sec_id":"1","semester":"Spring","year":2004},
+    {"ID":"74420","course_id":"443","sec_id":"2","semester":"Spring","year":2002},
+    {"ID":"77346","course_id":"486","sec_id":"1","semester":"Fall","year":2009},
+    {"ID":"79081","course_id":"408","sec_id":"1","semester":"Spring","year":2015},  // Future year
+    {"ID":"6569","course_id":"362","sec_id":"3","semester":"Spring","year":2008},
+    {"ID":"6569","course_id":"527","sec_id":"1","semester":"Fall","year":20004},  // Incorrectly formatted year
+    {"ID":"41930","course_id":"401","sec_id":"1","semester":"Fall","year":2003},
+    {"ID":"79081","course_id":"408","sec_id":"2","semester":"Spring","year":2003},
+    {"ID":"77346","course_id":"493","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"4233","course_id":"679","sec_id":"1","semester":"Spring","year":null},  // Missing year
+    {"ID":"99052","course_id":"237","sec_id":"2","semester":"Fall","year":2009},
+    {"ID":"95709","course_id":"258","sec_id":"1","semester":"Fall","year":2007},
+    {"ID":"63287","course_id":"334","sec_id":"1","semester":"Fall","year":1995}  // Past year before 2000
+]
+GPT anomaly explanations for college_2_teaches_0-30:
+[
+    {"ID":"34175","course_id":"747","sec_id":"1","semester":"Spring","year":2004},
+    {"ID":"3199","course_id":"169","sec_id":"1","semester":"Spring","year":2007},
+    {"ID":"6569","course_id":"445","sec_id":"1","semester":"Spring","year":2025},  // Future year
+    {"ID":"28097","course_id":"808","sec_id":"1","semester":"Fall","year":2003},
+    {"ID":"22591","course_id":"962","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"90376","course_id":"158","sec_id":"1","semester":"Fall","year":2008},
+    {"ID":"3199","course_id":"561","sec_id":"1","semester":"Fall","year":2006},
+    {"ID":"34175","course_id":"274","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"34175","course_id":"571","sec_id":"1","semester":"Spring","year":1999},  // Past year before 2000
+    {"ID":"79081","course_id":"345","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"80759","course_id":"559","sec_id":"1","semester":"Fall","year":1998},  // Past year before 2000
+    {"ID":"22591","course_id":"991","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"22591","course_id":"400","sec_id":"2","semester":"Fall","year":2003},
+    {"ID":"74420","course_id":"376","sec_id":"1","semester":"Fall","year":2006},
+    {"ID":"73623","course_id":"694","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"6569","course_id":"137","sec_id":"1","semester":"Spring","year":2002},
+    {"ID":"95709","course_id":"270","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"36897","course_id":"795","sec_id":"1","semester":"Spring","year":2004},
+    {"ID":"74420","course_id":"443","sec_id":"2","semester":"Spring","year":2002},
+    {"ID":"77346","course_id":"486","sec_id":"1","semester":"Fall","year":2009},
+    {"ID":"79081","course_id":"408","sec_id":"1","semester":"Spring","year":2015},  // Future year
+    {"ID":"6569","course_id":"362","sec_id":"3","semester":"Spring","year":2008},
+    {"ID":"6569","course_id":"527","sec_id":"1","semester":"Fall","year":20004},  // Incorrectly formatted year
+    {"ID":"41930","course_id":"401","sec_id":"1","semester":"Fall","year":2003},
+    {"ID":"79081","course_id":"408","sec_id":"2","semester":"Spring","year":2003},
+    {"ID":"77346","course_id":"493","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"4233","course_id":"679","sec_id":"1","semester":"Spring","year":null},  // Missing year
+    {"ID":"99052","course_id":"237","sec_id":"2","semester":"Fall","year":2009},
+    {"ID":"95709","course_id":"258","sec_id":"1","semester":"Fall","year":2007},
+    {"ID":"63287","course_id":"334","sec_id":"1","semester":"Fall","year":1995}  // Past year before 2000
+]
+- Type: Temporal Anomaly; row 3, col 'year': '2001' → '2025.0'.
+- Type: Temporal Anomaly; row 9, col 'year': '2004' → '1999.0'.
+- Type: Temporal Anomaly; row 11, col 'year': '2002' → '1998.0'.
+- Type: Temporal Anomaly; row 21, col 'year': '2007' → '2015.0'.
+- Type: Temporal Anomaly; row 23, col 'year': '2004' → '20004.0'.
+- Type: Temporal Anomaly; row 27, col 'year': '2010' → 'nan'.
+- Type: Temporal Anomaly; row 30, col 'year': '2009' → '1995.0'.
+GPT raw reply for college_2_teaches_30-60:
+[
+    {"ID":"28097","course_id":"366","sec_id":"1","semester":"Fall","year":2005},
+    {"ID":"19368","course_id":"581","sec_id":"1","semester":"Spring","year":2025},
+    {"ID":"42782","course_id":"793","sec_id":"1","semester":"Spring","year":2002},
+    {"ID":"74420","course_id":"959","sec_id":"1","semester":"Fall","year":1996},
+    {"ID":"41930","course_id":"421","sec_id":"1","semester":"Fall","year":2004},
+    {"ID":"6569","course_id":"426","sec_id":"1","semester":"Spring","year":2007},
+    {"ID":"6569","course_id":"362","sec_id":"2","semester":"Fall","year":2006},
+    {"ID":"77346","course_id":"864","sec_id":"1","semester":"Spring","year":2006},
+    {"ID":"3335","course_id":"960","sec_id":"1","semester":"Fall","year":2009},
+    {"ID":"43779","course_id":"105","sec_id":"1","semester":"Fall","year":2009},
+    {"ID":"48507","course_id":"626","sec_id":"1","semester":"Fall","year":2006},
+    {"ID":"99052","course_id":"893","sec_id":"1","semester":"Fall","year":1907},
+    {"ID":"22591","course_id":"663","sec_id":"1","semester":"Spring","year":2005},
+    {"ID":"25946","course_id":"192","sec_id":"1","semester":"Fall","year":1802},
+    {"ID":"6569","course_id":"349","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"99052","course_id":"237","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"22591","course_id":"972","sec_id":"1","semester":"Spring","year":2009},
+    {"ID":"77346","course_id":"704","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"36897","course_id":"242","sec_id":"1","semester":"Fall","year":200},
+    {"ID":"99052","course_id":"158","sec_id":"2","semester":"Spring","year":2008},
+    {"ID":"19368","course_id":"545","sec_id":"1","semester":"Fall","year":2001},
+    {"ID":"36897","course_id":"791","sec_id":"1","semester":"Spring","year":2006},
+    {"ID":"22591","course_id":"642","sec_id":"1","semester":"Fall","year":2014},
+    {"ID":"95709","course_id":"468","sec_id":"1","semester":"Fall","year":2005},
+    {"ID":"3335","course_id":"949","sec_id":"1","semester":"Fall","year":2007},
+    {"ID":"99052","course_id":"748","sec_id":"1","semester":"Fall","year":2103},
+    {"ID":"43779","course_id":"489","sec_id":"1","semester":"Fall","year":2007},
+    {"ID":"28400","course_id":"603","sec_id":"1","semester":"Fall","year":2003},
+    {"ID":"81991","course_id":"415","sec_id":"1","semester":"Fall","year":2010},
+    {"ID":"48570","course_id":"867","sec_id":"2","semester":"Fall","year":2010}
+]
+- Type: Temporal Anomaly; row 32, col 'year': '2005' → '2025'.
+- Type: Temporal Anomaly; row 34, col 'year': '2006' → '1996'.
+- Type: Temporal Anomaly; row 36, col 'year': '2006' → '2007'.
+- Type: Temporal Anomaly; row 42, col 'year': '2007' → '1907'.
+- Type: Temporal Anomaly; row 44, col 'year': '2002' → '1802'.
+- Type: Temporal Anomaly; row 49, col 'year': '2009' → '200'.
+- Type: Temporal Anomaly; row 53, col 'year': '2004' → '2014'.
+- Type: Temporal Anomaly; row 56, col 'year': '2003' → '2103'.
+GPT raw reply for college_2_teaches_60-90:
+[
+    {"ID":"3199","course_id":"631","sec_id":"1","semester":"Spring","year":2007},
+    {"ID":"74420","course_id":"443","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"81991","course_id":"702","sec_id":"1","semester":"Spring","year":2001},
+    {"ID":"14365","course_id":"843","sec_id":"1","semester":"Fall","year":2010},
+    {"ID":"74420","course_id":"612","sec_id":"1","semester":"Fall","year":2007},
+    {"ID":"99052","course_id":"629","sec_id":"1","semester":"Spring","year":2003},
+    {"ID":"43779","course_id":"105","sec_id":"2","semester":"Fall","year":2002},
+    {"ID":"79081","course_id":"200","sec_id":"2","semester":"Fall","year":2023},
+    {"ID":"99052","course_id":"496","sec_id":"1","semester":"Fall","year":2001},
+    {"ID":"50330","course_id":"468","sec_id":"2","semester":"Fall","year":2007},
+    {"ID":"36897","course_id":"696","sec_id":"1","semester":"Spring","year":2024},
+    {"ID":"77346","course_id":"735","sec_id":"1","semester":"Spring","year":2003},
+    {"ID":"14365","course_id":"200","sec_id":"1","semester":"Spring","year":2007},
+    {"ID":"90643","course_id":"461","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"77346","course_id":"735","sec_id":"2","semester":"Spring","year":2010},
+    {"ID":"6569","course_id":"362","sec_id":"1","semester":"Fall","year":2005},
+    {"ID":"43779","course_id":"476","sec_id":"1","semester":"Fall","year":2010},
+    {"ID":"74420","course_id":"239","sec_id":"1","semester":"Fall","year":2006},
+    {"ID":"6569","course_id":"304","sec_id":"1","semester":"Fall","year":2009},
+    {"ID":"22591","course_id":"599","sec_id":"1","semester":"Spring","year":2050},
+    {"ID":"63287","course_id":"852","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"79081","course_id":"760","sec_id":"1","semester":"Spring","year":2004},
+    {"ID":"19368","course_id":"591","sec_id":"1","semester":"Spring","year":2005},
+    {"ID":"3199","course_id":"169","sec_id":"2","semester":"Fall","year":2002},
+    {"ID":"36897","course_id":"313","sec_id":"1","semester":"Fall","year":2010},
+    {"ID":"41930","course_id":"692","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"22591","course_id":"867","sec_id":"1","semester":"Fall","year":2006},
+    {"ID":"22591","course_id":"482","sec_id":"1","semester":"Fall","year":2005},
+    {"ID":"15347","course_id":"457","sec_id":"1","semester":"Spring","year":1900},
+    {"ID":"99052","course_id":"802","sec_id":"1","semester":"Spring","year":1899}
+]
+- Type: Temporal Anomaly; row 68, col 'year': '2002' → '2023'.
+- Type: Temporal Anomaly; row 71, col 'year': '2002' → '2024'.
+- Type: Temporal Anomaly; row 80, col 'year': '2003' → '2050'.
+- Type: Temporal Anomaly; row 89, col 'year': '2001' → '1900'.
+- Type: Temporal Anomaly; row 90, col 'year': '2003' → '1899'.
+GPT raw reply for college_2_teaches_90-100:
+[
+    {"ID":"22591","course_id":"338","sec_id":"1","semester":"Spring","year":2007},
+    {"ID":"22591","course_id":"352","sec_id":"1","semester":"Spring","year":2006},
+    {"ID":"22591","course_id":"338","sec_id":"2","semester":"Spring","year":2025},
+    {"ID":"95709","course_id":"960","sec_id":"2","semester":"Fall","year":2004},
+    {"ID":"65931","course_id":"875","sec_id":"1","semester":"Spring","year":2005},
+    {"ID":"22591","course_id":"400","sec_id":"1","semester":"Spring","year":2007},
+    {"ID":"99052","course_id":"927","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"79081","course_id":"974","sec_id":"1","semester":"Fall","year":2100},
+    {"ID":"28400","course_id":"604","sec_id":"1","semester":"Spring","year":2009},
+    {"ID":"6569","course_id":"319","sec_id":"1","semester":"Spring","year":1999}
+]
+- Type: Temporal Anomaly; row 93, col 'year': '2006' → '2025'.
+- Type: Temporal Anomaly; row 94, col 'year': '2006' → '2004'.
+- Type: Temporal Anomaly; row 98, col 'year': '2003' → '2100'.
+- Type: Temporal Anomaly; row 100, col 'year': '2003' → '1999'.
+
+Table: college_2_time_slot.json
+GPT raw reply for college_2_time_slot_0-20:
+[{"time_slot_id":"A","day":"M","start_hr":8,"start_min":0,"end_hr":8,"end_min":50},{"time_slot_id":"A","day":"W","start_hr":8,"start_min":0,"end_hr":8,"end_min":50},{"time_slot_id":"A","day":"F","start_hr":8,"start_min":0,"end_hr":9,"end_min":50},{"time_slot_id":"B","day":"M","start_hr":9,"start_min":0,"end_hr":8,"end_min":50},{"time_slot_id":"B","day":"W","start_hr":9,"start_min":0,"end_hr":9,"end_min":50},{"time_slot_id":"B","day":"F","start_hr":9,"start_min":0,"end_hr":9,"end_min":50},{"time_slot_id":"C","day":"M","start_hr":11,"start_min":0,"end_hr":11,"end_min":50},{"time_slot_id":"C","day":"W","start_hr":11,"start_min":0,"end_hr":11,"end_min":50},{"time_slot_id":"C","day":"F","start_hr":11,"start_min":0,"end_hr":11,"end_min":50},{"time_slot_id":"D","day":"M","start_hr":12,"start_min":60,"end_hr":13,"end_min":50},{"time_slot_id":"D","day":"W","start_hr":13,"start_min":0,"end_hr":13,"end_min":50},{"time_slot_id":"D","day":"F","start_hr":13,"start_min":0,"end_hr":13,"end_min":50},{"time_slot_id":"E","day":"T","start_hr":10,"start_min":30,"end_hr":11,"end_min":45},{"time_slot_id":"E","day":"R","start_hr":10,"start_min":30,"end_hr":11,"end_min":45},{"time_slot_id":"F","day":"T","start_hr":14,"start_min":30,"end_hr":15,"end_min":45},{"time_slot_id":"F","day":"R","start_hr":14,"start_min":30,"end_hr":15,"end_min":45},{"time_slot_id":"G","day":"M","start_hr":16,"start_min":0,"end_hr":16,"end_min":50},{"time_slot_id":"G","day":"W","start_hr":16,"start_min":0,"end_hr":16,"end_min":50},{"time_slot_id":"G","day":"F","start_hr":16,"start_min":0,"end_hr":16,"end_min":50},{"time_slot_id":"H","day":"W","start_hr":10,"start_min":0,"end_hr":9,"end_min":30}]
+- Type: Temporal Anomaly; row 10, col 'start_hr': '13' → '12'.
+- Type: Temporal Anomaly; row 10, col 'start_min': '0' → '60'.
+- Type: Temporal Anomaly; row 3, col 'end_hr': '8' → '9'.
+- Type: Temporal Anomaly; row 4, col 'end_hr': '9' → '8'.
+- Type: Temporal Anomaly; row 20, col 'end_hr': '12' → '9'.
+
+Table: network_1_Friend.json
+GPT raw reply for network_1_Friend_0-20:
+[
+    {"student_id":1510,"friend_id":1381},
+    {"student_id":1510,"friend_id":1689},
+    {"student_id":1689,"friend_id":1709},
+    {"student_id":1381,"friend_id":1247},
+    {"student_id":1709,"friend_id":1247},
+    {"student_id":1689,"friend_id":1782},
+    {"student_id":1782,"friend_id":-1468},
+    {"student_id":1782,"friend_id":1316},
+    {"student_id":1782,"friend_id":1304},
+    {"student_id":1468,"friend_id":1101},
+    {"student_id":1468,"friend_id":1641},
+    {"student_id":1101,"friend_id":1641},
+    {"student_id":1247,"friend_id":1911},
+    {"student_id":1247,"friend_id":1501},
+    {"student_id":1911,"friend_id":1501},
+    {"student_id":1501,"friend_id":1934},
+    {"student_id":1316,"friend_id":1934},
+    {"student_id":1934,"friend_id":1304},
+    {"student_id":1304,"friend_id":null},
+    {"student_id":1661,"friend_id":1025}
+]
+- Type: Temporal Anomaly; row 7, col 'friend_id': '1468' → '-1468.0'.
+- Type: Temporal Anomaly; row 19, col 'friend_id': '1661' → 'nan'.
+

@@ -1,0 +1,74 @@
+[
+    {
+        "Player":"Herbie Hewett",
+        "Matches":10,
+        "Innings":15,
+        "Runs":543,
+        "Average":"@@@_38.79",
+        "100s":1.0,
+        "50s":2
+    },
+    {
+        "Player":"@@@_Lionel palairet",
+        "Matches":10,
+        "Innings":14,
+        "Runs":408,
+        "Average":29.14,
+        "100s":1.0,
+        "50s":1
+    },
+    {
+        "Player":"Bill Roe",
+        "Matches":8,
+        "Innings":12,
+        "Runs":316,
+        "Average":28.73,
+        "100s":0.0,
+        "50s":1
+    },
+    {
+        "Player":"George Nichols",
+        "Matches":13,
+        "Innings":18,
+        "Runs":497,
+        "Average":27.61,
+        "100s":1.0,
+        "50s":"@@@_3"
+    },
+    {
+        "Player":"John Challen",
+        "Matches":9,
+        "Innings":14,
+        "Runs":286,
+        "Average":20.43,
+        "100s":0.0,
+        "50s":1
+    },
+    {
+        "Player":"Ted Tyler",
+        "Matches":13,
+        "Innings":18,
+        "Runs":297,
+        "Average":18.56,
+        "100s":"@@@_nan",
+        "50s":"@@@_None"
+    },
+    {
+        "Player":"Crescens Robinson",
+        "Matches":9,
+        "Innings":13,
+        "Runs":162,
+        "Average":14.73,
+        "100s":0.0,
+        "50s":0
+    },
+    {
+        "Player":"Albert Clapp",
+        "Matches":11,
+        "Innings":15,
+        "Runs":159,
+        "Average":10.6,
+        "100s":0.0,
+        "50s":"@@@_0"
+    }
+]

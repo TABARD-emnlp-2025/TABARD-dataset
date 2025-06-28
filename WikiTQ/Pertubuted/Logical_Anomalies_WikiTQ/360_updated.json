@@ -1,0 +1,128 @@
+[
+    {
+        "Year":1976,
+        "Host":"Paraguay (Asunci\u00f3n)",
+        "Gold":"Brazil",
+        "Silver":"Paraguay",
+        "Bronze":"Argentina"
+    },
+    {
+        "Year":1981,
+        "Host":"Peru (Lima)",
+        "Gold":"Brazil",
+        "Silver":"Colombia",
+        "Bronze":"Argentina"
+    },
+    {
+        "Year":1986,
+        "Host":"Colombia (C\u00facuta)",
+        "Gold":"Brazil",
+        "Silver":"Colombia",
+        "Bronze":"Peru"
+    },
+    {
+        "Year":1987,
+        "Host":"Argentina (Mar del Plata)",
+        "Gold":"Argentina",
+        "Silver":"Brazil",
+        "Bronze":"Chile"
+    },
+    {
+        "Year":1990,
+        "Host":"Ecuador (Ibarra)",
+        "Gold":"Brazil",
+        "Silver":"Argentina",
+        "Bronze":"Ecuador"
+    },
+    {
+        "Year":1992,
+        "Host":"Chile (Santiago)",
+        "Gold":"Brazil",
+        "Silver":"Argentina",
+        "Bronze":"Colombia"
+    },
+    {
+        "Year":1995,
+        "Host":"Brazil (S\u00e3o Roque)",
+        "Gold":"Colombia",
+        "Silver":"Brazil",
+        "Bronze":"Argentina"
+    },
+    {
+        "Year":1996,
+        "Host":"Ecuador (Quito)",
+        "Gold":"Argentina",
+        "Silver":"Brazil",
+        "Bronze":"Colombia"
+    },
+    {
+        "Year":1998,
+        "Host":"Chile (Ancud)",
+        "Gold":"Brazil",
+        "Silver":"Argentina",
+        "Bronze":"Bolivia"
+    },
+    {
+        "Year":2000,
+        "Host":"Venezuela (San Felipe)",
+        "Gold":"Brazil",
+        "Silver":"Argentina",
+        "Bronze":"Venezuela"
+    },
+    {
+        "Year":2002,
+        "Host":"Chile (Santiago)",
+        "Gold":"Ecuador",
+        "Silver":"Chile",
+        "Bronze":"Paraguay"
+    },
+    {
+        "Year":2004,
+        "Host":"Bolivia (Quillacollo)",
+        "Gold":"Brazil",
+        "Silver":"Argentina",
+        "Bronze":"Bolivia"
+    },
+    {
+        "Year":2005,
+        "Host":"Paraguay (Asunci\u00f3n)",
+        "Gold":"Argentina",
+        "Silver":"Brazil",
+        "Bronze":"Paraguay"
+    },
+    {
+        "Year":2007,
+        "Host":"Venezuela (Guanare)",
+        "Gold":"Venezuela",
+        "Silver":"Argentina",
+        "Bronze":"Brazil"
+    },
+    {
+        "Year":2009,
+        "Host":"Chile (Santiago)",
+        "Gold":"Brazil",
+        "Silver":"Chile",
+        "Bronze":"Argentina"
+    },
+    {
+        "Year":2011,
+        "Host":"Colombia (Pasto)",
+        "Gold":"Colombia",
+        "Silver":"Argentina",
+        "Bronze":"Brazil"
+    },
+    {
+        "Year":2013,
+        "Host":"Ecuador (Portoviejo)",
+        "Gold":"Brazil",
+        "Silver":"Argentina",
+        "Bronze":"Chile"
+    },
+    {
+        "Year":2015,
+        "Host":"Atlantis (Underwater)",
+        "Gold":"Atlantis",
+        "Silver":"Brazil",
+        "Bronze":"Argentina"
+    }
+]

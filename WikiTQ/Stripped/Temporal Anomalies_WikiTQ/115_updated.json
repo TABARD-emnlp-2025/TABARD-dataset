@@ -1,0 +1,106 @@
+[
+    {
+        "Year":1996,
+        "Track":"Pukekohe Park Raceway",
+        "Number":1,
+        "Team":"Holden Racing Team",
+        "Car":"Holden VR Commodore",
+        "Round Result":"1st"
+    },
+    {
+        "Year":2001,
+        "Track":"Pukekohe Park Raceway",
+        "Number":51,
+        "Team":"K-mart Racing Team",
+        "Car":"Holden VX Commodore",
+        "Round Result":"1st"
+    },
+    {
+        "Year":"1902",
+        "Track":"Pukekohe Park Raceway",
+        "Number":51,
+        "Team":"K-mart Racing Team",
+        "Car":"Holden VX Commodore",
+        "Round Result":"1st"
+    },
+    {
+        "Year":2003,
+        "Track":"Pukekohe Park Raceway",
+        "Number":51,
+        "Team":"K-mart Racing Team",
+        "Car":"Holden VY Commodore",
+        "Round Result":"1st"
+    },
+    {
+        "Year":2004,
+        "Track":"Pukekohe Park Raceway",
+        "Number":51,
+        "Team":"K-mart Racing Team",
+        "Car":"Holden VY Commodore",
+        "Round Result":"3rd"
+    },
+    {
+        "Year":2005,
+        "Track":"Pukekohe Park Raceway",
+        "Number":51,
+        "Team":"Paul Weel Racing",
+        "Car":"Holden VZ Commodore",
+        "Round Result":"1st"
+    },
+    {
+        "Year":2006,
+        "Track":"Pukekohe Park Raceway",
+        "Number":51,
+        "Team":"Paul Weel Racing",
+        "Car":"Holden VZ Commodore",
+        "Round Result":"15th"
+    },
+    {
+        "Year":2007,
+        "Track":"Pukekohe Park Raceway",
+        "Number":51,
+        "Team":"Tasman Motorsport",
+        "Car":"Holden VE Commodore",
+        "Round Result":"11th"
+    },
+    {
+        "Year":2008,
+        "Track":"Hamilton Street Circuit",
+        "Number":51,
+        "Team":"Tasman Motorsport",
+        "Car":"Holden VE Commodore",
+        "Round Result":"25th"
+    },
+    {
+        "Year":2009,
+        "Track":"Hamilton Street Circuit",
+        "Number":51,
+        "Team":"Tasman Motorsport",
+        "Car":"Holden VE Commodore",
+        "Round Result":"22nd"
+    },
+    {
+        "Year":2010,
+        "Track":"Hamilton Street Circuit",
+        "Number":51,
+        "Team":"Paul Morris Motorsport",
+        "Car":"Holden VE Commodore",
+        "Round Result":"14th"
+    },
+    {
+        "Year":2011,
+        "Track":"Hamilton Street Circuit",
+        "Number":11,
+        "Team":"Pepsi Max Crew",
+        "Car":"Holden VE Commodore",
+        "Round Result":"24th"
+    },
+    {
+        "Year":"2023",
+        "Track":"Hamilton Street Circuit",
+        "Number":51,
+        "Team":"Pepsi Max Crew",
+        "Car":"Holden VE Commodore",
+        "Round Result":"24th"
+    }
+]

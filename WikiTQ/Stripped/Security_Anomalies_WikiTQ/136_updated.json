@@ -1,0 +1,132 @@
+[
+    {
+        "Year":1975,
+        "Final":"Finland",
+        "Year.1":1988,
+        "Final.1":"Luxembourg",
+        "Semi":"No semi-finals",
+        "Year.2":2001,
+        "Final.2":"Relegated",
+        "Semi.1":"No semi-finals"
+    },
+    {
+        "Year":1976,
+        "Final":"United Kingdom",
+        "Year.1":1989,
+        "Final.1":"Greece",
+        "Semi":"No semi-finals",
+        "Year.2":2002,
+        "Final.2":"Spain",
+        "Semi.1":"No semi-finals"
+    },
+    {
+        "Year":1977,
+        "Final":"France",
+        "Year.1":1990,
+        "Final.1":"France",
+        "Semi":"No semi-finals",
+        "Year.2":2003,
+        "Final.2":"Relegated",
+        "Semi.1":"No semi-finals"
+    },
+    {
+        "Year":1978,
+        "Final":"Israel",
+        "Year.1":1991,
+        "Final.1":"Spain",
+        "Semi":"No semi-finals",
+        "Year.2":2004,
+        "Final.2":"Serbia and Montenegro",
+        "Semi.1":"Serbia and Montenegro"
+    },
+    {
+        "Year":1979,
+        "Final":"Spain",
+        "Year.1":1992,
+        "Final.1":"France",
+        "Semi":"No semi-finals",
+        "Year.2":2005,
+        "Final.2":"Serbia and Montenegro",
+        "Semi.1":"Portugal"
+    },
+    {
+        "Year":1980,
+        "Final":"Ireland",
+        "Year.1":1993,
+        "Final.1":"Ireland",
+        "Semi":"No semi-finals",
+        "Year.2":2006,
+        "Final.2":"Bosnia and Herzegovina",
+        "Semi.1":"Bosnia and Herzegovina"
+    },
+    {
+        "Year":1981,
+        "Final":"France",
+        "Year.1":1994,
+        "Final.1":"Ireland",
+        "Semi":"No semi-finals",
+        "Year.2":2007,
+        "Final.2":"Serbia",
+        "Semi.1":"Serbia"
+    },
+    {
+        "Year":1982,
+        "Final":"Germany",
+        "Year.1":1995,
+        "Final.1":"Relegated",
+        "Semi":"No semi-finals",
+        "Year.2":2008,
+        "Final.2":"Serbia",
+        "Semi.1":"None"
+    },
+    {
+        "Year":1983,
+        "Final":"Netherlands",
+        "Year.1":1996,
+        "Final.1":"Ireland",
+        "Semi":"Unknown1",
+        "Year.2":2009,
+        "Final.2":"Turkey",
+        "Semi.1":"Turkey"
+    },
+    {
+        "Year":1984,
+        "Final":"Ireland",
+        "Year.1":1997,
+        "Final.1":"United Kingdom",
+        "Semi":"No semi-finals",
+        "Year.2":2010,
+        "Final.2":"Germany",
+        "Semi.1":"Ireland"
+    },
+    {
+        "Year":1985,
+        "Final":"Turkey",
+        "Year.1":1998,
+        "Final.1":"Germany",
+        "Semi":"No semi-finals",
+        "Year.2":2011,
+        "Final.2":"Bosnia and Herzegovina",
+        "Semi.1":"Serbia"
+    },
+    {
+        "Year":1986,
+        "Final":"Sweden",
+        "Year.1":1999,
+        "Final.1":"Relegated",
+        "Semi":"No semi-finals",
+        "Year.2":2012,
+        "Final.2":"Albania",
+        "Semi.1":"Albania"
+    },
+    {
+        "Year":1987,
+        "Final":"Ireland",
+        "Year.1":2000,
+        "Final.1":"Germany",
+        "Semi":"No semi-finals",
+        "Year.2":2013,
+        "Final.2":"Italy",
+        "Semi.1":"Hungary"
+    }
+]

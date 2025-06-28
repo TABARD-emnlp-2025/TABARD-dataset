@@ -1,0 +1,114 @@
+[
+    {
+        "Rank":"1",
+        "Nation":"Vietnam (VIE)",
+        "Gold":3,
+        "Silver":0,
+        "Bronze":3,
+        "Total":6
+    },
+    {
+        "Rank":"2",
+        "Nation":"South Korea (KOR)",
+        "Gold":2,
+        "Silver":1,
+        "Bronze":2,
+        "Total":5
+    },
+    {
+        "Rank":"3",
+        "Nation":"Kyrgyzstan (KGZ)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":2,
+        "Total":4
+    },
+    {
+        "Rank":"4",
+        "Nation":"Kazakhstan (KAZ)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":1,
+        "Total":3
+    },
+    {
+        "Rank":"5",
+        "Nation":"Iraq (IRQ)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":1,
+        "Total":"@@@_3"
+    },
+    {
+        "Rank":"5",
+        "Nation":"Turkmenistan (TKM)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":1,
+        "Total":2
+    },
+    {
+        "Rank":"7",
+        "Nation":"Jordan (JOR)",
+        "Gold":0,
+        "Silver":2,
+        "Bronze":3,
+        "Total":5
+    },
+    {
+        "Rank":"8",
+        "Nation":"Uzbekistan (UZB)",
+        "Gold":0,
+        "Silver":2,
+        "Bronze":1,
+        "Total":"@@@_4"
+    },
+    {
+        "Rank":"9",
+        "Nation":"Tajikistan (TJK)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":2
+    },
+    {
+        "Rank":"10",
+        "Nation":"Kuwait (KUW)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":0,
+        "Total":"@@@_2"
+    },
+    {
+        "Rank":"11",
+        "Nation":"Independent Athletes (AOI)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":"11",
+        "Nation":"Mongolia (MGL)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":"11",
+        "Nation":"Palestine (PLE)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":"Total",
+        "Nation":"Total",
+        "Gold":9,
+        "Silver":9,
+        "Bronze":18,
+        "Total":"@@@_37"
+    }
+]

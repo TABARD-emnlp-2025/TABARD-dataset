@@ -1,0 +1,110 @@
+[
+  {
+    "Year": 1972.0,
+    "Class": "S\n3.0",
+    "No": 22,
+    "Tyres": null,
+    "Car": "Ligier JS2\nMaserati 3.0L V6",
+    "Team": "Automobiles Ligier",
+    "Co-Drivers": "Pierre Maublanc",
+    "Laps": 195,
+    "Pos.": "DNF",
+    "Class\nPos.": "DNF"
+  },
+  {
+    "Year": 1973.0,
+    "Class": "S\n3.0",
+    "No": 62,
+    "Tyres": null,
+    "Car": "Ligier JS2\nMaserati 3.0L V6",
+    "Team": "Automobiles Ligier",
+    "Co-Drivers": "Guy Ligier",
+    "Laps": 24,
+    "Pos.": "DSQ",
+    "Class\nPos.": "DSQ"
+  },
+  {
+    "Year": 1974.0,
+    "Class": "S\n3.0",
+    "No": 15,
+    "Tyres": null,
+    "Car": "Ligier JS2\nMaserati 3.0L V6",
+    "Team": "Automobiles Ligier",
+    "Co-Drivers": "Alain Serpaggi",
+    "Laps": 310,
+    "Pos.": "8th",
+    "Class\nPos.": "5th"
+  },
+  {
+    "Year": 1977.0,
+    "Class": "S\n+2.0",
+    "No": 8,
+    "Tyres": null,
+    "Car": "Renault Alpine A442\nRenault 2.0L Turbo V6",
+    "Team": "Renault Sport",
+    "Co-Drivers": "Patrick Depailler",
+    "Laps": 289,
+    "Pos.": "DNF",
+    "Class\nPos.": "DNF"
+  },
+  {
+    "Year": "@@@_27134.0",
+    "Class": "S\n+2.0",
+    "No": "@@@_-31",
+    "Tyres": null,
+    "Car": "Mirage M9\nRenault 2.0L Turbo V6",
+    "Team": "Grand Touring Cars Inc.",
+    "Co-Drivers": "Vern Schuppan\n Sam Posey",
+    "Laps": 293,
+    "Pos.": "10th",
+    "Class\nPos.": "5th"
+  },
+  {
+    "Year": 1990.0,
+    "Class": "C1",
+    "No": 6,
+    "Tyres": "G",
+    "Car": "Porsche 962C\nPorsche Type-935 3.0L Turbo Flat-6",
+    "Team": "Joest Porsche Racing",
+    "Co-Drivers": "Henri Pescarolo\n Jean-Louis Ricci",
+    "Laps": 328,
+    "Pos.": "14th",
+    "Class\nPos.": "14th"
+  },
+  {
+    "Year": "@@@_None",
+    "Class": "GT",
+    "No": 71,
+    "Tyres": "D",
+    "Car": "Venturi 500LM\nRenault PRV 3.0 L Turbo V6",
+    "Team": "Jacadi Racing",
+    "Co-Drivers": "Michel Maisonneuve\n Christophe Dechavanne",
+    "Laps": "@@@_2490",
+    "Pos.": "DNF",
+    "Class\nPos.": "DNF"
+  },
+  {
+    "Year": 1994.0,
+    "Class": "GT2",
+    "No": "@@@_397",
+    "Tyres": "P",
+    "Car": "Porsche 911 Carrera RSR\nPorsche 3.8 L Flat-6",
+    "Team": "Larbre Compétition",
+    "Co-Drivers": "Jacques Alméras\n Jean-Marie Alméras",
+    "Laps": 94,
+    "Pos.": "DNF",
+    "Class\nPos.": "DNF"
+  },
+  {
+    "Year": 1996.0,
+    "Class": "GT1",
+    "No": 38,
+    "Tyres": "M",
+    "Car": "McLaren F1 GTR\nBMW S70 6.1L V12",
+    "Team": "Team Bigazzi SRL",
+    "Co-Drivers": "Steve Soper\n Marc Duez",
+    "Laps": 318,
+    "Pos.": "11th",
+    "Class\nPos.": "9th"
+  }
+]

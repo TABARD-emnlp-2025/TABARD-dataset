@@ -1,0 +1,51 @@
+[
+    {
+        "Community":"Beaver Lake 17",
+        "Area":"49.4 hectares (122 acres)",
+        "Location":"78.4 km. southeast of Halifax",
+        "Population":23,
+        "Date established":"March 3, 1867"
+    },
+    {
+        "Community":"Cole Harbour 30",
+        "Area":"18.6 hectares (46 acres)",
+        "Location":"9.6 km. east of Halifax",
+        "Population":194,
+        "Date established":"March 3, 1880"
+    },
+    {
+        "Community":"Millbrook 27",
+        "Area":"302.0 hectares (746 acres)",
+        "Location":"8 km. south of Truro",
+        "Population":847,
+        "Date established":"March 3, 1886"
+    },
+    {
+        "Community":"Sheet Harbour 36",
+        "Area":"32.7 hectares (81 acres)",
+        "Location":"91.2 km. northeast of Halifax",
+        "Population":15,
+        "Date established":"March 3, 1915"
+    },
+    {
+        "Community":"Truro 27A",
+        "Area":"@@@_-16.7 hectares (41 acres)",
+        "Location":"Joined south of Truro town limit",
+        "Population":0,
+        "Date established":"March 3, 1904"
+    },
+    {
+        "Community":"Truro 27B",
+        "Area":"16.4 hectares (41 acres)",
+        "Location":"Joined with 27A on south",
+        "Population":0,
+        "Date established":"@@@_March 3, 1807"
+    },
+    {
+        "Community":"Truro 27C",
+        "Area":"9.5 hectares (23 acres)",
+        "Location":"Joined with 27B on south",
+        "Population":0,
+        "Date established":"March 3, 1909"
+    }
+]

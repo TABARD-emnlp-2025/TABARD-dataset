@@ -1,0 +1,232 @@
+[
+  {
+    "Pos": "1",
+    "No": 1,
+    "Driver": "Emerson Fittipaldi",
+    "Constructor": "McLaren-Ford",
+    "Laps": 53,
+    "Time/Retired": "1:39:26.29",
+    "Grid": 5,
+    "Points": 9.0
+  },
+  {
+    "Pos": "2",
+    "No": 24,
+    "Driver": "James Hunt",
+    "Constructor": "Hesketh-Ford",
+    "Laps": 53,
+    "Time/Retired": "+ 5.91",
+    "Grid": 6,
+    "Points": 6.0
+  },
+  {
+    "Pos": "3",
+    "No": 7,
+    "Driver": "Carlos Reutemann",
+    "Constructor": "Brabham-Ford",
+    "Laps": 53,
+    "Time/Retired": "+ 17.06",
+    "Grid": 3,
+    "Points": 4.0
+  },
+  {
+    "Pos": "4",
+    "No": 11,
+    "Driver": "Clay Regazzoni",
+    "Constructor": "Ferrari",
+    "Laps": 53,
+    "Time/Retired": "+ 35.79",
+    "Grid": 7,
+    "Points": 3.0
+  },
+  {
+    "Pos": "5",
+    "No": 4,
+    "Driver": "Patrick Depailler",
+    "Constructor": "Tyrrell-Ford",
+    "Laps": 53,
+    "Time/Retired": "+ 54.25",
+    "Grid": 8,
+    "Points": 2.0
+  },
+  {
+    "Pos": "6",
+    "No": "@@@_-24",
+    "Driver": "Niki Lauda",
+    "Constructor": "Ferrari",
+    "Laps": 53,
+    "Time/Retired": "+ 1:19.65",
+    "Grid": 4,
+    "Points": 1.0
+  },
+  {
+    "Pos": "7",
+    "No": 28,
+    "Driver": "Mark Donohue",
+    "Constructor": "Penske-Ford",
+    "Laps": 52,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 16,
+    "Points": null
+  },
+  {
+    "Pos": "8",
+    "No": 6,
+    "Driver": "Jacky Ickx",
+    "Constructor": "Lotus-Ford",
+    "Laps": 52,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 18,
+    "Points": null
+  },
+  {
+    "Pos": "9",
+    "No": 9,
+    "Driver": "Vittorio Brambilla",
+    "Constructor": "March-Ford",
+    "Laps": 52,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 12,
+    "Points": null
+  },
+  {
+    "Pos": "10",
+    "No": 22,
+    "Driver": "Graham Hill",
+    "Constructor": "Lola-Ford",
+    "Laps": 52,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 21,
+    "Points": null
+  },
+  {
+    "Pos": "11",
+    "No": 3,
+    "Driver": "Jody Scheckter",
+    "Constructor": "Tyrrell-Ford",
+    "Laps": 52,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 9,
+    "Points": null
+  },
+  {
+    "Pos": "12",
+    "No": 16,
+    "Driver": "Tom Pryce",
+    "Constructor": "Shadow-Ford",
+    "Laps": 51,
+    "Time/Retired": "Transmission",
+    "Grid": 14,
+    "Points": null
+  },
+  {
+    "Pos": "13",
+    "No": 23,
+    "Driver": "Rolf Stommelen",
+    "Constructor": "Lola-Ford",
+    "Laps": 51,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 19,
+    "Points": null
+  },
+  {
+    "Pos": "14",
+    "No": 2,
+    "Driver": "Jochen Mass",
+    "Constructor": "McLaren-Ford",
+    "Laps": 50,
+    "Time/Retired": "+ 3 Laps",
+    "Grid": 13,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 8,
+    "Driver": "Carlos Pace",
+    "Constructor": "Brabham-Ford",
+    "Laps": 46,
+    "Time/Retired": "Engine",
+    "Grid": 2,
+    "Points": null
+  },
+  {
+    "Pos": "NC",
+    "No": "@@@_266",
+    "Driver": "Arturo Merzario",
+    "Constructor": "Williams-Ford",
+    "Laps": 44,
+    "Time/Retired": "Not Classified",
+    "Grid": 20,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 27,
+    "Driver": "Mario Andretti",
+    "Constructor": "Parnelli-Ford",
+    "Laps": 27,
+    "Time/Retired": "Transmission",
+    "Grid": 10,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 14,
+    "Driver": "Mike Wilds",
+    "Constructor": "BRM",
+    "Laps": 24,
+    "Time/Retired": "Engine",
+    "Grid": "@@@_-20",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 5,
+    "Driver": "Ronnie Peterson",
+    "Constructor": "Lotus-Ford",
+    "Laps": 15,
+    "Time/Retired": "Engine",
+    "Grid": 11,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 21,
+    "Driver": "Jacques Laffite",
+    "Constructor": "Williams-Ford",
+    "Laps": 15,
+    "Time/Retired": "Gearbox",
+    "Grid": 17,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 30,
+    "Driver": "Wilson Fittipaldi",
+    "Constructor": "Fittipaldi-Ford",
+    "Laps": 12,
+    "Time/Retired": "Accident",
+    "Grid": 23,
+    "Points": null
+  },
+  {
+    "Pos": "DSQ",
+    "No": 18,
+    "Driver": "John Watson",
+    "Constructor": "Surtees-Ford",
+    "Laps": 6,
+    "Time/Retired": "Disqualified",
+    "Grid": 15,
+    "Points": null
+  },
+  {
+    "Pos": "DNS",
+    "No": 17,
+    "Driver": "Jean-Pierre Jarier",
+    "Constructor": "Shadow-Ford",
+    "Laps": 0,
+    "Time/Retired": "Transmission",
+    "Grid": 1,
+    "Points": "@@@_None"
+  }
+]

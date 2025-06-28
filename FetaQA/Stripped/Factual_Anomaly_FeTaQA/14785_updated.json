@@ -1,0 +1,58 @@
+[
+    {
+        "Party":"Institutional Revolutionary Party",
+        "Votes":"10,458,618",
+        "%":77.4,
+        "Seats":189,
+        "+/-":11
+    },
+    {
+        "Party":"National Action Party",
+        "Votes":"2,207,069",
+        "%":16.3,
+        "Seats":"250",
+        "+/-":5
+    },
+    {
+        "Party":"Popular Socialist Party",
+        "Votes":"541,833",
+        "%":"104.0",
+        "Seats":10,
+        "+/-":0
+    },
+    {
+        "Party":"Authentic Party of the Mexican Revolution",
+        "Votes":"272,339",
+        "%":2.0,
+        "Seats":7,
+        "+/-":"20"
+    },
+    {
+        "Party":"Non-registered candidates",
+        "Votes":"-36,858",
+        "%":0.3,
+        "Seats":0,
+        "+/-":0
+    },
+    {
+        "Party":"Invalid/blank votes",
+        "Votes":"1,493,267",
+        "%":"–",
+        "Seats":"–",
+        "+/-":"–"
+    },
+    {
+        "Party":"Total",
+        "Votes":"15,009,984",
+        "%":100,
+        "Seats":231,
+        "+/-":"-18"
+    },
+    {
+        "Party":"Source: Nohlen",
+        "Votes":"Source: Nohlen",
+        "%":"Source: Nohlen",
+        "Seats":"Source: Nohlen",
+        "+/-":"Source: Nohlen"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "Name":"Richard Rodgers",
+        "EGOT completed":"1962 (17 years)",
+        "Emmy":"1962",
+        "Grammy":1960,
+        "Oscar":1945,
+        "Tony":"@@@_2060"
+    },
+    {
+        "Name":"Helen Hayes",
+        "EGOT completed":"1977 (45 years)",
+        "Emmy":"1953",
+        "Grammy":1977,
+        "Oscar":1932,
+        "Tony":"@@@_1920"
+    },
+    {
+        "Name":"Rita Moreno",
+        "EGOT completed":"1977 (16 years)",
+        "Emmy":"1977",
+        "Grammy":1972,
+        "Oscar":1961,
+        "Tony":"1975"
+    },
+    {
+        "Name":"John Gielgud",
+        "EGOT completed":"@@@_2091 (30 years)",
+        "Emmy":"1991",
+        "Grammy":1979,
+        "Oscar":1981,
+        "Tony":"@@@_1961"
+    },
+    {
+        "Name":"Audrey Hepburn",
+        "EGOT completed":"1994 (41 years)",
+        "Emmy":"1993",
+        "Grammy":1994,
+        "Oscar":1953,
+        "Tony":"1954"
+    },
+    {
+        "Name":"Marvin Hamlisch",
+        "EGOT completed":"1995 (23 years)",
+        "Emmy":"1995",
+        "Grammy":1974,
+        "Oscar":1973,
+        "Tony":"@@@_1950"
+    },
+    {
+        "Name":"Jonathan Tunick",
+        "EGOT completed":"1997 (20 years)",
+        "Emmy":"1982",
+        "Grammy":1988,
+        "Oscar":"@@@_2077",
+        "Tony":"1997"
+    },
+    {
+        "Name":"Mel Brooks",
+        "EGOT completed":"2001 (34 years)",
+        "Emmy":"1967",
+        "Grammy":1998,
+        "Oscar":1968,
+        "Tony":"2001"
+    },
+    {
+        "Name":"Mike Nichols",
+        "EGOT completed":"2001 (40 years)",
+        "Emmy":"2001",
+        "Grammy":1961,
+        "Oscar":1967,
+        "Tony":"1964"
+    },
+    {
+        "Name":"Whoopi Goldberg",
+        "EGOT completed":"2002 (17 years)",
+        "Emmy":"@@@_2002",
+        "Grammy":1985,
+        "Oscar":1990,
+        "Tony":"@@@_1802"
+    },
+    {
+        "Name":"Scott Rudin",
+        "EGOT completed":"2012 (28 years)",
+        "Emmy":"1984",
+        "Grammy":2012,
+        "Oscar":2007,
+        "Tony":"1994"
+    },
+    {
+        "Name":"Robert Lopez",
+        "EGOT completed":"2014 (10 years)",
+        "Emmy":"2008",
+        "Grammy":2012,
+        "Oscar":2014,
+        "Tony":"2004"
+    }
+]

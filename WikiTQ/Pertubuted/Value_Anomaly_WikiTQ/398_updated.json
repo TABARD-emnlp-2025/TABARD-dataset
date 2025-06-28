@@ -1,0 +1,275 @@
+[
+  {
+    "Title": "The Hobbit",
+    "Year": 1982,
+    "Publisher": "Melbourne House",
+    "Developer": "Beam Software",
+    "Platforms": "Amstrad CPC, ZX Spectrum, Commodore 64, BBC (no graphics), Dragon 32, Oric Atmos, MSX, Apple II, IBM PC"
+  },
+  {
+    "Title": "Lord of the Rings: Game One (AKA: The Fellowship of The Ring)",
+    "Year": 1985,
+    "Publisher": "Melbourne House",
+    "Developer": "Beam Software",
+    "Platforms": "ZX Spectrum, Commodore 64, BBC, Dragon 32, Apple Macintosh, Apple II, IBM PC"
+  },
+  {
+    "Title": "The Shadows of Mordor",
+    "Year": 1987,
+    "Publisher": "Melbourne House",
+    "Developer": "Beam Software",
+    "Platforms": "Amstrad CPC, Commodore 64, ZX Spectrum, Apple II, IBM PC"
+  },
+  {
+    "Title": "War in Middle-earth",
+    "Year": 1988,
+    "Publisher": "Melbourne House",
+    "Developer": "Melbourne House",
+    "Platforms": "C64, Spectrum, Amstrad CPC, Amiga, Atari ST, IBM PC"
+  },
+  {
+    "Title": "The Crack of Doom",
+    "Year": 1989,
+    "Publisher": "Melbourne House",
+    "Developer": "Beam Software",
+    "Platforms": "Commodore 64, IBM PC"
+  },
+  {
+    "Title": "The Lord of the Rings Volume 1",
+    "Year": 1990,
+    "Publisher": "Interplay,\nElectronic Arts",
+    "Developer": "Interplay, Chaos Studios (Amiga)",
+    "Platforms": "Amiga, IBM PC"
+  },
+  {
+    "Title": "The Lord of the Rings Volume 2",
+    "Year": 1992,
+    "Publisher": "Interplay",
+    "Developer": "Interplay",
+    "Platforms": "IBM PC"
+  },
+  {
+    "Title": "Riders of Rohan",
+    "Year": 1991,
+    "Publisher": "Konami, Mirrorsoft",
+    "Developer": "Beam Software, Papyrus",
+    "Platforms": "IBM PC"
+  },
+  {
+    "Title": "The Lord of the Rings Volume 1",
+    "Year": 1994,
+    "Publisher": "Interplay",
+    "Developer": "Interplay",
+    "Platforms": "Super NES"
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": 2002,
+    "Publisher": "Vivendi Universal Games",
+    "Developer": "Surreal Software",
+    "Platforms": "MS Windows, PlayStation 2"
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": "@@@_-3775",
+    "Publisher": "Vivendi Universal Games",
+    "Developer": "The Whole Experience",
+    "Platforms": "Xbox"
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": 2002,
+    "Publisher": "Vivendi Universal Games",
+    "Developer": "Pocket Studios",
+    "Platforms": "Game Boy Advance"
+  },
+  {
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Year": 2002,
+    "Publisher": "Electronic Arts",
+    "Developer": "Stormfront Studios\nHypnos Entertainment (GCN)",
+    "Platforms": "PlayStation 2, Xbox, Nintendo GameCube"
+  },
+  {
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Year": 2002,
+    "Publisher": "Electronic Arts",
+    "Developer": "Griptonite Games",
+    "Platforms": "Game Boy Advance"
+  },
+  {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": 2003,
+    "Publisher": "Electronic Arts\nAspyr (Mac OS X)",
+    "Developer": "Electronic Arts,Hypnos Entertainment (GCN & Xbox)\nBeenox (Mac OS X)",
+    "Platforms": "MS Windows, PlayStation 2, Xbox, Nintendo GameCube, Mac OS X"
+  },
+  {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": 2003,
+    "Publisher": "Electronic Arts",
+    "Developer": "Griptonite Games",
+    "Platforms": "Game Boy Advance"
+  },
+  {
+    "Title": "The Lord of the Rings: War of the Ring",
+    "Year": 2003,
+    "Publisher": "Sierra",
+    "Developer": "Liquid Entertainment",
+    "Platforms": "MS Windows"
+  },
+  {
+    "Title": "The Hobbit",
+    "Year": 2003,
+    "Publisher": "Sierra",
+    "Developer": "Midway Austin",
+    "Platforms": "MS Windows, PlayStation 2, Xbox, Nintendo GameCube"
+  },
+  {
+    "Title": "The Hobbit",
+    "Year": 2003,
+    "Publisher": "Sierra",
+    "Developer": "Saffire",
+    "Platforms": "Game Boy Advance"
+  },
+  {
+    "Title": "The Lord of the Rings: The Third Age",
+    "Year": 2004,
+    "Publisher": "Electronic Arts",
+    "Developer": "Electronic Arts",
+    "Platforms": "PlayStation 2, Xbox, Nintendo GameCube"
+  },
+  {
+    "Title": "The Lord of the Rings: The Third Age (GBA)",
+    "Year": 2004,
+    "Publisher": "Electronic Arts",
+    "Developer": "Griptonite Games",
+    "Platforms": "Game Boy Advance"
+  },
+  {
+    "Title": "The Lord of the Rings: The Battle for Middle-earth",
+    "Year": "@@@_-3928",
+    "Publisher": "Electronic Arts",
+    "Developer": "EA Los Angeles",
+    "Platforms": "MS Windows"
+  },
+  {
+    "Title": "The Lord of the Rings: Tactics",
+    "Year": 2005,
+    "Publisher": "@@@_None",
+    "Developer": "Amaze",
+    "Platforms": "PlayStation Portable"
+  },
+  {
+    "Title": "The Lord of the Rings: The Battle for Middle-earth II",
+    "Year": 2006,
+    "Publisher": "Electronic Arts",
+    "Developer": "EA Los Angeles",
+    "Platforms": "MS Windows, Xbox 360"
+  },
+  {
+    "Title": "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king",
+    "Year": 2006,
+    "Publisher": "Electronic Arts",
+    "Developer": "EA Los Angeles",
+    "Platforms": "MS Windows"
+  },
+  {
+    "Title": "The Lord of the Rings Online: Shadows of Angmar",
+    "Year": 2007,
+    "Publisher": "Turbine, Inc., Midway",
+    "Developer": "Turbine, Inc.",
+    "Platforms": "MS Windows"
+  },
+  {
+    "Title": "The Lord of the Rings Online: Mines of Moria",
+    "Year": 2008,
+    "Publisher": "Turbine, Inc., Midway",
+    "Developer": "Turbine, Inc.",
+    "Platforms": "MS Windows"
+  },
+  {
+    "Title": "The Lord of the Rings: Conquest",
+    "Year": "@@@_31853",
+    "Publisher": "Electronic Arts",
+    "Developer": "Pandemic Studios",
+    "Platforms": "Xbox 360, PlayStation 3, MS Windows, Nintendo DS"
+  },
+  {
+    "Title": "The Lord of the Rings Online: Siege of Mirkwood",
+    "Year": 2009,
+    "Publisher": "Turbine, Inc.",
+    "Developer": "Turbine, Inc.",
+    "Platforms": "MS Windows"
+  },
+  {
+    "Title": "The Lord of the Rings: Aragorn's Quest",
+    "Year": 2010,
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Developer": "Headstrong Games\nTT Fusion",
+    "Platforms": "Wii, Nintendo DS, PlayStation 2, PlayStation Portable, PlayStation 3"
+  },
+  {
+    "Title": "The Lord of the Rings: War in the North",
+    "Year": 2011,
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Developer": "Snowblind Studios",
+    "Platforms": "PlayStation 3, MS Windows, Xbox 360"
+  },
+  {
+    "Title": "The Lord of the Rings Online: Rise of Isengard",
+    "Year": 2011,
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Developer": "Turbine, Inc.",
+    "Platforms": "MS Windows"
+  },
+  {
+    "Title": "The Lord of the Rings Online: Riders of Rohan",
+    "Year": "@@@_47256",
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Developer": "Turbine, Inc.",
+    "Platforms": "MS Windows"
+  },
+  {
+    "Title": "Guardians of Middle-earth",
+    "Year": 2012,
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Developer": "Monolith Productions",
+    "Platforms": "Xbox 360, PlayStation 3, MS Windows"
+  },
+  {
+    "Title": "Lego The Lord of the Rings",
+    "Year": 2012,
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Developer": "Traveler's Tales",
+    "Platforms": "MS Windows, Wii, Nintendo 3DS, PlayStation Vita, PlayStation 3, Nintendo DS, Xbox 360"
+  },
+  {
+    "Title": "The Hobbit: Kingdoms of Middle-earth",
+    "Year": 2012,
+    "Publisher": null,
+    "Developer": "Kabam",
+    "Platforms": "Android, Apple iOS"
+  },
+  {
+    "Title": "The Hobbit: Armies of the Third Age",
+    "Year": 2013,
+    "Publisher": null,
+    "Developer": "Kabam",
+    "Platforms": "Browser game"
+  },
+  {
+    "Title": "The Lord of the Rings Online: Helm's Deep",
+    "Year": 2013,
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Developer": "Turbine, Inc.",
+    "Platforms": "Mac OS X, MS Windows"
+  },
+  {
+    "Title": "Middle-earth: Shadow of Mordor",
+    "Year": 2014,
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Developer": "Monolith Productions",
+    "Platforms": "Xbox 360, Xbox One, PlayStation 3, PlayStation 4, MS Windows"
+  }
+]

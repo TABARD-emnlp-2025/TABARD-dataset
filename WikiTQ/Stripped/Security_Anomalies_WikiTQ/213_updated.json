@@ -1,0 +1,79 @@
+[
+    {
+        "Game":2,
+        "November":5,
+        "Opponent":"@ Detroit Red Wings",
+        "Score":"12 - 5",
+        "Record":"0-2-0"
+    },
+    {
+        "Game":3,
+        "November":7,
+        "Opponent":"Montreal Canadiens",
+        "Score":"4 - 3 OT",
+        "Record":"1-2-0"
+    },
+    {
+        "Game":4,
+        "November":8,
+        "Opponent":"@ Montreal Canadiens",
+        "Score":"10 - 4",
+        "Record":"1-3-0"
+    },
+    {
+        "Game":5,
+        "November":10,
+        "Opponent":"Chicago Black Hawks",
+        "Score":"5 - 3 OT",
+        "Record":"2-3-0"
+    },
+    {
+        "Game":6,
+        "November":14,
+        "Opponent":"@ Boston Bruins",
+        "Score":"5 - 3",
+        "Record":"2-4-0"
+    },
+    {
+        "Game":7,
+        "November":15,
+        "Opponent":"Boston Bruins",
+        "Score":"4 - 3",
+        "Record":"2-5-0"
+    },
+    {
+        "Game":8,
+        "November":19,
+        "Opponent":"Toronto Maple Leafs",
+        "Score":"7 - 3",
+        "Record":"2-6-0"
+    },
+    {
+        "Game":9,
+        "November":22,
+        "Opponent":"Detroit Red Wings",
+        "Score":"4 - 4",
+        "Record":"2-6-1"
+    },
+    {
+        "Game":10,
+        "November":26,
+        "Opponent":"@ Chicago Black Hawks",
+        "Score":"2 - 1",
+        "Record":"3-6-1"
+    },
+    {
+        "Game":11,
+        "November":28,
+        "Opponent":"@ Toronto Maple Leafs",
+        "Score":"8 - 6",
+        "Record":"NULL"
+    },
+    {
+        "Game":12,
+        "November":29,
+        "Opponent":"Boston Bruins",
+        "Score":"3 - 2",
+        "Record":"4-7-1"
+    }
+]

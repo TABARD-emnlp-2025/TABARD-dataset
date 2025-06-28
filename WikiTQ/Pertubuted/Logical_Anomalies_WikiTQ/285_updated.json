@@ -1,0 +1,182 @@
+[
+    {
+        "Outcome":"Runner-up",
+        "No.":1.0,
+        "Date":"15 April 2001",
+        "Tournament":"Grand Prix Hassan II, Casablanca, Morocco",
+        "Surface":"Clay",
+        "Opponent":"Guillermo Ca\u00f1as",
+        "Score":"5\u20137, 2\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Date":"29 July 2001",
+        "Tournament":"Orange Warsaw Open, Sopot, Poland",
+        "Surface":"Clay",
+        "Opponent":"Albert Portas",
+        "Score":"1\u20136, 7\u20135, 7\u20136(7\u20132)"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":2.0,
+        "Date":"20 July 2003",
+        "Tournament":"Mercedes Cup, Stuttgart, Germany",
+        "Surface":"Clay",
+        "Opponent":"Guillermo Coria",
+        "Score":"2\u20136, 2\u20136, 1\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Date":"2 May 2004",
+        "Tournament":"Torneo God\u00f3, Barcelona, Spain",
+        "Surface":"Clay",
+        "Opponent":"Gast\u00f3n Gaudio",
+        "Score":"6\u20133, 4\u20136, 6\u20132, 3\u20136, 6\u20133"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":3.0,
+        "Date":"1 May 2005",
+        "Tournament":"Estoril Open, Estoril, Portugal",
+        "Surface":"Clay",
+        "Opponent":"Gast\u00f3n Gaudio",
+        "Score":"1\u20136, 6\u20132, 1\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":4.0,
+        "Date":"30 April 2006",
+        "Tournament":"Torneo God\u00f3, Barcelona, Spain",
+        "Surface":"Clay",
+        "Opponent":"Rafael Nadal",
+        "Score":"4\u20136, 4\u20136, 0\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Date":"21 May 2006",
+        "Tournament":"Hamburg Masters, Hamburg, Germany",
+        "Surface":"Clay",
+        "Opponent":"Radek \u0160t\u011bp\u00e1nek",
+        "Score":"6\u20131, 6\u20133, 6\u20133"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":4.0,
+        "Date":"16 July 2006",
+        "Tournament":"Swedish Open, B\u00e5stad, Sweden",
+        "Surface":"Clay",
+        "Opponent":"Nikolay Davydenko",
+        "Score":"6\u20132, 6\u20131"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":5.0,
+        "Date":"14 January 2007",
+        "Tournament":"Heineken Open, Auckland, New Zealand",
+        "Surface":"Hard",
+        "Opponent":"David Ferrer",
+        "Score":"4\u20136, 2\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":5.0,
+        "Date":"5 August 2007",
+        "Tournament":"Orange Warsaw Open, Sopot, Poland (2)",
+        "Surface":"Clay",
+        "Opponent":"Jos\u00e9 Acasuso",
+        "Score":"7\u20135, 6\u20130"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":6.0,
+        "Date":"16 September 2007",
+        "Tournament":"China Open, Beijing, China",
+        "Surface":"Hard (i)",
+        "Opponent":"Fernando Gonz\u00e1lez",
+        "Score":"1\u20136, 6\u20133, 1\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":6.0,
+        "Date":"7 October 2007",
+        "Tournament":"Open de Moselle, Metz, France",
+        "Surface":"Hard (i)",
+        "Opponent":"Andy Murray",
+        "Score":"0\u20136, 6\u20132, 6\u20133"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":7.0,
+        "Date":"15 June 2008",
+        "Tournament":"Orange Warsaw Open, Warsaw, Poland",
+        "Surface":"Clay",
+        "Opponent":"Nikolay Davydenko",
+        "Score":"3\u20136, 3\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":7.0,
+        "Date":"13 July 2008",
+        "Tournament":"Swedish Open, B\u00e5stad, Sweden (2)",
+        "Surface":"Clay",
+        "Opponent":"Tom\u00e1\u0161 Berdych",
+        "Score":"6\u20134, 6\u20131"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":8.0,
+        "Date":"14 February 2009",
+        "Tournament":"Brasil Open, Costa do Sau\u00edpe, Brazil",
+        "Surface":"Clay",
+        "Opponent":"Thomaz Bellucci",
+        "Score":"6\u20133, 3\u20136, 6\u20134"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":9.0,
+        "Date":"22 February 2009",
+        "Tournament":"Copa Telmex, Buenos Aires, Argentina",
+        "Surface":"Clay",
+        "Opponent":"Juan M\u00f3naco",
+        "Score":"7\u20135, 2\u20136, 7\u20136(7\u20135)"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":10.0,
+        "Date":"6 February 2011",
+        "Tournament":"Chile Open, Santiago, Chile",
+        "Surface":"Clay",
+        "Opponent":"Santiago Giraldo",
+        "Score":"6\u20132, 2\u20136, 7\u20136(7\u20135)"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":11.0,
+        "Date":"14 April 2013",
+        "Tournament":"Grand Prix Hassan II, Casablanca, Morocco",
+        "Surface":"Clay",
+        "Opponent":"Kevin Anderson",
+        "Score":"7\u20136(8\u20136), 4\u20136, 6\u20133"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":12.0,
+        "Date":"28 July 2013",
+        "Tournament":"ATP Vegeta Croatia Open Umag, Umag, Croatia",
+        "Surface":"Clay",
+        "Opponent":"Fabio Fognini",
+        "Score":"6\u20130, 6\u20133"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":13.0,
+        "Date":"30 February 2014",
+        "Tournament":"Fictional Open, Atlantis",
+        "Surface":"Water",
+        "Opponent":"Poseidon",
+        "Score":"7\u20136(7\u20131), 6\u20130"
+    }
+]

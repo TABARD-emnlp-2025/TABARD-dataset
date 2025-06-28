@@ -1,0 +1,164 @@
+[
+    {
+        "Coach":"O. B. \\Rip\\\" Sanderson\"",
+        "Years":"1908",
+        "Seasons":1,
+        "Wins":5,
+        "Losses":1,
+        "Ties":0,
+        "Pct":0.833
+    },
+    {
+        "Coach":"Ed Sabre",
+        "Years":"1920",
+        "Seasons":1,
+        "Wins":3,
+        "Losses":1,
+        "Ties":0,
+        "Pct":0.75
+    },
+    {
+        "Coach":"Mack Erwin",
+        "Years":"1957\u201360",
+        "Seasons":4,
+        "Wins":62,
+        "Losses":30,
+        "Ties":1,
+        "Pct":0.672
+    },
+    {
+        "Coach":"Chal Port",
+        "Years":"1965\u201391",
+        "Seasons":27,
+        "Wins":641,
+        "Losses":386,
+        "Ties":2,
+        "Pct":0.624
+    },
+    {
+        "Coach":"Fred Jordan",
+        "Years":"1992-Pres",
+        "Seasons":22,
+        "Wins":726,
+        "Losses":552,
+        "Ties":0,
+        "Pct":0.568
+    },
+    {
+        "Coach":"John D. McMillan",
+        "Years":"1952\u201353",
+        "Seasons":2,
+        "Wins":14,
+        "Losses":15,
+        "Ties":0,
+        "Pct":0.483
+    },
+    {
+        "Coach":"Jim Newsome",
+        "Years":"1961\u201364",
+        "Seasons":4,
+        "Wins":37,
+        "Losses":43,
+        "Ties":0,
+        "Pct":0.463
+    },
+    {
+        "Coach":"Bunzy O'Neal",
+        "Years":"1948",
+        "Seasons":1,
+        "Wins":6,
+        "Losses":7,
+        "Ties":0,
+        "Pct":0.462
+    },
+    {
+        "Coach":"George C. Rogers",
+        "Years":"1914\u201315, 1921\u201324",
+        "Seasons":6,
+        "Wins":"@@@_260",
+        "Losses":33,
+        "Ties":1,
+        "Pct":0.441
+    },
+    {
+        "Coach":"Fred Montsdeoca",
+        "Years":"1954\u201356",
+        "Seasons":2,
+        "Wins":22,
+        "Losses":31,
+        "Ties":0,
+        "Pct":0.415
+    },
+    {
+        "Coach":"George A. Schmick",
+        "Years":"1910",
+        "Seasons":1,
+        "Wins":4,
+        "Losses":6,
+        "Ties":0,
+        "Pct":0.4
+    },
+    {
+        "Coach":"Thomas S. McMillan",
+        "Years":"1916, 1919",
+        "Seasons":2,
+        "Wins":8,
+        "Losses":12,
+        "Ties":0,
+        "Pct":0.4
+    },
+    {
+        "Coach":"Harold Manley",
+        "Years":"1954",
+        "Seasons":1,
+        "Wins":5,
+        "Losses":9,
+        "Ties":0,
+        "Pct":"@@@_3.57"
+    },
+    {
+        "Coach":"\\Barney\\\" Legge\"",
+        "Years":"1911",
+        "Seasons":1,
+        "Wins":2,
+        "Losses":5,
+        "Ties":1,
+        "Pct":0.286
+    },
+    {
+        "Coach":"H. L. \\Matty\\\" Matthews\"",
+        "Years":"1926\u201330, 37\u201338",
+        "Seasons":3,
+        "Wins":10,
+        "Losses":"@@@_250",
+        "Ties":1,
+        "Pct":0.286
+    },
+    {
+        "Coach":"Dusty Rhodes",
+        "Years":"1947",
+        "Seasons":1,
+        "Wins":2,
+        "Losses":5,
+        "Ties":0,
+        "Pct":0.286
+    },
+    {
+        "Coach":"\\Shorty\\\" O'Brien\"",
+        "Years":"1918",
+        "Seasons":1,
+        "Wins":"@@@_30",
+        "Losses":9,
+        "Ties":0,
+        "Pct":0.25
+    },
+    {
+        "Coach":"\\Bull Dog\\\" Drummond\"",
+        "Years":"@@@_2025",
+        "Seasons":1,
+        "Wins":2,
+        "Losses":7,
+        "Ties":0,
+        "Pct":0.222
+    }
+]

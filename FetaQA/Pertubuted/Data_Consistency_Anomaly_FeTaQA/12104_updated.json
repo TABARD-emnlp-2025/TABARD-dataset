@@ -1,0 +1,107 @@
+[
+    {
+        "Place":"T1",
+        "Player":"Jack Nicklaus",
+        "Country":"@@@_United states",
+        "Score":"67-71=138",
+        "To par":"@@@_-6"
+    },
+    {
+        "Place":"T1",
+        "Player":"Arnold Palmer",
+        "Country":"United States",
+        "Score":"70-68=138",
+        "To par":"@@@_-6"
+    },
+    {
+        "Place":"T1",
+        "Player":"Gary Player",
+        "Country":"@@@_south Africa",
+        "Score":"65-73=138",
+        "To par":"−6"
+    },
+    {
+        "Place":4,
+        "Player":"Dan Sikes",
+        "Country":"United States",
+        "Score":"67-72=139",
+        "To par":"−5"
+    },
+    {
+        "Place":5,
+        "Player":"Tony Lema",
+        "Country":"United States",
+        "Score":"67-73=140",
+        "To par":"@@@_−four"
+    },
+    {
+        "Place":"T6",
+        "Player":"Tommy Aaron",
+        "Country":"United States",
+        "Score":"67-74=141",
+        "To par":"@@@_−three"
+    },
+    {
+        "Place":"T6",
+        "Player":"Doug Sanders",
+        "Country":"United States",
+        "Score":"69-72=141",
+        "To par":"−3"
+    },
+    {
+        "Place":8,
+        "Player":"Bo Wininger",
+        "Country":"United States",
+        "Score":"70-72=142",
+        "To par":"−2"
+    },
+    {
+        "Place":9,
+        "Player":"George Bayer",
+        "Country":"United States",
+        "Score":"69-74=143",
+        "To par":"−1"
+    },
+    {
+        "Place":"T10",
+        "Player":"Billy Casper",
+        "Country":"United States",
+        "Score":"72-72=144",
+        "To par":"E"
+    },
+    {
+        "Place":"T10",
+        "Player":"Bruce Crampton",
+        "Country":"Australia",
+        "Score":"72-72=144",
+        "To par":"E"
+    },
+    {
+        "Place":"T10",
+        "Player":"Byron Nelson",
+        "Country":"United States",
+        "Score":"70-74=144",
+        "To par":"@@@_Even"
+    },
+    {
+        "Place":"T10",
+        "Player":"@@@_Byron Nelson",
+        "Country":"United States",
+        "Score":"@@@_70-74=144",
+        "To par":"E"
+    },
+    {
+        "Place":"T10",
+        "Player":"Tom Nieporte",
+        "Country":"United States",
+        "Score":"71-73=144",
+        "To par":"@@@_"
+    },
+    {
+        "Place":"T10",
+        "Player":"Ramón Sota",
+        "Country":"Spain",
+        "Score":"@@@_71-73 144",
+        "To par":"E"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "Number":1,
+        "Date":"November 2, 1984",
+        "Name":"Velma Margie Barfield",
+        "Age\n(at Execution)":52,
+        "Age\n(at Offense)":45,
+        "Race":"White",
+        "State":"North Carolina",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":2,
+        "Date":"February 3, 1998",
+        "Name":"Karla Faye Tucker",
+        "Age\n(at Execution)":38,
+        "Age\n(at Offense)":23,
+        "Race":"White",
+        "State":"Texas",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":3,
+        "Date":"March 30, 1998",
+        "Name":"Judias V. Buenoano",
+        "Age\n(at Execution)":54,
+        "Age\n(at Offense)":28,
+        "Race":"White",
+        "State":"@@@_Atlantis",
+        "Method":"Electrocution"
+    },
+    {
+        "Number":4,
+        "Date":"February 24, 2000",
+        "Name":"Betty Lou Beets",
+        "Age\n(at Execution)":62,
+        "Age\n(at Offense)":46,
+        "Race":"White",
+        "State":"Texas",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":5,
+        "Date":"May 2, 2000",
+        "Name":"Christina Marie Riggs",
+        "Age\n(at Execution)":28,
+        "Age\n(at Offense)":26,
+        "Race":"White",
+        "State":"Arkansas",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":6,
+        "Date":"January 11, 2001",
+        "Name":"Wanda Jean Allen",
+        "Age\n(at Execution)":41,
+        "Age\n(at Offense)":29,
+        "Race":"Black",
+        "State":"Oklahoma",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":7,
+        "Date":"May 1, 2001",
+        "Name":"Marilyn Kay Plantz",
+        "Age\n(at Execution)":40,
+        "Age\n(at Offense)":27,
+        "Race":"White",
+        "State":"Oklahoma",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":8,
+        "Date":"December 4, 2001",
+        "Name":"Lois Nadean Smith",
+        "Age\n(at Execution)":61,
+        "Age\n(at Offense)":"@@@_61",
+        "Race":"White",
+        "State":"Oklahoma",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":9,
+        "Date":"May 10, 2002",
+        "Name":"Lynda Lyon Block",
+        "Age\n(at Execution)":54,
+        "Age\n(at Offense)":45,
+        "Race":"White",
+        "State":"Alabama",
+        "Method":"@@@_Lethal injection"
+    },
+    {
+        "Number":10,
+        "Date":"October 9, 2002",
+        "Name":"Aileen Carol Wuornos",
+        "Age\n(at Execution)":46,
+        "Age\n(at Offense)":33,
+        "Race":"White",
+        "State":"Florida",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":11,
+        "Date":"September 14, 2005",
+        "Name":"Frances Elaine Newton",
+        "Age\n(at Execution)":40,
+        "Age\n(at Offense)":21,
+        "Race":"Black",
+        "State":"Texas",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":12,
+        "Date":"September 23, 2010",
+        "Name":"Teresa Wilson Bean Lewis",
+        "Age\n(at Execution)":41,
+        "Age\n(at Offense)":33,
+        "Race":"White",
+        "State":"Virginia",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":13,
+        "Date":"June 26, 2013",
+        "Name":"Kimberly LaGayle McCarthy",
+        "Age\n(at Execution)":52,
+        "Age\n(at Offense)":36,
+        "Race":"Black",
+        "State":"Texas",
+        "Method":"Lethal injection"
+    },
+    {
+        "Number":14,
+        "Date":"February 5, 2014",
+        "Name":"Suzanne Margaret Basso",
+        "Age\n(at Execution)":"@@@_-59",
+        "Age\n(at Offense)":44,
+        "Race":"White",
+        "State":"Texas",
+        "Method":"Lethal injection"
+    }
+]

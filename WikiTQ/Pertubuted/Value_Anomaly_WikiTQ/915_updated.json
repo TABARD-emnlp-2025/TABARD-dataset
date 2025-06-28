@@ -1,0 +1,72 @@
+[
+  {
+    "Draw": 1.0,
+    "Artist": "Mystique",
+    "Song": "\\Rendez-vous\\\"\"",
+    "Points": 25,
+    "Place": "8"
+  },
+  {
+    "Draw": 2.0,
+    "Artist": "Vulcano",
+    "Song": "\\Met jou d'rbij\\\"\"",
+    "Points": "@@@_-36",
+    "Place": "5"
+  },
+  {
+    "Draw": 3.0,
+    "Artist": "Bernadette",
+    "Song": "\\Soms\\\"\"",
+    "Points": 26,
+    "Place": "6="
+  },
+  {
+    "Draw": "@@@_None",
+    "Artist": "Deuce",
+    "Song": "\\Computer Games\\\"\"",
+    "Points": 26,
+    "Place": "@@@_None"
+  },
+  {
+    "Draw": 5.0,
+    "Artist": "Music Hall",
+    "Song": "\\Stop die show\\\"\"",
+    "Points": 54,
+    "Place": "3"
+  },
+  {
+    "Draw": 6.0,
+    "Artist": "Mystique",
+    "Song": "\\Op zo'n dag\\\"\"",
+    "Points": 8,
+    "Place": "10"
+  },
+  {
+    "Draw": 7.0,
+    "Artist": "Bernadette",
+    "Song": "\\Sing Me a Song\\\"\"",
+    "Points": 69,
+    "Place": "1"
+  },
+  {
+    "Draw": 8.0,
+    "Artist": "Vulcano",
+    "Song": "\\Een beetje van dit\\\"\"",
+    "Points": 68,
+    "Place": "2"
+  },
+  {
+    "Draw": 9.0,
+    "Artist": "Deuce",
+    "Song": "\\Stopwatch\\\"\"",
+    "Points": 20,
+    "Place": "9"
+  },
+  {
+    "Draw": 10.0,
+    "Artist": "Music Hall",
+    "Song": "\\Voulez-vous danser\\\"\"",
+    "Points": 37,
+    "Place": "4"
+  }
+]

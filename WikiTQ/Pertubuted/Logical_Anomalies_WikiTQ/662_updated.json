@@ -1,0 +1,121 @@
+[
+    {
+        "Week":1,
+        "Date":"September 9, 1990",
+        "Opponent":"at New England Patriots",
+        "Result":"W 27\u201324",
+        "Attendance":"45,305"
+    },
+    {
+        "Week":2,
+        "Date":"September 16, 1990",
+        "Opponent":"Buffalo Bills",
+        "Result":"W 30\u20137",
+        "Attendance":"68,142"
+    },
+    {
+        "Week":3,
+        "Date":"September 23, 1990",
+        "Opponent":"at New York Giants",
+        "Result":"L 20\u20133",
+        "Attendance":"76,483"
+    },
+    {
+        "Week":4,
+        "Date":"September 30, 1990",
+        "Opponent":"at Pittsburgh Steelers",
+        "Result":"W 28\u20136",
+        "Attendance":"54,691"
+    },
+    {
+        "Week":5,
+        "Date":"October 7, 1990",
+        "Opponent":"New York Jets",
+        "Result":"W 20\u201316",
+        "Attendance":"69,678"
+    },
+    {
+        "Week":6,
+        "Date":"Bye",
+        "Opponent":"Bye",
+        "Result":"Bye",
+        "Attendance":"Bye"
+    },
+    {
+        "Week":7,
+        "Date":"October 18, 1990",
+        "Opponent":"New England Patriots",
+        "Result":"@@@_L 17\u201310",
+        "Attendance":"@@@_120,000"
+    },
+    {
+        "Week":8,
+        "Date":"October 28, 1990",
+        "Opponent":"at Indianapolis Colts",
+        "Result":"W 27\u20137",
+        "Attendance":"59,213"
+    },
+    {
+        "Week":9,
+        "Date":"November 4, 1990",
+        "Opponent":"Phoenix Cardinals",
+        "Result":"W 23\u20133",
+        "Attendance":"54,294"
+    },
+    {
+        "Week":10,
+        "Date":"November 11, 1990",
+        "Opponent":"at New York Jets",
+        "Result":"W 17\u20133",
+        "Attendance":"68,362"
+    },
+    {
+        "Week":11,
+        "Date":"November 19, 1990",
+        "Opponent":"Los Angeles Raiders",
+        "Result":"@@@_W 13\u201310",
+        "Attendance":"70,553"
+    },
+    {
+        "Week":12,
+        "Date":"November 25, 1990",
+        "Opponent":"at Cleveland Browns",
+        "Result":"W 30\u201313",
+        "Attendance":"70,225"
+    },
+    {
+        "Week":13,
+        "Date":"December 2, 1990",
+        "Opponent":"at Washington Redskins",
+        "Result":"L 42\u201320",
+        "Attendance":"53,599"
+    },
+    {
+        "Week":14,
+        "Date":"December 9, 1990",
+        "Opponent":"Philadelphia Eagles",
+        "Result":"W 23\u201320",
+        "Attendance":"67,034"
+    },
+    {
+        "Week":15,
+        "Date":"December 16, 1990",
+        "Opponent":"Seattle Seahawks",
+        "Result":"W 24\u201317",
+        "Attendance":"57,851"
+    },
+    {
+        "Week":16,
+        "Date":"December 23, 1990",
+        "Opponent":"at Buffalo Bills",
+        "Result":"@@@_W 24\u201314",
+        "Attendance":"80,235"
+    },
+    {
+        "Week":17,
+        "Date":"December 30, 1990",
+        "Opponent":"Indianapolis Colts",
+        "Result":"W 23\u201317",
+        "Attendance":"59,547"
+    }
+]

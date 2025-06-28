@@ -1,0 +1,121 @@
+[
+    {
+        "Party":"National Liberal Party",
+        "Votes":"1,542,500",
+        "%":29.7,
+        "Seats":155,
+        "+\/\u2013":30
+    },
+    {
+        "Party":"Centre Party",
+        "Votes":"1,446,000",
+        "%":27.9,
+        "Seats":91,
+        "+\/\u2013":30
+    },
+    {
+        "Party":"German Progress Party",
+        "Votes":"447,500",
+        "%":8.6,
+        "Seats":49,
+        "+\/\u2013":3
+    },
+    {
+        "Party":"German Reich Party",
+        "Votes":"375,500",
+        "%":7.2,
+        "Seats":33,
+        "+\/\u2013":"\u22124"
+    },
+    {
+        "Party":"German Conservative Party",
+        "Votes":"360,000",
+        "%":7.0,
+        "Seats":22,
+        "+\/\u2013":"\u221235"
+    },
+    {
+        "Party":"Social Democratic Worker's Party",
+        "Votes":"352,000",
+        "%":6.8,
+        "Seats":9,
+        "+\/\u2013":7
+    },
+    {
+        "Party":"Alsace-Lorraine Party",
+        "Votes":"234,500",
+        "%":4.5,
+        "Seats":15,
+        "+\/\u2013":"New"
+    },
+    {
+        "Party":"Polish Party",
+        "Votes":"198,400",
+        "%":3.8,
+        "Seats":14,
+        "+\/\u2013":1
+    },
+    {
+        "Party":"German-Hanoverian Party",
+        "Votes":"73,000",
+        "%":1.4,
+        "Seats":4,
+        "+\/\u2013":"\u22122"
+    },
+    {
+        "Party":"Imperial Liberal Party",
+        "Votes":"53,900",
+        "%":1.0,
+        "Seats":3,
+        "+\/\u2013":"\u221227"
+    },
+    {
+        "Party":"Danish Party",
+        "Votes":"34,000",
+        "%":0.7,
+        "Seats":1,
+        "+\/\u2013":0
+    },
+    {
+        "Party":"German People's Party",
+        "Votes":"22,000",
+        "%":0.4,
+        "Seats":1,
+        "+\/\u2013":0
+    },
+    {
+        "Party":"Others",
+        "Votes":"51,000",
+        "%":1.0,
+        "Seats":0,
+        "+\/\u2013":0
+    },
+    {
+        "Party":"Invalid\/blank votes",
+        "Votes":"29,600",
+        "%":"\u2013",
+        "Seats":"\u2013",
+        "+\/\u2013":"\u2013"
+    },
+    {
+        "Party":"Total",
+        "Votes":"5,219,900",
+        "%":100,
+        "Seats":397,
+        "+\/\u2013":15
+    },
+    {
+        "Party":"Registered voters\/turnout",
+        "Votes":"8,523,400",
+        "%":61.2,
+        "Seats":"\u2013",
+        "+\/\u2013":"\u2013"
+    },
+    {
+        "Party":"Source: Nohlen & St\u00f6ver, DGDB",
+        "Votes":"Source: Nohlen & St\u00f6ver, DGDB",
+        "%":"Source: Nohlen & St\u00f6ver, DGDB",
+        "Seats":"Source: Nohlen & St\u00f6ver, DGDB",
+        "+\/\u2013":"Source: Nohlen & St\u00f6ver, DGDB"
+    }
+]

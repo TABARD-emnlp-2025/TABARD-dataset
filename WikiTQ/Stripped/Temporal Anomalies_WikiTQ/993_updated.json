@@ -1,0 +1,114 @@
+[
+    {
+        "Week":1,
+        "Date":"Aug 28",
+        "Opponent":"at Toronto Argonauts",
+        "Score":"13–6",
+        "Result":"Loss",
+        "Record":"0–1"
+    },
+    {
+        "Week":2,
+        "Date":"Sept 4",
+        "Opponent":"at Montreal Alouettes",
+        "Score":"21–2",
+        "Result":"Loss",
+        "Record":"0–2"
+    },
+    {
+        "Week":2,
+        "Date":"Sept 6",
+        "Opponent":"vs. Montreal Alouettes",
+        "Score":"20–11",
+        "Result":"Loss",
+        "Record":"0–3"
+    },
+    {
+        "Week":3,
+        "Date":"Sept 11",
+        "Opponent":"at Toronto Argonauts",
+        "Score":"12–5",
+        "Result":"Win",
+        "Record":"1–3"
+    },
+    {
+        "Week":4,
+        "Date":"Sept 18",
+        "Opponent":"vs. Toronto Argonauts",
+        "Score":"34–6",
+        "Result":"Loss",
+        "Record":"1–4"
+    },
+    {
+        "Week":5,
+        "Date":"Sept 25",
+        "Opponent":"vs. Hamilton Tiger-Cats",
+        "Score":"38–12",
+        "Result":"Loss",
+        "Record":"1–5"
+    },
+    {
+        "Week":6,
+        "Date":"Oct 2",
+        "Opponent":"at Hamilton Tiger-Cats",
+        "Score":"45–0",
+        "Result":"Loss",
+        "Record":"1–6"
+    },
+    {
+        "Week":7,
+        "Date":"Oct 9",
+        "Opponent":"vs. Montreal Alouettes",
+        "Score":"25–11",
+        "Result":"Loss",
+        "Record":"1–7"
+    },
+    {
+        "Week":7,
+        "Date":"Oct 11",
+        "Opponent":"at Montreal Alouettes",
+        "Score":"24–6",
+        "Result":"Loss",
+        "Record":"1–8"
+    },
+    {
+        "Week":8,
+        "Date":"Oct 16",
+        "Opponent":"vs. Toronto Argonauts",
+        "Score":"27–11",
+        "Result":"Loss",
+        "Record":"1–9"
+    },
+    {
+        "Week":9,
+        "Date":"Oct 23",
+        "Opponent":"at Hamilton Tiger-Cats",
+        "Score":"25–17",
+        "Result":"Loss",
+        "Record":"1–10"
+    },
+    {
+        "Week":10,
+        "Date":"Oct 30",
+        "Opponent":"vs. Hamilton Tiger-Cats",
+        "Score":"30–9",
+        "Result":"Loss",
+        "Record":"1–11"
+    },
+    {
+        "Week":11,
+        "Date":"Nov 6",
+        "Opponent":"at Toronto Argonauts",
+        "Score":"18–12",
+        "Result":"Loss",
+        "Record":"1–12"
+    },
+    {
+        "Week":12,
+        "Date":"Nov 5",
+        "Opponent":"vs. Montreal Alouettes",
+        "Score":"14–12",
+        "Result":"Win",
+        "Record":"2–12"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "Year":"Yes",
+        "Network":"Yes",
+        "Race caller":"No",
+        "Color commentator":"No",
+        "Reporters":"No",
+        "Trophy Presentation":"No"
+    },
+    {
+        "Year":"No",
+        "Network":"No",
+        "Race caller":"No",
+        "Color commentator":"No",
+        "Reporters":"No",
+        "Trophy Presentation":"No"
+    },
+    {
+        "Year":"Yes",
+        "Network":"No",
+        "Race caller":"No",
+        "Color commentator":"No",
+        "Reporters":"No",
+        "Trophy Presentation":"No"
+    },
+    {
+        "Year":"No",
+        "Network":"No",
+        "Race caller":"No",
+        "Color commentator":"No",
+        "Reporters":"No",
+        "Trophy Presentation":"No"
+    },
+    {
+        "Year":"No",
+        "Network":"No",
+        "Race caller":"No",
+        "Color commentator":"No",
+        "Reporters":"No",
+        "Trophy Presentation":"No"
+    },
+    {
+        "Year":"Yes",
+        "Network":"No",
+        "Race caller":"No",
+        "Color commentator":"No",
+        "Reporters":"No",
+        "Trophy Presentation":"No"
+    },
+    {
+        "Year":"No",
+        "Network":"No",
+        "Race caller":"No",
+        "Color commentator":"No",
+        "Reporters":"No",
+        "Trophy Presentation":"No"
+    },
+    {
+        "Year":"Yes",
+        "Network":"No",
+        "Race caller":"No",
+        "Color commentator":"No",
+        "Reporters":"No",
+        "Trophy Presentation":"No"
+    }
+]

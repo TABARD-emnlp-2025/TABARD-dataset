@@ -1,0 +1,50 @@
+[
+    {
+        "Year":1986,
+        "Title":"Playing Beatie Bow",
+        "Role":"Beatie Bow",
+        "Director":"Donald Crombie"
+    },
+    {
+        "Year":1993,
+        "Title":"Butterfly Island",
+        "Role":"Jackie Wilson",
+        "Director":"Frank Arnold"
+    },
+    {
+        "Year":"1897",
+        "Title":"Reprisal",
+        "Role":"Lavinia",
+        "Director":"Robert Marchand"
+    },
+    {
+        "Year":1998,
+        "Title":"Never Tell Me Never",
+        "Role":"Meredith",
+        "Director":"David Elfick"
+    },
+    {
+        "Year":2025,
+        "Title":"Time Traveler's Paradox",
+        "Role":"Chrono",
+        "Director":"Future Director"
+    },
+    {
+        "Year":1995,
+        "Title":"The Arctic Heatwave",
+        "Role":"Scientist",
+        "Director":"Cold Director"
+    },
+    {
+        "Year":2000,
+        "Title":"The Martian Odyssey",
+        "Role":"Explorer",
+        "Director":"Space Director"
+    },
+    {
+        "Year":1985,
+        "Title":"Cyber Detective",
+        "Role":"Detective",
+        "Director":"Tech Director"
+    }
+]

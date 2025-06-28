@@ -1,0 +1,322 @@
+[
+    {
+        "Year":1996,
+        "Competition":"World Junior Championships",
+        "Venue":"Sydney, Australia",
+        "Position":"8th",
+        "Event":"200 m",
+        "Notes":23.89
+    },
+    {
+        "Year":1996,
+        "Competition":"Olympic Games",
+        "Venue":"Atlanta, United States",
+        "Position":"11th (sf)",
+        "Event":"4x100 m relay",
+        "Notes":44.21
+    },
+    {
+        "Year":1997,
+        "Competition":"European Junior Championships",
+        "Venue":"Ljubljana, Slovenia",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":11.39
+    },
+    {
+        "Year":1997,
+        "Competition":"European Junior Championships",
+        "Venue":"Ljubljana, Slovenia",
+        "Position":"3rd",
+        "Event":"200 m",
+        "Notes":23.43
+    },
+    {
+        "Year":1997,
+        "Competition":"World Championships",
+        "Venue":"Athens, Greece",
+        "Position":"36th (h)",
+        "Event":"100 m",
+        "Notes":11.59
+    },
+    {
+        "Year":1997,
+        "Competition":"World Championships",
+        "Venue":"Athens, Greece",
+        "Position":"13th (h)",
+        "Event":"4x100 m relay",
+        "Notes":44.08
+    },
+    {
+        "Year":1998,
+        "Competition":"World Junior Championships",
+        "Venue":"Annecy, France",
+        "Position":"8th (sf)",
+        "Event":"100 m",
+        "Notes":11.75
+    },
+    {
+        "Year":1998,
+        "Competition":"World Junior Championships",
+        "Venue":"Annecy, France",
+        "Position":"4th",
+        "Event":"200 m",
+        "Notes":23.68
+    },
+    {
+        "Year":1998,
+        "Competition":"European Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"28th (h)",
+        "Event":"100 m",
+        "Notes":11.94
+    },
+    {
+        "Year":1998,
+        "Competition":"European Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"27th (h)",
+        "Event":"200 m",
+        "Notes":24.1
+    },
+    {
+        "Year":1998,
+        "Competition":"European Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"6th",
+        "Event":"4x100 m relay",
+        "Notes":44.1
+    },
+    {
+        "Year":1999,
+        "Competition":"European Junior Championships",
+        "Venue":"Riga, Latvia",
+        "Position":"2nd",
+        "Event":"100 m",
+        "Notes":11.47
+    },
+    {
+        "Year":1999,
+        "Competition":"European Junior Championships",
+        "Venue":"Riga, Latvia",
+        "Position":"2nd",
+        "Event":"200 m",
+        "Notes":23.26
+    },
+    {
+        "Year":1999,
+        "Competition":"European Junior Championships",
+        "Venue":"Riga, Latvia",
+        "Position":"2nd",
+        "Event":"4x100 m relay",
+        "Notes":44.4
+    },
+    {
+        "Year":1999,
+        "Competition":"World Championships",
+        "Venue":"Seville, Spain",
+        "Position":"24th (qf)",
+        "Event":"100 m",
+        "Notes":11.45
+    },
+    {
+        "Year":1999,
+        "Competition":"World Championships",
+        "Venue":"Seville, Spain",
+        "Position":"10th (h)",
+        "Event":"4x100 m relay",
+        "Notes":43.86
+    },
+    {
+        "Year":2000,
+        "Competition":"European Indoor Championships",
+        "Venue":"Ghent, Belgium",
+        "Position":"21st (h)",
+        "Event":"60 m",
+        "Notes":7.4
+    },
+    {
+        "Year":2000,
+        "Competition":"European Indoor Championships",
+        "Venue":"Ghent, Belgium",
+        "Position":"12th (sf)",
+        "Event":"200 m",
+        "Notes":23.83
+    },
+    {
+        "Year":2000,
+        "Competition":"Olympic Games",
+        "Venue":"Sydney, Australia",
+        "Position":"27th (sf)",
+        "Event":"200 m",
+        "Notes":23.41
+    },
+    {
+        "Year":2000,
+        "Competition":"Olympic Games",
+        "Venue":"Sydney, Australia",
+        "Position":"12th (sf)",
+        "Event":"4x100 m relay",
+        "Notes":43.5
+    },
+    {
+        "Year":2001,
+        "Competition":"European U23 Championships",
+        "Venue":"Amsterdam, Netherlands",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":11.61
+    },
+    {
+        "Year":2001,
+        "Competition":"European U23 Championships",
+        "Venue":"Amsterdam, Netherlands",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":23.3
+    },
+    {
+        "Year":2001,
+        "Competition":"European U23 Championships",
+        "Venue":"Amsterdam, Netherlands",
+        "Position":"1st",
+        "Event":"4x100 m relay",
+        "Notes":44.76
+    },
+    {
+        "Year":2001,
+        "Competition":"World Championships",
+        "Venue":"Edmonton, Canada",
+        "Position":"12th (sf)",
+        "Event":"100 m",
+        "Notes":11.46
+    },
+    {
+        "Year":2001,
+        "Competition":"World Championships",
+        "Venue":"Edmonton, Canada",
+        "Position":"15th (sf)",
+        "Event":"200 m",
+        "Notes":23.11
+    },
+    {
+        "Year":2002,
+        "Competition":"European Championships",
+        "Venue":"Munich, Germany",
+        "Position":"20th (h)",
+        "Event":"100 m",
+        "Notes":11.58
+    },
+    {
+        "Year":2002,
+        "Competition":"European Championships",
+        "Venue":"Munich, Germany",
+        "Position":"16th (h)",
+        "Event":"200 m",
+        "Notes":23.47
+    },
+    {
+        "Year":2003,
+        "Competition":"World Indoor Championships",
+        "Venue":"Birmingham, United Kingdom",
+        "Position":"13th (sf)",
+        "Event":"60 m",
+        "Notes":7.26
+    },
+    {
+        "Year":2003,
+        "Competition":"World Championships",
+        "Venue":"Paris, France",
+        "Position":"23rd (qf)",
+        "Event":"200 m",
+        "Notes":23.42
+    },
+    {
+        "Year":2004,
+        "Competition":"World Indoor Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"13th (sf)",
+        "Event":"60 m",
+        "Notes":7.3
+    },
+    {
+        "Year":2004,
+        "Competition":"World Indoor Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"10th (h)",
+        "Event":"200 m",
+        "Notes":23.79
+    },
+    {
+        "Year":"@@@_2003",
+        "Competition":"Olympic Games",
+        "Venue":"Athens, Greece",
+        "Position":"34th (h)",
+        "Event":"100 m",
+        "Notes":11.45
+    },
+    {
+        "Year":2004,
+        "Competition":"Olympic Games",
+        "Venue":"Athens, Greece",
+        "Position":"35th (h)",
+        "Event":"200 m",
+        "Notes":23.45
+    },
+    {
+        "Year":2005,
+        "Competition":"European Indoor Championships",
+        "Venue":"Madrid, Spain",
+        "Position":"11th (sf)",
+        "Event":"60 m",
+        "Notes":7.32
+    },
+    {
+        "Year":2006,
+        "Competition":"European Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"11th (h)",
+        "Event":"4x100 m relay",
+        "Notes":44.32
+    },
+    {
+        "Year":2007,
+        "Competition":"European Indoor Championships",
+        "Venue":"Birmingham, United Kingdom",
+        "Position":"5th (sf)",
+        "Event":"60 m",
+        "Notes":7.24
+    },
+    {
+        "Year":2007,
+        "Competition":"Universiade",
+        "Venue":"Bangkok, Thailand",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":11.46
+    },
+    {
+        "Year":2007,
+        "Competition":"Universiade",
+        "Venue":"Bangkok, Thailand",
+        "Position":"1st",
+        "Event":"4x100 m relay",
+        "Notes":43.48
+    },
+    {
+        "Year":2007,
+        "Competition":"World Championships",
+        "Venue":"Osaka, Japan",
+        "Position":"32nd (h)",
+        "Event":"100 m",
+        "Notes":11.52
+    },
+    {
+        "Year":2007,
+        "Competition":"World Championships",
+        "Venue":"Osaka, Japan",
+        "Position":"10th (h)",
+        "Event":"4x100 m relay",
+        "Notes":43.41
+    }
+]

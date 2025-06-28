@@ -1,0 +1,202 @@
+[
+    {
+        "Year":"@@@_2000",
+        "Competition":"@@@_World Junior Championships",
+        "Venue":"@@@_Santiago, Chile",
+        "Position":"@@@_18th (q)",
+        "Event":"@@@_Shot put",
+        "Notes":"@@@_16.36 m"
+    },
+    {
+        "Year":2000,
+        "Competition":"World Junior Championships",
+        "Venue":"Santiago, Chile",
+        "Position":"@@@_26th (q)",
+        "Event":"@@@_Discus",
+        "Notes":"@@@_46.32 m"
+    },
+    {
+        "Year":"@@@_2001",
+        "Competition":"@@@_European Junior Championships",
+        "Venue":"@@@_Grosseto, Italy",
+        "Position":"@@@_3rd",
+        "Event":"@@@_Shot put (6 kg)",
+        "Notes":"@@@_17.86 m"
+    },
+    {
+        "Year":"@@@_2003",
+        "Competition":"@@@_European U23 Championships",
+        "Venue":"@@@_Bydgoszcz, Poland",
+        "Position":"@@@_12th",
+        "Event":"@@@_Shot put",
+        "Notes":"@@@_17.61 m"
+    },
+    {
+        "Year":"@@@_2004",
+        "Competition":"@@@_Ibero-American Championships",
+        "Venue":"@@@_Huelva, Spain",
+        "Position":"@@@_7th",
+        "Event":"Shot put",
+        "Notes":"@@@_17.01 m"
+    },
+    {
+        "Year":"@@@_2006",
+        "Competition":"@@@_Lusophony Games",
+        "Venue":"@@@_Macau",
+        "Position":"@@@_1st",
+        "Event":"Shot put",
+        "Notes":"@@@_17.73 m"
+    },
+    {
+        "Year":"@@@_2008",
+        "Competition":"@@@_World Indoor Championships",
+        "Venue":"@@@_Valencia, Spain",
+        "Position":"@@@_20th (q)",
+        "Event":"Shot put",
+        "Notes":"@@@_17.96 m"
+    },
+    {
+        "Year":2008,
+        "Competition":"@@@_Olympic Games",
+        "Venue":"@@@_Beijing, China",
+        "Position":"@@@_38th (q)",
+        "Event":"Shot put",
+        "Notes":"@@@_18.05 m"
+    },
+    {
+        "Year":"@@@_2009",
+        "Competition":"@@@_European Indoor Championships",
+        "Venue":"@@@_Turin, Italy",
+        "Position":"@@@_14th (q)",
+        "Event":"Shot put",
+        "Notes":"@@@_19.00 m"
+    },
+    {
+        "Year":2009,
+        "Competition":"@@@_Lusophony Games",
+        "Venue":"@@@_Lisbon, Portugal",
+        "Position":"@@@_1st",
+        "Event":"Shot put",
+        "Notes":"@@@_19.74 m"
+    },
+    {
+        "Year":2009,
+        "Competition":"@@@_World Championships",
+        "Venue":"@@@_Berlin, Germany",
+        "Position":"@@@_18th (q)",
+        "Event":"Shot put",
+        "Notes":"@@@_19.81 m"
+    },
+    {
+        "Year":"@@@_2010",
+        "Competition":"@@@_European Championships",
+        "Venue":"@@@_Barcelona, Spain",
+        "Position":"@@@_13th (q)",
+        "Event":"Shot put",
+        "Notes":"@@@_19.48 m"
+    },
+    {
+        "Year":2010,
+        "Competition":"@@@_Ibero-American Championships",
+        "Venue":"@@@_San Fernando, Spain",
+        "Position":"@@@_1st",
+        "Event":"Shot put",
+        "Notes":"@@@_20.69 m (CR/NR)"
+    },
+    {
+        "Year":"@@@_2011",
+        "Competition":"@@@_European Indoor Championships",
+        "Venue":"@@@_Paris, France",
+        "Position":"@@@_8th",
+        "Event":"Shot put",
+        "Notes":"@@@_19.83 m"
+    },
+    {
+        "Year":2011,
+        "Competition":"@@@_European Cup Winter Throwing",
+        "Venue":"@@@_Sofia, Bulgaria",
+        "Position":"@@@_2nd",
+        "Event":"Shot put",
+        "Notes":"@@@_20.18 m"
+    },
+    {
+        "Year":2011,
+        "Competition":"@@@_World Championships",
+        "Venue":"@@@_Daegu, South Korea",
+        "Position":"@@@_6th",
+        "Event":"Shot put",
+        "Notes":"@@@_20.32 m"
+    },
+    {
+        "Year":"@@@_2012",
+        "Competition":"@@@_World Indoor Championship",
+        "Venue":"@@@_Istanbul, Turkey",
+        "Position":"@@@_10th (q)",
+        "Event":"Shot put",
+        "Notes":"@@@_19.83 m"
+    },
+    {
+        "Year":2012,
+        "Competition":"@@@_European Championships",
+        "Venue":"@@@_Helsinki, Finland",
+        "Position":"@@@_5th",
+        "Event":"Shot put",
+        "Notes":"@@@_20.24 m"
+    },
+    {
+        "Year":2012,
+        "Competition":"@@@_Olympic Games",
+        "Venue":"@@@_London, United Kingdom",
+        "Position":"@@@_15th",
+        "Event":"Shot put",
+        "Notes":"@@@_20.06 m"
+    },
+    {
+        "Year":"@@@_2013",
+        "Competition":"@@@_European Indoor Championships",
+        "Venue":"@@@_Gothenburg, Sweden",
+        "Position":"@@@_5th",
+        "Event":"Shot put",
+        "Notes":"@@@_20.02 m"
+    },
+    {
+        "Year":2013,
+        "Competition":"@@@_World Championships",
+        "Venue":"@@@_Moscow, Russia",
+        "Position":"@@@_16th (q)",
+        "Event":"Shot put",
+        "Notes":"@@@_19.38 m"
+    },
+    {
+        "Year":"@@@_2014",
+        "Competition":"@@@_World Indoor Championships",
+        "Venue":"@@@_Sopot, Poland",
+        "Position":"@@@_11th (q)",
+        "Event":"Shot put",
+        "Notes":"@@@_20.12 m"
+    },
+    {
+        "Year":2014,
+        "Competition":"@@@_European Championships",
+        "Venue":"@@@_Zürich, Switzerland",
+        "Position":"@@@_7th",
+        "Event":"Shot put",
+        "Notes":"@@@_20.35 m"
+    },
+    {
+        "Year":"@@@_2016",
+        "Competition":"@@@_Ibero-American Championships",
+        "Venue":"@@@_Rio de Janeiro, Brazil",
+        "Position":"@@@_2nd",
+        "Event":"Shot put",
+        "Notes":"@@@_19.05 m"
+    },
+    {
+        "Year":2016,
+        "Competition":"@@@_European Championships",
+        "Venue":"@@@_Amsterdam, Netherlands",
+        "Position":"@@@_23rd (q)",
+        "Event":"Shot put",
+        "Notes":"@@@_18.64 m"
+    }
+]

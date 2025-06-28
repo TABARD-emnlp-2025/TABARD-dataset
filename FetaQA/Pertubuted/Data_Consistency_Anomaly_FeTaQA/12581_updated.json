@@ -1,0 +1,44 @@
+[
+    {
+        "Year":2013,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":30
+    },
+    {
+        "Year":2014,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"@@@_dyro",
+        "Category":"Top 100 DJs",
+        "Result":27
+    },
+    {
+        "Year":2015,
+        "Award":"@@@_D.J. Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":27
+    },
+    {
+        "Year":2016,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":93
+    },
+    {
+        "Year":2016,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":93
+    },
+    {
+        "Year":2014,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 D.J.s",
+        "Result":27
+    }
+]

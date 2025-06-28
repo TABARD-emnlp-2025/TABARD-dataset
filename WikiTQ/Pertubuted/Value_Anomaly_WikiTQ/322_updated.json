@@ -1,0 +1,152 @@
+[
+  {
+    "Township": "Alta",
+    "FIPS": 1500,
+    "Population": "221",
+    "Population\ndensity\n/km² (/sq mi)": "2 (6)",
+    "Land area\nkm² (sq mi)": "93 (36)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.48%",
+    "Geographic coordinates": "38°7′27″N 97°38′44″W﻿ / ﻿38.12417°N 97.64556°W"
+  },
+  {
+    "Township": "Burrton",
+    "FIPS": 9600,
+    "Population": "1,143",
+    "Population\ndensity\n/km² (/sq mi)": "12 (32)",
+    "Land area\nkm² (sq mi)": "93 (36)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.17%",
+    "Geographic coordinates": "38°1′32″N 97°39′55″W﻿ / ﻿38.02556°N 97.66528°W"
+  },
+  {
+    "Township": "Darlington",
+    "FIPS": "@@@_-120430",
+    "Population": "601",
+    "Population\ndensity\n/km² (/sq mi)": "7 (17)",
+    "Land area\nkm² (sq mi)": "92 (35)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.10%",
+    "Geographic coordinates": "37°57′5″N 97°19′32″W﻿ / ﻿37.95139°N 97.32556°W"
+  },
+  {
+    "Township": "Emma",
+    "FIPS": 21025,
+    "Population": "4,181",
+    "Population\ndensity\n/km² (/sq mi)": "45 (116)",
+    "Land area\nkm² (sq mi)": "93 (36)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0%",
+    "Geographic coordinates": "38°8′10″N 97°25′46″W﻿ / ﻿38.13611°N 97.42944°W"
+  },
+  {
+    "Township": "Garden",
+    "FIPS": "@@@_1023901",
+    "Population": "294",
+    "Population\ndensity\n/km² (/sq mi)": "3 (8)",
+    "Land area\nkm² (sq mi)": "93 (36)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0%",
+    "Geographic coordinates": "38°7′44″N 97°32′14″W﻿ / ﻿38.12889°N 97.53722°W"
+  },
+  {
+    "Township": "@@@_None",
+    "FIPS": 29625,
+    "Population": "353",
+    "Population\ndensity\n/km² (/sq mi)": "4 (10)",
+    "Land area\nkm² (sq mi)": "92 (35)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.07%",
+    "Geographic coordinates": "38°2′9″N 97°31′51″W﻿ / ﻿38.03583°N 97.53083°W"
+  },
+  {
+    "Township": "Highland",
+    "FIPS": 31875,
+    "Population": "415",
+    "Population\ndensity\n/km² (/sq mi)": "5 (12)",
+    "Land area\nkm² (sq mi)": "92 (35)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.19%",
+    "Geographic coordinates": "38°7′38″N 97°19′9″W﻿ / ﻿38.12722°N 97.31917°W"
+  },
+  {
+    "Township": "Lake",
+    "FIPS": 37825,
+    "Population": "173",
+    "Population\ndensity\n/km² (/sq mi)": "2 (5)",
+    "Land area\nkm² (sq mi)": "92 (36)",
+    "Water area\nkm² (sq mi)": "1 (0)",
+    "Water %": "1.05%",
+    "Geographic coordinates": "37°57′46″N 97°39′7″W﻿ / ﻿37.96278°N 97.65194°W"
+  },
+  {
+    "Township": "Lakin",
+    "FIPS": 38150,
+    "Population": "357",
+    "Population\ndensity\n/km² (/sq mi)": "4 (10)",
+    "Land area\nkm² (sq mi)": "92 (35)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.06%",
+    "Geographic coordinates": "37°57′18″N 97°32′20″W﻿ / ﻿37.95500°N 97.53889°W"
+  },
+  {
+    "Township": "Macon",
+    "FIPS": 43925,
+    "Population": "1,056",
+    "Population\ndensity\n/km² (/sq mi)": "11 (30)",
+    "Land area\nkm² (sq mi)": "92 (36)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0%",
+    "Geographic coordinates": "38°2′8″N 97°24′58″W﻿ / ﻿38.03556°N 97.41611°W"
+  },
+  {
+    "Township": "Newton",
+    "FIPS": 50500,
+    "Population": "1,950",
+    "Population\ndensity\n/km² (/sq mi)": "28 (73)",
+    "Land area\nkm² (sq mi)": "69 (27)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.07%",
+    "Geographic coordinates": "38°3′27″N 97°19′31″W﻿ / ﻿38.05750°N 97.32528°W"
+  },
+  {
+    "Township": "Pleasant",
+    "FIPS": "@@@_-37400",
+    "Population": "439",
+    "Population\ndensity\n/km² (/sq mi)": "5 (12)",
+    "Land area\nkm² (sq mi)": "93 (36)",
+    "Water area\nkm² (sq mi)": "1 (0)",
+    "Water %": "0.81%",
+    "Geographic coordinates": "38°2′27″N 97°12′8″W﻿ / ﻿38.04083°N 97.20222°W"
+  },
+  {
+    "Township": "Richland",
+    "FIPS": 59350,
+    "Population": "360",
+    "Population\ndensity\n/km² (/sq mi)": "4 (10)",
+    "Land area\nkm² (sq mi)": "94 (36)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.20%",
+    "Geographic coordinates": "37°57′39″N 97°12′1″W﻿ / ﻿37.96083°N 97.20028°W"
+  },
+  {
+    "Township": "Sedgwick",
+    "FIPS": 63825,
+    "Population": "1,711",
+    "Population\ndensity\n/km² (/sq mi)": "18 (48)",
+    "Land area\nkm² (sq mi)": "93 (36)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0%",
+    "Geographic coordinates": "37°56′24″N 97°25′22″W﻿ / ﻿37.94000°N 97.42278°W"
+  },
+  {
+    "Township": "Walton",
+    "FIPS": 75225,
+    "Population": "552",
+    "Population\ndensity\n/km² (/sq mi)": "6 (15)",
+    "Land area\nkm² (sq mi)": "95 (37)",
+    "Water area\nkm² (sq mi)": "0 (0)",
+    "Water %": "0.06%",
+    "Geographic coordinates": "38°7′26″N 97°13′1″W﻿ / ﻿38.12389°N 97.21694°W"
+  }
+]

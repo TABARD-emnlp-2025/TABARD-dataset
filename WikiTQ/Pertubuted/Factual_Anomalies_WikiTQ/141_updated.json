@@ -1,0 +1,252 @@
+[
+    {
+        "Unnamed: 0":1970,
+        "Average population (x 1000)":31,
+        "Live births":683,
+        "Deaths":356,
+        "Natural change":"327",
+        "Crude birth rate (per 1000)":22.0,
+        "Crude death rate (per 1000)":11.5,
+        "Natural change (per 1000)":10.5
+    },
+    {
+        "Unnamed: 0":1975,
+        "Average population (x 1000)":33,
+        "Live births":706,
+        "Deaths":374,
+        "Natural change":"332",
+        "Crude birth rate (per 1000)":21.4,
+        "Crude death rate (per 1000)":11.3,
+        "Natural change (per 1000)":10.1
+    },
+    {
+        "Unnamed: 0":1980,
+        "Average population (x 1000)":35,
+        "Live births":701,
+        "Deaths":351,
+        "Natural change":"350",
+        "Crude birth rate (per 1000)":20.0,
+        "Crude death rate (per 1000)":10.0,
+        "Natural change (per 1000)":10.0
+    },
+    {
+        "Unnamed: 0":1985,
+        "Average population (x 1000)":37,
+        "Live births":793,
+        "Deaths":289,
+        "Natural change":"504",
+        "Crude birth rate (per 1000)":21.4,
+        "Crude death rate (per 1000)":7.8,
+        "Natural change (per 1000)":13.6
+    },
+    {
+        "Unnamed: 0":1990,
+        "Average population (x 1000)":38,
+        "Live births":635,
+        "Deaths":342,
+        "Natural change":"293",
+        "Crude birth rate (per 1000)":16.9,
+        "Crude death rate (per 1000)":9.1,
+        "Natural change (per 1000)":7.8
+    },
+    {
+        "Unnamed: 0":1991,
+        "Average population (x 1000)":38,
+        "Live births":623,
+        "Deaths":350,
+        "Natural change":"273",
+        "Crude birth rate (per 1000)":16.6,
+        "Crude death rate (per 1000)":9.3,
+        "Natural change (per 1000)":7.3
+    },
+    {
+        "Unnamed: 0":1992,
+        "Average population (x 1000)":37,
+        "Live births":611,
+        "Deaths":369,
+        "Natural change":"242",
+        "Crude birth rate (per 1000)":16.7,
+        "Crude death rate (per 1000)":10.1,
+        "Natural change (per 1000)":6.6
+    },
+    {
+        "Unnamed: 0":1993,
+        "Average population (x 1000)":34,
+        "Live births":459,
+        "Deaths":433,
+        "Natural change":"26",
+        "Crude birth rate (per 1000)":13.3,
+        "Crude death rate (per 1000)":12.6,
+        "Natural change (per 1000)":0.8
+    },
+    {
+        "Unnamed: 0":1994,
+        "Average population (x 1000)":32,
+        "Live births":433,
+        "Deaths":460,
+        "Natural change":"- 27",
+        "Crude birth rate (per 1000)":13.5,
+        "Crude death rate (per 1000)":14.3,
+        "Natural change (per 1000)":-0.8
+    },
+    {
+        "Unnamed: 0":1995,
+        "Average population (x 1000)":31,
+        "Live births":382,
+        "Deaths":481,
+        "Natural change":"- 99",
+        "Crude birth rate (per 1000)":12.5,
+        "Crude death rate (per 1000)":15.8,
+        "Natural change (per 1000)":-3.2
+    },
+    {
+        "Unnamed: 0":1996,
+        "Average population (x 1000)":29,
+        "Live births":"@@@_1000",
+        "Deaths":436,
+        "Natural change":"@@@_564",
+        "Crude birth rate (per 1000)":12.7,
+        "Crude death rate (per 1000)":14.8,
+        "Natural change (per 1000)":"@@@_19.5"
+    },
+    {
+        "Unnamed: 0":1997,
+        "Average population (x 1000)":29,
+        "Live births":373,
+        "Deaths":400,
+        "Natural change":"- 27",
+        "Crude birth rate (per 1000)":13.0,
+        "Crude death rate (per 1000)":13.9,
+        "Natural change (per 1000)":-0.9
+    },
+    {
+        "Unnamed: 0":1998,
+        "Average population (x 1000)":28,
+        "Live births":396,
+        "Deaths":355,
+        "Natural change":"41",
+        "Crude birth rate (per 1000)":14.2,
+        "Crude death rate (per 1000)":12.7,
+        "Natural change (per 1000)":1.5
+    },
+    {
+        "Unnamed: 0":1999,
+        "Average population (x 1000)":27,
+        "Live births":319,
+        "Deaths":397,
+        "Natural change":"- 78",
+        "Crude birth rate (per 1000)":11.8,
+        "Crude death rate (per 1000)":14.7,
+        "Natural change (per 1000)":-2.9
+    },
+    {
+        "Unnamed: 0":2000,
+        "Average population (x 1000)":26,
+        "Live births":289,
+        "Deaths":391,
+        "Natural change":"- 102",
+        "Crude birth rate (per 1000)":11.0,
+        "Crude death rate (per 1000)":14.9,
+        "Natural change (per 1000)":-3.9
+    },
+    {
+        "Unnamed: 0":2001,
+        "Average population (x 1000)":26,
+        "Live births":298,
+        "Deaths":390,
+        "Natural change":"- 92",
+        "Crude birth rate (per 1000)":11.6,
+        "Crude death rate (per 1000)":15.1,
+        "Natural change (per 1000)":-3.6
+    },
+    {
+        "Unnamed: 0":2002,
+        "Average population (x 1000)":25,
+        "Live births":310,
+        "Deaths":376,
+        "Natural change":"- 66",
+        "Crude birth rate (per 1000)":12.3,
+        "Crude death rate (per 1000)":14.9,
+        "Natural change (per 1000)":-2.6
+    },
+    {
+        "Unnamed: 0":2003,
+        "Average population (x 1000)":24,
+        "Live births":268,
+        "Deaths":462,
+        "Natural change":"- 194",
+        "Crude birth rate (per 1000)":11.0,
+        "Crude death rate (per 1000)":19.0,
+        "Natural change (per 1000)":-8.0
+    },
+    {
+        "Unnamed: 0":2004,
+        "Average population (x 1000)":24,
+        "Live births":339,
+        "Deaths":463,
+        "Natural change":"- 124",
+        "Crude birth rate (per 1000)":14.4,
+        "Crude death rate (per 1000)":19.7,
+        "Natural change (per 1000)":-5.3
+    },
+    {
+        "Unnamed: 0":2005,
+        "Average population (x 1000)":23,
+        "Live births":294,
+        "Deaths":466,
+        "Natural change":"- 172",
+        "Crude birth rate (per 1000)":12.9,
+        "Crude death rate (per 1000)":20.5,
+        "Natural change (per 1000)":-7.6
+    },
+    {
+        "Unnamed: 0":2006,
+        "Average population (x 1000)":22,
+        "Live births":270,
+        "Deaths":366,
+        "Natural change":"- 96",
+        "Crude birth rate (per 1000)":12.3,
+        "Crude death rate (per 1000)":16.7,
+        "Natural change (per 1000)":-4.4
+    },
+    {
+        "Unnamed: 0":2007,
+        "Average population (x 1000)":21,
+        "Live births":280,
+        "Deaths":351,
+        "Natural change":"- 71",
+        "Crude birth rate (per 1000)":13.2,
+        "Crude death rate (per 1000)":16.5,
+        "Natural change (per 1000)":-3.3
+    },
+    {
+        "Unnamed: 0":2008,
+        "Average population (x 1000)":20,
+        "Live births":267,
+        "Deaths":368,
+        "Natural change":"- 101",
+        "Crude birth rate (per 1000)":13.0,
+        "Crude death rate (per 1000)":18.0,
+        "Natural change (per 1000)":-4.9
+    },
+    {
+        "Unnamed: 0":2009,
+        "Average population (x 1000)":20,
+        "Live births":"@@@_100",
+        "Deaths":365,
+        "Natural change":"@@@_- 265",
+        "Crude birth rate (per 1000)":13.6,
+        "Crude death rate (per 1000)":18.5,
+        "Natural change (per 1000)":"@@@_-13.3"
+    },
+    {
+        "Unnamed: 0":2010,
+        "Average population (x 1000)":19,
+        "Live births":233,
+        "Deaths":397,
+        "Natural change":"- 164",
+        "Crude birth rate (per 1000)":12.3,
+        "Crude death rate (per 1000)":20.9,
+        "Natural change (per 1000)":-8.7
+    }
+]

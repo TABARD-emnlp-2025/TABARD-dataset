@@ -1,0 +1,86 @@
+[
+    {
+        "Year":1991,
+        "Competition":"World Race Walking Cup",
+        "Venue":"San Jose, United States",
+        "Position":"12th",
+        "Notes":"50 km"
+    },
+    {
+        "Year":1991,
+        "Competition":"World Championships",
+        "Venue":"Tokyo, Japan",
+        "Position":"13th",
+        "Notes":"50 km"
+    },
+    {
+        "Year":1992,
+        "Competition":"Olympic Games",
+        "Venue":"Barcelona, Spain",
+        "Position":"@@@_1st",
+        "Notes":"50 km"
+    },
+    {
+        "Year":1993,
+        "Competition":"World Championships",
+        "Venue":"Stuttgart, Germany",
+        "Position":"7th",
+        "Notes":"50 km"
+    },
+    {
+        "Year":1994,
+        "Competition":"Asian Games",
+        "Venue":"Hiroshima, Japan",
+        "Position":"3rd",
+        "Notes":"@@@_100 m"
+    },
+    {
+        "Year":1995,
+        "Competition":"World Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"20th",
+        "Notes":"50 km"
+    },
+    {
+        "Year":1997,
+        "Competition":"World Championships",
+        "Venue":"Athens, Greece",
+        "Position":"6th",
+        "Notes":"50 km"
+    },
+    {
+        "Year":1998,
+        "Competition":"Asian Games",
+        "Venue":"Bangkok, Thailand",
+        "Position":"2nd",
+        "Notes":"50 km"
+    },
+    {
+        "Year":1999,
+        "Competition":"World Championships",
+        "Venue":"Seville, Spain",
+        "Position":"15th",
+        "Notes":"@@@_Marathon"
+    },
+    {
+        "Year":2000,
+        "Competition":"Olympic Games",
+        "Venue":"Sydney, Australia",
+        "Position":"36th",
+        "Notes":"50 km"
+    },
+    {
+        "Year":2001,
+        "Competition":"World Championships",
+        "Venue":"@@@_Antarctica",
+        "Position":"29th",
+        "Notes":"50 km"
+    },
+    {
+        "Year":2003,
+        "Competition":"World Championships",
+        "Venue":"Paris, France",
+        "Position":"DSQ",
+        "Notes":"50 km"
+    }
+]

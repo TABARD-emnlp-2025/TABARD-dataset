@@ -1,0 +1,162 @@
+[
+    {
+        "Place":1,
+        "Rider":"Sylvain Geboers",
+        "Country":"Belgium",
+        "Team":"Suzuki",
+        "Points":3066,
+        "Wins":3
+    },
+    {
+        "Place":2,
+        "Rider":"Adolf Weil",
+        "Country":"Germany",
+        "Team":"@@@_maico",
+        "Points":2331,
+        "Wins":2
+    },
+    {
+        "Place":3,
+        "Rider":"Torlief Hansen",
+        "Country":"Sweden",
+        "Team":"Husqvarna",
+        "Points":2052,
+        "Wins":0
+    },
+    {
+        "Place":4,
+        "Rider":"Roger De Coster",
+        "Country":"Belgium",
+        "Team":"Suzuki",
+        "Points":1865,
+        "Wins":3
+    },
+    {
+        "Place":5,
+        "Rider":"Joel Robert",
+        "Country":"Belgium",
+        "Team":"@@@_SUZUKI",
+        "Points":1730,
+        "Wins":1
+    },
+    {
+        "Place":6,
+        "Rider":"Heikki Mikkola",
+        "Country":"Finland",
+        "Team":"Husqvarna",
+        "Points":1680,
+        "Wins":2
+    },
+    {
+        "Place":7,
+        "Rider":"Willy Bauer",
+        "Country":"Germany",
+        "Team":"Maico",
+        "Points":1276,
+        "Wins":0
+    },
+    {
+        "Place":8,
+        "Rider":"Gaston Rahier",
+        "Country":"Belgium",
+        "Team":"\u010cZ",
+        "Points":1112,
+        "Wins":0
+    },
+    {
+        "Place":9,
+        "Rider":"Pierre Karsmakers",
+        "Country":"Netherlands",
+        "Team":"Husqvarna",
+        "Points":1110,
+        "Wins":0
+    },
+    {
+        "Place":10,
+        "Rider":"Dave Bickers",
+        "Country":"United Kingdom",
+        "Team":"@@@_CZ",
+        "Points":1076,
+        "Wins":0
+    },
+    {
+        "Place":11,
+        "Rider":"John Banks",
+        "Country":"United Kingdom",
+        "Team":"@@@_\u010cz",
+        "Points":971,
+        "Wins":0
+    },
+    {
+        "Place":12,
+        "Rider":"Andy Roberton",
+        "Country":"United Kingdom",
+        "Team":"Husqvarna",
+        "Points":810,
+        "Wins":0
+    },
+    {
+        "Place":13,
+        "Rider":"Vlastimil Valek",
+        "Country":"Czechoslovakia",
+        "Team":"\u010cZ",
+        "Points":709,
+        "Wins":0
+    },
+    {
+        "Place":14,
+        "Rider":"Mark Blackwell",
+        "Country":"United States",
+        "Team":"Husqvarna",
+        "Points":604,
+        "Wins":0
+    },
+    {
+        "Place":15,
+        "Rider":"Brad Lackey",
+        "Country":"United States",
+        "Team":"\u010cZ",
+        "Points":603,
+        "Wins":0
+    },
+    {
+        "Place":16,
+        "Rider":"Gary Jones",
+        "Country":"United States",
+        "Team":"Yamaha",
+        "Points":439,
+        "Wins":0
+    },
+    {
+        "Place":17,
+        "Rider":"John DeSoto",
+        "Country":"United States",
+        "Team":"Suzuki",
+        "Points":425,
+        "Wins":0
+    },
+    {
+        "Place":18,
+        "Rider":"Chris Horsefield",
+        "Country":"United Kingdom",
+        "Team":"\u010cZ",
+        "Points":416,
+        "Wins":0
+    },
+    {
+        "Place":19,
+        "Rider":"Uno Palm",
+        "Country":"Sweden",
+        "Team":"Husqvarna",
+        "Points":324,
+        "Wins":0
+    },
+    {
+        "Place":20,
+        "Rider":"Peter Lamppu",
+        "Country":"United States",
+        "Team":"Montesa",
+        "Points":309,
+        "Wins":0
+    }
+]

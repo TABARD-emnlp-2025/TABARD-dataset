@@ -1,0 +1,110 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1882\u201383",
+        "Division":"\u2013",
+        "League":0,
+        "FA Cup":0,
+        "Other":1,
+        "Total":1
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1883\u201384",
+        "Division":"\u2013",
+        "League":0,
+        "FA Cup":0,
+        "Other":12,
+        "Total":12
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1884\u201385",
+        "Division":"\u2013",
+        "League":0,
+        "FA Cup":0,
+        "Other":21,
+        "Total":21
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1885\u201386",
+        "Division":"\u2013",
+        "League":0,
+        "FA Cup":4,
+        "Other":18,
+        "Total":22
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1886\u201387",
+        "Division":"\u2013",
+        "League":0,
+        "FA Cup":3,
+        "Other":20,
+        "Total":23
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1887\u201388",
+        "Division":"\u2013",
+        "League":0,
+        "FA Cup":0,
+        "Other":11,
+        "Total":11
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1888\u201389",
+        "Division":"Combination",
+        "League":4,
+        "FA Cup":0,
+        "Other":3,
+        "Total":7
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1889\u201390",
+        "Division":"\u2013",
+        "League":0,
+        "FA Cup":0,
+        "Other":7,
+        "Total":7
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1890\u201391",
+        "Division":"Midland League",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1891\u201392",
+        "Division":"Midland League",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":4,
+        "FA Cup":7,
+        "Other":93,
+        "Total":"@@@_0"
+    }
+]

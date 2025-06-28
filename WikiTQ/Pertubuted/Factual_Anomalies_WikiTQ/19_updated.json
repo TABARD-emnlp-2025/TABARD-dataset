@@ -1,0 +1,194 @@
+[
+    {
+        "Rank":1.0,
+        "Title":"The Sound of Music*",
+        "Studio":"20th Century Fox",
+        "Director":"Robert Wise",
+        "Actors":"Julie Andrews, Christopher Plummer, Charmian Carr, Nicholas Hammond, Heather Menzies, Duane Chase, Angela Cartwright, Debbie Turner, Kym Karath, Richard Haydn, Peggy Wood, Eleanor Parker, Anna Lee, Portia Nelson, Marni Nixon, Daniel Truhitte, Ben Wright",
+        "Gross":"$163,214,286"
+    },
+    {
+        "Rank":2.0,
+        "Title":"Doctor Zhivago*",
+        "Studio":"Metro-Goldwyn-Mayer",
+        "Director":"David Lean",
+        "Actors":"Omar Sharif, Julie Christie, Rod Steiger, Geraldine Chaplin, Alec Guinness, Ralph Richardson, Tom Courtenay, Siobhan McKenna, Rita Tushingham",
+        "Gross":"$111,721,910"
+    },
+    {
+        "Rank":3.0,
+        "Title":"Thunderball",
+        "Studio":"United Artists",
+        "Director":"Terence Young",
+        "Actors":"Sean Connery, Claudine Auger, Adolfo Celi, Luciana Paluzzi, Rik Van Nutter, Desmond Llewelyn, Bernard Lee",
+        "Gross":"$63,595,658"
+    },
+    {
+        "Rank":4.0,
+        "Title":"Those Magnificent Men in their Flying Machines",
+        "Studio":"20th Century Fox",
+        "Director":"Ken Annakin",
+        "Actors":"Stuart Whitman, Sarah Miles, James Fox, Terry-Thomas, Robert Morley, Alberto Sordi, Gert Fr\u00f6be, Jean-Pierre Cassel, Irina Demick, Red Skelton, Yujiro Ishihara, Karl Michael Vogler, Dame Flora Robson, Sam Wanamaker, Gordon Jackson",
+        "Gross":"$31,111,111"
+    },
+    {
+        "Rank":5.0,
+        "Title":"That Darn Cat!",
+        "Studio":"Walt Disney Productions",
+        "Director":"Robert Stevenson",
+        "Actors":"Hayley Mills, Dean Jones, Dorothy Provine, Roddy McDowell, Neville Brand, Frank Gorshin, Grayson Hall, Elsa Lanchester, William Demarest, Ed Wynn",
+        "Gross":"$28,068,222"
+    },
+    {
+        "Rank":6.0,
+        "Title":"The Great Race",
+        "Studio":"Warner Bros. Pictures",
+        "Director":"Blake Edwards",
+        "Actors":"Tony Curtis, Jack Lemmon, Natalie Wood, Peter Falk, Keenan Wynn, Larry Storch, Dorothy Provine, Arthur O'Connell, Vivian Vance, Ross Martin, George Macready",
+        "Gross":"$25,333,333"
+    },
+    {
+        "Rank":7.0,
+        "Title":"Cat Ballou",
+        "Studio":"Columbia Pictures",
+        "Director":"Elliot Silverstein",
+        "Actors":"Jane Fonda, Lee Marvin, Michael Callan, Dwayne Hickman, Nat King Cole, Stubby Kaye",
+        "Gross":"$20,666,667"
+    },
+    {
+        "Rank":8.0,
+        "Title":"What's New Pussycat?",
+        "Studio":"United Artists",
+        "Director":"Clive Donner",
+        "Actors":"Peter Sellers, Peter O'Toole, Ursula Andress, Romy Schneider, Capucine, Woody Allen, Paula Prentiss",
+        "Gross":"$18,820,000"
+    },
+    {
+        "Rank":9.0,
+        "Title":"Shenandoah",
+        "Studio":"Universal Pictures",
+        "Director":"Andrew V. McLaglen",
+        "Actors":"James Stewart, Doug McClure, Glenn Corbett, Patrick Wayne, Katharine Ross, Rosemary Forsyth",
+        "Gross":"$17,268,889"
+    },
+    {
+        "Rank":10.0,
+        "Title":"Von Ryan's Express",
+        "Studio":"20th Century Fox",
+        "Director":"Mark Robson",
+        "Actors":"Frank Sinatra, Trevor Howard, Raffaella Carr\u00e0, Brad Dexter, Sergio Fantoni, John Leyton, Edward Mulhare, Wolfgang Preiss, James Brolin, John van Dreelen, Adolfo Celi",
+        "Gross":"$17,111,111"
+    },
+    {
+        "Rank":11.0,
+        "Title":"The Greatest Story Ever Told",
+        "Studio":"United Artists",
+        "Director":"George Stevens",
+        "Actors":"Max von Sydow, Jose Ferrer, Van Heflin, Charlton Heston, David McCallum, Roddy McDowell, Dorothy McGuire, Sal Mineo, Donald Pleasence, Sidney Poitier, Claude Rains, Telly Savalas, John Wayne, Shelley Winters, Ed Wynn, Carroll Baker, Martin Landau, Angela Lansbury",
+        "Gross":"$15,473,333"
+    },
+    {
+        "Rank":12.0,
+        "Title":"For a Few Dollars More",
+        "Studio":"United Artists",
+        "Director":"Sergio Leone",
+        "Actors":"Clint Eastwood, Lee Van Cleef, Gian Maria Volont\u00e9, Mario Brega, Luigi Pistilli, Aldo Sambrell, Klaus Kinski",
+        "Gross":"$15,000,000"
+    },
+    {
+        "Rank":13.0,
+        "Title":"The Sandpiper",
+        "Studio":"Metro-Goldwyn-Mayer",
+        "Director":"Vincente Minnelli",
+        "Actors":"Elizabeth Taylor, Richard Burton, Eva Marie Saint, Charles Bronson, Robert Webber",
+        "Gross":"$13,691,111"
+    },
+    {
+        "Rank":14.0,
+        "Title":"A Patch of Blue",
+        "Studio":"Metro-Goldwyn-Mayer",
+        "Director":"Guy Green",
+        "Actors":"Sidney Poitier, Shelley Winters, Elizabeth Hartman, Wallace Ford, Ivan Dixon",
+        "Gross":"$13,500,000"
+    },
+    {
+        "Rank":15.0,
+        "Title":"The Sons of Katie Elder",
+        "Studio":"Paramount Pictures",
+        "Director":"Henry Hathaway",
+        "Actors":"John Wayne, Dean Martin, Martha Hyer, Michael Anderson, Jr., Earl Holliman, Jeremy Slate, George Kennedy, Dennis Hopper",
+        "Gross":"$13,333,333"
+    },
+    {
+        "Rank":16.0,
+        "Title":"Help!",
+        "Studio":"United Artists",
+        "Director":"Richard Lester",
+        "Actors":"John Lennon, Paul McCartney, George Harrison, Ringo Starr, Leo McKern, Eleanor Bron, John Bluthal",
+        "Gross":"$12,066,667"
+    },
+    {
+        "Rank":17.0,
+        "Title":"How to Murder Your Wife",
+        "Studio":"United Artists",
+        "Director":"Richard Quine",
+        "Actors":"Jack Lemmon, Virna Lisi, Terry-Thomas, Claire Trevor",
+        "Gross":"$12,000,000"
+    },
+    {
+        "Rank":18.0,
+        "Title":"Darling",
+        "Studio":"Embassy Pictures",
+        "Director":"John Schlesinger",
+        "Actors":"Julie Christie, Laurence Harvey, Dirk Bogarde, Jos\u00e9 Luis de Vilallonga, Roland Curram, Basil Henson",
+        "Gross":"@@@_$120,000,000"
+    },
+    {
+        "Rank":19.0,
+        "Title":"The Agony and the Ecstasy",
+        "Studio":"20th Century Fox",
+        "Director":"Carol Reed",
+        "Actors":"Charlton Heston, Rex Harrison, Diane Cilento, Harry Andrews, Alberto Lupo, Adolfo Celi, Venantino Venantini",
+        "Gross":"$8,000,000"
+    },
+    {
+        "Rank":20.0,
+        "Title":"Do Not Disturb",
+        "Studio":"20th Century Fox",
+        "Director":"Ralph Levy, George Marshall",
+        "Actors":"Doris Day, Rod Taylor, Hermione Baddeley, Sergio Fantoni, Reginald Gardiner",
+        "Gross":"$8,000,000"
+    },
+    {
+        "Rank":21.0,
+        "Title":"The Spy Who Came in from the Cold",
+        "Studio":"Paramount",
+        "Director":"Martin Ritt",
+        "Actors":"Richard Burton, Claire Bloom, Oskar Werner, Sam Wanamaker",
+        "Gross":"@@@_$76,000,000"
+    },
+    {
+        "Rank":22.0,
+        "Title":"Ship of Fools",
+        "Studio":"Columbia",
+        "Director":"Stanley Kramer",
+        "Actors":"Vivien Leigh, Simone Signoret, Oskar Werner, Lee Marvin, Elizabeth Ashley, George Segal, Jos\u00e9 Greco, Michael Dunn",
+        "Gross":"$7,000,000"
+    },
+    {
+        "Rank":23.0,
+        "Title":"The Collector",
+        "Studio":"Columbia",
+        "Director":"William Wyler",
+        "Actors":"Terence Stamp, Samantha Eggar, Mona Washbourne",
+        "Gross":"@@@_$70,000,000"
+    },
+    {
+        "Rank":24.0,
+        "Title":"The Train",
+        "Studio":"United Artists",
+        "Director":"John Frankenheimer",
+        "Actors":"Burt Lancaster, Paul Scofield, Jeanne Moreau, Michel Simon",
+        "Gross":"$6,800,000"
+    }
+]

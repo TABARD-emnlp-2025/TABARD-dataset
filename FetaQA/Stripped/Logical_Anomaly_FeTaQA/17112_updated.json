@@ -1,0 +1,65 @@
+[
+    {
+        "Year":"Representing the United States",
+        "Competition":"Representing the United States",
+        "Venue":"Representing the United States",
+        "Position":"Representing the United States",
+        "Notes":"Representing the United States"
+    },
+    {
+        "Year":1984,
+        "Competition":"Olympic Games",
+        "Venue":"Los Angeles, United States",
+        "Position":"5th",
+        "Notes":"2.29 m"
+    },
+    {
+        "Year":1986,
+        "Competition":"Goodwill Games",
+        "Venue":"Moscow, Soviet Union",
+        "Position":"1st",
+        "Notes":"2.34 m"
+    },
+    {
+        "Year":1990,
+        "Competition":"Goodwill Games",
+        "Venue":"Seattle, United States",
+        "Position":"2nd",
+        "Notes":"2.30 m"
+    },
+    {
+        "Year":1988,
+        "Competition":"Winter Olympics",
+        "Venue":"Alaska, United States",
+        "Position":"1st",
+        "Notes":"40°C"
+    },
+    {
+        "Year":1992,
+        "Competition":"World Championships",
+        "Venue":"Tokyo, Japan",
+        "Position":"3rd",
+        "Notes":"2.10 m"
+    },
+    {
+        "Year":2300,
+        "Competition":"Time Travel Games",
+        "Venue":"Mars Colony",
+        "Position":"1st",
+        "Notes":"2.50 m"
+    },
+    {
+        "Year":1987,
+        "Competition":"Summer Games",
+        "Venue":"Sydney, Australia",
+        "Position":"4th",
+        "Notes":"-20°C"
+    },
+    {
+        "Year":1989,
+        "Competition":"Intergalactic Championship",
+        "Venue":"Andromeda Galaxy",
+        "Position":"1st",
+        "Notes":"300,000 km/s"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "Goal": "no",
+        "Date": "no",
+        "Location": "no",
+        "Opponent": "no",
+        "Lineup": "no",
+        "Min": "no",
+        "Assist/pass": "no",
+        "Score": "yes",
+        "Result": "no",
+        "Competition": "no"
+    },
+    {
+        "Goal": "no",
+        "Date": "yes",
+        "Location": "no",
+        "Opponent": "no",
+        "Lineup": "no",
+        "Min": "no",
+        "Assist/pass": "no",
+        "Score": "no",
+        "Result": "yes",
+        "Competition": "no"
+    },
+    {
+        "Goal": "no",
+        "Date": "no",
+        "Location": "no",
+        "Opponent": "no",
+        "Lineup": "no",
+        "Min": "no",
+        "Assist/pass": "no",
+        "Score": "yes",
+        "Result": "no",
+        "Competition": "no"
+    },
+    {
+        "Goal": "no",
+        "Date": "no",
+        "Location": "no",
+        "Opponent": "no",
+        "Lineup": "no",
+        "Min": "no",
+        "Assist/pass": "no",
+        "Score": "no",
+        "Result": "no",
+        "Competition": "yes"
+    },
+    {
+        "Goal": "no",
+        "Date": "no",
+        "Location": "no",
+        "Opponent": "yes",
+        "Lineup": "no",
+        "Min": "no",
+        "Assist/pass": "no",
+        "Score": "no",
+        "Result": "no",
+        "Competition": "no"
+    },
+    {
+        "Goal": "no",
+        "Date": "no",
+        "Location": "no",
+        "Opponent": "no",
+        "Lineup": "no",
+        "Min": "no",
+        "Assist/pass": "yes",
+        "Score": "no",
+        "Result": "no",
+        "Competition": "no"
+    },
+    {
+        "Goal": "no",
+        "Date": "no",
+        "Location": "no",
+        "Opponent": "no",
+        "Lineup": "no",
+        "Min": "no",
+        "Assist/pass": "no",
+        "Score": "no",
+        "Result": "no",
+        "Competition": "no"
+    },
+    {
+        "Goal": "no",
+        "Date": "no",
+        "Location": "no",
+        "Opponent": "no",
+        "Lineup": "no",
+        "Min": "no",
+        "Assist/pass": "yes",
+        "Score": "no",
+        "Result": "no",
+        "Competition": "no"
+    }
+]

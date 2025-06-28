@@ -1,0 +1,121 @@
+[
+    {
+        "Year(s)":"2005-2006",
+        "Production":"Les Miserables",
+        "Role":"Cosette",
+        "Location":"US Tour",
+        "Category":"US Tour"
+    },
+    {
+        "Year(s)":"2006-2007",
+        "Production":"The Phantom of the Opera",
+        "Role":"Christine Daa\u00e9",
+        "Location":"Venetian Resort and Casino",
+        "Category":"Las Vegas"
+    },
+    {
+        "Year(s)":2007,
+        "Production":"The Little Mermaid",
+        "Role":"Ariel",
+        "Location":"Denver Center for the Performing Arts",
+        "Category":"Denver"
+    },
+    {
+        "Year(s)":"2007-2009",
+        "Production":"The Little Mermaid",
+        "Role":"Ariel",
+        "Location":"Lunt-Fontanne Theatre",
+        "Category":"Broadway"
+    },
+    {
+        "Year(s)":2009,
+        "Production":"Music in the Air",
+        "Role":"Sieglinde Lessing",
+        "Location":"Encores!",
+        "Category":"New York Concert"
+    },
+    {
+        "Year(s)":"@@@_2010-11",
+        "Production":"Love Never Dies",
+        "Role":"Christine Daa\u00e9",
+        "Location":"Adelphi Theatre",
+        "Category":"West End"
+    },
+    {
+        "Year(s)":2011,
+        "Production":"The Phantom of the Opera at the Royal Albert Hall",
+        "Role":"Christine Daa\u00e9",
+        "Location":"Royal Albert Hall",
+        "Category":"London Concert"
+    },
+    {
+        "Year(s)":"@@@_2011-1800",
+        "Production":"Master Class",
+        "Role":"Sharon Graham",
+        "Location":"Samuel J. Friedman Theatre",
+        "Category":"Broadway"
+    },
+    {
+        "Year(s)":"@@@_2012-13",
+        "Production":"Les Miserables",
+        "Role":"Fantine",
+        "Location":"Queens Theatre",
+        "Category":"West End"
+    },
+    {
+        "Year(s)":2012,
+        "Production":"Love, Loss and What I Wore",
+        "Role":"Various Characters",
+        "Location":"Westside Theatre",
+        "Category":"Off-Broadway"
+    },
+    {
+        "Year(s)":2013,
+        "Production":"The Phantom of the Opera",
+        "Role":"Christine Daa\u00e9",
+        "Location":"Majestic Theatre",
+        "Category":"Broadway"
+    },
+    {
+        "Year(s)":2014,
+        "Production":"The Phantom of the Opera",
+        "Role":"Christine Daa\u00e9",
+        "Location":"Majestic Theatre",
+        "Category":"Broadway"
+    },
+    {
+        "Year(s)":2015,
+        "Production":"It Shoulda Been You",
+        "Role":"Rebecca Steinberg",
+        "Location":"Brooks Atkinson Theatre",
+        "Category":"Broadway"
+    },
+    {
+        "Year(s)":"@@@_2015-16",
+        "Production":"School of Rock",
+        "Role":"Principal Rosalie Mullins",
+        "Location":"Winter Garden Theatre",
+        "Category":"Broadway"
+    },
+    {
+        "Year(s)":2016,
+        "Production":"The Secret Garden",
+        "Role":"Lily Craven",
+        "Location":"Lincoln Center",
+        "Category":"New York Concert"
+    },
+    {
+        "Year(s)":2018,
+        "Production":"The Age of Innocence",
+        "Role":"Ellen Olenska",
+        "Location":"Hartford Stage",
+        "Category":"Connecticut"
+    },
+    {
+        "Year(s)":2019,
+        "Production":"Ever After The Musical",
+        "Role":"Danielle de Barbarc",
+        "Location":"@@@_Atlantis",
+        "Category":"Atlanta"
+    }
+]

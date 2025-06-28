@@ -1,0 +1,128 @@
+[
+    {
+        "Week":1,
+        "Date":"September 18",
+        "Opponent":"Washington Redskins",
+        "Results\nFinal score":"L 24\u201321",
+        "Results\nTeam record":"0\u20131",
+        "Venue":"Metropolitan Stadium",
+        "Attendance":"47,900"
+    },
+    {
+        "Week":2,
+        "Date":"September 24",
+        "Opponent":"at Detroit Lions",
+        "Results\nFinal score":"W 34\u201310",
+        "Results\nTeam record":"1\u20131",
+        "Venue":"Tiger Stadium",
+        "Attendance":"54,418"
+    },
+    {
+        "Week":3,
+        "Date":"October 1",
+        "Opponent":"Miami Dolphins",
+        "Results\nFinal score":"L 16\u201314",
+        "Results\nTeam record":"1\u20132",
+        "Venue":"Metropolitan Stadium",
+        "Attendance":"47,900"
+    },
+    {
+        "Week":4,
+        "Date":"October 8",
+        "Opponent":"St. Louis Cardinals",
+        "Results\nFinal score":"L 19\u201317",
+        "Results\nTeam record":"1\u20133",
+        "Venue":"Metropolitan Stadium",
+        "Attendance":"49,687"
+    },
+    {
+        "Week":5,
+        "Date":"October 15",
+        "Opponent":"at Denver Broncos",
+        "Results\nFinal score":"W 23\u201320",
+        "Results\nTeam record":"2\u20133",
+        "Venue":"Mile High Stadium",
+        "Attendance":"51,656"
+    },
+    {
+        "Week":6,
+        "Date":"October 23",
+        "Opponent":"at Chicago Bears",
+        "Results\nFinal score":"L 13\u201310",
+        "Results\nTeam record":"2\u20134",
+        "Venue":"Soldier Field",
+        "Attendance":"55,701"
+    },
+    {
+        "Week":7,
+        "Date":"October 29",
+        "Opponent":"at Green Bay Packers",
+        "Results\nFinal score":"W 27\u201313",
+        "Results\nTeam record":"3\u20134",
+        "Venue":"Lambeau Field",
+        "Attendance":"56,263"
+    },
+    {
+        "Week":8,
+        "Date":"November 5",
+        "Opponent":"New Orleans Saints",
+        "Results\nFinal score":"W 37\u20136",
+        "Results\nTeam record":"4\u20134",
+        "Venue":"Metropolitan Stadium",
+        "Attendance":"49,784"
+    },
+    {
+        "Week":9,
+        "Date":"November 12",
+        "Opponent":"Detroit Lions",
+        "Results\nFinal score":"W 16\u201314",
+        "Results\nTeam record":"5\u20134",
+        "Venue":"Metropolitan Stadium",
+        "Attendance":"49,784"
+    },
+    {
+        "Week":10,
+        "Date":"November 19",
+        "Opponent":"at Los Angeles Rams",
+        "Results\nFinal score":"W 45\u201341",
+        "Results\nTeam record":"6\u20134",
+        "Venue":"Los Angeles Memorial Coliseum",
+        "Attendance":"77,982"
+    },
+    {
+        "Week":11,
+        "Date":"November 26",
+        "Opponent":"at Pittsburgh Steelers",
+        "Results\nFinal score":"L 23\u201310",
+        "Results\nTeam record":"6\u20135",
+        "Venue":"Three Rivers Stadium",
+        "Attendance":"50,348"
+    },
+    {
+        "Week":12,
+        "Date":"December 3",
+        "Opponent":"Chicago Bears",
+        "Results\nFinal score":"W 23\u201310",
+        "Results\nTeam record":"7\u20135",
+        "Venue":"Metropolitan Stadium",
+        "Attendance":"49,784"
+    },
+    {
+        "Week":13,
+        "Date":"December 10",
+        "Opponent":"Green Bay Packers",
+        "Results\nFinal score":"L 23\u20137",
+        "Results\nTeam record":"7\u20136",
+        "Venue":"Metropolitan Stadium",
+        "Attendance":"49,784"
+    },
+    {
+        "Week":14,
+        "Date":"@@@_December 17",
+        "Opponent":"at San Francisco 49ers",
+        "Results\nFinal score":"L 20\u201317",
+        "Results\nTeam record":"7\u20137",
+        "Venue":"Candlestick Park",
+        "Attendance":"61,214"
+    }
+]

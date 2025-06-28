@@ -1,0 +1,83 @@
+[
+  {
+    "Unnamed: 0": "AB-CD",
+    "Separation\n(arcsec)": 208.2,
+    "Separation\n(au)": "10,500",
+    "Most Recent\nPosition Angle": 172,
+    "Period\n(years)": null,
+    "Semi-major axis\n(arcseconds)": null,
+    "Notes": "ε1-ε2"
+  },
+  {
+    "Unnamed: 0": "AB",
+    "Separation\n(arcsec)": 2.3,
+    "Separation\n(au)": "116",
+    "Most Recent\nPosition Angle": 347,
+    "Period\n(years)": 1804.41,
+    "Semi-major axis\n(arcseconds)": 4.742,
+    "Notes": "components of ε1"
+  },
+  {
+    "Unnamed: 0": "CD",
+    "Separation\n(arcsec)": 2.4,
+    "Separation\n(au)": "121",
+    "Most Recent\nPosition Angle": 79,
+    "Period\n(years)": 724.307,
+    "Semi-major axis\n(arcseconds)": 2.92,
+    "Notes": "components of ε2"
+  },
+  {
+    "Unnamed: 0": "Ca",
+    "Separation\n(arcsec)": 0.1,
+    "Separation\n(au)": "5",
+    "Most Recent\nPosition Angle": 225,
+    "Period\n(years)": null,
+    "Semi-major axis\n(arcseconds)": null,
+    "Notes": "recently discovered\ninterferometric companion"
+  },
+  {
+    "Unnamed: 0": "AI",
+    "Separation\n(arcsec)": 149.6,
+    "Separation\n(au)": "7500",
+    "Most Recent\nPosition Angle": "@@@_-124",
+    "Period\n(years)": null,
+    "Semi-major axis\n(arcseconds)": null,
+    "Notes": null
+  },
+  {
+    "Unnamed: 0": "CE",
+    "Separation\n(arcsec)": 63.7,
+    "Separation\n(au)": "3200",
+    "Most Recent\nPosition Angle": "@@@_-472",
+    "Period\n(years)": null,
+    "Semi-major axis\n(arcseconds)": null,
+    "Notes": null
+  },
+  {
+    "Unnamed: 0": "EF",
+    "Separation\n(arcsec)": 46.0,
+    "Separation\n(au)": "2300",
+    "Most Recent\nPosition Angle": 37,
+    "Period\n(years)": null,
+    "Semi-major axis\n(arcseconds)": null,
+    "Notes": null
+  },
+  {
+    "Unnamed: 0": "EG",
+    "Separation\n(arcsec)": 50.0,
+    "Separation\n(au)": "2500",
+    "Most Recent\nPosition Angle": 238,
+    "Period\n(years)": null,
+    "Semi-major axis\n(arcseconds)": "@@@_42.794505777",
+    "Notes": null
+  },
+  {
+    "Unnamed: 0": "GH",
+    "Separation\n(arcsec)": 35.0,
+    "Separation\n(au)": "1800",
+    "Most Recent\nPosition Angle": 358,
+    "Period\n(years)": null,
+    "Semi-major axis\n(arcseconds)": "@@@_-16.818835259",
+    "Notes": null
+  }
+]

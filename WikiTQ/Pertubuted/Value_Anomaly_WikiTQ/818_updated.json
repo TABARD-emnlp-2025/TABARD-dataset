@@ -1,0 +1,464 @@
+[
+  {
+    "Wrestler:": "Ron Starr",
+    "Reigns:": 1.0,
+    "Date:": "September 19, 1986",
+    "Place:": "Ponce, Puerto Rico",
+    "Notes:": "Defeated Invader I in a Tournament Final"
+  },
+  {
+    "Wrestler:": "Invader I",
+    "Reigns:": 1.0,
+    "Date:": "November 5, 1986",
+    "Place:": "San Juan, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Jason The Terrible",
+    "Reigns:": 1.0,
+    "Date:": "January 17, 1987",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Invader I",
+    "Reigns:": 2.0,
+    "Date:": "September 18, 1987",
+    "Place:": "San Juan, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Grizzly Boone",
+    "Reigns:": 1.0,
+    "Date:": "October 24, 1987",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Invader I",
+    "Reigns:": 3.0,
+    "Date:": "November 25, 1987",
+    "Place:": "San Juan, Puerto Rico",
+    "Notes:": "Held up after a match against Super Black Ninja on January 8, 1988 in San Juan, PR"
+  },
+  {
+    "Wrestler:": "Super Black Ninja",
+    "Reigns:": 1.0,
+    "Date:": "February 6, 1988",
+    "Place:": "Guaynabo, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Invader I",
+    "Reigns:": "@@@_24.8599482085",
+    "Date:": "April 2, 1988",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Ron Starr",
+    "Reigns:": 2.0,
+    "Date:": "June 25, 1988",
+    "Place:": "Carolina, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Carlos Colon",
+    "Reigns:": 1.0,
+    "Date:": "August 20, 1988",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Jason The Terrible",
+    "Reigns:": 2.0,
+    "Date:": "January 28, 1989",
+    "Place:": "Carolina, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Carlos Colon",
+    "Reigns:": 2.0,
+    "Date:": "March 1, 1989",
+    "Place:": "Carolina, Puerto Rico",
+    "Notes:": "Vacant on May 22, 1989 after Colon was injured by Steve Strong on May 20, 1989"
+  },
+  {
+    "Wrestler:": "TNT",
+    "Reigns:": 1.0,
+    "Date:": "June 17, 1989",
+    "Place:": "San Juan, Puerto Rico",
+    "Notes:": "Defeats Abudda Dein; vacant on February 9, 1990 when TNT wins the WWC Universal Heavyweight Title"
+  },
+  {
+    "Wrestler:": "Leo Burke",
+    "Reigns:": 1.0,
+    "Date:": "March 24, 1990",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": "Defeats Carlos Colon in a tournament final."
+  },
+  {
+    "Wrestler:": "TNT",
+    "Reigns:": 2.0,
+    "Date:": "April 25, 1990",
+    "Place:": "San Juan, Puerto Rico",
+    "Notes:": "Won the vacant title"
+  },
+  {
+    "Wrestler:": "Action Jackson (Original TNT)",
+    "Reigns:": 1.0,
+    "Date:": "January 26, 1991",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": "Wins tournament; loses a name match on March 2, 1991 in Bayamon, PR"
+  },
+  {
+    "Wrestler:": "TNT",
+    "Reigns:": 3.0,
+    "Date:": "March 30, 1991",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "King Kong",
+    "Reigns:": 1.0,
+    "Date:": "April 20, 1991",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "TNT",
+    "Reigns:": 4.0,
+    "Date:": "June 1, 1991",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Fidel Sierra",
+    "Reigns:": 1.0,
+    "Date:": "October 19, 1991",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "TNT",
+    "Reigns:": 5.0,
+    "Date:": "October 26, 1991",
+    "Place:": "Carolina, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Dick Murdoch",
+    "Reigns:": 1.0,
+    "Date:": "November 23, 1991",
+    "Place:": "Arroyo, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Invader I",
+    "Reigns:": 5.0,
+    "Date:": "December 25, 1991",
+    "Place:": "San Juan, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Dick Murdoch",
+    "Reigns:": 2.0,
+    "Date:": "January 6, 1992",
+    "Place:": "San Juan, Puerto Rico",
+    "Notes:": "Vacant on January 6, 1993 when Murdoch leaves the promotion."
+  },
+  {
+    "Wrestler:": "Carlos Colon",
+    "Reigns:": 3.0,
+    "Date:": "June 18, 1994",
+    "Place:": "San Juan, Puerto Rico",
+    "Notes:": "Defeated Mighty Koadiak in a tournament final."
+  },
+  {
+    "Wrestler:": "Mighty Koadiak",
+    "Reigns:": 1.0,
+    "Date:": "1994",
+    "Place:": null,
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Rex King",
+    "Reigns:": 1.0,
+    "Date:": "1995",
+    "Place:": null,
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "@@@_None",
+    "Reigns:": 1.0,
+    "Date:": "1995",
+    "Place:": null,
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Ricky Santana",
+    "Reigns:": 1.0,
+    "Date:": "1995",
+    "Place:": null,
+    "Notes:": "@@@_None"
+  },
+  {
+    "Wrestler:": "Rex King",
+    "Reigns:": 2.0,
+    "Date:": "1995",
+    "Place:": null,
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Pulgarcito",
+    "Reigns:": 1.0,
+    "Date:": "November 11, 1995",
+    "Place:": null,
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Mighty Koadiak",
+    "Reigns:": 2.0,
+    "Date:": "November 26, 1995",
+    "Place:": null,
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Sweet Brown Sugar (Skip Young)",
+    "Reigns:": 1.0,
+    "Date:": "January 6, 1996",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Ricky Santana",
+    "Reigns:": 2.0,
+    "Date:": "March 23, 1996",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "\\Jungle\\\" Jim Steele\"",
+    "Reigns:": 1.0,
+    "Date:": "April 20, 1996",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "El Bronco I",
+    "Reigns:": 1.0,
+    "Date:": "May 18, 1996",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Sean Morley",
+    "Reigns:": 2.0,
+    "Date:": "May 30, 1996",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": "Joins the WWF in 1997, but is still recognized as champion; title becomes vacant on March 3, 1999."
+  },
+  {
+    "Wrestler:": "Glamour Boy Shane",
+    "Reigns:": 1.0,
+    "Date:": "April 2, 1999",
+    "Place:": "Guaynabo, Puerto Rico",
+    "Notes:": "Defeated \\Jungle\\\" Jim Steele for vacant title.\""
+  },
+  {
+    "Wrestler:": "Mustafa Saed",
+    "Reigns:": 1.0,
+    "Date:": "August 14, 1999",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Glamour Boy Shane",
+    "Reigns:": 2.0,
+    "Date:": "September 19, 1999",
+    "Place:": "Guaynabo, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Chicky Starr",
+    "Reigns:": 1.0,
+    "Date:": "November 13, 1999",
+    "Place:": "Naguabo, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Glamour Boy Shane",
+    "Reigns:": 3.0,
+    "Date:": "January 6, 2000",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Rex King",
+    "Reigns:": 3.0,
+    "Date:": "March 19, 2000",
+    "Place:": "Cabo Rojo, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Chris Grant",
+    "Reigns:": 1.0,
+    "Date:": "April 21, 2001",
+    "Place:": "Orocovis, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Alex Porteau",
+    "Reigns:": 1.0,
+    "Date:": "July 7, 2001",
+    "Place:": "Carolina, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Chris Grant",
+    "Reigns:": 2.0,
+    "Date:": "July 21, 2001",
+    "Place:": "Orocovis, Puerto Rico",
+    "Notes:": "wins the title by forfeit"
+  },
+  {
+    "Wrestler:": "Bad Boy Bradley",
+    "Reigns:": 1.0,
+    "Date:": "September 8, 2001",
+    "Place:": "Bayamón, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Super Gladiator",
+    "Reigns:": 1.0,
+    "Date:": "October 6, 2001",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Ricky Santana",
+    "Reigns:": 3.0,
+    "Date:": "March 16, 2002",
+    "Place:": "Aibonito, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Rico Suave",
+    "Reigns:": 1.0,
+    "Date:": "April 6, 2002",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Ray Gonzalez",
+    "Reigns:": "@@@_-1.6923076923",
+    "Date:": "April 27, 2002",
+    "Place:": "San Lorenzo, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Carlos Colon",
+    "Reigns:": 4.0,
+    "Date:": "June 8, 2002",
+    "Place:": "Toa Baja, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Ray Gonzalez",
+    "Reigns:": 2.0,
+    "Date:": "June 15, 2002",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": "Vacates title on July 1, 2002 when he leaves the company."
+  },
+  {
+    "Wrestler:": "Wilfredo Alejandro",
+    "Reigns:": 1.0,
+    "Date:": "July 6, 2002",
+    "Place:": "Cayey, Puerto Rico",
+    "Notes:": "wins a battle royal for the vacant title."
+  },
+  {
+    "Wrestler:": "Fidel Sierra",
+    "Reigns:": 2.0,
+    "Date:": "August 24, 2002",
+    "Place:": "Coamo, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Chris Candido",
+    "Reigns:": 1.0,
+    "Date:": "June 6, 2003",
+    "Place:": "Cayey, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Vengador Boricua",
+    "Reigns:": 1.0,
+    "Date:": "July 19, 2003",
+    "Place:": "Carolina, Puerto Rico",
+    "Notes:": "title becomes inactive when Vengador Boricua leaves the company."
+  },
+  {
+    "Wrestler:": "Superstar Romeo",
+    "Reigns:": "@@@_25.5324881644",
+    "Date:": "February 3, 2007",
+    "Place:": "Caguas, Puerto Rico",
+    "Notes:": "Romeo beat Barabas Jr. to win the reactivated title."
+  },
+  {
+    "Wrestler:": "Rico Suave",
+    "Reigns:": 2.0,
+    "Date:": "March 17, 2007",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Crazy Rudy",
+    "Reigns:": 1.0,
+    "Date:": "April 28, 2007",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Ash Rubinsky",
+    "Reigns:": 1.0,
+    "Date:": "November 24, 2007",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": "Wins a 7-man battle royal."
+  },
+  {
+    "Wrestler:": "B.J.",
+    "Reigns:": 1.0,
+    "Date:": "January 6, 2008",
+    "Place:": "Choliseo, Puerto Rico",
+    "Notes:": "Wins the title after winning an 11 man Battle Royal"
+  },
+  {
+    "Wrestler:": "Hammett",
+    "Reigns:": 1.0,
+    "Date:": "March 1, 2008",
+    "Place:": "Tao Baja, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "B.J.",
+    "Reigns:": 2.0,
+    "Date:": "March 15, 2008",
+    "Place:": "Lares, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Chris Joel",
+    "Reigns:": 1.0,
+    "Date:": "May 10, 2008",
+    "Place:": "Bayamon, Puerto Rico",
+    "Notes:": null
+  },
+  {
+    "Wrestler:": "Vacant",
+    "Reigns:": null,
+    "Date:": null,
+    "Place:": null,
+    "Notes:": "Chris Joel Jumps to IWA"
+  }
+]

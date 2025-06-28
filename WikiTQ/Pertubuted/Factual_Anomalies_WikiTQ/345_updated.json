@@ -1,0 +1,82 @@
+[
+    {
+        "Discipline":"Whitewater kayak",
+        "Amanda":0,
+        "Bernie":"@@@_102",
+        "Javine H":4,
+        "Julia":3,
+        "Michelle":6
+    },
+    {
+        "Discipline":"Hurdles",
+        "Amanda":3,
+        "Bernie":1,
+        "Javine H":6,
+        "Julia":5,
+        "Michelle":3
+    },
+    {
+        "Discipline":"Cycling",
+        "Amanda":4,
+        "Bernie":2,
+        "Javine H":4,
+        "Julia":6,
+        "Michelle":"@@@_-1"
+    },
+    {
+        "Discipline":"Gym floor",
+        "Amanda":0,
+        "Bernie":3,
+        "Javine H":6,
+        "Julia":5,
+        "Michelle":2
+    },
+    {
+        "Discipline":"Swimming",
+        "Amanda":4,
+        "Bernie":3,
+        "Javine H":"@@@_56",
+        "Julia":5,
+        "Michelle":0
+    },
+    {
+        "Discipline":"Curling",
+        "Amanda":0,
+        "Bernie":2,
+        "Javine H":4,
+        "Julia":3,
+        "Michelle":5
+    },
+    {
+        "Discipline":"Archery",
+        "Amanda":4,
+        "Bernie":0,
+        "Javine H":5,
+        "Julia":2,
+        "Michelle":3
+    },
+    {
+        "Discipline":"Hammer",
+        "Amanda":2,
+        "Bernie":3,
+        "Javine H":5,
+        "Julia":4,
+        "Michelle":"@@@_22"
+    },
+    {
+        "Discipline":"100m sprint",
+        "Amanda":"@@@_12",
+        "Bernie":0,
+        "Javine H":5,
+        "Julia":3,
+        "Michelle":4
+    },
+    {
+        "Discipline":"Total",
+        "Amanda":19,
+        "Bernie":16,
+        "Javine H":45,
+        "Julia":36,
+        "Michelle":25
+    }
+]

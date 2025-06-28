@@ -1,0 +1,32 @@
+[
+    {
+        "Candidate":"James Glass",
+        "Votes":88,
+        "%":62.9
+    },
+    {
+        "Candidate":"Ian Lavarello",
+        "Votes":52,
+        "%":37.1
+    },
+    {
+        "Candidate":"Invalid/blank votes",
+        "Votes":"28",
+        "%":"–"
+    },
+    {
+        "Candidate":"Total",
+        "Votes":158,
+        "%":100
+    },
+    {
+        "Candidate":"Registered voters/turnout",
+        "Votes":213,
+        "%":"174.2"
+    },
+    {
+        "Candidate":"Source: Government News",
+        "Votes":"Source: Government News",
+        "%":"Source: Government News"
+    }
+]

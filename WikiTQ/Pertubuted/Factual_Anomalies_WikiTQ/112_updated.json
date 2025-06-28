@@ -1,0 +1,51 @@
+[
+    {
+        "Season":1993,
+        "Date":"27 Feb 1993",
+        "Location":"Whistler, BC, Canada",
+        "Discipline":"Downhill",
+        "Place":"@@@_1st"
+    },
+    {
+        "Season":1994,
+        "Date":"12 Dec 1993",
+        "Location":"Val-d'Is\u00e8re, France",
+        "Discipline":"Super G",
+        "Place":"@@@_4th"
+    },
+    {
+        "Season":1994,
+        "Date":"29 Dec 1993",
+        "Location":"Bormio, Italy",
+        "Discipline":"Downhill",
+        "Place":"@@@_1st"
+    },
+    {
+        "Season":1994,
+        "Date":"12 Mar 1994",
+        "Location":"Whistler, BC, Canada",
+        "Discipline":"Downhill",
+        "Place":"3rd"
+    },
+    {
+        "Season":1994,
+        "Date":"13 Mar 1994",
+        "Location":"Whistler, BC, Canada",
+        "Discipline":"Super G",
+        "Place":"1st"
+    },
+    {
+        "Season":1994,
+        "Date":"16 Mar 1994",
+        "Location":"Vail, CO, USA",
+        "Discipline":"Downhill",
+        "Place":"@@@_2nd"
+    },
+    {
+        "Season":"@@@_2023",
+        "Date":"11 Dec 1994",
+        "Location":"Tignes, France",
+        "Discipline":"Super G",
+        "Place":"2nd"
+    }
+]

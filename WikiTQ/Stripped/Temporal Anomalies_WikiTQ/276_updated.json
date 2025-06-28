@@ -1,0 +1,119 @@
+[
+    {
+        "Record":"13-0",
+        "Date":"07/12/2013",
+        "Result":"Win",
+        "Opponent":"Igor Pylypenko",
+        "Location":"Porsche Arena, Stuttgart, Germany",
+        "Method":"Unanimous Decision",
+        "Round":6
+    },
+    {
+        "Record":"12-0",
+        "Date":"27/10/2013",
+        "Result":"Win",
+        "Opponent":"Alphonce Mchumiatumbo",
+        "Location":"Sarajevo, Bosnia and Herzegovina",
+        "Method":"Decision",
+        "Round":8
+    },
+    {
+        "Record":"11-0",
+        "Date":"06/07/2013",
+        "Result":"Win",
+        "Opponent":"Alexander Vasiliev",
+        "Location":"Westfalenhalle, Dortmund, Germany",
+        "Method":"TKO",
+        "Round":2
+    },
+    {
+        "Record":"10-0",
+        "Date":"02/02/2013",
+        "Result":"Win",
+        "Opponent":"Niko Falin",
+        "Location":"ISS Dome, Düsseldorf, Germany",
+        "Method":"Unanimous Decision",
+        "Round":6
+    },
+    {
+        "Record":"9-0",
+        "Date":"02/12/2012",
+        "Result":"Win",
+        "Opponent":"Ladislav Kovarik",
+        "Location":"Esprit Arena, Düsseldorf, Germany",
+        "Method":"Unanimous Decision",
+        "Round":6
+    },
+    {
+        "Record":"8-0",
+        "Date":"06/08/2012",
+        "Result":"Win",
+        "Opponent":"Ivica Perković",
+        "Location":"Sarajevo, Bosnia and Herzegovina",
+        "Method":"Unanimous Decision",
+        "Round":12
+    },
+    {
+        "Record":"7-0",
+        "Date":"04/13/2012",
+        "Result":"Win",
+        "Opponent":"Aliaksandr Makaranka",
+        "Location":"Lanxess Arena, Cologne, Germany",
+        "Method":"KO",
+        "Round":1
+    },
+    {
+        "Record":"6-0",
+        "Date":"12/17/2011",
+        "Result":"Win",
+        "Opponent":"Ferenc Zsalek",
+        "Location":"Sarajevo, Bosnia and Herzegovina",
+        "Method":"KO",
+        "Round":3
+    },
+    {
+        "Record":"5-0",
+        "Date":"12/02/2011",
+        "Result":"Win",
+        "Opponent":"Liridon Memishi",
+        "Location":"SAP Arena, Mannheim, Germany",
+        "Method":"Unanimous Decision",
+        "Round":6
+    },
+    {
+        "Record":"4-0",
+        "Date":"06/25/2011",
+        "Result":"Win",
+        "Opponent":"Werner Kreiskott",
+        "Location":"Lanxess Arena, Cologne, Germany",
+        "Method":"Unanimous Decision",
+        "Round":6
+    },
+    {
+        "Record":"3-0",
+        "Date":"02/19/2011",
+        "Result":"Win",
+        "Opponent":"Ergin Solmaz",
+        "Location":"Porsche Arena, Stuttgart, Germany",
+        "Method":"Unanimous Decision",
+        "Round":4
+    },
+    {
+        "Record":"2-0",
+        "Date":"09/03/2013",
+        "Result":"Win",
+        "Opponent":"Tomasz Zeprzalka",
+        "Location":"Goražde, Bosnia And Herzegovina",
+        "Method":"TKO",
+        "Round":2
+    },
+    {
+        "Record":"1-0",
+        "Date":"02/07/2004",
+        "Result":"Win",
+        "Opponent":"Ergin Solmaz",
+        "Location":"Sarajevo, Bosnia And Herzegovina",
+        "Method":"Unanimous Decision",
+        "Round":4
+    }
+]

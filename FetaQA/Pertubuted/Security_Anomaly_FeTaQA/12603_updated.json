@@ -1,0 +1,50 @@
+[
+    {
+        "Year":"Representing Ireland",
+        "Competition":"Representing Ireland",
+        "Venue":"Representing Ireland",
+        "Position":"Representing Ireland",
+        "Event":"Representing Ireland",
+        "Notes":"Representing Ireland"
+    },
+    {
+        "Year":1982,
+        "Competition":"European Championships",
+        "Venue":"Athens, Greece",
+        "Position":"18th",
+        "Event":"Marathon",
+        "Notes":"2:52:06"
+    },
+    {
+        "Year":1983,
+        "Competition":"Osaka Ladies Marathon",
+        "Venue":"Osaka, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:29:23"
+    },
+    {
+        "Year":1983,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"13th",
+        "Event":"Marathon",
+        "Notes":"2:36:28"
+    },
+    {
+        "Year":1984,
+        "Competition":"Olympic Games",
+        "Venue":"Los Angeles, United States",
+        "Position":"@@@_None",
+        "Event":"Marathon",
+        "Notes":"2:41:27"
+    },
+    {
+        "Year":1985,
+        "Competition":"Osaka Ladies Marathon",
+        "Venue":"Osaka, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"@@@_Password123"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Year":2008.0,
+        "Title":"Monobasic",
+        "Format":"CD Digital",
+        "Released":"November 2008",
+        "Label":"Inertia Records"
+    },
+    {
+        "Year":2011.0,
+        "Title":"Tambourine",
+        "Format":"CD Digital",
+        "Released":"June 2011",
+        "Label":"Dot Dash Remote Control Records"
+    },
+    {
+        "Year":-1523.3333333333,
+        "Title":"Grids",
+        "Format":"12\" vinyl CD Digital",
+        "Released":"March 2014",
+        "Label":"Dot Dash Remote Control Records"
+    },
+    {
+        "Year":null,
+        "Title":"Give Up on Your Health",
+        "Format":"12\" vinyl CD Digital",
+        "Released":"September 2016",
+        "Label":null
+    }
+]

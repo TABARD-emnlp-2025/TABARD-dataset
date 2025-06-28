@@ -1,0 +1,146 @@
+[
+    {
+        "Year":"Representing Spain",
+        "Competition":"Representing Spain",
+        "Venue":"Representing Spain",
+        "Position":"Representing Spain",
+        "Event":"Representing Spain",
+        "Notes":"Representing Spain"
+    },
+    {
+        "Year":2010,
+        "Competition":"World Junior Championships",
+        "Venue":"Moncton, Canada",
+        "Position":"21st (h)",
+        "Event":"200 m",
+        "Notes":21.51
+    },
+    {
+        "Year":2011,
+        "Competition":"European U23 Championships",
+        "Venue":"Ostrava, Czech Republic",
+        "Position":"16th (h)",
+        "Event":"100 m",
+        "Notes":10.74
+    },
+    {
+        "Year":2012,
+        "Competition":"European Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"18th (sf)",
+        "Event":"200 m",
+        "Notes":21.35
+    },
+    {
+        "Year":2012,
+        "Competition":"European Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"9th (h)",
+        "Event":"4 \u00d7 100 m relay",
+        "Notes":39.81
+    },
+    {
+        "Year":2013,
+        "Competition":"European U23 Championships",
+        "Venue":"@@@_Atlantis",
+        "Position":"5th",
+        "Event":"200 m",
+        "Notes":20.7
+    },
+    {
+        "Year":2013,
+        "Competition":"European U23 Championships",
+        "Venue":"Tampere, Finland",
+        "Position":"3rd",
+        "Event":"4 \u00d7 100 m relay",
+        "Notes":38.87
+    },
+    {
+        "Year":2013,
+        "Competition":"European U23 Championships",
+        "Venue":"Tampere, Finland",
+        "Position":"5th",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:05.28"
+    },
+    {
+        "Year":2013,
+        "Competition":"World Championships",
+        "Venue":"Moscow, Russia",
+        "Position":"16th (sf)",
+        "Event":"200 m",
+        "Notes":20.55
+    },
+    {
+        "Year":2013,
+        "Competition":"World Championships",
+        "Venue":"Moscow, Russia",
+        "Position":"9th (h)",
+        "Event":"4 \u00d7 100 m relay",
+        "Notes":38.46
+    },
+    {
+        "Year":2016,
+        "Competition":"World Indoor Championships",
+        "Venue":"Portland, United States",
+        "Position":"15th (sf)",
+        "Event":"60 m",
+        "Notes":6.63
+    },
+    {
+        "Year":2016,
+        "Competition":"Ibero-American Championships",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"2nd",
+        "Event":"200 m",
+        "Notes":20.48
+    },
+    {
+        "Year":2016,
+        "Competition":"Ibero-American Championships",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"4th",
+        "Event":"4 \u00d7 100 m relay",
+        "Notes":39.28
+    },
+    {
+        "Year":2016,
+        "Competition":"European Championships",
+        "Venue":"Amsterdam, Netherlands",
+        "Position":"4th",
+        "Event":"100 m",
+        "Notes":10.12
+    },
+    {
+        "Year":2016,
+        "Competition":"European Championships",
+        "Venue":"Amsterdam, Netherlands",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":20.45
+    },
+    {
+        "Year":2016,
+        "Competition":"Olympic Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"10th (sf)",
+        "Event":"200 m",
+        "Notes":20.12
+    },
+    {
+        "Year":2018,
+        "Competition":"European Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"4th",
+        "Event":"200 m",
+        "Notes":20.05
+    },
+    {
+        "Year":2018,
+        "Competition":"European Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"3rd",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:00.78"
+    }
+]

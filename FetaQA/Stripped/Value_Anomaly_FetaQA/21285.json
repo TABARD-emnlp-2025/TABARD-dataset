@@ -1,0 +1,100 @@
+[
+    {
+        "Party":"Social Democratic Party",
+        "Votes":"220,141",
+        "%":27.4,
+        "Seats":50,
+        "+\/\u2013":1
+    },
+    {
+        "Party":"Free Democratic Party",
+        "Votes":"220,135",
+        "%":27.4,
+        "Seats":58,
+        "+\/\u2013":"\u20132"
+    },
+    {
+        "Party":"Swiss Conservative People's Party",
+        "Votes":"172,516",
+        "%":21.4,
+        "Seats":46,
+        "+\/\u2013":4
+    },
+    {
+        "Party":"Party of Farmers, Traders and Independents",
+        "Votes":"126,961",
+        "%":15.8,
+        "Seats":31,
+        "+\/\u2013":1
+    },
+    {
+        "Party":"Liberal Democratic Party",
+        "Votes":"23,782",
+        "%":3.0,
+        "Seats":6,
+        "+\/\u2013":"\u20131"
+    },
+    {
+        "Party":"Communist Party",
+        "Votes":"14,818",
+        "%":1.8,
+        "Seats":2,
+        "+\/\u2013":"\u20131"
+    },
+    {
+        "Party":"Democratic Group",
+        "Votes":"14,073",
+        "%":1.7,
+        "Seats":3,
+        "+\/\u2013":"\u20132"
+    },
+    {
+        "Party":"Evangelical People's Party",
+        "Votes":"5,618",
+        "%":0.7,
+        "Seats":1,
+        "+\/\u2013":0
+    },
+    {
+        "Party":"Union for Economic Defence",
+        "Votes":"6,593",
+        "%":0.8,
+        "Seats":1,
+        "+\/\u2013":0
+    },
+    {
+        "Party":"Other parties",
+        "Votes":"6,593",
+        "%":0.8,
+        "Seats":0,
+        "+\/\u2013":"\u2013"
+    },
+    {
+        "Party":"Invalid\/blank votes",
+        "Votes":"17,782",
+        "%":"\u2013",
+        "Seats":"\u2013",
+        "+\/\u2013":"\u2013"
+    },
+    {
+        "Party":"Total",
+        "Votes":"822,389",
+        "%":100,
+        "Seats":198,
+        "+\/\u2013":0
+    },
+    {
+        "Party":"Registered voters\/turnout",
+        "Votes":"1,043,823",
+        "%":78.8,
+        "Seats":"\u2013",
+        "+\/\u2013":"\u2013"
+    },
+    {
+        "Party":"Source: Nohlen & St\u00f6ver",
+        "Votes":"Source: Nohlen & St\u00f6ver",
+        "%":"Source: Nohlen & St\u00f6ver",
+        "Seats":"Source: Nohlen & St\u00f6ver",
+        "+\/\u2013":"Source: Nohlen & St\u00f6ver"
+    }
+]

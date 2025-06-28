@@ -1,0 +1,38 @@
+[
+    {
+        "Event":"55 Metres Hurdles",
+        "Time (seconds)":7.5,
+        "Venue":"Indianapolis, IN",
+        "Date":"March 5, 1999"
+    },
+    {
+        "Event":"110 Metres Hurdles",
+        "Time (seconds)":13.81,
+        "Venue":"Emporia, Kansas",
+        "Date":"05/29/1999"
+    },
+    {
+        "Event":"400 Metres Hurdles",
+        "Time (seconds)":49.77,
+        "Venue":"Edwardsville, Illinois",
+        "Date":"May 23, 1998"
+    },
+    {
+        "Event":"55 metres hurdles",
+        "Time (seconds)":7.5,
+        "Venue":"Indianapolis, Indiana",
+        "Date":"March 5, 1999"
+    },
+    {
+        "Event":"110 metres hurdles",
+        "Time (seconds)":"13.81",
+        "Venue":"Emporia, KS",
+        "Date":"May 29, 1999"
+    },
+    {
+        "Event":"400 Metres Hurdles",
+        "Time (seconds)":49.77,
+        "Venue":"Edwardsville, IL",
+        "Date":"05/23/1998"
+    }
+]

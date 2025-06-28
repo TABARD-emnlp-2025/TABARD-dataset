@@ -1,0 +1,52 @@
+[
+    {
+        "Rank":1,
+        "Mountain peak":"Arderin",
+        "Elevation":"527 m (1,729 ft)"
+    },
+    {
+        "Rank":2,
+        "Mountain peak":"Stillbrook Hill",
+        "Elevation":"@@@_514 meters (1,686 ft)"
+    },
+    {
+        "Rank":3,
+        "Mountain peak":"Baunreaghcong",
+        "Elevation":"509 m (1,670 ft)"
+    },
+    {
+        "Rank":4,
+        "Mountain peak":"Wolftrap Mountain",
+        "Elevation":"487 m (1,598 ft)"
+    },
+    {
+        "Rank":5,
+        "Mountain peak":"Ridge of Capard",
+        "Elevation":"@@@_483 meters (1,585 ft)"
+    },
+    {
+        "Rank":6,
+        "Mountain peak":"Barcam",
+        "Elevation":"482 m (1,581 ft)"
+    },
+    {
+        "Rank":"@@@_6",
+        "Mountain peak":"@@@_Barcam",
+        "Elevation":"482 m (1,581 ft)"
+    },
+    {
+        "Rank":8,
+        "Mountain peak":"@@@_farbreague",
+        "Elevation":"430 m (1,410 ft)"
+    },
+    {
+        "Rank":9,
+        "Mountain peak":"Castleconor",
+        "Elevation":"407 m (1,335 ft)"
+    },
+    {
+        "Rank":10,
+        "Mountain peak":"Garraunbaun",
+        "Elevation":"406 m (1,332 ft)"
+    }
+]

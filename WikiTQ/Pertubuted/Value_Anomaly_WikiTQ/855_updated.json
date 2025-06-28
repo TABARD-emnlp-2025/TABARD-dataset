@@ -1,0 +1,173 @@
+[
+  {
+    "Year": 1980,
+    "Date": "Oct 19",
+    "Winner": "Chicago Bears",
+    "Result": "24-7",
+    "Loser": "Detroit Lions",
+    "Attendance": null,
+    "Location": "Chicago, Illinois"
+  },
+  {
+    "Year": 1980,
+    "Date": "Nov 27",
+    "Winner": "Chicago Bears",
+    "Result": "23-17 (OT)",
+    "Loser": "Detroit Lions",
+    "Attendance": "58,508",
+    "Location": "Pontiac, Michigan"
+  },
+  {
+    "Year": 1981,
+    "Date": "Oct 19",
+    "Winner": "Detroit Lions",
+    "Result": "48-17",
+    "Loser": "Chicago Bears",
+    "Attendance": "75,397",
+    "Location": "Pontiac, Michigan"
+  },
+  {
+    "Year": 1981,
+    "Date": "Nov 22",
+    "Winner": "Detroit Lions",
+    "Result": "23-7",
+    "Loser": "Chicago Bears",
+    "Attendance": "71,273",
+    "Location": "Chicago, Illinois"
+  },
+  {
+    "Year": 1982,
+    "Date": "Sept 12",
+    "Winner": "Detroit Lions",
+    "Result": "17-10",
+    "Loser": "Chicago Bears",
+    "Attendance": "50,082",
+    "Location": "Pontiac, Michigan"
+  },
+  {
+    "Year": "@@@_24707",
+    "Date": "Nov 21",
+    "Winner": "Chicago Bears",
+    "Result": "20-17",
+    "Loser": "Detroit Lions",
+    "Attendance": "46,783",
+    "Location": "Chicago, Illinois"
+  },
+  {
+    "Year": 1983,
+    "Date": "Oct 16",
+    "Winner": "Detroit Lions",
+    "Result": "31–17",
+    "Loser": "Chicago Bears",
+    "Attendance": "66,709",
+    "Location": "Pontiac, Michigan"
+  },
+  {
+    "Year": 1983,
+    "Date": "Oct 30",
+    "Winner": "Detroit Lions",
+    "Result": "38-17",
+    "Loser": "Chicago Bears",
+    "Attendance": "58,764",
+    "Location": "Chicago, Illinois"
+  },
+  {
+    "Year": "@@@_40494",
+    "Date": "Nov 18",
+    "Winner": "Chicago Bears",
+    "Result": "16-14",
+    "Loser": "Detroit Lions",
+    "Attendance": "54,911",
+    "Location": "Chicago, Illinois"
+  },
+  {
+    "Year": 1984,
+    "Date": "Dec 16",
+    "Winner": "Chicago Bears",
+    "Result": "30-13",
+    "Loser": "Detroit Lions",
+    "Attendance": "@@@_None",
+    "Location": "Pontiac, Michigan"
+  },
+  {
+    "Year": "@@@_-4935",
+    "Date": "Nov 10",
+    "Winner": "Chicago Bears",
+    "Result": "24-3",
+    "Loser": "Detroit Lions",
+    "Attendance": "53,467",
+    "Location": "Chicago, Illinois"
+  },
+  {
+    "Year": 1985,
+    "Date": "Dec 22",
+    "Winner": "Chicago Bears",
+    "Result": "37-17",
+    "Loser": "Detroit Lions",
+    "Attendance": "74,042",
+    "Location": "Pontiac, Michigan"
+  },
+  {
+    "Year": 1986,
+    "Date": "Oct 26",
+    "Winner": "Chicago Bears",
+    "Result": "13-7",
+    "Loser": "Detroit Lions",
+    "Attendance": "62,064",
+    "Location": "Chicago, Illinois"
+  },
+  {
+    "Year": 1986,
+    "Date": "Dec 15",
+    "Winner": "Chicago Bears",
+    "Result": "16-13",
+    "Loser": "Detroit Lions",
+    "Attendance": "75,602",
+    "Location": "Pontiac, Michigan"
+  },
+  {
+    "Year": "@@@_-3180",
+    "Date": "Nov 22",
+    "Winner": "Chicago Bears",
+    "Result": "30-10",
+    "Loser": "Detroit Lions",
+    "Attendance": "63,357",
+    "Location": "Chicago, Illinois"
+  },
+  {
+    "Year": 1988,
+    "Date": "Oct 9",
+    "Winner": "Chicago Bears",
+    "Result": "24–7",
+    "Loser": "Detroit Lions",
+    "Attendance": "64,526",
+    "Location": "Pontiac, Michigan"
+  },
+  {
+    "Year": 1988,
+    "Date": "Dec 11",
+    "Winner": "Chicago Bears",
+    "Result": "13-12",
+    "Loser": "Detroit Lions",
+    "Attendance": "55,010",
+    "Location": "Chicago, Illinois"
+  },
+  {
+    "Year": 1989,
+    "Date": "Sept 24",
+    "Winner": "Chicago Bears",
+    "Result": "47-27",
+    "Loser": "Detroit Lions",
+    "Attendance": "71,418",
+    "Location": "Pontiac, Michigan"
+  },
+  {
+    "Year": 1989,
+    "Date": "Dec 10",
+    "Winner": "Detroit Lions",
+    "Result": "27-17",
+    "Loser": "Chicago Bears",
+    "Attendance": "52,650",
+    "Location": "Chicago, Illinois"
+  }
+]

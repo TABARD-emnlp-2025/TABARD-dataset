@@ -1,0 +1,66 @@
+[
+    {
+        "Year": "no",
+        "Division": "no",
+        "League": "no",
+        "Regular Season": "no",
+        "Playoffs": "no",
+        "Open Cup": "no"
+    },
+    {
+        "Year": "no",
+        "Division": "no",
+        "League": "no",
+        "Regular Season": "no",
+        "Playoffs": "no",
+        "Open Cup": "yes"
+    },
+    {
+        "Year": "no",
+        "Division": "no",
+        "League": "no",
+        "Regular Season": "no",
+        "Playoffs": "no",
+        "Open Cup": "yes"
+    },
+    {
+        "Year": "no",
+        "Division": "no",
+        "League": "no",
+        "Regular Season": "no",
+        "Playoffs": "no",
+        "Open Cup": "yes"
+    },
+    {
+        "Year": "yes",
+        "Division": "no",
+        "League": "no",
+        "Regular Season": "yes",
+        "Playoffs": "yes",
+        "Open Cup": "yes"
+    },
+    {
+        "Year": "yes",
+        "Division": "no",
+        "League": "yes",
+        "Regular Season": "yes",
+        "Playoffs": "no",
+        "Open Cup": "no"
+    },
+    {
+        "Year": "yes",
+        "Division": "no",
+        "League": "no",
+        "Regular Season": "no",
+        "Playoffs": "no",
+        "Open Cup": "no"
+    },
+    {
+        "Year": "no",
+        "Division": "no",
+        "League": "no",
+        "Regular Season": "no",
+        "Playoffs": "no",
+        "Open Cup": "no"
+    }
+]

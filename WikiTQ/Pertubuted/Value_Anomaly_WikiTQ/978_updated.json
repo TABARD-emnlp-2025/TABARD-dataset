@@ -1,0 +1,233 @@
+[
+  {
+    "Position": "1",
+    "Nation": null,
+    "Number": "14",
+    "Name": "Gergely Rudolf",
+    "Soproni Liga": 16,
+    "UEFA Cup": 3,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 19
+  },
+  {
+    "Position": "2",
+    "Nation": null,
+    "Number": "41",
+    "Name": "Lóránt Oláh",
+    "Soproni Liga": 12,
+    "UEFA Cup": 1,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 13
+  },
+  {
+    "Position": "3",
+    "Nation": null,
+    "Number": "99",
+    "Name": "Omagbemi Dudu",
+    "Soproni Liga": 4,
+    "UEFA Cup": 1,
+    "Hungarian Cup": 5,
+    "League Cup": 0,
+    "Total": 10
+  },
+  {
+    "Position": "4",
+    "Nation": null,
+    "Number": "55",
+    "Name": "Péter Szakály",
+    "Soproni Liga": 9,
+    "UEFA Cup": "@@@_0",
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 9
+  },
+  {
+    "Position": "5",
+    "Nation": null,
+    "Number": "77",
+    "Name": "Péter Czvitkovics",
+    "Soproni Liga": 7,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 7
+  },
+  {
+    "Position": "6",
+    "Nation": null,
+    "Number": "4",
+    "Name": "Leandro de Almeida",
+    "Soproni Liga": 5,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 1,
+    "League Cup": 0,
+    "Total": 6
+  },
+  {
+    "Position": "@@@_None",
+    "Nation": null,
+    "Number": "17",
+    "Name": "Norbert Mészáros",
+    "Soproni Liga": 3,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 3
+  },
+  {
+    "Position": "8",
+    "Nation": null,
+    "Number": "8",
+    "Name": "Zsombor Kerekes",
+    "Soproni Liga": 1,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 2,
+    "League Cup": 0,
+    "Total": 3
+  },
+  {
+    "Position": "9",
+    "Nation": null,
+    "Number": "10",
+    "Name": "Igor Bogdanović",
+    "Soproni Liga": 0,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 3,
+    "League Cup": 0,
+    "Total": 3
+  },
+  {
+    "Position": "10",
+    "Nation": null,
+    "Number": "2",
+    "Name": "István Szűcs",
+    "Soproni Liga": 2,
+    "UEFA Cup": "@@@_5",
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 2
+  },
+  {
+    "Position": "11",
+    "Nation": null,
+    "Number": "@@@_None",
+    "Name": "Zoltán Kiss",
+    "Soproni Liga": 2,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 2
+  },
+  {
+    "Position": "12",
+    "Nation": null,
+    "Number": "23",
+    "Name": "Péter Szilágyi",
+    "Soproni Liga": 2,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 2
+  },
+  {
+    "Position": "13",
+    "Nation": null,
+    "Number": "7",
+    "Name": "Tibor Dombi",
+    "Soproni Liga": 2,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 2
+  },
+  {
+    "Position": "14",
+    "Nation": null,
+    "Number": "13",
+    "Name": "Péter Bíró",
+    "Soproni Liga": 1,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 1
+  },
+  {
+    "Position": "15",
+    "Nation": null,
+    "Number": "27",
+    "Name": "Gábor Demjén",
+    "Soproni Liga": 1,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 1
+  },
+  {
+    "Position": "16",
+    "Nation": null,
+    "Number": "19",
+    "Name": "Vinicius Galvão Leal",
+    "Soproni Liga": 1,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 1
+  },
+  {
+    "Position": "17",
+    "Nation": null,
+    "Number": "1",
+    "Name": "Vukašin Poleksić",
+    "Soproni Liga": 1,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 1
+  },
+  {
+    "Position": "18",
+    "Nation": null,
+    "Number": "83",
+    "Name": "Zoltán Varga",
+    "Soproni Liga": 0,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 1,
+    "League Cup": 0,
+    "Total": 1
+  },
+  {
+    "Position": "19",
+    "Nation": null,
+    "Number": "16",
+    "Name": "Ádám Komlósi",
+    "Soproni Liga": 0,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 1,
+    "League Cup": 0,
+    "Total": 1
+  },
+  {
+    "Position": "/",
+    "Nation": "/",
+    "Number": "/",
+    "Name": "Own Goals",
+    "Soproni Liga": 1,
+    "UEFA Cup": 0,
+    "Hungarian Cup": 0,
+    "League Cup": 0,
+    "Total": 1
+  },
+  {
+    "Position": null,
+    "Nation": null,
+    "Number": null,
+    "Name": "TOTALS",
+    "Soproni Liga": 70,
+    "UEFA Cup": 5,
+    "Hungarian Cup": 13,
+    "League Cup": 0,
+    "Total": "@@@_-8"
+  }
+]

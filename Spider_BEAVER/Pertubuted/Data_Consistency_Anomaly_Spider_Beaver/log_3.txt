@@ -1,0 +1,1368 @@
+Table: college_2_teaches.json
+GPT raw reply for college_2_teaches_0-30:
+[
+    {"ID":"34175","course_id":"747","sec_id":"1","semester":"Spring","year":2004},
+    {"ID":"3199","course_id":"169","sec_id":"1","semester":"spring","year":2007},
+    {"ID":"6569","course_id":"445","sec_id":"1","semester":"Spring","year":2001},
+    {"ID":"28097","course_id":"808","sec_id":"1","semester":"Fall","year":2003},
+    {"ID":"22591","course_id":"962","sec_id":"1","semester":"Spring","year":"2008"},
+    {"ID":"90376","course_id":"158","sec_id":"1","semester":"Autumn","year":2008},
+    {"ID":"3199","course_id":"561","sec_id":"1","semester":"Fall","year":2006},
+    {"ID":"34175","course_id":"274","sec_id":"1","semester":"fall","year":2002},
+    {"ID":"34175","course_id":"571","sec_id":"1","semester":"Spring","year":2004},
+    {"ID":"79081","course_id":"345","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"80759","course_id":"559","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"22591","course_id":"991","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"22591","course_id":"400","sec_id":"2","semester":"Autumn","year":2003},
+    {"ID":"74420","course_id":"376","sec_id":"1","semester":"Fall","year":20006},
+    {"ID":"73623","course_id":"694","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"6569","course_id":"137","sec_id":"1","semester":"Spring","year":20002},
+    {"ID":"95709","course_id":"270","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"36897","course_id":"795","sec_id":"1","semester":"Spring","year":2004},
+    {"ID":"74420","course_id":"443","sec_id":"2","semester":"Spring","year":2002},
+    {"ID":"77346","course_id":"486","sec_id":"1","semester":"Fall","year":2009},
+    {"ID":"79081","course_id":"408","sec_id":"1","semester":"Spring","year":2007},
+    {"ID":"6569","course_id":"362","sec_id":"3","semester":"Spring","year":2008},
+    {"ID":"6569","course_id":"527","sec_id":"1","semester":"Fall","year":2004},
+    {"ID":"41930","course_id":"401","sec_id":"1","semester":"Fall","year":2003},
+    {"ID":"79081","course_id":"408","sec_id":"2","semester":"Spring","year":2003},
+    {"ID":"77346","course_id":"493","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"4233","course_id":"679","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"99052","course_id":"237","sec_id":"2","semester":"Fall","year":2009},
+    {"ID":"95709","course_id":"258","sec_id":"1","semester":"Fall","year":2007},
+    {"ID":"63287","course_id":"334","sec_id":"1","semester":"Fall","year":2009}
+]
+- Type: Data Consistency Anomaly; row 2, col 'semester': 'Spring' → 'spring'.
+- Type: Data Consistency Anomaly; row 6, col 'semester': 'Fall' → 'Autumn'.
+- Type: Data Consistency Anomaly; row 8, col 'semester': 'Fall' → 'fall'.
+- Type: Data Consistency Anomaly; row 13, col 'semester': 'Fall' → 'Autumn'.
+- Type: Data Consistency Anomaly; row 5, col 'year': '2008' → '2008'.
+- Type: Data Consistency Anomaly; row 14, col 'year': '2006' → '20006'.
+- Type: Data Consistency Anomaly; row 16, col 'year': '2002' → '20002'.
+GPT raw reply for college_2_teaches_30-60:
+[{"ID":"28097","course_id":"0366","sec_id":"1","semester":"Fall","year":2005},{"ID":"19368","course_id":"581","sec_id":"01","semester":"spring","year":2005},{"ID":"42782","course_id":"793","sec_id":"1","semester":"Spring","year":2002},{"ID":"74420","course_id":"959","sec_id":"1","semester":"Fall","year":2006},{"ID":"41930","course_id":"421","sec_id":"1","semester":"fall","year":2004},{"ID":"6569","course_id":"426","sec_id":"1","semester":"Spring","year":2006},{"ID":"6569","course_id":"362","sec_id":"2","semester":"Autumn","year":2006},{"ID":"77346","course_id":"864","sec_id":"1","semester":"Spring","year":2006},{"ID":"3335","course_id":"960","sec_id":"1","semester":"Fall","year":2009},{"ID":"43779","course_id":"105","sec_id":"1","semester":"Fall","year":2009},{"ID":"48507","course_id":"626","sec_id":"1","semester":"Fall","year":2006},{"ID":"99052","course_id":"0893","sec_id":"1","semester":"Fall","year":2007},{"ID":"22591","course_id":"663","sec_id":"1","semester":"Spring","year":2005},{"ID":"25946","course_id":"192","sec_id":"1","semester":"Fall","year":2002},{"ID":"6569","course_id":"349","sec_id":"1","semester":"Spring","year":2008},{"ID":"99052","course_id":"237","sec_id":"1","semester":"Spring","year":2008},{"ID":"22591","course_id":"972","sec_id":"1","semester":"Spring","year":2009},{"ID":"77346","course_id":"704","sec_id":"1","semester":"Spring","year":2008},{"ID":"36897","course_id":"242","sec_id":"1","semester":"Fall","year":2009},{"ID":"99052","course_id":"158","sec_id":"2","semester":"Spring","year":2008},{"ID":"19368","course_id":"0545","sec_id":"1","semester":"Fall","year":2001},{"ID":"36897","course_id":"791","sec_id":"1","semester":"Spring","year":2006},{"ID":"22591","course_id":"642","sec_id":"1","semester":"Fall","year":2004},{"ID":"95709","course_id":"468","sec_id":"1","semester":"Fall","year":2005},{"ID":"3335","course_id":"949","sec_id":"1","semester":"Autumn","year":2007},{"ID":"99052","course_id":"748","sec_id":"01","semester":"Fall","year":2003},{"ID":"43779","course_id":"489","sec_id":"1","semester":"Fall","year":2007},{"ID":"28400","course_id":"603","sec_id":"1","semester":"Fall","year":2003},{"ID":"81991","course_id":"415","sec_id":"1","semester":"Fall","year":"2010"},{"ID":"48570","course_id":"867","sec_id":"2","semester":"Fall","year":2010}]
+- Type: Data Consistency Anomaly; row 31, col 'course_id': '366' → '0366'.
+- Type: Data Consistency Anomaly; row 42, col 'course_id': '893' → '0893'.
+- Type: Data Consistency Anomaly; row 51, col 'course_id': '545' → '0545'.
+- Type: Data Consistency Anomaly; row 32, col 'sec_id': '1' → '01'.
+- Type: Data Consistency Anomaly; row 56, col 'sec_id': '1' → '01'.
+- Type: Data Consistency Anomaly; row 32, col 'semester': 'Spring' → 'spring'.
+- Type: Data Consistency Anomaly; row 35, col 'semester': 'Fall' → 'fall'.
+- Type: Data Consistency Anomaly; row 37, col 'semester': 'Fall' → 'Autumn'.
+- Type: Data Consistency Anomaly; row 55, col 'semester': 'Fall' → 'Autumn'.
+- Type: Data Consistency Anomaly; row 59, col 'year': '2010' → '2010'.
+GPT raw reply for college_2_teaches_60-90:
+[
+    {"ID":"3199","course_id":"631","sec_id":"1","semester":"spring","year":2007},
+    {"ID":"74420","course_id":"443","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"81991","course_id":"702","sec_id":"1","semester":"Spring","year":2001},
+    {"ID":"14365","course_id":"843","sec_id":"1","semester":"Fall","year":2010},
+    {"ID":"74420","course_id":"612","sec_id":"1","semester":"fall","year":2007},
+    {"ID":"99052","course_id":"629","sec_id":"1","semester":"Spring","year":2003},
+    {"ID":"43779","course_id":"105","sec_id":"2","semester":"Autumn","year":2002},
+    {"ID":"79081","course_id":"200","sec_id":"2","semester":"Fall","year":2002},
+    {"ID":"99052","course_id":"496","sec_id":"1","semester":"Fall","year":2001},
+    {"ID":"50330","course_id":"468","sec_id":"2","semester":"fall","year":2007},
+    {"ID":"36897","course_id":"696","sec_id":"1","semester":"Spring","year":2002},
+    {"ID":"77346","course_id":"735","sec_id":"1","semester":"Spring","year":2003},
+    {"ID":"14365","course_id":"200","sec_id":"1","semester":"Spring","year":"2007"},
+    {"ID":"90643","course_id":"461","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"77346","course_id":"735","sec_id":"2","semester":"Spring","year":"2010"},
+    {"ID":"6569","course_id":"362","sec_id":"1","semester":"Fall","year":2005},
+    {"ID":"43779","course_id":"476","sec_id":"1","semester":"Fall","year":2010},
+    {"ID":"74420","course_id":"239","sec_id":"01","semester":"Fall","year":2006},
+    {"ID":"6569","course_id":"304","sec_id":"1","semester":"Fall","year":2009},
+    {"ID":"22591","course_id":"599","sec_id":"1","semester":"Spring","year":2003},
+    {"ID":"63287","course_id":"852","sec_id":"1","semester":"Spring","year":2008},
+    {"ID":"79081","course_id":"760","sec_id":"1","semester":"Spring","year":2004},
+    {"ID":"19368","course_id":"591","sec_id":"1","semester":"Spring","year":2005},
+    {"ID":"3199","course_id":"169","sec_id":"2","semester":"Fall","year":2002},
+    {"ID":"36897","course_id":"313","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"41930","course_id":"692","sec_id":"1","semester":"Spring","year":2010},
+    {"ID":"22591","course_id":"867","sec_id":"1","semester":"Fall","year":2006},
+    {"ID":"22591","course_id":"482","sec_id":"1","semester":"Fall","year":2005},
+    {"ID":"15347","course_id":"457","sec_id":"1","semester":"Spring","year":"01"},
+    {"ID":"99052","course_id":"802","sec_id":"1","semester":"Spring","year":2003}
+]
+- Type: Data Consistency Anomaly; row 78, col 'sec_id': '1' → '01'.
+- Type: Data Consistency Anomaly; row 61, col 'semester': 'Spring' → 'spring'.
+- Type: Data Consistency Anomaly; row 65, col 'semester': 'Fall' → 'fall'.
+- Type: Data Consistency Anomaly; row 67, col 'semester': 'Fall' → 'Autumn'.
+- Type: Data Consistency Anomaly; row 70, col 'semester': 'Fall' → 'fall'.
+- Type: Data Consistency Anomaly; row 85, col 'semester': 'Fall' → 'Spring'.
+- Type: Data Consistency Anomaly; row 73, col 'year': '2007' → '2007'.
+- Type: Data Consistency Anomaly; row 75, col 'year': '2010' → '2010'.
+- Type: Data Consistency Anomaly; row 89, col 'year': '2001' → '01'.
+GPT raw reply for college_2_teaches_90-100:
+[
+    {"ID":"22591","course_id":"338","sec_id":"1","semester":"spring","year":2007},
+    {"ID":"22591","course_id":"352","sec_id":"1","semester":"Spring","year":2006},
+    {"ID":"22591","course_id":"338","sec_id":"2","semester":"Spring","year":2006},
+    {"ID":"95709","course_id":"960","sec_id":"2","semester":"fall","year":2006},
+    {"ID":"65931","course_id":"875","sec_id":"1","semester":"Spring","year":2005},
+    {"ID":"22591","course_id":"400","sec_id":"1","semester":"Spring","year":2007},
+    {"ID":"99052","course_id":"927","sec_id":"1","semester":"Fall","year":2002},
+    {"ID":"79081","course_id":"974","sec_id":"1","semester":"Fall","year":2003},
+    {"ID":"28400","course_id":"604","sec_id":"1","semester":"Spring","year":2009},
+    {"ID":"","course_id":"319","sec_id":"1","semester":"Spring","year":2003}
+]
+- Type: Data Consistency Anomaly; row 100, col 'ID': '6569' → ''.
+- Type: Data Consistency Anomaly; row 91, col 'semester': 'Spring' → 'spring'.
+- Type: Data Consistency Anomaly; row 94, col 'semester': 'Fall' → 'fall'.
+
+Table: college_2_time_slot.json
+GPT raw reply for college_2_time_slot_0-20:
+[{"time_slot_id":"A","day":"M","start_hr":8,"start_min":0,"end_hr":8,"end_min":50},{"time_slot_id":"A","day":"W","start_hr":8,"start_min":0,"end_hr":8,"end_min":50},{"time_slot_id":"A","day":"F","start_hr":8,"start_min":0,"end_hr":8,"end_min":50},{"time_slot_id":"B","day":"M","start_hr":9,"start_min":0,"end_hr":9,"end_min":50},{"time_slot_id":"B","day":"W","start_hr":9,"start_min":0,"end_hr":9,"end_min":50},{"time_slot_id":"B","day":"F","start_hr":9,"start_min":0,"end_hr":9,"end_min":50},{"time_slot_id":"C","day":"m","start_hr":11,"start_min":0,"end_hr":11,"end_min":50},{"time_slot_id":"C","day":"W","start_hr":11,"start_min":0,"end_hr":11,"end_min":50},{"time_slot_id":"C","day":"F","start_hr":11,"start_min":0,"end_hr":11,"end_min":50},{"time_slot_id":"C","day":"F","start_hr":11,"start_min":0,"end_hr":11,"end_min":50},{"time_slot_id":"E","day":"T","start_hr":10,"start_min":30,"end_hr":11,"end_min":60},{"time_slot_id":"E","day":"R","start_hr":10,"start_min":30,"end_hr":11,"end_min":45},{"time_slot_id":"F","day":"T","start_hr":14,"start_min":30,"end_hr":15,"end_min":45},{"time_slot_id":"F","day":"R","start_hr":14,"start_min":30,"end_hr":15,"end_min":45},{"time_slot_id":"G","day":"M","start_hr":16,"start_min":0,"end_hr":16,"end_min":50},{"time_slot_id":"G","day":"W","start_hr":16,"start_min":0,"end_hr":16,"end_min":50},{"time_slot_id":"G","day":"F","start_hr":16,"start_min":0,"end_hr":16,"end_min":50},{"time_slot_id":"H","day":"W","start_hr":10,"start_min":0,"end_hr":12,"end_min":30},{"time_slot_id":"h","day":"W","start_hr":10,"start_min":0,"end_hr":12,"end_min":30}]
+- Type: Data Consistency Anomaly; row 10, col 'time_slot_id': 'D' → 'C'.
+- Type: Data Consistency Anomaly; row 11, col 'time_slot_id': 'D' → 'E'.
+- Type: Data Consistency Anomaly; row 12, col 'time_slot_id': 'D' → 'E'.
+- Type: Data Consistency Anomaly; row 13, col 'time_slot_id': 'E' → 'F'.
+- Type: Data Consistency Anomaly; row 14, col 'time_slot_id': 'E' → 'F'.
+- Type: Data Consistency Anomaly; row 15, col 'time_slot_id': 'F' → 'G'.
+- Type: Data Consistency Anomaly; row 16, col 'time_slot_id': 'F' → 'G'.
+- Type: Data Consistency Anomaly; row 18, col 'time_slot_id': 'G' → 'H'.
+- Type: Data Consistency Anomaly; row 19, col 'time_slot_id': 'G' → 'h'.
+- Type: Data Consistency Anomaly; row 7, col 'day': 'M' → 'm'.
+- Type: Data Consistency Anomaly; row 10, col 'day': 'M' → 'F'.
+- Type: Data Consistency Anomaly; row 11, col 'day': 'W' → 'T'.
+- Type: Data Consistency Anomaly; row 12, col 'day': 'F' → 'R'.
+- Type: Data Consistency Anomaly; row 15, col 'day': 'T' → 'M'.
+- Type: Data Consistency Anomaly; row 16, col 'day': 'R' → 'W'.
+- Type: Data Consistency Anomaly; row 17, col 'day': 'M' → 'F'.
+- Type: Data Consistency Anomaly; row 19, col 'day': 'F' → 'W'.
+- Type: Data Consistency Anomaly; row 10, col 'start_hr': '13' → '11'.
+- Type: Data Consistency Anomaly; row 11, col 'start_hr': '13' → '10'.
+- Type: Data Consistency Anomaly; row 12, col 'start_hr': '13' → '10'.
+- Type: Data Consistency Anomaly; row 13, col 'start_hr': '10' → '14'.
+- Type: Data Consistency Anomaly; row 14, col 'start_hr': '10' → '14'.
+- Type: Data Consistency Anomaly; row 15, col 'start_hr': '14' → '16'.
+- Type: Data Consistency Anomaly; row 16, col 'start_hr': '14' → '16'.
+- Type: Data Consistency Anomaly; row 18, col 'start_hr': '16' → '10'.
+- Type: Data Consistency Anomaly; row 19, col 'start_hr': '16' → '10'.
+- Type: Data Consistency Anomaly; row 11, col 'start_min': '0' → '30'.
+- Type: Data Consistency Anomaly; row 12, col 'start_min': '0' → '30'.
+- Type: Data Consistency Anomaly; row 15, col 'start_min': '30' → '0'.
+- Type: Data Consistency Anomaly; row 16, col 'start_min': '30' → '0'.
+- Type: Data Consistency Anomaly; row 10, col 'end_hr': '13' → '11'.
+- Type: Data Consistency Anomaly; row 11, col 'end_hr': '13' → '11'.
+- Type: Data Consistency Anomaly; row 12, col 'end_hr': '13' → '11'.
+- Type: Data Consistency Anomaly; row 13, col 'end_hr': '11' → '15'.
+- Type: Data Consistency Anomaly; row 14, col 'end_hr': '11' → '15'.
+- Type: Data Consistency Anomaly; row 15, col 'end_hr': '15' → '16'.
+- Type: Data Consistency Anomaly; row 16, col 'end_hr': '15' → '16'.
+- Type: Data Consistency Anomaly; row 18, col 'end_hr': '16' → '12'.
+- Type: Data Consistency Anomaly; row 19, col 'end_hr': '16' → '12'.
+- Type: Data Consistency Anomaly; row 11, col 'end_min': '50' → '60'.
+- Type: Data Consistency Anomaly; row 12, col 'end_min': '50' → '45'.
+- Type: Data Consistency Anomaly; row 15, col 'end_min': '45' → '50'.
+- Type: Data Consistency Anomaly; row 16, col 'end_min': '45' → '50'.
+- Type: Data Consistency Anomaly; row 18, col 'end_min': '50' → '30'.
+- Type: Data Consistency Anomaly; row 19, col 'end_min': '50' → '30'.
+
+Table: college_3_Course.json
+GPT raw reply for college_3_Course_0-30:
+[
+    {"CID":"600.101","CName":"COMPUTER LITERACY","Credits":3,"Instructor":6112,"Days":"MTW","Hours":"03","DNO":600},
+    {"CID":"600.103","CName":"INTRODUCTION TO COMPUTER SCIENCE","Credits":1,"Instructor":4230,"Days":"th","Hours":"4","DNO":600},
+    {"CID":"600.107","CName":"INTRO TO PROGRAMMING IN JAVA","Credits":3,"Instructor":1193,"Days":"MTW","Hours":"3","DNO":600},
+    {"CID":"600.109","CName":"INTRO TO PROGRAMMING IN C/C++","Credits":3,"Instructor":4230,"Days":"MTW","Hours":"12","DNO":600},
+    {"CID":"600.113","CName":"EXPLORING THE INTERNET","Credits":3,"Instructor":6112,"Days":"MTW","Hours":"04","DNO":600},
+    {"CID":"600.121","CName":"JAVA PROGRAMMING","Credits":3,"Instructor":6112,"Days":"ThF","Hours":"10:30-12","DNO":600},
+    {"CID":"600.211","CName":"UNIX SYSTEMS PROGRAMMING","Credits":3,"Instructor":6112,"Days":"ThF","Hours":"1-2:15","DNO":600},
+    {"CID":"600.227","CName":"DATA STRUCTURES in JAVA","Credits":3,"Instructor":1121,"Days":"MTW","Hours":"9 AM","DNO":600},
+    {"CID":"600.232","CName":"MULTIMEDIA COMPUTING","Credits":3,"Instructor":9826,"Days":"MW","Hours":"1-2:30","DNO":600},
+    {"CID":"600.271","CName":"COMPUTATIONAL MODELS","Credits":3,"Instructor":9172,"Days":"MTW","Hours":"01","DNO":600},
+    {"CID":"600.303","CName":"SUPERCOMPUTING","Credits":1,"Instructor":9826,"Days":"w","Hours":"4-6:20","DNO":600},
+    {"CID":"600.315","CName":"DATABASE SYSTEMS","Credits":3,"Instructor":2192,"Days":"ThF","Hours":"2:30-4","DNO":600},
+    {"CID":"600.333","CName":"COMPUTER SYSTEM FUNDAMENTALS","Credits":3,"Instructor":1148,"Days":"MTW","Hours":"08","DNO":600},
+    {"CID":"600.337","CName":"DISTRIBUTED SYSTEMS","Credits":3,"Instructor":8918,"Days":"M","Hours":"3","DNO":600},
+    {"CID":"600.363","CName":"INTRODUCTION TO ALGORITHMS","Credits":3,"Instructor":7712,"Days":"MTW","Hours":"09","DNO":600},
+    {"CID":"600.415","CName":"DATABASE SYSTEMS","Credits":3,"Instructor":2192,"Days":"ThF","Hours":"2:30-4","DNO":600},
+    {"CID":"600.433","CName":"COMPUTER SYSTEMS","Credits":3,"Instructor":1148,"Days":"MTW","Hours":"8","DNO":600},
+    {"CID":"600.437","CName":"DISTRIBUTED SYSTEMS","Credits":3,"Instructor":8918,"Days":"M","Hours":"03","DNO":600},
+    {"CID":"600.445","CName":"QUANTITATIVE MEDICAL COMPUTING","Credits":3,"Instructor":7723,"Days":"ThF","Hours":"1-2:15","DNO":600},
+    {"CID":"600.461","CName":"computer vision","Credits":3,"Instructor":8114,"Days":"MTW","Hours":"1","DNO":600},
+    {"CID":"600.463","CName":"ALGORITHMS I","Credits":3,"Instructor":7712,"Days":"MTW","Hours":"09","DNO":600},
+    {"CID":"600.465","CName":"INTRO TO NATURAL LANGUAGE PROCESSING","Credits":3,"Instructor":7792,"Days":"MTW","Hours":"2","DNO":600},
+    {"CID":"600.509","CName":"computer science internship","Credits":3,"Instructor":1121,"Days":"M","Hours":"01","DNO":600},
+    {"CID":"600.601","CName":"COMPUTER SCIENCE SEMINAR","Credits":1,"Instructor":6191,"Days":"ThF","Hours":"10:30-12","DNO":600},
+    {"CID":"600.657","CName":"high performance graphics and modeling","Credits":3,"Instructor":8423,"Days":"M","Hours":"4-5:30","DNO":600},
+    {"CID":"600.787","CName":"SEMINAR ON COMPUTATIONAL GEOMETRY","Credits":3,"Instructor":1121,"Days":"Th","Hours":"02","DNO":600},
+    {"CID":"550.111","CName":"STATISTICAL ANALYSIS","Credits":4,"Instructor":2311,"Days":"MTW","Hours":"12","DNO":550},
+    {"CID":"550.171","CName":"DISCRETE MATHEMATICS","Credits":4,"Instructor":8772,"Days":"MTW","Hours":"11","DNO":550},
+    {"CID":"500.203","CName":"ACCOUNTING I","Credits":3,"Instructor":9823,"Days":"T","Hours":"6:15-8:45","DNO":550},
+    {"CID":"500.204","CName":"ACCOUNTING II","Credits":3,"Instructor":9823,"Days":"Th","Hours":"6:15-8:45","DNO":550}
+]
+- Type: Data Consistency Anomaly; row 20, col 'CName': 'COMPUTER VISION' → 'computer vision'.
+- Type: Data Consistency Anomaly; row 23, col 'CName': 'COMPUTER SCIENCE INTERNSHIP' → 'computer science internship'.
+- Type: Data Consistency Anomaly; row 25, col 'CName': 'HIGH PERFORMANCE GRAPHICS AND MODELING' → 'high performance graphics and modeling'.
+- Type: Data Consistency Anomaly; row 2, col 'Days': 'Th' → 'th'.
+- Type: Data Consistency Anomaly; row 11, col 'Days': 'W' → 'w'.
+- Type: Data Consistency Anomaly; row 1, col 'Hours': '3' → '03'.
+- Type: Data Consistency Anomaly; row 5, col 'Hours': '4' → '04'.
+- Type: Data Consistency Anomaly; row 8, col 'Hours': '9' → '9 AM'.
+- Type: Data Consistency Anomaly; row 10, col 'Hours': '1' → '01'.
+- Type: Data Consistency Anomaly; row 13, col 'Hours': '8' → '08'.
+- Type: Data Consistency Anomaly; row 15, col 'Hours': '9' → '09'.
+- Type: Data Consistency Anomaly; row 18, col 'Hours': '3' → '03'.
+- Type: Data Consistency Anomaly; row 21, col 'Hours': '9' → '09'.
+- Type: Data Consistency Anomaly; row 23, col 'Hours': '1' → '01'.
+- Type: Data Consistency Anomaly; row 26, col 'Hours': '2' → '02'.
+GPT raw reply for college_3_Course_30-60:
+[
+    {"CID":"500.205","CName":"BUSINESS LAW I","Credits":3,"Instructor":8791,"Days":"W","Hours":"6:15 - 8:45","DNO":550},
+    {"CID":"500.206","CName":"BUSINESS LAW II","Credits":3,"Instructor":8791,"Days":"Mon","Hours":"6:15-8:45","DNO":550},
+    {"CID":"550.291","CName":"Linear Algebra and Differential EQNS","Credits":4,"Instructor":6541,"Days":"MTW","Hours":"9","DNO":550},
+    {"CID":"550.310","CName":"PROBABILITY AND STATISTICS","Credits":4,"Instructor":8102,"Days":"MTW","Hours":"10 AM","DNO":550},
+    {"CID":"550.361","CName":"INTRODUCTION TO OPTIMIZATION","Credits":4,"Instructor":2881,"Days":"MTW","Hours":"2:00","DNO":550},
+    {"CID":"550.413","CName":"APPLIED STATISTICS AND DATA ANALYSIS","Credits":4,"Instructor":1177,"Days":"MTW","Hours":"11","DNO":null},
+    {"CID":"550.420","CName":"INTRODUCTION TO PROBABILITY","Credits":4,"Instructor":2738,"Days":"MTW","Hours":"1","DNO":550},
+    {"CID":"550.471","CName":"Combinatorial Analysis","Credits":4,"Instructor":8772,"Days":"MTW","Hours":"12","DNO":550},
+    {"CID":"550.620","CName":"Probability Theory I","Credits":3,"Instructor":2738,"Days":"MTW","Hours":"2:00 PM","DNO":550},
+    {"CID":"550.626","CName":"STOCHASTIC PROCESSES II","Credits":"three","Instructor":8102,"Days":"MTW","Hours":"1","DNO":550},
+    {"CID":"550.631","CName":"STATISTICAL INFERENCE","Credits":3,"Instructor":6182,"Days":"MTW","Hours":"3","DNO":550},
+    {"CID":"550.661","CName":"FOUNDATIONS OF OPTIMIZATION","Credits":3,"Instructor":9823,"Days":"MTW","Hours":"10","DNO":550},
+    {"CID":"550.671","CName":"COMBINATORIAL ANALYSIS","Credits":3,"Instructor":8772,"Days":"MTW","Hours":"12:00","DNO":550},
+    {"CID":"550.681","CName":"NUMERICAL ANALYSIS","Credits":3,"Instructor":6541,"Days":"MTW","Hours":11,"DNO":550},
+    {"CID":"550.721","CName":"PERCOLATION THEORY","Credits":3,"Instructor":8122,"Days":"MTW","Hours":"09:00","DNO":550},
+    {"CID":"550.750","CName":"TOPICS IN OPERATIONS RESEARCH","Credits":3,"Instructor":9922,"Days":"MW","Hours":"15:00-16:30","DNO":550},
+    {"CID":"550.790","CName":"TOPICS IN APPLIED MATH","Credits":2,"Instructor":2881,"Days":"MT","Hours":"4:30-6","DNO":550},
+    {"CID":"520.137","CName":"INTRODUCTION TO ECE","Credits":3,"Instructor":8723,"Days":"MTW","Hours":"11","DNO":520},
+    {"CID":"520.213","CName":"CIRCUITS","Credits":4,"Instructor":9210,"Days":"MTW","Hours":"2","DNO":520},
+    {"CID":"520.219","CName":"FIELDS, MATTER AND WAVES","Credits":3,"Instructor":9210,"Days":"MTW","Hours":"3","DNO":520},
+    {"CID":"520.325","CName":"INTEGRATED ELECTRONICS","Credits":3,"Instructor":6191,"Days":"MTW","Hours":"3","DNO":520},
+    {"CID":"520.345","CName":"ECE LABORATORY","Credits":3,"Instructor":1823,"Days":"W","Hours":"2","DNO":520},
+    {"CID":"520.349","CName":"MICROPROCESSOR LAB I","Credits":3,"Instructor":9824,"Days":"Th","Hours":"8","DNO":520},
+    {"CID":"520.353","CName":"CONTROL SYSTEMS","Credits":3,"Instructor":6925,"Days":"MTW","Hours":"10","DNO":520},
+    {"CID":"520.401","CName":"BASIC COMMUNICATIONS","Credits":3,"Instructor":6191,"Days":"MTW","Hours":"01","DNO":520},
+    {"CID":"520.410","CName":"FIBER OPTICS AND PHOTONICS","Credits":3,"Instructor":6191,"Days":"MTW","Hours":"1","DNO":520},
+    {"CID":"520.419","CName":"Iterative algorithms","Credits":3,"Instructor":2119,"Days":"MT","Hours":"4-5:15","DNO":520},
+    {"CID":"520.421","CName":"INTRODUCTION TO NON-LINEAR SYSTEMS","Credits":3,"Instructor":7231,"Days":"MTW","Hours":"9","DNO":520},
+    {"CID":"520.432","CName":"TOPICS IN MEDICAL IMAGING SYSTEMS","Credits":3,"Instructor":9514,"Days":"TTh","Hours":"8:30-10","DNO":520},
+    {"CID":"520.435","CName":"DIGITAL SIGNAL PROCESSING","Credits":4,"Instructor":8118,"Days":"MTW","Hours":"11","DNO":520}
+]
+- Type: Data Consistency Anomaly; row 33, col 'CName': 'LINEAR ALGEBRA AND DIFFERENTIAL EQNS' → 'Linear Algebra and Differential EQNS'.
+- Type: Data Consistency Anomaly; row 38, col 'CName': 'COMBINATORIAL ANALYSIS' → 'Combinatorial Analysis'.
+- Type: Data Consistency Anomaly; row 39, col 'CName': 'PROBABILITY THEORY I' → 'Probability Theory I'.
+- Type: Data Consistency Anomaly; row 57, col 'CName': 'ITERATIVE ALGORITHMS' → 'Iterative algorithms'.
+- Type: Data Consistency Anomaly; row 40, col 'Credits': '3' → 'three'.
+- Type: Data Consistency Anomaly; row 32, col 'Days': 'M' → 'Mon'.
+- Type: Data Consistency Anomaly; row 31, col 'Hours': '6:15-8:45' → '6:15 - 8:45'.
+- Type: Data Consistency Anomaly; row 34, col 'Hours': '10' → '10 AM'.
+- Type: Data Consistency Anomaly; row 35, col 'Hours': '2' → '2:00'.
+- Type: Data Consistency Anomaly; row 39, col 'Hours': '2' → '2:00 PM'.
+- Type: Data Consistency Anomaly; row 43, col 'Hours': '12' → '12:00'.
+- Type: Data Consistency Anomaly; row 44, col 'Hours': '11' → '11'.
+- Type: Data Consistency Anomaly; row 45, col 'Hours': '9' → '09:00'.
+- Type: Data Consistency Anomaly; row 46, col 'Hours': '3-4:30' → '15:00-16:30'.
+- Type: Data Consistency Anomaly; row 55, col 'Hours': '1' → '01'.
+- Type: Data Consistency Anomaly; row 36, col 'DNO': '550' → 'nan'.
+GPT raw reply for college_3_Course_60-76:
+[
+    {"CID":"520.475","CName":"PROCESSING AND RECOGNITION OF SPEECH","Credits":3,"Instructor":6330,"Days":"TW","Hours":"2-3:30","DNO":520},
+    {"CID":"520.490","CName":"ANALOG AND DIGITAL VLSI SYSTEMS","Credits":3,"Instructor":8722,"Days":"ThF","Hours":"10:30-12","DNO":520},
+    {"CID":"520.603","CName":"ELECTROMAGNETIC WAVES","Credits":4,"Instructor":9210,"Days":"Th","Hours":"1-4:30","DNO":520},
+    {"CID":"520.605","CName":"SOLID STATE PHYSICS","Credits":3,"Instructor":9379,"Days":"Tu","Hours":"13:00-16:00","DNO":520},
+    {"CID":"520.609","CName":"NONLINEAR TECHNICAL IMAGE PROCESSING","Credits":3,"Instructor":7134,"Days":"Thursday","Hours":"1-4","DNO":520},
+    {"CID":"520.651","CName":"RANDOM SIGNAL ANALYSIS","Credits":3,"Instructor":9514,"Days":"ThF","Hours":"10:30-12","DNO":520},
+    {"CID":"050.102","CName":"Language and Mind","Credits":3,"Instructor":4432,"Days":"MTW","Hours":"10","DNO":50},
+    {"CID":"050.109","CName":"MIND, BRAIN, COMPUTERS","Credits":3,"Instructor":6910,"Days":"MW","Hours":"02-03:15","DNO":50},
+    {"CID":"050.203","CName":"COGNITIVE NEUROSCIENCE","Credits":4,"Instructor":9011,"Days":"MT","Hours":"3:30-4:45","DNO":50},
+    {"CID":"050.325","CName":"SOUND STRUCTURES IN NATURAL LANGUAGE","Credits":3,"Instructor":4432,"Days":"T","Hours":"10-12","DNO":50},
+    {"CID":"050.370","CName":"FORMAL METHODS IN COGNITIVE SCIENCE","Credits":3,"Instructor":6910,"Days":"MW","Hours":"11:30 AM","DNO":50},
+    {"CID":"050.381","CName":"LANGUAGE DEVELOPMENT","Credits":3,"Instructor":8989,"Days":"T","Hours":"13:00-15:00","DNO":50},
+    {"CID":"050.427","CName":"THE HISTORY OF ROMANCE LANGUAGES","Credits":3,"Instructor":4432,"Days":"W","Hours":"1-3","DNO":50},
+    {"CID":"050.670","CName":"FORMAL METHODS IN COGNITIVE SCIENCE","Credits":3,"Instructor":4432,"Days":"MW","Hours":"11:30-12:45","DNO":50},
+    {"CID":"050.802","CName":"RESEARCH SEMINAR IN COGNITIVE PROCESSES","Credits":1,"Instructor":9011,"Days":"W","Hours":"1-3 PM","DNO":50},
+    {"CID":"050.821","CName":"COMP. MODELS OF SENTENCE PROCESSING","Credits":3,"Instructor":5718,"Days":"MON","Hours":"1-4","DNO":50}
+]
+- Type: Data Consistency Anomaly; row 67, col 'CName': 'LANGUAGE AND MIND' → 'Language and Mind'.
+- Type: Data Consistency Anomaly; row 65, col 'Days': 'Th' → 'Thursday'.
+- Type: Data Consistency Anomaly; row 76, col 'Days': 'M' → 'MON'.
+- Type: Data Consistency Anomaly; row 64, col 'Hours': '1-4' → '13:00-16:00'.
+- Type: Data Consistency Anomaly; row 68, col 'Hours': '2-3:15' → '02-03:15'.
+- Type: Data Consistency Anomaly; row 71, col 'Hours': '11:30' → '11:30 AM'.
+- Type: Data Consistency Anomaly; row 72, col 'Hours': '1-3' → '13:00-15:00'.
+- Type: Data Consistency Anomaly; row 75, col 'Hours': '1-3' → '1-3 PM'.
+
+Table: college_3_Department.json
+GPT raw reply for college_3_Department_0-26:
+[
+    {"DNO":10,"Division":"AS","DName":"History of Art","Room":"268","Building":"Mergenthaler","DPhone":7117},
+    {"DNO":20,"Division":"AS","DName":"biology","Room":"144","Building":"Mudd","DPhone":"7330"},
+    {"DNO":30,"Division":"AS","DName":"Chemistry","Room":"113","Building":"Remsen","DPhone":"(7429)"},
+    {"DNO":40,"Division":"Arts & Sciences","DName":"Classics","Room":"121","Building":"Gilman","DPhone":7556},
+    {"DNO":50,"Division":"AS","DName":"Cognitive Science","Room":"381","Building":"Krieger","DPhone":"07119"},
+    {"DNO":60,"Division":"AS","DName":"English","Room":"146","Building":"Gilman","DPhone":7544},
+    {"DNO":70,"Division":"AS","DName":"Anthropology","Room":"404B","Building":"MacAulay","DPhone":7272},
+    {"DNO":90,"Division":"AS","DName":"German","Room":"245","Building":"Gilman","DPhone":"7508"},
+    {"DNO":100,"Division":"AS","DName":"History","Room":"312","Building":"Gilman","DPhone":7575},
+    {"DNO":110,"Division":"AS","DName":"Mathematics","Room":"404","Building":"Krieger","DPhone":7399},
+    {"DNO":130,"Division":"AS","DName":"Near Eastern Studies","Room":"128","Building":"Gilman","DPhone":"07499"},
+    {"DNO":140,"Division":"AS","DName":"History of Science","Room":"234","Building":"Gilman","DPhone":7501},
+    {"DNO":150,"Division":"as","DName":"Philosophy","Room":"347","Building":"Gilman","DPhone":7524},
+    {"DNO":170,"Division":"AS","DName":"Physics and Astronomy","Room":"366","Building":"Bloomberg","DPhone":"7347"},
+    {"DNO":180,"Division":"AS","DName":"Economics","Room":"440","Building":"Mergenthaler","DPhone":7601},
+    {"DNO":190,"Division":"AS","DName":"Political Science","Room":"338","Building":"Mergenthaler","DPhone":"7540"},
+    {"DNO":200,"Division":"AS","DName":"Psychology","Room":"223","Building":"Ames","DPhone":"7055"},
+    {"DNO":340,"Division":"AS","DName":"French","Room":"225","Building":"Gilman","DPhone":7227},
+    {"DNO":350,"Division":"AS","DName":"Hispanic/Italian Studies","Room":"221","Building":"Gilman","DPhone":"07226"},
+    {"DNO":520,"Division":"EN","DName":"ECE","Room":"105","Building":"Barton","DPhone":"7033"},
+    {"DNO":530,"Division":"EN","DName":"Mechanical Engineering","Room":"122","Building":"Latrobe","DPhone":"007132"},
+    {"DNO":540,"Division":"EN","DName":"Chemical Engineering","Room":"24","Building":"NEB","DPhone":7170},
+    {"DNO":550,"Division":"EN","DName":"Mathematical Sci","Room":"221","Building":"Maryland","DPhone":7195},
+    {"DNO":560,"Division":"EN","DName":"Civil Engineering","Room":"206","Building":"Latrobe","DPhone":8680},
+    {"DNO":580,"Division":"EN","DName":"Biomedical Engineering","Room":"144","Building":"NEB","DPhone":"8482"},
+    {"DNO":600,"Division":"EN","DName":"Computer Science","Room":"224","Building":"NEB","DPhone":"08577"}
+]
+- Type: Data Consistency Anomaly; row 4, col 'Division': 'AS' → 'Arts & Sciences'.
+- Type: Data Consistency Anomaly; row 13, col 'Division': 'AS' → 'as'.
+- Type: Data Consistency Anomaly; row 2, col 'DName': 'Biology' → 'biology'.
+- Type: Data Consistency Anomaly; row 23, col 'DName': 'Mathematical Sciences' → 'Mathematical Sci'.
+- Type: Data Consistency Anomaly; row 7, col 'Building': 'Macaulay' → 'MacAulay'.
+- Type: Data Consistency Anomaly; row 2, col 'DPhone': '7330' → '7330'.
+- Type: Data Consistency Anomaly; row 3, col 'DPhone': '7429' → '(7429)'.
+- Type: Data Consistency Anomaly; row 5, col 'DPhone': '7119' → '07119'.
+- Type: Data Consistency Anomaly; row 8, col 'DPhone': '7508' → '7508'.
+- Type: Data Consistency Anomaly; row 11, col 'DPhone': '7499' → '07499'.
+- Type: Data Consistency Anomaly; row 14, col 'DPhone': '7347' → '7347'.
+- Type: Data Consistency Anomaly; row 16, col 'DPhone': '7540' → '7540'.
+- Type: Data Consistency Anomaly; row 17, col 'DPhone': '7055' → '7055'.
+- Type: Data Consistency Anomaly; row 19, col 'DPhone': '7226' → '07226'.
+- Type: Data Consistency Anomaly; row 20, col 'DPhone': '7033' → '7033'.
+- Type: Data Consistency Anomaly; row 21, col 'DPhone': '7132' → '007132'.
+- Type: Data Consistency Anomaly; row 25, col 'DPhone': '8482' → '8482'.
+- Type: Data Consistency Anomaly; row 26, col 'DPhone': '8577' → '08577'.
+
+Table: college_3_Enrolled_in.json
+GPT raw reply for college_3_Enrolled_in_0-30:
+[
+    {"StuID":1001,"CID":"550.681","Grade":"A-"},
+    {"StuID":1001,"CID":"600.303","Grade":"B"},
+    {"StuID":1001,"CID":"600.315","Grade":"B+"},
+    {"StuID":1001,"CID":"600.337","Grade":"A"},
+    {"StuID":1001,"CID":"600.461","Grade":"B-"},
+    {"StuID":1001,"CID":"600.465","Grade":"b"},  // Case sensitivity inconsistency
+    {"StuID":1002,"CID":"520.213","Grade":"B+"},
+    {"StuID":1002,"CID":"600.211","Grade":"C"},
+    {"StuID":1002,"CID":"600.303","Grade":"C+"},
+    {"StuID":1002,"CID":"600.337","Grade":"A"},
+    {"StuID":1002,"CID":"600.463","Grade":"b"},  // Case sensitivity inconsistency
+    {"StuID":1002,"CID":"600.465","Grade":"B+"},
+    {"StuID":1003,"CID":"600.333","Grade":"B"},
+    {"StuID":1003,"CID":"600.337","Grade":"B"},
+    {"StuID":1003,"CID":"600.415","Grade":"B"},
+    {"StuID":1003,"CID":"600.461","Grade":"B+"},
+    {"StuID":1003,"CID":"600.465","Grade":"B"},
+    {"StuID":1004,"CID":"600.303","Grade":"C-"},
+    {"StuID":1004,"CID":"600.415","Grade":"C-"},
+    {"StuID":1004,"CID":"600.437","Grade":"C-"},
+    {"StuID":1004,"CID":"600.445","Grade":"A-"},
+    {"StuID":1004,"CID":"600.461","Grade":"C"},
+    {"StuID":1004,"CID":"600.463","Grade":"A+"},
+    {"StuID":1004,"CID":"600.465","Grade":"A"},
+    {"StuID":1005,"CID":"600.103","Grade":"A"},
+    {"StuID":1005,"CID":"600.107","Grade":"C+"},
+    {"StuID":1005,"CID":"600.113","Grade":"c"},  // Case sensitivity inconsistency
+    {"StuID":1005,"CID":"600.227","Grade":"A"},
+    {"StuID":1005,"CID":"600.303","Grade":"B"},
+    {"StuID":1006,"CID":"550.420","Grade":"B"},
+    {"StuID":1002,"CID":"600.211","Grade":"C"},  // Duplicate entry
+    {"StuID":1003,"CID":"600.315","Grade":"B+"},  // Logical violation: StuID 1003 doesn't have CID 600.315
+    {"StuID":1002,"CID":"600.337","Grade":"A+"},  // Logical violation: Grade inconsistency within same StuID and CID
+    {"StuID":1003,"CID":"600.415","Grade":"c"},  // Case sensitivity inconsistency
+    {"StuID":1004,"CID":"600.463","Grade":"A+"},  // Duplicate entry
+    {"StuID":1001,"CID":"600.465","Grade":"B+"},  // Logical violation: Grade inconsistency within same StuID and CID
+    {"StuID":1005,"CID":"600.107","Grade":""},  // Missing value
+    {"StuID":1006,"CID":"550.420","Grade":"b"}  // Case sensitivity inconsistency
+]
+GPT anomaly explanations for college_3_Enrolled_in_0-30:
+[
+    {"StuID":1001,"CID":"550.681","Grade":"A-"},
+    {"StuID":1001,"CID":"600.303","Grade":"B"},
+    {"StuID":1001,"CID":"600.315","Grade":"B+"},
+    {"StuID":1001,"CID":"600.337","Grade":"A"},
+    {"StuID":1001,"CID":"600.461","Grade":"B-"},
+    {"StuID":1001,"CID":"600.465","Grade":"b"},  // Case sensitivity inconsistency
+    {"StuID":1002,"CID":"520.213","Grade":"B+"},
+    {"StuID":1002,"CID":"600.211","Grade":"C"},
+    {"StuID":1002,"CID":"600.303","Grade":"C+"},
+    {"StuID":1002,"CID":"600.337","Grade":"A"},
+    {"StuID":1002,"CID":"600.463","Grade":"b"},  // Case sensitivity inconsistency
+    {"StuID":1002,"CID":"600.465","Grade":"B+"},
+    {"StuID":1003,"CID":"600.333","Grade":"B"},
+    {"StuID":1003,"CID":"600.337","Grade":"B"},
+    {"StuID":1003,"CID":"600.415","Grade":"B"},
+    {"StuID":1003,"CID":"600.461","Grade":"B+"},
+    {"StuID":1003,"CID":"600.465","Grade":"B"},
+    {"StuID":1004,"CID":"600.303","Grade":"C-"},
+    {"StuID":1004,"CID":"600.415","Grade":"C-"},
+    {"StuID":1004,"CID":"600.437","Grade":"C-"},
+    {"StuID":1004,"CID":"600.445","Grade":"A-"},
+    {"StuID":1004,"CID":"600.461","Grade":"C"},
+    {"StuID":1004,"CID":"600.463","Grade":"A+"},
+    {"StuID":1004,"CID":"600.465","Grade":"A"},
+    {"StuID":1005,"CID":"600.103","Grade":"A"},
+    {"StuID":1005,"CID":"600.107","Grade":"C+"},
+    {"StuID":1005,"CID":"600.113","Grade":"c"},  // Case sensitivity inconsistency
+    {"StuID":1005,"CID":"600.227","Grade":"A"},
+    {"StuID":1005,"CID":"600.303","Grade":"B"},
+    {"StuID":1006,"CID":"550.420","Grade":"B"},
+    {"StuID":1002,"CID":"600.211","Grade":"C"},  // Duplicate entry
+    {"StuID":1003,"CID":"600.315","Grade":"B+"},  // Logical violation: StuID 1003 doesn't have CID 600.315
+    {"StuID":1002,"CID":"600.337","Grade":"A+"},  // Logical violation: Grade inconsistency within same StuID and CID
+    {"StuID":1003,"CID":"600.415","Grade":"c"},  // Case sensitivity inconsistency
+    {"StuID":1004,"CID":"600.463","Grade":"A+"},  // Duplicate entry
+    {"StuID":1001,"CID":"600.465","Grade":"B+"},  // Logical violation: Grade inconsistency within same StuID and CID
+    {"StuID":1005,"CID":"600.107","Grade":""},  // Missing value
+    {"StuID":1006,"CID":"550.420","Grade":"b"}  // Case sensitivity inconsistency
+]
+- Type: Data Consistency Anomaly; row 6, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 11, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 27, col 'Grade': 'C' → 'c'.
+GPT raw reply for college_3_Enrolled_in_30-60:
+[{"StuID":1006,"CID":"600.107","Grade":"b+"},{"StuID":1006,"CID":"600.227","Grade":"B-"},{"StuID":1006,"CID":"600.232","Grade":"C-"},{"StuID":1006,"CID":"600.303","Grade":"A-"},{"StuID":1006,"CID":"600.315","Grade":"A"},{"StuID":1007,"CID":"550.420","Grade":"A"},{"StuID":1007,"CID":"600.113","Grade":"A-"},{"StuID":1007,"CID":"600.227","Grade":"C+"},{"StuID":1007,"CID":"600.315","Grade":"a"},{"StuID":1007,"CID":"600.333","Grade":"A-"},{"StuID":1007,"CID":"600.337","Grade":"C"},{"StuID":1008,"CID":"600.415","Grade":"A+"},{"StuID":1008,"CID":"600.463","Grade":"B"},{"StuID":1008,"CID":"600.465","Grade":"b"},{"StuID":1008,"CID":"600.657","Grade":"B"},{"StuID":1008,"CID":"600.787","Grade":"B"},{"StuID":1009,"CID":"550.413","Grade":"B+"},{"StuID":1009,"CID":"550.471","Grade":"C"},{"StuID":1009,"CID":"550.620","Grade":"A-"},{"StuID":1009,"CID":"550.626","Grade":"b"},{"StuID":1009,"CID":"550.671","Grade":"C"},{"StuID":1009,"CID":"550.681","Grade":"A"},{"StuID":1009,"CID":"550.661","Grade":"B-"},{"StuID":1009,"CID":"550.631","Grade":"A-"},{"StuID":1010,"CID":"550.291","Grade":"A"},{"StuID":1010,"CID":"550.310","Grade":"A"},{"StuID":1010,"CID":"550.413","Grade":"c+"},{"StuID":1010,"CID":"550.420","Grade":"A"},{"StuID":1010,"CID":"550.471","Grade":"A"},{"StuID":1010,"CID":"600.107","Grade":"B+"}]
+- Type: Data Consistency Anomaly; row 31, col 'Grade': 'B+' → 'b+'.
+- Type: Data Consistency Anomaly; row 39, col 'Grade': 'A' → 'a'.
+- Type: Data Consistency Anomaly; row 44, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 50, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 57, col 'Grade': 'C+' → 'c+'.
+GPT raw reply for college_3_Enrolled_in_60-90:
+[
+    {"StuID":1011,"CID":"520.213","Grade":"B"},
+    {"StuID":1011,"CID":"520.345","Grade":"B"},
+    {"StuID":1011,"CID":"520.349","Grade":"a"},  // Case sensitivity issue
+    {"StuID":1011,"CID":"520.353","Grade":"A-"},
+    {"StuID":1011,"CID":"550.420","Grade":"B"},
+    {"StuID":1011,"CID":"600.415","Grade":"B+"},
+    {"StuID":1012,"CID":"050.109","Grade":"B-"},
+    {"StuID":1012,"CID":"050.203","Grade":"b-"},  // Case sensitivity issue
+    {"StuID":1012,"CID":"050.325","Grade":"A-"},
+    {"StuID":1012,"CID":"600.107","Grade":"A"},
+    {"StuID":1012,"CID":"600.315","Grade":"B"},
+    {"StuID":1014,"CID":"600.107","Grade":"a"},  // Case sensitivity issue
+    {"StuID":1014,"CID":"600.227","Grade":"A"},
+    {"StuID":1014,"CID":"600.232","Grade":"A"},
+    {"StuID":1014,"CID":"600.315","Grade":"A+"},
+    {"StuID":1014,"CID":"600.445","Grade":"B"},
+    {"StuID":1014,"CID":"600.461","Grade":"B"},
+    {"StuID":1014,"CID":"600.463","Grade":""},  // Missing value
+    {"StuID":1015,"CID":"550.420","Grade":"A"},
+    {"StuID":1015,"CID":"600.227","Grade":"A+"},
+    {"StuID":1015,"CID":"600.303","Grade":"A"},
+    {"StuID":1015,"CID":"600.315","Grade":"c-"},  // Case sensitivity issue
+    {"StuID":1015,"CID":"600.333","Grade":"A"},
+    {"StuID":1016,"CID":"050.109","Grade":"B-"},
+    {"StuID":1016,"CID":"050.203","Grade":"D-"},
+    {"StuID":1016,"CID":"050.325","Grade":"A"},
+    {"StuID":1016,"CID":"050.821","Grade":"A"},
+    {"StuID":1016,"CID":"550.420","Grade":"a-"},  // Case sensitivity issue
+    {"StuID":1016,"CID":"600.107","Grade":"B+"},
+    {"StuID":1016,"CID":"600.315","Grade":"B-"}
+]
+GPT anomaly explanations for college_3_Enrolled_in_60-90:
+[
+    {"StuID":1011,"CID":"520.213","Grade":"B"},
+    {"StuID":1011,"CID":"520.345","Grade":"B"},
+    {"StuID":1011,"CID":"520.349","Grade":"a"},  // Case sensitivity issue
+    {"StuID":1011,"CID":"520.353","Grade":"A-"},
+    {"StuID":1011,"CID":"550.420","Grade":"B"},
+    {"StuID":1011,"CID":"600.415","Grade":"B+"},
+    {"StuID":1012,"CID":"050.109","Grade":"B-"},
+    {"StuID":1012,"CID":"050.203","Grade":"b-"},  // Case sensitivity issue
+    {"StuID":1012,"CID":"050.325","Grade":"A-"},
+    {"StuID":1012,"CID":"600.107","Grade":"A"},
+    {"StuID":1012,"CID":"600.315","Grade":"B"},
+    {"StuID":1014,"CID":"600.107","Grade":"a"},  // Case sensitivity issue
+    {"StuID":1014,"CID":"600.227","Grade":"A"},
+    {"StuID":1014,"CID":"600.232","Grade":"A"},
+    {"StuID":1014,"CID":"600.315","Grade":"A+"},
+    {"StuID":1014,"CID":"600.445","Grade":"B"},
+    {"StuID":1014,"CID":"600.461","Grade":"B"},
+    {"StuID":1014,"CID":"600.463","Grade":""},  // Missing value
+    {"StuID":1015,"CID":"550.420","Grade":"A"},
+    {"StuID":1015,"CID":"600.227","Grade":"A+"},
+    {"StuID":1015,"CID":"600.303","Grade":"A"},
+    {"StuID":1015,"CID":"600.315","Grade":"c-"},  // Case sensitivity issue
+    {"StuID":1015,"CID":"600.333","Grade":"A"},
+    {"StuID":1016,"CID":"050.109","Grade":"B-"},
+    {"StuID":1016,"CID":"050.203","Grade":"D-"},
+    {"StuID":1016,"CID":"050.325","Grade":"A"},
+    {"StuID":1016,"CID":"050.821","Grade":"A"},
+    {"StuID":1016,"CID":"550.420","Grade":"a-"},  // Case sensitivity issue
+    {"StuID":1016,"CID":"600.107","Grade":"B+"},
+    {"StuID":1016,"CID":"600.315","Grade":"B-"}
+]
+- Type: Data Consistency Anomaly; row 63, col 'Grade': 'A' → 'a'.
+- Type: Data Consistency Anomaly; row 68, col 'Grade': 'B-' → 'b-'.
+- Type: Data Consistency Anomaly; row 72, col 'Grade': 'A' → 'a'.
+- Type: Data Consistency Anomaly; row 78, col 'Grade': 'B' → ''.
+- Type: Data Consistency Anomaly; row 82, col 'Grade': 'C-' → 'c-'.
+- Type: Data Consistency Anomaly; row 88, col 'Grade': 'A-' → 'a-'.
+GPT raw reply for college_3_Enrolled_in_90-120:
+[
+    {"StuID": 1017, "CID": "050.427", "Grade": "B"},
+    {"StuID": 1017, "CID": "050.670", "Grade": "B"},
+    {"StuID": 1017, "CID": "050.802", "Grade": "C"},
+    {"StuID": 1017, "CID": "550.681", "Grade": "b"},  // Case sensitivity in grade
+    {"StuID": 1017, "CID": "600.109", "Grade": "A-"},
+    {"StuID": 1017, "CID": "600.461", "Grade": "A"},
+    {"StuID": 1017, "CID": "600.465", "Grade": "c"},  // Case sensitivity in grade
+    {"StuID": 1018, "CID": "520.213", "Grade": "A-"},
+    {"StuID": 1018, "CID": "600.211", "Grade": "A"},
+    {"StuID": 1018, "CID": "600.303", "Grade": "A"},
+    {"StuID": 1018, "CID": "600.337", "Grade": "c-"},  // Case sensitivity in grade
+    {"StuID": 1018, "CID": "600.463", "Grade": "B"},
+    {"StuID": 1018, "CID": "600.465", "Grade": "B"},
+    {"StuID": 1019, "CID": "600.103", "Grade": "B"},
+    {"StuID": 1019, "CID": "600.107", "Grade": "B"},
+    {"StuID": 1019, "CID": "600.113", "Grade": "d+"},  // Case sensitivity in grade
+    {"StuID": 1019, "CID": "600.227", "Grade": "A"},
+    {"StuID": 1019, "CID": "600.303", "Grade": "a"},  // Case sensitivity in grade
+    {"StuID": 1020, "CID": "600.333", "Grade": "A"},
+    {"StuID": 1020, "CID": "600.337", "Grade": "A"},
+    {"StuID": 1020, "CID": "600.415", "Grade": "A"},
+    {"StuID": 1020, "CID": "600.461", "Grade": "A"},
+    {"StuID": 1020, "CID": "600.465", "Grade": "a"},  // Case sensitivity in grade
+    {"StuID": 1021, "CID": "600.303", "Grade": "B-"},
+    {"StuID": 1021, "CID": "600.303", "Grade": "B"},  // Duplicate entry
+    {"StuID": 1021, "CID": "600.415", "Grade": "B"},
+    {"StuID": 1021, "CID": "600.437", "Grade": "B"},
+    {"StuID": 1021, "CID": "600.437", "Grade": "B"},  // Duplicate entry
+    {"StuID": 1021, "CID": "600.445", "Grade": "B-"},
+    {"StuID": 1021, "CID": "600.445", "Grade": "c"}  // Case sensitivity in grade
+]
+GPT anomaly explanations for college_3_Enrolled_in_90-120:
+[
+    {"StuID": 1017, "CID": "050.427", "Grade": "B"},
+    {"StuID": 1017, "CID": "050.670", "Grade": "B"},
+    {"StuID": 1017, "CID": "050.802", "Grade": "C"},
+    {"StuID": 1017, "CID": "550.681", "Grade": "b"},  // Case sensitivity in grade
+    {"StuID": 1017, "CID": "600.109", "Grade": "A-"},
+    {"StuID": 1017, "CID": "600.461", "Grade": "A"},
+    {"StuID": 1017, "CID": "600.465", "Grade": "c"},  // Case sensitivity in grade
+    {"StuID": 1018, "CID": "520.213", "Grade": "A-"},
+    {"StuID": 1018, "CID": "600.211", "Grade": "A"},
+    {"StuID": 1018, "CID": "600.303", "Grade": "A"},
+    {"StuID": 1018, "CID": "600.337", "Grade": "c-"},  // Case sensitivity in grade
+    {"StuID": 1018, "CID": "600.463", "Grade": "B"},
+    {"StuID": 1018, "CID": "600.465", "Grade": "B"},
+    {"StuID": 1019, "CID": "600.103", "Grade": "B"},
+    {"StuID": 1019, "CID": "600.107", "Grade": "B"},
+    {"StuID": 1019, "CID": "600.113", "Grade": "d+"},  // Case sensitivity in grade
+    {"StuID": 1019, "CID": "600.227", "Grade": "A"},
+    {"StuID": 1019, "CID": "600.303", "Grade": "a"},  // Case sensitivity in grade
+    {"StuID": 1020, "CID": "600.333", "Grade": "A"},
+    {"StuID": 1020, "CID": "600.337", "Grade": "A"},
+    {"StuID": 1020, "CID": "600.415", "Grade": "A"},
+    {"StuID": 1020, "CID": "600.461", "Grade": "A"},
+    {"StuID": 1020, "CID": "600.465", "Grade": "a"},  // Case sensitivity in grade
+    {"StuID": 1021, "CID": "600.303", "Grade": "B-"},
+    {"StuID": 1021, "CID": "600.303", "Grade": "B"},  // Duplicate entry
+    {"StuID": 1021, "CID": "600.415", "Grade": "B"},
+    {"StuID": 1021, "CID": "600.437", "Grade": "B"},
+    {"StuID": 1021, "CID": "600.437", "Grade": "B"},  // Duplicate entry
+    {"StuID": 1021, "CID": "600.445", "Grade": "B-"},
+    {"StuID": 1021, "CID": "600.445", "Grade": "c"}  // Case sensitivity in grade
+]
+- Type: Data Consistency Anomaly; row 94, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 97, col 'Grade': 'C' → 'c'.
+- Type: Data Consistency Anomaly; row 101, col 'Grade': 'C-' → 'c-'.
+- Type: Data Consistency Anomaly; row 106, col 'Grade': 'D+' → 'd+'.
+- Type: Data Consistency Anomaly; row 108, col 'Grade': 'A' → 'a'.
+- Type: Data Consistency Anomaly; row 113, col 'Grade': 'A' → 'a'.
+- Type: Data Consistency Anomaly; row 120, col 'Grade': 'C' → 'c'.
+GPT raw reply for college_3_Enrolled_in_120-150:
+[
+    {"StuID":1021,"CID":"600.463","Grade":"A"},
+    {"StuID":1021,"CID":"600.463","Grade":"B"},
+    {"StuID":1022,"CID":"550.420","Grade":"B"},
+    {"StuID":1022,"CID":"550.420","Grade":"B+"},
+    {"StuID":1022,"CID":"600.107","Grade":"A"},
+    {"StuID":1022,"CID":"600.227","Grade":"A"},
+    {"StuID":1022,"CID":"600.227","Grade":"A"},
+    {"StuID":1022,"CID":"600.232","Grade":"B"},
+    {"StuID":1022,"CID":"600.303","Grade":"b"},  // Case Sensitivity Issue
+    {"StuID":1022,"CID":"600.315","Grade":"D"},
+    {"StuID":1022,"CID":"600.461","Grade":"A"},
+    {"StuID":1023,"CID":"600.113","Grade":"A-"},
+    {"StuID":1023,"CID":"600.315","Grade":"B"},
+    {"StuID":1023,"CID":"600.333","Grade":"B"},
+    {"StuID":1023,"CID":"600.337","Grade":"B+"},
+    {"StuID":1023,"CID":"600.463","Grade":"a"},  // Case Sensitivity Issue
+    {"StuID":1023,"CID":"600.465","Grade":"A"},
+    {"StuID":1023,"CID":"600.657","Grade":"B"},
+    {"StuID":1023,"CID":"600.787","Grade":"b"},  // Case Sensitivity Issue
+    {"StuID":1024,"CID":"550.291","Grade":"B"},
+    {"StuID":1024,"CID":"550.413","Grade":"C"},
+    {"StuID":1024,"CID":"550.471","Grade":"A-"},
+    {"StuID":1024,"CID":"550.620","Grade":"A"},
+    {"StuID":1024,"CID":"550.626","Grade":"b"},  // Case Sensitivity Issue
+    {"StuID":1024,"CID":"550.671","Grade":""},  // Null or Missing Value
+    {"StuID":1024,"CID":"550.681","Grade":"B"},
+    {"StuID":1024,"CID":"600.415","Grade":"B"},
+    {"StuID":1025,"CID":"520.213","Grade":"A"},
+    {"StuID":1025,"CID":"520.345","Grade":"A+"},
+    {"StuID":1025,"CID":"550.310","Grade":"a+"}  // Case Sensitivity Issue
+]
+GPT anomaly explanations for college_3_Enrolled_in_120-150:
+[
+    {"StuID":1021,"CID":"600.463","Grade":"A"},
+    {"StuID":1021,"CID":"600.463","Grade":"B"},
+    {"StuID":1022,"CID":"550.420","Grade":"B"},
+    {"StuID":1022,"CID":"550.420","Grade":"B+"},
+    {"StuID":1022,"CID":"600.107","Grade":"A"},
+    {"StuID":1022,"CID":"600.227","Grade":"A"},
+    {"StuID":1022,"CID":"600.227","Grade":"A"},
+    {"StuID":1022,"CID":"600.232","Grade":"B"},
+    {"StuID":1022,"CID":"600.303","Grade":"b"},  // Case Sensitivity Issue
+    {"StuID":1022,"CID":"600.315","Grade":"D"},
+    {"StuID":1022,"CID":"600.461","Grade":"A"},
+    {"StuID":1023,"CID":"600.113","Grade":"A-"},
+    {"StuID":1023,"CID":"600.315","Grade":"B"},
+    {"StuID":1023,"CID":"600.333","Grade":"B"},
+    {"StuID":1023,"CID":"600.337","Grade":"B+"},
+    {"StuID":1023,"CID":"600.463","Grade":"a"},  // Case Sensitivity Issue
+    {"StuID":1023,"CID":"600.465","Grade":"A"},
+    {"StuID":1023,"CID":"600.657","Grade":"B"},
+    {"StuID":1023,"CID":"600.787","Grade":"b"},  // Case Sensitivity Issue
+    {"StuID":1024,"CID":"550.291","Grade":"B"},
+    {"StuID":1024,"CID":"550.413","Grade":"C"},
+    {"StuID":1024,"CID":"550.471","Grade":"A-"},
+    {"StuID":1024,"CID":"550.620","Grade":"A"},
+    {"StuID":1024,"CID":"550.626","Grade":"b"},  // Case Sensitivity Issue
+    {"StuID":1024,"CID":"550.671","Grade":""},  // Null or Missing Value
+    {"StuID":1024,"CID":"550.681","Grade":"B"},
+    {"StuID":1024,"CID":"600.415","Grade":"B"},
+    {"StuID":1025,"CID":"520.213","Grade":"A"},
+    {"StuID":1025,"CID":"520.345","Grade":"A+"},
+    {"StuID":1025,"CID":"550.310","Grade":"a+"}  // Case Sensitivity Issue
+]
+- Type: Data Consistency Anomaly; row 129, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 136, col 'Grade': 'A' → 'a'.
+- Type: Data Consistency Anomaly; row 139, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 144, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 145, col 'Grade': 'B' → ''.
+- Type: Data Consistency Anomaly; row 150, col 'Grade': 'A' → 'a+'.
+GPT raw reply for college_3_Enrolled_in_150-180:
+[
+    {"StuID":1025,"CID":"550.413","Grade":"a"},  // Grade inconsistency with lowercase
+    {"StuID":1025,"CID":"550.420","Grade":"C"},
+    {"StuID":1025,"CID":"550.471","Grade":"B"},
+    {"StuID":1025,"CID":"600.107","Grade":"B"},
+    {"StuID":1026,"CID":"520.349","Grade":"A"},
+    {"StuID":1026,"CID":"520.353","Grade":"A"},
+    {"StuID":1026,"CID":"600.303","Grade":"A"},
+    {"StuID":1026,"CID":"600.437","Grade":"A"},
+    {"StuID":1026,"CID":"600.445","Grade":"A"},
+    {"StuID":1026,"CID":"600.463","Grade":"B-"},
+    {"StuID":1027,"CID":"600.107","Grade":"b"},  // Grade inconsistency with lowercase
+    {"StuID":1027,"CID":"600.227","Grade":"B"},
+    {"StuID":1027,"CID":"600.232","Grade":"B"},
+    {"StuID":1027,"CID":"600.303","Grade":"B"},
+    {"StuID":1027,"CID":"600.315","Grade":"B-"},
+    {"StuID":1027,"CID":"600.461","Grade":"B-"},
+    {"StuID":1027,"CID":"600.463","Grade":"b"},  // Grade inconsistency with lowercase
+    {"StuID":1028,"CID":"550.420","Grade":"B+"},  // CID inconsistency, should be "550.420"
+    {"StuID":1028,"CID":"600.227","Grade":"A"},
+    {"StuID":1028,"CID":"600.315","Grade":"A+"},
+    {"StuID":1028,"CID":"600.333","Grade":"A"},
+    {"StuID":1028,"CID":"600.337","Grade":"A+"},
+    {"StuID":1029,"CID":"550.413","Grade":"C-"},
+    {"StuID":1029,"CID":"550.471","Grade":"A"},
+    {"StuID":1029,"CID":"550.620","Grade":"B-"},
+    {"StuID":1029,"CID":"550.671","Grade":"a-"},  // Grade inconsistency with lowercase
+    {"StuID":1029,"CID":"600.113","Grade":"B-"},
+    {"StuID":1029,"CID":"600.463","Grade":"A+"},
+    {"StuID":1030,"CID":"520.345","Grade":"B"},
+    {"StuID":1030,"CID":"550.291","Grade":"b"}  // Grade inconsistency with lowercase
+]
+GPT anomaly explanations for college_3_Enrolled_in_150-180:
+[
+    {"StuID":1025,"CID":"550.413","Grade":"a"},  // Grade inconsistency with lowercase
+    {"StuID":1025,"CID":"550.420","Grade":"C"},
+    {"StuID":1025,"CID":"550.471","Grade":"B"},
+    {"StuID":1025,"CID":"600.107","Grade":"B"},
+    {"StuID":1026,"CID":"520.349","Grade":"A"},
+    {"StuID":1026,"CID":"520.353","Grade":"A"},
+    {"StuID":1026,"CID":"600.303","Grade":"A"},
+    {"StuID":1026,"CID":"600.437","Grade":"A"},
+    {"StuID":1026,"CID":"600.445","Grade":"A"},
+    {"StuID":1026,"CID":"600.463","Grade":"B-"},
+    {"StuID":1027,"CID":"600.107","Grade":"b"},  // Grade inconsistency with lowercase
+    {"StuID":1027,"CID":"600.227","Grade":"B"},
+    {"StuID":1027,"CID":"600.232","Grade":"B"},
+    {"StuID":1027,"CID":"600.303","Grade":"B"},
+    {"StuID":1027,"CID":"600.315","Grade":"B-"},
+    {"StuID":1027,"CID":"600.461","Grade":"B-"},
+    {"StuID":1027,"CID":"600.463","Grade":"b"},  // Grade inconsistency with lowercase
+    {"StuID":1028,"CID":"550.420","Grade":"B+"},  // CID inconsistency, should be "550.420"
+    {"StuID":1028,"CID":"600.227","Grade":"A"},
+    {"StuID":1028,"CID":"600.315","Grade":"A+"},
+    {"StuID":1028,"CID":"600.333","Grade":"A"},
+    {"StuID":1028,"CID":"600.337","Grade":"A+"},
+    {"StuID":1029,"CID":"550.413","Grade":"C-"},
+    {"StuID":1029,"CID":"550.471","Grade":"A"},
+    {"StuID":1029,"CID":"550.620","Grade":"B-"},
+    {"StuID":1029,"CID":"550.671","Grade":"a-"},  // Grade inconsistency with lowercase
+    {"StuID":1029,"CID":"600.113","Grade":"B-"},
+    {"StuID":1029,"CID":"600.463","Grade":"A+"},
+    {"StuID":1030,"CID":"520.345","Grade":"B"},
+    {"StuID":1030,"CID":"550.291","Grade":"b"}  // Grade inconsistency with lowercase
+]
+- Type: Data Consistency Anomaly; row 151, col 'Grade': 'A' → 'a'.
+- Type: Data Consistency Anomaly; row 161, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 167, col 'Grade': 'B' → 'b'.
+- Type: Data Consistency Anomaly; row 176, col 'Grade': 'A-' → 'a-'.
+- Type: Data Consistency Anomaly; row 180, col 'Grade': 'B' → 'b'.
+GPT raw reply for college_3_Enrolled_in_180-210:
+[
+    {"StuID": "01030", "CID": "550.310", "Grade": "B-"},  // Inconsistent StuID format
+    {"StuID": 1030, "CID": "550.413", "Grade": "B-"},
+    {"StuID": 1030, "CID": "550.420", "Grade": "B"},
+    {"StuID": 1030, "CID": "550.471", "Grade": "B+"},
+    {"StuID": 1030, "CID": "600.107", "Grade": "B"},
+    {"StuID": 1031, "CID": "520.213", "Grade": "B+"},
+    {"StuID": 1031, "CID": "520.349", "Grade": "B"},
+    {"StuID": 1031, "CID": "520.353", "Grade": "C"},
+    {"StuID": 1031, "CID": "600.437", "Grade": "A+"},
+    {"StuID": 1032, "CID": "550.420", "Grade": "A-"},
+    {"StuID": 1032, "CID": "550.420", "Grade": "D-"},
+    {"StuID": 1032, "CID": "600.232", "Grade": ""},  // Missing Grade value
+    {"StuID": 1032, "CID": "600.303", "Grade": "A"},
+    {"StuID": 1032, "CID": "600.315", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.113", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.227", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.315", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.333", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.337", "Grade": "b"},  // Case sensitivity issue
+    {"StuID": 1034, "CID": "050.109", "Grade": "B+"},
+    {"StuID": 1034, "CID": "050.203", "Grade": "B"},
+    {"StuID": 1034, "CID": "050.325", "Grade": "B"},
+    {"StuID": 1034, "CID": "600.107", "Grade": "B+"},
+    {"StuID": 1034, "CID": "600.315", "Grade": "B"},
+    {"StuID": 1035, "CID": "050.381", "Grade": "B-"},
+    {"StuID": 1035, "CID": "050.427", "Grade": "A-"},
+    {"StuID": 1035, "CID": "050.670", "Grade": "B"},
+    {"StuID": 1035, "CID": "050.802", "Grade": "D"},
+    {"StuID": 1035, "CID": "050.821", "Grade": "A"},
+    {"StuID": 1035, "CID": "600.109", "Grade": "B-"},
+    {"StuID": 1035, "CID": "600.109", "Grade": "B+"}  // Duplicate entry with different Grade
+]
+GPT anomaly explanations for college_3_Enrolled_in_180-210:
+[
+    {"StuID": "01030", "CID": "550.310", "Grade": "B-"},  // Inconsistent StuID format
+    {"StuID": 1030, "CID": "550.413", "Grade": "B-"},
+    {"StuID": 1030, "CID": "550.420", "Grade": "B"},
+    {"StuID": 1030, "CID": "550.471", "Grade": "B+"},
+    {"StuID": 1030, "CID": "600.107", "Grade": "B"},
+    {"StuID": 1031, "CID": "520.213", "Grade": "B+"},
+    {"StuID": 1031, "CID": "520.349", "Grade": "B"},
+    {"StuID": 1031, "CID": "520.353", "Grade": "C"},
+    {"StuID": 1031, "CID": "600.437", "Grade": "A+"},
+    {"StuID": 1032, "CID": "550.420", "Grade": "A-"},
+    {"StuID": 1032, "CID": "550.420", "Grade": "D-"},
+    {"StuID": 1032, "CID": "600.232", "Grade": ""},  // Missing Grade value
+    {"StuID": 1032, "CID": "600.303", "Grade": "A"},
+    {"StuID": 1032, "CID": "600.315", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.113", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.227", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.315", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.333", "Grade": "A"},
+    {"StuID": 1033, "CID": "600.337", "Grade": "b"},  // Case sensitivity issue
+    {"StuID": 1034, "CID": "050.109", "Grade": "B+"},
+    {"StuID": 1034, "CID": "050.203", "Grade": "B"},
+    {"StuID": 1034, "CID": "050.325", "Grade": "B"},
+    {"StuID": 1034, "CID": "600.107", "Grade": "B+"},
+    {"StuID": 1034, "CID": "600.315", "Grade": "B"},
+    {"StuID": 1035, "CID": "050.381", "Grade": "B-"},
+    {"StuID": 1035, "CID": "050.427", "Grade": "A-"},
+    {"StuID": 1035, "CID": "050.670", "Grade": "B"},
+    {"StuID": 1035, "CID": "050.802", "Grade": "D"},
+    {"StuID": 1035, "CID": "050.821", "Grade": "A"},
+    {"StuID": 1035, "CID": "600.109", "Grade": "B-"},
+    {"StuID": 1035, "CID": "600.109", "Grade": "B+"}  // Duplicate entry with different Grade
+]
+- Type: Data Consistency Anomaly; row 181, col 'StuID': '1030' → '01030'.
+- Type: Data Consistency Anomaly; row 192, col 'Grade': 'A-' → ''.
+- Type: Data Consistency Anomaly; row 199, col 'Grade': 'B' → 'b'.
+
+Table: college_3_Faculty.json
+GPT raw reply for college_3_Faculty_0-30:
+[
+    {"FacID":1082,"Lname":"Giuliano","Fname":"Mark","Rank":"Instructor","Sex":"M","Phone":"(242) 424-0000","Room":"224","Building":"NEB"},
+    {"FacID":1121,"Lname":"Goodrich","Fname":"Michael","Rank":"Professor","Sex":"M","Phone":"3593","Room":"219","Building":"NEB"},
+    {"FacID":1148,"Lname":"Masson","Fname":"Gerald","Rank":"PROFESSOR","Sex":"M","Phone":"3402","Room":"224B","Building":"NEB"},
+    {"FacID":1193,"Lname":"Jones","Fname":"Stacey","Rank":"Instructor","Sex":"F","Phone":"+1-355-03550","Room":"224","Building":"NEB"},
+    {"FacID":2192,"Lname":"yarowsky","Fname":"David","Rank":"AsstProf","Sex":"M","Phone":6587,"Room":"324","Building":"NEB"},
+    {"FacID":3457,"Lname":"Smith","Fname":"Scott","Rank":"AssocProf","Sex":"M","Phone":"1035","Room":"318","Building":"NEB"},
+    {"FacID":4230,"Lname":"Houlahan","Fname":"JOANNE","Rank":"Instructor","Sex":"F","Phone":1260,"Room":"328","Building":"NEB"},
+    {"FacID":6112,"Lname":"Beach","Fname":"Louis","Rank":"Instructor","Sex":"M","Phone":"1838","Room":"207","Building":"NEB"},
+    {"FacID":7712,"Lname":"Awerbuch","Fname":null,"Rank":"Professor","Sex":"M","Phone":2105,"Room":"220","Building":"NEB"},
+    {"FacID":7792,"Lname":"Brill","Fname":"Eric","Rank":"AsstProf","Sex":"M","Phone":"2303","Room":"324B","Building":"NEB"},
+    {"FacID":7723,"Lname":"Taylor","Fname":"Russell","Rank":"Professor","Sex":"M","Phone":"2435","Room":"317","Building":"NEB"},
+    {"FacID":8114,"Lname":"Angelopoulou","Fname":"ellie","Rank":"Instructor","Sex":"F","Phone":"2152","Room":"316","Building":"NEB"},
+    {"FacID":8423,"Lname":"Kumar","Fname":"Subodh","Rank":"AsstProf","Sex":"M","Phone":"2522","Room":"218","Building":"NEB"},
+    {"FacID":8721,"Lname":"Wolff","Fname":"Lawrence","Rank":"AssocProf","Sex":"M","Phone":"2342","Room":"316","Building":"NEB"},
+    {"FacID":8741,"Lname":"Salzberg","Fname":"Steven","Rank":"AssocProf","Sex":"M","Phone":"2641","Room":"324A","Building":"NEB"},
+    {"FacID":8918,"Lname":"Amir","Fname":"Yair","Rank":"AsstProf","Sex":"M","Phone":"2672","Room":"308","Building":"NEB"},
+    {"FacID":9172,"Lname":"Kosaraju","Fname":"Rao","Rank":"Professor","Sex":"M","Phone":"2757","Room":"319","Building":"NEB"},
+    {"FacID":9826,"Lname":"Delcher","Fname":"Arthur","Rank":"Instructor","Sex":"M","Phone":"2956","Room":"329","Building":"NEB"},
+    {"FacID":1172,"Lname":"Runolfsson","Fname":"Thordur","Rank":"AssocProf","Sex":"M","Phone":"3121","Room":"119","Building":"barton"},
+    {"FacID":1177,"Lname":"Naiman","Fname":"Daniel","Rank":"Professor","Sex":"M","Phone":3571,"Room":"288","Building":"Krieger"},
+    {"FacID":1823,"Lname":"Davidson","Fname":"Frederic","Rank":"Professor","Sex":"M","Phone":"5-629","Room":"119","Building":"Barton"},
+    {"FacID":2028,"Lname":"Brody","Fname":"William","Rank":"Professor","Sex":"M","Phone":"6073","Room":"119","Building":"barton"},
+    {"FacID":2119,"Lname":"Meyer","Fname":"Gerard","Rank":"Professor","Sex":"M","Phone":"(635) 000-0000","Room":"119","Building":"Barton"},
+    {"FacID":2291,"Lname":"Scheinerman","Fname":"Edward","Rank":"Professor","Sex":"M","Phone":"6654","Room":"288","Building":"Krieger"},
+    {"FacID":2311,"Lname":"Priebe","Fname":"Carey","Rank":"AsstProf","Sex":"M","Phone":"6953","Room":"288","Building":"Krieger"},
+    {"FacID":2738,"Lname":"Fill","Fname":"James","Rank":"Professor","Sex":"M","Phone":"8209","Room":"288","Building":"Krieger"},
+    {"FacID":2881,"Lname":"Goldman","Fname":"Alan","Rank":"Professor","Sex":"M","Phone":"8335","Room":"288","Building":"Krieger"},
+    {"FacID":4432,"Lname":"Burzio","Fname":"Luigi","Rank":"Professor","Sex":"M","Phone":"1813","Room":"288","Building":"Krieger"},
+    {"FacID":5718,"Lname":"Frank","Fname":"Robert","Rank":"AsstProf","Sex":"M","Phone":"1751","Room":"288","Building":"krieger"},
+    {"FacID":6182,"Lname":"Cheng","Fname":"Cheng","Rank":"AsstProf","Sex":"M","Phone":"1856","Room":"288","Building":"Krieger"}
+]
+- Type: Data Consistency Anomaly; row 5, col 'Lname': 'Yarowsky' → 'yarowsky'.
+- Type: Data Consistency Anomaly; row 7, col 'Fname': 'Joanne' → 'JOANNE'.
+- Type: Data Consistency Anomaly; row 9, col 'Fname': 'Baruch' → 'None'.
+- Type: Data Consistency Anomaly; row 12, col 'Fname': 'Ellie' → 'ellie'.
+- Type: Data Consistency Anomaly; row 3, col 'Rank': 'Professor' → 'PROFESSOR'.
+- Type: Data Consistency Anomaly; row 1, col 'Phone': '2424' → '(242) 424-0000'.
+- Type: Data Consistency Anomaly; row 2, col 'Phone': '3593' → '3593'.
+- Type: Data Consistency Anomaly; row 3, col 'Phone': '3402' → '3402'.
+- Type: Data Consistency Anomaly; row 4, col 'Phone': '3550' → '+1-355-03550'.
+- Type: Data Consistency Anomaly; row 6, col 'Phone': '1035' → '1035'.
+- Type: Data Consistency Anomaly; row 8, col 'Phone': '1838' → '1838'.
+- Type: Data Consistency Anomaly; row 10, col 'Phone': '2303' → '2303'.
+- Type: Data Consistency Anomaly; row 11, col 'Phone': '2435' → '2435'.
+- Type: Data Consistency Anomaly; row 12, col 'Phone': '2152' → '2152'.
+- Type: Data Consistency Anomaly; row 13, col 'Phone': '2522' → '2522'.
+- Type: Data Consistency Anomaly; row 14, col 'Phone': '2342' → '2342'.
+- Type: Data Consistency Anomaly; row 15, col 'Phone': '2641' → '2641'.
+- Type: Data Consistency Anomaly; row 16, col 'Phone': '2672' → '2672'.
+- Type: Data Consistency Anomaly; row 17, col 'Phone': '2757' → '2757'.
+- Type: Data Consistency Anomaly; row 18, col 'Phone': '2956' → '2956'.
+- Type: Data Consistency Anomaly; row 19, col 'Phone': '3121' → '3121'.
+- Type: Data Consistency Anomaly; row 21, col 'Phone': '5629' → '5-629'.
+- Type: Data Consistency Anomaly; row 22, col 'Phone': '6073' → '6073'.
+- Type: Data Consistency Anomaly; row 23, col 'Phone': '6350' → '(635) 000-0000'.
+- Type: Data Consistency Anomaly; row 24, col 'Phone': '6654' → '6654'.
+- Type: Data Consistency Anomaly; row 25, col 'Phone': '6953' → '6953'.
+- Type: Data Consistency Anomaly; row 26, col 'Phone': '8209' → '8209'.
+- Type: Data Consistency Anomaly; row 27, col 'Phone': '8335' → '8335'.
+- Type: Data Consistency Anomaly; row 28, col 'Phone': '1813' → '1813'.
+- Type: Data Consistency Anomaly; row 29, col 'Phone': '1751' → '1751'.
+- Type: Data Consistency Anomaly; row 30, col 'Phone': '1856' → '1856'.
+- Type: Data Consistency Anomaly; row 19, col 'Building': 'Barton' → 'barton'.
+- Type: Data Consistency Anomaly; row 22, col 'Building': 'Barton' → 'barton'.
+- Type: Data Consistency Anomaly; row 29, col 'Building': 'Krieger' → 'krieger'.
+GPT raw reply for college_3_Faculty_30-58:
+[
+    {"FacID":6191,"Lname":"Kaplan","Fname":"Alexander","Rank":"Professor","Sex":"M","Phone":1825,"Room":"119","Building":"Bartn"},
+    {"FacID":6330,"Lname":"Byrne","Fname":"william","Rank":"Instructor","Sex":"M","Phone":1691,"Room":"119","Building":"Barton"},
+    {"FacID":6541,"Lname":"Han","Fname":"Shih-Ping","Rank":"Professor","Sex":"M","Phone":1914,"Room":"288","Building":"Krieger"},
+    {"FacID":6910,"Lname":"Smolensky","Fname":"Paul","Rank":"Prof.","Sex":"M","Phone":2072,"Room":"288","Building":"Krieger"},
+    {"FacID":6925,"Lname":"Iglesias","Fname":"Pablo","Rank":"AsstProf","Sex":"M","Phone":2021,"Room":"119","Building":"Barton"},
+    {"FacID":7134,"Lname":"Goutsias","Fname":"JOHN","Rank":"Professor","Sex":"M","Phone":2184,"Room":"119","Building":"Barton"},
+    {"FacID":7231,"Lname":"Rugh","Fname":"Wilson","Rank":"Professor","Sex":"M","Phone":2191,"Room":"119","Building":"Barton"},
+    {"FacID":7271,"Lname":"Jelinek","Fname":"Frederick","Rank":"Professor","Sex":"M","Phone":2890,"Room":"119","Building":"Barton"},
+    {"FacID":7506,"Lname":"Westgate","Fname":"Charles","Rank":"Professor","Sex":"M","Phone":2932,"Room":"119","Building":"Barton"},
+    {"FacID":8102,"Lname":"James","Fname":"Lancelot","Rank":"AsstProf","Sex":"M","Phone":2792,"Room":"288","Building":"Krieger"},
+    {"FacID":8118,"Lname":"Weinert","Fname":"Howard","Rank":"Professor","Sex":"M","Phone":3272,"Room":"119","Building":"Barton"},
+    {"FacID":8122,"Lname":"Wierman","Fname":"John","Rank":"Professor","Sex":"M","Phone":3392,"Room":"288","Building":"Krieger"},
+    {"FacID":8722,"Lname":"Cauwenberghs","Fname":"Gert","Rank":"AsstProf","Sex":"M","Phone":1372,"Room":"119","Building":"Barton"},
+    {"FacID":8723,"Lname":"Andreou","Fname":"Andreas","Rank":"Professor","Sex":"M","Phone":1402,"Room":"119","Building":"Bt"},
+    {"FacID":8772,"Lname":"Cowen","Fname":"Lenore","Rank":"AsstProf","Sex":"F","Phone":2870,"Room":"288","Building":"Krieger"},
+    {"FacID":8791,"Lname":"McCloskey","Fname":"Michael","Rank":"Professor","Sex":"M","Phone":3440,"Room":"288","Building":"Krieger"},
+    {"FacID":8989,"Lname":"Brent","Fname":"Michael","Rank":"AsstProf","Sex":"M","Phone":9373,"Room":"288","Building":"Krieger"},
+    {"FacID":9011,"Lname":"Rapp","Fname":"Brenda","Rank":"AsstProf","Sex":"F","Phone":2032,"Room":"288","Building":"Krieger"},
+    {"FacID":9191,"Lname":"Collins","Fname":"Oliver","Rank":"AssocProf","Sex":"M","Phone":"5427","Room":"119","Building":"Barton"},
+    {"FacID":9199,"Lname":"Hughes","Fname":"Brian","Rank":"AssocProf","Sex":"M","Phone":5666,"Room":"119","Building":"Barton"},
+    {"FacID":9210,"Lname":"Joseph","Fname":"Richard","Rank":"Professor","Sex":"M","Phone":5996,"Room":"119","Building":"Barton"},
+    {"FacID":9514,"Lname":"Prince","Fname":"Jerry","Rank":"AssocProf","Sex":"M","Phone":5106,"Room":"119","Building":"Barton"},
+    {"FacID":9823,"Lname":"Pang","Fname":"Jong-Shi","Rank":"Professor","Sex":"M","Phone":4366,"Room":"288","Building":"Krieger"},
+    {"FacID":9824,"Lname":"Glaser","Fname":"Robert","Rank":"Instructor","Sex":"M","Phone":4396,"Room":"119","Building":"Barton"},
+    {"FacID":9811,"Lname":"Wu","Fname":"Colin","Rank":"AsstProf","Sex":"M","Phone":2906,"Room":"288","Building":"Krieger"},
+    {"FacID":9643,"Lname":"Legendre","Fname":"Geraldine","Rank":"AssocProf","Sex":"F","Phone":8972,"Room":"288","Building":"Krieger"},
+    {"FacID":9379,"Lname":"Khurgin","Fname":"Jacob","Rank":"Professor","Sex":"M","Phone":1060,"Room":"119","Building":"Barton"},
+    {"FacID":9922,"Lname":"Hall","Fname":"Leslie","Rank":"AsstProf","Sex":"F","Phone":7332,"Room":"","Building":"Krieger"}
+]
+- Type: Data Consistency Anomaly; row 32, col 'Fname': 'William' → 'william'.
+- Type: Data Consistency Anomaly; row 36, col 'Fname': 'John' → 'JOHN'.
+- Type: Data Consistency Anomaly; row 34, col 'Rank': 'Professor' → 'Prof.'.
+- Type: Data Consistency Anomaly; row 49, col 'Phone': '5427' → '5427'.
+- Type: Data Consistency Anomaly; row 58, col 'Room': '288' → ''.
+- Type: Data Consistency Anomaly; row 31, col 'Building': 'Barton' → 'Bartn'.
+- Type: Data Consistency Anomaly; row 44, col 'Building': 'Barton' → 'Bt'.
+
+Table: college_3_Member_of.json
+GPT raw reply for college_3_Member_of_0-30:
+[
+    {"FacID":7792,"DNO":"600","Appt_Type":"Primary"},
+    {"FacID":9210,"DNO":520,"Appt_Type":"primary"},
+    {"FacID":9811,"DNO":550.0,"Appt_Type":"Primary"},
+    {"FacID":9643,"DNO":50,"Appt_Type":"PR"},
+    {"FacID":9379,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":8918,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":7712,"DNO":600,"Appt_Type":"primary"},
+    {"FacID":1121,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":9172,"DNO":600,"Appt_Type":null},
+    {"FacID":8423,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":1148,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":8741,"DNO":"600","Appt_Type":"Primary"},
+    {"FacID":3457,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":7723,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":8721,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":2192,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":8114,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":6112,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":9826,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":1193,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":1082,"DNO":600,"Appt_Type":"Primary"},
+    {"FacID":4230,"DNO":600,"Appt_Type":"PRIMARY"},
+    {"FacID":8989,"DNO":600,"Appt_Type":"secondary"},
+    {"FacID":7271,"DNO":600.0,"Appt_Type":"Secondary"},
+    {"FacID":8721,"DNO":520,"Appt_Type":"Secondary"},
+    {"FacID":8741,"DNO":50,"Appt_Type":"Secondary"},
+    {"FacID":"7271","DNO":50,"Appt_Type":"Secondary"},
+    {"FacID":6182,"DNO":550,"Appt_Type":"Primary"},
+    {"FacID":8772,"DNO":"550","Appt_Type":"Primary"},
+    {"FacID":2738,"DNO":550,"Appt_Type":"Primary"}
+]
+- Type: Data Consistency Anomaly; row 27, col 'FacID': '7271' → '7271'.
+- Type: Data Consistency Anomaly; row 1, col 'DNO': '600' → '600'.
+- Type: Data Consistency Anomaly; row 12, col 'DNO': '600' → '600'.
+- Type: Data Consistency Anomaly; row 29, col 'DNO': '550' → '550'.
+- Type: Data Consistency Anomaly; row 2, col 'Appt_Type': 'Primary' → 'primary'.
+- Type: Data Consistency Anomaly; row 4, col 'Appt_Type': 'Primary' → 'PR'.
+- Type: Data Consistency Anomaly; row 7, col 'Appt_Type': 'Primary' → 'primary'.
+- Type: Data Consistency Anomaly; row 9, col 'Appt_Type': 'Primary' → 'None'.
+- Type: Data Consistency Anomaly; row 22, col 'Appt_Type': 'Primary' → 'PRIMARY'.
+- Type: Data Consistency Anomaly; row 23, col 'Appt_Type': 'Secondary' → 'secondary'.
+GPT raw reply for college_3_Member_of_30-60:
+[
+    {"FacID":2881,"DNO":550,"Appt_Type":"Primary"},
+    {"FacID":9922,"DNO":550,"Appt_Type":"primary"},
+    {"FacID":6541,"DNO":550,"Appt_Type":"PRIMARY"},
+    {"FacID":8102,"DNO":550,"Appt_Type":"Primary"},
+    {"FacID":1177,"DNO":550,"Appt_Type":"Primary"},
+    {"FacID":9823,"DNO":550,"Appt_Type":"Primary"},
+    {"FacID":2311,"DNO":550,"Appt_Type":"Primary"},
+    {"FacID":2291,"DNO":550,"Appt_Type":"primary"},
+    {"FacID":8122,"DNO":550,"Appt_Type":"Primary"},
+    {"FacID":8989,"DNO":50,"Appt_Type":"Primary"},
+    {"FacID":4432,"DNO":50,"Appt_Type":"Primary"},
+    {"FacID":5718,"DNO":50,"Appt_Type":"Primary"},
+    {"FacID":8791,"DNO":50,"Appt_Type":"Primary"},
+    {"FacID":9011,"DNO":50,"Appt_Type":"Primary"},
+    {"FacID":6910,"DNO":50,"Appt_Type":"Primary"},
+    {"FacID":8723,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":2028,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":8722,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":9191,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":1823,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":7134,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":9199,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":6925,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":7271,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":6191,"DNO":520,"Appt_Type":"primary"},
+    {"FacID":2119,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":9514,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":7231,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":1172,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":8118,"DNO":520,"Appt_Type":"primary"}
+]
+- Type: Data Consistency Anomaly; row 32, col 'Appt_Type': 'Primary' → 'primary'.
+- Type: Data Consistency Anomaly; row 33, col 'Appt_Type': 'Primary' → 'PRIMARY'.
+- Type: Data Consistency Anomaly; row 38, col 'Appt_Type': 'Primary' → 'primary'.
+- Type: Data Consistency Anomaly; row 55, col 'Appt_Type': 'Primary' → 'primary'.
+- Type: Data Consistency Anomaly; row 60, col 'Appt_Type': 'Primary' → 'primary'.
+GPT raw reply for college_3_Member_of_60-63:
+[
+    {"FacID":7506,"DNO":520,"Appt_Type":"Primary"},
+    {"FacID":6330,"DNO":520,"Appt_Type":"primary"},
+    {"FacID":9824,"DNO":520,"Appt_Type":"Primry"}
+]
+- Type: Data Consistency Anomaly; row 62, col 'Appt_Type': 'Primary' → 'primary'.
+- Type: Data Consistency Anomaly; row 63, col 'Appt_Type': 'Primary' → 'Primry'.
+
+Table: college_3_Student.json
+GPT raw reply for college_3_Student_0-30:
+[
+    {"StuID":1001,"LName":"Smith","Fname":"Linda","Age":18,"Sex":"F","Major":600,"Advisor":1121,"city_code":"BAL"},
+    {"StuID":1002,"LName":"Kim","Fname":"Tracy","Age":19,"Sex":"Female","Major":600,"Advisor":7712,"city_code":"HKG"},
+    {"StuID":1003,"LName":"Jones","Fname":"shiela","Age":21,"Sex":"F","Major":600,"Advisor":7792,"city_code":"WAS"},
+    {"StuID":1004,"LName":"Kumar","Fname":"Dinesh","Age":20,"Sex":"M","Major":600,"Advisor":8423,"city_code":"CHI"},
+    {"StuID":1005,"LName":"Gompers","Fname":"Paul","Age":16,"Sex":"M","Major":600,"Advisor":1121,"city_code":"YYZ"},
+    {"StuID":1006,"LName":"Schultz","Fname":"Andy","Age":18,"Sex":"m","Major":600,"Advisor":1148,"city_code":"BAL"},
+    {"StuID":1007,"LName":"Apap","Fname":"Lisa","Age":18,"Sex":"F","Major":600,"Advisor":8918,"city_code":""},
+    {"StuID":1008,"LName":"Nelson","Fname":"Jandy","Age":20,"Sex":"F","Major":600,"Advisor":9172,"city_code":"BAL"},
+    {"StuID":1009,"LName":"Tai","Fname":"Eric","Age":19,"Sex":"M","Major":600,"Advisor":2192,"city_code":"YYZ"},
+    {"StuID":1010,"LName":"Lee","Fname":"Derek","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"HOU"},
+    {"StuID":1011,"LName":"Adams","Fname":"David","Age":22,"Sex":"M","Major":600,"Advisor":1148,"city_code":"PHL"},
+    {"StuID":1012,"LName":"Davis","Fname":"Steven","Age":20,"Sex":"M","Major":600,"Advisor":7723,"city_code":"PIT"},
+    {"StuID":1014,"LName":"Norris","Fname":"Charles","Age":18,"Sex":"M","Major":600,"Advisor":8741,"city_code":"DAL"},
+    {"StuID":1015,"LName":"Lee","Fname":"Susan","Age":16,"Sex":"F","Major":600,"Advisor":8721,"city_code":"hkg"},
+    {"StuID":1016,"LName":"Schwartz","Fname":"Mark","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"DET"},
+    {"StuID":1017,"LName":"Wilson","Fname":"Bruce","Age":27,"Sex":"M","Major":600,"Advisor":1148,"city_code":"LON"},
+    {"StuID":1018,"LName":"Leighton","Fname":"Michael","Age":20,"Sex":"M","Major":600,"Advisor":1121,"city_code":"pit"},
+    {"StuID":1019,"LName":"Pang","Fname":"Arthur","Age":18,"Sex":"M","Major":600,"Advisor":2192,"city_code":"WAS"},
+    {"StuID":1020,"LName":"Thornton","Fname":"Ian","Age":22,"Sex":"M","Major":"520","Advisor":7271,"city_code":"NYC"},
+    {"StuID":1021,"LName":"Andreou","Fname":"George","Age":19,"Sex":"M","Major":520,"Advisor":8722,"city_code":"NYC"},
+    {"StuID":1022,"LName":"Woods","Fname":"Michael","Age":17,"Sex":"M","Major":540,"Advisor":8722,"city_code":"PHL"},
+    {"StuID":1023,"LName":"Shieber","Fname":"David","Age":20,"Sex":"M","Major":520,"Advisor":8722,"city_code":"nyc"},
+    {"StuID":1024,"LName":"Prater","Fname":"Stacy","Age":18,"Sex":"F","Major":540,"Advisor":7271,"city_code":"BAL"},
+    {"StuID":1025,"LName":"Goldman","Fname":"Mark","Age":18,"Sex":"M","Major":520,"Advisor":7134,"city_code":"PIT"},
+    {"StuID":1026,"LName":"Pang","Fname":"Eric","Age":19,"Sex":"M","Major":520,"Advisor":7134,"city_code":"HKG"},
+    {"StuID":1027,"LName":"Brody","Fname":"Paul","Age":18,"Sex":"M","Major":520,"Advisor":8723,"city_code":"LOS"},
+    {"StuID":1028,"LName":"Rugh","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":2311,"city_code":"ROC"},
+    {"StuID":1029,"LName":"Han","Fname":"Jun","Age":17,"Sex":"M","Major":100,"Advisor":2311,"city_code":"PEK"},
+    {"StuID":1030,"LName":"Cheng","Fname":"lisa","Age":21,"Sex":"F","Major":550,"Advisor":2311,"city_code":"SFO"},
+    {"StuID":1031,"LName":"Smith","Fname":"Sarah","Age":20,"Sex":"F","Major":550,"Advisor":8772,"city_code":"PHL"}
+]
+- Type: Data Consistency Anomaly; row 3, col 'Fname': 'Shiela' → 'shiela'.
+- Type: Data Consistency Anomaly; row 29, col 'Fname': 'Lisa' → 'lisa'.
+- Type: Data Consistency Anomaly; row 5, col 'Age': '26' → '16'.
+- Type: Data Consistency Anomaly; row 2, col 'Sex': 'F' → 'Female'.
+- Type: Data Consistency Anomaly; row 6, col 'Sex': 'M' → 'm'.
+- Type: Data Consistency Anomaly; row 19, col 'Major': '520' → '520'.
+- Type: Data Consistency Anomaly; row 7, col 'city_code': 'PIT' → ''.
+- Type: Data Consistency Anomaly; row 14, col 'city_code': 'HKG' → 'hkg'.
+- Type: Data Consistency Anomaly; row 17, col 'city_code': 'PIT' → 'pit'.
+- Type: Data Consistency Anomaly; row 22, col 'city_code': 'NYC' → 'nyc'.
+GPT raw reply for college_3_Student_30-34:
+[{"StuID":1032,"LName":"Brown","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":8772,"city_code":"ATL"},{"StuID":1033,"LName":"Simms","Fname":"William","Age":18,"Sex":"M","Major":550,"Advisor":8772,"city_code":"NAR"},{"StuID":1034,"LName":"Epp","Fname":"Eric","Age":18,"Sex":"M","Major":50,"Advisor":5718,"city_code":"bos"},{"StuID":1035,"LName":"Schmidt","Fname":"Sarah","Age":26,"Sex":"F","Major":50,"Advisor":5718,"city_code":"WAS"}]
+- Type: Data Consistency Anomaly; row 33, col 'city_code': 'BOS' → 'bos'.
+
+Table: dorm_1_Student.json
+GPT raw reply for dorm_1_Student_0-30:
+[
+    {"StuID":1001,"LName":"Smith","Fname":"Linda","Age":18,"Sex":"F","Major":600,"Advisor":1121,"city_code":"BAL"},
+    {"StuID":1002,"LName":"Kim","Fname":"Tracy","Age":19,"Sex":"F","Major":600,"Advisor":7712,"city_code":"HKG"},
+    {"StuID":1003,"LName":"Jones","Fname":"Shiela","Age":21,"Sex":"F","Major":600,"Advisor":7792,"city_code":"WAS"},
+    {"StuID":1004,"LName":"Kumar","Fname":"Dinesh","Age":20,"Sex":"M","Major":600,"Advisor":8423,"city_code":"chi"},
+    {"StuID":1005,"LName":"Gompers","Fname":"Paul","Age":26,"Sex":"M","Major":600,"Advisor":1121,"city_code":"YYZ"},
+    {"StuID":1006,"LName":"Schultz","Fname":"andy","Age":18,"Sex":"M","Major":600,"Advisor":1148,"city_code":"BAL"},
+    {"StuID":1007,"LName":"Apap","Fname":"Lisa","Age":18,"Sex":"F","Major":600,"Advisor":8918,"city_code":"PIT"},
+    {"StuID":1008,"LName":"nelson","Fname":"Jandy","Age":20,"Sex":"F","Major":600,"Advisor":9172,"city_code":"BAL"},
+    {"StuID":1009,"LName":"Tai","Fname":"Eric","Age":19,"Sex":"M","Major":600,"Advisor":2192,"city_code":"yyz"},
+    {"StuID":1010,"LName":"Lee","Fname":"Derek","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"hou"},
+    {"StuID":1011,"LName":"Adams","Fname":"David","Age":22,"Sex":"M","Major":600,"Advisor":1148,"city_code":"PHL"},
+    {"StuID":1012,"LName":"Davis","Fname":"Steven","Age":20,"Sex":"M","Major":600,"Advisor":7723,"city_code":"PIT"},
+    {"StuID":1014,"LName":"Norris","Fname":"Charles","Age":18,"Sex":"M","Major":600,"Advisor":8741,"city_code":"DAL"},
+    {"StuID":1015,"LName":"Lee","Fname":"Susan","Age":16,"Sex":"F","Major":600,"Advisor":8721,"city_code":"HKG"},
+    {"StuID":1016,"LName":"Schwartz","Fname":"Mark","Age":17,"Sex":"m","Major":600,"Advisor":2192,"city_code":"DET"},
+    {"StuID":1017,"LName":"Wilson","Fname":"Bruce","Age":27,"Sex":"M","Major":600,"Advisor":1148,"city_code":"LON"},
+    {"StuID":1018,"LName":"Leighton","Fname":"Michael","Age":20,"Sex":"M","Major":600,"Advisor":1121,"city_code":"PIT"},
+    {"StuID":1019,"LName":"Pang","Fname":"Arthur","Age":18,"Sex":"M","Major":600,"Advisor":2192,"city_code":"WAS"},
+    {"StuID":1020,"LName":"Thornton","Fname":"Ian","Age":22,"Sex":"M","Major":520,"Advisor":7271,"city_code":"NYC"},
+    {"StuID":1021,"LName":"Andreou","Fname":"George","Age":19,"Sex":"M","Major":520,"Advisor":8722,"city_code":"nyc"},
+    {"StuID":1022,"LName":"Woods","Fname":"Michael","Age":17,"Sex":"M","Major":540,"Advisor":8722,"city_code":"phl"},
+    {"StuID":1023,"LName":"Shieber","Fname":"David","Age":20,"Sex":"M","Major":520,"Advisor":8722,"city_code":"NYC"},
+    {"StuID":1024,"LName":"Prater","Fname":"Stacy","Age":18,"Sex":"F","Major":540,"Advisor":"7271","city_code":"BAL"},
+    {"StuID":1025,"LName":"goldman","Fname":"Mark","Age":18,"Sex":"M","Major":520,"Advisor":7134,"city_code":"PIT"},
+    {"StuID":1026,"LName":"Pang","Fname":"Eric","Age":19,"Sex":"M","Major":520,"Advisor":7134,"city_code":"HKG"},
+    {"StuID":1027,"LName":"Brody","Fname":"Paul","Age":18,"Sex":"M","Major":520,"Advisor":8723,"city_code":"los"},
+    {"StuID":1028,"LName":"Rugh","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":2311,"city_code":"ROC"},
+    {"StuID":1029,"LName":"Han","Fname":"jun","Age":17,"Sex":"M","Major":100,"Advisor":2311,"city_code":"PEK"},
+    {"StuID":1030,"LName":"Cheng","Fname":"Lisa","Age":21,"Sex":"F","Major":550,"Advisor":2311,"city_code":"SFO"},
+    {"StuID":1031,"LName":"Smith","Fname":"Sarah","Age":20,"Sex":"F","Major":550,"Advisor":8772,"city_code":"PHL"}
+]
+- Type: Data Consistency Anomaly; row 8, col 'LName': 'Nelson' → 'nelson'.
+- Type: Data Consistency Anomaly; row 24, col 'LName': 'Goldman' → 'goldman'.
+- Type: Data Consistency Anomaly; row 6, col 'Fname': 'Andy' → 'andy'.
+- Type: Data Consistency Anomaly; row 28, col 'Fname': 'Jun' → 'jun'.
+- Type: Data Consistency Anomaly; row 15, col 'Sex': 'M' → 'm'.
+- Type: Data Consistency Anomaly; row 23, col 'Advisor': '7271' → '7271'.
+- Type: Data Consistency Anomaly; row 4, col 'city_code': 'CHI' → 'chi'.
+- Type: Data Consistency Anomaly; row 9, col 'city_code': 'YYZ' → 'yyz'.
+- Type: Data Consistency Anomaly; row 10, col 'city_code': 'HOU' → 'hou'.
+- Type: Data Consistency Anomaly; row 20, col 'city_code': 'NYC' → 'nyc'.
+- Type: Data Consistency Anomaly; row 21, col 'city_code': 'PHL' → 'phl'.
+- Type: Data Consistency Anomaly; row 26, col 'city_code': 'LOS' → 'los'.
+GPT raw reply for dorm_1_Student_30-34:
+[
+    {"StuID":1032,"LName":"Brown","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":8772,"city_code":"ATL"},
+    {"StuID":1033,"LName":"Simms","Fname":"William","Age":18,"Sex":"M","Major":550,"Advisor":8772,"city_code":"nar"},
+    {"StuID":1034,"LName":"Epp","Fname":"Eric","Age":18,"Sex":"M","Major":"50","Advisor":5718,"city_code":"BOS"},
+    {"StuID":1035,"LName":"Schmidt","Fname":"Sarah","Age":26,"Sex":"F","Major":50,"Advisor":5718,"city_code":"WAS"}
+]
+- Type: Data Consistency Anomaly; row 33, col 'Major': '50' → '50'.
+- Type: Data Consistency Anomaly; row 32, col 'city_code': 'NAR' → 'nar'.
+
+Table: game_1_Student.json
+GPT raw reply for game_1_Student_0-30:
+[{"StuID":1001,"LName":"Smith","Fname":"Linda","Age":18,"Sex":"F","Major":600,"Advisor":1121,"city_code":"BAL"},{"StuID":1002,"LName":"kim","Fname":"Tracy","Age":19,"Sex":"F","Major":600,"Advisor":7712,"city_code":"HKG"},{"StuID":1003,"LName":"Jones","Fname":"Shiela","Age":21,"Sex":"F","Major":600,"Advisor":7792,"city_code":"WAS"},{"StuID":1004,"LName":"Kumar","Fname":"dinesh","Age":20,"Sex":"M","Major":600,"Advisor":8423,"city_code":"CHI"},{"StuID":1005,"LName":"Gompers","Fname":"Paul","Age":26,"Sex":"M","Major":600,"Advisor":1121,"city_code":"yyz"},{"StuID":1006,"LName":"Schultz","Fname":"Andy","Age":18,"Sex":"m","Major":600,"Advisor":1148,"city_code":"BAL"},{"StuID":1007,"LName":"Apap","Fname":"Lisa","Age":18,"Sex":"F","Major":600,"Advisor":8918,"city_code":"PIT"},{"StuID":1008,"LName":"Nelson","Fname":"Jandy","Age":20,"Sex":"F","Major":600,"Advisor":9172,"city_code":"bal"},{"StuID":1009,"LName":"Tai","Fname":"Eric","Age":19,"Sex":"M","Major":600,"Advisor":2192,"city_code":"YYZ"},{"StuID":1010,"LName":"Lee","Fname":"Derek","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"HOU"},{"StuID":1011,"LName":"Adams","Fname":"David","Age":22,"Sex":"M","Major":600,"Advisor":1148,"city_code":"PHL"},{"StuID":1012,"LName":"davis","Fname":"Steven","Age":20,"Sex":"M","Major":600,"Advisor":7723,"city_code":"PIT"},{"StuID":1014,"LName":"Norris","Fname":"Charles","Age":18,"Sex":"M","Major":600,"Advisor":8741,"city_code":"DAL"},{"StuID":1015,"LName":"Lee","Fname":"Susan","Age":16,"Sex":"F","Major":600,"Advisor":8721,"city_code":"HKG"},{"StuID":1016,"LName":"Schwartz","Fname":"Mark","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"DET"},{"StuID":1017,"LName":"Wilson","Fname":"Bruce","Age":27,"Sex":"M","Major":600,"Advisor":1148,"city_code":"LON"},{"StuID":1018,"LName":"Leighton","Fname":"Michael","Age":20,"Sex":"M","Major":600,"Advisor":1121,"city_code":"PIT"},{"StuID":1019,"LName":"Pang","Fname":"Arthur","Age":18,"Sex":"M","Major":600,"Advisor":2192,"city_code":"WAS"},{"StuID":1020,"LName":"Thornton","Fname":"Ian","Age":22,"Sex":"M","Major":520,"Advisor":7271,"city_code":"NYC"},{"StuID":1021,"LName":"Andreou","Fname":"George","Age":19,"Sex":"M","Major":520,"Advisor":8722,"city_code":"NYC"},{"StuID":1022,"LName":"Woods","Fname":"Michael","Age":17,"Sex":"M","Major":540,"Advisor":8722,"city_code":"phl"},{"StuID":1023,"LName":"Shieber","Fname":"David","Age":20,"Sex":"M","Major":520,"Advisor":8722,"city_code":"NYC"},{"StuID":1024,"LName":"Prater","Fname":"Stacy","Age":18,"Sex":"F","Major":540,"Advisor":7271,"city_code":"bal"},{"StuID":1025,"LName":"Goldman","Fname":"Mark","Age":18,"Sex":"M","Major":520,"Advisor":7134,"city_code":"PIT"},{"StuID":1026,"LName":"Pang","Fname":"Eric","Age":19,"Sex":"M","Major":520,"Advisor":7134,"city_code":"hkg"},{"StuID":1027,"LName":"Brody","Fname":"Paul","Age":18,"Sex":"M","Major":520,"Advisor":8723,"city_code":"LOS"},{"StuID":1028,"LName":"Rugh","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":2311,"city_code":"roc"},{"StuID":1029,"LName":"Han","Fname":"Jun","Age":17,"Sex":"M","Major":100,"Advisor":2311,"city_code":"PEK"},{"StuID":1030,"LName":"Cheng","Fname":"Lisa","Age":21,"Sex":"F","Major":550,"Advisor":2311,"city_code":"SFO"},{"StuID":1031,"LName":"Smith","Fname":"Sarah","Age":20,"Sex":"F","Major":550,"Advisor":8772,"city_code":"PHL"}]
+- Type: Data Consistency Anomaly; row 2, col 'LName': 'Kim' → 'kim'.
+- Type: Data Consistency Anomaly; row 12, col 'LName': 'Davis' → 'davis'.
+- Type: Data Consistency Anomaly; row 4, col 'Fname': 'Dinesh' → 'dinesh'.
+- Type: Data Consistency Anomaly; row 6, col 'Sex': 'M' → 'm'.
+- Type: Data Consistency Anomaly; row 5, col 'city_code': 'YYZ' → 'yyz'.
+- Type: Data Consistency Anomaly; row 8, col 'city_code': 'BAL' → 'bal'.
+- Type: Data Consistency Anomaly; row 21, col 'city_code': 'PHL' → 'phl'.
+- Type: Data Consistency Anomaly; row 23, col 'city_code': 'BAL' → 'bal'.
+- Type: Data Consistency Anomaly; row 25, col 'city_code': 'HKG' → 'hkg'.
+- Type: Data Consistency Anomaly; row 27, col 'city_code': 'ROC' → 'roc'.
+GPT raw reply for game_1_Student_30-34:
+[{"StuID":1032,"LName":"Brown","Fname":"Eric","Age":20,"Sex":"Male","Major":550,"Advisor":8772,"city_code":"ATL"},{"StuID":1033,"LName":"Simms","Fname":"William","Age":18,"Sex":"M","Major":550,"Advisor":8772,"city_code":"NAR"},{"StuID":1034,"LName":"epp","Fname":"Eric","Age":18,"Sex":"M","Major":50,"Advisor":5718,"city_code":"BOS"},{"StuID":1035,"LName":"Schmidt","Fname":"Sarah","Age":26,"Sex":"Female","Major":50,"Advisor":5718,"city_code":"WAS"}]
+- Type: Data Consistency Anomaly; row 33, col 'LName': 'Epp' → 'epp'.
+- Type: Data Consistency Anomaly; row 31, col 'Sex': 'M' → 'Male'.
+- Type: Data Consistency Anomaly; row 34, col 'Sex': 'F' → 'Female'.
+
+Table: hospital_1_Room.json
+GPT raw reply for hospital_1_Room_0-30:
+[
+    {"RoomNumber":101,"RoomType":"single","BlockFloor":1,"BlockCode":1,"Unavailable":0},
+    {"RoomNumber":102,"RoomType":"Single","BlockFloor":1,"BlockCode":1,"Unavailable":0},
+    {"RoomNumber":103,"RoomType":"Single","BlockFloor":1,"BlockCode":1,"Unavailable":0},
+    {"RoomNumber":111,"RoomType":"Single","BlockFloor":1,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":112,"RoomType":"Single","BlockFloor":1,"BlockCode":2,"Unavailable":1},
+    {"RoomNumber":113,"RoomType":"Single","BlockFloor":1,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":121,"RoomType":"Single","BlockFloor":1,"BlockCode":"03","Unavailable":0},
+    {"RoomNumber":122,"RoomType":"Single","BlockFloor":1,"BlockCode":3,"Unavailable":0},
+    {"RoomNumber":123,"RoomType":"Single","BlockFloor":1,"BlockCode":3,"Unavailable":0},
+    {"RoomNumber":201,"RoomType":"Single","BlockFloor":2,"BlockCode":1,"Unavailable":1},
+    {"RoomNumber":202,"RoomType":"Single","BlockFloor":2,"BlockCode":1,"Unavailable":0},
+    {"RoomNumber":203,"RoomType":"Single","BlockFloor":2,"BlockCode":1,"Unavailable":0},
+    {"RoomNumber":211,"RoomType":"Single","BlockFloor":2,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":212,"RoomType":"Single","BlockFloor":2,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":213,"RoomType":"Single","BlockFloor":2,"BlockCode":2,"Unavailable":1},
+    {"RoomNumber":221,"RoomType":"Single","BlockFloor":2,"BlockCode":3,"Unavailable":0},
+    {"RoomNumber":222,"RoomType":"Single","BlockFloor":2,"BlockCode":3,"Unavailable":0},
+    {"RoomNumber":223,"RoomType":"Single","BlockFloor":2,"BlockCode":3,"Unavailable":0},
+    {"RoomNumber":301,"RoomType":"Single","BlockFloor":2,"BlockCode":1,"Unavailable":0},
+    {"RoomNumber":302,"RoomType":"Single","BlockFloor":3,"BlockCode":1,"Unavailable":1},
+    {"RoomNumber":303,"RoomType":"SINGLE","BlockFloor":3,"BlockCode":1,"Unavailable":0},
+    {"RoomNumber":311,"RoomType":"Single","BlockFloor":3,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":312,"RoomType":"Single","BlockFloor":3,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":313,"RoomType":"Single","BlockFloor":3,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":321,"RoomType":"Single","BlockFloor":3,"BlockCode":3,"Unavailable":1},
+    {"RoomNumber":322,"RoomType":"Single","BlockFloor":3,"BlockCode":3,"Unavailable":0},
+    {"RoomNumber":322,"RoomType":"Single","BlockFloor":3,"BlockCode":3,"Unavailable":0},
+    {"RoomNumber":401,"RoomType":"Single","BlockFloor":4,"BlockCode":1,"Unavailable":0},
+    {"RoomNumber":402,"RoomType":"Single","BlockFloor":4,"BlockCode":1,"Unavailable":1},
+    {"RoomNumber":403,"RoomType":null,"BlockFloor":4,"BlockCode":1,"Unavailable":0}
+]
+- Type: Data Consistency Anomaly; row 27, col 'RoomNumber': '323' → '322'.
+- Type: Data Consistency Anomaly; row 1, col 'RoomType': 'Single' → 'single'.
+- Type: Data Consistency Anomaly; row 21, col 'RoomType': 'Single' → 'SINGLE'.
+- Type: Data Consistency Anomaly; row 30, col 'RoomType': 'Single' → 'None'.
+- Type: Data Consistency Anomaly; row 19, col 'BlockFloor': '3' → '2'.
+- Type: Data Consistency Anomaly; row 7, col 'BlockCode': '3' → '03'.
+GPT raw reply for hospital_1_Room_30-36:
+[
+    {"RoomNumber":411,"RoomType":"single","BlockFloor":4,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":412,"RoomType":"Single","BlockFloor":4,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":413,"RoomType":"Single","BlockFloor":4,"BlockCode":2,"Unavailable":0},
+    {"RoomNumber":421,"RoomType":"Single","BlockFloor":4,"BlockCode":3,"Unavailable":1},
+    {"RoomNumber":422,"RoomType":"Single","BlockFloor":4,"BlockCode":3,"Unavailable":1},
+    {"RoomNumber":423,"RoomType":"Single","BlockFloor":4,"BlockCode":3,"Unavailable":0}
+]
+- Type: Data Consistency Anomaly; row 31, col 'RoomType': 'Single' → 'single'.
+- Type: Data Consistency Anomaly; row 35, col 'Unavailable': '0' → '1'.
+
+Table: journal_committee_journal.json
+GPT raw reply for journal_committee_journal_0-16:
+[
+    {"col1":1,"col2":"09/09/2001","col3":"Miami Dolphins","col4":798},
+    {"col1":2,"col2":"September 23, 2001","col3":"at Jacksonville Jaguars","col4":994},
+    {"col1":4,"col2":"October 7, 2001","col3":"at Baltimore Ravens","col4":7494},
+    {"col1":5,"col2":"October 14, 2001","col3":"Tampa Bay Buccaneers","col4":4798},
+    {"col1":6,"col2":"October 21, 2001","col3":"Detroit Lions","col4":2940},
+    {"col1":7,"col2":"October 29, 2001","col3":"at Pittsburgh Steelers","col4":1763},
+    {"col1":8,"col2":"November 4, 2001","col3":"Jacksonville Jaguars","col4":1232},
+    {"col1":9,"col2":"November 12, 2001","col3":"Baltimore Ravens","col4":6532},
+    {"col1":10,"col2":"November 18, 2001","col3":"at Cincinnati Bengals","col4":3421},
+    {"col1":11,"col2":"November 25, 2001","col3":"Pittsburgh Steelers","col4":3342},
+    {"col1":12,"col2":"December 2, 2001","col3":"at Cleveland Browns","col4":3534},
+    {"col1":13,"col2":"December 9, 2001","col3":"at Minnesota Vikings","col4":4271},
+    {"col1":14,"col2":"December 16, 2001","col3":"Green Bay Packers","col4":2804},
+    {"col1":15,"col2":"December 22, 2001","col3":"Oakland Raiders","col4":1934},
+    {"col1":16,"col2":"December 30, 2001","col3":"Cleveland Browns","col4":3798},
+    {"col1":17,"col2":"January 6, 2002","col3":"Cincinnati Bengals","col4":5342}
+]
+- Type: Data Consistency Anomaly; row 1, col 'col2': 'September 9, 2001' → '09/09/2001'.
+- Type: Data Consistency Anomaly; row 5, col 'col3': 'at Detroit Lions' → 'Detroit Lions'.
+- Type: Data Consistency Anomaly; row 14, col 'col3': 'at Oakland Raiders' → 'Oakland Raiders'.
+
+Table: mountain_photos_mountain.json
+GPT raw reply for mountain_photos_mountain_0-23:
+[
+    {"col1":1,"col2":"Abune Yosef / Guliba Amba","col3":4260.0,"col4":1909.0,"col5":"Lasta Massif","col6":"ET"},
+    {"col1":2,"col2":"Ioll / Yoll","col3":4220.0,"col4":350.0,"col5":"Kollo Massif","col6":"Ethiopia"},
+    {"col1":3,"col2":"Bada","col3":4195.0,"col4":1605.0,"col5":"Arsi Mountain","col6":"Ethiopia"},
+    {"col1":4,"col2":"Kaka / Kecha / Chiqe","col3":4193.0,"col4":1215.0,"col5":"Arsi Mountains","col6":"Ethiopia"},
+    {"col1":5,"col2":"Jbel Toubkal","col3":4167.0,"col4":3755.0,"col5":"Toubkal Atlas","col6":"Morocco"},
+    {"col1":6,"col2":"Muhavura","col3":4127.0,"col4":1530.0,"col5":"Virunga Mountains","col6":"Rwanda-Uganda"},
+    {"col1":7,"col2":"Hey / Hay","col3":4125.0,"col4":660.0,"col5":"Semien Mountains","col6":"Ethiopia"},
+    {"col1":8,"col2":"Guna","col3":4120.0,"col4":1510.0,"col5":"Guna Massif","col6":"Ethiopia"},
+    {"col1":9,"col2":"Choqa / Choke / Birhan","col3":4100.0,"col4":2225.0,"col5":"Choqa Mountains","col6":"Ethiopia"},
+    {"col1":10,"col2":"Ouanoukrim","col3":4088.0,"col4":420.0,"col5":"Toubkal Atlas","col6":"MOR"},
+    {"col1":11,"col2":"Chilalo","col3":4071.0,"col4":610.0,"col5":"Arsi Mountains","col6":""},
+    {"col1":12,"col2":"Mount Cameroon","col3":4070.0,"col4":3931.0,"col5":"Cameroon Line","col6":"Cameroon"},
+    {"col1":13,"col2":"Inatye","col3":4070.0,"col4":500.0,"col5":"Semien Mountains","col6":"Ethiopia"},
+    {"col1":14,"col2":"Ighil Mgoun","col3":4068.0,"col4":1904.0,"col5":"Central High Atlas","col6":"Morocco"},
+    {"col1":15,"col2":"Weshema / Wasema?","col3":4030.0,"col4":420.0,"col5":"Bale Mountain","col6":"Ethiopia"},
+    {"col1":16,"col2":"Oldoinyo Lesatima","col3":4001.0,"col4":2081.0,"col5":"Aberdare Range","col6":"Kenya"},
+    {"col1":17,"col2":"Jebel n'Tarourt / Tifnout / Iferouane","col3":3996.0,"col4":910.0,"col5":"Toubkal Atlas","col6":"Morocco"},
+    {"col1":18,"col2":"Muggia","col3":3950.0,"col4":500.0,"col5":"Lasta Massif","col6":"Ethiopia"},
+    {"col1":19,"col2":"Dubbai","col3":3941.0,"col4":1540.0,"col5":"Tigray Mountains","col6":"Ethiopia"},
+    {"col1":20,"col2":"Taska n’Zat","col3":3912.0,"col4":460.0,"col5":"Toubkal Atlas","col6":"Morocco"},
+    {"col1":21,"col2":"Aksouâl","col3":3903.0,"col4":450.0,"col5":"Toubkal Atlas","col6":"Morocco"},
+    {"col1":22,"col2":"Mount Kinangop","col3":3902.0,"col4":530.0,"col5":"Aberdare Range","col6":"Kenya"},
+    {"col1":23,"col2":"Cimbia","col3":3900.0,"col4":590.0,"col5":"Kollo Massif","col6":"ETH"}
+]
+- Type: Data Consistency Anomaly; row 17, col 'col2': 'Jebel n''Tarourt / Tifnout / Iferouane' → 'Jebel n'Tarourt / Tifnout / Iferouane'.
+- Type: Data Consistency Anomaly; row 3, col 'col5': 'Arsi Mountains' → 'Arsi Mountain'.
+- Type: Data Consistency Anomaly; row 12, col 'col5': 'Cameroon line' → 'Cameroon Line'.
+- Type: Data Consistency Anomaly; row 15, col 'col5': 'Bale Mountains' → 'Bale Mountain'.
+- Type: Data Consistency Anomaly; row 1, col 'col6': 'Ethiopia' → 'ET'.
+- Type: Data Consistency Anomaly; row 6, col 'col6': 'Rwanda Uganda' → 'Rwanda-Uganda'.
+- Type: Data Consistency Anomaly; row 10, col 'col6': 'Morocco' → 'MOR'.
+- Type: Data Consistency Anomaly; row 11, col 'col6': 'Ethiopia' → ''.
+- Type: Data Consistency Anomaly; row 23, col 'col6': 'Ethiopia' → 'ETH'.
+
+Table: network_1_Friend.json
+GPT raw reply for network_1_Friend_0-20:
+[{"student_id":1510,"friend_id":1381},{"student_id":"1510","friend_id":1689},{"student_id":1689,"friend_id":1709},{"student_id":1381,"friend_id":1247},{"student_id":1709,"friend_id":"1,247"},{"student_id":1689,"friend_id":1782},{"student_id":1782,"friend_id":1468},{"student_id":1782,"friend_id":1316},{"student_id":1782,"friend_id":1304},{"student_id":1468,"friend_id":1101},{"student_id":1468,"friend_id":1641},{"student_id":1101,"friend_id":1641},{"student_id":1247,"friend_id":1911},{"student_id":1247,"friend_id":1501},{"student_id":1911,"friend_id":1501},{"student_id":1501,"friend_id":1934},{"student_id":1316,"friend_id":1934},{"student_id":1934,"friend_id":1304},{"student_id":1304,"friend_id":1661},{"student_id":1661,"friend_id":1025.0}]
+- Type: Data Consistency Anomaly; row 2, col 'student_id': '1510' → '1510'.
+- Type: Data Consistency Anomaly; row 5, col 'friend_id': '1247' → '1,247'.
+
+Table: network_1_Highschooler.json
+GPT raw reply for network_1_Highschooler_0-16:
+[
+    {"ID":1510,"name":"Jordan","grade":9},
+    {"ID":1689,"name":"Gabriel","grade":9},
+    {"ID":1381,"name":"Tiffany","grade":9},
+    {"ID":1709,"name":"Cassandra","grade":9},
+    {"ID":1101,"name":"Haley","grade":10},
+    {"ID":1782,"name":"andrew","grade":10},
+    {"ID":1468,"name":"Kris","grade":"10"},
+    {"ID":1641,"name":"Brittany","grade":10},
+    {"ID":1247,"name":"Alexis","grade":11},
+    {"ID":1316,"name":"Austin","grade":11},
+    {"ID":1911,"name":"Gabriel","grade":11},
+    {"ID":1501,"name":"Jessica","grade":11},
+    {"ID":1304,"name":"Jordan","grade":12},
+    {"ID":1025,"name":"John","grade":12},
+    {"ID":1934,"name":"Kyle","grade":12},
+    {"ID":1661,"name":null,"grade":12}
+]
+- Type: Data Consistency Anomaly; row 6, col 'name': 'Andrew' → 'andrew'.
+- Type: Data Consistency Anomaly; row 16, col 'name': 'Logan' → 'None'.
+- Type: Data Consistency Anomaly; row 7, col 'grade': '10' → '10'.
+
+Table: pets_1_Student.json
+GPT raw reply for pets_1_Student_0-30:
+[
+    {"StuID":1001,"LName":"Smith","Fname":"linda","Age":18,"Sex":"F","Major":600,"Advisor":1121,"city_code":"BAL"},
+    {"StuID":1002,"LName":"Kim","Fname":"Tracy","Age":19,"Sex":"F","Major":600,"Advisor":7712,"city_code":"HKG"},
+    {"StuID":1003,"LName":"Jones","Fname":"Shiela","Age":21,"Sex":"F","Major":600,"Advisor":7792,"city_code":"WAS"},
+    {"StuID":1004,"LName":"Kumar","Fname":"Dinesh","Age":20,"Sex":"M","Major":600,"Advisor":8423,"city_code":"CHI"},
+    {"StuID":1005,"LName":"Gompers","Fname":"Paul","Age":26,"Sex":"M","Major":600,"Advisor":1121,"city_code":"YYZ"},
+    {"StuID":1006,"LName":"Schultz","Fname":"Andy","Age":18,"Sex":"M","Major":600,"Advisor":1148,"city_code":"bal"},
+    {"StuID":1007,"LName":"Apap","Fname":"Lisa","Age":18,"Sex":"F","Major":600,"Advisor":8918,"city_code":"PIT"},
+    {"StuID":1008,"LName":"Nelson","Fname":"Jandy","Age":20,"Sex":"F","Major":600,"Advisor":9172,"city_code":"BAL"},
+    {"StuID":1009,"LName":"tai","Fname":"Eric","Age":19,"Sex":"M","Major":600,"Advisor":2192,"city_code":"YYZ"},
+    {"StuID":1010,"LName":"Lee","Fname":"Derek","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"HOU"},
+    {"StuID":1011,"LName":"Adams","Fname":"David","Age":22,"Sex":"M","Major":600,"Advisor":1148,"city_code":"PHL"},
+    {"StuID":1012,"LName":"Davis","Fname":"Steven","Age":20,"Sex":"M","Major":600,"Advisor":7723,"city_code":"PIT"},
+    {"StuID":1014,"LName":"Norris","Fname":"Charles","Age":18,"Sex":"M","Major":600,"Advisor":8741,"city_code":"DAL"},
+    {"StuID":1015,"LName":"Lee","Fname":"Susan","Age":16,"Sex":"F","Major":600,"Advisor":8721,"city_code":"HKG"},
+    {"StuID":1016,"LName":"Schwartz","Fname":"Mark","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"DET"},
+    {"StuID":1017,"LName":"Wilson","Fname":"Bruce","Age":27,"Sex":"M","Major":600,"Advisor":1148,"city_code":"LON"},
+    {"StuID":1018,"LName":"Leighton","Fname":"Michael","Age":20,"Sex":"M","Major":600,"Advisor":1121,"city_code":"PIT"},
+    {"StuID":1019,"LName":"Pang","Fname":"Arthur","Age":18,"Sex":"M","Major":600,"Advisor":2192,"city_code":"was"},
+    {"StuID":1020,"LName":"Thornton","Fname":"Ian","Age":22,"Sex":"M","Major":520,"Advisor":7271,"city_code":"nyc"},
+    {"StuID":1021,"LName":"Andreou","Fname":"George","Age":19,"Sex":"M","Major":520,"Advisor":8722,"city_code":"NYC"},
+    {"StuID":1022,"LName":"Woods","Fname":"Michael","Age":17,"Sex":"M","Major":540,"Advisor":8722,"city_code":"PHL"},
+    {"StuID":1023,"LName":"Shieber","Fname":"David","Age":20,"Sex":"M","Major":520,"Advisor":8722,"city_code":"ny"},
+    {"StuID":1024,"LName":"Prater","Fname":"Stacy","Age":18,"Sex":"F","Major":540,"Advisor":7271,"city_code":"BAL"},
+    {"StuID":1025,"LName":"Goldman","Fname":"Mark","Age":18,"Sex":"M","Major":520,"Advisor":7134,"city_code":"PIT"},
+    {"StuID":1026,"LName":"Pang","Fname":"Eric","Age":19,"Sex":"M","Major":520,"Advisor":7134,"city_code":"HKG"},
+    {"StuID":1027,"LName":"Brody","Fname":"Paul","Age":18,"Sex":"M","Major":520,"Advisor":8723,"city_code":"los"},
+    {"StuID":1028,"LName":"Rugh","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":2311,"city_code":"ROC"},
+    {"StuID":1029,"LName":"Han","Fname":"Jun","Age":17,"Sex":"M","Major":100,"Advisor":2311,"city_code":"PEK"},
+    {"StuID":1030,"LName":"Cheng","Fname":"Lisa","Age":21,"Sex":"F","Major":550,"Advisor":2311,"city_code":"SFO"},
+    {"StuID":1031,"LName":"Smith","Fname":"Sarah","Age":20,"Sex":"F","Major":550,"Advisor":8772,"city_code":"PHL"}
+]
+- Type: Data Consistency Anomaly; row 9, col 'LName': 'Tai' → 'tai'.
+- Type: Data Consistency Anomaly; row 1, col 'Fname': 'Linda' → 'linda'.
+- Type: Data Consistency Anomaly; row 6, col 'city_code': 'BAL' → 'bal'.
+- Type: Data Consistency Anomaly; row 18, col 'city_code': 'WAS' → 'was'.
+- Type: Data Consistency Anomaly; row 19, col 'city_code': 'NYC' → 'nyc'.
+- Type: Data Consistency Anomaly; row 22, col 'city_code': 'NYC' → 'ny'.
+- Type: Data Consistency Anomaly; row 26, col 'city_code': 'LOS' → 'los'.
+GPT raw reply for pets_1_Student_30-34:
+[{"StuID":1032,"LName":"Brown","Fname":"eric","Age":20,"Sex":"M","Major":550,"Advisor":8772,"city_code":"ATL"},{"StuID":1033,"LName":"Simms","Fname":"William","Age":18,"Sex":"M","Major":550,"Advisor":8772,"city_code":"NAR"},{"StuID":1034,"LName":"Epp","Fname":"Eric","Age":18,"Sex":"M","Major":50,"Advisor":5718,"city_code":"BOS"},{"StuID":1035,"LName":"Schmidt","Fname":"Sarah","Age":26,"Sex":"F","Major":50,"Advisor":5718,"city_code":"was"}]
+- Type: Data Consistency Anomaly; row 31, col 'Fname': 'Eric' → 'eric'.
+- Type: Data Consistency Anomaly; row 34, col 'city_code': 'WAS' → 'was'.
+
+Table: restaurant_1_Student.json
+GPT raw reply for restaurant_1_Student_0-30:
+[{"StuID":1001,"LName":"Smith","Fname":"Linda","Age":18,"Sex":"F","Major":600,"Advisor":1121,"city_code":"BAL"},{"StuID":1002,"LName":"Kim","Fname":"Tracy","Age":19,"Sex":"F","Major":600,"Advisor":7712,"city_code":"HKG"},{"StuID":1003,"LName":"Jones","Fname":"Shiela","Age":21,"Sex":"F","Major":600,"Advisor":7792,"city_code":"WAS"},{"StuID":1004,"LName":"Kumar","Fname":"Dinesh","Age":20,"Sex":"M","Major":600,"Advisor":8423,"city_code":"CHI"},{"StuID":1005,"LName":"Gompers","Fname":"Paul","Age":26,"Sex":"M","Major":600,"Advisor":1121,"city_code":"YYZ"},{"StuID":1006,"LName":"Schultz","Fname":"Andy","Age":18,"Sex":"M","Major":600,"Advisor":1148,"city_code":"bal"},{"StuID":1007,"LName":"Apap","Fname":"Lisa","Age":18,"Sex":"F","Major":600,"Advisor":8918,"city_code":"PIT"},{"StuID":1008,"LName":"Nelson","Fname":"Jandy","Age":20,"Sex":"F","Major":600,"Advisor":9172,"city_code":"BAL"},{"StuID":1009,"LName":"Tai","Fname":"Eric","Age":19,"Sex":"M","Major":600,"Advisor":2192,"city_code":"yyz"},{"StuID":1010,"LName":"Lee","Fname":"Derek","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"HOU"},{"StuID":1011,"LName":"Adams","Fname":"David","Age":22,"Sex":"M","Major":600,"Advisor":1148,"city_code":"PHL"},{"StuID":1012,"LName":"Davis","Fname":"Steven","Age":20,"Sex":"M","Major":600,"Advisor":7723,"city_code":"PIT"},{"StuID":1014,"LName":"Norris","Fname":"Charles","Age":18,"Sex":"M","Major":600,"Advisor":8741,"city_code":"DAL"},{"StuID":1015,"LName":"Lee","Fname":"Susan","Age":16,"Sex":"Female","Major":600,"Advisor":8721,"city_code":"HKG"},{"StuID":1016,"LName":"Schwartz","Fname":"Mark","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"DET"},{"StuID":1017,"LName":"Wilson","Fname":"Bruce","Age":27,"Sex":"M","Major":600,"Advisor":1148,"city_code":"lON"},{"StuID":1018,"LName":"Leighton","Fname":"Michael","Age":20,"Sex":"M","Major":600,"Advisor":1121,"city_code":"PIT"},{"StuID":1019,"LName":"Pang","Fname":"Arthur","Age":18,"Sex":"M","Major":600,"Advisor":2192,"city_code":"WAS"},{"StuID":1020,"LName":"Thornton","Fname":"Ian","Age":22,"Sex":"M","Major":520,"Advisor":7271,"city_code":"nyc"},{"StuID":1021,"LName":"Andreou","Fname":"George","Age":19,"Sex":"M","Major":520,"Advisor":8722,"city_code":"NYC"},{"StuID":1022,"LName":"Woods","Fname":"Michael","Age":17,"Sex":"M","Major":540,"Advisor":8722,"city_code":"PHL"},{"StuID":1023,"LName":"Shieber","Fname":"David","Age":20,"Sex":"M","Major":520,"Advisor":8722,"city_code":"NYC"},{"StuID":1024,"LName":"Prater","Fname":"Stacy","Age":18,"Sex":"F","Major":540,"Advisor":7271,"city_code":"BAL"},{"StuID":1025,"LName":"Goldman","Fname":"Mark","Age":18,"Sex":"M","Major":520,"Advisor":7134,"city_code":"pit"},{"StuID":1026,"LName":"Pang","Fname":"Eric","Age":19,"Sex":"M","Major":520,"Advisor":7134,"city_code":"hkg"},{"StuID":1027,"LName":"Brody","Fname":"Paul","Age":18,"Sex":"M","Major":520,"Advisor":8723,"city_code":"LOS"},{"StuID":1028,"LName":"Rugh","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":2311,"city_code":"ROC"},{"StuID":1029,"LName":"Han","Fname":"Jun","Age":17,"Sex":"M","Major":100,"Advisor":2311,"city_code":"PEK"},{"StuID":1030,"LName":"Cheng","Fname":"Lisa","Age":21,"Sex":"F","Major":550,"Advisor":2311,"city_code":"SFO"},{"StuID":1031,"LName":"Smith","Fname":"Sarah","Age":20,"Sex":"F","Major":550,"Advisor":8772,"city_code":"PHL"}]
+- Type: Data Consistency Anomaly; row 14, col 'Sex': 'F' → 'Female'.
+- Type: Data Consistency Anomaly; row 6, col 'city_code': 'BAL' → 'bal'.
+- Type: Data Consistency Anomaly; row 9, col 'city_code': 'YYZ' → 'yyz'.
+- Type: Data Consistency Anomaly; row 16, col 'city_code': 'LON' → 'lON'.
+- Type: Data Consistency Anomaly; row 19, col 'city_code': 'NYC' → 'nyc'.
+- Type: Data Consistency Anomaly; row 24, col 'city_code': 'PIT' → 'pit'.
+- Type: Data Consistency Anomaly; row 25, col 'city_code': 'HKG' → 'hkg'.
+GPT raw reply for restaurant_1_Student_30-34:
+[{"StuID":1032,"LName":"Brown","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":8772,"city_code":"ATL"},{"StuID":1033,"LName":"Simms","Fname":"William","Age":18,"Sex":"M","Major":550,"Advisor":8772,"city_code":"NAR"},{"StuID":1034,"LName":"Epp","Fname":"eric","Age":18,"Sex":"M","Major":50,"Advisor":5718,"city_code":"BOS"},{"StuID":1035,"LName":"Schmidt","Fname":"Sarah","Age":"26 years","Sex":"F","Major":50,"Advisor":5718,"city_code":"WAS"}]
+- Type: Data Consistency Anomaly; row 33, col 'Fname': 'Eric' → 'eric'.
+- Type: Data Consistency Anomaly; row 34, col 'Age': '26' → '26 years'.
+
+Table: voter_2_Student.json
+GPT raw reply for voter_2_Student_0-30:
+[
+    {"StuID":1001,"LName":"Smith","Fname":"Linda","Age":18,"Sex":"F","Major":600,"Advisor":1121,"city_code":"BAL"},
+    {"StuID":1002,"LName":"kim","Fname":"Tracy","Age":19,"Sex":"F","Major":600,"Advisor":7712,"city_code":"hkg"},
+    {"StuID":1003,"LName":"Jones","Fname":"Shiela","Age":21,"Sex":"F","Major":600,"Advisor":7792,"city_code":"WAS"},
+    {"StuID":1004,"LName":"Kumar","Fname":"Dinesh","Age":20,"Sex":"M","Major":600,"Advisor":8423,"city_code":"CHI"},
+    {"StuID":1005,"LName":"Gompers","Fname":"Paul","Age":26,"Sex":"M","Major":600,"Advisor":1121,"city_code":"YYZ"},
+    {"StuID":1006,"LName":"Schultz","Fname":"Andy","Age":18,"Sex":"M","Major":600,"Advisor":1148,"city_code":"BAL"},
+    {"StuID":1007,"LName":"Apap","Fname":"Lisa","Age":18,"Sex":"F","Major":600,"Advisor":8918,"city_code":"PIT"},
+    {"StuID":1008,"LName":"Nelson","Fname":"Jandy","Age":20,"Sex":"F","Major":600,"Advisor":9172,"city_code":""},
+    {"StuID":1009,"LName":"Tai","Fname":"Eric","Age":19,"Sex":"M","Major":600,"Advisor":2192,"city_code":"YYZ"},
+    {"StuID":1010,"LName":"lee","Fname":"Derek","Age":17,"Sex":"m","Major":600,"Advisor":2192,"city_code":"HOU"},
+    {"StuID":1011,"LName":"Adams","Fname":"David","Age":22,"Sex":"M","Major":600,"Advisor":1148,"city_code":"PHL"},
+    {"StuID":1012,"LName":"Davis","Fname":"Steven","Age":20,"Sex":"M","Major":600,"Advisor":7723,"city_code":"PIT"},
+    {"StuID":1014,"LName":"Norris","Fname":"Charles","Age":18,"Sex":"M","Major":600,"Advisor":8741,"city_code":"DAL"},
+    {"StuID":1015,"LName":"Lee","Fname":"Susan","Age":16,"Sex":"F","Major":600,"Advisor":8721,"city_code":"HKG"},
+    {"StuID":1016,"LName":"Schwartz","Fname":"Mark","Age":17,"Sex":"M","Major":600,"Advisor":2192,"city_code":"DET"},
+    {"StuID":1017,"LName":"Wilson","Fname":"Bruce","Age":27,"Sex":"M","Major":600,"Advisor":1148,"city_code":"LON"},
+    {"StuID":1018,"LName":"Leighton","Fname":"Michael","Age":20,"Sex":"M","Major":600,"Advisor":1121,"city_code":"PIT"},
+    {"StuID":1019,"LName":"Pang","Fname":"Arthur","Age":18,"Sex":"M","Major":600,"Advisor":2192,"city_code":"WAS"},
+    {"StuID":1020,"LName":"Thornton","Fname":"Ian","Age":22,"Sex":"M","Major":520,"Advisor":7271,"city_code":"NYC"},
+    {"StuID":1021,"LName":"Andreou","Fname":"George","Age":19,"Sex":"M","Major":520,"Advisor":8722,"city_code":"nyc"},
+    {"StuID":1022,"LName":"Woods","Fname":"Michael","Age":17,"Sex":"M","Major":540,"Advisor":8722,"city_code":"PHL"},
+    {"StuID":1023,"LName":"Shieber","Fname":"David","Age":20,"Sex":"M","Major":520,"Advisor":8722,"city_code":"nyc"},
+    {"StuID":1024,"LName":"Prater","Fname":"Stacy","Age":18,"Sex":"F","Major":540,"Advisor":7271,"city_code":"BAL"},
+    {"StuID":1025,"LName":"Goldman","Fname":"Mark","Age":18,"Sex":"M","Major":520,"Advisor":7134,"city_code":"PIT"},
+    {"StuID":1026,"LName":"Pang","Fname":"Eric","Age":19,"Sex":"M","Major":520,"Advisor":7134,"city_code":"HKG"},
+    {"StuID":1027,"LName":"Brody","Fname":"Paul","Age":18,"Sex":"M","Major":520,"Advisor":8723,"city_code":"los"},
+    {"StuID":1028,"LName":"Rugh","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":2311,"city_code":"ROC"},
+    {"StuID":1029,"LName":"Han","Fname":"Jun","Age":17,"Sex":"M","Major":100,"Advisor":2311,"city_code":"PEK"},
+    {"StuID":1030,"LName":"Cheng","Fname":"Lisa","Age":21,"Sex":"F","Major":550,"Advisor":2311,"city_code":"SFO"},
+    {"StuID":1031,"LName":"smith","Fname":"Sarah","Age":20,"Sex":"F","Major":550,"Advisor":8772,"city_code":"PHL"}
+]
+- Type: Data Consistency Anomaly; row 2, col 'LName': 'Kim' → 'kim'.
+- Type: Data Consistency Anomaly; row 10, col 'LName': 'Lee' → 'lee'.
+- Type: Data Consistency Anomaly; row 30, col 'LName': 'Smith' → 'smith'.
+- Type: Data Consistency Anomaly; row 10, col 'Sex': 'M' → 'm'.
+- Type: Data Consistency Anomaly; row 2, col 'city_code': 'HKG' → 'hkg'.
+- Type: Data Consistency Anomaly; row 8, col 'city_code': 'BAL' → ''.
+- Type: Data Consistency Anomaly; row 20, col 'city_code': 'NYC' → 'nyc'.
+- Type: Data Consistency Anomaly; row 22, col 'city_code': 'NYC' → 'nyc'.
+- Type: Data Consistency Anomaly; row 26, col 'city_code': 'LOS' → 'los'.
+GPT raw reply for voter_2_Student_30-34:
+[
+    {"StuID":1032,"LName":"Brown","Fname":"Eric","Age":20,"Sex":"M","Major":550,"Advisor":8772,"city_code":"atl"},
+    {"StuID":1033,"LName":"Simms","Fname":"William","Age":18,"Sex":"M","Major":550,"Advisor":8772,"city_code":"NAR"},
+    {"StuID":1034,"LName":"Epp","Fname":"Eric","Age":18,"Sex":"M","Major":50,"Advisor":5718,"city_code":""},
+    {"StuID":1035,"LName":"schmidt","Fname":"Sarah","Age":26,"Sex":"F","Major":50,"Advisor":5718,"city_code":"WAS"}
+]
+- Type: Data Consistency Anomaly; row 34, col 'LName': 'Schmidt' → 'schmidt'.
+- Type: Data Consistency Anomaly; row 31, col 'city_code': 'ATL' → 'atl'.
+- Type: Data Consistency Anomaly; row 33, col 'city_code': 'BOS' → ''.
+

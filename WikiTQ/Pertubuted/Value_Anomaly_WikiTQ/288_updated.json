@@ -1,0 +1,263 @@
+[
+  {
+    "Region": "East",
+    "Seed": "@@@_-100.0",
+    "Team": null,
+    "Coach": null,
+    "Finished": null,
+    "Final Opponent": null,
+    "Score": null
+  },
+  {
+    "Region": "East",
+    "Seed": null,
+    "Team": "Furman",
+    "Coach": "Joe Williams",
+    "Finished": "First round",
+    "Final Opponent": "Syracuse",
+    "Score": "L 83-82"
+  },
+  {
+    "Region": "East",
+    "Seed": null,
+    "Team": "Maryland",
+    "Coach": "Lefty Driesell",
+    "Finished": "Regional Runner-up",
+    "Final Opponent": "Providence",
+    "Score": "L 103-89"
+  },
+  {
+    "Region": "East",
+    "Seed": null,
+    "Team": "Penn",
+    "Coach": "Chuck Daly",
+    "Finished": "Regional Fourth Place",
+    "Final Opponent": "Syracuse",
+    "Score": "L 69-68"
+  },
+  {
+    "Region": "East",
+    "Seed": null,
+    "Team": "Providence",
+    "Coach": "Dave Gavitt",
+    "Finished": "Fourth Place",
+    "Final Opponent": "Indiana",
+    "Score": "L 97-79"
+  },
+  {
+    "Region": "East",
+    "Seed": null,
+    "Team": "St. John's",
+    "Coach": "Frank Mulzoff",
+    "Finished": "First round",
+    "Final Opponent": "Penn",
+    "Score": "L 62-61"
+  },
+  {
+    "Region": "East",
+    "Seed": null,
+    "Team": "Saint Joseph's",
+    "Coach": "Jack McKinney",
+    "Finished": "First round",
+    "Final Opponent": "Providence",
+    "Score": "L 89-76"
+  },
+  {
+    "Region": "East",
+    "Seed": null,
+    "Team": "Syracuse",
+    "Coach": "Roy Danforth",
+    "Finished": "Regional Third Place",
+    "Final Opponent": "Penn",
+    "Score": "W 69-68"
+  },
+  {
+    "Region": "Mideast",
+    "Seed": null,
+    "Team": "@@@_None",
+    "Coach": null,
+    "Finished": null,
+    "Final Opponent": null,
+    "Score": null
+  },
+  {
+    "Region": "Mideast",
+    "Seed": null,
+    "Team": "Austin Peay",
+    "Coach": "Lake Kelly",
+    "Finished": "Regional Fourth Place",
+    "Final Opponent": "Marquette",
+    "Score": "L 88-73"
+  },
+  {
+    "Region": "@@@_None",
+    "Seed": null,
+    "Team": "Indiana",
+    "Coach": "Bob Knight",
+    "Finished": "Third Place",
+    "Final Opponent": "Providence",
+    "Score": "W 97-79"
+  },
+  {
+    "Region": "Mideast",
+    "Seed": "@@@_-1694.8473556273",
+    "Team": "Jacksonville",
+    "Coach": "Tom Wasdin",
+    "Finished": "First round",
+    "Final Opponent": "Austin Peay",
+    "Score": "L 77-75"
+  },
+  {
+    "Region": "Mideast",
+    "Seed": null,
+    "Team": "Kentucky",
+    "Coach": "Joe B. Hall",
+    "Finished": "Regional Runner-up",
+    "Final Opponent": "Indiana",
+    "Score": "L 72-65"
+  },
+  {
+    "Region": "Mideast",
+    "Seed": null,
+    "Team": "Marquette",
+    "Coach": "Al McGuire",
+    "Finished": "Regional Third Place",
+    "Final Opponent": "Austin Peay",
+    "Score": "W 88-73"
+  },
+  {
+    "Region": "Mideast",
+    "Seed": null,
+    "Team": "Miami, Ohio",
+    "Coach": "Darrell Hedric",
+    "Finished": "First round",
+    "Final Opponent": "Marquette",
+    "Score": "L 77-62"
+  },
+  {
+    "Region": "Midwest",
+    "Seed": null,
+    "Team": null,
+    "Coach": null,
+    "Finished": null,
+    "Final Opponent": null,
+    "Score": null
+  },
+  {
+    "Region": "Midwest",
+    "Seed": null,
+    "Team": "Houston",
+    "Coach": "Guy Lewis",
+    "Finished": "First round",
+    "Final Opponent": "Southwestern Louisiana",
+    "Score": "L 102-89"
+  },
+  {
+    "Region": "Midwest",
+    "Seed": null,
+    "Team": "Kansas State",
+    "Coach": "Jack Hartman",
+    "Finished": "Regional Runner-up",
+    "Final Opponent": "Memphis State",
+    "Score": "L 92-72"
+  },
+  {
+    "Region": "Midwest",
+    "Seed": null,
+    "Team": "Southwestern Louisiana (Vacated)",
+    "Coach": "Beryl Shipley",
+    "Finished": "Regional Fourth Place",
+    "Final Opponent": "South Carolina",
+    "Score": "L 90-85"
+  },
+  {
+    "Region": "Midwest",
+    "Seed": null,
+    "Team": "Memphis State",
+    "Coach": "Gene Bartow",
+    "Finished": "Runner Up",
+    "Final Opponent": "UCLA",
+    "Score": "L 87-66"
+  },
+  {
+    "Region": "Midwest",
+    "Seed": null,
+    "Team": "South Carolina",
+    "Coach": "Frank McGuire",
+    "Finished": "Regional Third Place",
+    "Final Opponent": "Southwestern Louisiana",
+    "Score": "W 90-85"
+  },
+  {
+    "Region": "Midwest",
+    "Seed": null,
+    "Team": "Texas Tech",
+    "Coach": "Gerald Myers",
+    "Finished": "First round",
+    "Final Opponent": "South Carolina",
+    "Score": "L 78-70"
+  },
+  {
+    "Region": "West",
+    "Seed": null,
+    "Team": null,
+    "Coach": null,
+    "Finished": null,
+    "Final Opponent": null,
+    "Score": null
+  },
+  {
+    "Region": "West",
+    "Seed": null,
+    "Team": "Arizona State",
+    "Coach": "Ned Wulk",
+    "Finished": "Regional Fourth Place",
+    "Final Opponent": "Long Beach State",
+    "Score": "L 84-80"
+  },
+  {
+    "Region": "West",
+    "Seed": null,
+    "Team": "Long Beach State",
+    "Coach": "Jerry Tarkanian",
+    "Finished": "Regional Third Place",
+    "Final Opponent": "Arizona State",
+    "Score": "W 84-80"
+  },
+  {
+    "Region": "West",
+    "Seed": "@@@_-16292.66849503",
+    "Team": "Oklahoma City",
+    "Coach": "Abe Lemons",
+    "Finished": "First round",
+    "Final Opponent": "Arizona State",
+    "Score": "L 103-78"
+  },
+  {
+    "Region": "West",
+    "Seed": null,
+    "Team": "San Francisco",
+    "Coach": "Bob Gaillard",
+    "Finished": "Regional Runner-up",
+    "Final Opponent": "UCLA",
+    "Score": "L 54-39"
+  },
+  {
+    "Region": "West",
+    "Seed": null,
+    "Team": "UCLA",
+    "Coach": "John Wooden",
+    "Finished": "Champion",
+    "Final Opponent": "Memphis State",
+    "Score": "W 87-66"
+  },
+  {
+    "Region": "West",
+    "Seed": null,
+    "Team": "Weber State",
+    "Coach": "Gene Visscher",
+    "Finished": "First round",
+    "Final Opponent": "Long Beach State",
+    "Score": "L 88-75"
+  }
+]

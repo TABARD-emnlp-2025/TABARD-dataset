@@ -1,0 +1,602 @@
+[
+  {
+    "Rank": null,
+    "Bib": 1,
+    "Name": "Emil Hegle Svendsen",
+    "Nationality": "Norway",
+    "Start": "0:00",
+    "Penalties (P+P+S+S)": "1 (0+0+0+1)",
+    "Time": "32:35.5",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 2,
+    "Name": "Martin Fourcade",
+    "Nationality": "France",
+    "Start": "0:08",
+    "Penalties (P+P+S+S)": "2 (0+1+1+0)",
+    "Time": "32:35.6",
+    "Deficit": "+0.1"
+  },
+  {
+    "Rank": null,
+    "Bib": 7,
+    "Name": "Anton Shipulin",
+    "Nationality": "Russia",
+    "Start": "0:33",
+    "Penalties (P+P+S+S)": "1 (0+0+1+0)",
+    "Time": "32:39.1",
+    "Deficit": "+3.6"
+  },
+  {
+    "Rank": "@@@_452.9073436868",
+    "Bib": 5,
+    "Name": "Dmitry Malyshko",
+    "Nationality": "Russia",
+    "Start": "0:23",
+    "Penalties (P+P+S+S)": "0 (0+0+0+0)",
+    "Time": "32:40.9",
+    "Deficit": "+5.4"
+  },
+  {
+    "Rank": 5.0,
+    "Bib": 15,
+    "Name": "Dominik Landertinger",
+    "Nationality": "Austria",
+    "Start": "0:58",
+    "Penalties (P+P+S+S)": "0 (0+0+0+0)",
+    "Time": "32:55.9",
+    "Deficit": "+20.4"
+  },
+  {
+    "Rank": 6.0,
+    "Bib": 3,
+    "Name": "Jakov Fak",
+    "Nationality": "Slovenia",
+    "Start": "0:11",
+    "Penalties (P+P+S+S)": "1 (0+0+0+1)",
+    "Time": "33:05.2",
+    "Deficit": "+29.7"
+  },
+  {
+    "Rank": 7.0,
+    "Bib": 8,
+    "Name": "Fredrik Lindström",
+    "Nationality": "Sweden",
+    "Start": "0:38",
+    "Penalties (P+P+S+S)": "1 (0+0+1+0)",
+    "Time": "33:18.9",
+    "Deficit": "+43.4"
+  },
+  {
+    "Rank": 8.0,
+    "Bib": 6,
+    "Name": "Alexis Bœuf",
+    "Nationality": "France",
+    "Start": "0:25",
+    "Penalties (P+P+S+S)": "2 (0+0+2+0)",
+    "Time": "33:22.1",
+    "Deficit": "+46.6"
+  },
+  {
+    "Rank": 9.0,
+    "Bib": 13,
+    "Name": "Björn Ferry",
+    "Nationality": "Sweden",
+    "Start": "0:52",
+    "Penalties (P+P+S+S)": "0 (0+0+0+0)",
+    "Time": "33:23.6",
+    "Deficit": "+48.1"
+  },
+  {
+    "Rank": 10.0,
+    "Bib": 4,
+    "Name": "Ole Einar Bjørndalen",
+    "Nationality": "Norway",
+    "Start": "0:20",
+    "Penalties (P+P+S+S)": "4 (2+0+1+1)",
+    "Time": "33:27.0",
+    "Deficit": "+51.5"
+  },
+  {
+    "Rank": 11.0,
+    "Bib": 14,
+    "Name": "Lukas Hofer",
+    "Nationality": "Italy",
+    "Start": "0:57",
+    "Penalties (P+P+S+S)": "2 (0+2+0+0)",
+    "Time": "33:28.8",
+    "Deficit": "+53.3"
+  },
+  {
+    "Rank": 12.0,
+    "Bib": 10,
+    "Name": "Simon Eder",
+    "Nationality": "Austria",
+    "Start": "0:39",
+    "Penalties (P+P+S+S)": "3 (0+0+2+1)",
+    "Time": "33:50.5",
+    "Deficit": "+1:15.0"
+  },
+  {
+    "Rank": 13.0,
+    "Bib": 32,
+    "Name": "Lowell Bailey",
+    "Nationality": "United States",
+    "Start": "1:38",
+    "Penalties (P+P+S+S)": "0 (0+0+0+0)",
+    "Time": "33:56.4",
+    "Deficit": "+1:20.9"
+  },
+  {
+    "Rank": 14.0,
+    "Bib": 12,
+    "Name": "Erik Lesser",
+    "Nationality": "Germany",
+    "Start": "0:49",
+    "Penalties (P+P+S+S)": "4 (1+0+2+1)",
+    "Time": "34:06.0",
+    "Deficit": "+1:30.5"
+  },
+  {
+    "Rank": 15.0,
+    "Bib": 36,
+    "Name": "Jean-Philippe Leguellec",
+    "Nationality": "Canada",
+    "Start": "1:45",
+    "Penalties (P+P+S+S)": "1 (0+0+0+1)",
+    "Time": "34:08.7",
+    "Deficit": "+1:33.2"
+  },
+  {
+    "Rank": 16.0,
+    "Bib": 9,
+    "Name": "Evgeny Ustyugov",
+    "Nationality": "Russia",
+    "Start": "0:38",
+    "Penalties (P+P+S+S)": "3 (0+1+2+0)",
+    "Time": "34:16.7",
+    "Deficit": "+1:41.2"
+  },
+  {
+    "Rank": 17.0,
+    "Bib": 18,
+    "Name": "Tarjei Bø",
+    "Nationality": "Norway",
+    "Start": "1:14",
+    "Penalties (P+P+S+S)": "3 (2+0+1+0)",
+    "Time": "34:18.9",
+    "Deficit": "+1:43.4"
+  },
+  {
+    "Rank": 18.0,
+    "Bib": 29,
+    "Name": "Simon Schempp",
+    "Nationality": "Germany",
+    "Start": "1:36",
+    "Penalties (P+P+S+S)": "1 (0+0+0+1)",
+    "Time": "34:24.4",
+    "Deficit": "+1:48.9"
+  },
+  {
+    "Rank": 19.0,
+    "Bib": 11,
+    "Name": "Krasimir Anev",
+    "Nationality": "Bulgaria",
+    "Start": "0:48",
+    "Penalties (P+P+S+S)": "2 (0+1+0+1)",
+    "Time": "34:24.7",
+    "Deficit": "+1:49.2"
+  },
+  {
+    "Rank": 20.0,
+    "Bib": 37,
+    "Name": "Henrik L'Abee-Lund",
+    "Nationality": "Norway",
+    "Start": "1:45",
+    "Penalties (P+P+S+S)": "1 (0+0+0+1)",
+    "Time": "34:36.1",
+    "Deficit": "+2:00.6"
+  },
+  {
+    "Rank": 21.0,
+    "Bib": 16,
+    "Name": "Arnd Peiffer",
+    "Nationality": "Germany",
+    "Start": "1:08",
+    "Penalties (P+P+S+S)": "3 (0+0+2+1)",
+    "Time": "34:39.8",
+    "Deficit": "+2:04.3"
+  },
+  {
+    "Rank": 22.0,
+    "Bib": 23,
+    "Name": "Andreas Birnbacher",
+    "Nationality": "Germany",
+    "Start": "1:25",
+    "Penalties (P+P+S+S)": "3 (0+1+1+1)",
+    "Time": "34:41.7",
+    "Deficit": "+2:06.2"
+  },
+  {
+    "Rank": 23.0,
+    "Bib": 34,
+    "Name": "Simon Fourcade",
+    "Nationality": "France",
+    "Start": "1:42",
+    "Penalties (P+P+S+S)": "3 (0+3+0+0)",
+    "Time": "34:51.1",
+    "Deficit": "+2:15.6"
+  },
+  {
+    "Rank": 24.0,
+    "Bib": 21,
+    "Name": "Klemen Bauer",
+    "Nationality": "Slovenia",
+    "Start": "1:16",
+    "Penalties (P+P+S+S)": "4 (1+0+3+0)",
+    "Time": "34:55.4",
+    "Deficit": "+2:19.9"
+  },
+  {
+    "Rank": 25.0,
+    "Bib": 26,
+    "Name": "Christian De Lorenzi",
+    "Nationality": "Italy",
+    "Start": "1:30",
+    "Penalties (P+P+S+S)": "1 (0+0+0+1)",
+    "Time": "34:57.5",
+    "Deficit": "+2:22.0"
+  },
+  {
+    "Rank": 26.0,
+    "Bib": 20,
+    "Name": "Jean-Guillaume Béatrix",
+    "Nationality": "France",
+    "Start": "1:15",
+    "Penalties (P+P+S+S)": "4 (0+1+2+1)",
+    "Time": "34:58.4",
+    "Deficit": "+2:22.9"
+  },
+  {
+    "Rank": 27.0,
+    "Bib": 33,
+    "Name": "Daniel Mesotitsch",
+    "Nationality": "Austria",
+    "Start": "1:39",
+    "Penalties (P+P+S+S)": "3 (0+0+2+1)",
+    "Time": "34:58.7",
+    "Deficit": "+2:23.2"
+  },
+  {
+    "Rank": 28.0,
+    "Bib": 19,
+    "Name": "Evgeniy Garanichev",
+    "Nationality": "Russia",
+    "Start": "1:14",
+    "Penalties (P+P+S+S)": "5 (2+0+2+1)",
+    "Time": "35:04.2",
+    "Deficit": "+2:28.7"
+  },
+  {
+    "Rank": 29.0,
+    "Bib": 30,
+    "Name": "Matej Kazár",
+    "Nationality": "Slovakia",
+    "Start": "1:36",
+    "Penalties (P+P+S+S)": "5 (2+1+1+1)",
+    "Time": "35:04.9",
+    "Deficit": "+2:29.4"
+  },
+  {
+    "Rank": 30.0,
+    "Bib": 17,
+    "Name": "Andriy Deryzemlya",
+    "Nationality": "Ukraine",
+    "Start": "1:13",
+    "Penalties (P+P+S+S)": "4 (0+0+2+2)",
+    "Time": "35:05.3",
+    "Deficit": "+2:29.8"
+  },
+  {
+    "Rank": 31.0,
+    "Bib": 35,
+    "Name": "Ondřej Moravec",
+    "Nationality": "Czech Republic",
+    "Start": "1:42",
+    "Penalties (P+P+S+S)": "@@@_None",
+    "Time": "35:05.3",
+    "Deficit": "+2:48.2"
+  },
+  {
+    "Rank": 32.0,
+    "Bib": 28,
+    "Name": "Tim Burke",
+    "Nationality": "United States",
+    "Start": "1:36",
+    "Penalties (P+P+S+S)": "4 (0+1+2+1)",
+    "Time": "35:33.8",
+    "Deficit": "+2:58.3"
+  },
+  {
+    "Rank": 33.0,
+    "Bib": 58,
+    "Name": "Dominik Windisch",
+    "Nationality": "Italy",
+    "Start": "2:31",
+    "Penalties (P+P+S+S)": "2 (0+0+1+1)",
+    "Time": "35:36.4",
+    "Deficit": "+3:00.9"
+  },
+  {
+    "Rank": 34.0,
+    "Bib": 54,
+    "Name": "Carl Johan Bergman",
+    "Nationality": "Sweden",
+    "Start": "2:19",
+    "Penalties (P+P+S+S)": "2 (0+0+1+1)",
+    "Time": "35:37.0",
+    "Deficit": "+3:01.5"
+  },
+  {
+    "Rank": 35.0,
+    "Bib": 25,
+    "Name": "Benjamin Weger",
+    "Nationality": "Switzerland",
+    "Start": "1:28",
+    "Penalties (P+P+S+S)": "3 (0+1+1+1)",
+    "Time": "36:13.1",
+    "Deficit": "+3:37.6"
+  },
+  {
+    "Rank": 36.0,
+    "Bib": 42,
+    "Name": "Artem Pryma",
+    "Nationality": "Ukraine",
+    "Start": "1:59",
+    "Penalties (P+P+S+S)": "3 (1+2+0+0)",
+    "Time": "36:13.2",
+    "Deficit": "+3:37.7"
+  },
+  {
+    "Rank": 37.0,
+    "Bib": 50,
+    "Name": "Pavol Hurajt",
+    "Nationality": "Slovakia",
+    "Start": "@@@_None",
+    "Penalties (P+P+S+S)": "2 (0+1+0+1)",
+    "Time": "36:18.9",
+    "Deficit": "+3:43.4"
+  },
+  {
+    "Rank": 38.0,
+    "Bib": 22,
+    "Name": "Tomas Kaukėnas",
+    "Nationality": "Lithuania",
+    "Start": "1:20",
+    "Penalties (P+P+S+S)": "4 (0+0+2+2)",
+    "Time": "36:33.4",
+    "Deficit": "+3:57.9"
+  },
+  {
+    "Rank": 39.0,
+    "Bib": 43,
+    "Name": "Vladimir Iliev",
+    "Nationality": "Bulgaria",
+    "Start": "2:03",
+    "Penalties (P+P+S+S)": "5 (1+1+2+1)",
+    "Time": "36:43.4",
+    "Deficit": "+4:07.9"
+  },
+  {
+    "Rank": 40.0,
+    "Bib": 40,
+    "Name": "Edgars Piksons",
+    "Nationality": "Latvia",
+    "Start": "1:55",
+    "Penalties (P+P+S+S)": "4 (1+0+2+1)",
+    "Time": "36:49.8",
+    "Deficit": "+4:14.3"
+  },
+  {
+    "Rank": 41.0,
+    "Bib": 60,
+    "Name": "Christian Martinelli",
+    "Nationality": "Italy",
+    "Start": "2:36",
+    "Penalties (P+P+S+S)": "2 (1+0+0+1)",
+    "Time": "36:53.0",
+    "Deficit": "+4:17.5"
+  },
+  {
+    "Rank": 42.0,
+    "Bib": 27,
+    "Name": "Jaroslav Soukup",
+    "Nationality": "Czech Republic",
+    "Start": "1:32",
+    "Penalties (P+P+S+S)": "6 (2+2+2+0)",
+    "Time": "36:59.8",
+    "Deficit": "+4:24.3"
+  },
+  {
+    "Rank": 43.0,
+    "Bib": 53,
+    "Name": "Leif Nordgren",
+    "Nationality": "United States",
+    "Start": "2:19",
+    "Penalties (P+P+S+S)": "6 (2+2+2+0)",
+    "Time": "37:08.3",
+    "Deficit": "+4:32.8"
+  },
+  {
+    "Rank": 44.0,
+    "Bib": 56,
+    "Name": "Hidenori Isa",
+    "Nationality": "Japan",
+    "Start": "2:27",
+    "Penalties (P+P+S+S)": "2 (0+0+0+2)",
+    "Time": "37:13.9",
+    "Deficit": "+4:38.4"
+  },
+  {
+    "Rank": 45.0,
+    "Bib": 41,
+    "Name": "Serhiy Semenov",
+    "Nationality": "Ukraine",
+    "Start": "1:55",
+    "Penalties (P+P+S+S)": "5 (3+1+1+0)",
+    "Time": "37:14.0",
+    "Deficit": "+4:38.5"
+  },
+  {
+    "Rank": 46.0,
+    "Bib": 24,
+    "Name": "Zdeněk Vítek",
+    "Nationality": "Czech Republic",
+    "Start": "1:25",
+    "Penalties (P+P+S+S)": "7 (2+2+1+2)",
+    "Time": "37:21.0",
+    "Deficit": "+4:45.5"
+  },
+  {
+    "Rank": 47.0,
+    "Bib": 49,
+    "Name": "Milanko Petrović",
+    "Nationality": "Serbia",
+    "Start": "2:14",
+    "Penalties (P+P+S+S)": "6 (2+2+2+0)",
+    "Time": "37:26.6",
+    "Deficit": "+4:51.1"
+  },
+  {
+    "Rank": 48.0,
+    "Bib": 31,
+    "Name": "Kauri Kõiv",
+    "Nationality": "Estonia",
+    "Start": "1:37",
+    "Penalties (P+P+S+S)": "6 (2+1+2+1)",
+    "Time": "37:29.9",
+    "Deficit": "+4:54.4"
+  },
+  {
+    "Rank": 49.0,
+    "Bib": 47,
+    "Name": "Yan Savitskiy",
+    "Nationality": "Kazakhstan",
+    "Start": "2:11",
+    "Penalties (P+P+S+S)": "5 (2+2+0+1)",
+    "Time": "37:51.8",
+    "Deficit": "+5:16.3"
+  },
+  {
+    "Rank": 50.0,
+    "Bib": 45,
+    "Name": "Scott Gow",
+    "Nationality": "Canada",
+    "Start": "2:06",
+    "Penalties (P+P+S+S)": "5 (0+0+1+4)",
+    "Time": "37:57.4",
+    "Deficit": "+5:21.9"
+  },
+  {
+    "Rank": 51.0,
+    "Bib": 48,
+    "Name": "Claudio Böckli",
+    "Nationality": "Switzerland",
+    "Start": "2:13",
+    "Penalties (P+P+S+S)": "3 (2+0+0+1)",
+    "Time": "38:02.8",
+    "Deficit": "+5:27.3"
+  },
+  {
+    "Rank": 52.0,
+    "Bib": 44,
+    "Name": "Russell Currier",
+    "Nationality": "United States",
+    "Start": "2:05",
+    "Penalties (P+P+S+S)": "7 (3+1+2+1)",
+    "Time": "38:06.2",
+    "Deficit": "+5:30.7"
+  },
+  {
+    "Rank": 53.0,
+    "Bib": 57,
+    "Name": "Vladimir Chepelin",
+    "Nationality": "Belarus",
+    "Start": "2:28",
+    "Penalties (P+P+S+S)": "4 (0+1+2+1)",
+    "Time": "38:06.5",
+    "Deficit": "+5:31.0"
+  },
+  {
+    "Rank": 54.0,
+    "Bib": "@@@_605",
+    "Name": "Aliaksandr Babchyn",
+    "Nationality": "Belarus",
+    "Start": "2:06",
+    "Penalties (P+P+S+S)": "6 (3+2+1+0)",
+    "Time": "38:19.8",
+    "Deficit": "+5:44.3"
+  },
+  {
+    "Rank": 55.0,
+    "Bib": 59,
+    "Name": "Miroslav Matiaško",
+    "Nationality": "Slovakia",
+    "Start": "2:36",
+    "Penalties (P+P+S+S)": "6 (3+0+2+1)",
+    "Time": "38:54.6",
+    "Deficit": "+6:19.1"
+  },
+  {
+    "Rank": 56.0,
+    "Bib": 38,
+    "Name": "Jarkko Kauppinen",
+    "Nationality": "Finland",
+    "Start": "1:46",
+    "Penalties (P+P+S+S)": "6 (1+1+3+1)",
+    "Time": "39:06.6",
+    "Deficit": "+6:31.1"
+  },
+  {
+    "Rank": 57.0,
+    "Bib": 51,
+    "Name": "Junji Nagai",
+    "Nationality": "Japan",
+    "Start": "2:17",
+    "Penalties (P+P+S+S)": "7 (0+2+3+2)",
+    "Time": "39:49.9",
+    "Deficit": "+7:14.4"
+  },
+  {
+    "Rank": null,
+    "Bib": 55,
+    "Name": "Stefan Gavrila",
+    "Nationality": "Romania",
+    "Start": "2:25",
+    "Penalties (P+P+S+S)": "10 (4+3+3)",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 39,
+    "Name": "Sergei Sednev",
+    "Nationality": "Ukraine",
+    "Start": "1:54",
+    "Penalties (P+P+S+S)": null,
+    "Time": "DNS",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": "@@@_524",
+    "Name": "Michal Šlesingr",
+    "Nationality": "Czech Republic",
+    "Start": "2:18",
+    "Penalties (P+P+S+S)": null,
+    "Time": "DNS",
+    "Deficit": null
+  }
+]

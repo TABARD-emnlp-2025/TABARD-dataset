@@ -1,0 +1,182 @@
+[
+  {
+    "Outcome": "Runner-up",
+    "No.": 1.0,
+    "Date": 1973,
+    "Championship": "Baltimore, U.S.",
+    "Surface": "@@@_None",
+    "Opponent": "Jimmy Connors",
+    "Score": "4–6, 5–7"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 1.0,
+    "Date": 1974,
+    "Championship": "Baltimore, U.S.",
+    "Surface": "Carpet",
+    "Opponent": "Clark Graebner",
+    "Score": "6–2, 6–1"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": 2.0,
+    "Date": 1974,
+    "Championship": "Birmingham, U.S.",
+    "Surface": "Carpet",
+    "Opponent": "Jimmy Connors",
+    "Score": "5–7, 3–6"
+  },
+  {
+    "Outcome": "@@@_None",
+    "No.": 2.0,
+    "Date": 1974,
+    "Championship": "Paramus, U.S.",
+    "Surface": "Indoor",
+    "Opponent": "Jürgen Fassbender",
+    "Score": "6–1, 6–3"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 3.0,
+    "Date": 1974,
+    "Championship": "Jackson, U.S.",
+    "Surface": "Carpet",
+    "Opponent": "Karl Meiler",
+    "Score": "7–6, 7–5"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": 3.0,
+    "Date": 1975,
+    "Championship": "Maui, U.S.",
+    "Surface": "Hard",
+    "Opponent": "Jimmy Connors",
+    "Score": "1–6, 0–6"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": 4.0,
+    "Date": 1975,
+    "Championship": "Hong Kong",
+    "Surface": "Hard",
+    "Opponent": "Tom Gorman",
+    "Score": "3–6, 1–6, 1–6"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 4.0,
+    "Date": 1977,
+    "Championship": "Little Rock, U.S.",
+    "Surface": "Carpet",
+    "Opponent": "Haroon Rahim",
+    "Score": "6–2, 6–4"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": 5.0,
+    "Date": 1977,
+    "Championship": "San Jose, U.S.",
+    "Surface": "Hard",
+    "Opponent": "Jiří Hřebec",
+    "Score": "6–3, 4–6, 5–7"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 5.0,
+    "Date": 1977,
+    "Championship": "Hampton, U.S.",
+    "Surface": "Carpet",
+    "Opponent": "Stan Smith",
+    "Score": "4–6, 6–3, 6–2, 1–6, 6–3"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 6.0,
+    "Date": 1977,
+    "Championship": "Stockholm, Sweden",
+    "Surface": "Hard (i)",
+    "Opponent": "Raymond Moore",
+    "Score": "6–2, 6–4"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": "@@@_-10.1278278289",
+    "Date": 1978,
+    "Championship": "St. Louis WCT, U.S.",
+    "Surface": "Carpet",
+    "Opponent": "Eddie Dibbs",
+    "Score": "7–6, 6–4"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": "@@@_98.5565565781",
+    "Date": "@@@_34300",
+    "Championship": "Surbiton, England",
+    "Surface": "Grass",
+    "Opponent": "Brian Gottfried",
+    "Score": "3–6, 3–6"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": 7.0,
+    "Date": 1981,
+    "Championship": "Los Angeles, U.S.",
+    "Surface": "Hard",
+    "Opponent": "John McEnroe",
+    "Score": "7–6, 3–6, 3–6"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": 8.0,
+    "Date": 1981,
+    "Championship": "Cologne, Germany",
+    "Surface": "Hard (i)",
+    "Opponent": "Ivan Lendl",
+    "Score": "3–6, 3–6"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": 9.0,
+    "Date": 1981,
+    "Championship": "Stockholm, Sweden",
+    "Surface": "Hard (i)",
+    "Opponent": "Gene Mayer",
+    "Score": "4–6, 2–6"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 8.0,
+    "Date": 1981,
+    "Championship": "Bologna, Italy",
+    "Surface": "Carpet",
+    "Opponent": "Ilie Năstase",
+    "Score": "7–5, 6–3"
+  },
+  {
+    "Outcome": "Runner-up",
+    "No.": 10.0,
+    "Date": 1982,
+    "Championship": "Stuttgart Outdoor, Germany",
+    "Surface": "Clay",
+    "Opponent": "Ramesh Krishnan",
+    "Score": "7–5, 3–6, 3–6, 6–7"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 9.0,
+    "Date": 1982,
+    "Championship": "Cleveland, U.S.",
+    "Surface": "Hard",
+    "Opponent": "Robert Van't Hof",
+    "Score": "7–5, 6–3"
+  },
+  {
+    "Outcome": "Winner",
+    "No.": 10.0,
+    "Date": 1983,
+    "Championship": "Gstaad, Switzerland",
+    "Surface": "Clay",
+    "Opponent": "Tomáš Šmíd",
+    "Score": "6–0, 6–3, 6–2"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "County": "Rocky View County",
+    "km": 0,
+    "Intersecting road": "Hwy 772 (Symons Valley Road), Range Road 22",
+    "Notes": "North to Madden\nSouth to Sage Hill & Evanston",
+    "Coordinates": "51°13′4″N 114°9′52″W﻿ / ﻿51.21778°N 114.16444°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": "@@@_186",
+    "Intersecting road": "Panorama Road (24 Street NW), Range Road 15",
+    "Notes": "South to Evanston",
+    "Coordinates": "51°12′45″N 114°7′5″W﻿ / ﻿51.21250°N 114.11806°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": 5,
+    "Intersecting road": "14 Street NW, Range Road 14",
+    "Notes": "South to Panorama Hills",
+    "Coordinates": "51°12′45″N 114°5′41″W﻿ / ﻿51.21250°N 114.09472°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": "@@@_-81",
+    "Intersecting road": "Centre Street N, Range Road 13",
+    "Notes": "Formerly Highway 782\nSouth to Coventry Hills",
+    "Coordinates": "51°12′45″N 114°4′17″W﻿ / ﻿51.21250°N 114.07139°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": 10,
+    "Intersecting road": "15 Street NE (Calgary), 8 Street (Airdrie), Range Road 11",
+    "Notes": "Balzac\nSouth to Stony Industrial",
+    "Coordinates": "51°12′45″N 114°1′29″W﻿ / ﻿51.21250°N 114.02472°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": 11,
+    "Intersecting road": "Hwy 2, Range Road 10, Fifth Meridian, 114° Longitude",
+    "Notes": "Grade separated\nNorth to Airdrie\nSouth to Deerfoot Trail",
+    "Coordinates": "51°12′45″N 114°0′5″W﻿ / ﻿51.21250°N 114.00139°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": "@@@_615",
+    "Intersecting road": "Range Road 293, 36 Street NE",
+    "Notes": "CrossIron Mills Shopping Centre\nSouth to Stony Industrial",
+    "Coordinates": "51°12′45″N 113°58′54″W﻿ / ﻿51.21250°N 113.98167°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": 18,
+    "Intersecting road": "Range Road 290, 84 Street NE",
+    "Notes": null,
+    "Coordinates": "51°12′45″N 113°54′43″W﻿ / ﻿51.21250°N 113.91194°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": "@@@_1003",
+    "Intersecting road": "Hwy 791, Range Road 280",
+    "Notes": "South to Delacour",
+    "Coordinates": "51°12′45″N 113°46′21″W﻿ / ﻿51.21250°N 113.77250°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": 32,
+    "Intersecting road": "@@@_None",
+    "Notes": "Kathyrn",
+    "Coordinates": "51°12′45″N 113°42′10″W﻿ / ﻿51.21250°N 113.70278°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": 34,
+    "Intersecting road": "Hwy 9, Range Road 272",
+    "Notes": "North to Irricana\nSouth to Langdon",
+    "Coordinates": "51°12′45″N 113°40′44″W﻿ / ﻿51.21250°N 113.67889°W"
+  },
+  {
+    "County": "Rocky View County",
+    "km": 36,
+    "Intersecting road": "1 Avenue, Range Road 271",
+    "Notes": "Keoma",
+    "Coordinates": "51°12′45″N 113°39′3″W﻿ / ﻿51.21250°N 113.65083°W"
+  }
+]

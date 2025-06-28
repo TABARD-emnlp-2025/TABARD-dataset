@@ -1,0 +1,100 @@
+[
+    {
+        "Season":1971,
+        "Series":"Australian Drivers' Championship",
+        "Position":"7th",
+        "Car":"McLaren M4A Cosworth",
+        "Team":"Pat Burke Racing"
+    },
+    {
+        "Season":1972,
+        "Series":"Tasman Series",
+        "Position":"@@@_1st",
+        "Car":"McLaren M10B Chevrolet",
+        "Team":"Pat Burke Racing"
+    },
+    {
+        "Season":1972,
+        "Series":"Australian Drivers' Championship",
+        "Position":"5th",
+        "Car":"McLaren M10B Chevrolet",
+        "Team":"Pat Burke Racing"
+    },
+    {
+        "Season":1973,
+        "Series":"Tasman Series",
+        "Position":"7th",
+        "Car":"Lola T300 Chevrolet",
+        "Team":"Team Target"
+    },
+    {
+        "Season":1974,
+        "Series":"Tasman Series",
+        "Position":"6th",
+        "Car":"Lola T332 Chevrolet",
+        "Team":"Pat Burke Racing"
+    },
+    {
+        "Season":1974,
+        "Series":"Australian Drivers' Championship",
+        "Position":"8th",
+        "Car":"Lola T332 Chevrolet",
+        "Team":"Pat Burke Racing"
+    },
+    {
+        "Season":1974,
+        "Series":"SCCA/USAC Formula 5000 Championship",
+        "Position":"7th",
+        "Car":"Lola T332 Chevrolet",
+        "Team":"Pat Burke Racing"
+    },
+    {
+        "Season":1975,
+        "Series":"Tasman Series",
+        "Position":"1st",
+        "Car":"Lola T332 Chevrolet",
+        "Team":"Pat Burke Racing"
+    },
+    {
+        "Season":1975,
+        "Series":"SCCA/USAC Formula 5000 Championship",
+        "Position":"7th",
+        "Car":"Talon MR1A Chevrolet",
+        "Team":"Jack McCormack Racing"
+    },
+    {
+        "Season":1976,
+        "Series":"SCCA/USAC Formula 5000 Championship",
+        "Position":"@@@_1st",
+        "Car":"Lola T332C Chevrolet Lola T430 Chevrolet",
+        "Team":"Bay Racing Racing Team VDS"
+    },
+    {
+        "Season":1977,
+        "Series":"Rothmans International Series",
+        "Position":"1st",
+        "Car":"Lola T430 Chevrolet",
+        "Team":"Racing Team VDS"
+    },
+    {
+        "Season":1978,
+        "Series":"Rothmans International Series",
+        "Position":"1st",
+        "Car":"Lola T332 Chevrolet",
+        "Team":"Racing Team VDS"
+    },
+    {
+        "Season":1978,
+        "Series":"Can-Am Series",
+        "Position":"@@@_10th",
+        "Car":"Lola T333CS Chevrolet",
+        "Team":"Racing Team VDS"
+    },
+    {
+        "Season":1979,
+        "Series":"Rothmans International Series",
+        "Position":"@@@_1st",
+        "Car":"Lola T333CS Chevrolet",
+        "Team":"Racing Team VDS"
+    }
+]

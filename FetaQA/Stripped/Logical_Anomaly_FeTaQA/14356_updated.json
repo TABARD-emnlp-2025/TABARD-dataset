@@ -1,0 +1,263 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Leicester City",
+        "Season":"1968–69",
+        "Division":"First Division",
+        "League":2,
+        "FA Cup":0,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Leicester City",
+        "Season":"1969–70",
+        "Division":"Second Division",
+        "League":8,
+        "FA Cup":0,
+        "Other":1,
+        "Total":9
+    },
+    {
+        "Club":"Leicester City",
+        "Season":"1970–71",
+        "Division":"Second Division",
+        "League":14,
+        "FA Cup":2,
+        "Other":0,
+        "Total":16
+    },
+    {
+        "Club":"Leicester City",
+        "Season":"1971–72",
+        "Division":"First Division",
+        "League":7,
+        "FA Cup":0,
+        "Other":0,
+        "Total":7
+    },
+    {
+        "Club":"Leicester City",
+        "Season":"Total",
+        "Division":"Total",
+        "League":31,
+        "FA Cup":2,
+        "Other":1,
+        "Total":34
+    },
+    {
+        "Club":"Portland Timbers (loan)",
+        "Season":1981,
+        "Division":"NASL",
+        "League":9,
+        "FA Cup":"–",
+        "Other":"–",
+        "Total":9
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1971–72",
+        "Division":"First Division",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1972–73",
+        "Division":"First Division",
+        "League":3,
+        "FA Cup":0,
+        "Other":1,
+        "Total":4
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1973–74",
+        "Division":"Second Division",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1974–75",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":1,
+        "Total":1
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1975–76",
+        "Division":"Second Division",
+        "League":10,
+        "FA Cup":1,
+        "Other":2,
+        "Total":13
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1976–77",
+        "Division":"First Division",
+        "League":6,
+        "FA Cup":0,
+        "Other":0,
+        "Total":6
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1977–78",
+        "Division":"First Division",
+        "League":5,
+        "FA Cup":0,
+        "Other":0,
+        "Total":5
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1978–79",
+        "Division":"First Division",
+        "League":18,
+        "FA Cup":5,
+        "Other":1,
+        "Total":24
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1979–80",
+        "Division":"First Division",
+        "League":6,
+        "FA Cup":0,
+        "Other":0,
+        "Total":6
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1980–81",
+        "Division":"First Division",
+        "League":10,
+        "FA Cup":0,
+        "Other":1,
+        "Total":11
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"Total",
+        "Division":"Total",
+        "League":72,
+        "FA Cup":6,
+        "Other":7,
+        "Total":85
+    },
+    {
+        "Club":"Crystal Palace",
+        "Season":"1982–83",
+        "Division":"Second Division",
+        "League":2,
+        "FA Cup":0,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Walsall",
+        "Season":"1983–84",
+        "Division":"Third Division",
+        "League":13,
+        "FA Cup":0,
+        "Other":2,
+        "Total":15
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1984–85",
+        "Division":"Fourth Division",
+        "League":17,
+        "FA Cup":2,
+        "Other":2,
+        "Total":21
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1984–85",
+        "Division":"Fourth Division",
+        "League":5,
+        "FA Cup":1,
+        "Other":0,
+        "Total":6
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":22,
+        "FA Cup":3,
+        "Other":2,
+        "Total":27
+    },
+    {
+        "Club":"Career Total",
+        "Season":"Career Total",
+        "Division":"Career Total",
+        "League":149,
+        "FA Cup":11,
+        "Other":12,
+        "Total":172
+    },
+    {
+        "Club":"Leicester City",
+        "Season":"1971–72",
+        "Division":"First Division",
+        "League":7,
+        "FA Cup":0,
+        "Other":0,
+        "Total":9
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1978–79",
+        "Division":"First Division",
+        "League":18,
+        "FA Cup":-5,
+        "Other":1,
+        "Total":24
+    },
+    {
+        "Club":"Crystal Palace",
+        "Season":"1982–83",
+        "Division":"Second Division",
+        "League":100,
+        "FA Cup":0,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Leicester City",
+        "Season":"1969–70",
+        "Division":"Second Division",
+        "League":8,
+        "FA Cup":0,
+        "Other":1,
+        "Total":2
+    },
+    {
+        "Club":"West Bromwich Albion",
+        "Season":"1976–77",
+        "Division":"First Division",
+        "League":-6,
+        "FA Cup":0,
+        "Other":0,
+        "Total":6
+    }
+]

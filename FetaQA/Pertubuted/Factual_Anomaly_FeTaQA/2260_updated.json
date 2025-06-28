@@ -1,0 +1,44 @@
+[
+    {
+        "Year":2003,
+        "Host":"András Stohl",
+        "Channel":"RTL Klub",
+        "Participants":16,
+        "Winner":"Tünde Molnár"
+    },
+    {
+        "Year":2004,
+        "Host":"András Stohl",
+        "Channel":"RTL Klub",
+        "Participants":16,
+        "Winner":"Dávid Hankó"
+    },
+    {
+        "Year":2017,
+        "Host":"Bence Istenes",
+        "Channel":"RTL Klub",
+        "Participants":"@@@_1",
+        "Winner":"Iliász Shweirif"
+    },
+    {
+        "Year":2018,
+        "Host":"Bence Istenes",
+        "Channel":"@@@_MTV",
+        "Participants":18,
+        "Winner":"Dávid Tömböly"
+    },
+    {
+        "Year":2019,
+        "Host":"Bence Istenes",
+        "Channel":"RTL Klub",
+        "Participants":18,
+        "Winner":"Usain Bolt"
+    },
+    {
+        "Year":2020,
+        "Host":"Bence Istenes",
+        "Channel":"RTL Klub",
+        "Participants":18,
+        "Winner":"Dávid Tömböly"
+    }
+]

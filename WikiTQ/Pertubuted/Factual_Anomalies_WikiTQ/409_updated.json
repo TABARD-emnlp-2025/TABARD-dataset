@@ -1,0 +1,98 @@
+[
+    {
+        "Date":"16\u201321 January",
+        "Race Name":"La Tropicale Amissa Bongo",
+        "Location":"Gabon",
+        "UCI Rating":2.2,
+        "Winner":"Fr\u00e9d\u00e9ric Guesdon (FRA)",
+        "Team":"Fran\u00e7aise des Jeux"
+    },
+    {
+        "Date":"8\u201314 February",
+        "Race Name":"Tour d'Egypte",
+        "Location":"Egypt",
+        "UCI Rating":2.2,
+        "Winner":"Waylon Woolcock (RSA)",
+        "Team":"South Africa (national team)"
+    },
+    {
+        "Date":"16 February",
+        "Race Name":"GP of Sharm el-Sheikh",
+        "Location":"Egypt",
+        "UCI Rating":1.2,
+        "Winner":"J\u00e1n \u0160ipeky (SVK)",
+        "Team":"Dukla Tren\u010d\u00edn-Merida"
+    },
+    {
+        "Date":"24 February\u20139 March",
+        "Race Name":"Tour du Cameroun",
+        "Location":"Cameroon",
+        "UCI Rating":2.2,
+        "Winner":"Flavien Chipault (FRA)",
+        "Team":"Leboulou"
+    },
+    {
+        "Date":"6\u201311 March",
+        "Race Name":"Giro del Capo",
+        "Location":"South Africa",
+        "UCI Rating":2.2,
+        "Winner":"Alexander Efimkin (RUS)",
+        "Team":"Barloworld"
+    },
+    {
+        "Date":"17\u201323 March",
+        "Race Name":"Tour of Libya",
+        "Location":"Libya",
+        "UCI Rating":2.2,
+        "Winner":"Ahmed Mohamed Ali (LBA)",
+        "Team":"Libya (national team)"
+    },
+    {
+        "Date":"8 April",
+        "Race Name":"Grand Prix de la ville de Tunis",
+        "Location":"Tunisia",
+        "UCI Rating":1.2,
+        "Winner":"Ahmed Mraihi (TUN)",
+        "Team":"@@@_Libya (national team)"
+    },
+    {
+        "Date":"28 April\u20135 May",
+        "Race Name":"Tour de la Pharmacie Centrale de Tunisie",
+        "Location":"Tunisia",
+        "UCI Rating":2.2,
+        "Winner":"Hassen Ben Nasser (TUN)",
+        "Team":"Pharmacie Centrale"
+    },
+    {
+        "Date":"14\u201320 May",
+        "Race Name":"Boucle du Coton",
+        "Location":"Burkina Faso",
+        "UCI Rating":2.2,
+        "Winner":"Sa\u00efdou Rouamba (BUR)",
+        "Team":"@@@_Egypt (national team)"
+    },
+    {
+        "Date":"8\u201317 June",
+        "Race Name":"Tour du Maroc",
+        "Location":"Morocco",
+        "UCI Rating":2.2,
+        "Winner":"Nicholas White (RSA)",
+        "Team":"@@@_Burkina Faso (national team)"
+    },
+    {
+        "Date":"30 August\u20138 September",
+        "Race Name":"Tour du S\u00e9n\u00e9gal",
+        "Location":"Senegal",
+        "UCI Rating":2.2,
+        "Winner":"Adil Jelloul (MAR)",
+        "Team":"FRMC-Maroc"
+    },
+    {
+        "Date":"16 September",
+        "Race Name":"Dome 2 Dome Cycling Spectacular",
+        "Location":"South Africa",
+        "UCI Rating":1.2,
+        "Winner":"Jaco Venter (RSA)",
+        "Team":"Team Neotel"
+    }
+]

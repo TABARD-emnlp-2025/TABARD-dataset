@@ -1,0 +1,209 @@
+[
+    {
+        "Year":1990,
+        "Competition":"World Group, 1st Round",
+        "Date":"2\u20134 Feb",
+        "Location":"Barcelona (ESP)",
+        "Opponent":"Spain",
+        "Score":"3\u20132",
+        "Result":"Win"
+    },
+    {
+        "Year":1990,
+        "Competition":"World Group, Quarterfinals",
+        "Date":"30 Mar \u2013 2 Apr",
+        "Location":"Vienna (AUT)",
+        "Opponent":"Italy",
+        "Score":"5\u20130",
+        "Result":"Win"
+    },
+    {
+        "Year":1990,
+        "Competition":"World Group, Semifinals",
+        "Date":"21\u201323 Sep",
+        "Location":"Vienna (AUT)",
+        "Opponent":"United States",
+        "Score":"2\u20133",
+        "Result":"Loss"
+    },
+    {
+        "Year":1991,
+        "Competition":"World Group, 1st Round",
+        "Date":"1\u20133 Feb",
+        "Location":"Prague (TCH)",
+        "Opponent":"Czechoslovakia",
+        "Score":"1\u20134",
+        "Result":"Loss"
+    },
+    {
+        "Year":1991,
+        "Competition":"World Group, Relegation Play-offs",
+        "Date":"20\u201322 Sep",
+        "Location":"Manchester (GBR)",
+        "Opponent":"Great Britain",
+        "Score":"1\u20133",
+        "Result":"Loss"
+    },
+    {
+        "Year":1992,
+        "Competition":"Euro\/African Zone Group I, 1st Round",
+        "Date":"BYE",
+        "Location":"BYE",
+        "Opponent":"BYE",
+        "Score":"BYE",
+        "Result":"BYE"
+    },
+    {
+        "Year":1992,
+        "Competition":"Euro\/African Zone Group I, Semifinals",
+        "Date":"1\u20133 May",
+        "Location":"Helsinki (FIN)",
+        "Opponent":"Finland",
+        "Score":"4\u20131",
+        "Result":"Win"
+    },
+    {
+        "Year":1992,
+        "Competition":"World Group, Relegation Play-offs",
+        "Date":"25\u201327 Sep",
+        "Location":"Vancouver (CAN)",
+        "Opponent":"Canada",
+        "Score":"3\u20131",
+        "Result":"Win"
+    },
+    {
+        "Year":1993,
+        "Competition":"World Group, 1st Round",
+        "Date":"26\u201328 Mar",
+        "Location":"Vienna (AUT)",
+        "Opponent":"France",
+        "Score":"1\u20134",
+        "Result":"Loss"
+    },
+    {
+        "Year":1993,
+        "Competition":"World Group, Relegation Play-offs",
+        "Date":"24\u201326 Sep",
+        "Location":"Christchurch (NZL)",
+        "Opponent":"New Zealand",
+        "Score":"3\u20132",
+        "Result":"Win"
+    },
+    {
+        "Year":1994,
+        "Competition":"World Group, 1st Round",
+        "Date":"26\u201328 Mar",
+        "Location":"Graz (AUT)",
+        "Opponent":"Germany",
+        "Score":"2\u20133",
+        "Result":"Loss"
+    },
+    {
+        "Year":1994,
+        "Competition":"World Group, Relegation Play-offs",
+        "Date":"23\u201325 Sep",
+        "Location":"Montevideo (URU)",
+        "Opponent":"Uruguay",
+        "Score":"3\u20132",
+        "Result":"Win"
+    },
+    {
+        "Year":1995,
+        "Competition":"World Group, 1st Round",
+        "Date":"3\u20135 Feb",
+        "Location":"Vienna (AUT)",
+        "Opponent":"Spain",
+        "Score":"4\u20131",
+        "Result":"Win"
+    },
+    {
+        "Year":1995,
+        "Competition":"World Group, Quarterfinals",
+        "Date":"31 Mar \u2013 2 Apr",
+        "Location":"V\u00e4xj\u00f6 (SWE)",
+        "Opponent":"Sweden",
+        "Score":"0\u20135",
+        "Result":"Loss"
+    },
+    {
+        "Year":1996,
+        "Competition":"World Group, 1st Round",
+        "Date":"9\u201312 Feb",
+        "Location":"Johannesburg (RSA)",
+        "Opponent":"South Africa",
+        "Score":"2\u20133",
+        "Result":"Loss"
+    },
+    {
+        "Year":1996,
+        "Competition":"World Group, Relegation Play-offs",
+        "Date":"20\u201322 Sep",
+        "Location":"S\u00e3o Paulo (BRA)",
+        "Opponent":"Brazil",
+        "Score":"1\u20134",
+        "Result":"Loss"
+    },
+    {
+        "Year":1997,
+        "Competition":"Euro\/African Zone Group I, 1st Round",
+        "Date":"BYE",
+        "Location":"BYE",
+        "Opponent":"BYE",
+        "Score":"BYE",
+        "Result":"BYE"
+    },
+    {
+        "Year":1997,
+        "Competition":"Euro\/African Zone Group I, Semifinals",
+        "Date":"4\u20136 Apr",
+        "Location":"Graz (AUT)",
+        "Opponent":"Croatia",
+        "Score":"3\u20132",
+        "Result":"Win"
+    },
+    {
+        "Year":1997,
+        "Competition":"World Group, Relegation Play-offs",
+        "Date":"19\u201321 Sep",
+        "Location":"Harare (ZIM)",
+        "Opponent":"Zimbabwe",
+        "Score":"2\u20133",
+        "Result":"Loss"
+    },
+    {
+        "Year":1998,
+        "Competition":"Euro\/African Zone Group I, Quarterfinals",
+        "Date":"3\u20135 Apr",
+        "Location":"Ramat HaSharon (ISR)",
+        "Opponent":"Israel",
+        "Score":"1\u20134",
+        "Result":"Loss"
+    },
+    {
+        "Year":1998,
+        "Competition":"Euro\/African Zone Group I, Relegation Play-offs",
+        "Date":"25\u201327 Sep",
+        "Location":"P\u00f6rtschach (AUT)",
+        "Opponent":"Denmark",
+        "Score":"5\u20130",
+        "Result":"Win"
+    },
+    {
+        "Year":1999,
+        "Competition":"Euro\/African Zone Group I, Quarterfinals",
+        "Date":"2\u20134 Apr",
+        "Location":"Wels (AUT)",
+        "Opponent":"Portugal",
+        "Score":"4\u20131",
+        "Result":"Win"
+    },
+    {
+        "Year":1999,
+        "Competition":"World Group, Relegation Play-offs",
+        "Date":"24\u201326 Sep",
+        "Location":"P\u00f6rtschach (AUT)",
+        "Opponent":"Sweden",
+        "Score":"3\u20132",
+        "Result":"Win"
+    }
+]

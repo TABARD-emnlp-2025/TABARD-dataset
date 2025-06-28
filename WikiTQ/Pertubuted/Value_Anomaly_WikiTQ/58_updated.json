@@ -1,0 +1,82 @@
+[
+  {
+    "Year": 1957.0,
+    "Position": "Did not enter",
+    "Year.1": 1978.0,
+    "Position.1": "Did not qualify",
+    "Year.2": 1998.0,
+    "Position.2": "Round 1"
+  },
+  {
+    "Year": 1959.0,
+    "Position": "Did not enter",
+    "Year.1": 1980.0,
+    "Position.1": "Did not qualify",
+    "Year.2": "@@@_33691.32054317",
+    "Position.2": "Round 1"
+  },
+  {
+    "Year": 1962.0,
+    "Position": "Did not enter",
+    "Year.1": 1982.0,
+    "Position.1": "Did not qualify",
+    "Year.2": "@@@_-5527.1467270189",
+    "Position.2": "Round 1"
+  },
+  {
+    "Year": "@@@_None",
+    "Position": "Did not enter",
+    "Year.1": "@@@_None",
+    "Position.1": "Round 1",
+    "Year.2": 2004.0,
+    "Position.2": "Did not qualify"
+  },
+  {
+    "Year": 1965.0,
+    "Position": "Did not enter",
+    "Year.1": 1986.0,
+    "Position.1": "Did not qualify",
+    "Year.2": 2006.0,
+    "Position.2": "Round 1"
+  },
+  {
+    "Year": 1968.0,
+    "Position": "Did not qualify",
+    "Year.1": 1988.0,
+    "Position.1": "Did not qualify",
+    "Year.2": 2008.0,
+    "Position.2": "Did not qualify"
+  },
+  {
+    "Year": 1970.0,
+    "Position": "Did not qualify",
+    "Year.1": "@@@_-1987.3333333333",
+    "Position.1": "Withdrew",
+    "Year.2": 2010.0,
+    "Position.2": "Withdrew due to rebel attack"
+  },
+  {
+    "Year": 1972.0,
+    "Position": "Round 1",
+    "Year.1": 1992.0,
+    "Position.1": "Did not qualify",
+    "Year.2": 2012.0,
+    "Position.2": "Did not qualify"
+  },
+  {
+    "Year": 1974.0,
+    "Position": "Withdrew",
+    "Year.1": 1994.0,
+    "Position.1": "Withdrew during qualifying",
+    "Year.2": 2013.0,
+    "Position.2": "Quarter-Final"
+  },
+  {
+    "Year": 1976.0,
+    "Position": "Did not qualify",
+    "Year.1": 1996.0,
+    "Position.1": "Did not qualify",
+    "Year.2": null,
+    "Position.2": null
+  }
+]

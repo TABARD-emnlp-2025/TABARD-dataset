@@ -1,0 +1,66 @@
+[
+    {
+        "Year":"Representing Germany",
+        "Competition":"Representing Germany",
+        "Venue":"Representing Germany",
+        "Position":"Representing Germany",
+        "Event":"Representing Germany",
+        "Notes":"Representing Germany"
+    },
+    {
+        "Year":1992,
+        "Competition":"World Junior Championships",
+        "Venue":"Seoul, South Korea",
+        "Position":"10th (semis)",
+        "Event":"100 m",
+        "Notes":11.83
+    },
+    {
+        "Year":1993,
+        "Competition":"European Junior Championships",
+        "Venue":"San Sebastián, Spain",
+        "Position":"7th",
+        "Event":"100 m",
+        "Notes":"@@@_9.56"
+    },
+    {
+        "Year":1993,
+        "Competition":"European Junior Championships",
+        "Venue":"San Sebastián, Spain",
+        "Position":"3rd",
+        "Event":"4×100 m relay",
+        "Notes":44.6
+    },
+    {
+        "Year":1994,
+        "Competition":"World Junior Championships",
+        "Venue":"Lisbon, Portugal",
+        "Position":"12th (semis)",
+        "Event":"100 m",
+        "Notes":"@@@_11.66 (wind: -5.0 m/s)"
+    },
+    {
+        "Year":1994,
+        "Competition":"World Junior Championships",
+        "Venue":"Lisbon, Portugal",
+        "Position":"2nd",
+        "Event":"4×100 m relay",
+        "Notes":"@@@_144.78"
+    },
+    {
+        "Year":1995,
+        "Competition":"World Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"7th (q-finals)",
+        "Event":"100 m",
+        "Notes":11.54
+    },
+    {
+        "Year":1995,
+        "Competition":"World Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"3rd",
+        "Event":"4×100 m relay",
+        "Notes":"@@@_3.01"
+    }
+]

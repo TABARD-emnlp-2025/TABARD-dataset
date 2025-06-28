@@ -1,0 +1,102 @@
+[
+    {
+        "Outcome":"Runner-up",
+        "No.":1.0,
+        "Date":"16 May 2010",
+        "Tournament":"Kurume, Japan",
+        "Surface":"Clay",
+        "Partner":"Karolína Plíšková",
+        "Opponents":"Sun Shengnan\n Xu Yifan",
+        "Score":"0–6, 3–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Date":"13 February 2011",
+        "Tournament":"Rancho Mirage, United States",
+        "Surface":"Hard",
+        "Partner":"Karolína Plíšková",
+        "Opponents":"Nadejda Guskova\n Sandra Zaniewska",
+        "Score":"6–7(6–8), 6–1, 6–4"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Date":"7 August 2011",
+        "Tournament":"Vancouver, Canada",
+        "Surface":"Hard",
+        "Partner":"Karolína Plíšková",
+        "Opponents":"Jamie Hampton\n N. Lertcheewakarn",
+        "Score":"5–7, 6–2, 6–4"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":2.0,
+        "Date":"6 November 2011",
+        "Tournament":"Taipei 5, Taiwan",
+        "Surface":"Hard",
+        "Partner":"Karolína Plíšková",
+        "Opponents":"Chan Yung-jan\n Zheng Jie",
+        "Score":"6–7(5–7), 7–5, 3–6"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":3.0,
+        "Date":"20 November 2023",
+        "Tournament":"Bratislava, Slovakia",
+        "Surface":"Hard",
+        "Partner":"Karolína Plíšková",
+        "Opponents":"Naomi Broady\n Kristina Mladenovic",
+        "Score":"7–5, 4–6, [2–10]"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Date":"23 January 2012",
+        "Tournament":"Andrézieux-Bouthéon, France",
+        "Surface":"Hard (i)",
+        "Partner":"Karolína Plíšková",
+        "Opponents":"Julie Coin\n Eva Hrdinová",
+        "Score":"6–4, 4–6, [10–5]"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":4.0,
+        "Date":"30 January 2012",
+        "Tournament":"Grenoble, France",
+        "Surface":"Hard (i)",
+        "Partner":"Karolína Plíšková",
+        "Opponents":"Valentyna Ivakhnenko\n Maryna Zanevska",
+        "Score":"6–1, 6–3"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":4.0,
+        "Date":"17 September 2012",
+        "Tournament":"Shrewsbury, United Kingdom",
+        "Surface":"Hard (i)",
+        "Partner":"Karolína Plíšková",
+        "Opponents":"Vesna Dolonc\n Stefanie Vögele",
+        "Score":"1–6, 7–6(7–3), [13–15]"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":5.0,
+        "Date":"12 November 2012",
+        "Tournament":"Zawada, Poland",
+        "Surface":"Carpet (i)",
+        "Partner":"Karolína Plíšková",
+        "Opponents":"Kristina Barrois\n Sandra Klemenschits",
+        "Score":"6–3, 6–1"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":6.0,
+        "Date":"28 October 2013",
+        "Tournament":"Barnstaple, United Kingdom",
+        "Surface":"Hard (i)",
+        "Partner":"Naomi Broady",
+        "Opponents":"Raluca Olaru\n Tamira Paszek",
+        "Score":"6–3, 3–6, [10–5]"
+    }
+]

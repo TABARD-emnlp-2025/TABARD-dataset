@@ -1,0 +1,764 @@
+[
+  {
+    "Name of place": "Abbott",
+    "Number of counties": 1.0,
+    "Principal county": "Scott County",
+    "Lower zip code": 72944.0
+  },
+  {
+    "Name of place": "Abco",
+    "Number of counties": 1.0,
+    "Principal county": "Hot Spring County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Aberdeen",
+    "Number of counties": 1.0,
+    "Principal county": "Monroe County",
+    "Lower zip code": 72134.0
+  },
+  {
+    "Name of place": "Acorn",
+    "Number of counties": 1.0,
+    "Principal county": "Polk County",
+    "Lower zip code": 71953.0
+  },
+  {
+    "Name of place": "Ada",
+    "Number of counties": 1.0,
+    "Principal county": "Conway County",
+    "Lower zip code": 72001.0
+  },
+  {
+    "Name of place": "Adams Field",
+    "Number of counties": 1.0,
+    "Principal county": "Pulaski County",
+    "Lower zip code": 72202.0
+  },
+  {
+    "Name of place": "Adona",
+    "Number of counties": 1.0,
+    "Principal county": "Perry County",
+    "Lower zip code": 72001.0
+  },
+  {
+    "Name of place": "Advance",
+    "Number of counties": 1.0,
+    "Principal county": "Baxter County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Aetna",
+    "Number of counties": 1.0,
+    "Principal county": "Craighead County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Aggie",
+    "Number of counties": 1.0,
+    "Principal county": "Craighead County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Agnos",
+    "Number of counties": 1.0,
+    "Principal county": "Fulton County",
+    "Lower zip code": 72513.0
+  },
+  {
+    "Name of place": "Agricultural School",
+    "Number of counties": 1.0,
+    "Principal county": "Columbia County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Air Base",
+    "Number of counties": 1.0,
+    "Principal county": "Pulaski County",
+    "Lower zip code": 72076.0
+  },
+  {
+    "Name of place": "Airport Village",
+    "Number of counties": 1.0,
+    "Principal county": "Jackson County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Alabam",
+    "Number of counties": 1.0,
+    "Principal county": "Madison County",
+    "Lower zip code": 72740.0
+  },
+  {
+    "Name of place": "Alamo",
+    "Number of counties": 1.0,
+    "Principal county": "Montgomery County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Albert",
+    "Number of counties": 1.0,
+    "Principal county": "Montgomery County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Albert Pike",
+    "Number of counties": 1.0,
+    "Principal county": "Garland County",
+    "Lower zip code": 71913.0
+  },
+  {
+    "Name of place": "Albion",
+    "Number of counties": 1.0,
+    "Principal county": "White County",
+    "Lower zip code": 72143.0
+  },
+  {
+    "Name of place": "Alco",
+    "Number of counties": 1.0,
+    "Principal county": "Stone County",
+    "Lower zip code": 72610.0
+  },
+  {
+    "Name of place": "Alexander",
+    "Number of counties": 1.0,
+    "Principal county": "Greene County",
+    "Lower zip code": 72450.0
+  },
+  {
+    "Name of place": "Alexander",
+    "Number of counties": 2.0,
+    "Principal county": "Pulaski County",
+    "Lower zip code": 72002.0
+  },
+  {
+    "Name of place": "Alexander",
+    "Number of counties": 2.0,
+    "Principal county": "Saline County",
+    "Lower zip code": 72002.0
+  },
+  {
+    "Name of place": "Alf",
+    "Number of counties": 1.0,
+    "Principal county": "Montgomery County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Alfrey",
+    "Number of counties": 1.0,
+    "Principal county": "Monroe County",
+    "Lower zip code": 72021.0
+  },
+  {
+    "Name of place": "Algoa",
+    "Number of counties": 1.0,
+    "Principal county": "Jackson County",
+    "Lower zip code": 72112.0
+  },
+  {
+    "Name of place": "Alicia",
+    "Number of counties": 1.0,
+    "Principal county": "Lawrence County",
+    "Lower zip code": 72410.0
+  },
+  {
+    "Name of place": "Alix",
+    "Number of counties": 1.0,
+    "Principal county": "Franklin County",
+    "Lower zip code": 72820.0
+  },
+  {
+    "Name of place": "Allbrook",
+    "Number of counties": 1.0,
+    "Principal county": "Howard County",
+    "Lower zip code": 71851.0
+  },
+  {
+    "Name of place": "Alleene",
+    "Number of counties": 1.0,
+    "Principal county": "Little River County",
+    "Lower zip code": 71820.0
+  },
+  {
+    "Name of place": "Allendale",
+    "Number of counties": 1.0,
+    "Principal county": "Monroe County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Allene",
+    "Number of counties": 1.0,
+    "Principal county": "Little River County",
+    "Lower zip code": "@@@_-72235.5842696629"
+  },
+  {
+    "Name of place": "Allfriend",
+    "Number of counties": 1.0,
+    "Principal county": "Newton County",
+    "Lower zip code": 72664.0
+  },
+  {
+    "Name of place": "Allis",
+    "Number of counties": 1.0,
+    "Principal county": "Drew County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Allison",
+    "Number of counties": 1.0,
+    "Principal county": "Stone County",
+    "Lower zip code": 72511.0
+  },
+  {
+    "Name of place": "Allport",
+    "Number of counties": 1.0,
+    "Principal county": "Lonoke County",
+    "Lower zip code": 72046.0
+  },
+  {
+    "Name of place": "Alma",
+    "Number of counties": 1.0,
+    "Principal county": "Crawford County",
+    "Lower zip code": 72921.0
+  },
+  {
+    "Name of place": "Almond",
+    "Number of counties": 1.0,
+    "Principal county": "Cleburne County",
+    "Lower zip code": 72550.0
+  },
+  {
+    "Name of place": "Almyra",
+    "Number of counties": 1.0,
+    "Principal county": "Arkansas County",
+    "Lower zip code": 72003.0
+  },
+  {
+    "Name of place": "Alpena",
+    "Number of counties": 2.0,
+    "Principal county": "Boone County",
+    "Lower zip code": 72611.0
+  },
+  {
+    "Name of place": "Alpena",
+    "Number of counties": 2.0,
+    "Principal county": "Carroll County",
+    "Lower zip code": 72611.0
+  },
+  {
+    "Name of place": "Alpha",
+    "Number of counties": 1.0,
+    "Principal county": "Yell County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Alpine",
+    "Number of counties": 1.0,
+    "Principal county": "Clark County",
+    "Lower zip code": 71920.0
+  },
+  {
+    "Name of place": "Alread",
+    "Number of counties": 1.0,
+    "Principal county": "Van Buren County",
+    "Lower zip code": 72031.0
+  },
+  {
+    "Name of place": "Altheimer",
+    "Number of counties": 1.0,
+    "Principal county": "Jefferson County",
+    "Lower zip code": 72004.0
+  },
+  {
+    "Name of place": "Alto",
+    "Number of counties": 1.0,
+    "Principal county": "Poinsett County",
+    "Lower zip code": 72354.0
+  },
+  {
+    "Name of place": "Altus",
+    "Number of counties": 1.0,
+    "Principal county": "Franklin County",
+    "Lower zip code": 72821.0
+  },
+  {
+    "Name of place": "Aly",
+    "Number of counties": 1.0,
+    "Principal county": "Yell County",
+    "Lower zip code": 72857.0
+  },
+  {
+    "Name of place": "Amagon",
+    "Number of counties": 1.0,
+    "Principal county": "Jackson County",
+    "Lower zip code": 72005.0
+  },
+  {
+    "Name of place": "Amanca",
+    "Number of counties": 1.0,
+    "Principal county": "Crittenden County",
+    "Lower zip code": 72376.0
+  },
+  {
+    "Name of place": "Amboy",
+    "Number of counties": "@@@_None",
+    "Principal county": "Pulaski County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Ames",
+    "Number of counties": 1.0,
+    "Principal county": "Nevada County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Amity",
+    "Number of counties": 1.0,
+    "Principal county": "Clark County",
+    "Lower zip code": 71920.0
+  },
+  {
+    "Name of place": "Amy",
+    "Number of counties": 1.0,
+    "Principal county": "Ouachita County",
+    "Lower zip code": 71701.0
+  },
+  {
+    "Name of place": "Anderson",
+    "Number of counties": 1.0,
+    "Principal county": "Scott County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Anderson Tully",
+    "Number of counties": 1.0,
+    "Principal county": "Poinsett County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Andrews",
+    "Number of counties": 1.0,
+    "Principal county": "White County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Annieville",
+    "Number of counties": 1.0,
+    "Principal county": "Lawrence County",
+    "Lower zip code": 72434.0
+  },
+  {
+    "Name of place": "Anthony",
+    "Number of counties": 1.0,
+    "Principal county": "Hempstead County",
+    "Lower zip code": 71801.0
+  },
+  {
+    "Name of place": "Anthony Subdivision",
+    "Number of counties": 1.0,
+    "Principal county": "Crittenden County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Anthonyville",
+    "Number of counties": 1.0,
+    "Principal county": "Crittenden County",
+    "Lower zip code": 72301.0
+  },
+  {
+    "Name of place": "Antioch",
+    "Number of counties": 1.0,
+    "Principal county": "Craighead County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Antioch",
+    "Number of counties": 1.0,
+    "Principal county": "Hot Spring County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Antioch",
+    "Number of counties": 1.0,
+    "Principal county": "Perry County",
+    "Lower zip code": 72070.0
+  },
+  {
+    "Name of place": "Antioch",
+    "Number of counties": 1.0,
+    "Principal county": "White County",
+    "Lower zip code": 72012.0
+  },
+  {
+    "Name of place": "Antoine",
+    "Number of counties": 1.0,
+    "Principal county": "Pike County",
+    "Lower zip code": 71922.0
+  },
+  {
+    "Name of place": "Apalco",
+    "Number of counties": 1.0,
+    "Principal county": "Lafayette County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Apex",
+    "Number of counties": 1.0,
+    "Principal county": "Sebastian County",
+    "Lower zip code": 72938.0
+  },
+  {
+    "Name of place": "Aplin",
+    "Number of counties": 1.0,
+    "Principal county": "Perry County",
+    "Lower zip code": 72126.0
+  },
+  {
+    "Name of place": "Appleby",
+    "Number of counties": 1.0,
+    "Principal county": "Washington County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Applegate Ford",
+    "Number of counties": 1.0,
+    "Principal county": "Carroll County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Appleton",
+    "Number of counties": 1.0,
+    "Principal county": "Pope County",
+    "Lower zip code": 72822.0
+  },
+  {
+    "Name of place": "Apt",
+    "Number of counties": 1.0,
+    "Principal county": "Craighead County",
+    "Lower zip code": 72403.0
+  },
+  {
+    "Name of place": "Arbaugh",
+    "Number of counties": 1.0,
+    "Principal county": "Newton County",
+    "Lower zip code": 72852.0
+  },
+  {
+    "Name of place": "Arbor Grove",
+    "Number of counties": 1.0,
+    "Principal county": "Lawrence County",
+    "Lower zip code": 72433.0
+  },
+  {
+    "Name of place": "Arcadia",
+    "Number of counties": 1.0,
+    "Principal county": "Hempstead County",
+    "Lower zip code": 71857.0
+  },
+  {
+    "Name of place": "Ard",
+    "Number of counties": 1.0,
+    "Principal county": "Yell County",
+    "Lower zip code": 72834.0
+  },
+  {
+    "Name of place": "Arden",
+    "Number of counties": 1.0,
+    "Principal county": "Little River County",
+    "Lower zip code": 71822.0
+  },
+  {
+    "Name of place": "Arkadelphia",
+    "Number of counties": 1.0,
+    "Principal county": "Clark County",
+    "Lower zip code": 71923.0
+  },
+  {
+    "Name of place": "Arkalite",
+    "Number of counties": 1.0,
+    "Principal county": "Lonoke County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Arkana",
+    "Number of counties": 1.0,
+    "Principal county": "Baxter County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Arkana",
+    "Number of counties": 1.0,
+    "Principal county": "Lafayette County",
+    "Lower zip code": 71826.0
+  },
+  {
+    "Name of place": "Arkansas A and M College",
+    "Number of counties": 1.0,
+    "Principal county": "Drew County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Arkansas City",
+    "Number of counties": 1.0,
+    "Principal county": "Desha County",
+    "Lower zip code": 71630.0
+  },
+  {
+    "Name of place": "Arkansas Fuel Oil Company Village",
+    "Number of counties": 1.0,
+    "Principal county": "Columbia County",
+    "Lower zip code": 71753.0
+  },
+  {
+    "Name of place": "Arkansas Polytechnic College",
+    "Number of counties": 1.0,
+    "Principal county": "Pope County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Arkansas Post National Memorial",
+    "Number of counties": 1.0,
+    "Principal county": "Arkansas County",
+    "Lower zip code": 72055.0
+  },
+  {
+    "Name of place": "Arkansas State Teachers College",
+    "Number of counties": 1.0,
+    "Principal county": "Faulkner County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Arkawana",
+    "Number of counties": 1.0,
+    "Principal county": "Baxter County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Arkinda",
+    "Number of counties": 1.0,
+    "Principal county": "Little River County",
+    "Lower zip code": 71836.0
+  },
+  {
+    "Name of place": "Arkola",
+    "Number of counties": 1.0,
+    "Principal county": "Sebastian County",
+    "Lower zip code": 72945.0
+  },
+  {
+    "Name of place": "Arlberg",
+    "Number of counties": 1.0,
+    "Principal county": "Stone County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Armorel",
+    "Number of counties": 1.0,
+    "Principal county": "Mississippi County",
+    "Lower zip code": 72310.0
+  },
+  {
+    "Name of place": "Armstrong",
+    "Number of counties": 1.0,
+    "Principal county": "Sharp County",
+    "Lower zip code": 72482.0
+  },
+  {
+    "Name of place": "Armstrong Springs",
+    "Number of counties": 1.0,
+    "Principal county": "White County",
+    "Lower zip code": 72148.0
+  },
+  {
+    "Name of place": "Arnett",
+    "Number of counties": 1.0,
+    "Principal county": "Washington County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Artesian",
+    "Number of counties": 1.0,
+    "Principal county": "Calhoun County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Artex",
+    "Number of counties": 1.0,
+    "Principal county": "Miller County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Arthur",
+    "Number of counties": 1.0,
+    "Principal county": "Conway County",
+    "Lower zip code": 72156.0
+  },
+  {
+    "Name of place": "Artist Point",
+    "Number of counties": 1.0,
+    "Principal county": "Crawford County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Ashdown",
+    "Number of counties": 1.0,
+    "Principal county": "Little River County",
+    "Lower zip code": 71822.0
+  },
+  {
+    "Name of place": "Asher",
+    "Number of counties": 1.0,
+    "Principal county": "Madison County",
+    "Lower zip code": 72727.0
+  },
+  {
+    "Name of place": "Asher",
+    "Number of counties": 1.0,
+    "Principal county": "Pulaski County",
+    "Lower zip code": 72204.0
+  },
+  {
+    "Name of place": "Ash Flat",
+    "Number of counties": 2.0,
+    "Principal county": "Sharp County",
+    "Lower zip code": 72513.0
+  },
+  {
+    "Name of place": "Ash Flat",
+    "Number of counties": 2.0,
+    "Principal county": "Fulton County",
+    "Lower zip code": 72513.0
+  },
+  {
+    "Name of place": "Ashton",
+    "Number of counties": 1.0,
+    "Principal county": "Chicot County",
+    "Lower zip code": 71653.0
+  },
+  {
+    "Name of place": "Athelstan",
+    "Number of counties": 1.0,
+    "Principal county": "Mississippi County",
+    "Lower zip code": 72370.0
+  },
+  {
+    "Name of place": "Athens",
+    "Number of counties": 1.0,
+    "Principal county": "Howard County",
+    "Lower zip code": 71971.0
+  },
+  {
+    "Name of place": "Atkins",
+    "Number of counties": 1.0,
+    "Principal county": "Pope County",
+    "Lower zip code": 72823.0
+  },
+  {
+    "Name of place": "Atlanta",
+    "Number of counties": 1.0,
+    "Principal county": "Columbia County",
+    "Lower zip code": 71740.0
+  },
+  {
+    "Name of place": "Attica",
+    "Number of counties": 1.0,
+    "Principal county": "Randolph County",
+    "Lower zip code": 72455.0
+  },
+  {
+    "Name of place": "Atwood",
+    "Number of counties": 1.0,
+    "Principal county": "Howard County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Aubrey",
+    "Number of counties": 1.0,
+    "Principal county": "@@@_None",
+    "Lower zip code": 72311.0
+  },
+  {
+    "Name of place": "Augsburg",
+    "Number of counties": 1.0,
+    "Principal county": "Pope County",
+    "Lower zip code": 72874.0
+  },
+  {
+    "Name of place": "Augusta",
+    "Number of counties": 1.0,
+    "Principal county": "Woodruff County",
+    "Lower zip code": 72006.0
+  },
+  {
+    "Name of place": "Aurelle",
+    "Number of counties": 1.0,
+    "Principal county": "Union County",
+    "Lower zip code": 71765.0
+  },
+  {
+    "Name of place": "Aurora",
+    "Number of counties": 1.0,
+    "Principal county": "Madison County",
+    "Lower zip code": 72740.0
+  },
+  {
+    "Name of place": "Austin",
+    "Number of counties": 1.0,
+    "Principal county": "Conway County",
+    "Lower zip code": 72027.0
+  },
+  {
+    "Name of place": "Austin",
+    "Number of counties": 1.0,
+    "Principal county": "Lonoke County",
+    "Lower zip code": 72007.0
+  },
+  {
+    "Name of place": "Austin Station",
+    "Number of counties": 1.0,
+    "Principal county": "Lonoke County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Auvergne",
+    "Number of counties": 1.0,
+    "Principal county": "Jackson County",
+    "Lower zip code": 72112.0
+  },
+  {
+    "Name of place": "Avant",
+    "Number of counties": 1.0,
+    "Principal county": "Garland County",
+    "Lower zip code": null
+  },
+  {
+    "Name of place": "Avery",
+    "Number of counties": 1.0,
+    "Principal county": "Lincoln County",
+    "Lower zip code": 71639.0
+  },
+  {
+    "Name of place": "Avilla",
+    "Number of counties": 1.0,
+    "Principal county": "Saline County",
+    "Lower zip code": 72002.0
+  },
+  {
+    "Name of place": "Avoca",
+    "Number of counties": "@@@_None",
+    "Principal county": "Benton County",
+    "Lower zip code": 72711.0
+  },
+  {
+    "Name of place": "Avon",
+    "Number of counties": "@@@_-1.048",
+    "Principal county": "Sevier County",
+    "Lower zip code": 71832.0
+  },
+  {
+    "Name of place": "Azor",
+    "Number of counties": 1.0,
+    "Principal county": "Nevada County",
+    "Lower zip code": 71835.0
+  }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "Continental":"Goals",
+        "National":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Be\u015fikta\u015f J.K.",
+        "Season":"2014\u201315",
+        "League":0,
+        "Continental":"\u2013",
+        "National":0,
+        "Total":0
+    },
+    {
+        "Club":"Be\u015fikta\u015f J.K.",
+        "Season":"2015\u201316",
+        "League":0,
+        "Continental":"\u2013",
+        "National":0,
+        "Total":0
+    },
+    {
+        "Club":"Be\u015fikta\u015f J.K.",
+        "Season":"2016\u201317",
+        "League":0,
+        "Continental":"\u2013",
+        "National":0,
+        "Total":0
+    },
+    {
+        "Club":"Be\u015fikta\u015f J.K.",
+        "Season":"2017\u201318",
+        "League":0,
+        "Continental":"\u2013",
+        "National":0,
+        "Total":0
+    },
+    {
+        "Club":"Be\u015fikta\u015f J.K.",
+        "Season":"2018\u201319",
+        "League":0,
+        "Continental":"\u2013",
+        "National":0,
+        "Total":0
+    },
+    {
+        "Club":"Be\u015fikta\u015f J.K.",
+        "Season":"Total",
+        "League":0,
+        "Continental":"\u2013",
+        "National":0,
+        "Total":0
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "League":0,
+        "Continental":0,
+        "National":0,
+        "Total":"@@@_5"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "Year":1988,
+        "Wins":38.0,
+        "Runs":508,
+        "Strike Rate":7,
+        "Total Earnings":"\u00a3160,598"
+    },
+    {
+        "Year":1989,
+        "Wins":70.0,
+        "Runs":581,
+        "Strike Rate":12,
+        "Total Earnings":"\u00a3281,705"
+    },
+    {
+        "Year":32480,
+        "Wins":83.0,
+        "Runs":612,
+        "Strike Rate":14,
+        "Total Earnings":"\u00a3387,295"
+    },
+    {
+        "Year":1991,
+        "Wins":66.0,
+        "Runs":576,
+        "Strike Rate":11,
+        "Total Earnings":"\u00a3344,763"
+    },
+    {
+        "Year":1992,
+        "Wins":91.0,
+        "Runs":569,
+        "Strike Rate":16,
+        "Total Earnings":"\u00a3388,874"
+    },
+    {
+        "Year":1993,
+        "Wins":144.0,
+        "Runs":829,
+        "Strike Rate":17,
+        "Total Earnings":"\u00a3836,339"
+    },
+    {
+        "Year":1994,
+        "Wins":154.0,
+        "Runs":946,
+        "Strike Rate":16,
+        "Total Earnings":"\u00a31,104,241"
+    },
+    {
+        "Year":1995,
+        "Wins":148.0,
+        "Runs":913,
+        "Strike Rate":16,
+        "Total Earnings":"\u00a31,207,863"
+    },
+    {
+        "Year":1996,
+        "Wins":1999.0,
+        "Runs":867,
+        "Strike Rate":13,
+        "Total Earnings":"\u00a31,106,077"
+    },
+    {
+        "Year":1997,
+        "Wins":128.0,
+        "Runs":11684,
+        "Strike Rate":15,
+        "Total Earnings":"\u00a31,022,152"
+    },
+    {
+        "Year":1998,
+        "Wins":94.0,
+        "Runs":734,
+        "Strike Rate":13,
+        "Total Earnings":"\u00a3791,856"
+    },
+    {
+        "Year":1999,
+        "Wins":118.0,
+        "Runs":855,
+        "Strike Rate":14,
+        "Total Earnings":"\u00a31,042,652"
+    },
+    {
+        "Year":2000,
+        "Wins":null,
+        "Runs":997,
+        "Strike Rate":16,
+        "Total Earnings":"\u00a32,306,168"
+    },
+    {
+        "Year":2001,
+        "Wins":161.0,
+        "Runs":984,
+        "Strike Rate":16,
+        "Total Earnings":"\u00a32,384,295"
+    },
+    {
+        "Year":2002,
+        "Wins":113.0,
+        "Runs":800,
+        "Strike Rate":14,
+        "Total Earnings":"\u00a32,646,261"
+    },
+    {
+        "Year":2003,
+        "Wins":125.0,
+        "Runs":871,
+        "Strike Rate":14,
+        "Total Earnings":"\u00a31,877,988"
+    },
+    {
+        "Year":2004,
+        "Wins":85.0,
+        "Runs":822,
+        "Strike Rate":10,
+        "Total Earnings":"\u00a31,779,738"
+    },
+    {
+        "Year":2005,
+        "Wins":100.0,
+        "Runs":723,
+        "Strike Rate":14,
+        "Total Earnings":"\u00a31,342,366"
+    },
+    {
+        "Year":2006,
+        "Wins":75.0,
+        "Runs":604,
+        "Strike Rate":12,
+        "Total Earnings":"\u00a31,396,144"
+    },
+    {
+        "Year":2007,
+        "Wins":62.0,
+        "Runs":-1300,
+        "Strike Rate":12,
+        "Total Earnings":"\u00a3770,876"
+    }
+]

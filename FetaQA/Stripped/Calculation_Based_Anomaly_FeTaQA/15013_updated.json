@@ -1,0 +1,72 @@
+[
+    {
+        "#":1,
+        "Player":"Kim Felton",
+        "Country":"Australia",
+        "Score":"70-67-69-69=275",
+        "To par":"−11"
+    },
+    {
+        "#":2,
+        "Player":"Mikko Ilonen",
+        "Country":"Finland",
+        "Score":"67-70-71-69=278",
+        "To par":"−9"
+    },
+    {
+        "#":"T3",
+        "Player":"Luke Donald",
+        "Country":"Great Britain & Ireland",
+        "Score":"70-70-69-71=280",
+        "To par":"−6"
+    },
+    {
+        "#":"T3",
+        "Player":"Chan Yih-shin",
+        "Country":"Chinese Taipei",
+        "Score":"71-69-72-68=280",
+        "To par":"−6"
+    },
+    {
+        "#":5,
+        "Player":"Wilfredo Morales",
+        "Country":"Puerto Rico",
+        "Score":"67-68-75-71=281",
+        "To par":"−5"
+    },
+    {
+        "#":6,
+        "Player":"Gary Wolstenholme",
+        "Country":"Great Britain & Ireland",
+        "Score":"70-71-74-67=282",
+        "To par":"−4"
+    },
+    {
+        "#":"T7",
+        "Player":"Sergio García",
+        "Country":"Spain",
+        "Score":"72-71-69-73=286",
+        "To par":"−1"
+    },
+    {
+        "#":"T7",
+        "Player":"Tomohiro Kondo",
+        "Country":"Japan",
+        "Score":"75-72-67-71=285",
+        "To par":"−1"
+    },
+    {
+        "#":"T9",
+        "Player":"Christian Aronsen",
+        "Country":"Norway",
+        "Score":"74-70-76-66=286",
+        "To par":"−1"
+    },
+    {
+        "#":"T9",
+        "Player":"Kim Hyung-tae",
+        "Country":"South Korea",
+        "Score":"72-72-70-72=286",
+        "To par":"−E"
+    }
+]

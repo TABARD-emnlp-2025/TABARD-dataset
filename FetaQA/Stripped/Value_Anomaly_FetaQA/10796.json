@@ -1,0 +1,74 @@
+[
+    {
+        "-":"Population",
+        "Total":7159,
+        "Male":3645,
+        "Female":3514
+    },
+    {
+        "-":"Children aged below 6 years",
+        "Total":913,
+        "Male":479,
+        "Female":434
+    },
+    {
+        "-":"Scheduled caste",
+        "Total":-2204,
+        "Male":890,
+        "Female":31707
+    },
+    {
+        "-":"Scheduled tribe",
+        "Total":744,
+        "Male":383,
+        "Female":361
+    },
+    {
+        "-":"Literates",
+        "Total":4323,
+        "Male":2642,
+        "Female":1681
+    },
+    {
+        "-":"Workers (all)",
+        "Total":3612,
+        "Male":2007,
+        "Female":1605
+    },
+    {
+        "-":"Main workers (total)",
+        "Total":2187,
+        "Male":1463,
+        "Female":-4925
+    },
+    {
+        "-":"Main workers: Cultivators",
+        "Total":756,
+        "Male":500,
+        "Female":256
+    },
+    {
+        "-":"Main workers: Agricultural labourers",
+        "Total":830,
+        "Male":443,
+        "Female":387
+    },
+    {
+        "-":"Main workers: Household industry workers",
+        "Total":107,
+        "Male":86,
+        "Female":21
+    },
+    {
+        "-":null,
+        "Total":494,
+        "Male":434,
+        "Female":16502
+    },
+    {
+        "-":"Non-workers (total)",
+        "Total":3547,
+        "Male":1638,
+        "Female":1909
+    }
+]

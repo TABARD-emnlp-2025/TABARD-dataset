@@ -1,0 +1,79 @@
+[
+    {
+        "Year":1999,
+        "Ceremony":"National Television Awards",
+        "Award":"Most Popular Actress",
+        "Nominated work":"Coronation Street as Hayley Cropper",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1999,
+        "Ceremony":"The British Soap Awards",
+        "Award":"Best On-screen Partnership",
+        "Nominated work":"Coronation Street as Hayley Cropper",
+        "Result":"Won"
+    },
+    {
+        "Year":2004,
+        "Ceremony":"The British Soap Awards",
+        "Award":"Best On-screen Partnership",
+        "Nominated work":"Coronation Street as Hayley Cropper",
+        "Result":"Won"
+    },
+    {
+        "Year":2013,
+        "Ceremony":"Royal Television Society",
+        "Award":"Best Performance in a Continuing Drama",
+        "Nominated work":"Coronation Street as Hayley Cropper",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Ceremony":"National Television Awards",
+        "Award":"Best Serial Drama Performance",
+        "Nominated work":"Coronation Street as Hayley Cropper",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Ceremony":"TRIC Awards",
+        "Award":"Soap Personality",
+        "Nominated work":"Coronation Street as Hayley Cropper",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Ceremony":"The British Soap Awards",
+        "Award":"Best Actress",
+        "Nominated work":"Coronation Street as Hayley Cropper",
+        "Result":"Won"
+    },
+    {
+        "Year":"@@@_1899",
+        "Ceremony":"The British Soap Awards",
+        "Award":"Best On-screen Partnership",
+        "Nominated work":"Coronation Street as Hayley Cropper",
+        "Result":"Won"
+    },
+    {
+        "Year":2015,
+        "Ceremony":"Royal Television Society",
+        "Award":"Best Female Performance",
+        "Nominated work":"Black Roses: The Killing of Sophie Lancaster",
+        "Result":"Won"
+    },
+    {
+        "Year":2017,
+        "Ceremony":"Manchester Theatre Awards",
+        "Award":"Actress In A Leading Role",
+        "Nominated work":"Wit",
+        "Result":"@@@_Nominated"
+    },
+    {
+        "Year":2018,
+        "Ceremony":"British Academy Television Awards",
+        "Award":"Best Supporting Actress",
+        "Nominated work":"Broadchurch",
+        "Result":"Nominated"
+    }
+]

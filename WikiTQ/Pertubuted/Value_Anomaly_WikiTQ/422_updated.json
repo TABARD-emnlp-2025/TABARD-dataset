@@ -1,0 +1,66 @@
+[
+  {
+    "Rank": "@@@_None",
+    "Lane": 4,
+    "Name": "Sophie Pascoe",
+    "Nationality": "New Zealand",
+    "Time": "2:25.65",
+    "Notes": "WR"
+  },
+  {
+    "Rank": "@@@_-21.1059345058",
+    "Lane": 5,
+    "Name": "Summer Ashley Mortimer",
+    "Nationality": "Canada",
+    "Time": "2:32.08",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_-14.0706230039",
+    "Lane": 3,
+    "Name": "Zhang Meng",
+    "Nationality": "China",
+    "Time": "@@@_None",
+    "Notes": "AS"
+  },
+  {
+    "Rank": "@@@_79.529672529",
+    "Lane": 6,
+    "Name": "Katherine Downie",
+    "Nationality": "Australia",
+    "Time": "2:34.64",
+    "Notes": null
+  },
+  {
+    "Rank": 5.0,
+    "Lane": 2,
+    "Name": "Nina Ryabova",
+    "Nationality": "Russia",
+    "Time": "2:35.65",
+    "Notes": null
+  },
+  {
+    "Rank": 6.0,
+    "Lane": 8,
+    "Name": "Aurelie Rivard",
+    "Nationality": "Canada",
+    "Time": "2:37.70",
+    "Notes": null
+  },
+  {
+    "Rank": 7.0,
+    "Lane": 7,
+    "Name": "Harriet Lee",
+    "Nationality": "Great Britain",
+    "Time": "2:39.42",
+    "Notes": null
+  },
+  {
+    "Rank": 8.0,
+    "Lane": 1,
+    "Name": "Gemma Almond",
+    "Nationality": "Great Britain",
+    "Time": "2:42.16",
+    "Notes": null
+  }
+]

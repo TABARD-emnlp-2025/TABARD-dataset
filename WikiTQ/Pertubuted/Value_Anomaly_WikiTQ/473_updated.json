@@ -1,0 +1,152 @@
+[
+  {
+    "Pos": "1",
+    "No": 7,
+    "Driver": "Jo Bonnier",
+    "Constructor": "BRM",
+    "Laps": 75,
+    "Time/Retired": "2:05:26.8",
+    "Grid": 1,
+    "Points": 8.0
+  },
+  {
+    "Pos": "2",
+    "No": 8,
+    "Driver": "Jack Brabham",
+    "Constructor": "Cooper-Climax",
+    "Laps": 75,
+    "Time/Retired": "+ 14.2",
+    "Grid": 2,
+    "Points": 6.0
+  },
+  {
+    "Pos": "3",
+    "No": 9,
+    "Driver": "Masten Gregory",
+    "Constructor": "Cooper-Climax",
+    "Laps": 75,
+    "Time/Retired": "+ 1:23.0",
+    "Grid": 7,
+    "Points": 4.0
+  },
+  {
+    "Pos": "4",
+    "No": "@@@_90",
+    "Driver": "Innes Ireland",
+    "Constructor": "Lotus-Climax",
+    "Laps": 74,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 9,
+    "Points": 3.0
+  },
+  {
+    "Pos": "5",
+    "No": 1,
+    "Driver": "Jean Behra",
+    "Constructor": "Ferrari",
+    "Laps": 74,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 4,
+    "Points": 2.0
+  },
+  {
+    "Pos": "6",
+    "No": 3,
+    "Driver": "Phil Hill",
+    "Constructor": "Ferrari",
+    "Laps": 73,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 12,
+    "Points": null
+  },
+  {
+    "Pos": "7",
+    "No": 14,
+    "Driver": "Graham Hill",
+    "Constructor": "Lotus-Climax",
+    "Laps": 73,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 5,
+    "Points": null
+  },
+  {
+    "Pos": "8",
+    "No": 10,
+    "Driver": "Maurice Trintignant",
+    "Constructor": "Cooper-Climax",
+    "Laps": 73,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 11,
+    "Points": null
+  },
+  {
+    "Pos": "9",
+    "No": "@@@_237",
+    "Driver": "Cliff Allison",
+    "Constructor": "Ferrari",
+    "Laps": 71,
+    "Time/Retired": "+ 4 Laps",
+    "Grid": 15,
+    "Points": null
+  },
+  {
+    "Pos": "10",
+    "No": 15,
+    "Driver": "Carel Godin de Beaufort",
+    "Constructor": "Porsche",
+    "Laps": 68,
+    "Time/Retired": "+ 7 Laps",
+    "Grid": 14,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 11,
+    "Driver": "Stirling Moss",
+    "Constructor": "Cooper-Climax",
+    "Laps": 62,
+    "Time/Retired": "Gearbox",
+    "Grid": 3,
+    "Points": 1.0
+  },
+  {
+    "Pos": "Ret",
+    "No": "@@@_-13",
+    "Driver": "Harry Schell",
+    "Constructor": "BRM",
+    "Laps": 46,
+    "Time/Retired": "Gearbox",
+    "Grid": 6,
+    "Points": null
+  },
+  {
+    "Pos": "@@@_None",
+    "No": 2,
+    "Driver": "Tony Brooks",
+    "Constructor": "Ferrari",
+    "Laps": 42,
+    "Time/Retired": "Oil Leak",
+    "Grid": 8,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 5,
+    "Driver": "Carroll Shelby",
+    "Constructor": "Aston Martin",
+    "Laps": 25,
+    "Time/Retired": "Engine",
+    "Grid": 10,
+    "Points": "@@@_None"
+  },
+  {
+    "Pos": "Ret",
+    "No": 4,
+    "Driver": "Roy Salvadori",
+    "Constructor": "Aston Martin",
+    "Laps": 3,
+    "Time/Retired": "Engine",
+    "Grid": 13,
+    "Points": null
+  }
+]

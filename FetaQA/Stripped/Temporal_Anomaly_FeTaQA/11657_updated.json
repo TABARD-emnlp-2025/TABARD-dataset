@@ -1,0 +1,86 @@
+[
+    {
+        "Year":2007,
+        "Title":"Casualty",
+        "Role":"Private Haydon",
+        "Notes":"Series 22, Episode 6: \"Core Values\""
+    },
+    {
+        "Year":2009,
+        "Title":"Skins",
+        "Role":"Mike",
+        "Notes":"Series 3, Episode 5"
+    },
+    {
+        "Year":2012,
+        "Title":"Switch",
+        "Role":"Miles",
+        "Notes":"Series 1, Episode 1"
+    },
+    {
+        "Year":"2011",
+        "Title":"Casualty",
+        "Role":"Ben Shears",
+        "Notes":"Series 26, Episode 32: \"Desperate Remedies\""
+    },
+    {
+        "Year":2013,
+        "Title":"WPC 56",
+        "Role":"Bill Pearson",
+        "Notes":"4 episodes"
+    },
+    {
+        "Year":2014,
+        "Title":"Holby City",
+        "Role":"Mark Christiansen",
+        "Notes":"Series 16, Episode 43: \"Affair of the Mind\""
+    },
+    {
+        "Year":2015,
+        "Title":"Cucumber",
+        "Role":"Louis Barman",
+        "Notes":"Series 1, Episode 1"
+    },
+    {
+        "Year":"2023",
+        "Title":"Episodes",
+        "Role":"Energy Drink Vendor",
+        "Notes":"Series 1, Episode 3"
+    },
+    {
+        "Year":2015,
+        "Title":"Crims",
+        "Role":"Roger",
+        "Notes":"Series 1, Episode 5: \"Day Eighty-Nine\""
+    },
+    {
+        "Year":2015,
+        "Title":"The Royals",
+        "Role":"Andy Sinclair",
+        "Notes":"Series 1, Episode 2: \"Infants of the Spring\""
+    },
+    {
+        "Year":2015,
+        "Title":"Humans",
+        "Role":"Simon",
+        "Notes":"7 episodes"
+    },
+    {
+        "Year":"2018",
+        "Title":"EastEnders",
+        "Role":"Andy Flynn",
+        "Notes":"Series regular; 35 episodes"
+    },
+    {
+        "Year":2018,
+        "Title":"Casualty",
+        "Role":"Alan Marsh",
+        "Notes":"Series 33, Episode 4"
+    },
+    {
+        "Year":2019,
+        "Title":"Doctors",
+        "Role":"Enzo D'Agostino",
+        "Notes":"Recurring role"
+    }
+]

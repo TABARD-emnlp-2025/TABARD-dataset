@@ -1,0 +1,65 @@
+[
+    {
+        "Season":2007,
+        "Date":"18 Mar 2007",
+        "Location":"Lenzerheide, Switzerland",
+        "Discipline":"Giant Slalom",
+        "Place":"2nd"
+    },
+    {
+        "Season":2009,
+        "Date":"10 Jan 2009",
+        "Location":"Maribor, Slovenia",
+        "Discipline":"Giant Slalom",
+        "Place":"3rd"
+    },
+    {
+        "Season":2010,
+        "Date":"28 Nov 2009",
+        "Location":"Aspen, USA",
+        "Discipline":"Giant Slalom",
+        "Place":"@@@_first"
+    },
+    {
+        "Season":2010,
+        "Date":"28 Dec 2009",
+        "Location":"Lienz, Austria",
+        "Discipline":"Giant Slalom",
+        "Place":"1st"
+    },
+    {
+        "Season":2010,
+        "Date":"24 Jan 2010",
+        "Location":"Cortina d'Ampezzo, Italy",
+        "Discipline":"@@@_Giant-Slalom",
+        "Place":"3rd"
+    },
+    {
+        "Season":2010,
+        "Date":"11 Mar 2010",
+        "Location":"Garmisch, Germany",
+        "Discipline":"Giant Slalom",
+        "Place":"2nd"
+    },
+    {
+        "Season":2011,
+        "Date":"23 Oct 2010",
+        "Location":"S\u00f6lden, Austria",
+        "Discipline":"Giant Slalom",
+        "Place":"2nd"
+    },
+    {
+        "Season":2011,
+        "Date":"27 Nov 2010",
+        "Location":"Aspen, USA",
+        "Discipline":"Giant Slalom",
+        "Place":"3rd"
+    },
+    {
+        "Season":2011,
+        "Date":"28 Dec 2010",
+        "Location":"Semmering, Austria",
+        "Discipline":"Giant Slalom",
+        "Place":"@@@_None"
+    }
+]

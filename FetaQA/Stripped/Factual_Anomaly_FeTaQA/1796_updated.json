@@ -1,0 +1,38 @@
+[
+    {
+        "Year":1999,
+        "Nominee / work":"\"Bitter Sweet Symphony\"",
+        "Award":"Best Rock Performance by a Duo or Group with Vocal",
+        "Result":"Won"
+    },
+    {
+        "Year":1999,
+        "Nominee / work":"\"Bitter Sweet Symphony\"",
+        "Award":"Best Rock Song",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2025,
+        "Nominee / work":"\"Fictional Future Song\"",
+        "Award":"Best Rock Song",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1999,
+        "Nominee / work":"\"Bitter Sweet Symphony\"",
+        "Award":"Best Rock Performance by a Duo or Group with Vocal",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1999,
+        "Nominee / work":"\"Bitter Sweet Symphony\"",
+        "Award":"Best Rock Song",
+        "Result":"Won"
+    },
+    {
+        "Year":2000,
+        "Nominee / work":"\"Imaginary Song\"",
+        "Award":"Best Rock Performance by a Duo or Group with Vocal",
+        "Result":"Nominated"
+    }
+]

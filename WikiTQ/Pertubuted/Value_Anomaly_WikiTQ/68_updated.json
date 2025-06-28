@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Bill W. Burgess Jr.",
+    "Profession": "Attorney",
+    "Hometown": "Lawton",
+    "Term Expires": "@@@_-3656",
+    "Office": null
+  },
+  {
+    "Name": "Ronald H. White, M.D.",
+    "Profession": "Medical Doctor",
+    "Hometown": "Oklahoma City",
+    "Term Expires": 2012,
+    "Office": null
+  },
+  {
+    "Name": "William Stuart Price",
+    "Profession": "Businessman",
+    "Hometown": "Tulsa",
+    "Term Expires": "@@@_20818",
+    "Office": null
+  },
+  {
+    "Name": "Joseph L. Parker Jr.",
+    "Profession": "Businessman",
+    "Hometown": "Tulsa",
+    "Term Expires": 2014,
+    "Office": "Chair"
+  },
+  {
+    "Name": "@@@_None",
+    "Profession": "Attorney",
+    "Hometown": "Claremore",
+    "Term Expires": 2015,
+    "Office": "Vice Chair"
+  },
+  {
+    "Name": "Marlin \\Ike\\\" Glass\"",
+    "Profession": "Businessman",
+    "Hometown": "Newkirk",
+    "Term Expires": 2016,
+    "Office": "@@@_None"
+  },
+  {
+    "Name": "James D. \\Jimmy\\\" Harrel\"",
+    "Profession": "Banker",
+    "Hometown": "Leedy",
+    "Term Expires": 2017,
+    "Office": "Assistant Secretary"
+  },
+  {
+    "Name": "Mike Turpen",
+    "Profession": "Attorney",
+    "Hometown": "Oklahoma City",
+    "Term Expires": 2018,
+    "Office": null
+  },
+  {
+    "Name": "John Massey",
+    "Profession": "Banker",
+    "Hometown": "Durant",
+    "Term Expires": "@@@_-2015",
+    "Office": null
+  }
+]

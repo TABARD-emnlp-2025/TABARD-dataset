@@ -1,0 +1,51 @@
+[
+    {
+        "Episode":"No",
+        "Name":"No",
+        "Synopsis":"No",
+        "Sent Home":"No",
+        "Highest Seller":"No"
+    },
+    {
+        "Episode":"No",
+        "Name":"No",
+        "Synopsis":"No",
+        "Sent Home":"No",
+        "Highest Seller":"No"
+    },
+    {
+        "Episode":"No",
+        "Name":"No",
+        "Synopsis":"No",
+        "Sent Home":"Yes",
+        "Highest Seller":"Yes"
+    },
+    {
+        "Episode":"Yes",
+        "Name":"No",
+        "Synopsis":"No",
+        "Sent Home":"No",
+        "Highest Seller":"No"
+    },
+    {
+        "Episode":"No",
+        "Name":"No",
+        "Synopsis":"No",
+        "Sent Home":"No",
+        "Highest Seller":"No"
+    },
+    {
+        "Episode":"Yes",
+        "Name":"No",
+        "Synopsis":"No",
+        "Sent Home":"No",
+        "Highest Seller":"No"
+    },
+    {
+        "Episode":"Yes",
+        "Name":"No",
+        "Synopsis":"No",
+        "Sent Home":"No",
+        "Highest Seller":"No"
+    }
+]

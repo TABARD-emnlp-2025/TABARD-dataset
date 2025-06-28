@@ -1,0 +1,2554 @@
+[
+  {
+    "City": "Bucharest",
+    "County": "-",
+    "Population (2011)": "1,883,425",
+    "Population (2002)": "1,926,334",
+    "Altitude (m)": 85.0,
+    "Year status\ngranted* or\nfirst attested†": "1459†"
+  },
+  {
+    "City": "Cluj-Napoca",
+    "County": "Cluj",
+    "Population (2011)": "324,576",
+    "Population (2002)": "317,953",
+    "Altitude (m)": 360.0,
+    "Year status\ngranted* or\nfirst attested†": "1316*"
+  },
+  {
+    "City": "Timișoara",
+    "County": "Timiș",
+    "Population (2011)": "319,279",
+    "Population (2002)": "317,660",
+    "Altitude (m)": 90.0,
+    "Year status\ngranted* or\nfirst attested†": "1342*"
+  },
+  {
+    "City": "Iași",
+    "County": "Iași",
+    "Population (2011)": "290,422",
+    "Population (2002)": "320,888",
+    "Altitude (m)": 95.0,
+    "Year status\ngranted* or\nfirst attested†": "1408†"
+  },
+  {
+    "City": "Constanța",
+    "County": "Constanța",
+    "Population (2011)": "283,872",
+    "Population (2002)": "310,471",
+    "Altitude (m)": 25.0,
+    "Year status\ngranted* or\nfirst attested†": "260 BC†"
+  },
+  {
+    "City": "Craiova",
+    "County": "Dolj",
+    "Population (2011)": "269,506",
+    "Population (2002)": "302,601",
+    "Altitude (m)": 100.0,
+    "Year status\ngranted* or\nfirst attested†": "1475†"
+  },
+  {
+    "City": "Brașov",
+    "County": "Brașov",
+    "Population (2011)": "253,200",
+    "Population (2002)": "284,596",
+    "Altitude (m)": 625.0,
+    "Year status\ngranted* or\nfirst attested†": "1235†"
+  },
+  {
+    "City": "Galați",
+    "County": "Galați",
+    "Population (2011)": "249,432",
+    "Population (2002)": "298,861",
+    "Altitude (m)": 55.0,
+    "Year status\ngranted* or\nfirst attested†": "1445†"
+  },
+  {
+    "City": "Ploiești",
+    "County": "Prahova",
+    "Population (2011)": "209,945",
+    "Population (2002)": "232,527",
+    "Altitude (m)": 150.0,
+    "Year status\ngranted* or\nfirst attested†": "1596†"
+  },
+  {
+    "City": "Oradea",
+    "County": "Bihor",
+    "Population (2011)": "196,367",
+    "Population (2002)": "206,614",
+    "Altitude (m)": 150.0,
+    "Year status\ngranted* or\nfirst attested†": "1113†"
+  },
+  {
+    "City": "Brăila",
+    "County": "Brăila",
+    "Population (2011)": "180,302",
+    "Population (2002)": "216,292",
+    "Altitude (m)": 20.0,
+    "Year status\ngranted* or\nfirst attested†": "1368†"
+  },
+  {
+    "City": "Arad",
+    "County": "Arad",
+    "Population (2011)": "159,074",
+    "Population (2002)": "172,824",
+    "Altitude (m)": 107.0,
+    "Year status\ngranted* or\nfirst attested†": "1028†"
+  },
+  {
+    "City": "Pitești",
+    "County": "Argeș",
+    "Population (2011)": "155,383",
+    "Population (2002)": "168,458",
+    "Altitude (m)": "@@@_-307.5384847352",
+    "Year status\ngranted* or\nfirst attested†": "1388†"
+  },
+  {
+    "City": "Sibiu",
+    "County": "Sibiu",
+    "Population (2011)": "147,245",
+    "Population (2002)": "154,892",
+    "Altitude (m)": 415.0,
+    "Year status\ngranted* or\nfirst attested†": "1366†"
+  },
+  {
+    "City": "Bacău",
+    "County": "Bacău",
+    "Population (2011)": "144,307",
+    "Population (2002)": "175,500",
+    "Altitude (m)": 165.0,
+    "Year status\ngranted* or\nfirst attested†": "1408†"
+  },
+  {
+    "City": "Târgu Mureș",
+    "County": "Mureș",
+    "Population (2011)": "134,290",
+    "Population (2002)": "149,577",
+    "Altitude (m)": 330.0,
+    "Year status\ngranted* or\nfirst attested†": "1332*"
+  },
+  {
+    "City": "Baia Mare",
+    "County": "Maramureș",
+    "Population (2011)": "123,738",
+    "Population (2002)": "137,976",
+    "Altitude (m)": 225.0,
+    "Year status\ngranted* or\nfirst attested†": "1329†"
+  },
+  {
+    "City": "Buzău",
+    "County": "Buzău",
+    "Population (2011)": "115,494",
+    "Population (2002)": "133,116",
+    "Altitude (m)": 95.0,
+    "Year status\ngranted* or\nfirst attested†": "1431†"
+  },
+  {
+    "City": "Botoșani",
+    "County": "Botoșani",
+    "Population (2011)": "106,847",
+    "Population (2002)": "115,344",
+    "Altitude (m)": 130.0,
+    "Year status\ngranted* or\nfirst attested†": "1439†"
+  },
+  {
+    "City": "Satu Mare",
+    "County": "Satu Mare",
+    "Population (2011)": "102,411",
+    "Population (2002)": "115,630",
+    "Altitude (m)": 123.0,
+    "Year status\ngranted* or\nfirst attested†": "1213†"
+  },
+  {
+    "City": "Râmnicu Vâlcea",
+    "County": "Vâlcea",
+    "Population (2011)": "98,776",
+    "Population (2002)": "107,656",
+    "Altitude (m)": 250.0,
+    "Year status\ngranted* or\nfirst attested†": "1388†"
+  },
+  {
+    "City": "Drobeta-Turnu Severin",
+    "County": "Mehedinți",
+    "Population (2011)": "92,617",
+    "Population (2002)": "104,035",
+    "Altitude (m)": 65.0,
+    "Year status\ngranted* or\nfirst attested†": "121 AD†/1833*"
+  },
+  {
+    "City": "Suceava",
+    "County": "Suceava",
+    "Population (2011)": "92,121",
+    "Population (2002)": "106,138",
+    "Altitude (m)": 325.0,
+    "Year status\ngranted* or\nfirst attested†": "1388†"
+  },
+  {
+    "City": "Piatra Neamț",
+    "County": "Neamț",
+    "Population (2011)": "85,055",
+    "Population (2002)": "105,499",
+    "Altitude (m)": 345.0,
+    "Year status\ngranted* or\nfirst attested†": "1491†"
+  },
+  {
+    "City": "Târgu Jiu",
+    "County": "Gorj",
+    "Population (2011)": "82,504",
+    "Population (2002)": "96,562",
+    "Altitude (m)": 205.0,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Târgoviște",
+    "County": "Dâmbovița",
+    "Population (2011)": "79,610",
+    "Population (2002)": "89,429",
+    "Altitude (m)": 280.0,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Focșani",
+    "County": "Vrancea",
+    "Population (2011)": "79,315",
+    "Population (2002)": "103,219",
+    "Altitude (m)": 55.0,
+    "Year status\ngranted* or\nfirst attested†": "1575†"
+  },
+  {
+    "City": "Bistrița",
+    "County": "Bistrița-Năsăud",
+    "Population (2011)": "75,076",
+    "Population (2002)": "81,467",
+    "Altitude (m)": 360.0,
+    "Year status\ngranted* or\nfirst attested†": "1349*"
+  },
+  {
+    "City": "Tulcea",
+    "County": "Tulcea",
+    "Population (2011)": "73,707",
+    "Population (2002)": "92,762",
+    "Altitude (m)": 30.0,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Reșița",
+    "County": "Caraș-Severin",
+    "Population (2011)": "73,282",
+    "Population (2002)": "83,985",
+    "Altitude (m)": 245.0,
+    "Year status\ngranted* or\nfirst attested†": "1925*"
+  },
+  {
+    "City": "Slatina",
+    "County": "Olt",
+    "Population (2011)": "70,293",
+    "Population (2002)": "79,171",
+    "Altitude (m)": 135.0,
+    "Year status\ngranted* or\nfirst attested†": "1368†"
+  },
+  {
+    "City": "Călărași",
+    "County": "Călărași",
+    "Population (2011)": "65,181",
+    "Population (2002)": "70,039",
+    "Altitude (m)": 13.0,
+    "Year status\ngranted* or\nfirst attested†": "1534†"
+  },
+  {
+    "City": "@@@_None",
+    "County": "Alba",
+    "Population (2011)": "63,536",
+    "Population (2002)": "66,369",
+    "Altitude (m)": 330.0,
+    "Year status\ngranted* or\nfirst attested†": "1097†"
+  },
+  {
+    "City": "Giurgiu",
+    "County": "Giurgiu",
+    "Population (2011)": "61,353",
+    "Population (2002)": "69,587",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1395†"
+  },
+  {
+    "City": "Deva",
+    "County": "Hunedoara",
+    "Population (2011)": "61,123",
+    "Population (2002)": "69,390",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1269†"
+  },
+  {
+    "City": "Hunedoara",
+    "County": "Hunedoara",
+    "Population (2011)": "60,525",
+    "Population (2002)": "71,380",
+    "Altitude (m)": 240.0,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Zalău",
+    "County": "Sălaj",
+    "Population (2011)": "56,202",
+    "Population (2002)": "63,305",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1473*"
+  },
+  {
+    "City": "Sfântu Gheorghe",
+    "County": "Covasna",
+    "Population (2011)": "56,006",
+    "Population (2002)": "61,512",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1332†/1832*"
+  },
+  {
+    "City": "Bârlad",
+    "County": "Vaslui",
+    "Population (2011)": "55,837",
+    "Population (2002)": "69,183",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Vaslui",
+    "County": "Vaslui",
+    "Population (2011)": "55,407",
+    "Population (2002)": "70,267",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Roman",
+    "County": "Neamț",
+    "Population (2011)": "50,713",
+    "Population (2002)": "69,483",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Turda",
+    "County": "Cluj",
+    "Population (2011)": "47,744",
+    "Population (2002)": "55,770",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1075†"
+  },
+  {
+    "City": "Mediaș",
+    "County": "Sibiu",
+    "Population (2011)": "47,204",
+    "Population (2002)": "55,203",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1359*"
+  },
+  {
+    "City": "Slobozia",
+    "County": "Ialomița",
+    "Population (2011)": "45,891",
+    "Population (2002)": "52,677",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Alexandria",
+    "County": "Teleorman",
+    "Population (2011)": "45,434",
+    "Population (2002)": "50,591",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1840*"
+  },
+  {
+    "City": "Voluntari",
+    "County": "Ilfov",
+    "Population (2011)": "42,944",
+    "Population (2002)": "30,016",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Lugoj",
+    "County": "Timiș",
+    "Population (2011)": "40,361",
+    "Population (2002)": "44,571",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Medgidia",
+    "County": "Constanța",
+    "Population (2011)": "39,780",
+    "Population (2002)": "43,867",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Onești",
+    "County": "Bacău",
+    "Population (2011)": "39,172",
+    "Population (2002)": "51,681",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Miercurea Ciuc",
+    "County": "Harghita",
+    "Population (2011)": "38,966",
+    "Population (2002)": "41,852",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Sighetu Marmației",
+    "County": "Maramureș",
+    "Population (2011)": "37,640",
+    "Population (2002)": "41,246",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Petroșani",
+    "County": "Hunedoara",
+    "Population (2011)": "37,160",
+    "Population (2002)": "45,447",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1930*"
+  },
+  {
+    "City": "Mangalia",
+    "County": "Constanța",
+    "Population (2011)": "36,364",
+    "Population (2002)": "40,037",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Tecuci",
+    "County": "Galați",
+    "Population (2011)": "34,871",
+    "Population (2002)": "42,012",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Odorheiu Secuiesc",
+    "County": "Harghita",
+    "Population (2011)": "34,257",
+    "Population (2002)": "36,926",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Râmnicu Sărat",
+    "County": "Buzău",
+    "Population (2011)": "33,843",
+    "Population (2002)": "38,805",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Pașcani",
+    "County": "Iași",
+    "Population (2011)": "33,745",
+    "Population (2002)": "42,172",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Dej",
+    "County": "Cluj",
+    "Population (2011)": "33,497",
+    "Population (2002)": "38,478",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Reghin",
+    "County": "Mureș",
+    "Population (2011)": "33,281",
+    "Population (2002)": "36,023",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Năvodari",
+    "County": "Constanța",
+    "Population (2011)": "32,981",
+    "Population (2002)": "32,400",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Câmpina",
+    "County": "Prahova",
+    "Population (2011)": "32,935",
+    "Population (2002)": "38,758",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1864*"
+  },
+  {
+    "City": "Mioveni",
+    "County": "Argeș",
+    "Population (2011)": "31,998",
+    "Population (2002)": "35,849",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Câmpulung",
+    "County": "Argeș",
+    "Population (2011)": "31,767",
+    "Population (2002)": "38,285",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Caracal",
+    "County": "@@@_None",
+    "Population (2011)": "30,954",
+    "Population (2002)": "34,603",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1538†"
+  },
+  {
+    "City": "Săcele",
+    "County": "Brașov",
+    "Population (2011)": "30,798",
+    "Population (2002)": "29,967",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1971*"
+  },
+  {
+    "City": "Făgăraș",
+    "County": "Brașov",
+    "Population (2011)": "30,714",
+    "Population (2002)": "36,121",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1291†"
+  },
+  {
+    "City": "Fetești",
+    "County": "Ialomița",
+    "Population (2011)": "30,217",
+    "Population (2002)": "33,197",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1965*"
+  },
+  {
+    "City": "Sighișoara",
+    "County": "Mureș",
+    "Population (2011)": "28,102",
+    "Population (2002)": "32,287",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1367*"
+  },
+  {
+    "City": "Borșa",
+    "County": "Maramureș",
+    "Population (2011)": "27,611",
+    "Population (2002)": "27,247",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Roșiorii de Vede",
+    "County": "Teleorman",
+    "Population (2011)": "27,416",
+    "Population (2002)": "31,873",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Curtea de Argeș",
+    "County": "Argeș",
+    "Population (2011)": "27,359",
+    "Population (2002)": "32,626",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1330†"
+  },
+  {
+    "City": "Sebeș",
+    "County": "Alba",
+    "Population (2011)": "27,019",
+    "Population (2002)": "29,475",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Huși",
+    "County": "Vaslui",
+    "Population (2011)": "26,266",
+    "Population (2002)": "33,320",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Fălticeni",
+    "County": "Suceava",
+    "Population (2011)": "25,723",
+    "Population (2002)": "33,867",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Pantelimon",
+    "County": "Ilfov",
+    "Population (2011)": "25,596",
+    "Population (2002)": "16,019",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2005*"
+  },
+  {
+    "City": "Oltenița",
+    "County": "Călărași",
+    "Population (2011)": "24,822",
+    "Population (2002)": "31,434",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Turnu Măgurele",
+    "County": "Teleorman",
+    "Population (2011)": "24,772",
+    "Population (2002)": "30,187",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Caransebeș",
+    "County": "Caraș-Severin",
+    "Population (2011)": "24,689",
+    "Population (2002)": "31,199",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Dorohoi",
+    "County": "Botoșani",
+    "Population (2011)": "24,309",
+    "Population (2002)": "31,073",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Vulcan",
+    "County": "Hunedoara",
+    "Population (2011)": "24,160",
+    "Population (2002)": "33,186",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1953*"
+  },
+  {
+    "City": "Rădăuți",
+    "County": "Suceava",
+    "Population (2011)": "23,822",
+    "Population (2002)": "32,151",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Zărnești",
+    "County": "Brașov",
+    "Population (2011)": "23,476",
+    "Population (2002)": "26,520",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1951*"
+  },
+  {
+    "City": "Lupeni",
+    "County": "Hunedoara",
+    "Population (2011)": "23,390",
+    "Population (2002)": "31,409",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1941*/1960*"
+  },
+  {
+    "City": "Aiud",
+    "County": "Alba",
+    "Population (2011)": "22,876",
+    "Population (2002)": "28,909",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Petrila",
+    "County": "Hunedoara",
+    "Population (2011)": "22,692",
+    "Population (2002)": "28,742",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Câmpia Turzii",
+    "County": "Cluj",
+    "Population (2011)": "22,223",
+    "Population (2002)": "29,852",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Buftea",
+    "County": "Ilfov",
+    "Population (2011)": "22,178",
+    "Population (2002)": "19,617",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Târnăveni",
+    "County": "Mureș",
+    "Population (2011)": "22,075",
+    "Population (2002)": "29,828",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1912*"
+  },
+  {
+    "City": "Popești-Leordeni",
+    "County": "Ilfov",
+    "Population (2011)": "21,895",
+    "Population (2002)": "15,115",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Moinești",
+    "County": "Bacău",
+    "Population (2011)": "21,787",
+    "Population (2002)": "25,532",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Codlea",
+    "County": "Brașov",
+    "Population (2011)": "21,708",
+    "Population (2002)": "24,814",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1950*"
+  },
+  {
+    "City": "Cugir",
+    "County": "Alba",
+    "Population (2011)": "21,376",
+    "Population (2002)": "30,244",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1960*"
+  },
+  {
+    "City": "Carei",
+    "County": "Satu Mare",
+    "Population (2011)": "21,112",
+    "Population (2002)": "25,590",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1871*"
+  },
+  {
+    "City": "Gherla",
+    "County": "Cluj",
+    "Population (2011)": "20,982",
+    "Population (2002)": "24,232",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Blaj",
+    "County": "Alba",
+    "Population (2011)": "20,630",
+    "Population (2002)": "21,819",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1271†"
+  },
+  {
+    "City": "Comănești",
+    "County": "Bacău",
+    "Population (2011)": "19,568",
+    "Population (2002)": "26,237",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1952*"
+  },
+  {
+    "City": "Motru",
+    "County": "Gorj",
+    "Population (2011)": "19,079",
+    "Population (2002)": "25,860",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1966*"
+  },
+  {
+    "City": "Târgu Neamț",
+    "County": "Neamț",
+    "Population (2011)": "18,695",
+    "Population (2002)": "22,634",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Moreni",
+    "County": "Dâmbovița",
+    "Population (2011)": "18,687",
+    "Population (2002)": "22,868",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1948*"
+  },
+  {
+    "City": "Târgu Secuiesc",
+    "County": "Covasna",
+    "Population (2011)": "18,491",
+    "Population (2002)": "22,251",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Gheorgheni",
+    "County": "Harghita",
+    "Population (2011)": "18,377",
+    "Population (2002)": "21,245",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Orăștie",
+    "County": "Hunedoara",
+    "Population (2011)": "18,227",
+    "Population (2002)": "24,354",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Balș",
+    "County": "Olt",
+    "Population (2011)": "18,164",
+    "Population (2002)": "23,147",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1921*"
+  },
+  {
+    "City": "Băicoi",
+    "County": "Prahova",
+    "Population (2011)": "17,981",
+    "Population (2002)": "20,234",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1948*"
+  },
+  {
+    "City": "Drăgășani",
+    "County": "Vâlcea",
+    "Population (2011)": "17,871",
+    "Population (2002)": "22,499",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Salonta",
+    "County": "Bihor",
+    "Population (2011)": "17,735",
+    "Population (2002)": "20,006",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Băilești",
+    "County": "Dolj",
+    "Population (2011)": "17,437",
+    "Population (2002)": "22,231",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1921*"
+  },
+  {
+    "City": "Calafat",
+    "County": "Dolj",
+    "Population (2011)": "17,336",
+    "Population (2002)": "21,227",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Cernavodă",
+    "County": "Constanța",
+    "Population (2011)": "17,022",
+    "Population (2002)": "20,514",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Filiași",
+    "County": "Dolj",
+    "Population (2011)": "16,900",
+    "Population (2002)": "20,159",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Câmpulung Moldovenesc",
+    "County": "Suceava",
+    "Population (2011)": "16,722",
+    "Population (2002)": "21,862",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1866*"
+  },
+  {
+    "City": "Corabia",
+    "County": "Olt",
+    "Population (2011)": "16,441",
+    "Population (2002)": "21,932",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1871*"
+  },
+  {
+    "City": "Adjud",
+    "County": "Vrancea",
+    "Population (2011)": "16,045",
+    "Population (2002)": "20,776",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Breaza",
+    "County": "Prahova",
+    "Population (2011)": "15,928",
+    "Population (2002)": "18,863",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1952*"
+  },
+  {
+    "City": "Bocșa",
+    "County": "Caraș-Severin",
+    "Population (2011)": "15,842",
+    "Population (2002)": "19,023",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1960*"
+  },
+  {
+    "City": "Marghita",
+    "County": "Bihor",
+    "Population (2011)": "15,770",
+    "Population (2002)": "18,650",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1967*"
+  },
+  {
+    "City": "Baia Sprie",
+    "County": "Maramureș",
+    "Population (2011)": "15,476",
+    "Population (2002)": "15,735",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Bragadiru",
+    "County": "Ilfov",
+    "Population (2011)": "15,329",
+    "Population (2002)": "8,165",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2005*"
+  },
+  {
+    "City": "Luduș",
+    "County": "Mureș",
+    "Population (2011)": "15,328",
+    "Population (2002)": "18,647",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1960*"
+  },
+  {
+    "City": "Urziceni",
+    "County": "Ialomița",
+    "Population (2011)": "15,308",
+    "Population (2002)": "19,088",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Vișeu de Sus",
+    "County": "Maramureș",
+    "Population (2011)": "15,037",
+    "Population (2002)": "18,444",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Râșnov",
+    "County": "Brașov",
+    "Population (2011)": "15,022",
+    "Population (2002)": "16,242",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Buhuși",
+    "County": "Bacău",
+    "Population (2011)": "14,562",
+    "Population (2002)": "21,993",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1930*"
+  },
+  {
+    "City": "Ștefănești",
+    "County": "Argeș",
+    "Population (2011)": "14,541",
+    "Population (2002)": "12,983",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Brad",
+    "County": "Hunedoara",
+    "Population (2011)": "14,495",
+    "Population (2002)": "18,075",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1941*"
+  },
+  {
+    "City": "Șimleu Silvaniei",
+    "County": "Sălaj",
+    "Population (2011)": "14,436",
+    "Population (2002)": "17,053",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Vatra Dornei",
+    "County": "Suceava",
+    "Population (2011)": "14,429",
+    "Population (2002)": "17,864",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1907*"
+  },
+  {
+    "City": "Mizil",
+    "County": "Prahova",
+    "Population (2011)": "14,312",
+    "Population (2002)": "17,075",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1830*"
+  },
+  {
+    "City": "Cisnădie",
+    "County": "Sibiu",
+    "Population (2011)": "14,282",
+    "Population (2002)": "17,204",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1948*"
+  },
+  {
+    "City": "Pucioasa",
+    "County": "Dâmbovița",
+    "Population (2011)": "14,254",
+    "Population (2002)": "16,489",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1929*"
+  },
+  {
+    "City": "Chitila",
+    "County": "Ilfov",
+    "Population (2011)": "14,184",
+    "Population (2002)": "12,643",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2005*"
+  },
+  {
+    "City": "Zimnicea",
+    "County": "Teleorman",
+    "Population (2011)": "14,058",
+    "Population (2002)": "16,787",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Toplița",
+    "County": "Harghita",
+    "Population (2011)": "13,929",
+    "Population (2002)": "16,839",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Otopeni",
+    "County": "Ilfov",
+    "Population (2011)": "13,861",
+    "Population (2002)": "10,515",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2000*"
+  },
+  {
+    "City": "Ovidiu",
+    "County": "Constanța",
+    "Population (2011)": "13,847",
+    "Population (2002)": "13,458",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Gura Humorului",
+    "County": "Suceava",
+    "Population (2011)": "13,667",
+    "Population (2002)": "16,740",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1904*"
+  },
+  {
+    "City": "Găești",
+    "County": "Dâmbovița",
+    "Population (2011)": "13,317",
+    "Population (2002)": "16,598",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Vicovu de Sus",
+    "County": "Suceava",
+    "Population (2011)": "13,308",
+    "Population (2002)": "14,125",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Țăndărei",
+    "County": "Ialomița",
+    "Population (2011)": "13,219",
+    "Population (2002)": "14,591",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Ocna Mureș",
+    "County": "Alba",
+    "Population (2011)": "13,036",
+    "Population (2002)": "15,697",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Bolintin-Vale",
+    "County": "Giurgiu",
+    "Population (2011)": "12,929",
+    "Population (2002)": "11,464",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Avrig",
+    "County": "Sibiu",
+    "Population (2011)": "12,815",
+    "Population (2002)": "16,215",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Pecica",
+    "County": "Arad",
+    "Population (2011)": "12,762",
+    "Population (2002)": "13,024",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Simeria",
+    "County": "Hunedoara",
+    "Population (2011)": "12,556",
+    "Population (2002)": "14,571",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Moldova Nouă",
+    "County": "Caraș-Severin",
+    "Population (2011)": "12,350",
+    "Population (2002)": "15,112",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Sânnicolau Mare",
+    "County": "Timiș",
+    "Population (2011)": "12,312",
+    "Population (2002)": "13,007",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1942*"
+  },
+  {
+    "City": "Vălenii de Munte",
+    "County": "Prahova",
+    "Population (2011)": "12,257",
+    "Population (2002)": "13,898",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Dărmănești",
+    "County": "Bacău",
+    "Population (2011)": "12,247",
+    "Population (2002)": "14,232",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Dăbuleni",
+    "County": "Dolj",
+    "Population (2011)": "12,182",
+    "Population (2002)": "13,888",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Comarnic",
+    "County": "Prahova",
+    "Population (2011)": "11,970",
+    "Population (2002)": "13,532",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Negrești-Oaș",
+    "County": "Satu Mare",
+    "Population (2011)": "11,867",
+    "Population (2002)": "16,356",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1965*"
+  },
+  {
+    "City": "Rovinari",
+    "County": "Gorj",
+    "Population (2011)": "11,816",
+    "Population (2002)": "12,603",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1981*"
+  },
+  {
+    "City": "Scornicești",
+    "County": "Olt",
+    "Population (2011)": "11,766",
+    "Population (2002)": "13,751",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Târgu Lăpuș",
+    "County": "Maramureș",
+    "Population (2011)": "11,744",
+    "Population (2002)": "14,139",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Săcueni",
+    "County": "Bihor",
+    "Population (2011)": "11,526",
+    "Population (2002)": "11,665",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Videle",
+    "County": "Teleorman",
+    "Population (2011)": "11,508",
+    "Population (2002)": "12,498",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Sântana",
+    "County": "Arad",
+    "Population (2011)": "11,428",
+    "Population (2002)": "12,936",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2003*"
+  },
+  {
+    "City": "Oravița",
+    "County": "Caraș-Severin",
+    "Population (2011)": "11,382",
+    "Population (2002)": "15,222",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Târgu Ocna",
+    "County": "Bacău",
+    "Population (2011)": "11,300",
+    "Population (2002)": "14,184",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1774*"
+  },
+  {
+    "City": "Călan",
+    "County": "Hunedoara",
+    "Population (2011)": "11,279",
+    "Population (2002)": "14,714",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1961*"
+  },
+  {
+    "City": "Boldești-Scăeni",
+    "County": "Prahova",
+    "Population (2011)": "11,137",
+    "Population (2002)": "11,505",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Măgurele",
+    "County": "Ilfov",
+    "Population (2011)": "11,041",
+    "Population (2002)": "9,200",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2005*"
+  },
+  {
+    "City": "Hârlău",
+    "County": "Iași",
+    "Population (2011)": "10,905",
+    "Population (2002)": "12,260",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Drăgănești-Olt",
+    "County": "Olt",
+    "Population (2011)": "10,894",
+    "Population (2002)": "13,181",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Jimbolia",
+    "County": "Timiș",
+    "Population (2011)": "10,808",
+    "Population (2002)": "10,497",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1950*"
+  },
+  {
+    "City": "Mărășești",
+    "County": "Vrancea",
+    "Population (2011)": "10,671",
+    "Population (2002)": "13,070",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Beiuș",
+    "County": "Bihor",
+    "Population (2011)": "10,667",
+    "Population (2002)": "12,089",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1451*"
+  },
+  {
+    "City": "Beclean",
+    "County": "Bistrița-Năsăud",
+    "Population (2011)": "10,628",
+    "Population (2002)": "12,033",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Urlați",
+    "County": "Prahova",
+    "Population (2011)": "10,541",
+    "Population (2002)": "11,858",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Oțelu Roșu",
+    "County": "Caraș-Severin",
+    "Population (2011)": "10,510",
+    "Population (2002)": "13,128",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1960*"
+  },
+  {
+    "City": "Strehaia",
+    "County": "Mehedinți",
+    "Population (2011)": "10,506",
+    "Population (2002)": "12,564",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1921*"
+  },
+  {
+    "City": "Târgu Frumos",
+    "County": "Iași",
+    "Population (2011)": "10,475",
+    "Population (2002)": "13,763",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Orșova",
+    "County": "Mehedinți",
+    "Population (2011)": "10,441",
+    "Population (2002)": "15,379",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Sinaia",
+    "County": "Prahova",
+    "Population (2011)": "10,410",
+    "Population (2002)": "14,636",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1880*"
+  },
+  {
+    "City": "Jibou",
+    "County": "Sălaj",
+    "Population (2011)": "10,407",
+    "Population (2002)": "12,283",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Sovata",
+    "County": "Mureș",
+    "Population (2011)": "10,385",
+    "Population (2002)": "12,219",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1952*"
+  },
+  {
+    "City": "Costești",
+    "County": "Argeș",
+    "Population (2011)": "10,375",
+    "Population (2002)": "12,091",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Ianca",
+    "County": "Brăila",
+    "Population (2011)": "10,343",
+    "Population (2002)": "12,886",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Lipova",
+    "County": "Arad",
+    "Population (2011)": "10,313",
+    "Population (2002)": "11,491",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1440*"
+  },
+  {
+    "City": "Dolhasca",
+    "County": "Suceava",
+    "Population (2011)": "10,298",
+    "Population (2002)": "11,009",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Topoloveni",
+    "County": "Argeș",
+    "Population (2011)": "10,219",
+    "Population (2002)": "10,329",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Murfatlar",
+    "County": "Constanța",
+    "Population (2011)": "10,216",
+    "Population (2002)": "10,857",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Nehoiu",
+    "County": "Buzău",
+    "Population (2011)": "10,211",
+    "Population (2002)": "12,650",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Flămânzi",
+    "County": "Botoșani",
+    "Population (2011)": "10,136",
+    "Population (2002)": "11,799",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Covasna",
+    "County": "Covasna",
+    "Population (2011)": "10,114",
+    "Population (2002)": "12,306",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1952*"
+  },
+  {
+    "City": "Aleșd",
+    "County": "Bihor",
+    "Population (2011)": "10,066",
+    "Population (2002)": "10,852",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Valea lui Mihai",
+    "County": "Bihor",
+    "Population (2011)": "9,902",
+    "Population (2002)": "10,665",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1844*/1930*/1989*"
+  },
+  {
+    "City": "Darabani",
+    "County": "Botoșani",
+    "Population (2011)": "9,893",
+    "Population (2002)": "12,002",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1926*/1968*"
+  },
+  {
+    "City": "Hațeg",
+    "County": "Hunedoara",
+    "Population (2011)": "9,685",
+    "Population (2002)": "12,507",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Sângeorz-Băi",
+    "County": "Bistrița-Năsăud",
+    "Population (2011)": "9,679",
+    "Population (2002)": "10,702",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Titu",
+    "County": "Dâmbovița",
+    "Population (2011)": "9,658",
+    "Population (2002)": "10,711",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Cristuru Secuiesc",
+    "County": "Harghita",
+    "Population (2011)": "9,650",
+    "Population (2002)": "11,291",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Hârșova",
+    "County": "Constanța",
+    "Population (2011)": "9,642",
+    "Population (2002)": "11,198",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Liteni",
+    "County": "Suceava",
+    "Population (2011)": "9,596",
+    "Population (2002)": "9,851",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Năsăud",
+    "County": "Bistrița-Năsăud",
+    "Population (2011)": "9,587",
+    "Population (2002)": "11,365",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Podu Iloaiei",
+    "County": "Iași",
+    "Population (2011)": "9,573",
+    "Population (2002)": "9,739",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2005*"
+  },
+  {
+    "City": "Eforie",
+    "County": "Constanța",
+    "Population (2011)": "9,473",
+    "Population (2002)": "9,294",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Odobești",
+    "County": "Vrancea",
+    "Population (2011)": "9,364",
+    "Population (2002)": "8,000",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Huedin",
+    "County": "Cluj",
+    "Population (2011)": "9,346",
+    "Population (2002)": "9,955",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1961*"
+  },
+  {
+    "City": "Ineu",
+    "County": "Arad",
+    "Population (2011)": "9,260",
+    "Population (2002)": "10,416",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1967*"
+  },
+  {
+    "City": "Salcea",
+    "County": "Suceava",
+    "Population (2011)": "9,015",
+    "Population (2002)": "8,719",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Seini",
+    "County": "Maramureș",
+    "Population (2011)": "8,987",
+    "Population (2002)": "9,439",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Uricani",
+    "County": "Hunedoara",
+    "Population (2011)": "8,972",
+    "Population (2002)": "12,177",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1965*"
+  },
+  {
+    "City": "Babadag",
+    "County": "Tulcea",
+    "Population (2011)": "8,940",
+    "Population (2002)": "10,878",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Bumbești-Jiu",
+    "County": "Gorj",
+    "Population (2011)": "8,932",
+    "Population (2002)": "11,882",
+    "Altitude (m)": "@@@_-325.1121124343",
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Bușteni",
+    "County": "Prahova",
+    "Population (2011)": "8,894",
+    "Population (2002)": "11,787",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1946*"
+  },
+  {
+    "City": "Agnita",
+    "County": "Sibiu",
+    "Population (2011)": "8,732",
+    "Population (2002)": "12,115",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1950*"
+  },
+  {
+    "City": "Iernut",
+    "County": "Mureș",
+    "Population (2011)": "8,705",
+    "Population (2002)": "9,833",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Baraolt",
+    "County": "Covasna",
+    "Population (2011)": "8,672",
+    "Population (2002)": "10,464",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Tășnad",
+    "County": "Satu Mare",
+    "Population (2011)": "8,631",
+    "Population (2002)": "10,188",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Roznov",
+    "County": "Neamț",
+    "Population (2011)": "8,593",
+    "Population (2002)": "9,171",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2003*"
+  },
+  {
+    "City": "Băbeni",
+    "County": "Vâlcea",
+    "Population (2011)": "8,451",
+    "Population (2002)": "9,475",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2002*"
+  },
+  {
+    "City": "Negrești",
+    "County": "Vaslui",
+    "Population (2011)": "8,380",
+    "Population (2002)": "10,481",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Recaș",
+    "County": "Timiș",
+    "Population (2011)": "8,336",
+    "Population (2002)": "8,560",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Măcin",
+    "County": "Tulcea",
+    "Population (2011)": "8,245",
+    "Population (2002)": "11,803",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Târgu Cărbunești",
+    "County": "Gorj",
+    "Population (2011)": "8,034",
+    "Population (2002)": "9,338",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Chișineu-Criș",
+    "County": "Arad",
+    "Population (2011)": "7,987",
+    "Population (2002)": "8,724",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Siret",
+    "County": "Suceava",
+    "Population (2011)": "7,976",
+    "Population (2002)": "10,003",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Mihăilești",
+    "County": "Giurgiu",
+    "Population (2011)": "7,923",
+    "Population (2002)": "7,161",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Budești",
+    "County": "Călărași",
+    "Population (2011)": "7,725",
+    "Population (2002)": "9,596",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Plopeni",
+    "County": "Prahova",
+    "Population (2011)": "7,718",
+    "Population (2002)": "10,083",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Panciu",
+    "County": "Vrancea",
+    "Population (2011)": "7,664",
+    "Population (2002)": "9,834",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Călimănești",
+    "County": "Vâlcea",
+    "Population (2011)": "7,622",
+    "Population (2002)": "8,923",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1927*"
+  },
+  {
+    "City": "Fieni",
+    "County": "Dâmbovița",
+    "Population (2011)": "7,587",
+    "Population (2002)": "8,092",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Șomcuta Mare",
+    "County": "Maramureș",
+    "Population (2011)": "7,565",
+    "Population (2002)": "7,708",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Întorsura Buzăului",
+    "County": "Covasna",
+    "Population (2011)": "7,528",
+    "Population (2002)": "9,081",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Zlatna",
+    "County": "Alba",
+    "Population (2011)": "7,490",
+    "Population (2002)": "9,254",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Anina",
+    "County": "Caraș-Severin",
+    "Population (2011)": "7,485",
+    "Population (2002)": "10,594",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1952*"
+  },
+  {
+    "City": "Curtici",
+    "County": "Arad",
+    "Population (2011)": "7,453",
+    "Population (2002)": "9,762",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Nădlac",
+    "County": "Arad",
+    "Population (2011)": "7,398",
+    "Population (2002)": "8,422",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Dumbrăveni",
+    "County": "Sibiu",
+    "Population (2011)": "7,388",
+    "Population (2002)": "8,812",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Victoria",
+    "County": "Brașov",
+    "Population (2011)": "7,386",
+    "Population (2002)": "9,059",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1954*"
+  },
+  {
+    "City": "Amara",
+    "County": "Ialomița",
+    "Population (2011)": "7,345",
+    "Population (2002)": "7,627",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Pătârlagele",
+    "County": "Buzău",
+    "Population (2011)": "7,304",
+    "Population (2002)": "8,290",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Techirghiol",
+    "County": "Constanța",
+    "Population (2011)": "7,292",
+    "Population (2002)": "7,388",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Pogoanele",
+    "County": "Buzău",
+    "Population (2011)": "7,275",
+    "Population (2002)": "7,614",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Ulmeni",
+    "County": "Maramureș",
+    "Population (2011)": "7,270",
+    "Population (2002)": "7,153",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Câmpeni",
+    "County": "Alba",
+    "Population (2011)": "7,221",
+    "Population (2002)": "8,587",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1961*"
+  },
+  {
+    "City": "Cehu Silvaniei",
+    "County": "Sălaj",
+    "Population (2011)": "7,214",
+    "Population (2002)": "8,468",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Tăuții-Măgherăuș",
+    "County": "Maramureș",
+    "Population (2011)": "7,136",
+    "Population (2002)": "6,713",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Murgeni",
+    "County": "Vaslui",
+    "Population (2011)": "7,119",
+    "Population (2002)": "7,674",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2003*"
+  },
+  {
+    "City": "Tismana",
+    "County": "Gorj",
+    "Population (2011)": "7,035",
+    "Population (2002)": "7,894",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Buziaș",
+    "County": "Timiș",
+    "Population (2011)": "7,023",
+    "Population (2002)": "8,128",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Segarcea",
+    "County": "Dolj",
+    "Population (2011)": "7,019",
+    "Population (2002)": "8,704",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Săveni",
+    "County": "Botoșani",
+    "Population (2011)": "6,999",
+    "Population (2002)": "8,685",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1920*/1968*"
+  },
+  {
+    "City": "Pâncota",
+    "County": "Arad",
+    "Population (2011)": "6,946",
+    "Population (2002)": "7,418",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Ungheni",
+    "County": "Mureș",
+    "Population (2011)": "6,945",
+    "Population (2002)": "6,554",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Sărmașu",
+    "County": "Mureș",
+    "Population (2011)": "6,942",
+    "Population (2002)": "7,493",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2003*"
+  },
+  {
+    "City": "Răcari",
+    "County": "Dâmbovița",
+    "Population (2011)": "6,930",
+    "Population (2002)": "6,892",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Tălmaciu",
+    "County": "Sibiu",
+    "Population (2011)": "6,905",
+    "Population (2002)": "9,147",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Cajvana",
+    "County": "Suceava",
+    "Population (2011)": "6,901",
+    "Population (2002)": "7,263",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Vlăhița",
+    "County": "Harghita",
+    "Population (2011)": "6,898",
+    "Population (2002)": "7,392",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Fundulea",
+    "County": "Călărași",
+    "Population (2011)": "6,851",
+    "Population (2002)": "6,217",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Livada",
+    "County": "Satu Mare",
+    "Population (2011)": "6,773",
+    "Population (2002)": "7,004",
+    "Altitude (m)": "@@@_4164.0360476357",
+    "Year status\ngranted* or\nfirst attested†": "2006*"
+  },
+  {
+    "City": "Făget",
+    "County": "Timiș",
+    "Population (2011)": "6,761",
+    "Population (2002)": "7,519",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1994*"
+  },
+  {
+    "City": "Teiuș",
+    "County": "Alba",
+    "Population (2011)": "6,695",
+    "Population (2002)": "7,338",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1994*"
+  },
+  {
+    "City": "Bicaz",
+    "County": "Neamț",
+    "Population (2011)": "6,543",
+    "Population (2002)": "8,911",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1960*"
+  },
+  {
+    "City": "Ștei",
+    "County": "Bihor",
+    "Population (2011)": "6,529",
+    "Population (2002)": "9,466",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Însurăței",
+    "County": "Brăila",
+    "Population (2011)": "6,528",
+    "Population (2002)": "7,501",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Lehliu Gară",
+    "County": "Călărași",
+    "Population (2011)": "6,502",
+    "Population (2002)": "6,667",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Târgu Bujor",
+    "County": "Galați",
+    "Population (2011)": "6,299",
+    "Population (2002)": "8,044",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Piatra-Olt",
+    "County": "Olt",
+    "Population (2011)": "6,299",
+    "Population (2002)": "6,583",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Horezu",
+    "County": "Vâlcea",
+    "Population (2011)": "6,263",
+    "Population (2002)": "7,446",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Deta",
+    "County": "Timiș",
+    "Population (2011)": "6,260",
+    "Population (2002)": "6,423",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1810*/1968*"
+  },
+  {
+    "City": "Ardud",
+    "County": "Satu Mare",
+    "Population (2011)": "6,231",
+    "Population (2002)": "6,486",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Bălan",
+    "County": "Harghita",
+    "Population (2011)": "6,115",
+    "Population (2002)": "9,295",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Slănic",
+    "County": "Prahova",
+    "Population (2011)": "6,034",
+    "Population (2002)": "7,249",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1892*"
+  },
+  {
+    "City": "Brezoi",
+    "County": "Vâlcea",
+    "Population (2011)": "6,022",
+    "Population (2002)": "7,589",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Sebiș",
+    "County": "Arad",
+    "Population (2011)": "5,979",
+    "Population (2002)": "6,829",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Frasin",
+    "County": "Suceava",
+    "Population (2011)": "5,876",
+    "Population (2002)": "6,532",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Gătaia",
+    "County": "Timiș",
+    "Population (2011)": "5,861",
+    "Population (2002)": "8,103",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Potcoava",
+    "County": "Olt",
+    "Population (2011)": "5,743",
+    "Population (2002)": "6,111",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Miercurea Nirajului",
+    "County": "Mureș",
+    "Population (2011)": "5,554",
+    "Population (2002)": "5,824",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2003*"
+  },
+  {
+    "City": "Broșteni",
+    "County": "Suceava",
+    "Population (2011)": "5,506",
+    "Population (2002)": "6,603",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Novaci",
+    "County": "Gorj",
+    "Population (2011)": "5,431",
+    "Population (2002)": "6,151",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Săliște",
+    "County": "Sibiu",
+    "Population (2011)": "5,421",
+    "Population (2002)": "6,092",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2003*"
+  },
+  {
+    "City": "Copșa Mică",
+    "County": "Sibiu",
+    "Population (2011)": "5,404",
+    "Population (2002)": "5,157",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1961*"
+  },
+  {
+    "City": "Băneasa",
+    "County": "Constanța",
+    "Population (2011)": "5,384",
+    "Population (2002)": "5,538",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Baia de Aramă",
+    "County": "Mehedinți",
+    "Population (2011)": "5,349",
+    "Population (2002)": "5,724",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Ciacova",
+    "County": "Timiș",
+    "Population (2011)": "5,348",
+    "Population (2002)": "7,285",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Ștefănești",
+    "County": "Botoșani",
+    "Population (2011)": "5,314",
+    "Population (2002)": "5,628",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Vânju Mare",
+    "County": "Mehedinți",
+    "Population (2011)": "5,311",
+    "Population (2002)": "7,074",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Geoagiu",
+    "County": "Hunedoara",
+    "Population (2011)": "5,294",
+    "Population (2002)": "6,290",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2000*"
+  },
+  {
+    "City": "Rupea",
+    "County": "Brașov",
+    "Population (2011)": "5,269",
+    "Population (2002)": "6,246",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1951*"
+  },
+  {
+    "City": "Sângeorgiu de Pădure",
+    "County": "Mureș",
+    "Population (2011)": "5,166",
+    "Population (2002)": "5,492",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2003*"
+  },
+  {
+    "City": "Negru Vodă",
+    "County": "Constanța",
+    "Population (2011)": "5,088",
+    "Population (2002)": "5,529",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Abrud",
+    "County": "Alba",
+    "Population (2011)": "5,072",
+    "Population (2002)": "6,803",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Isaccea",
+    "County": "Tulcea",
+    "Population (2011)": "5,026",
+    "Population (2002)": "5,374",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Băile Herculane",
+    "County": "Caraș-Severin",
+    "Population (2011)": "5,008",
+    "Population (2002)": "6,051",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Milișăuți",
+    "County": "Suceava",
+    "Population (2011)": "5,005",
+    "Population (2002)": "8,433",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Cavnic",
+    "County": "Maramureș",
+    "Population (2011)": "4,976",
+    "Population (2002)": "5,494",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Fierbinți-Târg",
+    "County": "Ialomița",
+    "Population (2011)": "4,969",
+    "Population (2002)": "5,253",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Săliștea de Sus",
+    "County": "Maramureș",
+    "Population (2011)": "4,893",
+    "Population (2002)": "5,196",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1365†/2004*"
+  },
+  {
+    "City": "Bălcești",
+    "County": "Vâlcea",
+    "Population (2011)": "4,864",
+    "Population (2002)": "5,780",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2002*"
+  },
+  {
+    "City": "Berbești",
+    "County": "Vâlcea",
+    "Population (2011)": "4,836",
+    "Population (2002)": "5,704",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2003*"
+  },
+  {
+    "City": "Predeal",
+    "County": "Brașov",
+    "Population (2011)": "4,755",
+    "Population (2002)": "5,615",
+    "Altitude (m)": 1030.0,
+    "Year status\ngranted* or\nfirst attested†": "1935*"
+  },
+  {
+    "City": "Ghimbav",
+    "County": "Brașov",
+    "Population (2011)": "4,698",
+    "Population (2002)": "5,112",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2002*"
+  },
+  {
+    "City": "Azuga",
+    "County": "Prahova",
+    "Population (2011)": "4,440",
+    "Population (2002)": "6,119",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1948*"
+  },
+  {
+    "City": "Țicleni",
+    "County": "Gorj",
+    "Population (2011)": "4,414",
+    "Population (2002)": "5,205",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Aninoasa",
+    "County": "Hunedoara",
+    "Population (2011)": "4,360",
+    "Population (2002)": "6,108",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1989*"
+  },
+  {
+    "City": "Bucecea",
+    "County": "Botoșani",
+    "Population (2011)": "4,274",
+    "Population (2002)": "5,128",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Slănic Moldova",
+    "County": "Bacău",
+    "Population (2011)": "4,198",
+    "Population (2002)": "5,375",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Băile Olănești",
+    "County": "Vâlcea",
+    "Population (2011)": "4,186",
+    "Population (2002)": "4,814",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Miercurea Sibiului",
+    "County": "Sibiu",
+    "Population (2011)": "3,910",
+    "Population (2002)": "4,063",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Sulina",
+    "County": "Tulcea",
+    "Population (2011)": "3,663",
+    "Population (2002)": "5,140",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Bechet",
+    "County": "Dolj",
+    "Population (2011)": "3,657",
+    "Population (2002)": "3,864",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Făurei",
+    "County": "Brăila",
+    "Population (2011)": "3,592",
+    "Population (2002)": "4,626",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Ocna Sibiului",
+    "County": "Sibiu",
+    "Population (2011)": "3,562",
+    "Population (2002)": "4,184",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": null
+  },
+  {
+    "City": "Baia de Arieș",
+    "County": "Alba",
+    "Population (2011)": "3,461",
+    "Population (2002)": "4,877",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1998*"
+  },
+  {
+    "City": "Ocnele Mari",
+    "County": "Vâlcea",
+    "Population (2011)": "3,309",
+    "Population (2002)": "3,591",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1960*"
+  },
+  {
+    "City": "Căzănești",
+    "County": "Ialomița",
+    "Population (2011)": "3,271",
+    "Population (2002)": "3,641",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Dragomirești",
+    "County": "Maramureș",
+    "Population (2011)": "3,213",
+    "Population (2002)": "3,132",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "2004*"
+  },
+  {
+    "City": "Berești",
+    "County": "Galați",
+    "Population (2011)": "2,916",
+    "Population (2002)": "3,926",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  },
+  {
+    "City": "Borsec",
+    "County": "Harghita",
+    "Population (2011)": "2,585",
+    "Population (2002)": "3,109",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Băile Govora",
+    "County": "Vâlcea",
+    "Population (2011)": "2,449",
+    "Population (2002)": "3,147",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1927*"
+  },
+  {
+    "City": "Vașcău",
+    "County": "Bihor",
+    "Population (2011)": "2,315",
+    "Population (2002)": "3,032",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Solca",
+    "County": "Suceava",
+    "Population (2011)": "2,188",
+    "Population (2002)": "4,687",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1926*"
+  },
+  {
+    "City": "Nucet",
+    "County": "Bihor",
+    "Population (2011)": "2,165",
+    "Population (2002)": "2,851",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1956*"
+  },
+  {
+    "City": "Băile Tușnad",
+    "County": "Harghita",
+    "Population (2011)": "1,641",
+    "Population (2002)": "1,802",
+    "Altitude (m)": null,
+    "Year status\ngranted* or\nfirst attested†": "1968*"
+  }
+]

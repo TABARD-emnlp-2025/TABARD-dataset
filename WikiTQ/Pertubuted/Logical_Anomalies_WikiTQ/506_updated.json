@@ -1,0 +1,345 @@
+[
+    {
+        "Seasons":10,
+        "Team":"Basket Rimini Crabs",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":10,
+        "Team":"Aurora Basket Jesi",
+        "Ch.Wins":0,
+        "Promotions":1,
+        "Relegations":1
+    },
+    {
+        "Seasons":10,
+        "Team":"Andrea Costa Imola",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":3
+    },
+    {
+        "Seasons":9,
+        "Team":"Nuova Pallacanestro Pavia",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":9,
+        "Team":"Scafati Basket",
+        "Ch.Wins":1,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":8,
+        "Team":"Basket Club Ferrara",
+        "Ch.Wins":1,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":8,
+        "Team":"Pallac. Reggiana Reggio Emilia",
+        "Ch.Wins":2,
+        "Promotions":2,
+        "Relegations":0
+    },
+    {
+        "Seasons":7,
+        "Team":"Novara",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":3
+    },
+    {
+        "Seasons":7,
+        "Team":"Dinamo Basket Sassari",
+        "Ch.Wins":0,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":6,
+        "Team":"A.S. Junior Pallacanestro Casale",
+        "Ch.Wins":1,
+        "Promotions":1,
+        "Relegations":1
+    },
+    {
+        "Seasons":5,
+        "Team":"RB Montecatini Terme",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":5,
+        "Team":"Fabriano Basket",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":5,
+        "Team":"Societa Veroli Basket",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":5,
+        "Team":"Pistoia Basket 2000",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":4,
+        "Team":"Juve Caserta Basket",
+        "Ch.Wins":0,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":3,
+        "Team":"Gruppo Triboldi Basket Soresina",
+        "Ch.Wins":0,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":3,
+        "Team":"Nuova Sebastiani Rieti",
+        "Ch.Wins":1,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":3,
+        "Team":"Progresso Castelmaggiore",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":3,
+        "Team":"Orlandina Basket",
+        "Ch.Wins":1,
+        "Promotions":1,
+        "Relegations":1
+    },
+    {
+        "Seasons":3,
+        "Team":"Sutor Basket Montegranaro",
+        "Ch.Wins":0,
+        "Promotions":1,
+        "Relegations":1
+    },
+    {
+        "Seasons":3,
+        "Team":"Virtus Ragusa",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":3,
+        "Team":"Robur Basket Osimo",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":3,
+        "Team":"Reyer Venezia",
+        "Ch.Wins":0,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":3,
+        "Team":"New Basket Brindisi",
+        "Ch.Wins":1,
+        "Promotions":2,
+        "Relegations":0
+    },
+    {
+        "Seasons":2,
+        "Team":"Pallacanestro Messina",
+        "Ch.Wins":0,
+        "Promotions":1,
+        "Relegations":"@@@_-1"
+    },
+    {
+        "Seasons":2,
+        "Team":"Basket Trapani",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":2,
+        "Team":"Basket Draghi Castelletto Ticino",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":2,
+        "Team":"Basket Livorno",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":2,
+        "Team":"Pallalcesto Amatori Udine",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":2,
+        "Team":"Unione Cestistica Casalpusterlengo",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":2,
+        "Team":"Basket Barcellona",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":2,
+        "Team":"Fulgor Libertas Forl\u00ec",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":2,
+        "Team":"Scaligera Basket Verona",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":1,
+        "Team":"Societ\u00e0 Sportiva Basket Napoli",
+        "Ch.Wins":1,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Centro Sportivo Borgomanero",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Celana Basket Bergamo",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":1,
+        "Team":"Teramo Basket",
+        "Ch.Wins":1,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Virtus Pallacanestro Bologna",
+        "Ch.Wins":0,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Viola Reggio Calabria",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Victoria Libertas Pesaro",
+        "Ch.Wins":0,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Pallacanestro Varese",
+        "Ch.Wins":1,
+        "Promotions":1,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Pallacanestro Roseto",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":1,
+        "Team":"Nuova Pallacanestro Vigevano",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Cestistica San Severo",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":1
+    },
+    {
+        "Seasons":1,
+        "Team":"Basket Brescia Leonessa",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Unione Cestistica Piacentina Piacenza",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Pallacanestro Sant'Antimo",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Ostuni Basket",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    },
+    {
+        "Seasons":1,
+        "Team":"Biancobl\u00f9 Basket Bologna",
+        "Ch.Wins":0,
+        "Promotions":0,
+        "Relegations":0
+    }
+]

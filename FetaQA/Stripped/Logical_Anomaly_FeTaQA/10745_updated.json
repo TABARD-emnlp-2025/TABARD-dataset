@@ -1,0 +1,326 @@
+[
+    {
+        "Season":1988,
+        "Champion":"United States Fred Merkel",
+        "Motorcycle":"Honda RC30",
+        "Wins":2,
+        "2nd pl.":2,
+        "3rd pl.":1,
+        "Team":"Rumi Honda"
+    },
+    {
+        "Season":1989,
+        "Champion":"United States Fred Merkel",
+        "Motorcycle":"Honda RC30",
+        "Wins":3,
+        "2nd pl.":2,
+        "3rd pl.":5,
+        "Team":"Rumi Honda"
+    },
+    {
+        "Season":1990,
+        "Champion":"France Raymond Roche",
+        "Motorcycle":"Ducati 851",
+        "Wins":8,
+        "2nd pl.":7,
+        "3rd pl.":2,
+        "Team":"Squadra Corse Ducati Lucchinelli"
+    },
+    {
+        "Season":1991,
+        "Champion":"United States Doug Polen",
+        "Motorcycle":"Ducati 888",
+        "Wins":17,
+        "2nd pl.":4,
+        "3rd pl.":0,
+        "Team":"Fast by Ferracci Ducati"
+    },
+    {
+        "Season":1992,
+        "Champion":"United States Doug Polen",
+        "Motorcycle":"Ducati 888",
+        "Wins":9,
+        "2nd pl.":4,
+        "3rd pl.":2,
+        "Team":"Team Police Ducati"
+    },
+    {
+        "Season":1993,
+        "Champion":"United States Scott Russell",
+        "Motorcycle":"Kawasaki ZXR-750",
+        "Wins":5,
+        "2nd pl.":12,
+        "3rd pl.":1,
+        "Team":"Team Muzzy Kawasaki"
+    },
+    {
+        "Season":1994,
+        "Champion":"United Kingdom Carl Fogarty",
+        "Motorcycle":"Ducati 916",
+        "Wins":10,
+        "2nd pl.":4,
+        "3rd pl.":0,
+        "Team":"Virginio Ferrari Ducati Corse"
+    },
+    {
+        "Season":1995,
+        "Champion":"United Kingdom Carl Fogarty",
+        "Motorcycle":"Ducati 916",
+        "Wins":13,
+        "2nd pl.":6,
+        "3rd pl.":0,
+        "Team":"Virginio Ferrari Ducati Corse"
+    },
+    {
+        "Season":1996,
+        "Champion":"Australia Troy Corser",
+        "Motorcycle":"Ducati 916",
+        "Wins":7,
+        "2nd pl.":5,
+        "3rd pl.":1,
+        "Team":"Promotor Racing Team"
+    },
+    {
+        "Season":1997,
+        "Champion":"United States John Kocinski",
+        "Motorcycle":"Honda RC45",
+        "Wins":9,
+        "2nd pl.":4,
+        "3rd pl.":4,
+        "Team":"Castrol Honda-HRC"
+    },
+    {
+        "Season":1998,
+        "Champion":"United Kingdom Carl Fogarty",
+        "Motorcycle":"Ducati 916",
+        "Wins":3,
+        "2nd pl.":6,
+        "3rd pl.":5,
+        "Team":"Ducati Performance"
+    },
+    {
+        "Season":1999,
+        "Champion":"United Kingdom Carl Fogarty",
+        "Motorcycle":"Ducati 996",
+        "Wins":11,
+        "2nd pl.":6,
+        "3rd pl.":2,
+        "Team":"Ducati Performance"
+    },
+    {
+        "Season":2000,
+        "Champion":"United States Colin Edwards",
+        "Motorcycle":"Honda VTR1000 SP/RC51",
+        "Wins":8,
+        "2nd pl.":2,
+        "3rd pl.":1,
+        "Team":"Castrol Honda-HRC"
+    },
+    {
+        "Season":2001,
+        "Champion":"Australia Troy Bayliss",
+        "Motorcycle":"Ducati 996R",
+        "Wins":6,
+        "2nd pl.":6,
+        "3rd pl.":3,
+        "Team":"Ducati Infostrada"
+    },
+    {
+        "Season":2002,
+        "Champion":"United States Colin Edwards",
+        "Motorcycle":"Honda VTR1000 SP-2/RC51",
+        "Wins":11,
+        "2nd pl.":10,
+        "3rd pl.":4,
+        "Team":"Castrol Honda-HRC"
+    },
+    {
+        "Season":2003,
+        "Champion":"United Kingdom Neil Hodgson",
+        "Motorcycle":"Ducati 999F03",
+        "Wins":13,
+        "2nd pl.":7,
+        "3rd pl.":0,
+        "Team":"Ducati FILA"
+    },
+    {
+        "Season":2004,
+        "Champion":"United Kingdom James Toseland",
+        "Motorcycle":"Ducati 999F04",
+        "Wins":3,
+        "2nd pl.":9,
+        "3rd pl.":2,
+        "Team":"Ducati FILA"
+    },
+    {
+        "Season":2005,
+        "Champion":"Australia Troy Corser",
+        "Motorcycle":"Suzuki GSX-R1000 K5",
+        "Wins":8,
+        "2nd pl.":5,
+        "3rd pl.":5,
+        "Team":"Alstare Suzuki Corona"
+    },
+    {
+        "Season":2006,
+        "Champion":"Australia Troy Bayliss",
+        "Motorcycle":"Ducati 999F06",
+        "Wins":12,
+        "2nd pl.":3,
+        "3rd pl.":1,
+        "Team":"Ducati Xerox"
+    },
+    {
+        "Season":2007,
+        "Champion":"United Kingdom James Toseland",
+        "Motorcycle":"Honda CBR1000RR",
+        "Wins":8,
+        "2nd pl.":5,
+        "3rd pl.":1,
+        "Team":"Hannspree Ten Kate Honda"
+    },
+    {
+        "Season":2008,
+        "Champion":"Australia Troy Bayliss",
+        "Motorcycle":"Ducati 1098 F08",
+        "Wins":13,
+        "2nd pl.":6,
+        "3rd pl.":5,
+        "Team":"Ducati Xerox Team"
+    },
+    {
+        "Season":2009,
+        "Champion":"United States Ben Spies",
+        "Motorcycle":"Yamaha YZF-R1",
+        "Wins":14,
+        "2nd pl.":2,
+        "3rd pl.":1,
+        "Team":"Yamaha World Superbike Team"
+    },
+    {
+        "Season":2010,
+        "Champion":"Italy Max Biaggi",
+        "Motorcycle":"Aprilia RSV4 1000",
+        "Wins":10,
+        "2nd pl.":2,
+        "3rd pl.":2,
+        "Team":"Aprilia Alitalia Racing"
+    },
+    {
+        "Season":2011,
+        "Champion":"Spain Carlos Checa",
+        "Motorcycle":"Ducati 1098R",
+        "Wins":15,
+        "2nd pl.":0,
+        "3rd pl.":6,
+        "Team":"Althea Racing"
+    },
+    {
+        "Season":2012,
+        "Champion":"Italy Max Biaggi",
+        "Motorcycle":"Aprilia RSV4 1000",
+        "Wins":5,
+        "2nd pl.":2,
+        "3rd pl.":4,
+        "Team":"Aprilia Racing Team"
+    },
+    {
+        "Season":2013,
+        "Champion":"United Kingdom Tom Sykes",
+        "Motorcycle":"Kawasaki ZX-10R",
+        "Wins":9,
+        "2nd pl.":4,
+        "3rd pl.":5,
+        "Team":"Kawasaki Racing Team"
+    },
+    {
+        "Season":2014,
+        "Champion":"France Sylvain Guintoli",
+        "Motorcycle":"Aprilia RSV4 1000",
+        "Wins":5,
+        "2nd pl.":8,
+        "3rd pl.":3,
+        "Team":"Aprilia Racing Team"
+    },
+    {
+        "Season":2015,
+        "Champion":"United Kingdom Jonathan Rea",
+        "Motorcycle":"Kawasaki ZX-10R",
+        "Wins":14,
+        "2nd pl.":7,
+        "3rd pl.":2,
+        "Team":"Kawasaki Racing Team"
+    },
+    {
+        "Season":2016,
+        "Champion":"United Kingdom Jonathan Rea",
+        "Motorcycle":"Kawasaki ZX-10R",
+        "Wins":9,
+        "2nd pl.":9,
+        "3rd pl.":5,
+        "Team":"Kawasaki Racing Team"
+    },
+    {
+        "Season":2017,
+        "Champion":"United Kingdom Jonathan Rea",
+        "Motorcycle":"Kawasaki ZX-10RR",
+        "Wins":16,
+        "2nd pl.":7,
+        "3rd pl.":1,
+        "Team":"Kawasaki Racing Team"
+    },
+    {
+        "Season":2018,
+        "Champion":"United Kingdom Jonathan Rea",
+        "Motorcycle":"Kawasaki ZX-10RR",
+        "Wins":17,
+        "2nd pl.":4,
+        "3rd pl.":1,
+        "Team":"Kawasaki Racing Team"
+    },
+    {
+        "Season":2019,
+        "Champion":"Time Traveler",
+        "Motorcycle":"Ducati 1098R",
+        "Wins":15,
+        "2nd pl.":0,
+        "3rd pl.":6,
+        "Team":"Althea Racing"
+    },
+    {
+        "Season":2020,
+        "Champion":"Ancient Roman",
+        "Motorcycle":"Yamaha YZF-R1",
+        "Wins":14,
+        "2nd pl.":2,
+        "3rd pl.":1,
+        "Team":"Yamaha World Superbike Team"
+    },
+    {
+        "Season":2021,
+        "Champion":"Atlantis Citizen",
+        "Motorcycle":"Aprilia RSV4 1000",
+        "Wins":10,
+        "2nd pl.":2,
+        "3rd pl.":2,
+        "Team":"Aprilia Alitalia Racing"
+    },
+    {
+        "Season":2022,
+        "Champion":"United Kingdom Jonathan Rea",
+        "Motorcycle":"Kawasaki ZX-10R",
+        "Wins":-5,
+        "2nd pl.":7,
+        "3rd pl.":2,
+        "Team":"Kawasaki Racing Team"
+    },
+    {
+        "Season":2023,
+        "Champion":"United Kingdom Jonathan Rea",
+        "Motorcycle":"Kawasaki ZX-10R",
+        "Wins":9,
+        "2nd pl.":9,
+        "3rd pl.":5,
+        "Team":"Kawasaki Racing Team"
+    }
+]

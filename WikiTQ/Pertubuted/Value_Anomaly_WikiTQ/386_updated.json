@@ -1,0 +1,98 @@
+[
+  {
+    "Res.": "Loss",
+    "Record": "7-1",
+    "Opponent": "Cristiane Justino",
+    "Method": "TKO (punches)",
+    "Event": "Strikeforce: Carano vs. Cyborg",
+    "Date": "August 15, 2009",
+    "Round": 1,
+    "Time": "4:59",
+    "Location": "San Jose, California, United States",
+    "Notes": "For the Women's Featherweight Championship"
+  },
+  {
+    "Res.": "Win",
+    "Record": "7–0",
+    "Opponent": "Kelly Kobold",
+    "Method": "Decision (unanimous)",
+    "Event": "EliteXC: Heat",
+    "Date": "October 4, 2008",
+    "Round": "@@@_69",
+    "Time": "@@@_None",
+    "Location": "Sunrise, Florida, United States",
+    "Notes": null
+  },
+  {
+    "Res.": "Win",
+    "Record": "6–0",
+    "Opponent": "Kaitlin Young",
+    "Method": "TKO (doctor stoppage)",
+    "Event": "EliteXC: Primetime",
+    "Date": "May 31, 2008",
+    "Round": "@@@_38",
+    "Time": "3:00",
+    "Location": "Newark, New Jersey, United States",
+    "Notes": "144 lb Catchweight"
+  },
+  {
+    "Res.": "Win",
+    "Record": "5–0",
+    "Opponent": "Tonya Evinger",
+    "Method": "Submission (rear naked choke)",
+    "Event": "EliteXC: Uprising",
+    "Date": "September 15, 2007",
+    "Round": "@@@_-6",
+    "Time": "2:53",
+    "Location": "Oahu, Hawaii, United States",
+    "Notes": "141 lb"
+  },
+  {
+    "Res.": "Win",
+    "Record": "4–0",
+    "Opponent": "Julie Kedzie",
+    "Method": "Decision (unanimous)",
+    "Event": "EliteXC: Destiny",
+    "Date": "February 10, 2007",
+    "Round": "@@@_-13",
+    "Time": "3:00",
+    "Location": "Southaven, Mississippi, United States",
+    "Notes": "EliteXC Debut, 141 lb"
+  },
+  {
+    "Res.": "Win",
+    "Record": "3–0",
+    "Opponent": "Elaina Maxwell",
+    "Method": "Decision (unanimous)",
+    "Event": "Strikeforce: Triple Threat",
+    "Date": "December 8, 2006",
+    "Round": 3,
+    "Time": "2:00",
+    "Location": "San Jose, California, United States",
+    "Notes": "Strikeforce Debut, 150 lb bout"
+  },
+  {
+    "Res.": "Win",
+    "Record": "2–0",
+    "Opponent": "Rosi Sexton",
+    "Method": "KO (punch)",
+    "Event": "World Pro Fighting Championships 1",
+    "Date": "September 15, 2006",
+    "Round": 2,
+    "Time": "4:55",
+    "Location": "Las Vegas, Nevada, United States",
+    "Notes": "138 lb Catchweight"
+  },
+  {
+    "Res.": "Win",
+    "Record": "1–0",
+    "Opponent": "Leiticia Pestova",
+    "Method": "KO (punches and elbows)",
+    "Event": "World Extreme Fighting",
+    "Date": "June 10, 2006",
+    "Round": 1,
+    "Time": "0:38",
+    "Location": "Las Vegas, Nevada, United States",
+    "Notes": "Fought at 135 lbs"
+  }
+]

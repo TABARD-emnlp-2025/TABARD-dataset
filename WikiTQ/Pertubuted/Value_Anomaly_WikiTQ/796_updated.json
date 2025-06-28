@@ -1,0 +1,58 @@
+[
+  {
+    "Network name": "Canal de las Estrellas",
+    "Flagship": "XEW 2",
+    "Programming type": "soap operas, retro movies and sports",
+    "Owner": "Televisa",
+    "Affiliates": 5.0
+  },
+  {
+    "Network name": "Canal 5",
+    "Flagship": "XHGC 5",
+    "Programming type": "cartoons, movies, and series",
+    "Owner": "Televisa",
+    "Affiliates": 4.0
+  },
+  {
+    "Network name": "TV MÁS",
+    "Flagship": "XHGV 4",
+    "Programming type": "educational and cultural",
+    "Owner": "Gobierno de Veracruz",
+    "Affiliates": "@@@_46.0"
+  },
+  {
+    "Network name": "Azteca 7",
+    "Flagship": "XHIMT 7",
+    "Programming type": "movies, series, and sports",
+    "Owner": "TV Azteca",
+    "Affiliates": 3.0
+  },
+  {
+    "Network name": "Galavisión",
+    "Flagship": "XEQ 9",
+    "Programming type": "retro and sports",
+    "Owner": "Televisa",
+    "Affiliates": 2.0
+  },
+  {
+    "Network name": "Once TV",
+    "Flagship": "XEIPN 11",
+    "Programming type": "educational",
+    "Owner": "Instituto Politecnico Nacional",
+    "Affiliates": "@@@_147.0"
+  },
+  {
+    "Network name": "Azteca 13",
+    "Flagship": "XHDF 13",
+    "Programming type": "news, soap operas, and sports",
+    "Owner": "@@@_None",
+    "Affiliates": "@@@_-26.0"
+  },
+  {
+    "Network name": "Televisa Regional",
+    "Flagship": null,
+    "Programming type": "select from Televisa networks1",
+    "Owner": "Televisa",
+    "Affiliates": "@@@_None"
+  }
+]

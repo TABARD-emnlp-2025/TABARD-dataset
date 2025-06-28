@@ -1,0 +1,162 @@
+[
+  {
+    "Week #": "Audition",
+    "Theme": "Auditioner's Choice",
+    "Song Choice": "\\Tempos Modernos\\\"\"",
+    "Original Artist": "Lulu Santos",
+    "Order #": null,
+    "Result": "Advanced"
+  },
+  {
+    "Week #": "Theater",
+    "Theme": "First Solo",
+    "Song Choice": "\\A Sombra Da Maldade\\\"\"",
+    "Original Artist": "Cidade Negra",
+    "Order #": null,
+    "Result": "Advanced"
+  },
+  {
+    "Week #": "Top 30",
+    "Theme": "Semi-Final/Group 3",
+    "Song Choice": "\\Noite Do Prazer\\\"\"",
+    "Original Artist": "Cláudio Zoli",
+    "Order #": 10.0,
+    "Result": "Advanced"
+  },
+  {
+    "Week #": "Top 10",
+    "Theme": "My Idol",
+    "Song Choice": "\\Paraíso\\\"\"",
+    "Original Artist": "Cláudio Zoli",
+    "Order #": 6.0,
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 9",
+    "Theme": "Male Singers",
+    "Song Choice": "\\Último Romântico\\\"\"",
+    "Original Artist": "Lulu Santos",
+    "Order #": 8.0,
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 8",
+    "Theme": "Female Singers",
+    "Song Choice": "\\Lanterna dos Afogados\\\"\"",
+    "Original Artist": "Cássia Eller",
+    "Order #": 1.0,
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 7",
+    "Theme": "Birth Year Songs",
+    "Song Choice": "\\Frisson\\\"\"",
+    "Original Artist": "Tunai",
+    "Order #": "@@@_None",
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 6",
+    "Theme": "Jovem Pan Hits",
+    "Song Choice": "\\Do Seu Lado\\\"\"",
+    "Original Artist": "Jota Quest",
+    "Order #": 6.0,
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 5",
+    "Theme": "Jovem Guarda",
+    "Song Choice": "\\O Bom\\\"\"",
+    "Original Artist": "Eduardo Araújo",
+    "Order #": 3.0,
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 5",
+    "Theme": "Jovem Guarda",
+    "Song Choice": "\\Vem Me Ajudar\\\"\"",
+    "Original Artist": "The Fevers",
+    "Order #": 8.0,
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 4",
+    "Theme": "Brazil Regional",
+    "Song Choice": "\\Eva\\\"\"",
+    "Original Artist": "Radio Taxi",
+    "Order #": 3.0,
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 4",
+    "Theme": "Brazil Regional",
+    "Song Choice": "\\Admirável Gado Novo\\\"\"",
+    "Original Artist": "Zé Ramalho",
+    "Order #": 7.0,
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 3",
+    "Theme": "Contestant's Choice",
+    "Song Choice": "\\As Sete Vampiras\\\"\"",
+    "Original Artist": "Léo Jaime",
+    "Order #": 2.0,
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 3",
+    "Theme": "Contestant's Choice",
+    "Song Choice": "\\Eu Me Rendo\\\"\"",
+    "Original Artist": "Fábio Júnior",
+    "Order #": "@@@_55.4072085176",
+    "Result": "Safe"
+  },
+  {
+    "Week #": "Top 2",
+    "Theme": "Winner's Single",
+    "Song Choice": "\\Deixo A Voz Me Levar\\\"\"",
+    "Original Artist": "Leandro Lopes",
+    "Order #": 2.0,
+    "Result": "Winner"
+  },
+  {
+    "Week #": "Top 2",
+    "Theme": "Challenging Songs",
+    "Song Choice": "\\Queixa\\\"\"",
+    "Original Artist": "Caetano Veloso",
+    "Order #": "@@@_-4.5772058824",
+    "Result": "Winner"
+  },
+  {
+    "Week #": "Top 2",
+    "Theme": "Judge's Choice",
+    "Song Choice": "\\Quero Te Encontrar\\\"\"",
+    "Original Artist": "Kid Abelha",
+    "Order #": 6.0,
+    "Result": "Winner"
+  },
+  {
+    "Week #": "Top 2",
+    "Theme": "Best of the Season",
+    "Song Choice": "\\Paraíso\\\"\"",
+    "Original Artist": "Cláudio Zoli",
+    "Order #": 8.0,
+    "Result": "Winner"
+  },
+  {
+    "Week #": "@@@_None",
+    "Theme": "Celebrity Duet",
+    "Song Choice": "\\Admirável Gado Novo\\\"",
+    "Original Artist": null,
+    "Order #": null,
+    "Result": null
+  },
+  {
+    "Week #": "with Zé Ramalho\"",
+    "Theme": "Zé Ramalho",
+    "Song Choice": "10",
+    "Original Artist": "Winner",
+    "Order #": "@@@_-5.1875",
+    "Result": null
+  }
+]

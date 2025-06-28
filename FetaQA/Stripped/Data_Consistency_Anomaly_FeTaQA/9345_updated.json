@@ -1,0 +1,20 @@
+[
+    {
+        "Candidate":"Václav Klaus",
+        "Votes":"327",
+        "%":95.89,
+        "Percent":null
+    },
+    {
+        "Candidate":"against",
+        "Votes":14,
+        "%":"nan",
+        "Percent":4.11
+    },
+    {
+        "Candidate":"Total",
+        "Votes":341,
+        "%":"100.0",
+        "Percent":null
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "Goal":1,
+        "Date":"May 9, 2004",
+        "Location":"USAAlbuquerque NM",
+        "Opponent":"Mexico",
+        "Lineup":"on 70' (off Lilly)",
+        "Min":"19",
+        "Assist\/pass":"Tarpley",
+        "Score":"3\u20130",
+        "Result":"3\u20130",
+        "Competition":"Friendly"
+    },
+    {
+        "Goal":2,
+        "Date":"Jun 26, 2005",
+        "Location":"USAVirginia Beach",
+        "Opponent":"Canada",
+        "Lineup":"90.Start",
+        "Min":"12",
+        "Assist\/pass":"unassisted",
+        "Score":"1\u20130",
+        "Result":"2\u20130",
+        "Competition":"Friendly"
+    },
+    {
+        "Goal":3,
+        "Date":"Jan 30, 2007",
+        "Location":"CHNGuangzhou",
+        "Opponent":"China PR",
+        "Lineup":"90.Start",
+        "Min":"46+",
+        "Assist\/pass":"unassisted",
+        "Score":"1\u20130",
+        "Result":"2\u20130",
+        "Competition":"Four Nations Tournament"
+    },
+    {
+        "Goal":4,
+        "Date":"May 12, 2007",
+        "Location":"USAFrisco TX",
+        "Opponent":"Canada",
+        "Lineup":"off 72' (on Wagner)",
+        "Min":"28",
+        "Assist\/pass":"Tarpley",
+        "Score":"3\u20131",
+        "Result":"6\u20132",
+        "Competition":"Friendly"
+    },
+    {
+        "Goal":5,
+        "Date":"Sep 18, 2007",
+        "Location":"CHNShanghai",
+        "Opponent":"Nigeria",
+        "Lineup":"90.Start",
+        "Min":"1",
+        "Assist\/pass":"Wambach",
+        "Score":"1\u20130",
+        "Result":"1\u20130",
+        "Competition":"World Cup \u2013 Group B"
+    },
+    {
+        "Goal":6,
+        "Date":"Sep 30, 2007",
+        "Location":"CHNShanghai",
+        "Opponent":"Norway",
+        "Lineup":"90.Start",
+        "Min":"58",
+        "Assist\/pass":"unassisted",
+        "Score":"3\u20130",
+        "Result":"4\u20131",
+        "Competition":"World Cup Final - third place playoff"
+    },
+    {
+        "Goal":7,
+        "Date":"Aug 18, 2008",
+        "Location":"CHNBeijing",
+        "Opponent":"Japan",
+        "Lineup":"90.Start",
+        "Min":"44",
+        "Assist\/pass":"Rodriguez",
+        "Score":"2\u20131",
+        "Result":"4\u20132",
+        "Competition":"Olympics tournament"
+    },
+    {
+        "Goal":8,
+        "Date":"Sep 20, 2008",
+        "Location":"USABridgeview IL",
+        "Opponent":"Ireland",
+        "Lineup":"90.Start",
+        "Min":"19",
+        "Assist\/pass":"Tarpley",
+        "Score":"1\u20130",
+        "Result":"2\u20130",
+        "Competition":"Friendly"
+    },
+    {
+        "Goal":9,
+        "Date":"Dec 25, 2025",
+        "Location":"USABridgeview IL",
+        "Opponent":"Ireland",
+        "Lineup":"90.Start",
+        "Min":"19",
+        "Assist\/pass":"Tarpley",
+        "Score":"1\u20130",
+        "Result":"2\u20130",
+        "Competition":"Friendly"
+    },
+    {
+        "Goal":10,
+        "Date":"Oct 32, 2009",
+        "Location":"USANew York City",
+        "Opponent":"Brazil",
+        "Lineup":"off 50' (on Smith)",
+        "Min":"30",
+        "Assist\/pass":"Lloyd",
+        "Score":"2\u20131",
+        "Result":"3\u20132",
+        "Competition":"Friendly"
+    }
+]

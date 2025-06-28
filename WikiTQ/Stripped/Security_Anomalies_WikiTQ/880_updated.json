@@ -1,0 +1,130 @@
+[
+    {
+        "Year":2001,
+        "Competition":"Beijing Marathon",
+        "Venue":"Beijing, PR China",
+        "Position":"7th",
+        "Event":"Marathon",
+        "Notes":"2:10:46"
+    },
+    {
+        "Year":2002,
+        "Competition":"Beijing Marathon",
+        "Venue":"Beijing, PR China",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:13:09"
+    },
+    {
+        "Year":2004,
+        "Competition":"Olympic Games",
+        "Venue":"Athens, Greece",
+        "Position":"31st",
+        "Event":"Marathon",
+        "Notes":"2:19:26"
+    },
+    {
+        "Year":2007,
+        "Competition":"Xiamen International Marathon",
+        "Venue":"Xiamen, PR China",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:13:17"
+    },
+    {
+        "Year":2007,
+        "Competition":"World Championships",
+        "Venue":"Osaka, Japan",
+        "Position":"43rd",
+        "Event":"Marathon",
+        "Notes":"2:32:44"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, PR China",
+        "Position":"51st",
+        "Event":"Marathon",
+        "Notes":"2:24:08"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, PR China",
+        "Position":null,
+        "Event":"Marathon",
+        "Notes":"2:24:08"
+    },
+    {
+        "Year":2007,
+        "Competition":"World Championships",
+        "Venue":"Osaka, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:13:17"
+    },
+    {
+        "Year":2004,
+        "Competition":"Olympic Games",
+        "Venue":null,
+        "Position":"31st",
+        "Event":"Marathon",
+        "Notes":"2:19:26"
+    },
+    {
+        "Year":2001,
+        "Competition":"Beijing Marathon",
+        "Venue":"Beijing, PR China",
+        "Position":"7th",
+        "Event":"Marathon",
+        "Notes":"2:10:46"
+    },
+    {
+        "Year":2002,
+        "Competition":"Beijing Marathon",
+        "Venue":"Beijing, PR China",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:13:09"
+    },
+    {
+        "Year":2007,
+        "Competition":"Xiamen International Marathon",
+        "Venue":"Xiamen, PR China",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:13:17"
+    },
+    {
+        "Year":2007,
+        "Competition":"World Championships",
+        "Venue":"Osaka, Japan",
+        "Position":"43rd",
+        "Event":"Marathon",
+        "Notes":"2:32:44"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, PR China",
+        "Position":"51st",
+        "Event":"Marathon",
+        "Notes":"2:24:08"
+    },
+    {
+        "Year":2004,
+        "Competition":"Olympic Games",
+        "Venue":null,
+        "Position":"31st",
+        "Event":"Marathon",
+        "Notes":"2:19:26"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, PR China",
+        "Position":null,
+        "Event":"Marathon",
+        "Notes":"2:24:08"
+    }
+]

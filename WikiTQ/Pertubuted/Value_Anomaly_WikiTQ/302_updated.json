@@ -1,0 +1,82 @@
+[
+  {
+    "Rank": "1",
+    "Nation": "Cuba",
+    "Gold": 4.0,
+    "Silver": "@@@_29",
+    "Bronze": 2,
+    "Total": 9.0
+  },
+  {
+    "Rank": "2",
+    "Nation": "Canada",
+    "Gold": 4.0,
+    "Silver": 2,
+    "Bronze": 1,
+    "Total": "@@@_110.8273624305"
+  },
+  {
+    "Rank": "3",
+    "Nation": "United States",
+    "Gold": 2.0,
+    "Silver": 0,
+    "Bronze": 2,
+    "Total": 4.0
+  },
+  {
+    "Rank": "4",
+    "Nation": "Mexico",
+    "Gold": 1.0,
+    "Silver": "@@@_-5",
+    "Bronze": 0,
+    "Total": 2.0
+  },
+  {
+    "Rank": "5",
+    "Nation": "Ecuador",
+    "Gold": 1.0,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": "@@@_None"
+  },
+  {
+    "Rank": "6",
+    "Nation": "Argentina",
+    "Gold": 0.0,
+    "Silver": 4,
+    "Bronze": 3,
+    "Total": 7.0
+  },
+  {
+    "Rank": "7",
+    "Nation": "Brazil",
+    "Gold": 0.0,
+    "Silver": 2,
+    "Bronze": 2,
+    "Total": 4.0
+  },
+  {
+    "Rank": "8",
+    "Nation": "Chile",
+    "Gold": 0.0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  },
+  {
+    "Rank": "8",
+    "Nation": "Venezuela",
+    "Gold": 0.0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  },
+  {
+    "Rank": "Total",
+    "Nation": "Total",
+    "Gold": "@@@_None",
+    "Silver": 12,
+    "Bronze": 12,
+    "Total": 36.0
+  }
+]

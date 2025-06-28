@@ -1,0 +1,140 @@
+[
+    {
+        "Year":2009,
+        "Organization":"BET Awards",
+        "Award":"Video of the Year",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Organization":"BET Awards",
+        "Award":"Viewers Choice Award",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"MOBO Awards",
+        "Award":"Best Video",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Europe Music Awards",
+        "Award":"Best Video",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Video Music Awards",
+        "Award":"Video of the Year",
+        "Result":"@@@_Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Video Music Awards",
+        "Award":"Best Female Video",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Video Music Awards",
+        "Award":"Best Pop Video",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Video Music Awards",
+        "Award":"Best Editing in a Video",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Video Music Awards",
+        "Award":"Best Direction",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Video Music Awards",
+        "Award":"Best Special Effects",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Video Music Awards",
+        "Award":"Best Art Direction",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Video Music Awards",
+        "Award":"Best Cinematography in a Video",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"MTV Video Music Awards",
+        "Award":"Best Choreography in a Video",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Organization":"Kids' Choice Awards",
+        "Award":"Favorite Song",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Organization":"Soul Train Music Awards",
+        "Award":"Song of the Year",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Organization":"Soul Train Music Awards",
+        "Award":"The Ashford & Simpson Songwriter's Award",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"Teen Choice Awards",
+        "Award":"Choice R&B Track",
+        "Result":"@@@_Nominated"
+    },
+    {
+        "Year":2009,
+        "Organization":"TRL Awards",
+        "Award":"Nokia Playlist Generation Award",
+        "Result":"Won"
+    },
+    {
+        "Year":2010,
+        "Organization":"ASCAP Pop Music Awards",
+        "Award":"Most Performed Songs",
+        "Result":"Won"
+    },
+    {
+        "Year":2010,
+        "Organization":"ASCAP Rhythm & Soul Music Awards",
+        "Award":"Award Winning R&B/Hip-Hop Songs",
+        "Result":"Won"
+    },
+    {
+        "Year":2010,
+        "Organization":"52nd Annual Grammy Awards",
+        "Award":"Song of the Year",
+        "Result":"Won"
+    },
+    {
+        "Year":2010,
+        "Organization":"52nd Annual Grammy Awards",
+        "Award":"Best R&B Song",
+        "Result":"@@@_Nominated"
+    },
+    {
+        "Year":2010,
+        "Organization":"52nd Annual Grammy Awards",
+        "Award":"Best Female R&B Vocal Performance",
+        "Result":"Won"
+    }
+]

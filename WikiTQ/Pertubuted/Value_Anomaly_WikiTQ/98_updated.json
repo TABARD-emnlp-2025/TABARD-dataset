@@ -1,0 +1,66 @@
+[
+  {
+    "Year": 1998,
+    "Competition": "Turin Marathon",
+    "Venue": "Turin, Italy",
+    "Position": "3rd",
+    "Event": "Marathon",
+    "Notes": "2:12:59"
+  },
+  {
+    "Year": 2003,
+    "Competition": "Lisbon Marathon",
+    "Venue": "Lisbon, Portugal",
+    "Position": "1st",
+    "Event": "Marathon",
+    "Notes": "2:15:31"
+  },
+  {
+    "Year": 2004,
+    "Competition": "Vienna Marathon",
+    "Venue": "Vienna, Austria",
+    "Position": "3rd",
+    "Event": "Marathon",
+    "Notes": "2:11:24"
+  },
+  {
+    "Year": "@@@_52759",
+    "Competition": "Berlin Marathon",
+    "Venue": "Berlin, Germany",
+    "Position": "5th",
+    "Event": "Marathon",
+    "Notes": "2:09:08"
+  },
+  {
+    "Year": "@@@_30983",
+    "Competition": "World Championships",
+    "Venue": "@@@_None",
+    "Position": "18th",
+    "Event": "Marathon",
+    "Notes": "2:16:33"
+  },
+  {
+    "Year": "@@@_-1502",
+    "Competition": "Paris Marathon",
+    "Venue": "Paris, France",
+    "Position": "4th",
+    "Event": "Marathon",
+    "Notes": "2:08:55"
+  },
+  {
+    "Year": 2006,
+    "Competition": "Lisbon Marathon",
+    "Venue": "Lisbon, Portugal",
+    "Position": "1st",
+    "Event": "Marathon",
+    "Notes": "2:21:08"
+  },
+  {
+    "Year": 2007,
+    "Competition": "World Championships",
+    "Venue": "Osaka, Japan",
+    "Position": "—",
+    "Event": "Marathon",
+    "Notes": "DNS"
+  }
+]

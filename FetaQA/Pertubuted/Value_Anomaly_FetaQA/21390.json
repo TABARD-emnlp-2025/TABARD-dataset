@@ -1,0 +1,263 @@
+[
+    {
+        "Season":"Season",
+        "Club":"Club",
+        "Division":"Division",
+        "League":"Goals",
+        "Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Season":1996,
+        "Club":"Molde",
+        "Division":"Tippeligaen",
+        "League":0,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":0
+    },
+    {
+        "Season":1997,
+        "Club":"Molde",
+        "Division":"Tippeligaen",
+        "League":1,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":1
+    },
+    {
+        "Season":1998,
+        "Club":"Molde",
+        "Division":"Tippeligaen",
+        "League":1,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":1
+    },
+    {
+        "Season":"Molde Total",
+        "Club":"Molde Total",
+        "Division":"Molde Total",
+        "League":2,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":2
+    },
+    {
+        "Season":1999,
+        "Club":"H\u00f8dd",
+        "Division":"Adeccoligaen",
+        "League":2,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":2
+    },
+    {
+        "Season":"H\u00f8dd Total",
+        "Club":"H\u00f8dd Total",
+        "Division":"H\u00f8dd Total",
+        "League":2,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":2
+    },
+    {
+        "Season":2000,
+        "Club":"Start",
+        "Division":"Tippeligaen",
+        "League":6,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":6
+    },
+    {
+        "Season":2001,
+        "Club":"Start",
+        "Division":"Adeccoligaen",
+        "League":8,
+        "Cup":2,
+        "Other":"\u2013",
+        "Total":10
+    },
+    {
+        "Season":"Start Total",
+        "Club":"Start Total",
+        "Division":"Start Total",
+        "League":14,
+        "Cup":2,
+        "Other":"\u2013",
+        "Total":16
+    },
+    {
+        "Season":2002,
+        "Club":"V\u00e5lerenga",
+        "Division":"Tippeligaen",
+        "League":2,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":2
+    },
+    {
+        "Season":2003,
+        "Club":"V\u00e5lerenga",
+        "Division":"Tippeligaen",
+        "League":0,
+        "Cup":2,
+        "Other":"\u2013",
+        "Total":2
+    },
+    {
+        "Season":"V\u00e5lerenga Total",
+        "Club":"V\u00e5lerenga Total",
+        "Division":"V\u00e5lerenga Total",
+        "League":2,
+        "Cup":2,
+        "Other":"\u2013",
+        "Total":4
+    },
+    {
+        "Season":2003,
+        "Club":"Stab\u00e6k",
+        "Division":"Tippeligaen",
+        "League":1,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":1
+    },
+    {
+        "Season":2004,
+        "Club":"Stab\u00e6k",
+        "Division":"Tippeligaen",
+        "League":2,
+        "Cup":2,
+        "Other":0,
+        "Total":4
+    },
+    {
+        "Season":"Stab\u00e6k Total",
+        "Club":"Stab\u00e6k Total",
+        "Division":"Stab\u00e6k Total",
+        "League":3,
+        "Cup":2,
+        "Other":0,
+        "Total":5
+    },
+    {
+        "Season":2005,
+        "Club":"Molde",
+        "Division":"Tippeligaen",
+        "League":7,
+        "Cup":2,
+        "Other":0,
+        "Total":9
+    },
+    {
+        "Season":2006,
+        "Club":"Molde",
+        "Division":"Tippeligaen",
+        "League":1,
+        "Cup":1,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Season":"Molde Total",
+        "Club":"Molde Total",
+        "Division":"Molde Total",
+        "League":8,
+        "Cup":3,
+        "Other":0,
+        "Total":11
+    },
+    {
+        "Season":2007,
+        "Club":"Str\u00f8msgodset",
+        "Division":"Tippeligaen",
+        "League":2,
+        "Cup":1,
+        "Other":"\u2013",
+        "Total":3
+    },
+    {
+        "Season":2008,
+        "Club":"Str\u00f8msgodset",
+        "Division":"Tippeligaen",
+        "League":4,
+        "Cup":1,
+        "Other":"\u2013",
+        "Total":5
+    },
+    {
+        "Season":2009,
+        "Club":"Str\u00f8msgodset",
+        "Division":"Tippeligaen",
+        "League":0,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":0
+    },
+    {
+        "Season":"Str\u00f8msgodset Total",
+        "Club":"Str\u00f8msgodset Total",
+        "Division":"Str\u00f8msgodset Total",
+        "League":6,
+        "Cup":2,
+        "Other":"\u2013",
+        "Total":8
+    },
+    {
+        "Season":2010,
+        "Club":"Mj\u00f8ndalen",
+        "Division":"Adeccoligaen",
+        "League":0,
+        "Cup":0,
+        "Other":"\u2013",
+        "Total":0
+    },
+    {
+        "Season":2011,
+        "Club":"Mj\u00f8ndalen",
+        "Division":"Adeccoligaen",
+        "League":1,
+        "Cup":1,
+        "Other":"\u2013",
+        "Total":2
+    },
+    {
+        "Season":2012,
+        "Club":"Mj\u00f8ndalen",
+        "Division":"Adeccoligaen",
+        "League":1,
+        "Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Season":2013,
+        "Club":"Mj\u00f8ndalen",
+        "Division":"Adeccoligaen",
+        "League":0,
+        "Cup":0,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Season":"Mj\u00f8ndalen Total",
+        "Club":"Mj\u00f8ndalen Total",
+        "Division":"Mj\u00f8ndalen Total",
+        "League":2,
+        "Cup":1,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Season":"Career Total",
+        "Club":"Career Total",
+        "Division":"Career Total",
+        "League":40,
+        "Cup":12,
+        "Other":0,
+        "Total":51
+    }
+]

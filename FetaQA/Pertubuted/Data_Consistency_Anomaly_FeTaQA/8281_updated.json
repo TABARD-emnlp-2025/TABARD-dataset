@@ -1,0 +1,44 @@
+[
+    {
+        "Team":"Aberdeen",
+        "League":76,
+        "Scottish Cup":11,
+        "League Cup":9,
+        "Total":96.0
+    },
+    {
+        "Team":"@@@_draw",
+        "League":53,
+        "Scottish Cup":9,
+        "League Cup":5,
+        "Total":67.0
+    },
+    {
+        "Team":"Dundee United",
+        "League":59,
+        "Scottish Cup":6,
+        "League Cup":11,
+        "Total":76.0
+    },
+    {
+        "Team":"Totals",
+        "League":188,
+        "Scottish Cup":26,
+        "League Cup":25,
+        "Total":239.0
+    },
+    {
+        "Team":"Aberdeen",
+        "League":76,
+        "Scottish Cup":11,
+        "League Cup":9,
+        "Total":null
+    },
+    {
+        "Team":"Dundee United",
+        "League":59,
+        "Scottish Cup":6,
+        "League Cup":12,
+        "Total":76.0
+    }
+]

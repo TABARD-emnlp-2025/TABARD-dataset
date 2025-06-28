@@ -1,0 +1,42 @@
+[
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Year":1997,
+        "Championship":"Grand Prix",
+        "Opponent in the final":"John Higgins",
+        "Score":"9–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Year":2007,
+        "Championship":"Shanghai Masters",
+        "Opponent in the final":"Ryan Day",
+        "Score":"10–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Year":2050,
+        "Championship":"World Championship",
+        "Opponent in the final":"Jane Doe",
+        "Score":"10–2"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":4.0,
+        "Year":1980,
+        "Championship":"Super Cup",
+        "Opponent in the final":"Future Player",
+        "Score":"11–5"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":5.0,
+        "Year":2005,
+        "Championship":"Asian Championship",
+        "Opponent in the final":"Nonexistent Player",
+        "Score":"5–10"
+    }
+]

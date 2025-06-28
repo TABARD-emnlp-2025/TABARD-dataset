@@ -1,0 +1,38 @@
+[
+    {
+        "Event":"60 meters",
+        "Time (seconds)":6.77,
+        "Venue":"Syracuse, New York",
+        "Date":"February 21, 2004"
+    },
+    {
+        "Event":"100 meters",
+        "Time (seconds)":"@@@_8.42",
+        "Venue":"Piscataway, New Jersey",
+        "Date":"May 1, 2004"
+    },
+    {
+        "Event":"200 meters",
+        "Time (seconds)":22.23,
+        "Venue":"New York, New York",
+        "Date":"March 9, 2002"
+    },
+    {
+        "Event":"Event",
+        "Time (seconds)":"Mark (meters)",
+        "Venue":"Venue",
+        "Date":"Date"
+    },
+    {
+        "Event":"Long Jump",
+        "Time (seconds)":7.37,
+        "Venue":"Syracuse, New York",
+        "Date":"February 21, 2004"
+    },
+    {
+        "Event":"Marathon",
+        "Time (seconds)":7200,
+        "Venue":"Austin, Texas",
+        "Date":"April 17, 2003"
+    }
+]

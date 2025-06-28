@@ -1,0 +1,30 @@
+[
+    {
+        "Year":"2023",
+        "Association":"African Entertainment Awards",
+        "Category":"Best African Actor",
+        "Nominated work":"Self",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Association":"Los Angeles Web Series Festival",
+        "Category":"Outstanding Drama Series",
+        "Nominated work":"Teenagers",
+        "Result":"Won"
+    },
+    {
+        "Year":"2015",
+        "Association":"Canadian Screen Awards",
+        "Category":"Best Performance in a Program or Series Produced for Digital Media",
+        "Nominated work":"Teenagers",
+        "Result":"Nominated"
+    },
+    {
+        "Year":"2015",
+        "Association":"International Academy of Web Television",
+        "Category":"Best Male Performance – Drama",
+        "Nominated work":"Teenagers",
+        "Result":"Nominated"
+    }
+]

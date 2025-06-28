@@ -1,0 +1,67 @@
+[
+    {
+        "Engine":"General Electric GE9X",
+        "Overall pressure ratio":"60:1",
+        "Major applications":"777X"
+    },
+    {
+        "Engine":"Rolls-Royce Trent XWB",
+        "Overall pressure ratio":"52:1",
+        "Major applications":"A350 XWB"
+    },
+    {
+        "Engine":"General Electric GE90",
+        "Overall pressure ratio":"42:1",
+        "Major applications":777
+    },
+    {
+        "Engine":"General Electric CF6",
+        "Overall pressure ratio":"30.5:1",
+        "Major applications":"747, 767, A300, MD-11, C-5"
+    },
+    {
+        "Engine":"General Electric F110",
+        "Overall pressure ratio":"-30:1",
+        "Major applications":"F-14, F-15, F-16"
+    },
+    {
+        "Engine":"Pratt & Whitney TF30",
+        "Overall pressure ratio":"20:1",
+        "Major applications":"F-14, F-111"
+    },
+    {
+        "Engine":"Rolls-Royce/Snecma Olympus 593",
+        "Overall pressure ratio":"15.5:1/80:1 Supersonic.",
+        "Major applications":"Concorde"
+    },
+    {
+        "Engine":"Pratt & Whitney PW4000",
+        "Overall pressure ratio":"45:1",
+        "Major applications":"A300, A310, 747, 767, 777, MD-11, DC-10"
+    },
+    {
+        "Engine":"Junkers Jumo 004",
+        "Overall pressure ratio":"20:1",
+        "Major applications":"Me 262"
+    },
+    {
+        "Engine":"Rolls-Royce Merlin",
+        "Overall pressure ratio":"0:1",
+        "Major applications":"Spitfire, Hurricane"
+    },
+    {
+        "Engine":"General Electric GEnx",
+        "Overall pressure ratio":"58:1",
+        "Major applications":"787, 747-8"
+    },
+    {
+        "Engine":"Rolls-Royce Pegasus",
+        "Overall pressure ratio":"25:1",
+        "Major applications":"Harrier"
+    },
+    {
+        "Engine":"Pratt & Whitney R-2800",
+        "Overall pressure ratio":"999:1",
+        "Major applications":"Corsair, Thunderbolt"
+    }
+]

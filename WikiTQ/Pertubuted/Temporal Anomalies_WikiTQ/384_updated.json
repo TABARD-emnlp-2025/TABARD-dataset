@@ -1,0 +1,90 @@
+[
+    {
+        "#":1,
+        "Air Date":"March 2, 2008",
+        "Timeslot (EST)":"Sunday 9:00 P.M.",
+        "Season":"2007-2008",
+        "Rating":9.4,
+        "Share":14,
+        "18-49 (Rating\/Share)":"5.3\/12",
+        "Viewers (m)":15.55,
+        "Weekly Rank (#)":"4"
+    },
+    {
+        "#":2,
+        "Air Date":"March 9, 2008",
+        "Timeslot (EST)":"Sunday 9:00 P.M.",
+        "Season":"2007-2008",
+        "Rating":7.4,
+        "Share":11,
+        "18-49 (Rating\/Share)":"4.1\/10",
+        "Viewers (m)":11.83,
+        "Weekly Rank (#)":"10"
+    },
+    {
+        "#":3,
+        "Air Date":"March 16, 2008",
+        "Timeslot (EST)":"@@@_Sunday 9:60 P.M.",
+        "Season":"2007-2008",
+        "Rating":6.0,
+        "Share":9,
+        "18-49 (Rating\/Share)":"3.6\/9",
+        "Viewers (m)":9.71,
+        "Weekly Rank (#)":"18"
+    },
+    {
+        "#":4,
+        "Air Date":"@@@_March 30, 2008",
+        "Timeslot (EST)":"@@@_Sunday 8:00 P.M.",
+        "Season":"2007-2008",
+        "Rating":6.1,
+        "Share":10,
+        "18-49 (Rating\/Share)":"3.5\/9",
+        "Viewers (m)":9.92,
+        "Weekly Rank (#)":"19"
+    },
+    {
+        "#":5,
+        "Air Date":"March 30, 2008",
+        "Timeslot (EST)":"Sunday 9:00 P.M.",
+        "Season":"2007-2008",
+        "Rating":7.1,
+        "Share":11,
+        "18-49 (Rating\/Share)":"3.9\/9",
+        "Viewers (m)":11.35,
+        "Weekly Rank (#)":"13"
+    },
+    {
+        "#":6,
+        "Air Date":"April 6, 2008",
+        "Timeslot (EST)":"Sunday 9:00 P.M.",
+        "Season":"2007-2008",
+        "Rating":5.9,
+        "Share":9,
+        "18-49 (Rating\/Share)":"3.2\/8",
+        "Viewers (m)":9.42,
+        "Weekly Rank (#)":"27"
+    },
+    {
+        "#":7,
+        "Air Date":"April 13, 2008",
+        "Timeslot (EST)":"@@@_Sunday 10:00 A.M.",
+        "Season":"2007-2008",
+        "Rating":5.6,
+        "Share":9,
+        "18-49 (Rating\/Share)":"2.9\/9",
+        "Viewers (m)":8.88,
+        "Weekly Rank (#)":"19"
+    },
+    {
+        "#":8,
+        "Air Date":"April 20, 2008",
+        "Timeslot (EST)":"@@@_None",
+        "Season":"2007-2008",
+        "Rating":6.4,
+        "Share":10,
+        "18-49 (Rating\/Share)":"3.2\/9",
+        "Viewers (m)":10.03,
+        "Weekly Rank (#)":"TBA"
+    }
+]

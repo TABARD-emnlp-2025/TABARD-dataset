@@ -1,0 +1,97 @@
+[
+    {
+        "Year":2010.0,
+        "Single":"\"Cloud City\"",
+        "Album":"Frond"
+    },
+    {
+        "Year":2010.0,
+        "Single":"\"Annie Orangetree\"",
+        "Album":"Frond"
+    },
+    {
+        "Year":-4010.8333333333,
+        "Single":"\"Greens Pool\"",
+        "Album":"non-album single"
+    },
+    {
+        "Year":53810.2597077425,
+        "Single":"\"Fantastic Explosion of Time\"",
+        "Album":"Beard, Wives, Denim"
+    },
+    {
+        "Year":2012.0,
+        "Single":"\"Moth Wings\"",
+        "Album":"Beard, Wives, Denim"
+    },
+    {
+        "Year":null,
+        "Single":"\"You Broke My Cool\"",
+        "Album":"Beard, Wives, Denim"
+    },
+    {
+        "Year":2013.0,
+        "Single":"\"Giant Tortoise\"",
+        "Album":"Hobo Rocket"
+    },
+    {
+        "Year":2013.0,
+        "Single":"\"Xanman\"",
+        "Album":"Hobo Rocket"
+    },
+    {
+        "Year":2013.0,
+        "Single":"\"O Dharma\"",
+        "Album":"Hobo Rocket"
+    },
+    {
+        "Year":2014.0,
+        "Single":"\"Elvis' Flaming Star\"",
+        "Album":"Man It Feels Like Space Again"
+    },
+    {
+        "Year":2014.0,
+        "Single":"\"Sitting Up on Our Crane\"",
+        "Album":"Man It Feels Like Space Again"
+    },
+    {
+        "Year":2015.0,
+        "Single":"\"Zond\"",
+        "Album":"Man It Feels Like Space Again"
+    },
+    {
+        "Year":2016.0,
+        "Single":"\"Sweep Me off My Feet\"",
+        "Album":"The Weather"
+    },
+    {
+        "Year":37954.0,
+        "Single":"\"30,000 Megatons\"",
+        "Album":"The Weather"
+    },
+    {
+        "Year":2017.0,
+        "Single":"\"The Weather\"",
+        "Album":"The Weather"
+    },
+    {
+        "Year":2017.0,
+        "Single":"\"Paint Me Silver\"",
+        "Album":"The Weather"
+    },
+    {
+        "Year":2018.0,
+        "Single":"\"Burnt Out Star\"",
+        "Album":"Tasmania"
+    },
+    {
+        "Year":-6554.0236874672,
+        "Single":"\"Sixteen Days\"",
+        "Album":"Tasmania"
+    },
+    {
+        "Year":2019.0,
+        "Single":"\"Daisy\"",
+        "Album":"Tasmania"
+    }
+]

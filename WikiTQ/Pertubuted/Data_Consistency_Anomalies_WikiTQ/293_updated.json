@@ -1,0 +1,275 @@
+[
+    {
+        "District":1,
+        "Name":"A.G. Crowe",
+        "Party":"Rep",
+        "District Office":"Slidell",
+        "First elected":"2007"
+    },
+    {
+        "District":2,
+        "Name":"Troy Brown",
+        "Party":"@@@_dem",
+        "District Office":"Napoleonville",
+        "First elected":"2011"
+    },
+    {
+        "District":3,
+        "Name":"J.P. Morrell",
+        "Party":"Dem",
+        "District Office":"New Orleans",
+        "First elected":"@@@_08"
+    },
+    {
+        "District":4,
+        "Name":"Ed Murray",
+        "Party":"@@@_Democrat",
+        "District Office":"New Orleans",
+        "First elected":"2005†"
+    },
+    {
+        "District":5,
+        "Name":"Karen Carter Peterson",
+        "Party":"Dem",
+        "District Office":"@@@_new orleans",
+        "First elected":"2010†"
+    },
+    {
+        "District":6,
+        "Name":"Bodi White",
+        "Party":"Rep",
+        "District Office":"Baton Rouge",
+        "First elected":"2011"
+    },
+    {
+        "District":7,
+        "Name":"David Heitmeier",
+        "Party":"Dem",
+        "District Office":"@@@_NOLA",
+        "First elected":"2007"
+    },
+    {
+        "District":8,
+        "Name":"John Alario",
+        "Party":"Rep",
+        "District Office":"Westwego",
+        "First elected":"2007"
+    },
+    {
+        "District":9,
+        "Name":"Conrad Appel",
+        "Party":"@@@_REP",
+        "District Office":"Metairie",
+        "First elected":"2008†"
+    },
+    {
+        "District":10,
+        "Name":"Daniel Martiny",
+        "Party":"Rep",
+        "District Office":"Metairie",
+        "First elected":"2007"
+    },
+    {
+        "District":11,
+        "Name":"Jack Donahue",
+        "Party":"Rep",
+        "District Office":"Mandeville",
+        "First elected":"2007"
+    },
+    {
+        "District":12,
+        "Name":"Ben Nevers",
+        "Party":"Dem",
+        "District Office":"Bogalusa",
+        "First elected":"2003"
+    },
+    {
+        "District":13,
+        "Name":"Dale M. Erdey",
+        "Party":"Rep",
+        "District Office":"Livingston",
+        "First elected":"2007"
+    },
+    {
+        "District":14,
+        "Name":"Yvonne Dorsey-Colomb",
+        "Party":"@@@_DEM",
+        "District Office":"Baton Rouge",
+        "First elected":"2007"
+    },
+    {
+        "District":15,
+        "Name":"Sharon Weston Broome",
+        "Party":"Dem",
+        "District Office":"Baton Rouge",
+        "First elected":"2004†"
+    },
+    {
+        "District":16,
+        "Name":"Dan Claitor",
+        "Party":"Rep",
+        "District Office":"Baton Rouge",
+        "First elected":"2009†"
+    },
+    {
+        "District":17,
+        "Name":"Rick Ward, III",
+        "Party":"Rep",
+        "District Office":"Port Allen",
+        "First elected":"2011"
+    },
+    {
+        "District":18,
+        "Name":"Jody Amedee",
+        "Party":"Rep",
+        "District Office":"Gonzales",
+        "First elected":"2003"
+    },
+    {
+        "District":19,
+        "Name":"Gary Smith, Jr.",
+        "Party":"Dem",
+        "District Office":"Norco",
+        "First elected":"2011"
+    },
+    {
+        "District":20,
+        "Name":"Norby Chabert",
+        "Party":"Rep",
+        "District Office":"Houma",
+        "First elected":"2009†"
+    },
+    {
+        "District":21,
+        "Name":"Bret Allain",
+        "Party":"Rep",
+        "District Office":"Franklin",
+        "First elected":"2011"
+    },
+    {
+        "District":22,
+        "Name":"Fred H. Mills, Jr.",
+        "Party":"Rep",
+        "District Office":"New Iberia",
+        "First elected":"2011†"
+    },
+    {
+        "District":23,
+        "Name":"Page Cortez",
+        "Party":"Rep",
+        "District Office":"Lafayette",
+        "First elected":"2011"
+    },
+    {
+        "District":24,
+        "Name":"Elbert Guillory",
+        "Party":"Rep",
+        "District Office":"Opelousas",
+        "First elected":"2009†"
+    },
+    {
+        "District":25,
+        "Name":"Dan \\Blade\\\" Morrish\"",
+        "Party":"Rep",
+        "District Office":"Jennings",
+        "First elected":"2007"
+    },
+    {
+        "District":26,
+        "Name":"Jonathan Perry",
+        "Party":"Rep",
+        "District Office":"Kaplan",
+        "First elected":"2011†"
+    },
+    {
+        "District":27,
+        "Name":"Ronnie Johns",
+        "Party":"Rep",
+        "District Office":"Lake Charles",
+        "First elected":"2011"
+    },
+    {
+        "District":28,
+        "Name":"Eric LaFleur",
+        "Party":"Dem",
+        "District Office":"Ville Platte",
+        "First elected":"2007"
+    },
+    {
+        "District":29,
+        "Name":"Rick Gallot",
+        "Party":"Dem",
+        "District Office":"Ruston",
+        "First elected":"2011"
+    },
+    {
+        "District":30,
+        "Name":"John R. Smith",
+        "Party":"Rep",
+        "District Office":"Leesville",
+        "First elected":"2007"
+    },
+    {
+        "District":31,
+        "Name":"Gerald Long",
+        "Party":"Rep",
+        "District Office":"Winnfield",
+        "First elected":"2007"
+    },
+    {
+        "District":32,
+        "Name":"Neil Riser",
+        "Party":"Rep",
+        "District Office":"Columbia",
+        "First elected":"2007"
+    },
+    {
+        "District":33,
+        "Name":"Mike Walsworth",
+        "Party":"Rep",
+        "District Office":"West Monroe",
+        "First elected":"2007"
+    },
+    {
+        "District":34,
+        "Name":"Francis C. Thompson",
+        "Party":"Dem",
+        "District Office":"Delhi",
+        "First elected":"2007"
+    },
+    {
+        "District":35,
+        "Name":"Robert Kostelka",
+        "Party":"Rep",
+        "District Office":"Monroe",
+        "First elected":"2003"
+    },
+    {
+        "District":36,
+        "Name":"Robert Adley",
+        "Party":"Rep",
+        "District Office":"Benton",
+        "First elected":"2003"
+    },
+    {
+        "District":37,
+        "Name":"Barrow Peacock",
+        "Party":"Rep",
+        "District Office":"Bossier",
+        "First elected":"2011"
+    },
+    {
+        "District":38,
+        "Name":"Sherri Smith Buffington",
+        "Party":"Rep",
+        "District Office":"Keithville",
+        "First elected":"2003"
+    },
+    {
+        "District":39,
+        "Name":"Gregory Tarver",
+        "Party":"Dem",
+        "District Office":"Shreveport",
+        "First elected":"2011"
+    }
+]

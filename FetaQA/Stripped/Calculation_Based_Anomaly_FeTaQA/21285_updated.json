@@ -1,0 +1,100 @@
+[
+    {
+        "Party":"Social Democratic Party",
+        "Votes":"220,141",
+        "%":27.4,
+        "Seats":50,
+        "+/-":1
+    },
+    {
+        "Party":"Free Democratic Party",
+        "Votes":"220,135",
+        "%":27.4,
+        "Seats":58,
+        "+/-":"–2"
+    },
+    {
+        "Party":"Swiss Conservative People's Party",
+        "Votes":"172,516",
+        "%":21.4,
+        "Seats":46,
+        "+/-":4
+    },
+    {
+        "Party":"Party of Farmers, Traders and Independents",
+        "Votes":"126,961",
+        "%":15.8,
+        "Seats":31,
+        "+/-":1
+    },
+    {
+        "Party":"Liberal Democratic Party",
+        "Votes":"23,782",
+        "%":3.0,
+        "Seats":6,
+        "+/-":"–1"
+    },
+    {
+        "Party":"Communist Party",
+        "Votes":"14,818",
+        "%":1.8,
+        "Seats":2,
+        "+/-":"–1"
+    },
+    {
+        "Party":"Democratic Group",
+        "Votes":"14,073",
+        "%":1.7,
+        "Seats":3,
+        "+/-":"–2"
+    },
+    {
+        "Party":"Evangelical People's Party",
+        "Votes":"5,618",
+        "%":0.7,
+        "Seats":1,
+        "+/-":0
+    },
+    {
+        "Party":"Union for Economic Defence",
+        "Votes":"6,593",
+        "%":0.8,
+        "Seats":1,
+        "+/-":0
+    },
+    {
+        "Party":"Other parties",
+        "Votes":"6,593",
+        "%":0.8,
+        "Seats":0,
+        "+/-":"–"
+    },
+    {
+        "Party":"Invalid/blank votes",
+        "Votes":"17,782",
+        "%":"–",
+        "Seats":"–",
+        "+/-":"–"
+    },
+    {
+        "Party":"Total",
+        "Votes":"822,389",
+        "%":100,
+        "Seats":"197",
+        "+/-":0
+    },
+    {
+        "Party":"Registered voters/turnout",
+        "Votes":"1,043,823",
+        "%":78.8,
+        "Seats":"–",
+        "+/-":"–"
+    },
+    {
+        "Party":"Source: Nohlen & Stöver",
+        "Votes":"Source: Nohlen & Stöver",
+        "%":"Source: Nohlen & Stöver",
+        "Seats":"Source: Nohlen & Stöver",
+        "+/-":"Source: Nohlen & Stöver"
+    }
+]

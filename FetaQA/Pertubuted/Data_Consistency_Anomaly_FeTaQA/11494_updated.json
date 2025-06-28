@@ -1,0 +1,258 @@
+[
+    {
+        "Rank":1,
+        "City/town":"Asunción",
+        "Department":"Capital District",
+        "Population 2002 Census":"512,112",
+        "Population 1992 Census":"500,938",
+        "Change":"+2.23%"
+    },
+    {
+        "Rank":2,
+        "City/town":"Ciudad del Este",
+        "Department":"Alto Paraná",
+        "Population 2002 Census":"222,274",
+        "Population 1992 Census":"133,881",
+        "Change":"+66.02%"
+    },
+    {
+        "Rank":3,
+        "City/town":"San Lorenzo",
+        "Department":"Central",
+        "Population 2002 Census":"204,356",
+        "Population 1992 Census":"133,395",
+        "Change":"+53.20%"
+    },
+    {
+        "Rank":4,
+        "City/town":"Luque",
+        "Department":"Central",
+        "Population 2002 Census":"170,986",
+        "Population 1992 Census":"84,877",
+        "Change":"@@@_101.45%"
+    },
+    {
+        "Rank":5,
+        "City/town":"Capiatá",
+        "Department":"Central",
+        "Population 2002 Census":"154,274",
+        "Population 1992 Census":"83,773",
+        "Change":"+84.16%"
+    },
+    {
+        "Rank":6,
+        "City/town":"Lambaré",
+        "Department":"Central",
+        "Population 2002 Census":"119,795",
+        "Population 1992 Census":"99,572",
+        "Change":"+20.31%"
+    },
+    {
+        "Rank":7,
+        "City/town":"Fernando de la Mora",
+        "Department":"Central",
+        "Population 2002 Census":"113,560",
+        "Population 1992 Census":"95,072",
+        "Change":"+19.45%"
+    },
+    {
+        "Rank":8,
+        "City/town":"Limpio",
+        "Department":"Central",
+        "Population 2002 Census":"73,158",
+        "Population 1992 Census":"26,177",
+        "Change":"+179.47%"
+    },
+    {
+        "Rank":9,
+        "City/town":"Ñemby",
+        "Department":"Central",
+        "Population 2002 Census":"71,909",
+        "Population 1992 Census":"26,999",
+        "Change":"+166.34%"
+    },
+    {
+        "Rank":10,
+        "City/town":"Encarnación",
+        "Department":"Itapúa",
+        "Population 2002 Census":"67,173",
+        "Population 1992 Census":"56,261",
+        "Change":"+19.40%"
+    },
+    {
+        "Rank":11,
+        "City/town":"Mariano Roque Alonso",
+        "Department":"Central",
+        "Population 2002 Census":"65,229",
+        "Population 1992 Census":"39,289",
+        "Change":"@@@_66.02%"
+    },
+    {
+        "Rank":12,
+        "City/town":"Pedro Juan Caballero",
+        "Department":"Amambay",
+        "Population 2002 Census":"64,592",
+        "Population 1992 Census":"53,566",
+        "Change":"+20.58%"
+    },
+    {
+        "Rank":13,
+        "City/town":"Villa Elisa",
+        "Department":"Central",
+        "Population 2002 Census":"53,166",
+        "Population 1992 Census":"29,796",
+        "Change":"+78.43%"
+    },
+    {
+        "Rank":14,
+        "City/town":"Caaguazú",
+        "Department":"Caaguazú",
+        "Population 2002 Census":"48,941",
+        "Population 1992 Census":"38,220",
+        "Change":"+28.05%"
+    },
+    {
+        "Rank":15,
+        "City/town":"Coronel Oviedo",
+        "Department":"Caaguazú",
+        "Population 2002 Census":"48,773",
+        "Population 1992 Census":"38,316",
+        "Change":"+27.29%"
+    },
+    {
+        "Rank":16,
+        "City/town":"Hernandarias",
+        "Department":"Alto Paraná",
+        "Population 2002 Census":"47,266",
+        "Population 1992 Census":"28,180",
+        "Change":"+67.73%"
+    },
+    {
+        "Rank":17,
+        "City/town":"Presidente Franco",
+        "Department":"Alto Paraná",
+        "Population 2002 Census":"47,246",
+        "Population 1992 Census":"31,825",
+        "Change":"+48.46%"
+    },
+    {
+        "Rank":18,
+        "City/town":"Itauguá",
+        "Department":"Central",
+        "Population 2002 Census":"45,577",
+        "Population 1992 Census":"13,910",
+        "Change":"+227.66%"
+    },
+    {
+        "Rank":19,
+        "City/town":"Concepción",
+        "Department":"Concepción",
+        "Population 2002 Census":"43,661",
+        "Population 1992 Census":"35,276",
+        "Change":"+23.77%"
+    },
+    {
+        "Rank":20,
+        "City/town":"Villarrica",
+        "Department":"Guairá",
+        "Population 2002 Census":"38,961",
+        "Population 1992 Census":"27,818",
+        "Change":"+40.06%"
+    },
+    {
+        "Rank":21,
+        "City/town":"San Antonio",
+        "Department":"Central",
+        "Population 2002 Census":"37,795",
+        "Population 1992 Census":"7,371",
+        "Change":"@@@_412.75%"
+    },
+    {
+        "Rank":22,
+        "City/town":"Pilar",
+        "Department":"Ñeembucú",
+        "Population 2002 Census":"24,300",
+        "Population 1992 Census":"19,121",
+        "Change":"+27.09%"
+    },
+    {
+        "Rank":23,
+        "City/town":"Caacupé",
+        "Department":"Cordillera",
+        "Population 2002 Census":"19,131",
+        "Population 1992 Census":"12,382",
+        "Change":"+54.51%"
+    },
+    {
+        "Rank":24,
+        "City/town":"Itá",
+        "Department":"Central",
+        "Population 2002 Census":"17,469",
+        "Population 1992 Census":"14,259",
+        "Change":"@@@_22.51%"
+    },
+    {
+        "Rank":25,
+        "City/town":"Mariscal Estigarribia",
+        "Department":"Boquerón",
+        "Population 2002 Census":"16,418",
+        "Population 1992 Census":"16,418",
+        "Change":"@@@_N/A"
+    },
+    {
+        "Rank":26,
+        "City/town":"Villa Hayes",
+        "Department":"Presidente Hayes",
+        "Population 2002 Census":"15,823",
+        "Population 1992 Census":"11,859",
+        "Change":"+33.43%"
+    },
+    {
+        "Rank":27,
+        "City/town":"Minga Guazú",
+        "Department":"Alto Paraná",
+        "Population 2002 Census":"14,806",
+        "Population 1992 Census":"8,914",
+        "Change":"+66.10%"
+    },
+    {
+        "Rank":28,
+        "City/town":"San Ignacio",
+        "Department":"Misiones",
+        "Population 2002 Census":"13,716",
+        "Population 1992 Census":"11,580",
+        "Change":"+18.45%"
+    },
+    {
+        "Rank":29,
+        "City/town":"San Estanislao",
+        "Department":"San Pedro",
+        "Population 2002 Census":"13,202",
+        "Population 1992 Census":"9,132",
+        "Change":"+44.57%"
+    },
+    {
+        "Rank":30,
+        "City/town":"Ayolas",
+        "Department":"Misiones",
+        "Population 2002 Census":"10,851",
+        "Population 1992 Census":"9,143",
+        "Change":"+18.68%"
+    },
+    {
+        "Rank":31,
+        "City/town":"Villeta",
+        "Department":"Central",
+        "Population 2002 Census":"10,106",
+        "Population 1992 Census":"7,439",
+        "Change":"+35.85%"
+    },
+    {
+        "Rank":32,
+        "City/town":"Areguá",
+        "Department":"Central",
+        "Population 2002 Census":"10,009",
+        "Population 1992 Census":"6,374",
+        "Change":"+57.03%"
+    }
+]

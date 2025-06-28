@@ -1,0 +1,58 @@
+[
+    {
+        "Date":"21 November 1939",
+        "Name":"HMS Belfast",
+        "Nationality":"Royal Navy",
+        "Tonnage":"11,500",
+        "Fate":"Damaged (mine)"
+    },
+    {
+        "Date":"1 December 1939",
+        "Name":"Mercator",
+        "Nationality":"Finland",
+        "Tonnage":"4,620",
+        "Fate":"sunk"
+    },
+    {
+        "Date":"21 December 1939",
+        "Name":"Carl Henckel",
+        "Nationality":"Sweden",
+        "Tonnage":"1,352",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"21 December 1939",
+        "Name":"HMS Bayonet",
+        "Nationality":"Royal Navy",
+        "Tonnage":"605",
+        "Fate":"Sunk (mine)"
+    },
+    {
+        "Date":"21 December 1939",
+        "Name":"Mars",
+        "Nationality":"Sweden",
+        "Tonnage":"1.475",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"31 January 1940",
+        "Name":"Vidar",
+        "Nationality":"Denmark",
+        "Tonnage":"1353",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"24 February 1940",
+        "Name":"Royal Archer",
+        "Nationality":"United Kingdom",
+        "Tonnage":"",
+        "Fate":"Sunk (mine)"
+    },
+    {
+        "Date":"21 December 1939",
+        "Name":"Mars",
+        "Nationality":"Sweden",
+        "Tonnage":"1,475",
+        "Fate":"Sunk"
+    }
+]

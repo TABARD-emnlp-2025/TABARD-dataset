@@ -1,0 +1,74 @@
+[
+    {
+        "Year":2001,
+        "Title":"The Wilde Girls",
+        "Character":"Carrie",
+        "Notes":"Guest role, alongside Olivia Newton-John"
+    },
+    {
+        "Year":2002,
+        "Title":"Legacy of the Silver Shadow",
+        "Character":"Samantha",
+        "Notes":"Guest role, TV series"
+    },
+    {
+        "Year":2002,
+        "Title":"Short Cuts",
+        "Character":"Katie",
+        "Notes":"TV series, appeared in 1 episode"
+    },
+    {
+        "Year":"2003–2007, 2015",
+        "Title":"Neighbours",
+        "Character":"Sky Mangel",
+        "Notes":"TV Series – Regular role"
+    },
+    {
+        "Year":2006,
+        "Title":"The Steph Show",
+        "Character":"Herself",
+        "Notes":"Reality Show"
+    },
+    {
+        "Year":2010,
+        "Title":"My Dear",
+        "Character":"Mady",
+        "Notes":"Short film"
+    },
+    {
+        "Year":2012,
+        "Title":"Liars All",
+        "Character":"Casey Kass",
+        "Notes":"Film"
+    },
+    {
+        "Year":2014,
+        "Title":"Red Herring",
+        "Character":"Charlie",
+        "Notes":"Film"
+    },
+    {
+        "Year":2015,
+        "Title":"Time Warp",
+        "Character":"Dr. Who",
+        "Notes":"Film; however, this character is typically associated with a TV series, not a film."
+    },
+    {
+        "Year":2020,
+        "Title":"Space Adventure",
+        "Character":"Captain Kirk",
+        "Notes":"Guest role. Note: This character is traditionally associated with Star Trek, not this title."
+    },
+    {
+        "Year":2018,
+        "Title":"The Marathon",
+        "Character":"Runner",
+        "Notes":"Film – claims to depict a marathon runner who completes in under 2 hours, which is a record-breaking time."
+    },
+    {
+        "Year":2011,
+        "Title":"The Forest",
+        "Character":"Ranger",
+        "Notes":"Film – set in the Sahara Desert, which is an uncommon setting for a forest."
+    }
+]

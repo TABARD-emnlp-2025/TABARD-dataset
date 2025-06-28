@@ -1,0 +1,119 @@
+[
+  {
+    "League": "V1.League",
+    "League.1": "3rd (2000–01)",
+    "Position": "8th",
+    "Teams": 8,
+    "Matches": 14.0,
+    "Win": 0,
+    "Lose": 14.0
+  },
+  {
+    "League": "V1.League",
+    "League.1": "4th (2001–02)",
+    "Position": "7th",
+    "Teams": 7,
+    "Matches": 12.0,
+    "Win": 1,
+    "Lose": 11.0
+  },
+  {
+    "League": "V1.League",
+    "League.1": "5th (2002–03)",
+    "Position": "3rd",
+    "Teams": 8,
+    "Matches": 14.0,
+    "Win": 9,
+    "Lose": 5.0
+  },
+  {
+    "League": "V1.League",
+    "League.1": "6th (2003–04)",
+    "Position": "Champion",
+    "Teams": 7,
+    "Matches": 12.0,
+    "Win": 11,
+    "Lose": "@@@_None"
+  },
+  {
+    "League": "V1.League",
+    "League.1": "7th (2004–05)",
+    "Position": "3rd",
+    "Teams": "@@@_-9",
+    "Matches": 14.0,
+    "Win": 10,
+    "Lose": 4.0
+  },
+  {
+    "League": "V1.League",
+    "League.1": "8th (2005–06)",
+    "Position": "4th",
+    "Teams": 8,
+    "Matches": 14.0,
+    "Win": 8,
+    "Lose": 6.0
+  },
+  {
+    "League": "V・challenge",
+    "League.1": "2006-07",
+    "Position": "6th",
+    "Teams": 8,
+    "Matches": 14.0,
+    "Win": 5,
+    "Lose": 9.0
+  },
+  {
+    "League": "V・challenge",
+    "League.1": "2007-08",
+    "Position": "8th",
+    "Teams": 8,
+    "Matches": 14.0,
+    "Win": 1,
+    "Lose": 13.0
+  },
+  {
+    "League": "V・challenge",
+    "League.1": "2008-09",
+    "Position": "7th",
+    "Teams": 10,
+    "Matches": 18.0,
+    "Win": 8,
+    "Lose": 10.0
+  },
+  {
+    "League": "V・challenge",
+    "League.1": "2009-10",
+    "Position": "5th",
+    "Teams": 12,
+    "Matches": 16.0,
+    "Win": 8,
+    "Lose": 8.0
+  },
+  {
+    "League": "V・challenge",
+    "League.1": "2010-11",
+    "Position": "5th",
+    "Teams": 12,
+    "Matches": 18.0,
+    "Win": 11,
+    "Lose": 7.0
+  },
+  {
+    "League": "V・challenge",
+    "League.1": "2011-12",
+    "Position": "@@@_None",
+    "Teams": 12,
+    "Matches": "@@@_None",
+    "Win": 16,
+    "Lose": 6.0
+  },
+  {
+    "League": "V・challenge",
+    "League.1": "2012-13",
+    "Position": "5th",
+    "Teams": 10,
+    "Matches": 18.0,
+    "Win": 9,
+    "Lose": "@@@_-7.0"
+  }
+]

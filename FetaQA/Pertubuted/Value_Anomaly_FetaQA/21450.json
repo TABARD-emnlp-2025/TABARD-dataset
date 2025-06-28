@@ -1,0 +1,98 @@
+[
+    {
+        "Year":"Representing Brazil",
+        "Competition":"Representing Brazil",
+        "Venue":"Representing Brazil",
+        "Position":"Representing Brazil",
+        "Event":"Representing Brazil",
+        "Notes":"Representing Brazil"
+    },
+    {
+        "Year":2010,
+        "Competition":"World Junior Championships",
+        "Venue":"Moncton, Canada",
+        "Position":"9th (sf)",
+        "Event":"110 m hurdles (99 cm)",
+        "Notes":13.79
+    },
+    {
+        "Year":2010,
+        "Competition":"World Junior Championships",
+        "Venue":"Moncton, Canada",
+        "Position":"15th (sf)",
+        "Event":"400 m hurdles",
+        "Notes":52.53
+    },
+    {
+        "Year":2011,
+        "Competition":"Pan American Junior Championships",
+        "Venue":"Miramar, United States",
+        "Position":"3rd",
+        "Event":"110 m hurdles (99 cm)",
+        "Notes":13.97
+    },
+    {
+        "Year":2011,
+        "Competition":"South American Junior Championships",
+        "Venue":"Medell\u00edn, Colombia",
+        "Position":"1st",
+        "Event":"110 m hurdles (99 cm)",
+        "Notes":13.85
+    },
+    {
+        "Year":2011,
+        "Competition":"South American Junior Championships",
+        "Venue":"Medell\u00edn, Colombia",
+        "Position":"1st",
+        "Event":"400 m hurdles",
+        "Notes":52.62
+    },
+    {
+        "Year":2012,
+        "Competition":"South American U23 Championships",
+        "Venue":"S\u00e3o Paulo, Brazil",
+        "Position":"1st",
+        "Event":"110 m hurdles",
+        "Notes":14.14
+    },
+    {
+        "Year":2015,
+        "Competition":"South American Championships",
+        "Venue":"Lima, Peru",
+        "Position":"1st",
+        "Event":"110 m hurdles",
+        "Notes":13.96
+    },
+    {
+        "Year":2015,
+        "Competition":"World Championships",
+        "Venue":"Beijing, China",
+        "Position":"18th (sf)",
+        "Event":"110 m hurdles",
+        "Notes":13.45
+    },
+    {
+        "Year":2016,
+        "Competition":"World Indoor Championships",
+        "Venue":"Portland, United States",
+        "Position":"25th (h)",
+        "Event":"60 m hurdles",
+        "Notes":7.99
+    },
+    {
+        "Year":2016,
+        "Competition":"Ibero-American Championships",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"6th",
+        "Event":"110 m hurdles",
+        "Notes":13.9
+    },
+    {
+        "Year":2016,
+        "Competition":"Olympic Games",
+        "Venue":"Rio de Janeiro",
+        "Position":"22nd (sf)",
+        "Event":"110 m hurdles",
+        "Notes":13.85
+    }
+]

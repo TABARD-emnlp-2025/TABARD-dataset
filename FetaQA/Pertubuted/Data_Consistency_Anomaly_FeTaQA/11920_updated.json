@@ -1,0 +1,44 @@
+[
+    {
+        "Year":2013,
+        "Association":"African Entertainment Awards",
+        "Category":"Best African Actor",
+        "Nominated work":"Self",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Association":"@@@_los angeles web series festival",
+        "Category":"Outstanding Drama Series",
+        "Nominated work":"Teenagers",
+        "Result":"Won"
+    },
+    {
+        "Year":2016,
+        "Association":"Canadian Screen Awards",
+        "Category":"Best Performance in a Program or Series Produced for Digital Media",
+        "Nominated work":"Teenagers",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2017,
+        "Association":"International Academy of Web Television",
+        "Category":"Best Male Performance – Drama",
+        "Nominated work":"@@@_teenagers",
+        "Result":"@@@_nominated"
+    },
+    {
+        "Year":2017,
+        "Association":"International Academy of Web Television",
+        "Category":"Best Male Performance – Drama",
+        "Nominated work":"Teenagers",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2016,
+        "Association":"Canadian Screen Awards",
+        "Category":"Best Performance in a Program or Series Produced for Digital Media",
+        "Nominated work":"",
+        "Result":"Nominated"
+    }
+]

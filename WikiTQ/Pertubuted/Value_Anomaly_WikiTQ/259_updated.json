@@ -1,0 +1,258 @@
+[
+  {
+    "Rank": 1.0,
+    "Heat": 1.0,
+    "Name": "Salem Al-Yami",
+    "Nationality": "Saudi Arabia",
+    "Time": "10.55",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 2.0,
+    "Heat": 1.0,
+    "Name": "Hiroyasu Tsuchie",
+    "Nationality": "Japan",
+    "Time": "10.64",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 3.0,
+    "Heat": 1.0,
+    "Name": "Khaled Yousef Al-Obaidli",
+    "Nationality": "Qatar",
+    "Time": "10.68",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 4.0,
+    "Heat": "@@@_None",
+    "Name": "Chintake De Zoysa",
+    "Nationality": "Sri Lanka",
+    "Time": "10.78",
+    "Notes": "q"
+  },
+  {
+    "Rank": 5.0,
+    "Heat": 1.0,
+    "Name": "Suminda Mendis",
+    "Nationality": "Sri Lanka",
+    "Time": "10.82",
+    "Notes": "q, PB"
+  },
+  {
+    "Rank": 6.0,
+    "Heat": 1.0,
+    "Name": "Vissanu Sophanich",
+    "Nationality": "Thailand",
+    "Time": "10.87",
+    "Notes": null
+  },
+  {
+    "Rank": 7.0,
+    "Heat": 1.0,
+    "Name": "Zakaria Messaiké",
+    "Nationality": "Lebanon",
+    "Time": "11.06",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Heat": 1.0,
+    "Name": "Khalil Al-Hanahneh",
+    "Nationality": "Jordan",
+    "Time": "DNS",
+    "Notes": null
+  },
+  {
+    "Rank": 1.0,
+    "Heat": 2.0,
+    "Name": "Gennadiy Chernovol",
+    "Nationality": "Kazakhstan",
+    "Time": "10.59",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 2.0,
+    "Heat": 2.0,
+    "Name": "Yuta Kanno",
+    "Nationality": "Japan",
+    "Time": "10.64",
+    "Notes": "Q"
+  },
+  {
+    "Rank": "@@@_59.2606907479",
+    "Heat": 2.0,
+    "Name": "Shen Yunbao",
+    "Nationality": "China",
+    "Time": "10.72",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 4.0,
+    "Heat": 2.0,
+    "Name": "Tsai Meng-Lin",
+    "Nationality": "Chinese Taipei",
+    "Time": "10.74",
+    "Notes": "q"
+  },
+  {
+    "Rank": 5.0,
+    "Heat": 2.0,
+    "Name": "Tan Kok Lim",
+    "Nationality": "Malaysia",
+    "Time": "10.83",
+    "Notes": "q"
+  },
+  {
+    "Rank": 6.0,
+    "Heat": "@@@_33.0",
+    "Name": "Ahmad Hudeib Al-Mamari",
+    "Nationality": "@@@_None",
+    "Time": "10.97",
+    "Notes": null
+  },
+  {
+    "Rank": 7.0,
+    "Heat": 2.0,
+    "Name": "Tang Yui Han",
+    "Nationality": "Singapore",
+    "Time": "11.61",
+    "Notes": "PB"
+  },
+  {
+    "Rank": 8.0,
+    "Heat": 2.0,
+    "Name": "Chaleunsouk Oudomphanh",
+    "Nationality": "Laos",
+    "Time": "11.76",
+    "Notes": "SB"
+  },
+  {
+    "Rank": 1.0,
+    "Heat": 3.0,
+    "Name": "Jamal Al-Saffar",
+    "Nationality": "Saudi Arabia",
+    "Time": "10.57",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 2.0,
+    "Heat": 3.0,
+    "Name": "Reanchai Srihawong",
+    "Nationality": "Thailand",
+    "Time": "10.72",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 3.0,
+    "Heat": "@@@_-3.0",
+    "Name": "Shin Jung-Ki",
+    "Nationality": "South Korea",
+    "Time": "10.79",
+    "Notes": null
+  },
+  {
+    "Rank": 4.0,
+    "Heat": 3.0,
+    "Name": "Chen Tien-Wen",
+    "Nationality": "Chinese Taipei",
+    "Time": "10.74",
+    "Notes": "q"
+  },
+  {
+    "Rank": 5.0,
+    "Heat": 3.0,
+    "Name": "To Wai Lok",
+    "Nationality": "Hong Kong",
+    "Time": "10.92",
+    "Notes": null
+  },
+  {
+    "Rank": 6.0,
+    "Heat": 3.0,
+    "Name": "Poh Seng Song",
+    "Nationality": "Singapore",
+    "Time": "11.10",
+    "Notes": "SB"
+  },
+  {
+    "Rank": 7.0,
+    "Heat": 3.0,
+    "Name": "Abdullah Ibrahim",
+    "Nationality": "Maldives",
+    "Time": "12.04",
+    "Notes": "PB"
+  },
+  {
+    "Rank": null,
+    "Heat": 3.0,
+    "Name": "Sudath Ravindra Kumara",
+    "Nationality": "Sri Lanka",
+    "Time": "DQ",
+    "Notes": null
+  },
+  {
+    "Rank": 1.0,
+    "Heat": 4.0,
+    "Name": "Chen Haijian",
+    "Nationality": "China",
+    "Time": "10.65",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 2.0,
+    "Heat": 4.0,
+    "Name": "Saad Faraj Al-Shahwani",
+    "Nationality": "Qatar",
+    "Time": "10.67",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 3.0,
+    "Heat": 4.0,
+    "Name": "Azmi Ibrahim",
+    "Nationality": "Malaysia",
+    "Time": "10.78",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 4.0,
+    "Heat": 4.0,
+    "Name": "Chiang Wai Hung",
+    "Nationality": "Malaysia",
+    "Time": "10.89",
+    "Notes": null
+  },
+  {
+    "Rank": 5.0,
+    "Heat": 4.0,
+    "Name": "Nguyen Thanh Hai",
+    "Nationality": "Vietnam",
+    "Time": "11.16",
+    "Notes": "PB"
+  },
+  {
+    "Rank": 6.0,
+    "Heat": 4.0,
+    "Name": "Piphop Rasme Prum Keo",
+    "Nationality": "Cambodia",
+    "Time": "11.70",
+    "Notes": "PB"
+  },
+  {
+    "Rank": 7.0,
+    "Heat": 4.0,
+    "Name": "Bona Kong",
+    "Nationality": "Cambodia",
+    "Time": "11.75",
+    "Notes": "PB"
+  },
+  {
+    "Rank": null,
+    "Heat": 4.0,
+    "Name": "Hamood Al-Dalhami",
+    "Nationality": "Oman",
+    "Time": "DQ",
+    "Notes": null
+  }
+]

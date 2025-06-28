@@ -1,0 +1,65 @@
+[
+    {
+        "Goal":1,
+        "Date":"11 February 2009",
+        "Venue":"Ramón Sánchez Pizjuán Stadium, Seville, Spain",
+        "Opponent":"England",
+        "Score":"2–0",
+        "Result":"2–0",
+        "Competition":"Friendly"
+    },
+    {
+        "Goal":2,
+        "Date":"20 June 2009",
+        "Venue":"Free State Stadium, Bloemfontein, South Africa",
+        "Opponent":"South Africa",
+        "Score":"2–0",
+        "Result":"2–0",
+        "Competition":"2009 FIFA Confederations Cup"
+    },
+    {
+        "Goal":3,
+        "Date":"28 May 2010",
+        "Venue":"Tivoli-Neu, Innsbruck, Austria",
+        "Opponent":"Saudi Arabia",
+        "Score":"3–2",
+        "Result":"3–2",
+        "Competition":"Friendly"
+    },
+    {
+        "Goal":4,
+        "Date":"7 September 2010",
+        "Venue":"Estadio Monumental Antonio Vespucio Liberti, Buenos Aires, Argentina",
+        "Opponent":"Argentina",
+        "Score":"3–1",
+        "Result":"4–1",
+        "Competition":"Friendly"
+    },
+    {
+        "Goal":5,
+        "Date":"8 October 2010",
+        "Venue":"Estadio El Helmántico, Salamanca, Spain",
+        "Opponent":"Lithuania",
+        "Score":"1–0",
+        "Result":"3–1",
+        "Competition":"Euro 2012 qualifying"
+    },
+    {
+        "Goal":6,
+        "Date":"8 October 2010",
+        "Venue":"Estadio El Helmántico, Salamanca, Spain",
+        "Opponent":"Lithuania",
+        "Score":"2–1",
+        "Result":"3–1",
+        "Competition":"Euro 2012 qualifying"
+    },
+    {
+        "Goal":7,
+        "Date":"12 October 2010",
+        "Venue":"Hampden Park, Glasgow, Scotland",
+        "Opponent":"Scotland",
+        "Score":"3–2",
+        "Result":"3–2",
+        "Competition":"Euro 2012 qualifying"
+    }
+]

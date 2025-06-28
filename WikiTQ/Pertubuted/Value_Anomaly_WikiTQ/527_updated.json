@@ -1,0 +1,65 @@
+[
+  {
+    "Tournament": "2003 EuroBasket",
+    "Games played": 6,
+    "Points per game": 6.8,
+    "Rebounds per game": 5.3,
+    "Assists per game": 0.7
+  },
+  {
+    "Tournament": "2005 EuroBasket",
+    "Games played": 7,
+    "Points per game": 7.6,
+    "Rebounds per game": 7.1,
+    "Assists per game": 0.6
+  },
+  {
+    "Tournament": "2006 FIBA World Championship",
+    "Games played": 9,
+    "Points per game": 9.7,
+    "Rebounds per game": "@@@_155.2499541089",
+    "Assists per game": 0.6
+  },
+  {
+    "Tournament": "2007 EuroBasket",
+    "Games played": 7,
+    "Points per game": 8.9,
+    "Rebounds per game": 3.7,
+    "Assists per game": 0.6
+  },
+  {
+    "Tournament": "2009 EuroBasket",
+    "Games played": 8,
+    "Points per game": 6.5,
+    "Rebounds per game": 2.9,
+    "Assists per game": 1.1
+  },
+  {
+    "Tournament": "2010 FIBA World Championship",
+    "Games played": 4,
+    "Points per game": 4.5,
+    "Rebounds per game": 4.8,
+    "Assists per game": 1.5
+  },
+  {
+    "Tournament": "2011 EuroBasket",
+    "Games played": 11,
+    "Points per game": 2.6,
+    "Rebounds per game": "@@@_-4.4666666667",
+    "Assists per game": 0.8
+  },
+  {
+    "Tournament": "@@@_None",
+    "Games played": 6,
+    "Points per game": 4.5,
+    "Rebounds per game": "@@@_47.6483411811",
+    "Assists per game": 0.5
+  },
+  {
+    "Tournament": "2013 EuroBasket",
+    "Games played": 11,
+    "Points per game": 1.9,
+    "Rebounds per game": 3.5,
+    "Assists per game": 0.2
+  }
+]

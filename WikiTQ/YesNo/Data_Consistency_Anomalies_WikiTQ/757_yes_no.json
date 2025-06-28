@@ -1,0 +1,72 @@
+[
+    {
+        "State": "yes",
+        "Interview": "no",
+        "Swimsuit": "no",
+        "Evening Gown": "no",
+        "Average": "no"
+    },
+    {
+        "State": "no",
+        "Interview": "no",
+        "Swimsuit": "no",
+        "Evening Gown": "no",
+        "Average": "no"
+    },
+    {
+        "State": "no",
+        "Interview": "no",
+        "Swimsuit": "no",
+        "Evening Gown": "no",
+        "Average": "no"
+    },
+    {
+        "State": "no",
+        "Interview": "no",
+        "Swimsuit": "yes",
+        "Evening Gown": "no",
+        "Average": "no"
+    },
+    {
+        "State": "no",
+        "Interview": "yes",
+        "Swimsuit": "no",
+        "Evening Gown": "no",
+        "Average": "no"
+    },
+    {
+        "State": "no",
+        "Interview": "no",
+        "Swimsuit": "no",
+        "Evening Gown": "no",
+        "Average": "no"
+    },
+    {
+        "State": "no",
+        "Interview": "no",
+        "Swimsuit": "no",
+        "Evening Gown": "no",
+        "Average": "no"
+    },
+    {
+        "State": "no",
+        "Interview": "no",
+        "Swimsuit": "no",
+        "Evening Gown": "no",
+        "Average": "no"
+    },
+    {
+        "State": "yes",
+        "Interview": "no",
+        "Swimsuit": "no",
+        "Evening Gown": "no",
+        "Average": "no"
+    },
+    {
+        "State": "no",
+        "Interview": "no",
+        "Swimsuit": "yes",
+        "Evening Gown": "no",
+        "Average": "no"
+    }
+]

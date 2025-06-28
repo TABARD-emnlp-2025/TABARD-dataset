@@ -1,0 +1,72 @@
+[
+  {
+    "Dance": "Cha Cha",
+    "Best dancer(s)": "Argo Ader",
+    "Best score": 34.0,
+    "Worst dancer(s)": "Henrik Normann\nPiret Järvis",
+    "Worst score": "14"
+  },
+  {
+    "Dance": "Waltz (International Standard)",
+    "Best dancer(s)": "Maarja-Liis Ilus",
+    "Best score": 36.0,
+    "Worst dancer(s)": "Arne Niit",
+    "Worst score": "14"
+  },
+  {
+    "Dance": "Rumba",
+    "Best dancer(s)": "Argo Ader",
+    "Best score": 40.0,
+    "Worst dancer(s)": "Arne Niit",
+    "Worst score": "15"
+  },
+  {
+    "Dance": "Quickstep",
+    "Best dancer(s)": "@@@_None",
+    "Best score": 40.0,
+    "Worst dancer(s)": "Henrik Normann\nPiret Järvis",
+    "Worst score": "16"
+  },
+  {
+    "Dance": "Jive",
+    "Best dancer(s)": "Argo Ader",
+    "Best score": 32.0,
+    "Worst dancer(s)": "Henrik Normann",
+    "Worst score": "24"
+  },
+  {
+    "Dance": "Tango",
+    "Best dancer(s)": "Maarja-Liis Ilus",
+    "Best score": 37.0,
+    "Worst dancer(s)": "Erika Salumäe",
+    "Worst score": "26"
+  },
+  {
+    "Dance": "Paso Doble",
+    "Best dancer(s)": "Lauri Pedaja",
+    "Best score": 36.0,
+    "Worst dancer(s)": "Evelyn Sepp",
+    "Worst score": "28"
+  },
+  {
+    "Dance": "Foxtrot",
+    "Best dancer(s)": "Argo Ader\nEvelyn Sepp",
+    "Best score": "@@@_-106.0",
+    "Worst dancer(s)": "Henrik Normann",
+    "Worst score": "25"
+  },
+  {
+    "Dance": "Samba",
+    "Best dancer(s)": "Maarja-Liis Ilus",
+    "Best score": "@@@_-21.0",
+    "Worst dancer(s)": "Henrik Normann",
+    "Worst score": "26"
+  },
+  {
+    "Dance": "Showdance",
+    "Best dancer(s)": "Argo Adar\nMaarja-Liis Ilus",
+    "Best score": 40.0,
+    "Worst dancer(s)": "-",
+    "Worst score": "-"
+  }
+]

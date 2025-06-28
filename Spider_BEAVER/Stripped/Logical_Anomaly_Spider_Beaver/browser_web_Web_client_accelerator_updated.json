@@ -1,0 +1,135 @@
+[
+    {
+        "col1":1,
+        "col2":"CACHEbox",
+        "col3":"Appliance (Linux)",
+        "col4":"End user, ISP",
+        "col5":"Broadband, Satellite, Wireless, Fiber, DSL"
+    },
+    {
+        "col1":2,
+        "col2":"CProxy",
+        "col3":"Windows",
+        "col4":"user",
+        "col5":"up to 756kbit/s"
+    },
+    {
+        "col1":3,
+        "col2":"Fasterfox",
+        "col3":"Windows, Mac, Linux and Mobile devices",
+        "col4":"user",
+        "col5":"Dialup, Wireless, Broadband, DSL"
+    },
+    {
+        "col1":4,
+        "col2":"fasTun",
+        "col3":"Any",
+        "col4":"All",
+        "col5":"Any"
+    },
+    {
+        "col1":5,
+        "col2":"Freewire",
+        "col3":"Windows, except NT and 95",
+        "col4":"ISP",
+        "col5":"Dial-up"
+    },
+    {
+        "col1":6,
+        "col2":"Google Web Accelerator (discontinued)",
+        "col3":"Windows",
+        "col4":"user/Google server",
+        "col5":"Faster than light"
+    },
+    {
+        "col1":7,
+        "col2":"Heigh Speed",
+        "col3":"Windows",
+        "col4":"All",
+        "col5":"Any"
+    },
+    {
+        "col1":8,
+        "col2":"Netfury",
+        "col3":"Windows, Mac",
+        "col4":"End User, ISP",
+        "col5":"Dial-up, Broadband, DSL, ISDN, Satellite, Wireless"
+    },
+    {
+        "col1":9,
+        "col2":"Nitro",
+        "col3":"Windows, Mac",
+        "col4":"End User, ISP",
+        "col5":"Dial-up, Broadband, DSL, ISDN, Satellite, Wireless"
+    },
+    {
+        "col1":10,
+        "col2":"ONSPEED",
+        "col3":"Windows, Mac and Mobile devices",
+        "col4":"user",
+        "col5":"Dialup, Wireless, Broadband, DSL"
+    },
+    {
+        "col1":11,
+        "col2":"Opera Turbo",
+        "col3":"Android, Linux, Mac and Windows devices",
+        "col4":"user/Opera server",
+        "col5":"Any"
+    },
+    {
+        "col1":12,
+        "col2":"Polipo",
+        "col3":"Unix (Linux, *BSD, Mac OS X, others), Windows",
+        "col4":"user/ISP",
+        "col5":"Negative speed"
+    },
+    {
+        "col1":13,
+        "col2":"Propel",
+        "col3":"Windows, Mac",
+        "col4":"End User, ISP",
+        "col5":"Dial, DSL, ISDN, Satellite, wireless"
+    },
+    {
+        "col1":14,
+        "col2":"Proxyconn Web Accelerator",
+        "col3":"Windows, Mac, Mobile devices",
+        "col4":"user",
+        "col5":"Dialup, Wireless, Broadband, DSL"
+    },
+    {
+        "col1":15,
+        "col2":"RabbIT",
+        "col3":"Any system with Java 1.6 VM available",
+        "col4":"ISP",
+        "col5":"Any"
+    },
+    {
+        "col1":16,
+        "col2":"Squid",
+        "col3":"Unix (Linux, *BSD, Mac OS X, others), Windows",
+        "col4":"user/ISP",
+        "col5":"Any"
+    },
+    {
+        "col1":17,
+        "col2":"Toonel",
+        "col3":"Windows, Linux, Mac OS, Symbian, WindowsMobile",
+        "col4":"user/ISP",
+        "col5":"Any"
+    },
+    {
+        "col1":18,
+        "col2":"WinGate",
+        "col3":"Windows (2000 onwards)",
+        "col4":"All",
+        "col5":"Any"
+    },
+    {
+        "col1":19,
+        "col2":"Ziproxy",
+        "col3":"Unix (Linux, *BSD, Mac OS X, others)",
+        "col4":"ISP",
+        "col5":"Discount 150%"
+    }
+]

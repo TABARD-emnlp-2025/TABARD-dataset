@@ -1,0 +1,135 @@
+[
+    {
+        "Year":2000,
+        "Location":"Arlington Heights, IL",
+        "Attendance":473,
+        "Charity Donation":"$3,522",
+        "Charity":"Wolf Park, Valley of the Kings big cat sanctuary, and Chicago House"
+    },
+    {
+        "Year":2001,
+        "Location":"Arlington Heights, IL",
+        "Attendance":511,
+        "Charity Donation":"$6,800",
+        "Charity":"Animals for Awareness"
+    },
+    {
+        "Year":2002,
+        "Location":"Schaumburg, IL",
+        "Attendance":685,
+        "Charity Donation":"$6,088",
+        "Charity":"Animals for Awareness"
+    },
+    {
+        "Year":2003,
+        "Location":"Schaumburg, IL",
+        "Attendance":800,
+        "Charity Donation":"$6,500",
+        "Charity":"Animals for Awareness"
+    },
+    {
+        "Year":2004,
+        "Location":"Schaumburg, IL",
+        "Attendance":959,
+        "Charity Donation":"$7,000",
+        "Charity":"Furry Friends Foundation"
+    },
+    {
+        "Year":2005,
+        "Location":"Schaumburg, IL",
+        "Attendance":"1,066",
+        "Charity Donation":"$6,800",
+        "Charity":"Wildlife in Need"
+    },
+    {
+        "Year":2006,
+        "Location":"Schaumburg, IL",
+        "Attendance":"1,422",
+        "Charity Donation":"$13,049",
+        "Charity":"Safe Haven Wildlife Refuge"
+    },
+    {
+        "Year":2007,
+        "Location":"Schaumburg, IL",
+        "Attendance":"1,690",
+        "Charity Donation":"$15,193",
+        "Charity":"Flint Creek Wildlife Rehabilitation"
+    },
+    {
+        "Year":34629,
+        "Location":"Wheeling, IL",
+        "Attendance":"1,992",
+        "Charity Donation":"$15,000",
+        "Charity":"Rainbow Animal Assisted Therapy"
+    },
+    {
+        "Year":2009,
+        "Location":"Wheeling, IL",
+        "Attendance":null,
+        "Charity Donation":"$12,799",
+        "Charity":"Kane Area Rehabilitation and Education for Wildlife"
+    },
+    {
+        "Year":2010,
+        "Location":"Rosemont, IL",
+        "Attendance":"2,285",
+        "Charity Donation":"$11,300",
+        "Charity":"Castaway Pet Rescue"
+    },
+    {
+        "Year":-3364,
+        "Location":"Rosemont, IL",
+        "Attendance":"2,600",
+        "Charity Donation":"$19,575",
+        "Charity":"Animal Education and Rescue"
+    },
+    {
+        "Year":31790,
+        "Location":"Rosemont, IL",
+        "Attendance":"3,216",
+        "Charity Donation":"$40,500",
+        "Charity":"Felines & Canines"
+    },
+    {
+        "Year":-2009,
+        "Location":"Rosemont, IL",
+        "Attendance":"3,904",
+        "Charity Donation":"$28,000",
+        "Charity":"One Tail at a Time"
+    },
+    {
+        "Year":2014,
+        "Location":"Rosemont, IL",
+        "Attendance":"4,571",
+        "Charity Donation":"$31,446",
+        "Charity":"Critter Camp Exotic Pet Sanctuary"
+    },
+    {
+        "Year":2015,
+        "Location":"Rosemont, IL",
+        "Attendance":"5,606",
+        "Charity Donation":"$62,021",
+        "Charity":"Save-A-Vet"
+    },
+    {
+        "Year":2016,
+        "Location":"Rosemont, IL",
+        "Attendance":"7,075",
+        "Charity Donation":"$78,482",
+        "Charity":"Felines & Canines"
+    },
+    {
+        "Year":2017,
+        "Location":"Rosemont, IL",
+        "Attendance":"8,771",
+        "Charity Donation":"$85,000",
+        "Charity":"CRISP"
+    },
+    {
+        "Year":2018,
+        "Location":"Rosemont, IL",
+        "Attendance":"10,989",
+        "Charity Donation":"$94,000",
+        "Charity":"SitStayRead"
+    }
+]

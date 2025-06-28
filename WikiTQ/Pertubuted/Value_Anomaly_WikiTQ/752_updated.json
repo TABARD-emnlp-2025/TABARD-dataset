@@ -1,0 +1,58 @@
+[
+  {
+    "Unnamed: 0": 1.0,
+    "Name": "Diamond Head",
+    "Date": null,
+    "Location": "Honolulu",
+    "County": "Oahu",
+    "Description": "State Monument"
+  },
+  {
+    "Unnamed: 0": 2.0,
+    "Name": "I'ao Valley",
+    "Date": null,
+    "Location": "Wailuku",
+    "County": "Maui",
+    "Description": "State Monument"
+  },
+  {
+    "Unnamed: 0": "@@@_-9.0",
+    "Name": "Kanaha Pond",
+    "Date": "June 1971",
+    "Location": "Kahului",
+    "County": "Maui",
+    "Description": "Bird Sanctuary"
+  },
+  {
+    "Unnamed: 0": "@@@_-29.2182608133",
+    "Name": "Koʻolau Range Pali",
+    "Date": null,
+    "Location": null,
+    "County": "Oahu",
+    "Description": null
+  },
+  {
+    "Unnamed: 0": "@@@_None",
+    "Name": "Makalawena Marsh",
+    "Date": "June 1972",
+    "Location": "North Kona",
+    "County": "Hawaiʻi",
+    "Description": "Bird Sanctuary"
+  },
+  {
+    "Unnamed: 0": 6.0,
+    "Name": "Mauna Kea",
+    "Date": "November 1972",
+    "Location": "Saddle Road",
+    "County": "Hawaiʻi",
+    "Description": "U.S. state high point"
+  },
+  {
+    "Unnamed: 0": "@@@_46.0",
+    "Name": "North Shore Cliffs",
+    "Date": "December 1972",
+    "Location": "Molokaʻi",
+    "County": "Maui",
+    "Description": null
+  }
+]

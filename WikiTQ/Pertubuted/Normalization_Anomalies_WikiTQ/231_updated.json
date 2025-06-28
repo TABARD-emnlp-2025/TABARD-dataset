@@ -1,0 +1,146 @@
+[
+    {
+        "Rank":1,
+        "Nation":"United States (USA)",
+        "Gold":5,
+        "Silver":0,
+        "Bronze":"@@@_1",
+        "Total":5
+    },
+    {
+        "Rank":2,
+        "Nation":"Italy (ITA)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":1,
+        "Total":3
+    },
+    {
+        "Rank":3,
+        "Nation":"Poland (POL)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":0,
+        "Total":"@@@_3"
+    },
+    {
+        "Rank":4,
+        "Nation":"Finland (FIN)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":4,
+        "Total":5
+    },
+    {
+        "Rank":5,
+        "Nation":"Czechoslovakia (TCH)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":0,
+        "Total":1
+    },
+    {
+        "Rank":5,
+        "Nation":"Hungary (HUN)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":0,
+        "Total":1
+    },
+    {
+        "Rank":"@@@_5",
+        "Nation":"@@@_Hungary (HUN)",
+        "Gold":"@@@_1",
+        "Silver":"@@@_0",
+        "Bronze":"@@@_0",
+        "Total":"@@@_1"
+    },
+    {
+        "Rank":"@@@_7",
+        "Nation":"@@@_Soviet Union (URS)",
+        "Gold":0,
+        "Silver":"@@@_2",
+        "Bronze":"@@@_4",
+        "Total":"@@@_6"
+    },
+    {
+        "Rank":"@@@_8",
+        "Nation":"@@@_South Africa (RSA)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":"@@@_3",
+        "Total":"@@@_4"
+    },
+    {
+        "Rank":9,
+        "Nation":"@@@_Argentina (ARG)",
+        "Gold":0,
+        "Silver":"@@@_0",
+        "Bronze":1,
+        "Total":2
+    },
+    {
+        "Rank":9,
+        "Nation":"@@@_Germany (GER)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":2
+    },
+    {
+        "Rank":9,
+        "Nation":"@@@_Romania (ROU)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":"@@@_3"
+    },
+    {
+        "Rank":"@@@_9",
+        "Nation":"@@@_Sweden (SWE)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":"@@@_1",
+        "Total":"@@@_2"
+    },
+    {
+        "Rank":"@@@_13",
+        "Nation":"@@@_Ireland (IRL)",
+        "Gold":0,
+        "Silver":"@@@_1",
+        "Bronze":"@@@_0",
+        "Total":1
+    },
+    {
+        "Rank":14,
+        "Nation":"@@@_Bulgaria (BUL)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":14,
+        "Nation":"@@@_Denmark (DEN)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":14,
+        "Nation":"@@@_France (FRA)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":"@@@_0",
+        "Total":1
+    },
+    {
+        "Rank":14,
+        "Nation":"South Korea (KOR)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    }
+]

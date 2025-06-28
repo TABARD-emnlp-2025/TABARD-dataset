@@ -1,0 +1,242 @@
+[
+    {
+        "Team":"Chip Ganassi Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Honda",
+        "Tires":"Firestone",
+        "No":1,
+        "Drivers":"Alex Zanardi"
+    },
+    {
+        "Team":"Chip Ganassi Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Honda",
+        "Tires":"Firestone",
+        "No":12,
+        "Drivers":"Jimmy Vasser"
+    },
+    {
+        "Team":"Marlboro Team Penske",
+        "Chassis":"Penske PC27-98",
+        "Engine":"Mercedes",
+        "Tires":"Goodyear",
+        "No":2,
+        "Drivers":"Al Unser, Jr."
+    },
+    {
+        "Team":"Marlboro Team Penske",
+        "Chassis":"Penske PC27-98",
+        "Engine":"Mercedes",
+        "Tires":"Goodyear",
+        "No":3,
+        "Drivers":"Andr\u00e9 Ribeiro"
+    },
+    {
+        "Team":"Walker Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Honda",
+        "Tires":"Goodyear",
+        "No":5,
+        "Drivers":"Gil de Ferran"
+    },
+    {
+        "Team":"Newman-Haas Racing",
+        "Chassis":"Swift 009.c",
+        "Engine":"Ford XB",
+        "Tires":"Goodyear",
+        "No":6,
+        "Drivers":"Michael Andretti"
+    },
+    {
+        "Team":"Newman-Haas Racing",
+        "Chassis":"Swift 009.c",
+        "Engine":"Ford XB",
+        "Tires":"Goodyear",
+        "No":11,
+        "Drivers":"Christian Fittipaldi\n Roberto Moreno"
+    },
+    {
+        "Team":"Team Rahal",
+        "Chassis":"Reynard 98i",
+        "Engine":"Ford XB",
+        "Tires":"Firestone",
+        "No":7,
+        "Drivers":"Bobby Rahal"
+    },
+    {
+        "Team":"Team Rahal",
+        "Chassis":"Reynard 98i",
+        "Engine":"Ford XB",
+        "Tires":"Firestone",
+        "No":8,
+        "Drivers":"Bryan Herta"
+    },
+    {
+        "Team":"Hogan Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Mercedes",
+        "Tires":"Firestone",
+        "No":9,
+        "Drivers":"JJ Lehto"
+    },
+    {
+        "Team":"Della Penna Motorsports",
+        "Chassis":"Swift 009.c",
+        "Engine":"Ford XB",
+        "Tires":"Firestone",
+        "No":10,
+        "Drivers":"Richie Hearn"
+    },
+    {
+        "Team":"Della Penna Motorsports",
+        "Chassis":"Swift 009.c",
+        "Engine":"Ford XB",
+        "Tires":"Firestone",
+        "No":43,
+        "Drivers":"Hideshi Matsuda"
+    },
+    {
+        "Team":"Project Indy",
+        "Chassis":"Reynard 97i",
+        "Engine":"Ford XB",
+        "Tires":"Goodyear",
+        "No":15,
+        "Drivers":"Roberto Moreno\n Domenico Schiattarella"
+    },
+    {
+        "Team":"Bettenhausen Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Mercedes",
+        "Tires":"Goodyear",
+        "No":16,
+        "Drivers":"H\u00e9lio Castroneves"
+    },
+    {
+        "Team":"PacWest Racing Group",
+        "Chassis":"Reynard 98i",
+        "Engine":"Mercedes",
+        "Tires":"Firestone",
+        "No":17,
+        "Drivers":"Maur\u00edcio Gugelmin"
+    },
+    {
+        "Team":"PacWest Racing Group",
+        "Chassis":"Reynard 98i",
+        "Engine":"Mercedes",
+        "Tires":"Firestone",
+        "No":18,
+        "Drivers":"Mark Blundell"
+    },
+    {
+        "Team":"Payton\/Coyne Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Ford XB",
+        "Tires":"Firestone",
+        "No":19,
+        "Drivers":"Michel Jourdain, Jr."
+    },
+    {
+        "Team":"Payton\/Coyne Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Ford XB",
+        "Tires":"Firestone",
+        "No":34,
+        "Drivers":"Dennis Vitolo\n Gualter Salles"
+    },
+    {
+        "Team":"Patrick Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Ford XB",
+        "Tires":"Firestone",
+        "No":20,
+        "Drivers":"Scott Pruett"
+    },
+    {
+        "Team":"Patrick Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Ford XB",
+        "Tires":"Firestone",
+        "No":40,
+        "Drivers":"Adri\u00e1n Fern\u00e1ndez"
+    },
+    {
+        "Team":"Tasman Motorsports Group",
+        "Chassis":"Reynard 98i",
+        "Engine":"Honda",
+        "Tires":"Firestone",
+        "No":21,
+        "Drivers":"Tony Kanaan"
+    },
+    {
+        "Team":"Arciero-Wells Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Toyota",
+        "Tires":"Firestone",
+        "No":24,
+        "Drivers":"Hiro Matsushita\n Robby Gordon"
+    },
+    {
+        "Team":"Arciero-Wells Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Toyota",
+        "Tires":"Firestone",
+        "No":25,
+        "Drivers":"Max Papis"
+    },
+    {
+        "Team":"Team KOOL Green",
+        "Chassis":"Reynard 98i",
+        "Engine":"Honda",
+        "Tires":"Firestone",
+        "No":26,
+        "Drivers":"Paul Tracy"
+    },
+    {
+        "Team":"Team KOOL Green",
+        "Chassis":"Reynard 98i",
+        "Engine":"Honda",
+        "Tires":"Firestone",
+        "No":27,
+        "Drivers":"Dario Franchitti"
+    },
+    {
+        "Team":"Forsythe Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Mercedes",
+        "Tires":"Firestone",
+        "No":33,
+        "Drivers":"Patrick Carpentier"
+    },
+    {
+        "Team":"Forsythe Racing",
+        "Chassis":"Reynard 98i",
+        "Engine":"Mercedes",
+        "Tires":"Firestone",
+        "No":99,
+        "Drivers":"Greg Moore"
+    },
+    {
+        "Team":"All American Racing",
+        "Chassis":"Reynard 98i\nEagle 987",
+        "Engine":"Toyota",
+        "Tires":"Goodyear",
+        "No":36,
+        "Drivers":"Alex Barron"
+    },
+    {
+        "Team":"All American Racing",
+        "Chassis":"Reynard 98i\nEagle 987",
+        "Engine":"Toyota",
+        "Tires":"Goodyear",
+        "No":98,
+        "Drivers":"P. J. Jones\n Vincenzo Sospiri"
+    },
+    {
+        "Team":"Davis Racing",
+        "Chassis":"Lola T98\/00",
+        "Engine":"Ford XB",
+        "Tires":"Goodyear",
+        "No":77,
+        "Drivers":"Arnd Meier"
+    }
+]

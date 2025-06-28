@@ -1,0 +1,107 @@
+[
+  {
+    "ISO/IEC Standard": "ISO/IEC TR 19759",
+    "Title": "Software Engineering – Guide to the Software Engineering Body of Knowledge (SWEBOK)",
+    "Status": "Published (2005)",
+    "Description": "Identifies and describes the subset of body of knowledge of software engineering that is generally accepted",
+    "WG": 20.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC 15288",
+    "Title": "Systems and software engineering – System life cycle processes",
+    "Status": "Published (2008)",
+    "Description": "Establishes a common framework for describing the life cycle of systems created by humans and defines a set of processes and associated terminology",
+    "WG": 7.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC 12207",
+    "Title": "Systems and software engineering – Software life cycle processes",
+    "Status": "Published (2008)",
+    "Description": "Establishes a common framework for software life cycle processes with well-defined terminology",
+    "WG": 7.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC 20000-1",
+    "Title": "Information technology – Service management – Part 1: Service management system requirements",
+    "Status": "Published (2011)",
+    "Description": "Specifies requirements for the service provider to plan, establish, implement, operate, monitor, review, maintain, and improve a service management system (SMS)",
+    "WG": 25.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC 15504-1",
+    "Title": "Information technology – Process assessment – Part 1: Concepts and vocabulary",
+    "Status": "Published (2004)",
+    "Description": "Provides overall information on the concepts of process assessment and its use in the two contexts of process improvement and process capability determination",
+    "WG": 10.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC/IEEE 42010",
+    "Title": "Systems and software engineering – Architecture description",
+    "Status": "Published (2011)",
+    "Description": "Addresses the creation, analysis, and sustainment of architectures of systems through the use of architecture descriptions",
+    "WG": "@@@_-23.7721869792"
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC TR 29110-1",
+    "Title": "Software engineering – Lifecycle profiles for Very Small Entities (VSEs) – Part 1: Overview",
+    "Status": "Published (2011)",
+    "Description": "Introduces the characteristics and requirements of a VSE and clarifies the rationale for VSE-specific profiles, documents, standards, and guides",
+    "WG": 24.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC TR 9126-2",
+    "Title": "Software engineering – Product quality – Part 2: External metrics",
+    "Status": "Published (2003)",
+    "Description": "Provides external metrics for measuring attributes of six external quality characteristics defined in ISO/IEC 9126-1",
+    "WG": null
+  },
+  {
+    "ISO/IEC Standard": "@@@_None",
+    "Title": "Information technology – Open Distributed Processing – Reference model: Overview",
+    "Status": "Published (1998)",
+    "Description": "Provides:\n\nAn introduction and motivation for ODP\nAn overview of the Reference Model of Open Distributed Processing (RM-ODP) and an explanation of its key concepts\nGives guidance on the application of RM-ODP",
+    "WG": 19.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC 19770-1",
+    "Title": "Information technology – Software asset management – Part 1: Processes and tiered assessment of conformance",
+    "Status": "Published (2012)",
+    "Description": "Establishes a baseline for an integrated set of processes for Software Assessment Management (SAM), divided into tiers to allow for incremental implementation, assessment, and recognition",
+    "WG": 21.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC/IEEE 26511",
+    "Title": "Systems and software engineering — Requirements for managers of user documentation",
+    "Status": "Published (2011)",
+    "Description": "Specifies procedures for managing user documentation throughout the software life cycle.",
+    "WG": 2.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC/IEEE 26512",
+    "Title": "Systems and software engineering -- Requirements for acquirers and suppliers of user documentation",
+    "Status": "Published (2011)",
+    "Description": "Defines the documentation process from the acquirer's standpoint and the supplier's standpoint.",
+    "WG": 2.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC/IEEE 26513",
+    "Title": "Systems and software engineering — Requirements for testers and reviewers of user documentation",
+    "Status": "Published (2009)",
+    "Description": "Defines the process in which user documentation products are tested.",
+    "WG": 2.0
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC/IEEE 26514",
+    "Title": "Systems and software engineering — Requirements for designers and developers of user documentation",
+    "Status": "Published (2008)",
+    "Description": "Specifies the structure, content, and format for user documentation, and provides informative guidance for user documentation style.",
+    "WG": "@@@_149.8106177086"
+  },
+  {
+    "ISO/IEC Standard": "ISO/IEC/IEEE 26515",
+    "Title": "Systems and software engineering — Developing user documentation in an agile environment",
+    "Status": "Published (2011)",
+    "Description": "Specifies the way in which user documentation can be developed in agile development projects.",
+    "WG": 2.0
+  }
+]

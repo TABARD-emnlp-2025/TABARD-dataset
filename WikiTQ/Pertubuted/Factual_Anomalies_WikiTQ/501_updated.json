@@ -1,0 +1,65 @@
+[
+    {
+        "Institution":"AIB College of Business",
+        "Location":"Des Moines, Iowa",
+        "Nickname":"Eagles",
+        "Founded":1921,
+        "Type":"Private",
+        "Enrollment":"@@@_10,000",
+        "Joined":2010
+    },
+    {
+        "Institution":"Clarke University",
+        "Location":"Dubuque, Iowa",
+        "Nickname":"Crusaders",
+        "Founded":1843,
+        "Type":"Private\/Roman Catholic",
+        "Enrollment":"@@@_-1,230",
+        "Joined":19881
+    },
+    {
+        "Institution":"Grand View University2",
+        "Location":"Des Moines, Iowa",
+        "Nickname":"Vikings",
+        "Founded":1896,
+        "Type":"Private\/Lutheran (ELCA)",
+        "Enrollment":"1,750",
+        "Joined":"@@@_2989"
+    },
+    {
+        "Institution":"Mount Mercy University",
+        "Location":"Cedar Rapids, Iowa",
+        "Nickname":"Mustangs",
+        "Founded":1928,
+        "Type":"Private\/Roman Catholic",
+        "Enrollment":"1,490",
+        "Joined":"@@@_1088"
+    },
+    {
+        "Institution":"Saint Ambrose University",
+        "Location":"Davenport, Iowa",
+        "Nickname":"Fighting Bees (men's)\nQueen Bees (women's)",
+        "Founded":1882,
+        "Type":"Private\/Roman Catholic",
+        "Enrollment":"3,623",
+        "Joined":1990
+    },
+    {
+        "Institution":"Viterbo University",
+        "Location":"La Crosse, Wisconsin",
+        "Nickname":"V-Hawks",
+        "Founded":1923,
+        "Type":"Private\/Roman Catholic",
+        "Enrollment":"@@@_0",
+        "Joined":1988
+    },
+    {
+        "Institution":"William Penn University2",
+        "Location":"Oskaloosa, Iowa",
+        "Nickname":"Statesmen (men's)\nLady Statesmen (women's)",
+        "Founded":1873,
+        "Type":"Private\/Quaker",
+        "Enrollment":"@@@_155,000",
+        "Joined":2001
+    }
+]

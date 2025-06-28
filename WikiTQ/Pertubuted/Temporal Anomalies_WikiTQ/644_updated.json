@@ -1,0 +1,146 @@
+[
+    {
+        "Week":1,
+        "Date":"March 31, 2006",
+        "Opponent":"Louisville Fire",
+        "Result":"W 45\u201337",
+        "Record":"1\u20130",
+        "Game site":"Wachovia Arena"
+    },
+    {
+        "Week":2,
+        "Date":"Bye",
+        "Opponent":"Bye",
+        "Result":"Bye",
+        "Record":"Bye",
+        "Game site":"Bye"
+    },
+    {
+        "Week":"@@@_4",
+        "Date":"@@@_April 21, 2006",
+        "Opponent":"South Georgia Wildcats",
+        "Result":"W 36\u201333",
+        "Record":"3\u20130",
+        "Game site":"Wachovia Arena"
+    },
+    {
+        "Week":"@@@_3",
+        "Date":"@@@_April 24, 2006",
+        "Opponent":"Albany Conquest",
+        "Result":"W 55\u201348 (OT)",
+        "Record":"2\u20130",
+        "Game site":"Times Union Center"
+    },
+    {
+        "Week":5,
+        "Date":"April 29, 2006",
+        "Opponent":"Manchester Wolves",
+        "Result":"W 62\u201347",
+        "Record":"4\u20130",
+        "Game site":"Verizon Wireless Arena"
+    },
+    {
+        "Week":6,
+        "Date":"May 5, 2006",
+        "Opponent":"Green Bay Blizzard",
+        "Result":"W 42\u201327",
+        "Record":"5\u20130",
+        "Game site":"Wachovia Arena"
+    },
+    {
+        "Week":7,
+        "Date":"May 13, 2006",
+        "Opponent":"Tulsa Talons",
+        "Result":"L 53\u201337",
+        "Record":"5\u20131",
+        "Game site":"Wachovia Arena"
+    },
+    {
+        "Week":8,
+        "Date":"May 20, 2006",
+        "Opponent":"Macon Knights",
+        "Result":"W 38\u201322",
+        "Record":"6\u20131",
+        "Game site":"Macon Coliseum"
+    },
+    {
+        "Week":9,
+        "Date":"May 27, 2006",
+        "Opponent":"Manchester Wolves",
+        "Result":"L 48\u201328",
+        "Record":"6\u20132",
+        "Game site":"Wachovia Arena"
+    },
+    {
+        "Week":10,
+        "Date":"June 3, 2006",
+        "Opponent":"Louisville Fire",
+        "Result":"W 51\u201348",
+        "Record":"7\u20132",
+        "Game site":"Freedom Hall"
+    },
+    {
+        "Week":11,
+        "Date":"June 10, 2006",
+        "Opponent":"Albany Conquest",
+        "Result":"L 73\u201370",
+        "Record":"7\u20133",
+        "Game site":"Times Union Center"
+    },
+    {
+        "Week":12,
+        "Date":"June 17, 2006",
+        "Opponent":"Quad City Steamwheelers",
+        "Result":"W 55\u201352",
+        "Record":"8\u20133",
+        "Game site":"Wachovia Arena"
+    },
+    {
+        "Week":13,
+        "Date":"June 24, 2006",
+        "Opponent":"Green Bay Blizzard",
+        "Result":"L 65\u201335",
+        "Record":"8\u20134",
+        "Game site":"Resch Center"
+    },
+    {
+        "Week":14,
+        "Date":"Bye",
+        "Opponent":"Bye",
+        "Result":"Bye",
+        "Record":"Bye",
+        "Game site":"Bye"
+    },
+    {
+        "Week":15,
+        "Date":"July 8, 2006",
+        "Opponent":"Florida Firecats",
+        "Result":"L 56\u201351",
+        "Record":"8\u20135",
+        "Game site":"Wachovia Arena"
+    },
+    {
+        "Week":16,
+        "Date":"July 14, 2006",
+        "Opponent":"Manchester Wolves",
+        "Result":"L 45\u201314",
+        "Record":"8\u20136",
+        "Game site":"Verizon Wireless Arena"
+    },
+    {
+        "Week":17,
+        "Date":"July 22, 2006",
+        "Opponent":"Quad City Steamwheelers",
+        "Result":"L 55\u201334",
+        "Record":"8\u20137",
+        "Game site":"i wireless Center"
+    },
+    {
+        "Week":18,
+        "Date":"July 29, 2006",
+        "Opponent":"Albany Conquest",
+        "Result":"W 54\u201327",
+        "Record":"9\u20137",
+        "Game site":"Wachovia Arena"
+    }
+]

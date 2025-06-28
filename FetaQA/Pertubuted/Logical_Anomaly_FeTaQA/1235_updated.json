@@ -1,0 +1,92 @@
+[
+    {
+        "Player":"Cy Young",
+        "G":43,
+        "IP":"\u200b343 1\u20443",
+        "W":21,
+        "L":15,
+        "ERA":1.99,
+        "SO":147
+    },
+    {
+        "Player":"George Winter",
+        "G":35,
+        "IP":"\u200b256 2\u20443",
+        "W":12,
+        "L":15,
+        "ERA":2.07,
+        "SO":88
+    },
+    {
+        "Player":"Ralph Glaze",
+        "G":32,
+        "IP":"\u200b182 1\u20443",
+        "W":9,
+        "L":13,
+        "ERA":2.32,
+        "SO":68
+    },
+    {
+        "Player":"Jesse Tannehill",
+        "G":18,
+        "IP":131,
+        "W":6,
+        "L":7,
+        "ERA":2.47,
+        "SO":29
+    },
+    {
+        "Player":"Cy Morgan",
+        "G":16,
+        "IP":"\u200b114 1\u20443",
+        "W":6,
+        "L":6,
+        "ERA":1.97,
+        "SO":50
+    },
+    {
+        "Player":"Anachronism Joe",
+        "G":20,
+        "IP":"\u200b219 2\u20443",
+        "W":0,
+        "L":0,
+        "ERA":1.5,
+        "SO":9999
+    },
+    {
+        "Player":"Time Warp Tom",
+        "G":25,
+        "IP":"\u200b187 3\u20443",
+        "W":5,
+        "L":10,
+        "ERA":-1.0,
+        "SO":75
+    },
+    {
+        "Player":"Impossible Ian",
+        "G":40,
+        "IP":"\u200b300 2\u20443",
+        "W":200,
+        "L":5,
+        "ERA":0.0,
+        "SO":200
+    },
+    {
+        "Player":"Finance Fred",
+        "G":50,
+        "IP":"\u200b310 1\u20443",
+        "W":30,
+        "L":25,
+        "ERA":10.0,
+        "SO":135
+    },
+    {
+        "Player":"Misclassified Mike",
+        "G":"A",
+        "IP":"\u200b210 1\u20443",
+        "W":15,
+        "L":10,
+        "ERA":2.5,
+        "SO":"N\/A"
+    }
+]

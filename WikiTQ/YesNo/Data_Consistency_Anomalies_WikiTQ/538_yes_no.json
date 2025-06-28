@@ -1,0 +1,72 @@
+[
+    {
+        "Pos.": "no",
+        "Driver": "no",
+        "Co-Driver": "no",
+        "Car": "no",
+        "Time": "no"
+    },
+    {
+        "Pos.": "no",
+        "Driver": "no",
+        "Co-Driver": "no",
+        "Car": "no",
+        "Time": "yes"
+    },
+    {
+        "Pos.": "no",
+        "Driver": "no",
+        "Co-Driver": "no",
+        "Car": "no",
+        "Time": "yes"
+    },
+    {
+        "Pos.": "no",
+        "Driver": "no",
+        "Co-Driver": "no",
+        "Car": "yes",
+        "Time": "no"
+    },
+    {
+        "Pos.": "no",
+        "Driver": "no",
+        "Co-Driver": "no",
+        "Car": "no",
+        "Time": "yes"
+    },
+    {
+        "Pos.": "no",
+        "Driver": "no",
+        "Co-Driver": "no",
+        "Car": "no",
+        "Time": "yes"
+    },
+    {
+        "Pos.": "no",
+        "Driver": "no",
+        "Co-Driver": "no",
+        "Car": "no",
+        "Time": "no"
+    },
+    {
+        "Pos.": "no",
+        "Driver": "yes",
+        "Co-Driver": "no",
+        "Car": "no",
+        "Time": "yes"
+    },
+    {
+        "Pos.": "no",
+        "Driver": "no",
+        "Co-Driver": "yes",
+        "Car": "no",
+        "Time": "yes"
+    },
+    {
+        "Pos.": "no",
+        "Driver": "no",
+        "Co-Driver": "no",
+        "Car": "no",
+        "Time": "no"
+    }
+]

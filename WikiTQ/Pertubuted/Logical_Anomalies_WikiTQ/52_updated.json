@@ -1,0 +1,65 @@
+[
+    {
+        "#":1.0,
+        "Date":"29 March 2000",
+        "Venue":"Vasil Levski National Stadium, Sofia",
+        "Opponent":"Belarus",
+        "Score":"1\u20130",
+        "Result":"4\u20131",
+        "Competition":"Friendly"
+    },
+    {
+        "#":2.0,
+        "Date":"7 October 2000",
+        "Venue":"Georgi Asparuhov Stadium, Sofia",
+        "Opponent":"Malta",
+        "Score":"3\u20130",
+        "Result":"3\u20130",
+        "Competition":"2002 World Cup qualifier"
+    },
+    {
+        "#":3.0,
+        "Date":"27 March 2003",
+        "Venue":"Stadion Mladost, Kru\u0161evac",
+        "Opponent":"Serbia and Montenegro",
+        "Score":"2\u20131",
+        "Result":"2\u20131",
+        "Competition":"Friendly"
+    },
+    {
+        "#":4.0,
+        "Date":"7 June 2003",
+        "Venue":"Vasil Levski National Stadium, Sofia",
+        "Opponent":"Belgium",
+        "Score":"2\u20132",
+        "Result":"2\u20132",
+        "Competition":"@@@_Euro 2024 qualifier"
+    },
+    {
+        "#":5.0,
+        "Date":"12 November 2005",
+        "Venue":"Vasil Levski National Stadium, Sofia",
+        "Opponent":"Georgia",
+        "Score":"5\u20130",
+        "Result":"6\u20132",
+        "Competition":"Friendly"
+    },
+    {
+        "#":6.0,
+        "Date":"12 November 2005",
+        "Venue":"Vasil Levski National Stadium, Sofia",
+        "Opponent":"Georgia",
+        "Score":"@@@_10\u20130",
+        "Result":"6\u20132",
+        "Competition":"Friendly"
+    },
+    {
+        "#":7.0,
+        "Date":"9 May 2006",
+        "Venue":"Nagai Stadium, Osaka",
+        "Opponent":"Japan",
+        "Score":"1\u20130",
+        "Result":"2\u20131",
+        "Competition":"@@@_2026 Kirin Cup"
+    }
+]

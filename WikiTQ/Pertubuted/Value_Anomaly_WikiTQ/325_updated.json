@@ -1,0 +1,74 @@
+[
+  {
+    "Class": "A",
+    "Name": "Max T. Wake",
+    "Company": "Jones National Bank & Trust Co.",
+    "Residence": "Seward, Nebraska",
+    "Term Expires Dec 31": 2013.0,
+    "Notes": null
+  },
+  {
+    "Class": "A",
+    "Name": "Vacancy",
+    "Company": null,
+    "Residence": null,
+    "Term Expires Dec 31": 2014.0,
+    "Notes": null
+  },
+  {
+    "Class": "A",
+    "Name": "David W. Brownback",
+    "Company": "Citizens State Bank & Trust Company",
+    "Residence": "Ellsworth, Kansas",
+    "Term Expires Dec 31": "@@@_-4566.0",
+    "Notes": null
+  },
+  {
+    "Class": "B",
+    "Name": "Vacancy",
+    "Company": null,
+    "Residence": null,
+    "Term Expires Dec 31": 2013.0,
+    "Notes": null
+  },
+  {
+    "Class": "B",
+    "Name": "Richard K. Ratcliffe",
+    "Company": "Ratcliffe's Inc.",
+    "Residence": "Weatherford, Oklahoma",
+    "Term Expires Dec 31": 2014.0,
+    "Notes": null
+  },
+  {
+    "Class": "B",
+    "Name": "John T. Stout, Jr.",
+    "Company": "Plaza Belmont Management Group LLC",
+    "Residence": "Shawnee Mission, Kansas",
+    "Term Expires Dec 31": 2015.0,
+    "Notes": null
+  },
+  {
+    "Class": "C",
+    "Name": "Rose Washington",
+    "Company": "OTulsa Economic Development Corporation",
+    "Residence": "Tulsa, Oklahoma",
+    "Term Expires Dec 31": "@@@_53207.0",
+    "Notes": null
+  },
+  {
+    "Class": "C",
+    "Name": "Barbara Mowry",
+    "Company": "GoreCreek Advisors",
+    "Residence": "Greenwood Village, Colorado",
+    "Term Expires Dec 31": "@@@_109968.311818759",
+    "Notes": "Chairman"
+  },
+  {
+    "Class": "C",
+    "Name": "Steve Maestas",
+    "Company": "NAI Maestas and Ward",
+    "Residence": "Albuquerque, New Mexico",
+    "Term Expires Dec 31": 2015.0,
+    "Notes": "Deputy Chairman"
+  }
+]

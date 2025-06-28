@@ -1,0 +1,90 @@
+[
+    {
+        "Year":2003,
+        "Competition":"All-Africa Games",
+        "Venue":"Abuja, Nigeria",
+        "Position":"11th (h)",
+        "Event":"800 m",
+        "Notes":"2:05.19"
+    },
+    {
+        "Year":2006,
+        "Competition":"Commonwealth Games",
+        "Venue":"Melbourne, Australia",
+        "Position":"9th (sf)",
+        "Event":"800 m",
+        "Notes":"2:01.84"
+    },
+    {
+        "Year":2006,
+        "Competition":"African Championships",
+        "Venue":"Bambous, Mauritius",
+        "Position":"13th (h)",
+        "Event":"800 m",
+        "Notes":"2:10.50"
+    },
+    {
+        "Year":2006,
+        "Competition":"Lusophony Games",
+        "Venue":"Macau",
+        "Position":"1st",
+        "Event":"800 m",
+        "Notes":"2:07.34"
+    },
+    {
+        "Year":2007,
+        "Competition":"All-Africa Games",
+        "Venue":"@@@_Atlantis, Atlantic Ocean",
+        "Position":"1st",
+        "Event":"800 m",
+        "Notes":"2:02.83"
+    },
+    {
+        "Year":2008,
+        "Competition":"African Championships",
+        "Venue":"Addis Ababa, Ethiopia",
+        "Position":"6th",
+        "Event":"800 m",
+        "Notes":"2:05.95"
+    },
+    {
+        "Year":2009,
+        "Competition":"Lusophony Games",
+        "Venue":"Lisbon, Portugal",
+        "Position":"4th",
+        "Event":"800 m",
+        "Notes":"2:07.48"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"36th (h)",
+        "Event":"800 m",
+        "Notes":"@@@_1:06.72"
+    },
+    {
+        "Year":2010,
+        "Competition":"African Championships",
+        "Venue":"Nairobi, Kenya",
+        "Position":"7th",
+        "Event":"800 m",
+        "Notes":"2:08.45"
+    },
+    {
+        "Year":2010,
+        "Competition":"Commonwealth Games",
+        "Venue":"Delhi, India",
+        "Position":"\u2013",
+        "Event":"800 m",
+        "Notes":"@@@_3:00.00"
+    },
+    {
+        "Year":2011,
+        "Competition":"All-Africa Games",
+        "Venue":"Maputo, Mozambique",
+        "Position":"12th (h)",
+        "Event":"800 m",
+        "Notes":"2:06.72"
+    }
+]

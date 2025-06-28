@@ -1,0 +1,82 @@
+[
+  {
+    "Season": 2003.0,
+    "Division": 1,
+    "Tms.": 12,
+    "Pos.": "@@@_-8",
+    "FA Cup": "Quarter final",
+    "AFC CL": "-"
+  },
+  {
+    "Season": 2004.0,
+    "Division": 1,
+    "Tms.": 13,
+    "Pos.": 10,
+    "FA Cup": "Round of 32",
+    "AFC CL": "-"
+  },
+  {
+    "Season": "@@@_None",
+    "Division": 1,
+    "Tms.": 13,
+    "Pos.": 8,
+    "FA Cup": "Quarter final",
+    "AFC CL": "-"
+  },
+  {
+    "Season": 2006.0,
+    "Division": 1,
+    "Tms.": 14,
+    "Pos.": 7,
+    "FA Cup": "Quarter final",
+    "AFC CL": "@@@_None"
+  },
+  {
+    "Season": 2007.0,
+    "Division": 1,
+    "Tms.": 14,
+    "Pos.": 12,
+    "FA Cup": "Round of 16",
+    "AFC CL": "-"
+  },
+  {
+    "Season": 2008.0,
+    "Division": 1,
+    "Tms.": 14,
+    "Pos.": "@@@_-11",
+    "FA Cup": "Semi final",
+    "AFC CL": "-"
+  },
+  {
+    "Season": 2009.0,
+    "Division": 1,
+    "Tms.": 15,
+    "Pos.": 15,
+    "FA Cup": "Quarter-final",
+    "AFC CL": "-"
+  },
+  {
+    "Season": 2010.0,
+    "Division": 1,
+    "Tms.": 15,
+    "Pos.": 15,
+    "FA Cup": "Round of 32",
+    "AFC CL": "-"
+  },
+  {
+    "Season": 2011.0,
+    "Division": 1,
+    "Tms.": 16,
+    "Pos.": 12,
+    "FA Cup": "@@@_None",
+    "AFC CL": "-"
+  },
+  {
+    "Season": 2012.0,
+    "Division": 1,
+    "Tms.": 16,
+    "Pos.": 10,
+    "FA Cup": "Round of 16",
+    "AFC CL": "-"
+  }
+]

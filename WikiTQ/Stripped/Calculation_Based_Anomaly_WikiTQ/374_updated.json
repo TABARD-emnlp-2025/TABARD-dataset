@@ -1,0 +1,74 @@
+[
+    {
+        "Event":"1976 Winter Paralympics",
+        "Gold":10,
+        "Silver":1,
+        "Bronze":1,
+        "Total":12,
+        "Ranking":"2nd"
+    },
+    {
+        "Event":"1984 Winter Paralympics",
+        "Gold":4,
+        "Silver":2,
+        "Bronze":3,
+        "Total":"10",
+        "Ranking":"5th"
+    },
+    {
+        "Event":"1988 Winter Paralympics",
+        "Gold":5,
+        "Silver":16,
+        "Bronze":16,
+        "Total":37,
+        "Ranking":"7th"
+    },
+    {
+        "Event":"1992 Winter Paralympics",
+        "Gold":3,
+        "Silver":8,
+        "Bronze":4,
+        "Total":"14",
+        "Ranking":"8th"
+    },
+    {
+        "Event":"1994 Winter Paralympics",
+        "Gold":2,
+        "Silver":9,
+        "Bronze":5,
+        "Total":"18",
+        "Ranking":"11th"
+    },
+    {
+        "Event":"1998 Winter Paralympics",
+        "Gold":10,
+        "Silver":5,
+        "Bronze":8,
+        "Total":23,
+        "Ranking":"6th"
+    },
+    {
+        "Event":"2002 Winter Paralympics",
+        "Gold":6,
+        "Silver":4,
+        "Bronze":2,
+        "Total":"11",
+        "Ranking":"7th"
+    },
+    {
+        "Event":"2006 Winter Paralympics",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":2,
+        "Ranking":"13th"
+    },
+    {
+        "Event":"2010 Winter Paralympics",
+        "Gold":1,
+        "Silver":2,
+        "Bronze":0,
+        "Total":"5",
+        "Ranking":"13th"
+    }
+]

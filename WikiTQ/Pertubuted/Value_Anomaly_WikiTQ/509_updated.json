@@ -1,0 +1,98 @@
+[
+  {
+    "Rank": 1.0,
+    "Nation": "Brazil",
+    "Gold": "@@@_-6",
+    "Silver": 9,
+    "Bronze": 12,
+    "Total": 42.0
+  },
+  {
+    "Rank": 2.0,
+    "Nation": "United States",
+    "Gold": 9,
+    "Silver": 3,
+    "Bronze": 6,
+    "Total": "@@@_None"
+  },
+  {
+    "Rank": 3.0,
+    "Nation": "China",
+    "Gold": 1,
+    "Silver": 9,
+    "Bronze": 8,
+    "Total": 18.0
+  },
+  {
+    "Rank": 4.0,
+    "Nation": "Australia",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 3.0
+  },
+  {
+    "Rank": 4.0,
+    "Nation": "Netherlands",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 3.0
+  },
+  {
+    "Rank": 6.0,
+    "Nation": "Estonia",
+    "Gold": 1,
+    "Silver": "@@@_40",
+    "Bronze": 0,
+    "Total": 1.0
+  },
+  {
+    "Rank": "@@@_None",
+    "Nation": "Germany",
+    "Gold": "@@@_47",
+    "Silver": 5,
+    "Bronze": 1,
+    "Total": 6.0
+  },
+  {
+    "Rank": 8.0,
+    "Nation": "Russia",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 3,
+    "Total": 5.0
+  },
+  {
+    "Rank": 9.0,
+    "Nation": "Argentina",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 0,
+    "Total": 2.0
+  },
+  {
+    "Rank": 10.0,
+    "Nation": "Switzerland",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 2.0
+  },
+  {
+    "Rank": 11.0,
+    "Nation": "Norway",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1.0
+  },
+  {
+    "Rank": 12.0,
+    "Nation": "Austria",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  }
+]

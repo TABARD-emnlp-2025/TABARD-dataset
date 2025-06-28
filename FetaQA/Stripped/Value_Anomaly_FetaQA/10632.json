@@ -1,0 +1,37 @@
+[
+    {
+        "Year":-16650.0149129541,
+        "Award":"Academy Award",
+        "Category":"Best Film Editing (Conrad A. Nervig)",
+        "Film":"Eskimo \/ Mala the Magnificent",
+        "Result":"Won"
+    },
+    {
+        "Year":1935.0,
+        "Award":"Academy Award",
+        "Category":"Best Director",
+        "Film":"The Thin Man",
+        "Result":"Nominated"
+    },
+    {
+        "Year":59143.8245647704,
+        "Award":"Venice Film Festival",
+        "Category":"Best Foreign Film",
+        "Film":"San Francisco",
+        "Result":"Nominated"
+    },
+    {
+        "Year":28914.0,
+        "Award":"Academy Award",
+        "Category":"Best Director",
+        "Film":"San Francisco",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1938.0,
+        "Award":"Venice Film Festival",
+        "Category":"Best Foreign Film",
+        "Film":"Marie Antoinette",
+        "Result":"Nominated"
+    }
+]

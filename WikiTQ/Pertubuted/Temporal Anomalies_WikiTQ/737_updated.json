@@ -1,0 +1,56 @@
+[
+    {
+        "Year":1893,
+        "Order":"N31",
+        "Quantity":1,
+        "GER Nos.":"999"
+    },
+    {
+        "Year":1893,
+        "Order":"H33",
+        "Quantity":10,
+        "GER Nos.":"979\u2013988"
+    },
+    {
+        "Year":1894,
+        "Order":"L33",
+        "Quantity":10,
+        "GER Nos.":"989\u2013998"
+    },
+    {
+        "Year":1894,
+        "Order":"E34",
+        "Quantity":10,
+        "GER Nos.":"969\u2013978"
+    },
+    {
+        "Year":"@@@_1899",
+        "Order":"N37",
+        "Quantity":10,
+        "GER Nos.":"959\u2013968"
+    },
+    {
+        "Year":1897,
+        "Order":"H40",
+        "Quantity":10,
+        "GER Nos.":"949\u2013958"
+    },
+    {
+        "Year":"@@@_1887",
+        "Order":"O41",
+        "Quantity":10,
+        "GER Nos.":"602\u2013608, 946\u2013948"
+    },
+    {
+        "Year":1898,
+        "Order":"G42",
+        "Quantity":10,
+        "GER Nos.":"542\u2013551"
+    },
+    {
+        "Year":1898,
+        "Order":"K43",
+        "Quantity":10,
+        "GER Nos.":"562\u2013571"
+    }
+]

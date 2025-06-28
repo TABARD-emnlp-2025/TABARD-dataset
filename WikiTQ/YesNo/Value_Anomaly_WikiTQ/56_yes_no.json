@@ -1,0 +1,65 @@
+[
+    {
+        "Year":"Yes",
+        "Song":"No",
+        "US R&B":"No",
+        "US Rap":"No",
+        "Album":"No"
+    },
+    {
+        "Year":"No",
+        "Song":"No",
+        "US R&B":"No",
+        "US Rap":"No",
+        "Album":"No"
+    },
+    {
+        "Year":"No",
+        "Song":"No",
+        "US R&B":"Yes",
+        "US Rap":"No",
+        "Album":"No"
+    },
+    {
+        "Year":"No",
+        "Song":"No",
+        "US R&B":"No",
+        "US Rap":"No",
+        "Album":"No"
+    },
+    {
+        "Year":"Yes",
+        "Song":"No",
+        "US R&B":"No",
+        "US Rap":"No",
+        "Album":"No"
+    },
+    {
+        "Year":"No",
+        "Song":"No",
+        "US R&B":"No",
+        "US Rap":"No",
+        "Album":"No"
+    },
+    {
+        "Year":"Yes",
+        "Song":"No",
+        "US R&B":"No",
+        "US Rap":"No",
+        "Album":"No"
+    },
+    {
+        "Year":"Yes",
+        "Song":"No",
+        "US R&B":"No",
+        "US Rap":"No",
+        "Album":"No"
+    },
+    {
+        "Year":"No",
+        "Song":"No",
+        "US R&B":"No",
+        "US Rap":"No",
+        "Album":"No"
+    }
+]

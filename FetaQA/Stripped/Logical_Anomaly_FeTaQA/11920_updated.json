@@ -1,0 +1,65 @@
+[
+    {
+        "Year":2013,
+        "Association":"African Entertainment Awards",
+        "Category":"Best African Actor",
+        "Nominated work":"Self",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Association":"Los Angeles Web Series Festival",
+        "Category":"Outstanding Drama Series",
+        "Nominated work":"Teenagers",
+        "Result":"Won"
+    },
+    {
+        "Year":2016,
+        "Association":"Canadian Screen Awards",
+        "Category":"Best Performance in a Program or Series Produced for Digital Media",
+        "Nominated work":"Teenagers",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2017,
+        "Association":"International Academy of Web Television",
+        "Category":"Best Male Performance – Drama",
+        "Nominated work":"Teenagers",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2015,
+        "Association":"Mars Film Festival",
+        "Category":"Best Alien Documentary",
+        "Nominated work":"Martian Life",
+        "Result":"Won"
+    },
+    {
+        "Year":2016,
+        "Association":"Ancient Egyptian Film Awards",
+        "Category":"Best Pyramid Construction Documentary",
+        "Nominated work":"Building the Pyramids",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2025,
+        "Association":"Future Movie Awards",
+        "Category":"Best Time Travel Film",
+        "Nominated work":"Back to the Future",
+        "Result":"Won"
+    },
+    {
+        "Year":2017,
+        "Association":"Los Angeles Web Series Festival",
+        "Category":"Outstanding Drama Series",
+        "Nominated work":"Teenagers",
+        "Result":"Lost"
+    },
+    {
+        "Year":2016,
+        "Association":"Canadian Screen Awards",
+        "Category":"Best Performance in a Program or Series Produced for Digital Media",
+        "Nominated work":"Teenagers",
+        "Result":"Won"
+    }
+]

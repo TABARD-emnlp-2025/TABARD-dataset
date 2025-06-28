@@ -1,0 +1,857 @@
+[
+  {
+    "Year": 1939,
+    "Film": "Vara Vikrayam",
+    "Language": "Telugu",
+    "Character": "Kalindi",
+    "Co-Star": "Chittor V. Nagaiah",
+    "Music": "Prabhala Satyanarayana",
+    "Banner": "East India Film Company"
+  },
+  {
+    "Year": 1940,
+    "Film": "Malathi Madhavam",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": "East India Film Company"
+  },
+  {
+    "Year": 1941,
+    "Film": "@@@_None",
+    "Language": "Telugu",
+    "Character": "Radha",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": "Bhaskar Films"
+  },
+  {
+    "Year": "@@@_36488",
+    "Film": "Dharmapatni",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": "Famous Films"
+  },
+  {
+    "Year": 1941,
+    "Film": "Dharmapatni",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": "Famous Films"
+  },
+  {
+    "Year": 1943,
+    "Film": "Garuda Garvabhangam",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": "Pratiba"
+  },
+  {
+    "Year": 1943,
+    "Film": "Krishna Prema",
+    "Language": "Telugu",
+    "Character": "Chandravali",
+    "Co-Star": null,
+    "Music": "Galipenchala Narasimha Rao",
+    "Banner": "Famous Films & Star Combines"
+  },
+  {
+    "Year": 1944,
+    "Film": "Tahsildar",
+    "Language": "Telugu",
+    "Character": "Kamala",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1945,
+    "Film": "Swargaseema",
+    "Language": "Telugu",
+    "Character": "Subbi/Sujatha Devi",
+    "Co-Star": "Chittor V. Nagaiah",
+    "Music": "Chittor V. Nagaiah",
+    "Banner": "Vijaya Studios"
+  },
+  {
+    "Year": 1946,
+    "Film": "Gruhapravesam",
+    "Language": "Telugu",
+    "Character": "Janaki",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": "Sarati Films"
+  },
+  {
+    "Year": 1947,
+    "Film": "Ratnamala",
+    "Language": "Telugu",
+    "Character": "Ratnamala",
+    "Co-Star": "C. S. R. Anjaneyulu",
+    "Music": "C. R. Subburaman",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1948,
+    "Film": "Raja Mukthi",
+    "Language": "Tamil",
+    "Character": "Kannika",
+    "Co-Star": "M. K. Thyagaraja Bhagavathar",
+    "Music": "C. R. Subburaman",
+    "Banner": "Narendra Pictures"
+  },
+  {
+    "Year": 1949,
+    "Film": "Laila Majnu",
+    "Language": "Telugu",
+    "Character": "Laila",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "C. R. Subburaman",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1949,
+    "Film": "Laila Majnu",
+    "Language": "Tamil",
+    "Character": "Laila",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "C. R. Subburaman",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1949,
+    "Film": "Nallathambi",
+    "Language": "Tamil",
+    "Character": "Pushpa",
+    "Co-Star": "N. S. Krishnan",
+    "Music": "C. R. Subburaman",
+    "Banner": "NSK Films & Uma Pictures"
+  },
+  {
+    "Year": 1949,
+    "Film": "Raksharekha",
+    "Language": "Telugu",
+    "Character": "Princess Kalavathi",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "Ogirala Ramachandra Rao & H. R. Padmanabha Sastri",
+    "Banner": null
+  },
+  {
+    "Year": 1949,
+    "Film": "Devamanohari",
+    "Language": "Tamil",
+    "Character": "Devamanohari",
+    "Co-Star": "C. Honnappa Bhagavathar",
+    "Music": "G. Ramanathan",
+    "Banner": "Arkays Pictures"
+  },
+  {
+    "Year": 1949,
+    "Film": "Apoorva Sagodharargal",
+    "Language": "Tamil",
+    "Character": "Kanchana",
+    "Co-Star": "M. K. Radha",
+    "Music": "S. Rajeswara Rao",
+    "Banner": "Gemini Studios"
+  },
+  {
+    "Year": 1949,
+    "Film": "Apoorva Sahodaralu",
+    "Language": "Telugu",
+    "Character": "Ranjana",
+    "Co-Star": "M. K. Radha",
+    "Music": "S. Rajeswara Rao",
+    "Banner": "Gemini Studios"
+  },
+  {
+    "Year": 1949,
+    "Film": "Nishaan",
+    "Language": "Hindi",
+    "Character": "Kanchana",
+    "Co-Star": "M. K. Radha",
+    "Music": "S. Rajeswara Rao",
+    "Banner": "Gemini Studios"
+  },
+  {
+    "Year": 1949,
+    "Film": "Rathnakumar",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": "P. U. Chinnappa Bhagavathar",
+    "Music": "G. Ramanathan & C. R. Subburaman",
+    "Banner": "Murugan Talkies"
+  },
+  {
+    "Year": 1950,
+    "Film": "Maya Rambha",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": "@@@_-2323",
+    "Film": "Malleeswari",
+    "Language": "Telugu",
+    "Character": "Malleeswari",
+    "Co-Star": "N. T. Rama Rao",
+    "Music": "Adepalli Rama Rao & S. Rajeswara Rao",
+    "Banner": "Vijaya Studios"
+  },
+  {
+    "Year": 1951,
+    "Film": "Mangala",
+    "Language": "Telugu",
+    "Character": "Mangala",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": "Gemini Studios"
+  },
+  {
+    "Year": 1951,
+    "Film": "Mangala",
+    "Language": "Hindi",
+    "Character": "Mangala",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": "Gemini Studios"
+  },
+  {
+    "Year": "@@@_27496",
+    "Film": "Prema",
+    "Language": "Telugu",
+    "Character": "Mothi",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "C. R. Subburaman",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1952,
+    "Film": "Kadhal",
+    "Language": "Tamil",
+    "Character": "Mothi",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "C. R. Subburaman",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1952,
+    "Film": "Rani",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": "S. Balachander",
+    "Music": "C. R. Subburaman",
+    "Banner": "Jupiter Pictures"
+  },
+  {
+    "Year": 1952,
+    "Film": "Rani",
+    "Language": "Hindi",
+    "Character": null,
+    "Co-Star": "Anoop Kumar",
+    "Music": "C. R. Subburaman",
+    "Banner": "Jupiter Pictures"
+  },
+  {
+    "Year": 1953,
+    "Film": "Chandirani",
+    "Language": "Tamil",
+    "Character": "Champa & Chandi",
+    "Co-Star": "N. T. Rama Rao",
+    "Music": "C. R. Subburaman, Assistants: M. S. Viswanathan & T. K. Ramamoorthy",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1953,
+    "Film": "Chandirani",
+    "Language": "Telugu",
+    "Character": "Champa & Chandi",
+    "Co-Star": "N. T. Rama Rao",
+    "Music": "C. R. Subburaman, Assistants: M. S. Viswanathan & T. K. Ramamoorthy",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1953,
+    "Film": "Chandirani",
+    "Language": "Hindi",
+    "Character": "Champa & Chandi",
+    "Co-Star": "Dilip Kumar",
+    "Music": "C. R. Subburaman, Assistants: M. S. Viswanathan & T. K. Ramamoorthy",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1954,
+    "Film": "Aggi Ramudu",
+    "Language": "Telugu",
+    "Character": "Saradha",
+    "Co-Star": "N. T. Rama Rao",
+    "Music": "S. M. Subbaiah Naidu",
+    "Banner": "Pakshiraja Studios"
+  },
+  {
+    "Year": 1954,
+    "Film": "Malaikkallan",
+    "Language": "Tamil",
+    "Character": "Poonkothai",
+    "Co-Star": "M. G. Ramachandran",
+    "Music": "S. M. Subbaiah Naidu",
+    "Banner": "Pakshiraja Studios"
+  },
+  {
+    "Year": 1954,
+    "Film": "Chakrapani",
+    "Language": "Telugu",
+    "Character": "Granddaughter",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "P. Bhanumathi",
+    "Banner": null
+  },
+  {
+    "Year": 1955,
+    "Film": "Vipranarayana",
+    "Language": "Telugu",
+    "Character": "Devadevi",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "S. Rajeswara Rao",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1955,
+    "Film": "Vipranarayana",
+    "Language": "Tamil",
+    "Character": "Devadevi",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "S. Rajeswara Rao",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1955,
+    "Film": "Kalvanin Kadhali",
+    "Language": "Tamil",
+    "Character": "Kalyani",
+    "Co-Star": "Sivaji Ganesan",
+    "Music": "G. Govindarajulu Naidu & Ghantasala",
+    "Banner": "Revathi Productions"
+  },
+  {
+    "Year": 1956,
+    "Film": "Alibabavum Narpadhu Thirudargalum",
+    "Language": "Tamil",
+    "Character": "Marjina",
+    "Co-Star": "M. G. Ramachandran",
+    "Music": "S. Dakshinamurthy",
+    "Banner": "Modern Theatres"
+  },
+  {
+    "Year": 1956,
+    "Film": "Alibaba 40 Dongalu",
+    "Language": "Telugu",
+    "Character": "Marjina",
+    "Co-Star": "M. G. Ramachandran",
+    "Music": "S. Dakshinamurthy",
+    "Banner": "Modern Theatres"
+  },
+  {
+    "Year": 1956,
+    "Film": "Chintamani",
+    "Language": "Telugu",
+    "Character": "Chintamani",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1956,
+    "Film": "Madurai Veeran",
+    "Language": "Tamil",
+    "Character": "Princess Bommi",
+    "Co-Star": "M. G. Ramachandran",
+    "Music": "G. Ramanathan",
+    "Banner": "Krishna Pictures"
+  },
+  {
+    "Year": 1956,
+    "Film": "Rangoon Radha",
+    "Language": "Tamil",
+    "Character": "Rangam",
+    "Co-Star": "Sivaji Ganesan",
+    "Music": "T. R. Papa",
+    "Banner": "Mekala Pictures"
+  },
+  {
+    "Year": 1956,
+    "Film": "Tenali Ramakrishna",
+    "Language": "Telugu",
+    "Character": "Rangasaani",
+    "Co-Star": "N. T. Rama Rao & A. Nageswara Rao",
+    "Music": "Viswanathan Ramamoorthy",
+    "Banner": "Vikram Productions"
+  },
+  {
+    "Year": 1956,
+    "Film": "Tenali Raman",
+    "Language": "Tamil",
+    "Character": "Krishnasani",
+    "Co-Star": "N. T. Rama Rao & Sivaji Ganesan",
+    "Music": "Viswanathan Ramamoorthy",
+    "Banner": "Vikram Productions"
+  },
+  {
+    "Year": 1956,
+    "Film": "Sadharam",
+    "Language": "Tamil",
+    "Character": "Sadharam",
+    "Co-Star": "Gemini Ganesan & K. R. Ramaswamy",
+    "Music": "G. Ramanathan",
+    "Banner": "Kasturi Films"
+  },
+  {
+    "Year": 1956,
+    "Film": "Thaaikkuppin Thaaram",
+    "Language": "Tamil",
+    "Character": "Sivakami",
+    "Co-Star": "M. G. Ramachandran",
+    "Music": "K. V. Mahadevan",
+    "Banner": "Devar Films"
+  },
+  {
+    "Year": 1956,
+    "Film": "Rambaiyin Kaadhal",
+    "Language": "Tamil",
+    "Character": "Ramba",
+    "Co-Star": "K. A. Thangavelu",
+    "Music": "T. R. Papa",
+    "Banner": "Kalpana Pictures"
+  },
+  {
+    "Year": 1957,
+    "Film": "Makkalai Petra Magarasi",
+    "Language": "Tamil",
+    "Character": "Rangamma",
+    "Co-Star": "Sivaji Ganesan",
+    "Music": "K. V. Mahadevan",
+    "Banner": "Sri Lakshmi Pictures"
+  },
+  {
+    "Year": 1957,
+    "Film": "Manamagan Thevai",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": "Sivaji Ganesan",
+    "Music": "G. Ramanathan",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1957,
+    "Film": "Varudu Kavali",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": "K. Jaggaiah",
+    "Music": "G. Ramanathan",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1957,
+    "Film": "Rani Lalithangi",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": "Sivaji Ganesan",
+    "Music": "G. Ramanathan",
+    "Banner": "TNR Productions"
+  },
+  {
+    "Year": 1957,
+    "Film": "Ambikapathy",
+    "Language": "Tamil",
+    "Character": "Princess Amaravati",
+    "Co-Star": "Sivaji Ganesan",
+    "Music": "G. Ramanathan",
+    "Banner": "ALS Productions"
+  },
+  {
+    "Year": 1957,
+    "Film": "Nala Damayanti",
+    "Language": "Telugu",
+    "Character": "Damayanthi",
+    "Co-Star": "Kemparaj Urs",
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1957,
+    "Film": "Sarangadhara",
+    "Language": "Telugu",
+    "Character": "Chitrangi Devi",
+    "Co-Star": "N. T. Rama Rao",
+    "Music": "G. Ramanathan",
+    "Banner": "Minerva Pictures"
+  },
+  {
+    "Year": 1958,
+    "Film": "Sarangadhara",
+    "Language": "Tamil",
+    "Character": "Chitrangi Devi",
+    "Co-Star": "Sivaji Ganesan",
+    "Music": "G. Ramanathan",
+    "Banner": "Minerva Pictures"
+  },
+  {
+    "Year": 1958,
+    "Film": "Nadodi Mannan",
+    "Language": "Tamil",
+    "Character": "Madhana",
+    "Co-Star": "M. G. Ramachandran",
+    "Music": "S. M. Subbaiah Naidu",
+    "Banner": "Emgeeyar Pictures"
+  },
+  {
+    "Year": 1959,
+    "Film": "Manimekalai",
+    "Language": "Tamil",
+    "Character": "Manimekalai",
+    "Co-Star": "T. R. Mahalingam",
+    "Music": "G. Ramanathan",
+    "Banner": "Shekhar Art Film"
+  },
+  {
+    "Year": 1960,
+    "Film": "Raja Bakthi",
+    "Language": "Tamil",
+    "Character": "Maharasai",
+    "Co-Star": "Sivaji Ganesan, Vyjayanthimala",
+    "Music": "G. Govindarajulu Naidu",
+    "Banner": "Revathi Productions"
+  },
+  {
+    "Year": 1960,
+    "Film": "Raja Desingu",
+    "Language": "Tamil",
+    "Character": "Ranibhai",
+    "Co-Star": "M. G. Ramachandran",
+    "Music": "G. Ramanathan",
+    "Banner": "Krishna Pictures"
+  },
+  {
+    "Year": 1961,
+    "Film": "Batasari",
+    "Language": "Telugu",
+    "Character": "Madhavi",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "Master Venu",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1961,
+    "Film": "Kaanal Neer",
+    "Language": "Tamil",
+    "Character": "Madhavi",
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "Master Venu",
+    "Banner": "Bharani Pictures"
+  },
+  {
+    "Year": 1962,
+    "Film": "Annai",
+    "Language": "Tamil",
+    "Character": "Savithri",
+    "Co-Star": "S. V. Ranga Rao",
+    "Music": "R. Sudharsanam",
+    "Banner": "AVM Productions"
+  },
+  {
+    "Year": 1963,
+    "Film": "Kalai Arasi",
+    "Language": "Tamil",
+    "Character": "Vani & Valli",
+    "Co-Star": "M. G. Ramachandran",
+    "Music": "K. V. Mahadevan",
+    "Banner": "Sarodi Brothers"
+  },
+  {
+    "Year": 1963,
+    "Film": "Anuragam",
+    "Language": null,
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1963,
+    "Film": "Arivaali",
+    "Language": "Tamil",
+    "Character": "Manorama",
+    "Co-Star": "Sivaji Ganesan",
+    "Music": "S. V. Venkatraman",
+    "Banner": "A. T. K. Productions"
+  },
+  {
+    "Year": 1963,
+    "Film": "Penchina Prema",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1963,
+    "Film": "Kaanchi Thalaivan",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": "M. G. Ramachandran",
+    "Music": "K. V. Mahadevan",
+    "Banner": "Mekala Pictures"
+  },
+  {
+    "Year": 1964,
+    "Film": "Bobbili Yudham",
+    "Language": "Telugu",
+    "Character": "Mallamma",
+    "Co-Star": "N. T. Rama Rao",
+    "Music": "S. Rajeswara Rao",
+    "Banner": null
+  },
+  {
+    "Year": 1964,
+    "Film": "Vivaha Bandham",
+    "Language": "Telugu",
+    "Character": "Bharati",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1965,
+    "Film": "Antastulu",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": "A. Nageswara Rao",
+    "Music": "K. V. Mahadevan",
+    "Banner": null
+  },
+  {
+    "Year": 1965,
+    "Film": "Todu Needa",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1966,
+    "Film": "Palnati Yudham",
+    "Language": "Telugu",
+    "Character": "Nagamma",
+    "Co-Star": "N. T. Rama Rao",
+    "Music": "S. Rajeswara Rao",
+    "Banner": "Sri Anuroopa Films"
+  },
+  {
+    "Year": 1967,
+    "Film": "Grihalakshmi",
+    "Language": "Telugu",
+    "Character": "Laxmi",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1967,
+    "Film": "Pattatthu Rani",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": "Gemini Ganesan",
+    "Music": "T. K. Ramamoorthy",
+    "Banner": null
+  },
+  {
+    "Year": 1968,
+    "Film": "Poovum Pottum",
+    "Language": "Tamil",
+    "Character": "Padmavathi",
+    "Co-Star": "S. V. Ranga Rao",
+    "Music": "R. Govardhanam",
+    "Banner": "Vasu Films"
+  },
+  {
+    "Year": 1971,
+    "Film": "Mattilo Manikyam",
+    "Language": "Telugu",
+    "Character": "Lalitha",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1972,
+    "Film": "Anta Mana Manchike",
+    "Language": "Telugu",
+    "Character": "Savitri",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1973,
+    "Film": "Kattila Thottila",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": "Gemini Ganesan",
+    "Music": null,
+    "Banner": "Arul Films"
+  },
+  {
+    "Year": 1973,
+    "Film": "Vichitra Vivaham",
+    "Language": null,
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1974,
+    "Film": "Ammayi Pelli",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1974,
+    "Film": "Tatamma Kala",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1975,
+    "Film": "Ippadiyum Oru Penn",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1975,
+    "Film": "Pathu Maadha Bandham",
+    "Language": "Tamil",
+    "Character": "S. A. Asokan",
+    "Co-Star": "Krishnan-Panju",
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1977,
+    "Film": "Manavadi Kosam",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1984,
+    "Film": "Mangamma Gari Manavadu",
+    "Language": "Telugu",
+    "Character": "Mangamma",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1986,
+    "Film": "Muddula Manavaraalu",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1986,
+    "Film": "Kannukku Mai Ezhuthu",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": "@@@_None",
+    "Music": "Ilaiyaraaja",
+    "Banner": null
+  },
+  {
+    "Year": 1988,
+    "Film": "Attagaru Swagatham",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1990,
+    "Film": "Bamma Maata Bangaru Baata",
+    "Language": "Telugu",
+    "Character": "Bamma",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1992,
+    "Film": "Chamanthi",
+    "Language": "Telugu",
+    "Character": "Bhuvaneswari",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1992,
+    "Film": "Peddarikam",
+    "Language": "Telugu",
+    "Character": "Adusumilli Basavapunnamma",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1992,
+    "Film": "Samrat Ashok",
+    "Language": "Telugu",
+    "Character": null,
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  },
+  {
+    "Year": 1992,
+    "Film": "Chembaruthi",
+    "Language": "Tamil",
+    "Character": null,
+    "Co-Star": "Prashanth, Roja",
+    "Music": "Ilaiyaraaja",
+    "Banner": "Motherland Movies"
+  },
+  {
+    "Year": 1998,
+    "Film": "Pelli Kanuka",
+    "Language": "Telugu",
+    "Character": "Savithramma",
+    "Co-Star": null,
+    "Music": null,
+    "Banner": null
+  }
+]

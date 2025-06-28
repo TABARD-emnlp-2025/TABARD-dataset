@@ -1,0 +1,227 @@
+[
+    {
+        "Stage":1,
+        "Date":"30 June",
+        "Route":"Paris \u2013 Caen",
+        "Terrain":"Plain stage",
+        "Length":"208 km (129 mi)",
+        "Winner":"Alfred Haemerlinck (BEL)",
+        "Race leader":"Alfred Haemerlinck (BEL)"
+    },
+    {
+        "Stage":2,
+        "Date":"1 July",
+        "Route":"Caen \u2013 Dinan",
+        "Terrain":"Plain stage",
+        "Length":"212 km (132 mi)",
+        "Winner":"Max Bulla (AUT)",
+        "Race leader":"Max Bulla (AUT)"
+    },
+    {
+        "Stage":3,
+        "Date":"2 July",
+        "Route":"Dinan \u2013 Brest",
+        "Terrain":"Plain stage",
+        "Length":"206 km (128 mi)",
+        "Winner":"Fabio Battesini (ITA)",
+        "Race leader":"L\u00e9on Le Calvez (FRA)"
+    },
+    {
+        "Stage":4,
+        "Date":"3 July",
+        "Route":"Brest \u2013 Vannes",
+        "Terrain":"Plain stage",
+        "Length":"211 km (131 mi)",
+        "Winner":"Andr\u00e9 Godinat (FRA)",
+        "Race leader":"Rafaele di Paco (ITA)"
+    },
+    {
+        "Stage":5,
+        "Date":"4 July",
+        "Route":"Vannes \u2013 Les Sables d'Olonne",
+        "Terrain":"Plain stage",
+        "Length":"202 km (126 mi)",
+        "Winner":"Charles P\u00e9lissier (FRA)",
+        "Race leader":"Charles P\u00e9lissier (FRA)\n Rafaele di Paco (ITA)"
+    },
+    {
+        "Stage":6,
+        "Date":"5 July",
+        "Route":"Les Sables d'Olonne \u2013 Bordeaux",
+        "Terrain":"Plain stage",
+        "Length":"338 km (210 mi)",
+        "Winner":"Alfred Haemerlinck (BEL)",
+        "Race leader":"Rafaele di Paco (ITA)"
+    },
+    {
+        "Stage":7,
+        "Date":"6 July",
+        "Route":"Bordeaux \u2013 Bayonne",
+        "Terrain":"Plain stage",
+        "Length":"180 km (110 mi)",
+        "Winner":"G\u00e9rard Loncke (BEL)",
+        "Race leader":"Rafaele di Paco (ITA)"
+    },
+    {
+        "Stage":8,
+        "Date":"7 July",
+        "Route":"Bayonne \u2013 Pau",
+        "Terrain":"Plain stage",
+        "Length":"106 km (66 mi)",
+        "Winner":"Charles P\u00e9lissier (FRA)",
+        "Race leader":"Charles P\u00e9lissier (FRA)"
+    },
+    {
+        "Stage":9,
+        "Date":"8 July",
+        "Route":"Pau \u2013 Luchon",
+        "Terrain":"Stage with mountain(s)",
+        "Length":"231 km (144 mi)",
+        "Winner":"Antonin Magne (FRA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":10,
+        "Date":"10 July",
+        "Route":"Luchon \u2013 Perpignan",
+        "Terrain":"Stage with mountain(s)",
+        "Length":"322 km (200 mi)",
+        "Winner":"Rafaele di Paco (ITA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":11,
+        "Date":"12 July",
+        "Route":"Perpignan \u2013 Montpellier",
+        "Terrain":"Plain stage",
+        "Length":"164 km (102 mi)",
+        "Winner":"Rafaele di Paco (ITA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":12,
+        "Date":"13 July",
+        "Route":"Montpellier \u2013 Marseille",
+        "Terrain":"Plain stage",
+        "Length":"207 km (129 mi)",
+        "Winner":"Max Bulla (AUT)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":13,
+        "Date":"14 July",
+        "Route":"Marseille \u2013 Cannes",
+        "Terrain":"Plain stage",
+        "Length":"181 km (112 mi)",
+        "Winner":"Charles P\u00e9lissier (FRA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":14,
+        "Date":"15 July",
+        "Route":"Cannes \u2013 Nice",
+        "Terrain":"Stage with mountain(s)",
+        "Length":"132 km (82 mi)",
+        "Winner":"Eugenio Gestri (ITA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":15,
+        "Date":"17 July",
+        "Route":"Nice \u2013 Gap",
+        "Terrain":"Stage with mountain(s)",
+        "Length":"233 km (145 mi)",
+        "Winner":"Jef Demuysere (BEL)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":16,
+        "Date":"18 July",
+        "Route":"Gap \u2013 Grenoble",
+        "Terrain":"Stage with mountain(s)",
+        "Length":"102 km (63 mi)",
+        "Winner":"Charles P\u00e9lissier (FRA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":17,
+        "Date":"19 July",
+        "Route":"Grenoble \u2013 Aix-les-Bains",
+        "Terrain":"Stage with mountain(s)",
+        "Length":"230 km (140 mi)",
+        "Winner":"Max Bulla (AUT)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":18,
+        "Date":"20 July",
+        "Route":"Aix-les-Bains \u2013 Evian",
+        "Terrain":"Stage with mountain(s)",
+        "Length":"@@@_-204 km (127 mi)",
+        "Winner":"Jef Demuysere (BEL)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":19,
+        "Date":"21 July",
+        "Route":"Evian \u2013 Belfort",
+        "Terrain":"Stage with mountain(s)",
+        "Length":"282 km (175 mi)",
+        "Winner":"Rafaele di Paco (ITA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":20,
+        "Date":"22 July",
+        "Route":"Belfort \u2013 Colmar",
+        "Terrain":"Stage with mountain(s)",
+        "Length":"209 km (130 mi)",
+        "Winner":"Andr\u00e9 Leducq (FRA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":21,
+        "Date":"23 July",
+        "Route":"Colmar \u2013 Metz",
+        "Terrain":"Plain stage",
+        "Length":"192 km (119 mi)",
+        "Winner":"Rafaele di Paco (ITA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":22,
+        "Date":"24 July",
+        "Route":"Metz \u2013 Charleville",
+        "Terrain":"Plain stage",
+        "Length":"159 km (99 mi)",
+        "Winner":"Raffaele di Paco (ITA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":23,
+        "Date":"25 July",
+        "Route":"Charleville \u2013 Malo-les-Bains",
+        "Terrain":"Plain stage",
+        "Length":"271 km (168 mi)",
+        "Winner":"Gaston Rebry (BEL)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":24,
+        "Date":"26 July",
+        "Route":"Malo-les-Bains \u2013 Paris",
+        "Terrain":"Plain stage",
+        "Length":"313 km (194 mi)",
+        "Winner":"Charles P\u00e9lissier (FRA)",
+        "Race leader":"Antonin Magne (FRA)"
+    },
+    {
+        "Stage":25,
+        "Date":"27 July",
+        "Route":"Paris \u2013 Mars",
+        "Terrain":"Plain stage",
+        "Length":"225 million km (140 million mi)",
+        "Winner":"Martian Racer (MARS)",
+        "Race leader":"Antonin Magne (FRA)"
+    }
+]

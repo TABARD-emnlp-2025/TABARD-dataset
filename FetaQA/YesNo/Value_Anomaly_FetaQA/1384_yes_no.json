@@ -1,0 +1,18 @@
+[
+    {
+        "Date":"Yes",
+        "Result":"Yes",
+        "Bowl":"No",
+        "Opponent":"No",
+        "Score":"No",
+        "Head Coach":"No"
+    },
+    {
+        "Date":"Yes",
+        "Result":"No",
+        "Bowl":"No",
+        "Opponent":"Yes",
+        "Score":"No",
+        "Head Coach":"No"
+    }
+]

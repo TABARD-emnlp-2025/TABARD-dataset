@@ -1,0 +1,659 @@
+[
+  {
+    "Unnamed: 0": "1st",
+    "Year": 1939.0,
+    "Name": "Nycon I",
+    "City": "New York, New York",
+    "Country": "United States",
+    "Guests of Honor": "Frank R. Paul",
+    "Size": "200"
+  },
+  {
+    "Unnamed: 0": "2nd",
+    "Year": 1940.0,
+    "Name": "Chicon I",
+    "City": "Chicago, Illinois",
+    "Country": "United States",
+    "Guests of Honor": "E. E. \\Doc\\\" Smith\"",
+    "Size": "128"
+  },
+  {
+    "Unnamed: 0": "3rd",
+    "Year": 1941.0,
+    "Name": "Denvention I",
+    "City": "Denver, Colorado",
+    "Country": "United States",
+    "Guests of Honor": "Robert A. Heinlein",
+    "Size": "90"
+  },
+  {
+    "Unnamed: 0": "4th",
+    "Year": 1946.0,
+    "Name": "Pacificon I",
+    "City": "Los Angeles, California",
+    "Country": "United States",
+    "Guests of Honor": "A. E. van Vogt\nE. Mayne Hull",
+    "Size": "130"
+  },
+  {
+    "Unnamed: 0": "5th",
+    "Year": 1947.0,
+    "Name": "Philcon I",
+    "City": "Philadelphia, Pennsylvania",
+    "Country": "United States",
+    "Guests of Honor": "John W. Campbell, Jr.",
+    "Size": "@@@_None"
+  },
+  {
+    "Unnamed: 0": "6th",
+    "Year": 1948.0,
+    "Name": "Torcon I",
+    "City": "@@@_None",
+    "Country": "Canada",
+    "Guests of Honor": "Robert Bloch (Pro)\nBob Tucker (fan)",
+    "Size": "200"
+  },
+  {
+    "Unnamed: 0": "7th",
+    "Year": 1949.0,
+    "Name": "Cinvention",
+    "City": "Cincinnati, Ohio",
+    "Country": "United States",
+    "Guests of Honor": "Lloyd A. Eshbach (pro)\nTed Carnell (fan)",
+    "Size": "190"
+  },
+  {
+    "Unnamed: 0": "8th",
+    "Year": 1950.0,
+    "Name": "Norwescon",
+    "City": "Portland, Oregon",
+    "Country": "United States",
+    "Guests of Honor": "Anthony Boucher",
+    "Size": "400"
+  },
+  {
+    "Unnamed: 0": "9th",
+    "Year": 1951.0,
+    "Name": "Nolacon I",
+    "City": "New Orleans, Louisiana",
+    "Country": "United States",
+    "Guests of Honor": "Fritz Leiber",
+    "Size": "190"
+  },
+  {
+    "Unnamed: 0": "10th",
+    "Year": 1952.0,
+    "Name": "TASFiC (Chicon II)",
+    "City": "Chicago, Illinois",
+    "Country": "United States",
+    "Guests of Honor": "Hugo Gernsback",
+    "Size": "870"
+  },
+  {
+    "Unnamed: 0": "11th",
+    "Year": 1953.0,
+    "Name": "Philcon II",
+    "City": "Philadelphia, Pennsylvania",
+    "Country": "United States",
+    "Guests of Honor": "Willy Ley",
+    "Size": "750"
+  },
+  {
+    "Unnamed: 0": "12th",
+    "Year": 1954.0,
+    "Name": "SFCon",
+    "City": "San Francisco, California",
+    "Country": "United States",
+    "Guests of Honor": "John W. Campbell, Jr.",
+    "Size": "700"
+  },
+  {
+    "Unnamed: 0": "13th",
+    "Year": 1955.0,
+    "Name": "Clevention",
+    "City": "Cleveland, Ohio",
+    "Country": "United States",
+    "Guests of Honor": "Isaac Asimov (pro)\nSam Moskowitz (mystery GoH)",
+    "Size": "380"
+  },
+  {
+    "Unnamed: 0": "14th",
+    "Year": 1956.0,
+    "Name": "NyCon II",
+    "City": "New York, New York",
+    "Country": "United States",
+    "Guests of Honor": "Arthur C. Clarke",
+    "Size": "850"
+  },
+  {
+    "Unnamed: 0": "15th",
+    "Year": 1957.0,
+    "Name": "Loncon I",
+    "City": "London",
+    "Country": "UK",
+    "Guests of Honor": "John W. Campbell, Jr.",
+    "Size": "268"
+  },
+  {
+    "Unnamed: 0": "16th",
+    "Year": 1958.0,
+    "Name": "Solacon",
+    "City": "South Gate, California",
+    "Country": "United States",
+    "Guests of Honor": "Richard Matheson",
+    "Size": "211"
+  },
+  {
+    "Unnamed: 0": "17th",
+    "Year": 1959.0,
+    "Name": "Detention",
+    "City": "Detroit, Michigan",
+    "Country": "United States",
+    "Guests of Honor": "Poul Anderson (pro)\nJohn Berry (fan)",
+    "Size": "371"
+  },
+  {
+    "Unnamed: 0": "18th",
+    "Year": "@@@_29021.6821828729",
+    "Name": "Pittcon",
+    "City": "Pittsburgh, Pennsylvania",
+    "Country": "United States",
+    "Guests of Honor": "James Blish",
+    "Size": "568"
+  },
+  {
+    "Unnamed: 0": "19th",
+    "Year": 1961.0,
+    "Name": "Seacon",
+    "City": "Seattle, Washington",
+    "Country": "United States",
+    "Guests of Honor": "Robert A. Heinlein",
+    "Size": "300"
+  },
+  {
+    "Unnamed: 0": "20th",
+    "Year": 1962.0,
+    "Name": "Chicon III",
+    "City": "Chicago, Illinois",
+    "Country": "United States",
+    "Guests of Honor": "Theodore Sturgeon",
+    "Size": "730"
+  },
+  {
+    "Unnamed: 0": "21st",
+    "Year": 1963.0,
+    "Name": "Discon I",
+    "City": "Washington, D.C.",
+    "Country": "United States",
+    "Guests of Honor": "Murray Leinster",
+    "Size": "600"
+  },
+  {
+    "Unnamed: 0": "22nd",
+    "Year": 1964.0,
+    "Name": "Pacificon II",
+    "City": "Oakland, California",
+    "Country": "United States",
+    "Guests of Honor": "Leigh Brackett (pro)\nEdmond Hamilton (pro)\nForrest J Ackerman (fan)",
+    "Size": "523"
+  },
+  {
+    "Unnamed: 0": "23rd",
+    "Year": 1965.0,
+    "Name": "Loncon II",
+    "City": "London",
+    "Country": "UK",
+    "Guests of Honor": "Brian W. Aldiss",
+    "Size": "350"
+  },
+  {
+    "Unnamed: 0": "24th",
+    "Year": 1966.0,
+    "Name": "Tricon",
+    "City": "Cleveland, Ohio",
+    "Country": "United States",
+    "Guests of Honor": "L. Sprague de Camp",
+    "Size": "850"
+  },
+  {
+    "Unnamed: 0": "25th",
+    "Year": 1967.0,
+    "Name": "Nycon 3",
+    "City": "New York, New York",
+    "Country": "United States",
+    "Guests of Honor": "Lester del Rey (pro)\nBob Tucker (fan)",
+    "Size": "1,500"
+  },
+  {
+    "Unnamed: 0": "26th",
+    "Year": 1968.0,
+    "Name": "Baycon",
+    "City": "Berkeley, California",
+    "Country": "United States",
+    "Guests of Honor": "Philip José Farmer (pro)\nWalter J. Daugherty (fan)",
+    "Size": "1,430"
+  },
+  {
+    "Unnamed: 0": "27th",
+    "Year": 1969.0,
+    "Name": "St. Louiscon",
+    "City": "St. Louis, Missouri",
+    "Country": "United States",
+    "Guests of Honor": "Jack Gaughan (pro)\nEddie Jones (fan)",
+    "Size": "1,534"
+  },
+  {
+    "Unnamed: 0": "28th",
+    "Year": 1970.0,
+    "Name": "Heicon '70",
+    "City": "Heidelberg",
+    "Country": "West Germany",
+    "Guests of Honor": "E.C. Tubb (UK)\nRobert Silverberg (US)\nHerbert W. Franke (Germany)\nElliot K. Shorter (fan)",
+    "Size": "620"
+  },
+  {
+    "Unnamed: 0": "29th",
+    "Year": 1971.0,
+    "Name": "Noreascon I",
+    "City": "Boston, Massachusetts",
+    "Country": "United States",
+    "Guests of Honor": "Clifford D. Simak (pro)\nHarry Warner, Jr. (fan)",
+    "Size": "1,600"
+  },
+  {
+    "Unnamed: 0": "30th",
+    "Year": 1972.0,
+    "Name": "L.A.con I",
+    "City": "Los Angeles, California",
+    "Country": "United States",
+    "Guests of Honor": "Frederik Pohl (pro)\nBuck & Juanita Coulson (fan)",
+    "Size": "2,007"
+  },
+  {
+    "Unnamed: 0": "31st",
+    "Year": 1973.0,
+    "Name": "Torcon II",
+    "City": "Toronto",
+    "Country": "Canada",
+    "Guests of Honor": "Robert Bloch (Pro)\nWilliam Rotsler (fan)",
+    "Size": "2,900"
+  },
+  {
+    "Unnamed: 0": "32nd",
+    "Year": 1974.0,
+    "Name": "Discon II",
+    "City": "Washington, D.C.",
+    "Country": "United States",
+    "Guests of Honor": "Roger Zelazny (pro)\nJay Kay Klein (fan)",
+    "Size": "3,587"
+  },
+  {
+    "Unnamed: 0": "33rd",
+    "Year": 1975.0,
+    "Name": "Aussiecon 1",
+    "City": "Melbourne, Victoria",
+    "Country": "Australia",
+    "Guests of Honor": "Ursula K. Le Guin (pro)\nSusan Wood (fan)\nMike Glicksohn (fan)\nDonald Tuck (Australian)",
+    "Size": "606"
+  },
+  {
+    "Unnamed: 0": "34th",
+    "Year": 1976.0,
+    "Name": "MidAmeriCon",
+    "City": "Kansas City, Missouri",
+    "Country": "United States",
+    "Guests of Honor": "Robert A. Heinlein",
+    "Size": "3,014"
+  },
+  {
+    "Unnamed: 0": "35th",
+    "Year": 1977.0,
+    "Name": "SunCon",
+    "City": "Miami Beach, Florida",
+    "Country": "United States",
+    "Guests of Honor": "Jack Williamson (pro)\nRobert A. Madle (fan)",
+    "Size": "3,240\n(4,200)"
+  },
+  {
+    "Unnamed: 0": "36th",
+    "Year": 1978.0,
+    "Name": "IguanaCon II",
+    "City": "Phoenix, Arizona",
+    "Country": "United States",
+    "Guests of Honor": "Harlan Ellison (pro)\nBill Bowers (fan)",
+    "Size": "4,700"
+  },
+  {
+    "Unnamed: 0": "37th",
+    "Year": 1979.0,
+    "Name": "Seacon '79",
+    "City": "Brighton",
+    "Country": "UK",
+    "Guests of Honor": "Brian Aldiss (UK)\nFritz Leiber (US)\nHarry Bell (fan)",
+    "Size": "3,114"
+  },
+  {
+    "Unnamed: 0": "38th",
+    "Year": 1980.0,
+    "Name": "Noreascon Two",
+    "City": "Boston, Massachusetts",
+    "Country": "United States",
+    "Guests of Honor": "Damon Knight (pro)\nKate Wilhelm (pro)\nBruce Pelz (fan)",
+    "Size": "5,850"
+  },
+  {
+    "Unnamed: 0": "39th",
+    "Year": 1981.0,
+    "Name": "Denvention Two",
+    "City": "Denver, Colorado",
+    "Country": "United States",
+    "Guests of Honor": "Clifford D. Simak (pro)\nC.L. Moore (pro)\nRusty Hevelin (fan)",
+    "Size": "3,792"
+  },
+  {
+    "Unnamed: 0": "40th",
+    "Year": 1982.0,
+    "Name": "Chicon IV",
+    "City": "Chicago, Illinois",
+    "Country": "United States",
+    "Guests of Honor": "A. Bertram Chandler (pro)\nFrank Kelly Freas (pro)\nLee Hoffman (fan)",
+    "Size": "4,275"
+  },
+  {
+    "Unnamed: 0": "41st",
+    "Year": 1983.0,
+    "Name": "ConStellation",
+    "City": "Baltimore, Maryland",
+    "Country": "United States",
+    "Guests of Honor": "John Brunner (pro)\nDavid A. Kyle (fan)",
+    "Size": "6,400"
+  },
+  {
+    "Unnamed: 0": "42nd",
+    "Year": 1984.0,
+    "Name": "L.A.con II",
+    "City": "Anaheim, California",
+    "Country": "United States",
+    "Guests of Honor": "Gordon R. Dickson (pro)\nDick Eney (fan)",
+    "Size": "8,365"
+  },
+  {
+    "Unnamed: 0": "43rd",
+    "Year": 1985.0,
+    "Name": "Aussiecon Two",
+    "City": "Melbourne, Victoria",
+    "Country": "Australia",
+    "Guests of Honor": "Gene Wolfe (pro)\nTed White (fan)",
+    "Size": "1,599"
+  },
+  {
+    "Unnamed: 0": "44th",
+    "Year": 1986.0,
+    "Name": "ConFederation",
+    "City": "Atlanta, Georgia",
+    "Country": "United States",
+    "Guests of Honor": "Ray Bradbury (pro)\nTerry Carr (fan)",
+    "Size": "5,811"
+  },
+  {
+    "Unnamed: 0": "45th",
+    "Year": 1987.0,
+    "Name": "Conspiracy '87",
+    "City": "Brighton",
+    "Country": "UK",
+    "Guests of Honor": "Doris Lessing (UK)\nAlfred Bester (US)\nBoris and Arkady Strugatsky (USSR)\nJim Burns (artist)\nRay Harryhausen (film)\nJoyce and Ken Slater (fan)\nDavid Langford (special fan)",
+    "Size": "4,009\n(5,425)"
+  },
+  {
+    "Unnamed: 0": "46th",
+    "Year": 1988.0,
+    "Name": "Nolacon II",
+    "City": "New Orleans, Louisiana",
+    "Country": "United States",
+    "Guests of Honor": "Donald A. Wollheim (pro)\nRoger Sims (fan)",
+    "Size": "5,300"
+  },
+  {
+    "Unnamed: 0": "47th",
+    "Year": 1989.0,
+    "Name": "Noreascon 3",
+    "City": "Boston, Massachusetts",
+    "Country": "United States",
+    "Guests of Honor": "Andre Norton (pro)\nBetty and Ian Ballantine (pro)\nThe Stranger Club (fan)",
+    "Size": "6,837\n(7,795)"
+  },
+  {
+    "Unnamed: 0": "48th",
+    "Year": 1990.0,
+    "Name": "ConFiction",
+    "City": "The Hague",
+    "Country": "Netherlands",
+    "Guests of Honor": "Harry Harrison (pro)\nWolfgang Jeschke (pro)\nJoe Haldeman (pro)\nAndrew I. Porter (fan)",
+    "Size": "3,580"
+  },
+  {
+    "Unnamed: 0": "49th",
+    "Year": 1991.0,
+    "Name": "Chicon V",
+    "City": "Chicago, Illinois",
+    "Country": "United States",
+    "Guests of Honor": "Hal Clement (pro)\nMartin H. Greenberg (pro)\nRichard Powers (pro)\nJon and Joni Stopa (fan)",
+    "Size": "5,661"
+  },
+  {
+    "Unnamed: 0": "50th",
+    "Year": 1992.0,
+    "Name": "MagiCon",
+    "City": "Orlando, Florida",
+    "Country": "United States",
+    "Guests of Honor": "Jack Vance (pro)\nVincent Di Fate (artist)\nWalter A. Willis (fan)",
+    "Size": "5,319\n(6,368)"
+  },
+  {
+    "Unnamed: 0": "51st",
+    "Year": 1993.0,
+    "Name": "ConFrancisco",
+    "City": "San Francisco, California",
+    "Country": "United States",
+    "Guests of Honor": "Larry Niven\nAlicia Austin\nTom Digby (fan)\nJan Howard Finder\nMark Twain (Dead GoH)",
+    "Size": "6,602"
+  },
+  {
+    "Unnamed: 0": "52nd",
+    "Year": 1994.0,
+    "Name": "ConAdian",
+    "City": "Winnipeg",
+    "Country": "Canada",
+    "Guests of Honor": "Anne McCaffrey (pro)\nGeorge Barr (artist)\nRobert Runte (fan)",
+    "Size": "3,570\n(7,725)"
+  },
+  {
+    "Unnamed: 0": "53rd",
+    "Year": 1995.0,
+    "Name": "Intersection",
+    "City": "Glasgow, Scotland",
+    "Country": "UK",
+    "Guests of Honor": "Samuel R. Delany (writer)\nGerry Anderson (media)\nLes Edwards (artist)\nVin¢ Clarke (fan)",
+    "Size": "4,173\n(6,524)"
+  },
+  {
+    "Unnamed: 0": "54th",
+    "Year": 1996.0,
+    "Name": "L.A.con III",
+    "City": "Anaheim, California",
+    "Country": "United States",
+    "Guests of Honor": "James White (writer)\nRoger Corman (media)\nElsie Wollheim (special)\nTakumi and Sachiko Shibano (fan)",
+    "Size": "6,703"
+  },
+  {
+    "Unnamed: 0": "55th",
+    "Year": 1997.0,
+    "Name": "LoneStarCon 2",
+    "City": "San Antonio, Texas",
+    "Country": "United States",
+    "Guests of Honor": "Algis Budrys (pro)\nMichael Moorcock (pro)\nDon Maitz (artist)\nRoy Tackett (fan)",
+    "Size": "4,634\n(5,614)"
+  },
+  {
+    "Unnamed: 0": "56th",
+    "Year": 1998.0,
+    "Name": "BucConeer",
+    "City": "Baltimore, Maryland",
+    "Country": "United States",
+    "Guests of Honor": "C. J. Cherryh\nMilton A. Rothman\nStanley Schmidt\nMichael Whelan\nJ. Michael Straczynski (special)",
+    "Size": "6,572"
+  },
+  {
+    "Unnamed: 0": "57th",
+    "Year": 1999.0,
+    "Name": "Aussiecon Three",
+    "City": "Melbourne, Victoria",
+    "Country": "Australia",
+    "Guests of Honor": "Gregory Benford, author\nGeorge Turner, author\nBruce Gillespie, fan",
+    "Size": "1,626\n(2,872)"
+  },
+  {
+    "Unnamed: 0": "58th",
+    "Year": "@@@_None",
+    "Name": "Chicon 2000",
+    "City": "Chicago, Illinois",
+    "Country": "United States",
+    "Guests of Honor": "Ben Bova (author)\nBob Eggleton (artist)\nJim Baen (editor)\nBob & Anne Passovoy (fan)",
+    "Size": "5,794\n(6,574)"
+  },
+  {
+    "Unnamed: 0": "59th",
+    "Year": 2001.0,
+    "Name": "Millennium Philcon",
+    "City": "Philadelphia, Pennsylvania",
+    "Country": "United States",
+    "Guests of Honor": "Greg Bear (author)\nStephen Youll (artist)\nGardner Dozois (editor)\nGeorge H. Scithers (fan)",
+    "Size": "4,840\n(6,269)"
+  },
+  {
+    "Unnamed: 0": "60th",
+    "Year": 2002.0,
+    "Name": "ConJosé",
+    "City": "San Jose, California",
+    "Country": "United States",
+    "Guests of Honor": "Vernor Vinge (author)\nDavid Cherry (artist)\nBjo & John Trimble (fan)\nFerdinand Feghoot (imaginary)",
+    "Size": "5,162\n(5,916)"
+  },
+  {
+    "Unnamed: 0": "61st",
+    "Year": 2003.0,
+    "Name": "Torcon 3",
+    "City": "Toronto",
+    "Country": "Canada",
+    "Guests of Honor": "George R. R. Martin (author)\nFrank Kelly Freas (artist)\nMike Glyer (fan)\nRobert Bloch (GoHst of Honor)",
+    "Size": "3,834\n(4,986)"
+  },
+  {
+    "Unnamed: 0": "62nd",
+    "Year": 2004.0,
+    "Name": "Noreascon 4",
+    "City": "Boston, Massachusetts",
+    "Country": "United States",
+    "Guests of Honor": "Terry Pratchett (pro)\nWilliam Tenn (pro)\nJack Speer (fan)\nPeter Weston (fan)",
+    "Size": "5,651\n(7,485)"
+  },
+  {
+    "Unnamed: 0": "63rd",
+    "Year": 2005.0,
+    "Name": "Interaction",
+    "City": "Glasgow, Scotland",
+    "Country": "UK",
+    "Guests of Honor": "Greg Pickersgill\nChristopher Priest\nRobert Sheckley\nLars-Olov Strandberg\nJane Yolen",
+    "Size": "4,115\n(5,202)"
+  },
+  {
+    "Unnamed: 0": "64th",
+    "Year": 2006.0,
+    "Name": "L.A.con IV",
+    "City": "Anaheim, California",
+    "Country": "United States",
+    "Guests of Honor": "Connie Willis (Author)\nJames Gurney (Artist)\nHoward DeVore (fan)\nFrankie Thomas (Special)",
+    "Size": "5,738\n(6,291)"
+  },
+  {
+    "Unnamed: 0": "65th",
+    "Year": 2007.0,
+    "Name": "Nippon 2007",
+    "City": "Yokohama",
+    "Country": "Japan",
+    "Guests of Honor": "Sakyo Komatsu (author)\nDavid Brin (author)\nTakumi Shibano (fan)\nYoshitaka Amano (artist)\nMichael Whelan (artist)",
+    "Size": "3,348\n(5,149)"
+  },
+  {
+    "Unnamed: 0": "66th",
+    "Year": "@@@_-1978.0",
+    "Name": "Denvention 3",
+    "City": "Denver, Colorado",
+    "Country": "United States",
+    "Guests of Honor": "Lois McMaster Bujold (pro)\nTom Whitmore (fan)\nRick Sternbach (artist)",
+    "Size": "3,752"
+  },
+  {
+    "Unnamed: 0": "67th",
+    "Year": 2009.0,
+    "Name": "Anticipation",
+    "City": "Montréal, Québec",
+    "Country": "Canada",
+    "Guests of Honor": "Neil Gaiman (pro)\nElisabeth Vonarburg (pro)\nTaral Wayne (fan)\nDavid Hartwell (editor)\nTom Doherty (publisher)",
+    "Size": "3,925\n(4,499)"
+  },
+  {
+    "Unnamed: 0": "68th",
+    "Year": 2010.0,
+    "Name": "Aussiecon Four",
+    "City": "Melbourne, Victoria",
+    "Country": "Australia",
+    "Guests of Honor": "Kim Stanley Robinson (author)\nRobin Johnson (fan)\nShaun Tan (artist)",
+    "Size": "2,101\n(3,462)"
+  },
+  {
+    "Unnamed: 0": "69th",
+    "Year": 2011.0,
+    "Name": "Renovation",
+    "City": "Reno, Nevada",
+    "Country": "United States",
+    "Guests of Honor": "Tim Powers\nEllen Asher\nBoris Vallejo\nCharles N. Brown (in memoriam)",
+    "Size": "4,112\n(5,526)"
+  },
+  {
+    "Unnamed: 0": "70th",
+    "Year": 2012.0,
+    "Name": "Chicon 7",
+    "City": "Chicago, Illinois",
+    "Country": "United States",
+    "Guests of Honor": "Mike Resnick (author)\nRowena Morrill (artist)\nStory Musgrave (astronaut)\nPeggy Rae Sapienza (fan)\nJane Frank (agent)\nSy Liebergot (special guest)\nJohn Scalzi (toastmaster)",
+    "Size": "4,743\n(6,197)"
+  },
+  {
+    "Unnamed: 0": "71st",
+    "Year": 2013.0,
+    "Name": "LoneStarCon 3",
+    "City": "San Antonio, Texas",
+    "Country": "United States",
+    "Guests of Honor": "Ellen Datlow\nJames Gunn\nWillie Siros\nNorman Spinrad\nDarrell K. Sweet (in memoriam)\nPaul Cornell (toastmaster)\nLeslie Fish\nJoe R. Lansdale",
+    "Size": "4,311\n(6,060)"
+  },
+  {
+    "Unnamed: 0": "72nd",
+    "Year": 2014.0,
+    "Name": "Loncon 3",
+    "City": "London",
+    "Country": "UK",
+    "Guests of Honor": "Iain M. Banks (in memoriam)\nJohn Clute\nChris Foss\nMalcolm Edwards\nJeanne Gomoll\nRobin Hobb\nBryan Talbot",
+    "Size": null
+  },
+  {
+    "Unnamed: 0": "73rd",
+    "Year": 2015.0,
+    "Name": "Sasquan",
+    "City": "Spokane, Washington",
+    "Country": "United States",
+    "Guests of Honor": "Brad Foster\nDavid Gerrold\nVonda McIntyre\nTom Smith\nLeslie Turek",
+    "Size": null
+  }
+]

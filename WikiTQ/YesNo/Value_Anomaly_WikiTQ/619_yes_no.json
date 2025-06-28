@@ -1,0 +1,51 @@
+[
+    {
+        "Clerk":"No",
+        "Started":"No",
+        "Finished":"No",
+        "School (year)":"No",
+        "Previous clerkship":"No"
+    },
+    {
+        "Clerk":"No",
+        "Started":"No",
+        "Finished":"No",
+        "School (year)":"No",
+        "Previous clerkship":"No"
+    },
+    {
+        "Clerk":"No",
+        "Started":"No",
+        "Finished":"Yes",
+        "School (year)":"No",
+        "Previous clerkship":"No"
+    },
+    {
+        "Clerk":"No",
+        "Started":"Yes",
+        "Finished":"No",
+        "School (year)":"No",
+        "Previous clerkship":"No"
+    },
+    {
+        "Clerk":"No",
+        "Started":"No",
+        "Finished":"No",
+        "School (year)":"No",
+        "Previous clerkship":"No"
+    },
+    {
+        "Clerk":"No",
+        "Started":"Yes",
+        "Finished":"No",
+        "School (year)":"No",
+        "Previous clerkship":"No"
+    },
+    {
+        "Clerk":"No",
+        "Started":"No",
+        "Finished":"Yes",
+        "School (year)":"No",
+        "Previous clerkship":"No"
+    }
+]

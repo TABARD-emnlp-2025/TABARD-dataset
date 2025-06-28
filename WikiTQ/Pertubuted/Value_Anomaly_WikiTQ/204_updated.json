@@ -1,0 +1,106 @@
+[
+  {
+    "Rank": 1.0,
+    "Heat": 6,
+    "Country": "Great Britain",
+    "Cyclists": "Chris Hoy\nJason Kenny\nJamie Staff",
+    "Result": 42.95,
+    "Notes": "Q, WR"
+  },
+  {
+    "Rank": 2.0,
+    "Heat": 7,
+    "Country": "France",
+    "Cyclists": "Grégory Baugé\nKévin Sireau\nArnaud Tournant",
+    "Result": 43.541,
+    "Notes": "Q"
+  },
+  {
+    "Rank": 3.0,
+    "Heat": 6,
+    "Country": "Germany",
+    "Cyclists": "René Enders\nMaximilian Levy\nStefan Nimke",
+    "Result": 44.197,
+    "Notes": "Q"
+  },
+  {
+    "Rank": 4.0,
+    "Heat": 7,
+    "Country": "Netherlands",
+    "Cyclists": "Theo Bos\nTeun Mulder\nTim Veldt",
+    "Result": 44.213,
+    "Notes": "Q"
+  },
+  {
+    "Rank": 5.0,
+    "Heat": "@@@_-7",
+    "Country": "Australia",
+    "Cyclists": "Daniel Ellis\nMark French\nShane Kelly",
+    "Result": 44.335,
+    "Notes": "Q"
+  },
+  {
+    "Rank": 6.0,
+    "Heat": 1,
+    "Country": "Japan",
+    "Cyclists": "Kiyofumi Nagai\nTomohiro Nagatsuka\nKazunari Watanabe",
+    "Result": 44.454,
+    "Notes": "Q"
+  },
+  {
+    "Rank": 7.0,
+    "Heat": "@@@_61",
+    "Country": "Malaysia",
+    "Cyclists": "Azizulhasni Awang\nJosiah Ng\nMohd Rizal Tisin",
+    "Result": 44.752,
+    "Notes": "Q"
+  },
+  {
+    "Rank": 8.0,
+    "Heat": 2,
+    "Country": "United States",
+    "Cyclists": "Michael Blatchford\nAdam Duvendeck\nGiddeon Massie",
+    "Result": 45.346,
+    "Notes": "Q"
+  },
+  {
+    "Rank": 9.0,
+    "Heat": 4,
+    "Country": "China",
+    "Cyclists": "Feng Yong\nLi Wenhao\nZhang Lei",
+    "Result": 45.556,
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_None",
+    "Heat": 3,
+    "Country": "Greece",
+    "Cyclists": "Athanasios Mantzouranis\nVasileios Reppas\nPanagiotis Voukelatos",
+    "Result": 45.645,
+    "Notes": "@@@_None"
+  },
+  {
+    "Rank": 11.0,
+    "Heat": 2,
+    "Country": "Czech Republic",
+    "Cyclists": "Tomáš Bábek\nAdam Ptáčník\nDenis Špička",
+    "Result": 45.678,
+    "Notes": null
+  },
+  {
+    "Rank": 12.0,
+    "Heat": "@@@_-4",
+    "Country": "Russia",
+    "Cyclists": "Sergey Polynskiy\nDenis Dmitriev\nSergey Kucherov",
+    "Result": 45.964,
+    "Notes": null
+  },
+  {
+    "Rank": 13.0,
+    "Heat": 1,
+    "Country": "Poland",
+    "Cyclists": "Maciej Bielecki\nKamil Kuczyński\nŁukasz Kwiatkowski",
+    "Result": 45.266,
+    "Notes": null
+  }
+]

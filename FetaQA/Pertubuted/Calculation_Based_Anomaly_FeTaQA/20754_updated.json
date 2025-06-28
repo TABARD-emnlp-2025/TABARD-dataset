@@ -1,0 +1,93 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "National Cup":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Clyde",
+        "Season":"1902–03",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Newcastle United",
+        "Season":"1902–03",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Brentford",
+        "Season":"1903–04",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Brentford",
+        "Season":"1904–05",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Brentford",
+        "Season":"1905–06",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Brentford",
+        "Season":"1906–07",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Brentford",
+        "Season":"1907–08",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Brentford",
+        "Season":"Total",
+        "League":0,
+        "National Cup":0,
+        "Total":"@@@_1"
+    },
+    {
+        "Club":"Leeds City",
+        "Season":"1908–09",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Leeds City",
+        "Season":"1909–10",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Leeds City",
+        "Season":"Total",
+        "League":0,
+        "National Cup":0,
+        "Total":"@@@_-1"
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "League":0,
+        "National Cup":0,
+        "Total":0
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "Year":"Representing Poland",
+        "Competition":"Representing Poland",
+        "Venue":"Representing Poland",
+        "Position":"Representing Poland",
+        "Event":"Representing Poland",
+        "Notes":"Representing Poland"
+    },
+    {
+        "Year":2004,
+        "Competition":"World Junior Championships",
+        "Venue":"Grosseto, Italy",
+        "Position":"15th (heats)",
+        "Event":"3000 m st.",
+        "Notes":"10:35.22"
+    },
+    {
+        "Year":2005,
+        "Competition":"European U23 Championships",
+        "Venue":"Erfurt, Germany",
+        "Position":"1st",
+        "Event":"3000 m st.",
+        "Notes":"9:54.17"
+    },
+    {
+        "Year":2006,
+        "Competition":"European Cup",
+        "Venue":"Málaga, Spain",
+        "Position":"3rd",
+        "Event":"3000 m st.",
+        "Notes":"9:56.10"
+    },
+    {
+        "Year":2006,
+        "Competition":"European Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"9th",
+        "Event":"@@@_3000 m steeplechase",
+        "Notes":"9:42.89"
+    },
+    {
+        "Year":2006,
+        "Competition":"IAAF World Cup",
+        "Venue":"Athens, Greece",
+        "Position":"8th",
+        "Event":"5000 m",
+        "Notes":"16:18.35"
+    },
+    {
+        "Year":2006,
+        "Competition":"European Cross Country Championships",
+        "Venue":"San Giorgio su Legnano, Italy",
+        "Position":"9th",
+        "Event":"U23 race (5.975 km)",
+        "Notes":"19:24"
+    },
+    {
+        "Year":2006,
+        "Competition":"European Cross Country Championships",
+        "Venue":"San Giorgio su Legnano, Italy",
+        "Position":"2nd",
+        "Event":"U23 race - Team",
+        "Notes":"65 pts"
+    },
+    {
+        "Year":2007,
+        "Competition":"European Cup",
+        "Venue":"Munich, Germany",
+        "Position":"1st",
+        "Event":"@@@_3000 M ST",
+        "Notes":"9:45.35"
+    },
+    {
+        "Year":2007,
+        "Competition":"European U23 Championships",
+        "Venue":"Debrecen, Hungary",
+        "Position":"1st",
+        "Event":"3000 m st.",
+        "Notes":"9:39.40"
+    },
+    {
+        "Year":2007,
+        "Competition":"World Championships",
+        "Venue":"Osaka, Japan",
+        "Position":"29th (heats)",
+        "Event":"3000 m st.",
+        "Notes":"9:58.74"
+    },
+    {
+        "Year":2007,
+        "Competition":"European Cross Country Championships",
+        "Venue":"Toro, Spain",
+        "Position":"3rd",
+        "Event":"U23 race (6.7 km)",
+        "Notes":"22:44"
+    },
+    {
+        "Year":2007,
+        "Competition":"European Cross Country Championships",
+        "Venue":"Toro, Spain",
+        "Position":"3rd",
+        "Event":"U23 race - Team",
+        "Notes":"58 pts"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, China",
+        "Position":"33rd (heats)",
+        "Event":"3000 m st.",
+        "Notes":"@@@_947.02"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"12th",
+        "Event":"3000 m st.",
+        "Notes":"9:30.37"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Athletics Final",
+        "Venue":"Thessaloniki, Greece",
+        "Position":"8th",
+        "Event":"@@@_3000m st.",
+        "Notes":"9:37.86"
+    },
+    {
+        "Year":2009,
+        "Competition":"European Team Championships",
+        "Venue":"Leiria, Portugal",
+        "Position":"8th",
+        "Event":"3000 m st.",
+        "Notes":"9:58.54"
+    },
+    {
+        "Year":2010,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"36th",
+        "Event":"Senior race (7.759 km)",
+        "Notes":"26:45"
+    },
+    {
+        "Year":2010,
+        "Competition":"European Championships",
+        "Venue":"Barcelona, Spain",
+        "Position":"10th",
+        "Event":"3000 m st.",
+        "Notes":"9:42.47"
+    },
+    {
+        "Year":2010,
+        "Competition":"European Team Championships",
+        "Venue":"Bergen, Norway",
+        "Position":"3rd",
+        "Event":"3000 m st.",
+        "Notes":"9:43.40"
+    },
+    {
+        "Year":2012,
+        "Competition":"Olympic Games",
+        "Venue":"London, Great Britain",
+        "Position":"30th (heats)",
+        "Event":"@@@_3000 m steeplechase",
+        "Notes":"9:48.60"
+    },
+    {
+        "Year":2013,
+        "Competition":"World Championships",
+        "Venue":"Moscow, Russia",
+        "Position":"10h2",
+        "Event":"3000 m st.",
+        "Notes":"9:44.12"
+    },
+    {
+        "Year":2013,
+        "Competition":"European Team Championships",
+        "Venue":"Gateshead, Great Britain",
+        "Position":"11th",
+        "Event":"3000 m st.",
+        "Notes":"10:11.26"
+    },
+    {
+        "Year":2014,
+        "Competition":"European Championships",
+        "Venue":"Zurich, Switzerland",
+        "Position":"7th",
+        "Event":"3000 m st.",
+        "Notes":"9:43.09"
+    },
+    {
+        "Year":2014,
+        "Competition":"European Team Championships",
+        "Venue":"Braunschweig, Germany",
+        "Position":"3rd",
+        "Event":"@@@_3000 m steeplechase",
+        "Notes":"9:41.78"
+    },
+    {
+        "Year":2015,
+        "Competition":"European Team Championships",
+        "Venue":"Cheboksary, Russia",
+        "Position":"6th",
+        "Event":"3000 m st.",
+        "Notes":"10:03.44"
+    },
+    {
+        "Year":2016,
+        "Competition":"Olympic Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"DNF",
+        "Event":"Marathon",
+        "Notes":"DNF"
+    },
+    {
+        "Year":2018,
+        "Competition":"European Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"29th (h)",
+        "Event":"3000 m st.",
+        "Notes":"9:54.83"
+    }
+]

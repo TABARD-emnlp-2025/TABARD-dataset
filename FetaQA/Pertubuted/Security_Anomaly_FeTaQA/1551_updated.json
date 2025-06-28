@@ -1,0 +1,32 @@
+[
+    {
+        "Club":"Peñarol",
+        "Country":"Uruguay",
+        "Year":"1979-1986"
+    },
+    {
+        "Club":"Nacional",
+        "Country":"Uruguay",
+        "Year":"1987-1988"
+    },
+    {
+        "Club":"Real Oviedo",
+        "Country":"Spain",
+        "Year":"1988-1989"
+    },
+    {
+        "Club":"LDU Quito",
+        "Country":"Ecuador",
+        "Year":1990
+    },
+    {
+        "Club":"Nacional",
+        "Country":"Uruguay",
+        "Year":"@@@_None"
+    },
+    {
+        "Club":"Universitario",
+        "Country":"Perú",
+        "Year":"@@@_1991"
+    }
+]

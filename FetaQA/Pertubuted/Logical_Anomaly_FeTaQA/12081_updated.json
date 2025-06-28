@@ -1,0 +1,98 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Lleida Esportiu",
+        "Season":"2011\u201312",
+        "League":1,
+        "Cup":1,
+        "Other":0,
+        "Total":"@@@_3"
+    },
+    {
+        "Club":"Lleida Esportiu",
+        "Season":"2012\u201313",
+        "League":4,
+        "Cup":0,
+        "Other":0,
+        "Total":"@@@_5"
+    },
+    {
+        "Club":"Lleida Esportiu",
+        "Season":"2013\u201314",
+        "League":5,
+        "Cup":1,
+        "Other":0,
+        "Total":"@@@_7"
+    },
+    {
+        "Club":"Lleida Esportiu",
+        "Season":"Total",
+        "League":10,
+        "Cup":"@@@_3",
+        "Other":0,
+        "Total":12
+    },
+    {
+        "Club":"Getafe",
+        "Season":"2014\u201315",
+        "League":0,
+        "Cup":0,
+        "Other":0,
+        "Total":"@@@_1"
+    },
+    {
+        "Club":"Getafe B",
+        "Season":"2014\u201315",
+        "League":6,
+        "Cup":0,
+        "Other":0,
+        "Total":"@@@_5"
+    },
+    {
+        "Club":"UD Logro\u00f1\u00e9s",
+        "Season":"2015\u201316",
+        "League":18,
+        "Cup":0,
+        "Other":0,
+        "Total":"@@@_17"
+    },
+    {
+        "Club":"UCAM Murcia (loan)",
+        "Season":"2016\u201317",
+        "League":1,
+        "Cup":0,
+        "Other":0,
+        "Total":"@@@_2"
+    },
+    {
+        "Club":"Numancia (loan)",
+        "Season":"2017\u201318",
+        "League":6,
+        "Cup":0,
+        "Other":0,
+        "Total":"@@@_5"
+    },
+    {
+        "Club":"Eibar",
+        "Season":"2018\u201319",
+        "League":0,
+        "Cup":0,
+        "Other":0,
+        "Total":"@@@_1"
+    },
+    {
+        "Club":"Career totals",
+        "Season":"Career totals",
+        "League":41,
+        "Cup":2,
+        "Other":0,
+        "Total":"@@@_45"
+    }
+]

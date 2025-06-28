@@ -1,0 +1,154 @@
+[
+    {
+        "Year":"Representing Great Britain",
+        "Competition":"Representing Great Britain",
+        "Venue":"Representing Great Britain",
+        "Position":"Representing Great Britain",
+        "Event":"Representing Great Britain",
+        "Notes":"Representing Great Britain"
+    },
+    {
+        "Year":1990,
+        "Competition":"European Championships",
+        "Venue":"Split, Yugoslavia",
+        "Position":"13th (sf)",
+        "Event":"400 m hurdles",
+        "Notes":"57.06 (56.84 in heat)"
+    },
+    {
+        "Year":1991,
+        "Competition":"Universiade",
+        "Venue":"Sheffield, United Kingdom",
+        "Position":"4th",
+        "Event":"400 m hurdles",
+        "Notes":56.93
+    },
+    {
+        "Year":1991,
+        "Competition":"World Championships",
+        "Venue":"Tokyo, Japan",
+        "Position":"23rd (h)",
+        "Event":"400 m hurdles",
+        "Notes":57.81
+    },
+    {
+        "Year":1993,
+        "Competition":"World Indoor Championships",
+        "Venue":"Toronto, Canada",
+        "Position":"18th (h)",
+        "Event":"800 m",
+        "Notes":"2:09.99"
+    },
+    {
+        "Year":1993,
+        "Competition":"World Championships",
+        "Venue":"Stuttgart, Germany",
+        "Position":"23rd (sf)",
+        "Event":"400 m hurdles",
+        "Notes":56.68
+    },
+    {
+        "Year":1994,
+        "Competition":"European Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"19th (h)",
+        "Event":"400 m hurdles",
+        "Notes":57.83
+    },
+    {
+        "Year":"Representing England",
+        "Competition":"Representing England",
+        "Venue":"Representing England",
+        "Position":"Representing England",
+        "Event":"Representing England",
+        "Notes":"Representing England"
+    },
+    {
+        "Year":1994,
+        "Competition":"Commonwealth Games",
+        "Venue":"Victoria, Canada",
+        "Position":"6th",
+        "Event":"400 m hurdles",
+        "Notes":56.72
+    },
+    {
+        "Year":"National Championships",
+        "Competition":"National Championships",
+        "Venue":"National Championships",
+        "Position":"National Championships",
+        "Event":"National Championships",
+        "Notes":"National Championships"
+    },
+    {
+        "Year":1990,
+        "Competition":"AAA Championships",
+        "Venue":"Birmingham, England",
+        "Position":"2nd",
+        "Event":"400 m hurdles",
+        "Notes":57.43
+    },
+    {
+        "Year":1991,
+        "Competition":"UK Championships",
+        "Venue":"Cardiff, Wales",
+        "Position":"1st",
+        "Event":"400 m hurdles",
+        "Notes":57.64
+    },
+    {
+        "Year":1991,
+        "Competition":"AAA Championships",
+        "Venue":"Birmingham, England",
+        "Position":"2nd",
+        "Event":"400 m hurdles",
+        "Notes":56.15
+    },
+    {
+        "Year":1992,
+        "Competition":"UK Championships",
+        "Venue":"Sheffield, England",
+        "Position":"3rd",
+        "Event":"400 m hurdles",
+        "Notes":56.99
+    },
+    {
+        "Year":1992,
+        "Competition":"AAA Championships",
+        "Venue":"Birmingham, England",
+        "Position":"4th",
+        "Event":"400 m hurdles",
+        "Notes":56.35
+    },
+    {
+        "Year":1993,
+        "Competition":"UK Championships",
+        "Venue":"London, England",
+        "Position":"2nd",
+        "Event":"400 m hurdles",
+        "Notes":57.14
+    },
+    {
+        "Year":1993,
+        "Competition":"AAA Championships",
+        "Venue":"Birmingham, England",
+        "Position":"1st",
+        "Event":"400 m hurdles",
+        "Notes":58.14
+    },
+    {
+        "Year":1994,
+        "Competition":"AAA Championships",
+        "Venue":"Sheffield, England",
+        "Position":"2nd",
+        "Event":"400 m hurdles",
+        "Notes":57.31
+    },
+    {
+        "Year":"(#) indicates overall position in qualifying heats (h) or semifinals (sf).",
+        "Competition":"(#) indicates overall position in qualifying heats (h) or semifinals (sf).",
+        "Venue":"(#) indicates overall position in qualifying heats (h) or semifinals (sf).",
+        "Position":"(#) indicates overall position in qualifying heats (h) or semifinals (sf).",
+        "Event":"(#) indicates overall position in qualifying heats (h) or semifinals (sf).",
+        "Notes":"(#) indicates overall position in qualifying heats (h) or semifinals (sf)."
+    }
+]

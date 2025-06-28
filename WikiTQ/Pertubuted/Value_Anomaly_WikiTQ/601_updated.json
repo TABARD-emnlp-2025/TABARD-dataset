@@ -1,0 +1,461 @@
+[
+  {
+    "Area served": "Cape Girardeau",
+    "City of license": "~Harrisburg IL",
+    "VC": 3,
+    "RF": 34,
+    "Callsign": "WSIL-TV",
+    "Network": "ABC",
+    "Notes": null
+  },
+  {
+    "Area served": "Cape Girardeau",
+    "City of license": "~Paducah KY",
+    "VC": 6,
+    "RF": 32,
+    "Callsign": "WPSD-TV",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "Cape Girardeau",
+    "City of license": "~Carbondale IL",
+    "VC": 8,
+    "RF": 8,
+    "Callsign": "WSIU-TV",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Cape Girardeau",
+    "City of license": "Cape Girardeau",
+    "VC": 12,
+    "RF": "@@@_480",
+    "Callsign": "KFVS-TV",
+    "Network": "CBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Cape Girardeau",
+    "City of license": "Cape Girardeau",
+    "VC": 23,
+    "RF": 22,
+    "Callsign": "KBSI",
+    "Network": "Fox",
+    "Notes": null
+  },
+  {
+    "Area served": "Cape Girardeau",
+    "City of license": "~Marion IL",
+    "VC": 27,
+    "RF": 17,
+    "Callsign": "WTCT",
+    "Network": "Ind.",
+    "Notes": null
+  },
+  {
+    "Area served": "Cape Girardeau",
+    "City of license": "~Paducah KY",
+    "VC": 49,
+    "RF": 49,
+    "Callsign": "WDKA",
+    "Network": "MNT",
+    "Notes": null
+  },
+  {
+    "Area served": "Columbia/Jefferson City",
+    "City of license": "Sedalia",
+    "VC": 6,
+    "RF": 15,
+    "Callsign": "KMOS-TV",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Columbia/Jefferson City",
+    "City of license": "Columbia",
+    "VC": 8,
+    "RF": 8,
+    "Callsign": "KOMU-TV",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "Columbia/Jefferson City",
+    "City of license": "Jefferson City",
+    "VC": 13,
+    "RF": 12,
+    "Callsign": "KRCG",
+    "Network": "CBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Columbia/Jefferson City",
+    "City of license": "Columbia",
+    "VC": 17,
+    "RF": 17,
+    "Callsign": "KMIZ",
+    "Network": "ABC",
+    "Notes": null
+  },
+  {
+    "Area served": "Columbia/Jefferson City",
+    "City of license": "Jefferson City",
+    "VC": 25,
+    "RF": 20,
+    "Callsign": "KNLJ",
+    "Network": "Ind.",
+    "Notes": null
+  },
+  {
+    "Area served": "Hannibal",
+    "City of license": "Hannibal",
+    "VC": 7,
+    "RF": 7,
+    "Callsign": "KHQA-TV",
+    "Network": "CBS",
+    "Notes": "ABC on 7.2"
+  },
+  {
+    "Area served": "Hannibal",
+    "City of license": "~Quincy IL",
+    "VC": 10,
+    "RF": 10,
+    "Callsign": "WGEM-TV",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "Hannibal",
+    "City of license": "~Quincy IL",
+    "VC": 16,
+    "RF": 32,
+    "Callsign": "WTJR",
+    "Network": "Ind.",
+    "Notes": null
+  },
+  {
+    "Area served": "Hannibal",
+    "City of license": "~Quincy IL",
+    "VC": 27,
+    "RF": 34,
+    "Callsign": "WQEC",
+    "Network": "PBS",
+    "Notes": "satellite of WSEC ch. 14 Springfield IL"
+  },
+  {
+    "Area served": "Joplin",
+    "City of license": "~Pittsburg KS",
+    "VC": 7,
+    "RF": 7,
+    "Callsign": "KOAM-TV",
+    "Network": "CBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Joplin",
+    "City of license": "Joplin",
+    "VC": 12,
+    "RF": 43,
+    "Callsign": "KODE-TV",
+    "Network": "ABC",
+    "Notes": null
+  },
+  {
+    "Area served": "Joplin",
+    "City of license": "~Pittsburg KS",
+    "VC": 14,
+    "RF": 13,
+    "Callsign": "KFJX",
+    "Network": "Fox",
+    "Notes": null
+  },
+  {
+    "Area served": "Joplin",
+    "City of license": "Joplin",
+    "VC": 16,
+    "RF": 46,
+    "Callsign": "KSNF",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "Joplin",
+    "City of license": "Joplin",
+    "VC": 26,
+    "RF": "@@@_370",
+    "Callsign": "KOZJ",
+    "Network": "PBS",
+    "Notes": "satellite of KOZK ch. 21 Springfield"
+  },
+  {
+    "Area served": "Kansas City",
+    "City of license": "Kansas City",
+    "VC": "@@@_229",
+    "RF": 34,
+    "Callsign": "WDAF-TV",
+    "Network": "Fox",
+    "Notes": null
+  },
+  {
+    "Area served": "Kansas City",
+    "City of license": "Kansas City",
+    "VC": 5,
+    "RF": 24,
+    "Callsign": "KCTV",
+    "Network": "CBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Kansas City",
+    "City of license": "Kansas City",
+    "VC": 9,
+    "RF": 29,
+    "Callsign": "KMBC-TV",
+    "Network": "ABC",
+    "Notes": null
+  },
+  {
+    "Area served": "Kansas City",
+    "City of license": "St. Joseph",
+    "VC": 16,
+    "RF": 21,
+    "Callsign": "KTAJ-TV",
+    "Network": "TBN",
+    "Notes": null
+  },
+  {
+    "Area served": "Kansas City",
+    "City of license": "Kansas City",
+    "VC": 19,
+    "RF": 18,
+    "Callsign": "KCPT",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Kansas City",
+    "City of license": "Kansas City",
+    "VC": 29,
+    "RF": 31,
+    "Callsign": "KCWE",
+    "Network": "CW",
+    "Notes": null
+  },
+  {
+    "Area served": "@@@_None",
+    "City of license": "~Lawrence KS",
+    "VC": 38,
+    "RF": "@@@_-42",
+    "Callsign": "KMCI",
+    "Network": "Ind.",
+    "Notes": null
+  },
+  {
+    "Area served": "Kansas City",
+    "City of license": "Kansas City",
+    "VC": 41,
+    "RF": 42,
+    "Callsign": "KSHB-TV",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "Kansas City",
+    "City of license": "Kansas City",
+    "VC": 50,
+    "RF": 51,
+    "Callsign": "KPXE-TV",
+    "Network": "ION",
+    "Notes": null
+  },
+  {
+    "Area served": "Kansas City",
+    "City of license": "Kansas City",
+    "VC": 62,
+    "RF": 47,
+    "Callsign": "KSMO-TV",
+    "Network": "MNT",
+    "Notes": null
+  },
+  {
+    "Area served": "Kirksville",
+    "City of license": "Kirksville",
+    "VC": 3,
+    "RF": 33,
+    "Callsign": "KTVO",
+    "Network": "ABC",
+    "Notes": null
+  },
+  {
+    "Area served": "Kirksville",
+    "City of license": "~Ottumwa IA",
+    "VC": 15,
+    "RF": 15,
+    "Callsign": "KYOU-TV",
+    "Network": "Fox",
+    "Notes": null
+  },
+  {
+    "Area served": "Poplar Bluff",
+    "City of license": "Poplar Bluff",
+    "VC": 15,
+    "RF": 15,
+    "Callsign": "KPOB-TV",
+    "Network": "ABC",
+    "Notes": "satellite of WSIL-TV ch. 3 Harrisburg IL"
+  },
+  {
+    "Area served": "St. Joseph",
+    "City of license": "St. Joseph",
+    "VC": 2,
+    "RF": 7,
+    "Callsign": "KQTV",
+    "Network": "ABC",
+    "Notes": null
+  },
+  {
+    "Area served": "St. Louis",
+    "City of license": "St. Louis",
+    "VC": 2,
+    "RF": 43,
+    "Callsign": "KTVI",
+    "Network": "Fox",
+    "Notes": "ABC (1955-1995), Fox O&O (c.1995-2008)"
+  },
+  {
+    "Area served": "St. Louis",
+    "City of license": "St. Louis",
+    "VC": 4,
+    "RF": 24,
+    "Callsign": "KMOV",
+    "Network": "CBS",
+    "Notes": "CBS O&O (1958-1986 as KMOX-TV)"
+  },
+  {
+    "Area served": "St. Louis",
+    "City of license": "St. Louis",
+    "VC": 5,
+    "RF": 35,
+    "Callsign": "KSDK",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "St. Louis",
+    "City of license": "St. Louis",
+    "VC": 9,
+    "RF": 39,
+    "Callsign": "KETC",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "St. Louis",
+    "City of license": "St. Louis",
+    "VC": 11,
+    "RF": 26,
+    "Callsign": "KPLR-TV",
+    "Network": "CW",
+    "Notes": null
+  },
+  {
+    "Area served": "St. Louis",
+    "City of license": "St. Louis",
+    "VC": 24,
+    "RF": 14,
+    "Callsign": "KNLC",
+    "Network": "Ind.",
+    "Notes": null
+  },
+  {
+    "Area served": "St. Louis",
+    "City of license": "St. Louis",
+    "VC": 30,
+    "RF": 31,
+    "Callsign": "KDNL-TV",
+    "Network": "ABC",
+    "Notes": "Independent (1969-1986); Fox (1986-1995)"
+  },
+  {
+    "Area served": "St. Louis",
+    "City of license": "~East St. Louis IL",
+    "VC": 46,
+    "RF": 47,
+    "Callsign": "WRBU",
+    "Network": "MNT",
+    "Notes": null
+  },
+  {
+    "Area served": "Springfield",
+    "City of license": "Springfield",
+    "VC": 3,
+    "RF": 44,
+    "Callsign": "KYTV",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "Springfield",
+    "City of license": "Springfield",
+    "VC": 10,
+    "RF": 10,
+    "Callsign": "KOLR",
+    "Network": "CBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Springfield",
+    "City of license": "Springfield",
+    "VC": 21,
+    "RF": 23,
+    "Callsign": "KOZK",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Springfield",
+    "City of license": "Springfield",
+    "VC": 27,
+    "RF": 28,
+    "Callsign": "KOZL-TV",
+    "Network": "Ind.",
+    "Notes": null
+  },
+  {
+    "Area served": "Springfield",
+    "City of license": "~Harrison AR",
+    "VC": 31,
+    "RF": 31,
+    "Callsign": "KWBM",
+    "Network": "Ind.",
+    "Notes": null
+  },
+  {
+    "Area served": "Springfield",
+    "City of license": "Springfield",
+    "VC": 33,
+    "RF": 19,
+    "Callsign": "KSPR",
+    "Network": "ABC",
+    "Notes": "K15CZ (CW) on 33.2"
+  },
+  {
+    "Area served": "Springfield",
+    "City of license": "Osage Beach",
+    "VC": 49,
+    "RF": 49,
+    "Callsign": "KRBK",
+    "Network": "Fox",
+    "Notes": null
+  },
+  {
+    "Area served": "Springfield",
+    "City of license": "Springfield",
+    "VC": 8,
+    "RF": 8,
+    "Callsign": "KRFT-LD",
+    "Network": "MundoFox",
+    "Notes": "TNN on 8.2, My Family TV on 8.3"
+  }
+]

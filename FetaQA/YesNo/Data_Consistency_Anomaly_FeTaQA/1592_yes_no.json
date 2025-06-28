@@ -1,0 +1,26 @@
+[
+    {
+        "Event": "No",
+        "Best (m)": "Yes",
+        "Venue": "Yes",
+        "Date": "No"
+    },
+    {
+        "Event": "Yes",
+        "Best (m)": "No",
+        "Venue": "No",
+        "Date": "Yes"
+    },
+    {
+        "Event": "No",
+        "Best (m)": "No",
+        "Venue": "No",
+        "Date": "No"
+    },
+    {
+        "Event": "No",
+        "Best (m)": "No",
+        "Venue": "No",
+        "Date": "No"
+    }
+]

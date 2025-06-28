@@ -1,0 +1,156 @@
+[
+    {
+        "Year":1992,
+        "Winner":"Budivelnyk",
+        "Runner-Up":"NKI Mykolaiv",
+        "Final score":"Round-robin",
+        "Third":"Spartak Lugansk"
+    },
+    {
+        "Year":1993,
+        "Winner":"Budivelnyk",
+        "Runner-Up":"SKA Kyiv",
+        "Final score":"Round-robin",
+        "Third":"NKI Mykolaiv"
+    },
+    {
+        "Year":1994,
+        "Winner":"Budivelnyk",
+        "Runner-Up":"Kyiv-Basket",
+        "Final score":"@@@_3-0",
+        "Third":"Bipa-Moda Odesa"
+    },
+    {
+        "Year":1995,
+        "Winner":"Budivelnyk",
+        "Runner-Up":"Kyiv-Basket",
+        "Final score":"@@@_3-0",
+        "Third":"Shakhtar-ASKO Donetsk"
+    },
+    {
+        "Year":1996,
+        "Winner":"Budivelnyk",
+        "Runner-Up":"Shakhtar Donetsk",
+        "Final score":"Round-robin",
+        "Third":"Kyiv-Basket"
+    },
+    {
+        "Year":1997,
+        "Winner":"Budivelnyk",
+        "Runner-Up":"BIPA-Moda Odesa",
+        "Final score":"@@@_3-2",
+        "Third":"Kyiv-Basket"
+    },
+    {
+        "Year":1998,
+        "Winner":"BIPA-Moda Odesa",
+        "Runner-Up":"Budivelnyk",
+        "Final score":"@@@_3-0",
+        "Third":"SC Mykolaiv"
+    },
+    {
+        "Year":1999,
+        "Winner":"BIPA-Moda Odesa",
+        "Runner-Up":"CSKA-RIKO Kyiv",
+        "Final score":"@@@_3-2",
+        "Third":"Budivelnyk"
+    },
+    {
+        "Year":2000,
+        "Winner":"Kyiv",
+        "Runner-Up":"MBC Odesa",
+        "Final score":"@@@_3-2",
+        "Third":"CSKA-Ukrtatnafta Kyiv"
+    },
+    {
+        "Year":2001,
+        "Winner":"MBC Odesa",
+        "Runner-Up":"Kyiv",
+        "Final score":"@@@_3-2",
+        "Third":"Azovmash"
+    },
+    {
+        "Year":2002,
+        "Winner":"MBC Odesa",
+        "Runner-Up":"Kyiv",
+        "Final score":"@@@_3-2",
+        "Third":"Azovmash"
+    },
+    {
+        "Year":2003,
+        "Winner":"Azovmash",
+        "Runner-Up":"MBC Odesa",
+        "Final score":"@@@_5-0",
+        "Third":"Kyiv"
+    },
+    {
+        "Year":2004,
+        "Winner":"Azovmash",
+        "Runner-Up":"Kyiv",
+        "Final score":"@@@_4-2",
+        "Third":"MBC Odesa"
+    },
+    {
+        "Year":2005,
+        "Winner":"Kyiv",
+        "Runner-Up":"Azovmash",
+        "Final score":"@@@_3-0",
+        "Third":"Khimik"
+    },
+    {
+        "Year":2006,
+        "Winner":"Azovmash",
+        "Runner-Up":"Kyiv",
+        "Final score":"@@@_3-1",
+        "Third":"Khimik"
+    },
+    {
+        "Year":2007,
+        "Winner":"Azovmash",
+        "Runner-Up":"Kyiv",
+        "Final score":"@@@_3-2",
+        "Third":"Khimik"
+    },
+    {
+        "Year":2008,
+        "Winner":"Azovmash",
+        "Runner-Up":"Kyiv",
+        "Final score":"@@@_3-1",
+        "Third":"Khimik"
+    },
+    {
+        "Year":2009,
+        "Winner":"Azovmash",
+        "Runner-Up":"Donetsk",
+        "Final score":"@@@_3-0",
+        "Third":"Khimik"
+    },
+    {
+        "Year":2010,
+        "Winner":"Azovmash",
+        "Runner-Up":"Budivelnyk",
+        "Final score":"@@@_3-2",
+        "Third":"Ferro-ZNTU"
+    },
+    {
+        "Year":2011,
+        "Winner":"Budivelnyk",
+        "Runner-Up":"Donetsk",
+        "Final score":"@@@_4-3",
+        "Third":"Hoverla"
+    },
+    {
+        "Year":2012,
+        "Winner":"Donetsk",
+        "Runner-Up":"Azovmash",
+        "Final score":"@@@_4-0",
+        "Third":"Ferro-ZNTU"
+    },
+    {
+        "Year":2013,
+        "Winner":"Budivelnyk",
+        "Runner-Up":"Azovmash",
+        "Final score":"@@@_4-3",
+        "Third":"@@@_Hoverla"
+    }
+]

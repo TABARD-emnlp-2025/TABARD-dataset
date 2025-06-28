@@ -1,0 +1,107 @@
+[
+    {
+        "Year":2005,
+        "Organization":"47th The Television Drama Academy Awards",
+        "Award":"Best Actress",
+        "Work":"Hana Yori Dango",
+        "Result":"Won"
+    },
+    {
+        "Year":2007,
+        "Organization":"10th Nikkan Sports Drama Grand Prix",
+        "Award":"Best Actress",
+        "Work":"Hana Yori Dango 2",
+        "Result":"Won"
+    },
+    {
+        "Year":2007,
+        "Organization":"16th Hashida Awards",
+        "Award":"Newcomer Award",
+        "Work":"Hana Yori Dango 2",
+        "Result":"Won"
+    },
+    {
+        "Year":2007,
+        "Organization":"2007 MTV Student Voice Awards",
+        "Award":"Best Actress",
+        "Work":"Hana Yori Dango 2",
+        "Result":"Won"
+    },
+    {
+        "Year":2007,
+        "Organization":"54th The Television Academy Drama Awards",
+        "Award":"Best Actress",
+        "Work":"First Kiss",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2008,
+        "Organization":"Nickelodeon Kids' Choice Awards",
+        "Award":"Best Actress",
+        "Work":"Hana Yori Dango 2",
+        "Result":"Won"
+    },
+    {
+        "Year":2010,
+        "Organization":"Nikkan Sports Grand Prix (Fall)",
+        "Award":"Best Supporting Actress",
+        "Work":"Veterinarian Dolittle",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2011,
+        "Organization":"3rd TAMA Film Award",
+        "Award":"Best Emerging Actress",
+        "Work":"Miracle in the Pacific",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Organization":"35th Fumiko Yamaji Award Film Awards",
+        "Award":"Newcomer Actress",
+        "Work":"Youkame no Semi",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Organization":"26th Nikkan Sport Film Awards",
+        "Award":"Best Newcomer",
+        "Work":"Youkame no Semi, Miracle in the Pacific",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Organization":"TV Navi",
+        "Award":"Best Actress",
+        "Work":"Ohisama",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Organization":"70th The Television Drama Academy Awards",
+        "Award":"Best Actress",
+        "Work":"Ohisama",
+        "Result":"Won"
+    },
+    {
+        "Year":"2023",
+        "Organization":"35th Japan Academy Awards",
+        "Award":"Best Starring Actress",
+        "Work":"Youkame no Semi",
+        "Result":"Won"
+    },
+    {
+        "Year":"2019",
+        "Organization":"Japan Film Festival Theater Staff",
+        "Award":"Best Actress",
+        "Work":"Youkame no Semi",
+        "Result":"Won"
+    },
+    {
+        "Year":2012,
+        "Organization":"16th Nikkan Sport Grand Prix",
+        "Award":"Best Actress",
+        "Work":"Tokkan",
+        "Result":"Nominated"
+    }
+]

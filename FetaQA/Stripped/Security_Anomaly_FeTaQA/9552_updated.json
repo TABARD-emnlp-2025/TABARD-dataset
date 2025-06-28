@@ -1,0 +1,107 @@
+[
+    {
+        "Isotope":"258Sg",
+        "Half-life":"3 ms",
+        "Decay mode":"SF",
+        "Discovery year":1994,
+        "Reaction":"209Bi(51V,2n)"
+    },
+    {
+        "Isotope":"259Sg",
+        "Half-life":"600 ms",
+        "Decay mode":"α",
+        "Discovery year":1985,
+        "Reaction":"207Pb(54Cr,2n)"
+    },
+    {
+        "Isotope":"260Sg",
+        "Half-life":"4 ms",
+        "Decay mode":"SF, α",
+        "Discovery year":1985,
+        "Reaction":"208Pb(54Cr,2n)"
+    },
+    {
+        "Isotope":"261Sg",
+        "Half-life":"200 ms",
+        "Decay mode":"α, EC, SF",
+        "Discovery year":1985,
+        "Reaction":"208Pb(54Cr,n)"
+    },
+    {
+        "Isotope":"261mSg",
+        "Half-life":"92 μs",
+        "Decay mode":"IT",
+        "Discovery year":2009,
+        "Reaction":"208Pb(54Cr,n)"
+    },
+    {
+        "Isotope":"262Sg",
+        "Half-life":"7 ms",
+        "Decay mode":"SF, α",
+        "Discovery year":2001,
+        "Reaction":"270Ds(—,2α)"
+    },
+    {
+        "Isotope":"263Sg",
+        "Half-life":"1 s",
+        "Decay mode":"β+",
+        "Discovery year":1994,
+        "Reaction":"271Ds(—,2α)"
+    },
+    {
+        "Isotope":"263mSg",
+        "Half-life":"120 ms",
+        "Decay mode":"α, SF",
+        "Discovery year":1974,
+        "Reaction":"249Cf(18O,4n)"
+    },
+    {
+        "Isotope":"264Sg",
+        "Half-life":"37 ms",
+        "Decay mode":"SF",
+        "Discovery year":"1800",
+        "Reaction":"238U(34Si,4n)"
+    },
+    {
+        "Isotope":"265Sg",
+        "Half-life":"8 s",
+        "Decay mode":"α",
+        "Discovery year":1993,
+        "Reaction":"248Cm(22Ne,5n)"
+    },
+    {
+        "Isotope":"265mSg",
+        "Half-life":"16.2 s",
+        "Decay mode":"α",
+        "Discovery year":1993,
+        "Reaction":"248Cm(22Ne,5n)"
+    },
+    {
+        "Isotope":"266Sg",
+        "Half-life":"360 ms",
+        "Decay mode":"SF",
+        "Discovery year":2004,
+        "Reaction":"270Hs(—,α)"
+    },
+    {
+        "Isotope":"267Sg",
+        "Half-life":"1.4 min",
+        "Decay mode":"SF, α",
+        "Discovery year":2004,
+        "Reaction":"271Hs(—,α)"
+    },
+    {
+        "Isotope":"269Sg",
+        "Half-life":"14 min",
+        "Decay mode":"α",
+        "Discovery year":2010,
+        "Reaction":"285Fl(—,4α)"
+    },
+    {
+        "Isotope":"271Sg",
+        "Half-life":"2.4 min",
+        "Decay mode":"α",
+        "Discovery year":2003,
+        "Reaction":"287Fl(—,Xα)"
+    }
+]

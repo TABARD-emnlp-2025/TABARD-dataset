@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "Feudinge (Rüppersbach)",
+    "Position": "left",
+    "Length\n[km]": 6.3,
+    "Drainage basin area\n[km2]": 21.2,
+    "Confluence\n[by Lahn-km]": 9.8,
+    "Mouth elevation\n[m above MSL]": 388
+  },
+  {
+    "Name": "Ilse",
+    "Position": "right",
+    "Length\n[km]": 8.4,
+    "Drainage basin area\n[km2]": 11.8,
+    "Confluence\n[by Lahn-km]": 10.5,
+    "Mouth elevation\n[m above MSL]": 382
+  },
+  {
+    "Name": "Banfe",
+    "Position": "right",
+    "Length\n[km]": 11.5,
+    "Drainage basin area\n[km2]": 38.9,
+    "Confluence\n[by Lahn-km]": 18.5,
+    "Mouth elevation\n[m above MSL]": 326
+  },
+  {
+    "Name": "Laasphe",
+    "Position": "left",
+    "Length\n[km]": 8.3,
+    "Drainage basin area\n[km2]": 19.6,
+    "Confluence\n[by Lahn-km]": 19.4,
+    "Mouth elevation\n[m above MSL]": 324
+  },
+  {
+    "Name": "Perf",
+    "Position": "@@@_None",
+    "Length\n[km]": 20.0,
+    "Drainage basin area\n[km2]": 113.1,
+    "Confluence\n[by Lahn-km]": 24.7,
+    "Mouth elevation\n[m above MSL]": 285
+  },
+  {
+    "Name": "Dautphe",
+    "Position": "left",
+    "Length\n[km]": "@@@_261.1759040729",
+    "Drainage basin area\n[km2]": 41.8,
+    "Confluence\n[by Lahn-km]": 37.5,
+    "Mouth elevation\n[m above MSL]": 245
+  },
+  {
+    "Name": "Wetschaft",
+    "Position": "left",
+    "Length\n[km]": 29.0,
+    "Drainage basin area\n[km2]": 196.2,
+    "Confluence\n[by Lahn-km]": 56.3,
+    "Mouth elevation\n[m above MSL]": 192
+  },
+  {
+    "Name": "Ohm",
+    "Position": "left",
+    "Length\n[km]": 59.7,
+    "Drainage basin area\n[km2]": 983.8,
+    "Confluence\n[by Lahn-km]": 58.7,
+    "Mouth elevation\n[m above MSL]": 188
+  },
+  {
+    "Name": "Allna",
+    "Position": "right",
+    "Length\n[km]": 19.1,
+    "Drainage basin area\n[km2]": 92.0,
+    "Confluence\n[by Lahn-km]": 77.1,
+    "Mouth elevation\n[m above MSL]": 172
+  },
+  {
+    "Name": "Zwester Ohm",
+    "Position": "left",
+    "Length\n[km]": 20.0,
+    "Drainage basin area\n[km2]": 69.5,
+    "Confluence\n[by Lahn-km]": 84.0,
+    "Mouth elevation\n[m above MSL]": 165
+  },
+  {
+    "Name": "Salzböde",
+    "Position": "right",
+    "Length\n[km]": "@@@_426.988489013",
+    "Drainage basin area\n[km2]": 137.8,
+    "Confluence\n[by Lahn-km]": 87.4,
+    "Mouth elevation\n[m above MSL]": 164
+  },
+  {
+    "Name": "Lumda",
+    "Position": "left",
+    "Length\n[km]": 30.0,
+    "Drainage basin area\n[km2]": 131.5,
+    "Confluence\n[by Lahn-km]": 93.6,
+    "Mouth elevation\n[m above MSL]": 160
+  },
+  {
+    "Name": "Wieseck",
+    "Position": "left",
+    "Length\n[km]": 24.3,
+    "Drainage basin area\n[km2]": 119.6,
+    "Confluence\n[by Lahn-km]": 102.2,
+    "Mouth elevation\n[m above MSL]": 155
+  },
+  {
+    "Name": "Bieber",
+    "Position": "right",
+    "Length\n[km]": 13.6,
+    "Drainage basin area\n[km2]": 34.7,
+    "Confluence\n[by Lahn-km]": 105.1,
+    "Mouth elevation\n[m above MSL]": 151
+  },
+  {
+    "Name": "Kleebach",
+    "Position": "left",
+    "Length\n[km]": 26.9,
+    "Drainage basin area\n[km2]": 164.6,
+    "Confluence\n[by Lahn-km]": 106.2,
+    "Mouth elevation\n[m above MSL]": 150
+  },
+  {
+    "Name": "Wetzbach",
+    "Position": "left",
+    "Length\n[km]": 11.7,
+    "Drainage basin area\n[km2]": 32.9,
+    "Confluence\n[by Lahn-km]": "@@@_-90.6833333333",
+    "Mouth elevation\n[m above MSL]": 147
+  },
+  {
+    "Name": "Dill",
+    "Position": "right",
+    "Length\n[km]": 55.0,
+    "Drainage basin area\n[km2]": 717.7,
+    "Confluence\n[by Lahn-km]": 120.4,
+    "Mouth elevation\n[m above MSL]": 147
+  },
+  {
+    "Name": "Solmsbach",
+    "Position": "left",
+    "Length\n[km]": 24.6,
+    "Drainage basin area\n[km2]": 112.5,
+    "Confluence\n[by Lahn-km]": 128.1,
+    "Mouth elevation\n[m above MSL]": 141
+  },
+  {
+    "Name": "Iserbach (Möttbach)",
+    "Position": "left",
+    "Length\n[km]": 19.2,
+    "Drainage basin area\n[km2]": 31.2,
+    "Confluence\n[by Lahn-km]": 131.4,
+    "Mouth elevation\n[m above MSL]": 139
+  },
+  {
+    "Name": "Ulmbach",
+    "Position": "right",
+    "Length\n[km]": 22.9,
+    "Drainage basin area\n[km2]": 60.9,
+    "Confluence\n[by Lahn-km]": 138.2,
+    "Mouth elevation\n[m above MSL]": 135
+  },
+  {
+    "Name": "Kallenbach",
+    "Position": "right",
+    "Length\n[km]": "@@@_-47.5121464362",
+    "Drainage basin area\n[km2]": 84.7,
+    "Confluence\n[by Lahn-km]": 141.3,
+    "Mouth elevation\n[m above MSL]": 132
+  },
+  {
+    "Name": "Weil",
+    "Position": "left",
+    "Length\n[km]": 46.6,
+    "Drainage basin area\n[km2]": 247.9,
+    "Confluence\n[by Lahn-km]": 149.4,
+    "Mouth elevation\n[m above MSL]": 130
+  },
+  {
+    "Name": "Kerkerbach",
+    "Position": "right",
+    "Length\n[km]": 20.7,
+    "Drainage basin area\n[km2]": 70.2,
+    "Confluence\n[by Lahn-km]": 176.0,
+    "Mouth elevation\n[m above MSL]": 112
+  },
+  {
+    "Name": "Emsbach",
+    "Position": "left",
+    "Length\n[km]": 39.1,
+    "Drainage basin area\n[km2]": 321.8,
+    "Confluence\n[by Lahn-km]": 181.0,
+    "Mouth elevation\n[m above MSL]": 110
+  },
+  {
+    "Name": "Elbbach",
+    "Position": "right",
+    "Length\n[km]": 40.7,
+    "Drainage basin area\n[km2]": 323.7,
+    "Confluence\n[by Lahn-km]": null,
+    "Mouth elevation\n[m above MSL]": 109
+  },
+  {
+    "Name": "Aar",
+    "Position": "left",
+    "Length\n[km]": 49.7,
+    "Drainage basin area\n[km2]": 312.6,
+    "Confluence\n[by Lahn-km]": null,
+    "Mouth elevation\n[m above MSL]": 103
+  },
+  {
+    "Name": "Dörsbach",
+    "Position": "left",
+    "Length\n[km]": 32.0,
+    "Drainage basin area\n[km2]": 114.0,
+    "Confluence\n[by Lahn-km]": null,
+    "Mouth elevation\n[m above MSL]": 94
+  },
+  {
+    "Name": "Gelbach (Aubach)",
+    "Position": "right",
+    "Length\n[km]": 39.7,
+    "Drainage basin area\n[km2]": 221.2,
+    "Confluence\n[by Lahn-km]": null,
+    "Mouth elevation\n[m above MSL]": 93
+  },
+  {
+    "Name": "Mühlbach",
+    "Position": "left",
+    "Length\n[km]": 32.1,
+    "Drainage basin area\n[km2]": 171.9,
+    "Confluence\n[by Lahn-km]": null,
+    "Mouth elevation\n[m above MSL]": 85
+  },
+  {
+    "Name": "Emsbach",
+    "Position": "right",
+    "Length\n[km]": 11.5,
+    "Drainage basin area\n[km2]": 29.4,
+    "Confluence\n[by Lahn-km]": null,
+    "Mouth elevation\n[m above MSL]": 75
+  }
+]

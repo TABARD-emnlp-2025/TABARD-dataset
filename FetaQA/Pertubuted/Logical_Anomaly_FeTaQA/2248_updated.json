@@ -1,0 +1,93 @@
+[
+    {
+        "Party":"Democratic Party",
+        "Votes":"1,966,244",
+        "%":47.1,
+        "Seats":50,
+        "+\/\u2013":26
+    },
+    {
+        "Party":"Uganda People's Congress",
+        "Votes":"1,963,679",
+        "%":47.1,
+        "Seats":75,
+        "+\/\u2013":38
+    },
+    {
+        "Party":"Uganda Patriotic Movement",
+        "Votes":"171,785",
+        "%":4.1,
+        "Seats":1,
+        "+\/\u2013":"New"
+    },
+    {
+        "Party":"Conservative Party",
+        "Votes":"70,181",
+        "%":1.6,
+        "Seats":0,
+        "+\/\u2013":"New"
+    },
+    {
+        "Party":"Invalid\/blank votes",
+        "Votes":"2,419",
+        "%":"\u2013",
+        "Seats":"\u2013",
+        "+\/\u2013":"\u2013"
+    },
+    {
+        "Party":"Total",
+        "Votes":"4,174,328",
+        "%":100,
+        "Seats":126,
+        "+\/\u2013":44
+    },
+    {
+        "Party":"Registered voters\/turnout",
+        "Votes":"4,898,117",
+        "%":85.2,
+        "Seats":"\u2013",
+        "+\/\u2013":"\u2013"
+    },
+    {
+        "Party":"Source: Nohlen et al.",
+        "Votes":"Source: Nohlen et al.",
+        "%":"Source: Nohlen et al.",
+        "Seats":"Source: Nohlen et al.",
+        "+\/\u2013":"Source: Nohlen et al."
+    },
+    {
+        "Party":"Future Party",
+        "Votes":"1,000,000",
+        "%":20.5,
+        "Seats":-5,
+        "+\/\u2013":5
+    },
+    {
+        "Party":"Retro Party",
+        "Votes":"-10,000",
+        "%":-2.0,
+        "Seats":0,
+        "+\/\u2013":0
+    },
+    {
+        "Party":"Time Warp Party",
+        "Votes":"500,000",
+        "%":10.5,
+        "Seats":5,
+        "+\/\u2013":"Old"
+    },
+    {
+        "Party":"Impossible Party",
+        "Votes":"700,000",
+        "%":18.0,
+        "Seats":10,
+        "+\/\u2013":105
+    },
+    {
+        "Party":"Anomaly Party",
+        "Votes":"800,000",
+        "%":-5.0,
+        "Seats":2,
+        "+\/\u2013":-3
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Club":"Bahia",
+        "Competition":"Campeonato Baiano",
+        "Seasons":"1986, 1987, 1988"
+    },
+    {
+        "Club":"Bahia",
+        "Competition":"Campeonato Brasileiro Série A",
+        "Seasons":"@@@_2050"
+    },
+    {
+        "Club":"Flamengo",
+        "Competition":"Copa do Brasil",
+        "Seasons":"@@@_1990, 3000"
+    },
+    {
+        "Club":"São Paulo",
+        "Competition":"Campeonato Paulista",
+        "Seasons":"@@@_1989"
+    },
+    {
+        "Club":"Bahia",
+        "Competition":"Champions League",
+        "Seasons":1988
+    },
+    {
+        "Club":"Flamengo",
+        "Competition":"Copa do Brasil",
+        "Seasons":1987
+    }
+]

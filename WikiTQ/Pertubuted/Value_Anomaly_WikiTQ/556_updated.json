@@ -1,0 +1,261 @@
+[
+  {
+    "Rank": null,
+    "Athlete": "Nataliya Petrusyova",
+    "Country": "Soviet Union",
+    "Time": "1:24.10",
+    "Notes": "OR"
+  },
+  {
+    "Rank": null,
+    "Athlete": "Leah Poulos",
+    "Country": "United States",
+    "Time": "1:25.41",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Sylvia Albrecht",
+    "Country": "East Germany",
+    "Time": "1:26.46",
+    "Notes": null
+  },
+  {
+    "Rank": 4.0,
+    "Athlete": "Karin Enke",
+    "Country": "East Germany",
+    "Time": "1:26.66",
+    "Notes": null
+  },
+  {
+    "Rank": 5.0,
+    "Athlete": "Beth Heiden",
+    "Country": "United States",
+    "Time": "1:27.01",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_492.581913308",
+    "Athlete": "Annie Borckink",
+    "Country": "Netherlands",
+    "Time": "1:27.24",
+    "Notes": null
+  },
+  {
+    "Rank": 7.0,
+    "Athlete": "Sylvia Burka",
+    "Country": "Canada",
+    "Time": "1:27.50",
+    "Notes": null
+  },
+  {
+    "Rank": 8.0,
+    "Athlete": "Ann-Sofie Järnström",
+    "Country": "Sweden",
+    "Time": "1:28.10",
+    "Notes": null
+  },
+  {
+    "Rank": 9.0,
+    "Athlete": "Sylvia Filipsson",
+    "Country": "Sweden",
+    "Time": "1:28.18",
+    "Notes": null
+  },
+  {
+    "Rank": 10.0,
+    "Athlete": "Annette Carlén-Karlsson",
+    "Country": "Sweden",
+    "Time": "1:28.25",
+    "Notes": null
+  },
+  {
+    "Rank": 11.0,
+    "Athlete": "Valentina Lalenkova",
+    "Country": "Soviet Union",
+    "Time": "1:28.27",
+    "Notes": null
+  },
+  {
+    "Rank": 12.0,
+    "Athlete": "Bjørg Eva Jensen",
+    "Country": "Norway",
+    "Time": "1:28.55",
+    "Notes": null
+  },
+  {
+    "Rank": 13.0,
+    "Athlete": "Sijtje van der Lende",
+    "Country": "Netherlands",
+    "Time": "1:28.72",
+    "Notes": null
+  },
+  {
+    "Rank": 14.0,
+    "Athlete": "Sarah Docter",
+    "Country": "United States",
+    "Time": "1:28.80",
+    "Notes": null
+  },
+  {
+    "Rank": 14.0,
+    "Athlete": "Haitske Valentijn-Pijlman",
+    "Country": "Netherlands",
+    "Time": "1:28.80",
+    "Notes": null
+  },
+  {
+    "Rank": 16.0,
+    "Athlete": "Erwina Ryś-Ferens",
+    "Country": "Poland",
+    "Time": "@@@_None",
+    "Notes": null
+  },
+  {
+    "Rank": 17.0,
+    "Athlete": "Miyoshi Kato",
+    "Country": "Japan",
+    "Time": "1:28.97",
+    "Notes": null
+  },
+  {
+    "Rank": 18.0,
+    "Athlete": "Christa Rothenburger",
+    "Country": "East Germany",
+    "Time": "1:29.69",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_865.1390121677",
+    "Athlete": "Brenda Webster",
+    "Country": "Canada",
+    "Time": "1:29.84",
+    "Notes": null
+  },
+  {
+    "Rank": 20.0,
+    "Athlete": "Irina Kuleshova-Kovrova",
+    "Country": "Soviet Union",
+    "Time": "1:29.94",
+    "Notes": null
+  },
+  {
+    "Rank": 21.0,
+    "Athlete": "Monika Pflug",
+    "Country": "West Germany",
+    "Time": "1:30.13",
+    "Notes": null
+  },
+  {
+    "Rank": 22.0,
+    "Athlete": "Makiko Nagaya",
+    "Country": "Japan",
+    "Time": "1:30.27",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_399.5634121855",
+    "Athlete": "Sigrid Smuda",
+    "Country": "West Germany",
+    "Time": "1:30.29",
+    "Notes": null
+  },
+  {
+    "Rank": 24.0,
+    "Athlete": "Kathy Vogt",
+    "Country": "Canada",
+    "Time": "1:30.33",
+    "Notes": null
+  },
+  {
+    "Rank": 25.0,
+    "Athlete": "Yuko Yaegashi-Ota",
+    "Country": "Japan",
+    "Time": "1:30.72",
+    "Notes": null
+  },
+  {
+    "Rank": 26.0,
+    "Athlete": "Lee Nam-Sun",
+    "Country": "South Korea",
+    "Time": "1:31.30",
+    "Notes": null
+  },
+  {
+    "Rank": 27.0,
+    "Athlete": "Cao Guifeng",
+    "Country": "China",
+    "Time": "1:31.74",
+    "Notes": null
+  },
+  {
+    "Rank": 28.0,
+    "Athlete": "Anneli Repola",
+    "Country": "Finland",
+    "Time": "1:31.76",
+    "Notes": null
+  },
+  {
+    "Rank": 29.0,
+    "Athlete": "Silvia Brunner",
+    "Country": "Switzerland",
+    "Time": "1:31.79",
+    "Notes": null
+  },
+  {
+    "Rank": 30.0,
+    "Athlete": "Lee Seong-Ae",
+    "Country": "South Korea",
+    "Time": "1:32.04",
+    "Notes": null
+  },
+  {
+    "Rank": 31.0,
+    "Athlete": "Zhang Li",
+    "Country": "China",
+    "Time": "1:32.20",
+    "Notes": null
+  },
+  {
+    "Rank": 32.0,
+    "Athlete": "Shen Zhenshu",
+    "Country": "China",
+    "Time": "1:32.49",
+    "Notes": null
+  },
+  {
+    "Rank": 33.0,
+    "Athlete": "Brigitte Flierl",
+    "Country": "West Germany",
+    "Time": "1:33.61",
+    "Notes": null
+  },
+  {
+    "Rank": 34.0,
+    "Athlete": "Kim Yeong-Hui",
+    "Country": "South Korea",
+    "Time": "1:34.17",
+    "Notes": null
+  },
+  {
+    "Rank": 35.0,
+    "Athlete": "Kim Ferran",
+    "Country": "Great Britain",
+    "Time": "1:34.19",
+    "Notes": null
+  },
+  {
+    "Rank": 36.0,
+    "Athlete": "Marzia Peretti",
+    "Country": "@@@_None",
+    "Time": "1:35.66",
+    "Notes": null
+  },
+  {
+    "Rank": 37.0,
+    "Athlete": "Mandy Horsepool",
+    "Country": "Great Britain",
+    "Time": "1:36.31",
+    "Notes": null
+  }
+]

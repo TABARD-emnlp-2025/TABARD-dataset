@@ -1,0 +1,51 @@
+[
+    {
+        "Location":"No",
+        "Town":"No",
+        "Output (MW AC)":"No",
+        "Modules":"No",
+        "Number of arrays":"No"
+    },
+    {
+        "Location":"No",
+        "Town":"No",
+        "Output (MW AC)":"No",
+        "Modules":"No",
+        "Number of arrays":"No"
+    },
+    {
+        "Location":"No",
+        "Town":"No",
+        "Output (MW AC)":"No",
+        "Modules":"No",
+        "Number of arrays":"No"
+    },
+    {
+        "Location":"No",
+        "Town":"No",
+        "Output (MW AC)":"No",
+        "Modules":"No",
+        "Number of arrays":"No"
+    },
+    {
+        "Location":"Yes",
+        "Town":"No",
+        "Output (MW AC)":"Yes",
+        "Modules":"No",
+        "Number of arrays":"Yes"
+    },
+    {
+        "Location":"No",
+        "Town":"No",
+        "Output (MW AC)":"No",
+        "Modules":"Yes",
+        "Number of arrays":"No"
+    },
+    {
+        "Location":"No",
+        "Town":"No",
+        "Output (MW AC)":"Yes",
+        "Modules":"No",
+        "Number of arrays":"No"
+    }
+]

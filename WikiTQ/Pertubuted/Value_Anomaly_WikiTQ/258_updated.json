@@ -1,0 +1,135 @@
+[
+  {
+    "Location": "Beach",
+    "Frequency": "@@@_2075.9647451244",
+    "Call sign": "K220FI (KDPR)",
+    "Network": "News and Classical",
+    "Call sign meaning": null
+  },
+  {
+    "Location": "Bismarck",
+    "Frequency": 90.5,
+    "Call sign": "KCND",
+    "Network": "News and Classical",
+    "Call sign meaning": "Capital of North Dakota"
+  },
+  {
+    "Location": "Bowman",
+    "Frequency": 91.9,
+    "Call sign": "K220FJ (KDPR)",
+    "Network": "News and Classical",
+    "Call sign meaning": null
+  },
+  {
+    "Location": "Crosby",
+    "Frequency": 91.9,
+    "Call sign": "K220FF (KPPW)",
+    "Network": "News and Classical",
+    "Call sign meaning": null
+  },
+  {
+    "Location": "Devils Lake",
+    "Frequency": 91.7,
+    "Call sign": "KPPD",
+    "Network": "News and Classical",
+    "Call sign meaning": "Prairie Public Radio Devils Lake"
+  },
+  {
+    "Location": "Dickinson",
+    "Frequency": 89.9,
+    "Call sign": "KDPR",
+    "Network": "News and Classical",
+    "Call sign meaning": "Dickinson Public Radio"
+  },
+  {
+    "Location": "Fargo",
+    "Frequency": "@@@_1328.6271686457",
+    "Call sign": "KDSU",
+    "Network": "Mixed News and Classical & Roots, Rock, and Jazz",
+    "Call sign meaning": "North Dakota State University"
+  },
+  {
+    "Location": "Grand Forks",
+    "Frequency": 89.3,
+    "Call sign": "KUND-FM",
+    "Network": "News and Classical",
+    "Call sign meaning": "University of North Dakota"
+  },
+  {
+    "Location": "Grand Forks",
+    "Frequency": "@@@_-156.4224825603",
+    "Call sign": "KFJM",
+    "Network": "Roots, Rock, and Jazz",
+    "Call sign meaning": "Folk and Jazz Music"
+  },
+  {
+    "Location": "Jamestown",
+    "Frequency": 91.5,
+    "Call sign": "KPRJ",
+    "Network": "News and Classical",
+    "Call sign meaning": "Public Radio Jamestown"
+  },
+  {
+    "Location": "Hettinger",
+    "Frequency": 91.9,
+    "Call sign": "K220FG (KDPR)",
+    "Network": "News and Classical",
+    "Call sign meaning": null
+  },
+  {
+    "Location": "Lisbon",
+    "Frequency": "@@@_None",
+    "Call sign": "K252EZ (KDSU)",
+    "Network": "Mixed News and Classical & Roots, Rock, and Jazz",
+    "Call sign meaning": null
+  },
+  {
+    "Location": "Minot",
+    "Frequency": 88.9,
+    "Call sign": "KMPR",
+    "Network": "News and Classical",
+    "Call sign meaning": "Minot Public Radio"
+  },
+  {
+    "Location": "Plentywood, MT",
+    "Frequency": 91.9,
+    "Call sign": "K220FE (KPPW)",
+    "Network": "News and Classical",
+    "Call sign meaning": null
+  },
+  {
+    "Location": "Thief River Falls, MN",
+    "Frequency": 88.3,
+    "Call sign": "K202BK (KUND-FM)",
+    "Network": "News and Classical",
+    "Call sign meaning": null
+  },
+  {
+    "Location": "Tioga",
+    "Frequency": 91.9,
+    "Call sign": "K220FH (KPPW)",
+    "Network": "News and Classical",
+    "Call sign meaning": null
+  },
+  {
+    "Location": "Wahpeton",
+    "Frequency": 94.7,
+    "Call sign": "K234BX (KDSU)",
+    "Network": "Mixed News and Classical & Roots, Rock, and Jazz",
+    "Call sign meaning": null
+  },
+  {
+    "Location": "Williston",
+    "Frequency": 89.5,
+    "Call sign": "KPPR",
+    "Network": "Roots, Rock, and Jazz",
+    "Call sign meaning": "Prairie Public Radio"
+  },
+  {
+    "Location": "Williston",
+    "Frequency": "@@@_-247.8404963795",
+    "Call sign": "KPPW",
+    "Network": "News and Classical",
+    "Call sign meaning": "Prairie Public Williston"
+  }
+]

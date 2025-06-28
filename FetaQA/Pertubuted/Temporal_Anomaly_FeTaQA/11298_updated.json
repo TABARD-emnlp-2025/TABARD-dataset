@@ -1,0 +1,30 @@
+[
+    {
+        "Year":2009,
+        "Competition":"Istanbul Marathon",
+        "Venue":"Istanbul, Turkey",
+        "Position":"2nd",
+        "Notes":"Marathon"
+    },
+    {
+        "Year":2010,
+        "Competition":"Istanbul Marathon",
+        "Venue":"Istanbul, Turkey",
+        "Position":"1st",
+        "Notes":"Marathon"
+    },
+    {
+        "Year":2011,
+        "Competition":"Istanbul Marathon",
+        "Venue":"Istanbul, Turkey",
+        "Position":"4th",
+        "Notes":"Marathon"
+    },
+    {
+        "Year":"@@@_2008",
+        "Competition":"Xiamen International Marathon",
+        "Venue":"Xiamen, China",
+        "Position":"1st",
+        "Notes":"Marathon"
+    }
+]

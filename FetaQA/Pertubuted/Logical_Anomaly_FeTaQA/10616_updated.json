@@ -1,0 +1,44 @@
+[
+    {
+        "Call sign":"W250CF",
+        "Frequency (MHz)":"97.9 FM",
+        "City of license":"Arecibo, Puerto Rico",
+        "ERP W":0.23,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W256DX",
+        "Frequency (MHz)":"99.1 FM",
+        "City of license":"Aguadilla, Puerto Rico",
+        "ERP W":0.041,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W299ZZ",
+        "Frequency (MHz)":"310.5 FM",
+        "City of license":"San Juan, Puerto Rico",
+        "ERP W":0.5,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W123XY",
+        "Frequency (MHz)":"101.5 FM",
+        "City of license":"Ponce, Puerto Rico",
+        "ERP W":1000000.0,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W987AB",
+        "Frequency (MHz)":"103.2 FM",
+        "City of license":"Caguas, Puerto Rico",
+        "ERP W":-0.1,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W654XY",
+        "Frequency (MHz)":"106.7 FM",
+        "City of license":"Mayaguez, Puerto Rico",
+        "ERP W":0.05,
+        "FCC info":"FCC defunct"
+    }
+]

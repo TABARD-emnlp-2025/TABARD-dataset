@@ -1,0 +1,38 @@
+[
+    {
+        "Year":2000.0,
+        "Category":"Actress in a Play",
+        "Nominated work":"The Real Thing",
+        "Result":"Won"
+    },
+    {
+        "Year":2007.0,
+        "Category":"@@@_Featured Actress in a play",
+        "Nominated work":"The Coast of Utopia",
+        "Result":"@@@_won"
+    },
+    {
+        "Year":2017.0,
+        "Category":"@@@_Actress in a play",
+        "Nominated work":"Oslo",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2007.0,
+        "Category":"featured actress in a play",
+        "Nominated work":"The Coast of Utopia",
+        "Result":"Nominated"
+    },
+    {
+        "Year":null,
+        "Category":"Actress in a play",
+        "Nominated work":"Oslo",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2017.0,
+        "Category":"Actress in a Play",
+        "Nominated work":null,
+        "Result":"Nominated"
+    }
+]

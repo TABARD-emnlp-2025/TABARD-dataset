@@ -1,0 +1,51 @@
+[
+  {
+    "Network name": "Canal de las Estrellas",
+    "Flagship": "XEW 2",
+    "Programming type": "soap operas, retro movies and sports",
+    "Owner": "Televisa",
+    "Affiliates": 10
+  },
+  {
+    "Network name": "Canal 5",
+    "Flagship": "XHGC 5",
+    "Programming type": "cartoons, movies, and series",
+    "Owner": "Televisa",
+    "Affiliates": 4
+  },
+  {
+    "Network name": "Azteca 7",
+    "Flagship": "@@@_None",
+    "Programming type": "@@@_None",
+    "Owner": "TV Azteca",
+    "Affiliates": 5
+  },
+  {
+    "Network name": "Galavisión",
+    "Flagship": "XEQ 9",
+    "Programming type": "retro programming and sports",
+    "Owner": "Televisa",
+    "Affiliates": 1
+  },
+  {
+    "Network name": "TV 10 Chiapas",
+    "Flagship": "XHTTG",
+    "Programming type": "educational",
+    "Owner": "Gobierno del Estado de Chiapas",
+    "Affiliates": "@@@_77"
+  },
+  {
+    "Network name": "Azteca 13",
+    "Flagship": "XHDF 13",
+    "Programming type": "@@@_None",
+    "Owner": "TV Azteca",
+    "Affiliates": 4
+  },
+  {
+    "Network name": "Independent",
+    "Flagship": null,
+    "Programming type": "varies",
+    "Owner": "Independent",
+    "Affiliates": "@@@_292"
+  }
+]

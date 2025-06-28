@@ -1,0 +1,50 @@
+[
+    {
+        "Year":2010,
+        "Competition":"World Half Marathon Championships",
+        "Venue":"Nanning, China",
+        "Position":"29th",
+        "Event":"Half marathon",
+        "Notes":"1:14:56"
+    },
+    {
+        "Year":2011,
+        "Competition":"Asian Marathon Championships",
+        "Venue":"Pattaya, Thailand",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:44:10"
+    },
+    {
+        "Year":2025,
+        "Competition":"Olympic Games",
+        "Venue":"Atlantis, Ocean",
+        "Position":"1st",
+        "Event":"100m Dash",
+        "Notes":"9.58 seconds"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Championships",
+        "Venue":"Greenland, Denmark",
+        "Position":"3rd",
+        "Event":"Ice Marathon",
+        "Notes":"-40°C"
+    },
+    {
+        "Year":2011,
+        "Competition":"Galactic Marathon",
+        "Venue":"Mars, Solar System",
+        "Position":"7th",
+        "Event":"Martian Marathon",
+        "Notes":"3:30:00"
+    },
+    {
+        "Year":2015,
+        "Competition":"World Marathon",
+        "Venue":"Sydney, Australia",
+        "Position":"5th",
+        "Event":"Marathon",
+        "Notes":"-20°C"
+    }
+]

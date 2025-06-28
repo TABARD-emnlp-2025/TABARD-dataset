@@ -1,0 +1,44 @@
+[
+    {
+        "Year":1994,
+        "Competition":"Commonwealth Games",
+        "Venue":"Victoria, Canada",
+        "Position":"6th",
+        "Notes":"400 m h"
+    },
+    {
+        "Year":1995,
+        "Competition":"World Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"6th",
+        "Notes":"400 m h"
+    },
+    {
+        "Year":"1999",
+        "Competition":"World Championships",
+        "Venue":"Athens, Greece",
+        "Position":"7th",
+        "Notes":"4x400 m relay"
+    },
+    {
+        "Year":1998,
+        "Competition":"Commonwealth Games",
+        "Venue":"Kuala Lumpur, Malaysia",
+        "Position":"3rd",
+        "Notes":"400 m h"
+    },
+    {
+        "Year":"1997",
+        "Competition":"African Championships",
+        "Venue":"Dakar, Senegal",
+        "Position":"2nd",
+        "Notes":"400 m h"
+    },
+    {
+        "Year":"2001",
+        "Competition":"All-Africa Games",
+        "Venue":"Johannesburg, South Africa",
+        "Position":"2nd",
+        "Notes":"400 m h"
+    }
+]

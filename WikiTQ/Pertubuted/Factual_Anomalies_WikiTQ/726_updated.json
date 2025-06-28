@@ -1,0 +1,194 @@
+[
+    {
+        "Rank":1,
+        "Athlete":"Sven Kramer",
+        "Country":"Netherlands",
+        "Time":"1:53.98 TR",
+        "Behind":0.0,
+        "Points":37.993
+    },
+    {
+        "Rank":2,
+        "Athlete":"Sverre Lunde Pedersen",
+        "Country":"Norway",
+        "Time":"1:54.87",
+        "Behind":0.89,
+        "Points":38.29
+    },
+    {
+        "Rank":3,
+        "Athlete":"Jan Blokhuijsen",
+        "Country":"Netherlands",
+        "Time":"1:54.93",
+        "Behind":0.95,
+        "Points":38.31
+    },
+    {
+        "Rank":4,
+        "Athlete":"Denis Yuskov",
+        "Country":"Russia",
+        "Time":"1:55.13",
+        "Behind":1.15,
+        "Points":38.376
+    },
+    {
+        "Rank":5,
+        "Athlete":"Koen Verweij",
+        "Country":"Netherlands",
+        "Time":"1:55.42",
+        "Behind":1.44,
+        "Points":38.473
+    },
+    {
+        "Rank":6,
+        "Athlete":"Haralds Silovs",
+        "Country":"Latvia",
+        "Time":"1:55.48",
+        "Behind":1.5,
+        "Points":38.493
+    },
+    {
+        "Rank":7,
+        "Athlete":"Zbigniew Br\u00f3dka",
+        "Country":"Poland",
+        "Time":"1:55.98",
+        "Behind":2.0,
+        "Points":38.66
+    },
+    {
+        "Rank":8,
+        "Athlete":"Bart Swings",
+        "Country":"Belgium",
+        "Time":"1:56.08",
+        "Behind":2.1,
+        "Points":38.693
+    },
+    {
+        "Rank":9,
+        "Athlete":"H\u00e5vard B\u00f8kko",
+        "Country":"Norway",
+        "Time":"1:56.35",
+        "Behind":2.37,
+        "Points":38.783
+    },
+    {
+        "Rank":10,
+        "Athlete":"Jan Szyma\u0144ski",
+        "Country":"Poland",
+        "Time":"1:56.55",
+        "Behind":2.57,
+        "Points":38.85
+    },
+    {
+        "Rank":11,
+        "Athlete":"Bram Smallenbroek",
+        "Country":"Austria",
+        "Time":"1:57.44",
+        "Behind":3.46,
+        "Points":39.146
+    },
+    {
+        "Rank":12,
+        "Athlete":"Alexis Contin",
+        "Country":"France",
+        "Time":"1:57.58",
+        "Behind":3.6,
+        "Points":39.193
+    },
+    {
+        "Rank":13,
+        "Athlete":"Benjamin Mac\u00e9",
+        "Country":"France",
+        "Time":"1:57.80",
+        "Behind":3.82,
+        "Points":39.266
+    },
+    {
+        "Rank":14,
+        "Athlete":"Konrad Nied\u017awiedzki",
+        "Country":"Poland",
+        "Time":"1:57.92",
+        "Behind":3.94,
+        "Points":39.306
+    },
+    {
+        "Rank":15,
+        "Athlete":"Sergey Gryaztsov",
+        "Country":"Russia",
+        "Time":"1:58.73",
+        "Behind":4.75,
+        "Points":39.576
+    },
+    {
+        "Rank":16,
+        "Athlete":"Patrick Beckert",
+        "Country":"Germany",
+        "Time":"1:59.08",
+        "Behind":5.1,
+        "Points":39.693
+    },
+    {
+        "Rank":17,
+        "Athlete":"Kristian Reistad Fredriksen",
+        "Country":"Norway",
+        "Time":"1:59.19",
+        "Behind":5.21,
+        "Points":39.73
+    },
+    {
+        "Rank":18,
+        "Athlete":"Luca Stefani",
+        "Country":"Italy",
+        "Time":"1:59.82",
+        "Behind":5.84,
+        "Points":39.94
+    },
+    {
+        "Rank":19,
+        "Athlete":"Marco Cignini",
+        "Country":"Italy",
+        "Time":"1:59.97",
+        "Behind":5.99,
+        "Points":39.99
+    },
+    {
+        "Rank":20,
+        "Athlete":"Ferre Spruyt",
+        "Country":"Belgium",
+        "Time":"2:00.00",
+        "Behind":6.02,
+        "Points":40.0
+    },
+    {
+        "Rank":21,
+        "Athlete":"Vitaly Mikhailov",
+        "Country":"Belarus",
+        "Time":"2:00.75",
+        "Behind":6.77,
+        "Points":40.52
+    },
+    {
+        "Rank":22,
+        "Athlete":"Milan S\u00e1bl\u00edk",
+        "Country":"Czech Republic",
+        "Time":"2:00.95",
+        "Behind":6.97,
+        "Points":40.316
+    },
+    {
+        "Rank":23,
+        "Athlete":"Ted Jan Bloemen",
+        "Country":"Netherlands",
+        "Time":"@@@_9:58.00",
+        "Behind":7.6,
+        "Points":40.526
+    },
+    {
+        "Rank":24,
+        "Athlete":"Moritz Geisreiter",
+        "Country":"Germany",
+        "Time":"2:01.64",
+        "Behind":"@@@_-5.0",
+        "Points":40.566
+    }
+]

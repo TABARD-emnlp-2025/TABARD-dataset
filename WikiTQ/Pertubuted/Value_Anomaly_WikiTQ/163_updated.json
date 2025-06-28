@@ -1,0 +1,65 @@
+[
+  {
+    "AIRLINE": "Air Uganda",
+    "ICAO": "UGA",
+    "IATA": "U7",
+    "CALLSIGN": "UGANDA",
+    "COMMENCED\nOPERATIONS": 2007.0
+  },
+  {
+    "AIRLINE": "Eagle Air (Uganda)",
+    "ICAO": "EGU",
+    "IATA": "H7",
+    "CALLSIGN": "AFRICAN EAGLE",
+    "COMMENCED\nOPERATIONS": "@@@_38828.1010250347"
+  },
+  {
+    "AIRLINE": "Fly540 Uganda",
+    "ICAO": "FUL",
+    "IATA": null,
+    "CALLSIGN": "ORANGE CRANE",
+    "COMMENCED\nOPERATIONS": 2008.0
+  },
+  {
+    "AIRLINE": "Pearl Air Services",
+    "ICAO": "PBY",
+    "IATA": null,
+    "CALLSIGN": "PEARL SERVICES",
+    "COMMENCED\nOPERATIONS": "@@@_109759.04617484"
+  },
+  {
+    "AIRLINE": "Royal Daisy Airlines",
+    "ICAO": "KDR",
+    "IATA": "6D",
+    "CALLSIGN": "DARLINES",
+    "COMMENCED\nOPERATIONS": 2005.0
+  },
+  {
+    "AIRLINE": "Skyjet Airlines",
+    "ICAO": "SJU",
+    "IATA": "UQ",
+    "CALLSIGN": "SKYJET",
+    "COMMENCED\nOPERATIONS": 2003.0
+  },
+  {
+    "AIRLINE": "Africa Safari Air",
+    "ICAO": "ASA",
+    "IATA": "AS",
+    "CALLSIGN": "ASA",
+    "COMMENCED\nOPERATIONS": 2013.0
+  },
+  {
+    "AIRLINE": "Uganda Air Cargo",
+    "ICAO": "UCC",
+    "IATA": null,
+    "CALLSIGN": "UGANDA CARGO",
+    "COMMENCED\nOPERATIONS": 1994.0
+  },
+  {
+    "AIRLINE": "United Airlines Limited",
+    "ICAO": "@@@_None",
+    "IATA": null,
+    "CALLSIGN": "@@@_None",
+    "COMMENCED\nOPERATIONS": null
+  }
+]

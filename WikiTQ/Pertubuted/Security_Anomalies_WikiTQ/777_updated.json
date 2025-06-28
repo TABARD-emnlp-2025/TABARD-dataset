@@ -1,0 +1,72 @@
+[
+    {
+        "Year":2013,
+        "Winner":"Rower-Inistioge 1-09",
+        "County":"Kilkenny",
+        "Opponent":"Buffers Alley 0-10",
+        "County.1":"Wexford"
+    },
+    {
+        "Year":2012,
+        "Winner":"Clara 3-20",
+        "County":"Kilkenny",
+        "Opponent":"Oylegate\/Glenbrien 0-05",
+        "County.1":"@@@_None"
+    },
+    {
+        "Year":2011,
+        "Winner":"Mount Leinster Rangers 1-13",
+        "County":"Carlow",
+        "Opponent":"Celbridge 0-13",
+        "County.1":"Kildare"
+    },
+    {
+        "Year":2010,
+        "Winner":"Dicksboro 5-09",
+        "County":"Kilkenny",
+        "Opponent":"Celbridge 0-08",
+        "County.1":"Kildare"
+    },
+    {
+        "Year":2009,
+        "Winner":"St. Lachtains 1-08",
+        "County":"Kilkenny",
+        "Opponent":"Mount Leinster Rangers 0-07",
+        "County.1":"Carlow"
+    },
+    {
+        "Year":2008,
+        "Winner":"Kilmessan 1-07",
+        "County":"Meath",
+        "Opponent":"Erin's Own 1-06",
+        "County.1":"Kilkenny"
+    },
+    {
+        "Year":2007,
+        "Winner":"Clonkill 1-15",
+        "County":"Westmeath",
+        "Opponent":"Ferns St. Aiden's 3-07",
+        "County.1":"Wexford"
+    },
+    {
+        "Year":2006,
+        "Winner":"Ardclough 2-06",
+        "County":"Kildare",
+        "Opponent":"Raharney 2-04",
+        "County.1":"Westmeath"
+    },
+    {
+        "Year":2005,
+        "Winner":"Dicksboro 0-20",
+        "County":"Kilkenny",
+        "Opponent":"Marshalstown 0-03",
+        "County.1":"Wexford"
+    },
+    {
+        "Year":2004,
+        "Winner":"Carrickshock",
+        "County":"Kilkenny",
+        "Opponent":"St. Patrick's",
+        "County.1":"Wexford"
+    }
+]

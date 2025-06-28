@@ -1,0 +1,298 @@
+[
+  {
+    "Plant Name": "Qatargas II",
+    "Location": "Ras Laffan",
+    "Country": "Qatar",
+    "Startup Date": 2009,
+    "Capacity (mmtpa)": "7.8",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Arzew GL4Z",
+    "Location": "@@@_None",
+    "Country": "Algeria",
+    "Startup Date": 1964,
+    "Capacity (mmtpa)": "0.90",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Arzew GL1Z",
+    "Location": null,
+    "Country": "Algeria",
+    "Startup Date": 1978,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Arzew GL1Z",
+    "Location": null,
+    "Country": "Algeria",
+    "Startup Date": 1997,
+    "Capacity (mmtpa)": "7.9",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Skikda GL1K",
+    "Location": null,
+    "Country": "Algeria",
+    "Startup Date": 1972,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Skikda GL1K",
+    "Location": null,
+    "Country": "Algeria",
+    "Startup Date": 1981,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Skikda GL1K",
+    "Location": null,
+    "Country": "Algeria",
+    "Startup Date": 1999,
+    "Capacity (mmtpa)": "6.0",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Angola LNG",
+    "Location": "Soyo",
+    "Country": "Angola",
+    "Startup Date": 2013,
+    "Capacity (mmtpa)": "@@@_None",
+    "Corporation": "Chevron"
+  },
+  {
+    "Plant Name": "Lumut 1",
+    "Location": null,
+    "Country": "Brunei",
+    "Startup Date": 1972,
+    "Capacity (mmtpa)": "7.2",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Badak A-B",
+    "Location": "Bontang",
+    "Country": "Indonesia",
+    "Startup Date": 1977,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Badak A-D",
+    "Location": "Bontang",
+    "Country": "Indonesia",
+    "Startup Date": 1986,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Badak A-E",
+    "Location": "Bontang",
+    "Country": "Indonesia",
+    "Startup Date": 1989,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Badak A-F",
+    "Location": "Bontang",
+    "Country": "Indonesia",
+    "Startup Date": 1993,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Badak A-G",
+    "Location": "Bontang",
+    "Country": "Indonesia",
+    "Startup Date": 1998,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Badak NGL A-H",
+    "Location": "Bontang",
+    "Country": "Indonesia",
+    "Startup Date": 1999,
+    "Capacity (mmtpa)": "22.6",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Atlantic LNG",
+    "Location": "Point Fortin",
+    "Country": "Trinidad and Tobago",
+    "Startup Date": 1999,
+    "Capacity (mmtpa)": null,
+    "Corporation": "Atlantic LNG"
+  },
+  {
+    "Plant Name": "[Atlantic LNG]",
+    "Location": "[Point Fortin]",
+    "Country": "Trinidad and Tobago",
+    "Startup Date": 2003,
+    "Capacity (mmtpa)": "9.9",
+    "Corporation": "Atlantic LNG"
+  },
+  {
+    "Plant Name": null,
+    "Location": "Damietta",
+    "Country": "Egypt",
+    "Startup Date": 2004,
+    "Capacity (mmtpa)": "5.5",
+    "Corporation": "Segas LNG"
+  },
+  {
+    "Plant Name": null,
+    "Location": "Idku",
+    "Country": "Egypt",
+    "Startup Date": "@@@_-1781",
+    "Capacity (mmtpa)": "7.2",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Bintulu MLNG 1",
+    "Location": null,
+    "Country": "Malaysia",
+    "Startup Date": 1983,
+    "Capacity (mmtpa)": "7.6",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Bintulu MLNG 2",
+    "Location": null,
+    "Country": "Malaysia",
+    "Startup Date": 1994,
+    "Capacity (mmtpa)": "7.8",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Bintulu MLNG 3",
+    "Location": null,
+    "Country": "Malaysia",
+    "Startup Date": 2003,
+    "Capacity (mmtpa)": "3.4",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Nigeria LNG",
+    "Location": null,
+    "Country": "Nigeria",
+    "Startup Date": "@@@_-1995",
+    "Capacity (mmtpa)": "23.5",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Northwest Shelf Venture",
+    "Location": "Karratha",
+    "Country": "Australia",
+    "Startup Date": 2009,
+    "Capacity (mmtpa)": "16.3",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Withnell Bay",
+    "Location": "Karratha",
+    "Country": "Australia",
+    "Startup Date": 1989,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Withnell Bay",
+    "Location": "Karratha",
+    "Country": "Australia",
+    "Startup Date": 1995,
+    "Capacity (mmtpa)": "(7.7)",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Sakhalin II",
+    "Location": null,
+    "Country": "Russia",
+    "Startup Date": 2009,
+    "Capacity (mmtpa)": "9.6.",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Yemen LNG",
+    "Location": "Balhaf",
+    "Country": "Yemen",
+    "Startup Date": 2008,
+    "Capacity (mmtpa)": "6.7",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Tangguh LNG Project",
+    "Location": "Papua Barat",
+    "Country": "Indonesia",
+    "Startup Date": 2009,
+    "Capacity (mmtpa)": "7.6",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Qatargas I",
+    "Location": "Ras Laffan",
+    "Country": "Qatar",
+    "Startup Date": 1996,
+    "Capacity (mmtpa)": "(4.0)",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Qatargas I",
+    "Location": "Ras Laffan",
+    "Country": "Qatar",
+    "Startup Date": 2005,
+    "Capacity (mmtpa)": "10.0",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Qatargas III",
+    "Location": null,
+    "Country": "Qatar",
+    "Startup Date": "@@@_-1887",
+    "Capacity (mmtpa)": "7.8",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Rasgas I, II and III",
+    "Location": "Ras Laffan",
+    "Country": "Qatar",
+    "Startup Date": 1999,
+    "Capacity (mmtpa)": "36.3",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Qalhat",
+    "Location": null,
+    "Country": "Oman",
+    "Startup Date": 2000,
+    "Capacity (mmtpa)": "7.3",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Das Island I",
+    "Location": null,
+    "Country": "United Arab Emirates",
+    "Startup Date": 1977,
+    "Capacity (mmtpa)": null,
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Das Island I and II",
+    "Location": null,
+    "Country": "United Arab Emirates",
+    "Startup Date": 1994,
+    "Capacity (mmtpa)": "5.7",
+    "Corporation": null
+  },
+  {
+    "Plant Name": "Melkøya",
+    "Location": "Hammerfest",
+    "Country": "Norway",
+    "Startup Date": 2007,
+    "Capacity (mmtpa)": "4.2",
+    "Corporation": "Statoil"
+  }
+]

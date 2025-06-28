@@ -1,0 +1,263 @@
+[
+  {
+    "Serial number": "@@@_314.1445015109",
+    "River": "Bharathapuzha",
+    "Name": "Malampuzha",
+    "Area (km²)": 23.13,
+    "District": "Palakkad",
+    "Co-ordinate": "10°50′N 76°41′E﻿ / ﻿10.84°N 76.69°E",
+    "Altitude (m)": 104.0
+  },
+  {
+    "Serial number": 2.0,
+    "River": "Bharathapuzha",
+    "Name": "Mangalam",
+    "Area (km²)": 3.93,
+    "District": "Palakkad",
+    "Co-ordinate": "10°31′N 76°32′E﻿ / ﻿10.51°N 76.54°E",
+    "Altitude (m)": 72.0
+  },
+  {
+    "Serial number": 3.0,
+    "River": "Bharathapuzha",
+    "Name": "Meenkara",
+    "Area (km²)": 2.59,
+    "District": "Palakkad",
+    "Co-ordinate": "10°37′N 76°48′E﻿ / ﻿10.62°N 76.80°E",
+    "Altitude (m)": 152.0
+  },
+  {
+    "Serial number": 4.0,
+    "River": "Bharathapuzha",
+    "Name": "Chulliar",
+    "Area (km²)": 1.59,
+    "District": "Palakkad",
+    "Co-ordinate": "10°35′N 76°46′E﻿ / ﻿10.59°N 76.77°E",
+    "Altitude (m)": 143.0
+  },
+  {
+    "Serial number": 5.0,
+    "River": "Bharathapuzha",
+    "Name": "Pothundi",
+    "Area (km²)": 3.63,
+    "District": "Palakkad",
+    "Co-ordinate": "10°32′N 76°38′E﻿ / ﻿10.54°N 76.63°E",
+    "Altitude (m)": 93.0
+  },
+  {
+    "Serial number": 6.0,
+    "River": "Bharathapuzha",
+    "Name": "Walayar",
+    "Area (km²)": 2.59,
+    "District": "Palakkad",
+    "Co-ordinate": "10°50′N 76°52′E﻿ / ﻿10.84°N 76.86°E",
+    "Altitude (m)": 197.0
+  },
+  {
+    "Serial number": 7.0,
+    "River": "Bharathapuzha",
+    "Name": "Kanjirampuzha",
+    "Area (km²)": 5.12,
+    "District": "Palakkad",
+    "Co-ordinate": "10°59′N 76°33′E﻿ / ﻿10.98°N 76.55°E",
+    "Altitude (m)": 90.0
+  },
+  {
+    "Serial number": 8.0,
+    "River": "Chalakkudy",
+    "Name": "Parambikulam",
+    "Area (km²)": 20.92,
+    "District": "Palakkad",
+    "Co-ordinate": "10°23′N 76°48′E﻿ / ﻿10.39°N 76.8°E",
+    "Altitude (m)": 545.0
+  },
+  {
+    "Serial number": 9.0,
+    "River": "Chalakkudy",
+    "Name": "Thunakkadavu",
+    "Area (km²)": 2.83,
+    "District": "Palakkad",
+    "Co-ordinate": "10°25′59″N 76°47′02″E﻿ / ﻿10.433°N 76.784°E",
+    "Altitude (m)": 565.0
+  },
+  {
+    "Serial number": 10.0,
+    "River": "Chalakkudy",
+    "Name": "Peruvaaripallam",
+    "Area (km²)": null,
+    "District": "Palakkad",
+    "Co-ordinate": "10°26′49″N 76°46′12″E﻿ / ﻿10.447°N 76.77°E",
+    "Altitude (m)": 565.0
+  },
+  {
+    "Serial number": 11.0,
+    "River": "Chalakkudy",
+    "Name": "Sholayar Dam",
+    "Area (km²)": 8.7,
+    "District": "Thrissur",
+    "Co-ordinate": "10° 17' 76° 45'",
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 12.0,
+    "River": "Chalakkudy",
+    "Name": "Peringalkuthu Dam",
+    "Area (km²)": 2.63,
+    "District": "Thrissur",
+    "Co-ordinate": null,
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 15.0,
+    "River": "Karuvanoor",
+    "Name": "Peechi",
+    "Area (km²)": 12.63,
+    "District": "Thrissur",
+    "Co-ordinate": "10°32′N 76°23′E﻿ / ﻿10.53°N 76.39°E",
+    "Altitude (m)": 73.0
+  },
+  {
+    "Serial number": 16.0,
+    "River": "Keecheri",
+    "Name": "Vazhani",
+    "Area (km²)": 2.55,
+    "District": "Thrissur",
+    "Co-ordinate": "10° 40' 76° 15'",
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 19.0,
+    "River": "Pamba",
+    "Name": "Pamba",
+    "Area (km²)": 5.7,
+    "District": "Pathanamthitta",
+    "Co-ordinate": "09° 20' 76° 53'",
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 20.0,
+    "River": "Pamba",
+    "Name": "Kakki",
+    "Area (km²)": 18.0,
+    "District": "Pathanamthitta",
+    "Co-ordinate": null,
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 21.0,
+    "River": "Periyar",
+    "Name": "Idukki",
+    "Area (km²)": 61.6,
+    "District": "Idukki",
+    "Co-ordinate": "09° 48' 76° 53'",
+    "Altitude (m)": 720.0
+  },
+  {
+    "Serial number": 22.0,
+    "River": "Periyar",
+    "Name": "Ponmudi",
+    "Area (km²)": 2.6,
+    "District": "Idukki",
+    "Co-ordinate": "09° 55' 77° 05'",
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 23.0,
+    "River": "Periyar",
+    "Name": "Anayirankal",
+    "Area (km²)": 4.33,
+    "District": "Idukki",
+    "Co-ordinate": "10° 0' 77° 0'",
+    "Altitude (m)": "@@@_3326.8111173281"
+  },
+  {
+    "Serial number": "@@@_None",
+    "River": "Periyar",
+    "Name": "Kundala",
+    "Area (km²)": 2.3,
+    "District": "Idukki",
+    "Co-ordinate": "10° 0' 77° 0'",
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 25.0,
+    "River": "Periyar",
+    "Name": "Mattupatti",
+    "Area (km²)": 3.24,
+    "District": "Idukki",
+    "Co-ordinate": "10° 05' 77° 05'",
+    "Altitude (m)": "@@@_-511.2162397945"
+  },
+  {
+    "Serial number": 26.0,
+    "River": "Periyar",
+    "Name": "@@@_None",
+    "Area (km²)": 0.33,
+    "District": "Idukki",
+    "Co-ordinate": "10° 00' 77° 05'",
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 27.0,
+    "River": "Periyar",
+    "Name": "Neriamangalam",
+    "Area (km²)": 4.13,
+    "District": "Idukki",
+    "Co-ordinate": null,
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 28.0,
+    "River": "Periyar",
+    "Name": "Bhoothathankettu",
+    "Area (km²)": 6.08,
+    "District": "Idukki",
+    "Co-ordinate": null,
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 29.0,
+    "River": "Periyar",
+    "Name": "Periyar lake",
+    "Area (km²)": 28.9,
+    "District": "Idukki",
+    "Co-ordinate": "10° 10' 76° 15'",
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 30.0,
+    "River": "Valapattanam",
+    "Name": "Pazhassi",
+    "Area (km²)": 6.48,
+    "District": "Kannur",
+    "Co-ordinate": null,
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 31.0,
+    "River": "Vamanapuram",
+    "Name": "Peppara",
+    "Area (km²)": 5.82,
+    "District": "Thiruvananthapuram",
+    "Co-ordinate": null,
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 32.0,
+    "River": "Muvattupuzhayar",
+    "Name": "Malankara",
+    "Area (km²)": 11.0,
+    "District": "Idukki",
+    "Co-ordinate": null,
+    "Altitude (m)": null
+  },
+  {
+    "Serial number": 33.0,
+    "River": "Chimmini dam",
+    "Name": "Thrissur",
+    "Area (km²)": 85.067,
+    "District": "Thrissur",
+    "Co-ordinate": null,
+    "Altitude (m)": null
+  }
+]

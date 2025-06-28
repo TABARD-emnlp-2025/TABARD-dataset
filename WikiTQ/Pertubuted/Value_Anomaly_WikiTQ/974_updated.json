@@ -1,0 +1,110 @@
+[
+  {
+    "Season": "@@@_58722",
+    "Level": "Tier 2",
+    "Division": "Ykkönen (First Division)",
+    "Section": "South Group",
+    "Administration": "Finnish FA (Suomen Pallolitto)",
+    "Position": "9th",
+    "Movements": "Relegation Group - Relegated"
+  },
+  {
+    "Season": 2000,
+    "Level": "Tier 3",
+    "Division": "Kakkonen (Second Division)",
+    "Section": "South Group",
+    "Administration": "Finnish FA (Suomen Pallolitto)",
+    "Position": "2nd",
+    "Movements": "Play-Offs - Promoted"
+  },
+  {
+    "Season": 2001,
+    "Level": "Tier 2",
+    "Division": "Ykkönen (First Division)",
+    "Section": "South Group",
+    "Administration": "Finnish FA (Suomen Pallolitto)",
+    "Position": "9th",
+    "Movements": "Relegated"
+  },
+  {
+    "Season": 2002,
+    "Level": "Tier 3",
+    "Division": "Kakkonen (Second Division)",
+    "Section": "South Group",
+    "Administration": "Finnish FA (Suomen Pallolitto)",
+    "Position": "2nd",
+    "Movements": null
+  },
+  {
+    "Season": "@@@_-9099",
+    "Level": "Tier 3",
+    "Division": "Kakkonen (Second Division)",
+    "Section": "South Group",
+    "Administration": "Finnish FA (Suomen Pallolitto)",
+    "Position": "11th",
+    "Movements": "Relegated"
+  },
+  {
+    "Season": "@@@_34493",
+    "Level": "Tier 4",
+    "Division": "Kolmonen (Third Division)",
+    "Section": "Section 3",
+    "Administration": "Helsinki & Uusimaa (SPL Helsinki)",
+    "Position": "8th",
+    "Movements": null
+  },
+  {
+    "Season": 2005,
+    "Level": "Tier 4",
+    "Division": "Kolmonen (Third Division)",
+    "Section": "Section 3",
+    "Administration": "Helsinki & Uusimaa (SPL Helsinki)",
+    "Position": "6th",
+    "Movements": null
+  },
+  {
+    "Season": 2006,
+    "Level": "Tier 4",
+    "Division": "Kolmonen (Third Division)",
+    "Section": "Section 2",
+    "Administration": "Helsinki & Uusimaa (SPL Uusimaa)",
+    "Position": "7th",
+    "Movements": null
+  },
+  {
+    "Season": 2007,
+    "Level": "Tier 4",
+    "Division": "Kolmonen (Third Division)",
+    "Section": "Section 3",
+    "Administration": "Helsinki & Uusimaa (SPL Uusimaa)",
+    "Position": "2nd",
+    "Movements": null
+  },
+  {
+    "Season": 2008,
+    "Level": "Tier 4",
+    "Division": "Kolmonen (Third Division)",
+    "Section": "Section 3",
+    "Administration": "Helsinki & Uusimaa (SPL Helsinki)",
+    "Position": "2nd",
+    "Movements": null
+  },
+  {
+    "Season": 2009,
+    "Level": "Tier 4",
+    "Division": "Kolmonen (Third Division)",
+    "Section": "Section 2",
+    "Administration": "Helsinki & Uusimaa (SPL Helsinki)",
+    "Position": "1st",
+    "Movements": "Promoted"
+  },
+  {
+    "Season": 2010,
+    "Level": "Tier 3",
+    "Division": "Kakkonen (Second Division)",
+    "Section": "Group A",
+    "Administration": "Finnish FA (Suomen Pallolitto)",
+    "Position": "@@@_None",
+    "Movements": null
+  }
+]

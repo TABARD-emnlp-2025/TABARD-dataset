@@ -1,0 +1,50 @@
+[
+    {
+        "Year":1993,
+        "Title":"Quest for Glory: Shadows of Darkness",
+        "Role":"Narrator",
+        "Notes":"Voice"
+    },
+    {
+        "Year":1994,
+        "Title":"Wing Commander III: Heart of the Tiger",
+        "Role":"Gen. James 'Paladin' Taggart / Prince Thrakhath nar Kiranka",
+        "Notes":"Voice"
+    },
+    {
+        "Year":1996,
+        "Title":"Wing Commander IV: The Price of Freedom",
+        "Role":"Senator James 'Paladin' Taggart",
+        "Notes":"Voice"
+    },
+    {
+        "Year":1996,
+        "Title":"Ripper",
+        "Role":"Vigo Haman",
+        "Notes":"Actor"
+    },
+    {
+        "Year":1998,
+        "Title":"Dune 2000",
+        "Role":"Noree Moneo",
+        "Notes":"Actor"
+    },
+    {
+        "Year":2003,
+        "Title":"Freelancer",
+        "Role":"Richard Winston Tobias",
+        "Notes":"Voice"
+    },
+    {
+        "Year":2015,
+        "Title":"Lego Dimensions",
+        "Role":"Gimli",
+        "Notes":"Voice"
+    },
+    {
+        "Year":"2025",
+        "Title":"Star Citizen",
+        "Role":"Graves",
+        "Notes":"Voice"
+    }
+]

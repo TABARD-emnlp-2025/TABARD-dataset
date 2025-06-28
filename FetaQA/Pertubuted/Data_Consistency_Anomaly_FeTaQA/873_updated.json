@@ -1,0 +1,34 @@
+[
+    {
+        "Year":"@@@_2010",
+        "Competition":"World Half Marathon Championships",
+        "Venue":"Nanning, China",
+        "Position":"29th",
+        "Event":"Half marathon",
+        "Notes":"1:14:56"
+    },
+    {
+        "Year":2011,
+        "Competition":"Asian Marathon Championships",
+        "Venue":"Pattaya, Thailand",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"@@@_02:44:10"
+    },
+    {
+        "Year":"2011",
+        "Competition":"Asian Marathon Championships",
+        "Venue":"Pattaya, Thailand",
+        "Position":"1st",
+        "Event":"marathon",
+        "Notes":"2:44:10"
+    },
+    {
+        "Year":2011,
+        "Competition":"Asian Marathon Championships",
+        "Venue":"Pattaya, Thailand",
+        "Position":"first",
+        "Event":"Marathon",
+        "Notes":"2:44:10"
+    }
+]

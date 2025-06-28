@@ -1,0 +1,44 @@
+[
+    {
+        "Year":2013,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":30
+    },
+    {
+        "Year":2014,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":27
+    },
+    {
+        "Year":2015,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":"-5"
+    },
+    {
+        "Year":"2025",
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":"27"
+    },
+    {
+        "Year":2016,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":93
+    },
+    {
+        "Year":2016,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Daft Punk",
+        "Category":"Top 100 DJs",
+        "Result":"Infinity"
+    }
+]

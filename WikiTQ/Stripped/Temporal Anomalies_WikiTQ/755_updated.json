@@ -1,0 +1,114 @@
+[
+    {
+        "Week":1,
+        "Date":"September 3, 1978",
+        "Opponent":"at New Orleans Saints",
+        "Result":"L 31–24",
+        "Attendance":"54,187"
+    },
+    {
+        "Week":2,
+        "Date":"September 11, 1978",
+        "Opponent":"Denver Broncos",
+        "Result":"W 12–9",
+        "Attendance":"46,508"
+    },
+    {
+        "Week":3,
+        "Date":"September 17, 1978",
+        "Opponent":"Tampa Bay Buccaneers",
+        "Result":"L 16–10",
+        "Attendance":"46,152"
+    },
+    {
+        "Week":4,
+        "Date":"September 25, 1978",
+        "Opponent":"at Chicago Bears",
+        "Result":"W 24–20",
+        "Attendance":"53,551"
+    },
+    {
+        "Week":5,
+        "Date":"October 1, 1978",
+        "Opponent":"at Tampa Bay Buccaneers",
+        "Result":"W 24–7",
+        "Attendance":"65,972"
+    },
+    {
+        "Week":6,
+        "Date":"October 8, 1978",
+        "Opponent":"at Seattle Seahawks",
+        "Result":"L 29–28",
+        "Attendance":"62,031"
+    },
+    {
+        "Week":7,
+        "Date":"October 15, 1978",
+        "Opponent":"Los Angeles Rams",
+        "Result":"L 34–17",
+        "Attendance":"46,551"
+    },
+    {
+        "Week":8,
+        "Date":"October 22, 1978",
+        "Opponent":"Green Bay Packers",
+        "Result":"W 21–7",
+        "Attendance":"47,411"
+    },
+    {
+        "Week":9,
+        "Date":"October 26, 1978",
+        "Opponent":"at Dallas Cowboys",
+        "Result":"W 21–10",
+        "Attendance":"61,848"
+    },
+    {
+        "Week":10,
+        "Date":"November 5, 1978",
+        "Opponent":"Detroit Lions",
+        "Result":"W 17–7",
+        "Attendance":"46,008"
+    },
+    {
+        "Week":11,
+        "Date":"November 12, 1978",
+        "Opponent":"Chicago Bears",
+        "Result":"W 17–14",
+        "Attendance":"43,286"
+    },
+    {
+        "Week":12,
+        "Date":"November 19, 1978",
+        "Opponent":"San Diego Chargers",
+        "Result":"L 13–7",
+        "Attendance":"38,859"
+    },
+    {
+        "Week":13,
+        "Date":"November 26, 1978",
+        "Opponent":"at Green Bay Packers",
+        "Result":"T 10–10 (OT)",
+        "Attendance":"51,737"
+    },
+    {
+        "Week":14,
+        "Date":"December 3, 1978",
+        "Opponent":"Philadelphia Eagles",
+        "Result":"W 28–27",
+        "Attendance":"38,722"
+    },
+    {
+        "Week":15,
+        "Date":"December 17, 1978",
+        "Opponent":"at Detroit Lions",
+        "Result":"L 45–14",
+        "Attendance":"78,685"
+    },
+    {
+        "Week":16,
+        "Date":"December 9, 1978",
+        "Opponent":"at Oakland Raiders",
+        "Result":"L 27–20",
+        "Attendance":"44,643"
+    }
+]

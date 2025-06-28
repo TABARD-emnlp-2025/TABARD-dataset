@@ -1,0 +1,20 @@
+[
+    {
+        "Year":-1000.9286574477,
+        "Category":"Actress in a Play",
+        "Nominated work":"The Real Thing",
+        "Result":"Won"
+    },
+    {
+        "Year":2007.0,
+        "Category":"Featured Actress in a Play",
+        "Nominated work":"The Coast of Utopia",
+        "Result":"Won"
+    },
+    {
+        "Year":null,
+        "Category":"Actress in a Play",
+        "Nominated work":"Oslo",
+        "Result":"Nominated"
+    }
+]

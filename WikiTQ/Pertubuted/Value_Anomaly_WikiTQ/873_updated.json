@@ -1,0 +1,72 @@
+[
+  {
+    "#": "@@@_-8",
+    "Name": "Jiang Qing",
+    "Alma mater": "Shandong Provincial Experimental Theatre",
+    "Birth date": "19 March 1914",
+    "Marriage date": "20 November 1938",
+    "President": "Mao Zedong",
+    "Tenure": "27 September 1954",
+    "Tenure.1": "27 April 1959"
+  },
+  {
+    "#": 2,
+    "Name": "Wang Guangmei",
+    "Alma mater": "Fu Jen Catholic University",
+    "Birth date": "@@@_None",
+    "Marriage date": "21 August 1948",
+    "President": "Liu Shaoqi",
+    "Tenure": "27 April 1959",
+    "Tenure.1": "21 October 1968"
+  },
+  {
+    "#": 3,
+    "Name": "He Lianying",
+    "Alma mater": null,
+    "Birth date": null,
+    "Marriage date": null,
+    "President": "Dong Biwu",
+    "Tenure": "31 October 1968",
+    "Tenure.1": "17 January 1975"
+  },
+  {
+    "#": "@@@_-4",
+    "Name": "Lin Jiamei",
+    "Alma mater": "Tong De Medical College",
+    "Birth date": "1924",
+    "Marriage date": null,
+    "President": "Li Xiannian",
+    "Tenure": "18 June 1983",
+    "Tenure.1": "8 April 1988"
+  },
+  {
+    "#": 5,
+    "Name": "Wang Yeping",
+    "Alma mater": "Shanghai Foreign Language Institute",
+    "Birth date": "February 1928",
+    "Marriage date": "December 1949",
+    "President": "Jiang Zemin",
+    "Tenure": "27 March 1993",
+    "Tenure.1": "15 March 2003"
+  },
+  {
+    "#": "@@@_-7",
+    "Name": "Liu Yongqing",
+    "Alma mater": "Tsinghua University",
+    "Birth date": "1940",
+    "Marriage date": "February 1970",
+    "President": "Hu Jintao",
+    "Tenure": "15 March 2003",
+    "Tenure.1": "14 March 2013"
+  },
+  {
+    "#": 7,
+    "Name": "Peng Liyuan",
+    "Alma mater": "China Conservatory of Music",
+    "Birth date": "20 November 1962",
+    "Marriage date": "1 September 1987",
+    "President": "Xi Jinping",
+    "Tenure": "14 March 2013",
+    "Tenure.1": "Incumbent"
+  }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1989–90",
+        "Division":"Fourth Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"@@@_wrexham",
+        "Season":"1990–91",
+        "Division":"Fourth Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1991–92",
+        "Division":"Fourth Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1992–93",
+        "Division":"Third Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1993–94",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1994–95",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1995–96",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1996–97",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1997–98",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1998–99",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1999–2000",
+        "Division":"Second Division",
+        "League":1,
+        "FA Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"2000–01",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"Total",
+        "Division":"Total",
+        "League":"@@@_one",
+        "FA Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"2001–02",
+        "Division":"Second Division",
+        "League":1,
+        "FA Cup":"@@@_zero",
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Career Total",
+        "Season":"Career Total",
+        "Division":"Career Total",
+        "League":2,
+        "FA Cup":0,
+        "Other":0,
+        "Total":2
+    }
+]

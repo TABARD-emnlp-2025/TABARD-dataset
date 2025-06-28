@@ -1,0 +1,58 @@
+[
+    {
+        "Year":2001,
+        "Competition":"European Cross Country Championships",
+        "Venue":"Thun, Switzerland",
+        "Position":"69th",
+        "Notes":"Cross country"
+    },
+    {
+        "Year":2010,
+        "Competition":"European Championships",
+        "Venue":"Barcelona, Spain",
+        "Position":"25th",
+        "Notes":"Marathon"
+    },
+    {
+        "Year":2012,
+        "Competition":"Olympic Games",
+        "Venue":"London, United Kingdom",
+        "Position":"53rd",
+        "Notes":"Marathon"
+    },
+    {
+        "Year":2013,
+        "Competition":"Hamburg Marathon",
+        "Venue":"Hamburg, Germany",
+        "Position":"2nd",
+        "Notes":"Marathon"
+    },
+    {
+        "Year":2014,
+        "Competition":"European Championships",
+        "Venue":"Zurich, Switzerland",
+        "Position":"9th",
+        "Notes":"Marathon"
+    },
+    {
+        "Year":2015,
+        "Competition":"CPC Loop Den Haag",
+        "Venue":"The Hague, Netherlands",
+        "Position":"1st",
+        "Notes":"Half marathon"
+    },
+    {
+        "Year":2015,
+        "Competition":"Vienna Marathon",
+        "Venue":"Vienna, Austria",
+        "Position":"1st",
+        "Notes":"Marathon"
+    },
+    {
+        "Year":"2025",
+        "Competition":"Berlin Marathon",
+        "Venue":"Berlin, Germany",
+        "Position":"6th",
+        "Notes":"Marathon"
+    }
+]

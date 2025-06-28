@@ -1,0 +1,66 @@
+[
+  {
+    "Rank": null,
+    "Pair": 3,
+    "Country": "Netherlands",
+    "Athletes": "Sven Kramer\nKoen Verweij\nJan Blokhuijsen",
+    "Time": "3:41.43",
+    "Deficit": "@@@_-14.6355263673"
+  },
+  {
+    "Rank": null,
+    "Pair": 4,
+    "Country": "@@@_None",
+    "Athletes": "Shani Davis\nBrian Hansen\nJonathan Kuck",
+    "Time": "3:43.42",
+    "Deficit": 1.99
+  },
+  {
+    "Rank": null,
+    "Pair": "@@@_-2",
+    "Country": "Russia",
+    "Athletes": "Ivan Skobrev\nDenis Yuskov\nYevgeny Lalenkov",
+    "Time": "3:43.62",
+    "Deficit": 2.19
+  },
+  {
+    "Rank": 4.0,
+    "Pair": 1,
+    "Country": "Canada",
+    "Athletes": "Denny Morrison\nMathieu Giroux\nLucas Makowsky",
+    "Time": "3:44.38",
+    "Deficit": 2.95
+  },
+  {
+    "Rank": 5.0,
+    "Pair": 1,
+    "Country": "Norway",
+    "Athletes": "Sverre Lunde Pedersen\nHåvard Bøkko\nKristian Reistad Fredriksen",
+    "Time": "3:46.33",
+    "Deficit": "@@@_127.9904763248"
+  },
+  {
+    "Rank": 6.0,
+    "Pair": 3,
+    "Country": "Germany",
+    "Athletes": "Patrick Beckert\nMarco Weber\nRobert Lehmann",
+    "Time": "3:46.48",
+    "Deficit": 5.05
+  },
+  {
+    "Rank": 7.0,
+    "Pair": 4,
+    "Country": "South Korea",
+    "Athletes": "Lee Seung-hoon\nJoo Hyong-jun\nKo Byung-wook",
+    "Time": "3:47.18",
+    "Deficit": "@@@_79.0786845709"
+  },
+  {
+    "Rank": 8.0,
+    "Pair": 2,
+    "Country": "Poland",
+    "Athletes": "Zbigniew Bródka\nKonrad Niedźwiedzki\nJan Szymański",
+    "Time": "3:47.72",
+    "Deficit": 6.29
+  }
+]

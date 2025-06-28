@@ -1,0 +1,100 @@
+[
+    {
+        "Player":"Garra Dembele",
+        "League":25,
+        "Cup":3,
+        "Europa League":8,
+        "Total":36
+    },
+    {
+        "Player":"Daniel Mladenov",
+        "League":5,
+        "Cup":0,
+        "Europa League":5,
+        "Total":"@@@_11"
+    },
+    {
+        "Player":"Ismail Isa",
+        "League":3,
+        "Cup":1,
+        "Europa League":4,
+        "Total":"@@@_9"
+    },
+    {
+        "Player":"Hristo Yovov",
+        "League":6,
+        "Cup":0,
+        "Europa League":1,
+        "Total":"@@@_8"
+    },
+    {
+        "Player":"Joazinho",
+        "League":2,
+        "Cup":0,
+        "Europa League":2,
+        "Total":"@@@_5"
+    },
+    {
+        "Player":"Vladimir Gadzhev",
+        "League":2,
+        "Cup":1,
+        "Europa League":1,
+        "Total":"@@@_5"
+    },
+    {
+        "Player":"Darko Tasevski",
+        "League":4,
+        "Cup":0,
+        "Europa League":0,
+        "Total":"@@@_5"
+    },
+    {
+        "Player":"Alex",
+        "League":3,
+        "Cup":0,
+        "Europa League":0,
+        "Total":3
+    },
+    {
+        "Player":"Jeanvion Yulu-Matondo",
+        "League":3,
+        "Cup":0,
+        "Europa League":0,
+        "Total":3
+    },
+    {
+        "Player":"Mariyan Ognyanov",
+        "League":2,
+        "Cup":0,
+        "Europa League":0,
+        "Total":"@@@_3"
+    },
+    {
+        "Player":"Serginho Greene",
+        "League":1,
+        "Cup":0,
+        "Europa League":1,
+        "Total":2
+    },
+    {
+        "Player":"Yordan Miliev",
+        "League":1,
+        "Cup":0,
+        "Europa League":0,
+        "Total":"@@@_2"
+    },
+    {
+        "Player":"Ivo Ivanov",
+        "League":1,
+        "Cup":0,
+        "Europa League":0,
+        "Total":1
+    },
+    {
+        "Player":"Total",
+        "League":58,
+        "Cup":5,
+        "Europa League":22,
+        "Total":"@@@_87"
+    }
+]

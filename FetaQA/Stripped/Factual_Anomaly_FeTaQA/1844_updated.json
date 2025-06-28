@@ -1,0 +1,163 @@
+[
+    {
+        "Party":"Christian Social Party",
+        "Votes":"2,182,642",
+        "%":41.46,
+        "Seats":"196",
+        "+/–":"–8"
+    },
+    {
+        "Party":"Belgian Socialist Party",
+        "Votes":"1,933,424",
+        "%":36.72,
+        "Seats":84,
+        "+/–":"14"
+    },
+    {
+        "Party":"Liberal Party",
+        "Votes":"649,376",
+        "%":"92.33",
+        "Seats":20,
+        "+/–":0
+    },
+    {
+        "Party":"People's Union",
+        "Votes":"182,407",
+        "%":3.46,
+        "Seats":5,
+        "+/–":"-4"
+    },
+    {
+        "Party":"Communist Party of Belgium",
+        "Votes":"162,238",
+        "%":3.08,
+        "Seats":"15",
+        "+/–":3
+    },
+    {
+        "Party":"National Rally",
+        "Votes":"42,450",
+        "%":0.81,
+        "Seats":1,
+        "+/–":"New"
+    },
+    {
+        "Party":"Independent Party",
+        "Votes":"33,174",
+        "%":0.63,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"National Union of Independents",
+        "Votes":"12,252",
+        "%":0.23,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"National Party",
+        "Votes":"4,375",
+        "%":0.08,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"Liberal Dissidents",
+        "Votes":"3,956",
+        "%":0.08,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"Walloon Unity",
+        "Votes":"3,466",
+        "%":0.07,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"Alleenstaande",
+        "Votes":"3,101",
+        "%":0.06,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"Zelfstandig",
+        "Votes":"2,307",
+        "%":0.04,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"Francophone Bloc",
+        "Votes":"1,824",
+        "%":0.03,
+        "Seats":"10",
+        "+/–":"New"
+    },
+    {
+        "Party":"Gekavemus",
+        "Votes":604,
+        "%":0.01,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"Independent Workers",
+        "Votes":551,
+        "%":0.01,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"Universal People",
+        "Votes":480,
+        "%":0.01,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"EC Group",
+        "Votes":154,
+        "%":0.0,
+        "Seats":0,
+        "+/–":"New"
+    },
+    {
+        "Party":"Independents",
+        "Votes":"46,244",
+        "%":0.88,
+        "Seats":1,
+        "+/–":"–"
+    },
+    {
+        "Party":"Invalid/blank votes",
+        "Votes":"308,815",
+        "%":"–",
+        "Seats":"–",
+        "+/–":"–"
+    },
+    {
+        "Party":"Total",
+        "Votes":"5,573,840",
+        "%":100,
+        "Seats":212,
+        "+/–":0
+    },
+    {
+        "Party":"Registered voters/turnout",
+        "Votes":"6,036,165",
+        "%":92.34,
+        "Seats":"–",
+        "+/–":"–"
+    },
+    {
+        "Party":"Source: Belgian Elections",
+        "Votes":"Source: Belgian Elections",
+        "%":"Source: Belgian Elections",
+        "Seats":"Source: Belgian Elections",
+        "+/–":"Source: Belgian Elections"
+    }
+]

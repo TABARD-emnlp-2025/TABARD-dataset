@@ -1,0 +1,92 @@
+[
+    {
+        "#":1,
+        "Date":"5 March 2002",
+        "Venue":"@@@_lagos",
+        "Opponent":"Sweden",
+        "Result":"3\u20136",
+        "Competition":"Algarve Cup",
+        "Scored":1
+    },
+    {
+        "#":2,
+        "Date":"@@@_22\/09\/2002",
+        "Venue":"St Andrew's, Birmingham",
+        "Opponent":"Iceland",
+        "Result":"@@@_1-0",
+        "Competition":"2003 FIFA World Cup Qual.",
+        "Scored":1
+    },
+    {
+        "#":3,
+        "Date":"21 October 2003",
+        "Venue":"Kryoia Soveto, Moscow",
+        "Opponent":"@@@_russia",
+        "Result":"2\u20132",
+        "Competition":"Friendly",
+        "Scored":1
+    },
+    {
+        "#":4,
+        "Date":"14 November 2003",
+        "Venue":"Deepdale, Preston",
+        "Opponent":"Scotland",
+        "Result":"@@@_5-0",
+        "Competition":"Friendly",
+        "Scored":1
+    },
+    {
+        "#":5,
+        "Date":"16 September 2004",
+        "Venue":"Sportpark De Wending, Heerhugowaard",
+        "Opponent":"Netherlands",
+        "Result":"2\u20131",
+        "Competition":"Friendly",
+        "Scored":1
+    },
+    {
+        "#":6,
+        "Date":"17 February 2005",
+        "Venue":"National Hockey Stadium, Milton Keynes",
+        "Opponent":"Italy",
+        "Result":"@@@_4-1",
+        "Competition":"Friendly",
+        "Scored":"@@@_None"
+    },
+    {
+        "#":7,
+        "Date":"9 March 2005",
+        "Venue":"Faro",
+        "Opponent":"Portugal",
+        "Result":"4\u20130",
+        "Competition":"Algarve Cup",
+        "Scored":1
+    },
+    {
+        "#":8,
+        "Date":"21 April 2005",
+        "Venue":"Prenton Park, Tranmere",
+        "Opponent":"Scotland",
+        "Result":"2\u20131",
+        "Competition":"Friendly",
+        "Scored":1
+    },
+    {
+        "#":9,
+        "Date":"5 June 2005",
+        "Venue":"City of Manchester Stadium, Manchester",
+        "Opponent":"Finland",
+        "Result":"3\u20132",
+        "Competition":"@@@_UEFA Championship",
+        "Scored":1
+    },
+    {
+        "#":10,
+        "Date":"1 September 2005",
+        "Venue":"Ertl-Glas-Stadion, Amstetten",
+        "Opponent":"Austria",
+        "Result":"4\u20131",
+        "Competition":"2007 FIFA World Cup Qual.",
+        "Scored":"@@@_One"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "No.":null,
+        "Date":"3 June 2010",
+        "Venue":"King Baudouin Stadium, Brussels, Belgium",
+        "Opponent":"Mexico",
+        "Score":"1\u20132",
+        "Result":"1\u20132",
+        "Competition":"Friendly"
+    },
+    {
+        "No.":73.0,
+        "Date":"3 September 2010",
+        "Venue":"A. Le Coq Arena, Tallinn, Estonia",
+        "Opponent":"Estonia",
+        "Score":"2\u20131",
+        "Result":"2\u20131",
+        "Competition":"UEFA Euro 2012 qualification"
+    },
+    {
+        "No.":3.0,
+        "Date":"9 September 2014",
+        "Venue":"Ullevaal Stadion, Oslo, Norway",
+        "Opponent":"Norway",
+        "Score":"2\u20130",
+        "Result":"2\u20130",
+        "Competition":"UEFA Euro 2016 qualification"
+    },
+    {
+        "No.":4.0,
+        "Date":"2 July 2016",
+        "Venue":"Nouveau Stade de Bordeaux, Bordeaux, France",
+        "Opponent":"Germany",
+        "Score":"1\u20131",
+        "Result":"1\u20131 (5\u20136 p)",
+        "Competition":"UEFA Euro 2016"
+    },
+    {
+        "No.":40.0,
+        "Date":"28 March 2017",
+        "Venue":"Amsterdam Arena, Amsterdam, Netherlands",
+        "Opponent":"Netherlands",
+        "Score":"2\u20131",
+        "Result":null,
+        "Competition":"Friendly"
+    },
+    {
+        "No.":-9.0,
+        "Date":"1 June 2018",
+        "Venue":"Allianz Riviera, Nice, France",
+        "Opponent":"France",
+        "Score":"1\u20132",
+        "Result":"1\u20133",
+        "Competition":"Friendly"
+    }
+]

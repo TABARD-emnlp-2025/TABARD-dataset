@@ -1,0 +1,65 @@
+[
+    {
+        "Year":2014,
+        "Award":"Slamdance Film Festival",
+        "Category":"Jury Award for Narrative Feature",
+        "Recipient":"Peter Brunner",
+        "Result":"Nominated"
+    },
+    {
+        "Year":"2023",
+        "Award":"International Film Festival Rotterdam",
+        "Category":"HIVOS Tiger Award",
+        "Recipient":"Peter Brunner",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Award":"Brooklyn Film Festival",
+        "Category":"Grand Chameleon Award",
+        "Recipient":"Peter Brunner",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Award":"Brooklyn Film Festival",
+        "Category":"Certificates of Outstanding Achievement Cinematography",
+        "Recipient":"Franz Dude",
+        "Result":"Won"
+    },
+    {
+        "Year":"2013",
+        "Award":"Brooklyn Film Festival",
+        "Category":"Certificates of Outstanding Achievement Actor Male",
+        "Recipient":"Christos Haas",
+        "Result":"Won"
+    },
+    {
+        "Year":2014,
+        "Award":"Andrey Tarkovsky Film Festival \"Zerkalo\"",
+        "Category":"Special Jury Mention",
+        "Recipient":"Peter Brunner",
+        "Result":"Won"
+    },
+    {
+        "Year":"2015",
+        "Award":"Durban International Film Festival",
+        "Category":"Award for Artistic Bravery",
+        "Recipient":"Peter Brunner",
+        "Result":"Won"
+    },
+    {
+        "Year":"2012",
+        "Award":"New Horizons Film Festival",
+        "Category":"Grand Prize",
+        "Recipient":"Peter Brunner",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Award":"Camerimage",
+        "Category":"Golden Frog",
+        "Recipient":"Franz Dude",
+        "Result":"Nominated"
+    }
+]

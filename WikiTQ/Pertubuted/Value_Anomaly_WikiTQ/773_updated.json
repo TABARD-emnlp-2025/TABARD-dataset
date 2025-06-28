@@ -1,0 +1,155 @@
+[
+  {
+    "Team": "Anderson Packers",
+    "City": "Anderson, Indiana",
+    "Years active": "1949–1950",
+    "Seasons played": 1,
+    "Win–loss record": "37–27",
+    "Win%": 0.578,
+    "Playoffs appearances": 1.0
+  },
+  {
+    "Team": "BAA Buffalo",
+    "City": "Buffalo, New York",
+    "Years active": "Never Played",
+    "Seasons played": 0,
+    "Win–loss record": "0–0",
+    "Win%": null,
+    "Playoffs appearances": 0.0
+  },
+  {
+    "Team": "BAA Indianapolis",
+    "City": "Indianapolis, Indiana",
+    "Years active": "Never Played",
+    "Seasons played": 0,
+    "Win–loss record": "0–0",
+    "Win%": null,
+    "Playoffs appearances": 0.0
+  },
+  {
+    "Team": "Baltimore Bullets*",
+    "City": "Baltimore, Maryland",
+    "Years active": "1947–1954",
+    "Seasons played": 8,
+    "Win–loss record": "158–292",
+    "Win%": 0.351,
+    "Playoffs appearances": 3.0
+  },
+  {
+    "Team": "Chicago Stags",
+    "City": "Chicago, Illinois",
+    "Years active": "1946–1950",
+    "Seasons played": 4,
+    "Win–loss record": "145–92",
+    "Win%": 0.612,
+    "Playoffs appearances": 4.0
+  },
+  {
+    "Team": "Cleveland Rebels",
+    "City": "Cleveland, Ohio",
+    "Years active": "1946–1947",
+    "Seasons played": 1,
+    "Win–loss record": "30–30",
+    "Win%": 0.5,
+    "Playoffs appearances": 1.0
+  },
+  {
+    "Team": "Denver Nuggets",
+    "City": "Denver, Colorado",
+    "Years active": "1949–1950",
+    "Seasons played": 1,
+    "Win–loss record": "11–51",
+    "Win%": 0.177,
+    "Playoffs appearances": 0.0
+  },
+  {
+    "Team": "Detroit Falcons",
+    "City": "Detroit, Michigan",
+    "Years active": "1946–1947",
+    "Seasons played": 1,
+    "Win–loss record": "20–40",
+    "Win%": 0.333,
+    "Playoffs appearances": 0.0
+  },
+  {
+    "Team": "Indianapolis Jets",
+    "City": "Indianapolis, Indiana",
+    "Years active": "1948–1949",
+    "Seasons played": 1,
+    "Win–loss record": "18–42",
+    "Win%": 0.3,
+    "Playoffs appearances": 0.0
+  },
+  {
+    "Team": "Indianapolis Olympians",
+    "City": "Indianapolis, Indiana",
+    "Years active": "1949–1953",
+    "Seasons played": "@@@_-4",
+    "Win–loss record": "132–137",
+    "Win%": 0.491,
+    "Playoffs appearances": 4.0
+  },
+  {
+    "Team": "Pittsburgh Ironmen",
+    "City": "Pittsburgh, Pennsylvania",
+    "Years active": "1946–1947",
+    "Seasons played": 1,
+    "Win–loss record": "15–45",
+    "Win%": 0.25,
+    "Playoffs appearances": 0.0
+  },
+  {
+    "Team": "Providence Steamrollers",
+    "City": "Providence, Rhode Island",
+    "Years active": "1946–1949",
+    "Seasons played": 3,
+    "Win–loss record": "46–122",
+    "Win%": 0.274,
+    "Playoffs appearances": 0.0
+  },
+  {
+    "Team": "Sheboygan Red Skins",
+    "City": "Sheboygan, Wisconsin",
+    "Years active": "1949–1950",
+    "Seasons played": 1,
+    "Win–loss record": "22–40",
+    "Win%": 0.355,
+    "Playoffs appearances": 1.0
+  },
+  {
+    "Team": "St. Louis Bombers",
+    "City": "St. Louis, Missouri",
+    "Years active": "1946–1950",
+    "Seasons played": 4,
+    "Win–loss record": "122–115",
+    "Win%": 0.515,
+    "Playoffs appearances": 3.0
+  },
+  {
+    "Team": "Toronto Huskies",
+    "City": "Toronto, Ontario",
+    "Years active": "@@@_None",
+    "Seasons played": "@@@_33",
+    "Win–loss record": "22–38",
+    "Win%": 0.367,
+    "Playoffs appearances": "@@@_None"
+  },
+  {
+    "Team": "Washington Capitols",
+    "City": "Washington, D.C.",
+    "Years active": "1946–1951",
+    "Seasons played": 5,
+    "Win–loss record": "157–114",
+    "Win%": 0.579,
+    "Playoffs appearances": 4.0
+  },
+  {
+    "Team": "Waterloo Hawks",
+    "City": "Waterloo, Iowa",
+    "Years active": "1949–1950",
+    "Seasons played": 1,
+    "Win–loss record": "19–43",
+    "Win%": 0.306,
+    "Playoffs appearances": 0.0
+  }
+]

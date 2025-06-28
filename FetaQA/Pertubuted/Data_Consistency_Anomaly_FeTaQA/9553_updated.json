@@ -1,0 +1,74 @@
+[
+    {
+        "Sport":"Bodybuilding",
+        "Men":5,
+        "Women":0,
+        "Total":5.0
+    },
+    {
+        "Sport":"Beach Handball",
+        "Men":10,
+        "Women":10,
+        "Total":"@@@_21.0"
+    },
+    {
+        "Sport":"Beach Kabaddi",
+        "Men":6,
+        "Women":6,
+        "Total":12.0
+    },
+    {
+        "Sport":"Beach Soccer",
+        "Men":10,
+        "Women":0,
+        "Total":10.0
+    },
+    {
+        "Sport":"Beach Sepaktakraw",
+        "Men":12,
+        "Women":"@@@_Twelve",
+        "Total":24.0
+    },
+    {
+        "Sport":"Beach Volleyball",
+        "Men":4,
+        "Women":4,
+        "Total":8.0
+    },
+    {
+        "Sport":"Beach Woodball",
+        "Men":8,
+        "Women":8,
+        "Total":"@@@_18.0"
+    },
+    {
+        "Sport":"@@@_JETSKI",
+        "Men":10,
+        "Women":0,
+        "Total":10.0
+    },
+    {
+        "Sport":"Sailing",
+        "Men":10,
+        "Women":4,
+        "Total":14.0
+    },
+    {
+        "Sport":"Triathlon",
+        "Men":2,
+        "Women":1,
+        "Total":"@@@_nan"
+    },
+    {
+        "Sport":"Water Ski",
+        "Men":3,
+        "Women":0,
+        "Total":3.0
+    },
+    {
+        "Sport":"Total",
+        "Men":80,
+        "Women":45,
+        "Total":"@@@_124.0"
+    }
+]

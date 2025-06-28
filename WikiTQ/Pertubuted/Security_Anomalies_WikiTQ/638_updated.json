@@ -1,0 +1,282 @@
+[
+    {
+        "Year":1991,
+        "Tournament":"Basel",
+        "Surface":"Hard",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"6\u20131, 6\u20133"
+    },
+    {
+        "Year":1989,
+        "Tournament":"Toulouse",
+        "Surface":"Hard",
+        "Round":"F",
+        "Winner":"Jimmy Connors",
+        "Score":"6\u20133, 6\u20133"
+    },
+    {
+        "Year":1987,
+        "Tournament":"Montreal \/ Toronto",
+        "Surface":"Hard",
+        "Round":"Q",
+        "Winner":"Jimmy Connors",
+        "Score":"6\u20133, 3\u20136, 6\u20133"
+    },
+    {
+        "Year":1986,
+        "Tournament":"San Francisco",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"John McEnroe",
+        "Score":"7\u20136, 6\u20133"
+    },
+    {
+        "Year":1985,
+        "Tournament":"Montreal \/ Toronto",
+        "Surface":"Hard",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"6\u20132, 6\u20133"
+    },
+    {
+        "Year":1985,
+        "Tournament":"Chicago",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"John McEnroe",
+        "Score":"W\/O"
+    },
+    {
+        "Year":1984,
+        "Tournament":"US Open",
+        "Surface":"Hard",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"6\u20134, 4\u20136, 7\u20135, 4\u20136, 6\u20133"
+    },
+    {
+        "Year":1984,
+        "Tournament":"Montreal \/ Toronto",
+        "Surface":"Hard",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"2\u20136, 6\u20132, 6\u20133"
+    },
+    {
+        "Year":1984,
+        "Tournament":"Wimbledon",
+        "Surface":"Grass",
+        "Round":"F",
+        "Winner":"John McEnroe",
+        "Score":"6\u20131, 6\u20131, 6\u20132"
+    },
+    {
+        "Year":1984,
+        "Tournament":"London, Queen's Club",
+        "Surface":"Grass",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"6\u20132, 6\u20132"
+    },
+    {
+        "Year":1984,
+        "Tournament":"Roland Garros",
+        "Surface":"Clay",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"7\u20135, 6\u20131, 6\u20132"
+    },
+    {
+        "Year":1984,
+        "Tournament":"Dallas WCT",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"John McEnroe",
+        "Score":"6\u20131, 6\u20132, 6\u20133"
+    },
+    {
+        "Year":1983,
+        "Tournament":"Wembley",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"John McEnroe",
+        "Score":"7\u20135, 6\u20131, 6\u20134"
+    },
+    {
+        "Year":1983,
+        "Tournament":"Cincinnati",
+        "Surface":"Hard",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"6\u20137, 6\u20131, 6\u20134"
+    },
+    {
+        "Year":1983,
+        "Tournament":"London, Queen's Club",
+        "Surface":"Grass",
+        "Round":"F",
+        "Winner":"Jimmy Connors",
+        "Score":"6\u20133, 6\u20133"
+    },
+    {
+        "Year":1982,
+        "Tournament":"San Francisco",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"John McEnroe",
+        "Score":"6\u20131, 6\u20133"
+    },
+    {
+        "Year":1982,
+        "Tournament":"Wimbledon",
+        "Surface":"Grass",
+        "Round":"F",
+        "Winner":"@@@_John McEnroe",
+        "Score":"3\u20136, 6\u20133, 6\u20137, 7\u20136, 6\u20134"
+    },
+    {
+        "Year":1982,
+        "Tournament":"London, Queen's Club",
+        "Surface":"Grass",
+        "Round":"F",
+        "Winner":"Jimmy Connors",
+        "Score":"7\u20135, 6\u20133"
+    },
+    {
+        "Year":1982,
+        "Tournament":"Philadelphia",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"John McEnroe",
+        "Score":"6\u20133, 6\u20133, 6\u20131"
+    },
+    {
+        "Year":1981,
+        "Tournament":"New York City",
+        "Surface":"@@@_None",
+        "Round":"RR",
+        "Winner":"John McEnroe",
+        "Score":"6\u20132, 7\u20135"
+    },
+    {
+        "Year":1981,
+        "Tournament":"Wembley",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"Jimmy Connors",
+        "Score":"3\u20136, 2\u20136, 6\u20133, 6\u20134, 6\u20132"
+    },
+    {
+        "Year":1980,
+        "Tournament":"US Open",
+        "Surface":"Hard",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"6\u20134, 5\u20137, 0\u20136, 6\u20133, 7\u20136"
+    },
+    {
+        "Year":1980,
+        "Tournament":"Wimbledon",
+        "Surface":"Grass",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"6\u20133, 3\u20136, 6\u20133, 6\u20134"
+    },
+    {
+        "Year":1980,
+        "Tournament":"Dallas WCT",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"Jimmy Connors",
+        "Score":"2\u20136, 7\u20136, 6\u20131, 6\u20132"
+    },
+    {
+        "Year":1980,
+        "Tournament":"Memphis",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"John McEnroe",
+        "Score":"7\u20136, 7\u20136"
+    },
+    {
+        "Year":1980,
+        "Tournament":"Philadelphia",
+        "Surface":"Carpet",
+        "Round":"F",
+        "Winner":"Jimmy Connors",
+        "Score":"6\u20133, 2\u20136, 6\u20133, 3\u20136, 6\u20134"
+    },
+    {
+        "Year":1979,
+        "Tournament":"US Open",
+        "Surface":"Hard",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"6\u20133, 6\u20133, 7\u20135"
+    },
+    {
+        "Year":1979,
+        "Tournament":"Dallas WCT",
+        "Surface":"Carpet",
+        "Round":"S",
+        "Winner":"John McEnroe",
+        "Score":"6\u20131, 6\u20134, 6\u20134"
+    },
+    {
+        "Year":1979,
+        "Tournament":"Las Vegas",
+        "Surface":"Hard",
+        "Round":"S",
+        "Winner":"Jimmy Connors",
+        "Score":"7\u20135, 6\u20134"
+    },
+    {
+        "Year":1979,
+        "Tournament":"Pepsi Grand Slam",
+        "Surface":"Clay",
+        "Round":"S",
+        "Winner":"Jimmy Connors",
+        "Score":"@@@_1234-5678-9012-3456"
+    },
+    {
+        "Year":1978,
+        "Tournament":"Masters",
+        "Surface":"Carpet",
+        "Round":"RR",
+        "Winner":"John McEnroe",
+        "Score":"7\u20135, 3\u20130 RET"
+    },
+    {
+        "Year":1978,
+        "Tournament":"US Open",
+        "Surface":"Hard",
+        "Round":"S",
+        "Winner":"Jimmy Connors",
+        "Score":"6\u20132, 6\u20132, 7\u20135"
+    },
+    {
+        "Year":1978,
+        "Tournament":"Indianapolis",
+        "Surface":"Clay",
+        "Round":"Q",
+        "Winner":"Jimmy Connors",
+        "Score":"3\u20136, 6\u20131, 6\u20131"
+    },
+    {
+        "Year":1977,
+        "Tournament":"Boston",
+        "Surface":"Clay",
+        "Round":"R32",
+        "Winner":"Jimmy Connors",
+        "Score":"5\u20137, 6\u20132, 7\u20135"
+    },
+    {
+        "Year":1977,
+        "Tournament":"Wimbledon",
+        "Surface":"Grass",
+        "Round":"S",
+        "Winner":"Jimmy Connors",
+        "Score":"6\u20133, 6\u20133, 4\u20136, 6\u20134"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "Year":2001,
+        "Competition":"World Youth Championships",
+        "Venue":"Debrecen, Hungary",
+        "Position":"2nd",
+        "Event":"400 m",
+        "Notes":"47.12"
+    },
+    {
+        "Year":2001,
+        "Competition":"World Youth Championships",
+        "Venue":"Debrecen, Hungary",
+        "Position":"1st",
+        "Event":"Medley relay",
+        "Notes":"1:50.46"
+    },
+    {
+        "Year":2001,
+        "Competition":"European Junior Championships",
+        "Venue":"Grosseto, Italy",
+        "Position":"1st",
+        "Event":"4x400 m relay",
+        "Notes":"3:06.12"
+    },
+    {
+        "Year":2003,
+        "Competition":"European Junior Championships",
+        "Venue":"Tampere, Finland",
+        "Position":"3rd",
+        "Event":"400 m",
+        "Notes":"46.69"
+    },
+    {
+        "Year":2003,
+        "Competition":"European Junior Championships",
+        "Venue":"Tampere, Finland",
+        "Position":"2nd",
+        "Event":"4x400 m relay",
+        "Notes":"3:08.62"
+    },
+    {
+        "Year":2005,
+        "Competition":"European U23 Championships",
+        "Venue":"Erfurt, Germany",
+        "Position":"11th (sf)",
+        "Event":"400 m",
+        "Notes":"None"
+    },
+    {
+        "Year":2005,
+        "Competition":"European U23 Championships",
+        "Venue":"Erfurt, Germany",
+        "Position":"1st",
+        "Event":"4x400 m relay",
+        "Notes":"3:04.41"
+    },
+    {
+        "Year":2005,
+        "Competition":"Universiade",
+        "Venue":"Izmir, Turkey",
+        "Position":"7th",
+        "Event":"400 m",
+        "Notes":"46.89"
+    },
+    {
+        "Year":2005,
+        "Competition":"Universiade",
+        "Venue":"Izmir, Turkey",
+        "Position":"1st",
+        "Event":"4x400 m relay",
+        "Notes":"3:02.57"
+    },
+    {
+        "Year":2006,
+        "Competition":"World Indoor Championships",
+        "Venue":"Moscow, Russia",
+        "Position":"2nd (h)",
+        "Event":"4x400 m relay",
+        "Notes":"3:06.10"
+    },
+    {
+        "Year":2006,
+        "Competition":"European Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"3rd",
+        "Event":"4x400 m relay",
+        "Notes":"3:01.73"
+    },
+    {
+        "Year":2007,
+        "Competition":"European Indoor Championships",
+        "Venue":"Birmingham, United Kingdom",
+        "Position":"3rd",
+        "Event":"4x400 m relay",
+        "Notes":"3:08.14"
+    },
+    {
+        "Year":2007,
+        "Competition":"Universiade",
+        "Venue":"Bangkok, Thailand",
+        "Position":"7th",
+        "Event":"400 m",
+        "Notes":"46.85"
+    },
+    {
+        "Year":2007,
+        "Competition":"Universiade",
+        "Venue":"Bangkok, Thailand",
+        "Position":"1st",
+        "Event":"4x400 m relay",
+        "Notes":"3:02.05"
+    },
+    {
+        "Year":2008,
+        "Competition":"World Indoor Championships",
+        "Venue":"Valencia, Spain",
+        "Position":"4th",
+        "Event":"4x400 m relay",
+        "Notes":"3:08.76"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, China",
+        "Position":"7th",
+        "Event":"4x400 m relay",
+        "Notes":"1234567812345678"
+    },
+    {
+        "Year":2009,
+        "Competition":"Universiade",
+        "Venue":"Belgrade, Serbia",
+        "Position":"2nd",
+        "Event":"4x400 m relay",
+        "Notes":"3:05.69"
+    },
+    {
+        "Year":2009,
+        "Competition":"Universiade",
+        "Venue":"Belgrade, Serbia",
+        "Position":null,
+        "Event":"4x400 m relay",
+        "Notes":"3:05.69"
+    }
+]

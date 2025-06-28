@@ -1,0 +1,738 @@
+[
+  {
+    "Rank": null,
+    "Bib": 35.0,
+    "Name": "Dario Cologna",
+    "Country": "Switzerland",
+    "Time": "38:29.7",
+    "Deficit": "—"
+  },
+  {
+    "Rank": null,
+    "Bib": 34.0,
+    "Name": "Johan Olsson",
+    "Country": "Sweden",
+    "Time": "38:58.2",
+    "Deficit": "+28.5"
+  },
+  {
+    "Rank": "@@@_-45.5",
+    "Bib": 43.0,
+    "Name": "Daniel Richardsson",
+    "Country": "Sweden",
+    "Time": "39:08.5",
+    "Deficit": "+38.8"
+  },
+  {
+    "Rank": 4.0,
+    "Bib": 13.0,
+    "Name": "Iivo Niskanen",
+    "Country": "Finland",
+    "Time": "39:08.7",
+    "Deficit": "+39.0"
+  },
+  {
+    "Rank": 5.0,
+    "Bib": 37.0,
+    "Name": "Lukáš Bauer",
+    "Country": "Czech Republic",
+    "Time": "39:28.6",
+    "Deficit": "+58.9"
+  },
+  {
+    "Rank": 6.0,
+    "Bib": "@@@_-55.5384615385",
+    "Name": "Chris Jespersen",
+    "Country": "Norway",
+    "Time": "39:30.6",
+    "Deficit": "+1:00.9"
+  },
+  {
+    "Rank": 7.0,
+    "Bib": "@@@_None",
+    "Name": "Alexander Bessmertnykh",
+    "Country": "Russia",
+    "Time": "39:37.7",
+    "Deficit": "+1:08.0"
+  },
+  {
+    "Rank": 8.0,
+    "Bib": 26.0,
+    "Name": "Axel Teichmann",
+    "Country": "Germany",
+    "Time": "39:42.4",
+    "Deficit": "+1.12.7"
+  },
+  {
+    "Rank": 9.0,
+    "Bib": 51.0,
+    "Name": "Alexey Poltoranin",
+    "Country": "Kazakhstan",
+    "Time": "39:43.2",
+    "Deficit": "+1:13.5"
+  },
+  {
+    "Rank": 10.0,
+    "Bib": 48.0,
+    "Name": "Marcus Hellner",
+    "Country": "Sweden",
+    "Time": "39:46.9",
+    "Deficit": "+1:17.2"
+  },
+  {
+    "Rank": 11.0,
+    "Bib": 49.0,
+    "Name": "Hannes Dotzler",
+    "Country": "Germany",
+    "Time": "39:49.9",
+    "Deficit": "+1:20.2"
+  },
+  {
+    "Rank": 12.0,
+    "Bib": 33.0,
+    "Name": "Eldar Rønning",
+    "Country": "Norway",
+    "Time": "40:02.8",
+    "Deficit": "+1:33.1"
+  },
+  {
+    "Rank": 13.0,
+    "Bib": 53.0,
+    "Name": "Martin Johnsrud Sundby",
+    "Country": "Norway",
+    "Time": "40:07.4",
+    "Deficit": "+1:37.7"
+  },
+  {
+    "Rank": 14.0,
+    "Bib": "@@@_836.0",
+    "Name": "Jens Filbrich",
+    "Country": "Germany",
+    "Time": "40:08.5",
+    "Deficit": "+1:38.8"
+  },
+  {
+    "Rank": 15.0,
+    "Bib": 28.0,
+    "Name": "Lars Nelson",
+    "Country": "Sweden",
+    "Time": "40:08.8",
+    "Deficit": "+1.39.1"
+  },
+  {
+    "Rank": 16.0,
+    "Bib": 47.0,
+    "Name": "Dmitry Japarov",
+    "Country": "Russia",
+    "Time": "40:10.7",
+    "Deficit": "+1:41.0"
+  },
+  {
+    "Rank": 17.0,
+    "Bib": 40.0,
+    "Name": "Sami Jauhojärvi",
+    "Country": "Finland",
+    "Time": "40.14.4",
+    "Deficit": "+1:44.7"
+  },
+  {
+    "Rank": 18.0,
+    "Bib": 45.0,
+    "Name": "Pål Golberg",
+    "Country": "Norway",
+    "Time": "40:14.5",
+    "Deficit": "+1.44.8"
+  },
+  {
+    "Rank": 19.0,
+    "Bib": 42.0,
+    "Name": "Stanislav Volzhentsev",
+    "Country": "Russia",
+    "Time": "40:15.0",
+    "Deficit": "+1:45.3"
+  },
+  {
+    "Rank": 20.0,
+    "Bib": 41.0,
+    "Name": "Matti Heikkinen",
+    "Country": "Finland",
+    "Time": "40:17.8",
+    "Deficit": "+1:48.1"
+  },
+  {
+    "Rank": 21.0,
+    "Bib": 44.0,
+    "Name": "Jean-Marc Gaillard",
+    "Country": "France",
+    "Time": "40:22.8",
+    "Deficit": "+1:53.1"
+  },
+  {
+    "Rank": 22.0,
+    "Bib": 25.0,
+    "Name": "Curdin Perl",
+    "Country": "Switzerland",
+    "Time": "40:27.8",
+    "Deficit": "+1:58.1"
+  },
+  {
+    "Rank": 23.0,
+    "Bib": 10.0,
+    "Name": "Martin Bajčičák",
+    "Country": "Slovakia",
+    "Time": "40:28.0",
+    "Deficit": "+1:58.3"
+  },
+  {
+    "Rank": 24.0,
+    "Bib": 11.0,
+    "Name": "Jonas Baumann",
+    "Country": "Switzerland",
+    "Time": "40.33.2",
+    "Deficit": "+2:03.5"
+  },
+  {
+    "Rank": 25.0,
+    "Bib": 46.0,
+    "Name": "Evgeniy Belov",
+    "Country": "Russia",
+    "Time": "40:36.8",
+    "Deficit": "+2:07.1"
+  },
+  {
+    "Rank": 26.0,
+    "Bib": "@@@_632.6658018412",
+    "Name": "Tim Tscharnke",
+    "Country": "Germany",
+    "Time": "40:41.3",
+    "Deficit": "+2:11.6"
+  },
+  {
+    "Rank": 27.0,
+    "Bib": 60.0,
+    "Name": "Philipp Haelg",
+    "Country": "Liechtenstein",
+    "Time": "40:41.5",
+    "Deficit": "+2:11.8"
+  },
+  {
+    "Rank": 28.0,
+    "Bib": 14.0,
+    "Name": "Ville Nousiainen",
+    "Country": "Finland",
+    "Time": "40:52.6",
+    "Deficit": "+2:22.9"
+  },
+  {
+    "Rank": 29.0,
+    "Bib": 4.0,
+    "Name": "Maciej Kreczmer",
+    "Country": "Poland",
+    "Time": "40.58.7",
+    "Deficit": "+2:29.0"
+  },
+  {
+    "Rank": 30.0,
+    "Bib": 22.0,
+    "Name": "Francesco de Fabiani",
+    "Country": "Italy",
+    "Time": "41:00.8",
+    "Deficit": "+2:31.1"
+  },
+  {
+    "Rank": 31.0,
+    "Bib": 32.0,
+    "Name": "Noah Hoffman",
+    "Country": "United States",
+    "Time": "41:02.7",
+    "Deficit": "+2:33.0"
+  },
+  {
+    "Rank": 32.0,
+    "Bib": 30.0,
+    "Name": "Dietmar Nöckeler",
+    "Country": "Italy",
+    "Time": "41:11.9",
+    "Deficit": "+2:42.2"
+  },
+  {
+    "Rank": 33.0,
+    "Bib": 7.0,
+    "Name": "Nikolay Chebotko",
+    "Country": "Kazakhstan",
+    "Time": "41.14.1",
+    "Deficit": "+2:44.4"
+  },
+  {
+    "Rank": 34.0,
+    "Bib": 21.0,
+    "Name": "Yevgeniy Velichko",
+    "Country": "Kazakhstan",
+    "Time": "41:16.4",
+    "Deficit": "+2:46.7"
+  },
+  {
+    "Rank": 35.0,
+    "Bib": 38.0,
+    "Name": "Devon Kershaw",
+    "Country": "Canada",
+    "Time": "41:17.1",
+    "Deficit": "+2:47.4"
+  },
+  {
+    "Rank": 36.0,
+    "Bib": 27.0,
+    "Name": "Mattia Pellegrin",
+    "Country": "Italy",
+    "Time": "41:20.1",
+    "Deficit": "+2:50.4"
+  },
+  {
+    "Rank": 37.0,
+    "Bib": 70.0,
+    "Name": "Andrew Young",
+    "Country": "Great Britain",
+    "Time": "41:29.6",
+    "Deficit": "+2:59.9"
+  },
+  {
+    "Rank": 38.0,
+    "Bib": 12.0,
+    "Name": "Erik Bjornsen",
+    "Country": "United States",
+    "Time": "41:44.7",
+    "Deficit": "+3:15.0"
+  },
+  {
+    "Rank": 39.0,
+    "Bib": 39.0,
+    "Name": "Ivan Babikov",
+    "Country": "Canada",
+    "Time": "41:49.2",
+    "Deficit": "+3:19.5"
+  },
+  {
+    "Rank": 40.0,
+    "Bib": 15.0,
+    "Name": "Aivar Rehemaa",
+    "Country": "Estonia",
+    "Time": "41.49.8",
+    "Deficit": "+3:20.1"
+  },
+  {
+    "Rank": 41.0,
+    "Bib": 20.0,
+    "Name": "Veselin Tzinzov",
+    "Country": "Bulgaria",
+    "Time": "42:06.3",
+    "Deficit": "+3:36.6"
+  },
+  {
+    "Rank": 42.0,
+    "Bib": 6.0,
+    "Name": "Algo Kärp",
+    "Country": "Estonia",
+    "Time": "42:16.5",
+    "Deficit": "+3.46.8"
+  },
+  {
+    "Rank": 43.0,
+    "Bib": 16.0,
+    "Name": "Adrien Backscheider",
+    "Country": "France",
+    "Time": "42.21.7",
+    "Deficit": "+3:52.0"
+  },
+  {
+    "Rank": 44.0,
+    "Bib": 9.0,
+    "Name": "Andrew Musgrave",
+    "Country": "Great Britain",
+    "Time": "42.25.7",
+    "Deficit": "+3.56.0"
+  },
+  {
+    "Rank": 45.0,
+    "Bib": 57.0,
+    "Name": "Karel Tammjärv",
+    "Country": "Estonia",
+    "Time": "42:27.7",
+    "Deficit": "+3.58.0"
+  },
+  {
+    "Rank": 46.0,
+    "Bib": 1.0,
+    "Name": "Sergey Mikayelyan",
+    "Country": "Armenia",
+    "Time": "42:39.1",
+    "Deficit": "+4:09.4"
+  },
+  {
+    "Rank": 47.0,
+    "Bib": 18.0,
+    "Name": "Brian Gregg",
+    "Country": "United States",
+    "Time": "42:42.0",
+    "Deficit": "+4:12.3"
+  },
+  {
+    "Rank": 48.0,
+    "Bib": 2.0,
+    "Name": "Fabio Pasini",
+    "Country": "Italy",
+    "Time": "42:42.3",
+    "Deficit": "+4.12.6"
+  },
+  {
+    "Rank": 49.0,
+    "Bib": 54.0,
+    "Name": "Alexander Lasutkin",
+    "Country": "Belarus",
+    "Time": "42:45.1",
+    "Deficit": "+4.15.4"
+  },
+  {
+    "Rank": 50.0,
+    "Bib": 55.0,
+    "Name": "Imanol Rojo",
+    "Country": "Spain",
+    "Time": "42:45.4",
+    "Deficit": "+4.15.7"
+  },
+  {
+    "Rank": 51.0,
+    "Bib": 64.0,
+    "Name": "Peter Mlynár",
+    "Country": "Slovakia",
+    "Time": "42:50.3",
+    "Deficit": "+4.20.6"
+  },
+  {
+    "Rank": 52.0,
+    "Bib": 23.0,
+    "Name": "Kris Freeman",
+    "Country": "United States",
+    "Time": "42:54.8",
+    "Deficit": "+4:25.1"
+  },
+  {
+    "Rank": 53.0,
+    "Bib": 17.0,
+    "Name": "Sergei Dolidovich",
+    "Country": "Belarus",
+    "Time": "42:55.4",
+    "Deficit": "+4:25.7"
+  },
+  {
+    "Rank": 54.0,
+    "Bib": 58.0,
+    "Name": "Yerdos Akhmadiyev",
+    "Country": "Kazakhstan",
+    "Time": "43:02.2",
+    "Deficit": "+4:32.5"
+  },
+  {
+    "Rank": 55.0,
+    "Bib": 65.0,
+    "Name": "Sebastian Gazurek",
+    "Country": "Poland",
+    "Time": "43:06.7",
+    "Deficit": "+4:37.0"
+  },
+  {
+    "Rank": 56.0,
+    "Bib": 5.0,
+    "Name": "Cyril Miranda",
+    "Country": "France",
+    "Time": "43:22.5",
+    "Deficit": "+4:52.8"
+  },
+  {
+    "Rank": 57.0,
+    "Bib": 3.0,
+    "Name": "Max Hauke",
+    "Country": "Austria",
+    "Time": "43:23.4",
+    "Deficit": "+4:53.7"
+  },
+  {
+    "Rank": 58.0,
+    "Bib": 68.0,
+    "Name": "Martin Møller",
+    "Country": "Denmark",
+    "Time": "43:29.7",
+    "Deficit": "+5:00.0"
+  },
+  {
+    "Rank": 59.0,
+    "Bib": 24.0,
+    "Name": "Michail Semenov",
+    "Country": "Belarus",
+    "Time": "43:36.0",
+    "Deficit": "+5:06.3"
+  },
+  {
+    "Rank": 60.0,
+    "Bib": 62.0,
+    "Name": "Edi Dadić",
+    "Country": "Croatia",
+    "Time": "43:38.8",
+    "Deficit": "+5:09.1"
+  },
+  {
+    "Rank": 61.0,
+    "Bib": 59.0,
+    "Name": "Raido Ränkel",
+    "Country": "Estonia",
+    "Time": "43:38.9",
+    "Deficit": "+5:09.2"
+  },
+  {
+    "Rank": 62.0,
+    "Bib": 8.0,
+    "Name": "Paul Constantin Pepene",
+    "Country": "Romania",
+    "Time": "43:39.4",
+    "Deficit": "+5:09.7"
+  },
+  {
+    "Rank": 63.0,
+    "Bib": 56.0,
+    "Name": "Javier Gutiérrez Cuevas",
+    "Country": "Spain",
+    "Time": "43:43.9",
+    "Deficit": "+5:14.2"
+  },
+  {
+    "Rank": 64.0,
+    "Bib": 69.0,
+    "Name": "Pawel Klisz",
+    "Country": "Poland",
+    "Time": "43:51.6",
+    "Deficit": "+5:21.9"
+  },
+  {
+    "Rank": 65.0,
+    "Bib": 19.0,
+    "Name": "Graeme Killick",
+    "Country": "Canada",
+    "Time": "44:04.8",
+    "Deficit": "+5:35.1"
+  },
+  {
+    "Rank": 66.0,
+    "Bib": 63.0,
+    "Name": "Maciej Staręga",
+    "Country": "Poland",
+    "Time": "44:07.1",
+    "Deficit": "+5:37.4"
+  },
+  {
+    "Rank": 67.0,
+    "Bib": 66.0,
+    "Name": "Callum Smith",
+    "Country": "Great Britain",
+    "Time": "44:14.7",
+    "Deficit": "+5:45.0"
+  },
+  {
+    "Rank": 68.0,
+    "Bib": 78.0,
+    "Name": "Hwang Jun-Ho",
+    "Country": "South Korea",
+    "Time": "44:34.8",
+    "Deficit": "+6:05.1"
+  },
+  {
+    "Rank": 69.0,
+    "Bib": 71.0,
+    "Name": "Oleksii Krasovskyi",
+    "Country": "Ukraine",
+    "Time": "44:35.4",
+    "Deficit": "+6:05.7"
+  },
+  {
+    "Rank": 70.0,
+    "Bib": 72.0,
+    "Name": "Vytautas Strolia",
+    "Country": "Lithuania",
+    "Time": "45:08.0",
+    "Deficit": "+6:38.3"
+  },
+  {
+    "Rank": 71.0,
+    "Bib": 73.0,
+    "Name": "Sabahattin Oğlago",
+    "Country": "Turkey",
+    "Time": "45:16.0",
+    "Deficit": "+6:46.3"
+  },
+  {
+    "Rank": 72.0,
+    "Bib": 81.0,
+    "Name": "Sun Qinghai",
+    "Country": "China",
+    "Time": "45:28.2",
+    "Deficit": "+6:58.5"
+  },
+  {
+    "Rank": 73.0,
+    "Bib": 75.0,
+    "Name": "Arvis Liepiņš",
+    "Country": "Latvia",
+    "Time": "45:36.2",
+    "Deficit": "+7:06.5"
+  },
+  {
+    "Rank": 74.0,
+    "Bib": 85.0,
+    "Name": "Sævar Birgisson",
+    "Country": "Iceland",
+    "Time": "45:44.2",
+    "Deficit": "+7:14.5"
+  },
+  {
+    "Rank": 75.0,
+    "Bib": 67.0,
+    "Name": "Callum Watson",
+    "Country": "Australia",
+    "Time": "45:46.5",
+    "Deficit": "+7:16.8"
+  },
+  {
+    "Rank": 76.0,
+    "Bib": 74.0,
+    "Name": "Phillip Bellingham",
+    "Country": "Australia",
+    "Time": "46:14.4",
+    "Deficit": "+7:46.7"
+  },
+  {
+    "Rank": 77.0,
+    "Bib": 61.0,
+    "Name": "Milanko Petrović",
+    "Country": "Serbia",
+    "Time": "46:42.2",
+    "Deficit": "+8:12.5"
+  },
+  {
+    "Rank": 78.0,
+    "Bib": 80.0,
+    "Name": "Milán Szabó",
+    "Country": "Hungary",
+    "Time": "47:01.3",
+    "Deficit": "+8:31.6"
+  },
+  {
+    "Rank": 79.0,
+    "Bib": 83.0,
+    "Name": "Sattar Seid",
+    "Country": "Iran",
+    "Time": "47:16.1",
+    "Deficit": "+8:46.4"
+  },
+  {
+    "Rank": 80.0,
+    "Bib": 86.0,
+    "Name": "Bold Byambadorj",
+    "Country": "Mongolia",
+    "Time": "48:29.6",
+    "Deficit": "+9:59.9"
+  },
+  {
+    "Rank": 81.0,
+    "Bib": 79.0,
+    "Name": "Darko Damjanovski",
+    "Country": "Macedonia",
+    "Time": "48:34.9",
+    "Deficit": "+10:05.2"
+  },
+  {
+    "Rank": 82.0,
+    "Bib": 87.0,
+    "Name": "Jan Rossiter",
+    "Country": "Ireland",
+    "Time": "48:44.6",
+    "Deficit": "+10:14.9"
+  },
+  {
+    "Rank": 83.0,
+    "Bib": 84.0,
+    "Name": "Federico Cichero",
+    "Country": "Argentina",
+    "Time": "49:11.3",
+    "Deficit": "+10:41.6"
+  },
+  {
+    "Rank": 84.0,
+    "Bib": 88.0,
+    "Name": "Tucker Murphy",
+    "Country": "Bermuda",
+    "Time": "49:19.9",
+    "Deficit": "+10:50.2"
+  },
+  {
+    "Rank": 85.0,
+    "Bib": 89.0,
+    "Name": "Nadeem Iqbal",
+    "Country": "India",
+    "Time": "55:12.5",
+    "Deficit": "+16:42.8"
+  },
+  {
+    "Rank": 86.0,
+    "Bib": 91.0,
+    "Name": "Dachhiri Sherpa",
+    "Country": "Nepal",
+    "Time": "55:39.3",
+    "Deficit": "+17:09.6"
+  },
+  {
+    "Rank": 87.0,
+    "Bib": 92.0,
+    "Name": "Roberto Carcelen",
+    "Country": "Peru",
+    "Time": "1:06:28.9",
+    "Deficit": "+27:59.2"
+  },
+  {
+    "Rank": null,
+    "Bib": 50.0,
+    "Name": "Alex Harvey",
+    "Country": "Canada",
+    "Time": "DNF",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 82.0,
+    "Name": "Jānis Paipals",
+    "Country": "Latvia",
+    "Time": "DNF",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 77.0,
+    "Name": "Rejhan Šmrković",
+    "Country": "Serbia",
+    "Time": "DNF",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 90.0,
+    "Name": "Gary di Silvestri",
+    "Country": "Dominica",
+    "Time": "DNF",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 76.0,
+    "Name": "Artur Yeghoyan",
+    "Country": "Armenia",
+    "Time": "DNS",
+    "Deficit": null
+  }
+]

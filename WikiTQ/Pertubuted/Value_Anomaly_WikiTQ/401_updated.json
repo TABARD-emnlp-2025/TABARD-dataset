@@ -1,0 +1,65 @@
+[
+  {
+    "Rank": 1.0,
+    "Lane": 4.0,
+    "Name": "Yelizaveta Bryzhina",
+    "Nationality": "Ukraine",
+    "React": "0.245",
+    "Time": "23.10",
+    "Notes": "Q"
+  },
+  {
+    "Rank": "@@@_None",
+    "Lane": 6.0,
+    "Name": "Myriam Soumaré",
+    "Nationality": "France",
+    "React": "0.179",
+    "Time": "23.22",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 3.0,
+    "Lane": "@@@_-4.5",
+    "Name": "Ksenija Balta",
+    "Nationality": "Estonia",
+    "React": "0.205",
+    "Time": "23.75",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 4.0,
+    "Lane": 5.0,
+    "Name": "Niamh Whelan",
+    "Nationality": "Ireland",
+    "React": "0.253",
+    "Time": "23.78",
+    "Notes": "q"
+  },
+  {
+    "Rank": 5.0,
+    "Lane": 7.0,
+    "Name": "Sabina Veit",
+    "Nationality": "Slovenia",
+    "React": "0.205",
+    "Time": "23.78",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_-12.3343872781",
+    "Lane": 2.0,
+    "Name": "@@@_None",
+    "Nationality": "Sweden",
+    "React": "0.217",
+    "Time": "24.13",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Lane": null,
+    "Name": null,
+    "Nationality": null,
+    "React": "Wind: -2.6 m/s",
+    "Time": "Wind: -2.6 m/s",
+    "Notes": "Wind: -2.6 m/s"
+  }
+]

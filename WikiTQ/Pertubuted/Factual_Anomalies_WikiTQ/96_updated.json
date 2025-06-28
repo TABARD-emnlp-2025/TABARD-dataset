@@ -1,0 +1,86 @@
+[
+    {
+        "Week":1,
+        "Date":"September 28, 1952",
+        "Opponent":"at Dallas Texans",
+        "Result":"W 24\u20136",
+        "Attendance":"17,499"
+    },
+    {
+        "Week":2,
+        "Date":"October 4, 1952",
+        "Opponent":"at Philadelphia Eagles",
+        "Result":"W 31\u20137",
+        "Attendance":"18,648"
+    },
+    {
+        "Week":3,
+        "Date":"October 12, 1952",
+        "Opponent":"at Cleveland Browns",
+        "Result":"W 17\u20139",
+        "Attendance":"51,858"
+    },
+    {
+        "Week":4,
+        "Date":"October 19, 1952",
+        "Opponent":"Chicago Cardinals",
+        "Result":"L 24\u201323",
+        "Attendance":"41,182"
+    },
+    {
+        "Week":5,
+        "Date":"October 26, 1952",
+        "Opponent":"Philadelphia Eagles",
+        "Result":"L 14\u201310",
+        "Attendance":"@@@_2,145,800"
+    },
+    {
+        "Week":6,
+        "Date":"November 2, 1952",
+        "Opponent":"at Chicago Cardinals",
+        "Result":"W 28\u20136",
+        "Attendance":"27,195"
+    },
+    {
+        "Week":7,
+        "Date":"November 9, 1952",
+        "Opponent":"San Francisco 49ers",
+        "Result":"W 23\u201314",
+        "Attendance":"54,230"
+    },
+    {
+        "Week":8,
+        "Date":"November 16, 1952",
+        "Opponent":"Green Bay Packers",
+        "Result":"L 17\u20133",
+        "Attendance":"26,723"
+    },
+    {
+        "Week":9,
+        "Date":"November 23, 1952",
+        "Opponent":"at Washington Redskins",
+        "Result":"W 14\u201310",
+        "Attendance":"@@@_2,112,500"
+    },
+    {
+        "Week":10,
+        "Date":"November 30, 1952",
+        "Opponent":"at Pittsburgh Steelers",
+        "Result":"L 63\u20137",
+        "Attendance":"15,140"
+    },
+    {
+        "Week":11,
+        "Date":"December 7, 1952",
+        "Opponent":"Washington Redskins",
+        "Result":"L 27\u201317",
+        "Attendance":"21,237"
+    },
+    {
+        "Week":12,
+        "Date":"December 14, 1952",
+        "Opponent":"Cleveland Browns",
+        "Result":"@@@_W 3\u2013334",
+        "Attendance":"41,610"
+    }
+]

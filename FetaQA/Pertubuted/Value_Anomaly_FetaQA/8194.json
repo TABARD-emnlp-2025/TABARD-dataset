@@ -1,0 +1,44 @@
+[
+    {
+        "Date":"30 October 1942",
+        "Name":"Bullmouth",
+        "Nationality":"United Kingdom",
+        "Tonnage":"7,519",
+        "Fate":"Damaged"
+    },
+    {
+        "Date":"30 October 1942",
+        "Name":"Silverwillow",
+        "Nationality":"United Kingdom",
+        "Tonnage":"6,373",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"9 March 1943",
+        "Name":"Malantic",
+        "Nationality":"United States",
+        "Tonnage":"3,837",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"9 March 1943",
+        "Name":"Rosewood",
+        "Nationality":"United Kingdom",
+        "Tonnage":"5,989",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"4 July 1943",
+        "Name":"City of Venice",
+        "Nationality":"United Kingdom",
+        "Tonnage":"8,762",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"4 July 1943",
+        "Name":"HMS LCE-14",
+        "Nationality":"Royal Navy",
+        "Tonnage":10,
+        "Fate":"Sunk (transported on board City of Venice)"
+    }
+]

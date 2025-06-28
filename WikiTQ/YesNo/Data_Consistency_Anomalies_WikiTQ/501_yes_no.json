@@ -1,0 +1,65 @@
+[
+    {
+        "Institution": "no",
+        "Location": "yes",
+        "Nickname": "no",
+        "Founded": "no",
+        "Type": "no",
+        "Enrollment": "no",
+        "Joined": "no"
+    },
+    {
+        "Institution": "no",
+        "Location": "no",
+        "Nickname": "no",
+        "Founded": "no",
+        "Type": "no",
+        "Enrollment": "no",
+        "Joined": "no"
+    },
+    {
+        "Institution": "yes",
+        "Location": "no",
+        "Nickname": "yes",
+        "Founded": "no",
+        "Type": "no",
+        "Enrollment": "no",
+        "Joined": "no"
+    },
+    {
+        "Institution": "no",
+        "Location": "no",
+        "Nickname": "no",
+        "Founded": "no",
+        "Type": "yes",
+        "Enrollment": "no",
+        "Joined": "no"
+    },
+    {
+        "Institution": "no",
+        "Location": "no",
+        "Nickname": "no",
+        "Founded": "no",
+        "Type": "no",
+        "Enrollment": "no",
+        "Joined": "no"
+    },
+    {
+        "Institution": "no",
+        "Location": "no",
+        "Nickname": "no",
+        "Founded": "no",
+        "Type": "no",
+        "Enrollment": "yes",
+        "Joined": "no"
+    },
+    {
+        "Institution": "yes",
+        "Location": "no",
+        "Nickname": "no",
+        "Founded": "no",
+        "Type": "no",
+        "Enrollment": "no",
+        "Joined": "no"
+    }
+]

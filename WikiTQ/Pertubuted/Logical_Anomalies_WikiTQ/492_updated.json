@@ -1,0 +1,121 @@
+[
+    {
+        "Year":2003,
+        "Competition":"World Youth Championships",
+        "Venue":"Sherbrooke, Canada",
+        "Position":"7th",
+        "Notes":"1.75 m"
+    },
+    {
+        "Year":2004,
+        "Competition":"World Junior Championships",
+        "Venue":"Grosseto, Italy",
+        "Position":"9th",
+        "Notes":"1.80 m"
+    },
+    {
+        "Year":2005,
+        "Competition":"European Junior Championships",
+        "Venue":"Kaunas, Lithuania",
+        "Position":"4th",
+        "Notes":"1.82 m"
+    },
+    {
+        "Year":2009,
+        "Competition":"European Indoor Championships",
+        "Venue":"Turin, Italy",
+        "Position":"5th",
+        "Notes":"1.92 m"
+    },
+    {
+        "Year":2010,
+        "Competition":"World Indoor Championships",
+        "Venue":"Doha, Qatar",
+        "Position":"10th (q)",
+        "Notes":"1.89 m"
+    },
+    {
+        "Year":2010,
+        "Competition":"European Championships",
+        "Venue":"Barcelona, Spain",
+        "Position":"13th (q)",
+        "Notes":"1.90 m"
+    },
+    {
+        "Year":2011,
+        "Competition":"Universiade",
+        "Venue":"Shenzhen, China",
+        "Position":"4th",
+        "Notes":"1.86 m"
+    },
+    {
+        "Year":2012,
+        "Competition":"World Indoor Championships",
+        "Venue":"Istanbul, Turkey",
+        "Position":"9th (q)",
+        "Notes":"1.92 m"
+    },
+    {
+        "Year":2012,
+        "Competition":"European Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"3rd",
+        "Notes":"1.92 m"
+    },
+    {
+        "Year":2012,
+        "Competition":"Olympic Games",
+        "Venue":"London, United Kingdom",
+        "Position":"10th",
+        "Notes":"1.93 m"
+    },
+    {
+        "Year":2013,
+        "Competition":"World Championships",
+        "Venue":"Moscow, Russia",
+        "Position":"9th",
+        "Notes":"1.93 m"
+    },
+    {
+        "Year":2014,
+        "Competition":"World Indoor Championships",
+        "Venue":"Sopot, Poland",
+        "Position":"13th (q)",
+        "Notes":"1.92 m"
+    },
+    {
+        "Year":1700,
+        "Competition":"World Youth Championships",
+        "Venue":"Atlantis",
+        "Position":"1st",
+        "Notes":"2.00 m"
+    },
+    {
+        "Year":2015,
+        "Competition":"World Championships",
+        "Venue":"Narnia",
+        "Position":"2nd",
+        "Notes":"1.95 m"
+    },
+    {
+        "Year":2016,
+        "Competition":"World Indoor Championships",
+        "Venue":"Middle Earth",
+        "Position":"3rd",
+        "Notes":"1.97 m"
+    },
+    {
+        "Year":2016,
+        "Competition":"Olympic Games",
+        "Venue":"Mount Olympus",
+        "Position":"10th",
+        "Notes":"1.93 m"
+    },
+    {
+        "Year":2017,
+        "Competition":"European Championships",
+        "Venue":"Wakanda",
+        "Position":"4th",
+        "Notes":"1.96 m"
+    }
+]

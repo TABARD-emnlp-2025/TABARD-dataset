@@ -1,0 +1,233 @@
+[
+  {
+    "Name": "Abu al-Duhur Military Airbase",
+    "Location served": "Abu al-Duhur",
+    "Governorate": "Aleppo",
+    "Utilization": "Military",
+    "Helipads": 0.0,
+    "Runways": 1.0,
+    "Shelters": 20.0,
+    "Squadrons": "678 Squadron MiG-23MS\n2 Squadron L-39ZO\n? Squadron L-39ZO",
+    "Coordinates": "35°43′55″N 37°06′15″E﻿ / ﻿35.73194°N 37.10417°E"
+  },
+  {
+    "Name": "Al-Qusayr Military Airbase",
+    "Location served": "Al-Qusayr",
+    "Governorate": "Homs",
+    "Utilization": "Military",
+    "Helipads": 0.0,
+    "Runways": 1.0,
+    "Shelters": 16.0,
+    "Squadrons": "825 Squadron MiG-21Bis\n826 Squadron Su-27SK (unconfirmed)",
+    "Coordinates": "34°34′08″N 36°34′22″E﻿ / ﻿34.56889°N 36.57278°E"
+  },
+  {
+    "Name": "Al-Nasiriyah Military Airbase",
+    "Location served": "Al-Nasiriyah",
+    "Governorate": "Damascus",
+    "Utilization": "Military",
+    "Helipads": 0.0,
+    "Runways": "@@@_23.6263956452",
+    "Shelters": 20.0,
+    "Squadrons": "695 Squadron MiG-23BN/UB\n698 Squadron MiG-23BN/UB",
+    "Coordinates": "33°55′08″N 36°51′59″E﻿ / ﻿33.91889°N 36.86639°E"
+  },
+  {
+    "Name": "Al-Nayrab Military Airbase",
+    "Location served": "Al-Nayrab, Aleppo",
+    "Governorate": "Aleppo",
+    "Utilization": "Military",
+    "Helipads": null,
+    "Runways": "@@@_None",
+    "Shelters": null,
+    "Squadrons": null,
+    "Coordinates": "36°11′05″N 37°12′57″E﻿ / ﻿36.18472°N 37.21583°E"
+  },
+  {
+    "Name": "Tha'lah Military Airbase",
+    "Location served": "Tha'lah",
+    "Governorate": "As-Suwayda",
+    "Utilization": "Military",
+    "Helipads": 0.0,
+    "Runways": 1.0,
+    "Shelters": 16.0,
+    "Squadrons": "765 Squadron Mi-25\n766 Squadron Mi-25",
+    "Coordinates": "32°42′19″N 36°24′46″E﻿ / ﻿32.70528°N 36.41278°E"
+  },
+  {
+    "Name": "Al-Dumayr Military Airport",
+    "Location served": "Al-Dumayr",
+    "Governorate": "Damascus",
+    "Utilization": "@@@_None",
+    "Helipads": 0.0,
+    "Runways": 1.0,
+    "Shelters": "@@@_271.8969107354",
+    "Squadrons": "67 Squadron MiG-23ML\n? Squadron Su-22M-2",
+    "Coordinates": "33°36′35″N 36°44′56″E﻿ / ﻿33.60972°N 36.74889°E"
+  },
+  {
+    "Name": "Hama Military Airport",
+    "Location served": "Hama",
+    "Governorate": "Hama",
+    "Utilization": "Military",
+    "Helipads": 10.0,
+    "Runways": 1.0,
+    "Shelters": 20.0,
+    "Squadrons": "679 Squadron MiG-21MF/UM\n680 Squadron MiG-21MF/UM\n? Squadron MiG-29",
+    "Coordinates": "35°07′05″N 36°42′40″E﻿ / ﻿35.11806°N 36.71111°E"
+  },
+  {
+    "Name": "Hamdan Military Airbase",
+    "Location served": "Abu Kamal",
+    "Governorate": "Deir ez-Zor",
+    "Utilization": "Military",
+    "Helipads": null,
+    "Runways": null,
+    "Shelters": null,
+    "Squadrons": null,
+    "Coordinates": "34°28′55″N 40°53′51″E﻿ / ﻿34.48194°N 40.89750°E"
+  },
+  {
+    "Name": "Jirah Military Airbase",
+    "Location served": "Jirah",
+    "Governorate": "Aleppo",
+    "Utilization": "Military",
+    "Helipads": 0.0,
+    "Runways": 1.0,
+    "Shelters": 12.0,
+    "Squadrons": "? Squadron L-39ZA",
+    "Coordinates": "36°05′48″N 37°56′11″E﻿ / ﻿36.09667°N 37.93639°E"
+  },
+  {
+    "Name": "Khalkhalah Military Airbase",
+    "Location served": "Khalkhalah",
+    "Governorate": "As-Suwayda",
+    "Utilization": "Military",
+    "Helipads": 20.0,
+    "Runways": 2.0,
+    "Shelters": 30.0,
+    "Squadrons": "945 Squadron MiG-21Bis\n946 Squadron MiG-21Bis",
+    "Coordinates": "33°03′40″N 36°33′08″E﻿ / ﻿33.06111°N 36.55222°E"
+  },
+  {
+    "Name": "Kowaires Military Airbase",
+    "Location served": "Kowaires",
+    "Governorate": "Aleppo",
+    "Utilization": "Military\nFlight Training School",
+    "Helipads": 0.0,
+    "Runways": 1.0,
+    "Shelters": 11.0,
+    "Squadrons": "3 Squadron L-39ZA, MBB 223 Flamingo",
+    "Coordinates": "36°11′13″N 37°34′59″E﻿ / ﻿36.18694°N 37.58306°E"
+  },
+  {
+    "Name": "Marj Ruhayyil Military Airbase",
+    "Location served": "Marj Ruhayyil",
+    "Governorate": "Damascus",
+    "Utilization": "Military",
+    "Helipads": 26.0,
+    "Runways": 1.0,
+    "Shelters": 24.0,
+    "Squadrons": "54 Squadron MiG-23ML\n77 Squadron MiG-23ML/UM\n767 Squadron Mi-25",
+    "Coordinates": "33°17′11″N 36°27′26″E﻿ / ﻿33.28639°N 36.45722°E"
+  },
+  {
+    "Name": "Marj al-Sultan Military Heliport",
+    "Location served": "Marj al-Sultan",
+    "Governorate": "Damascus",
+    "Utilization": "Military",
+    "Helipads": 35.0,
+    "Runways": 1.0,
+    "Shelters": 0.0,
+    "Squadrons": "525 Squadron Mi-8 Hip C/H\n537 Squadron Mi-8 Hip C/H\n909 Squadron (VIP) Mi-8\n? Squadron Mi-8 Hip H/J/K",
+    "Coordinates": "33°29′13″N 36°28′31″E﻿ / ﻿33.48694°N 36.47528°E\n33°30′01″N 36°28′00″E﻿ / ﻿33.50028°N 36.46667°E"
+  },
+  {
+    "Name": "Mezzeh Military Airport",
+    "Location served": "Mezzeh",
+    "Governorate": "Damascus",
+    "Utilization": "Military",
+    "Helipads": 12.0,
+    "Runways": 1.0,
+    "Shelters": 22.0,
+    "Squadrons": "976 Squadron SA-324-L\n977 Squadron SA-324-L",
+    "Coordinates": "33°28′39″N 36°13′24″E﻿ / ﻿33.47750°N 36.22333°E"
+  },
+  {
+    "Name": "Menagh Military Airbase",
+    "Location served": "Menagh",
+    "Governorate": "Aleppo",
+    "Utilization": "Military\nFlight Training School",
+    "Helipads": 8.0,
+    "Runways": 2.0,
+    "Shelters": 0.0,
+    "Squadrons": "4 Squadron Mi-8 Hip C, MBB 223 Flamingo",
+    "Coordinates": "36°31′17″N 37°02′29″E﻿ / ﻿36.52139°N 37.04139°E"
+  },
+  {
+    "Name": "Qabr al-Sitt Military Heliport",
+    "Location served": "Beit Sahem",
+    "Governorate": "Rif Dimashq",
+    "Utilization": "Military",
+    "Helipads": 20.0,
+    "Runways": 1.0,
+    "Shelters": 0.0,
+    "Squadrons": "532 Squadron Mi-2, Mi-8 Hip C/H",
+    "Coordinates": "33°27′30″N 36°21′23″E﻿ / ﻿33.45833°N 36.35639°E"
+  },
+  {
+    "Name": "Sayqal Military Airbase",
+    "Location served": "Sayqal",
+    "Governorate": "Damascus",
+    "Utilization": "Military",
+    "Helipads": 0.0,
+    "Runways": 2.0,
+    "Shelters": 44.0,
+    "Squadrons": "697 Squadron MiG-29\n698 Squadron MiG-29\n699 Squadron MiG-29",
+    "Coordinates": "33°40′56″N 37°12′50″E﻿ / ﻿33.68222°N 37.21389°E"
+  },
+  {
+    "Name": "Shayrat Air Base",
+    "Location served": "Shayrat",
+    "Governorate": "Homs",
+    "Utilization": "Military",
+    "Helipads": 0.0,
+    "Runways": 2.0,
+    "Shelters": 40.0,
+    "Squadrons": "675 Squadron MiG-23MF/UM\n677 Squadron Su-22M-2\n685 Squadron Su-22M-4",
+    "Coordinates": "34°29′24″N 36°54′32″E﻿ / ﻿34.49000°N 36.90889°E"
+  },
+  {
+    "Name": "Tabqa Military Airbase",
+    "Location served": "Tabqa",
+    "Governorate": "Ar-Raqqah",
+    "Utilization": "Military",
+    "Helipads": 0.0,
+    "Runways": 1.0,
+    "Shelters": 18.0,
+    "Squadrons": "12 Squadron MiG-21MF/UM\n24 Brigade Mi-8",
+    "Coordinates": "35°45′17″N 38°34′00″E﻿ / ﻿35.75472°N 38.56667°E"
+  },
+  {
+    "Name": "Taftanaz Military Airbase",
+    "Location served": "Taftanaz",
+    "Governorate": "Idlib",
+    "Utilization": "Military",
+    "Helipads": 48.0,
+    "Runways": "@@@_36.937295724",
+    "Shelters": 0.0,
+    "Squadrons": "253 Squadron Mi-8 Hip C/H\n255 Squadron Mi-8 Hip C/H",
+    "Coordinates": "35°58′20″N 36°46′59″E﻿ / ﻿35.97222°N 36.78306°E"
+  },
+  {
+    "Name": "Tiyas Military Airbase",
+    "Location served": "Tiyas",
+    "Governorate": "Homs",
+    "Utilization": "Military",
+    "Helipads": 0.0,
+    "Runways": 1.0,
+    "Shelters": 60.0,
+    "Squadrons": "1 Squadron MiG-25PD/PU/RB\n5 Squadron MiG-25PD/PU/RB\n819 Squadron Su-24MK\n827 Squadron Su-22M-4",
+    "Coordinates": "34°31′21″N 37°37′47″E﻿ / ﻿34.52250°N 37.62972°E"
+  }
+]

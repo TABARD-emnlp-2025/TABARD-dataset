@@ -1,0 +1,30 @@
+[
+    {
+        "Year":1994,
+        "Award":"American Music Awards of 1994",
+        "Nominated work":"\"Bacdafucup\"",
+        "Category":"Rap/Hip-Hop New Artist",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1994,
+        "Award":"1994 Soul Train Music Awards",
+        "Nominated work":"@@@_Bacdafucup",
+        "Category":"Best Rap Album",
+        "Result":"Won"
+    },
+    {
+        "Year":1994,
+        "Award":"American Music Awards of 1994",
+        "Nominated work":"bacdafucup",
+        "Category":"Rap/Hip-Hop New Artist",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1994,
+        "Award":"1994 Soul Train Music Awards",
+        "Nominated work":"\"Bacdafucup\"",
+        "Category":"Best Rap Album",
+        "Result":"won"
+    }
+]

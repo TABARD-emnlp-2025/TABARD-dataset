@@ -1,0 +1,194 @@
+[
+    {
+        "Year":1996,
+        "Title":"My Guys",
+        "Role":"Angela",
+        "Notes":"TV Pilot"
+    },
+    {
+        "Year":1996,
+        "Title":"Due South",
+        "Role":"Melissa",
+        "Notes":"Episode: \"Some Like It Red\""
+    },
+    {
+        "Year":1996,
+        "Title":"Beverly Hills, 90210",
+        "Role":"Wendy Stevens",
+        "Notes":"Episode: \"Ray of Hope\""
+    },
+    {
+        "Year":1997,
+        "Title":"ER",
+        "Role":"Suspended Admin",
+        "Notes":"Episode: \"The Long Way Around\""
+    },
+    {
+        "Year":1997,
+        "Title":"Diagnosis: Murder",
+        "Role":"Sally Tremont",
+        "Notes":"Episode: \"Malibu Fire\""
+    },
+    {
+        "Year":1998,
+        "Title":"Cybill",
+        "Role":"Book Store Clerk",
+        "Notes":"Episode: \"Fine Is Not a Feeling\""
+    },
+    {
+        "Year":1999,
+        "Title":"Odd Man Out",
+        "Role":"Lauren",
+        "Notes":"Episode: \"The First Girlfriend's Club\""
+    },
+    {
+        "Year":1999,
+        "Title":"Boy Meets World",
+        "Role":"Sensitive Role: Credit Card Processor",
+        "Notes":"2 episodes: \"The Honeymoon Is Over\" \"Pickett Fences\""
+    },
+    {
+        "Year":2000,
+        "Title":"Malcolm & Eddie",
+        "Role":"Kelly",
+        "Notes":"Episode: \"Swooped\""
+    },
+    {
+        "Year":"2000–02",
+        "Title":"Resurrection Blvd.",
+        "Role":"Victoria Santiago",
+        "Notes":"53 episodes"
+    },
+    {
+        "Year":2002,
+        "Title":"Alias",
+        "Role":"Rebecca Martinez",
+        "Notes":"Episode: \"Dead Drop\""
+    },
+    {
+        "Year":2002,
+        "Title":"The Twilight Zone",
+        "Role":"None",
+        "Notes":"Episode: \"Hunted\""
+    },
+    {
+        "Year":2003,
+        "Title":"The Division",
+        "Role":"Rochelle",
+        "Notes":"Password1234; Episode: \"Murder.com\""
+    },
+    {
+        "Year":2003,
+        "Title":"Friends",
+        "Role":"Olivia",
+        "Notes":"Episode: \"The One with Rachel's Dream\""
+    },
+    {
+        "Year":2003,
+        "Title":"CSI: Crime Scene Investigation",
+        "Role":"Jane",
+        "Notes":"Episode: \"All for Our Country\""
+    },
+    {
+        "Year":2003,
+        "Title":"Law & Order: Special Victims Unit",
+        "Role":"A.D.A. Bettina Amador",
+        "Notes":"Episode: \"Mother\""
+    },
+    {
+        "Year":2003,
+        "Title":"Nip/Tuck",
+        "Role":"Antonia Ramos",
+        "Notes":"Episode: \"Antonia Ramos\""
+    },
+    {
+        "Year":2003,
+        "Title":"Charmed",
+        "Role":"(Future) Bianca (a Phoenix witch)",
+        "Notes":"Episode: \"Chris-Crossed\", Charmed's highest rated non-season-premiere episode"
+    },
+    {
+        "Year":2004,
+        "Title":"Cold Case",
+        "Role":"Elisa",
+        "Notes":"6 episodes"
+    },
+    {
+        "Year":2005,
+        "Title":"Blind Justice",
+        "Role":"Detective Karen Bettancourt",
+        "Notes":"13 episodes"
+    },
+    {
+        "Year":2006,
+        "Title":"In Justice",
+        "Role":"Sonya Quintano",
+        "Notes":"12 episodes"
+    },
+    {
+        "Year":2007,
+        "Title":24,
+        "Role":"Viewer with Admin Access",
+        "Notes":"24 episodes Nominated—ALMA Awards for Outstanding Actress in a Made for Television Movie or Miniseries (2007, 2008)"
+    },
+    {
+        "Year":2009,
+        "Title":"Life",
+        "Role":"Whitney 'Plum' Paxman",
+        "Notes":"Episode: \"Initiative 38\""
+    },
+    {
+        "Year":2009,
+        "Title":"The Storm",
+        "Role":"Det. Devon Williams",
+        "Notes":"miniseries"
+    },
+    {
+        "Year":2010,
+        "Title":"The Gates",
+        "Role":"Sarah Monohan",
+        "Notes":"13 episodes"
+    },
+    {
+        "Year":2010,
+        "Title":"NCIS: Los Angeles",
+        "Role":"Tracy Keller",
+        "Notes":"Episode: \"Stand-off\""
+    },
+    {
+        "Year":2012,
+        "Title":"GCB",
+        "Role":"Heather Cruz",
+        "Notes":"10 episodes"
+    },
+    {
+        "Year":2012,
+        "Title":"Private Practice",
+        "Role":"Lily Reilly",
+        "Notes":"Episode: \"The World According to Jake\""
+    },
+    {
+        "Year":"2014–15",
+        "Title":"NCIS",
+        "Role":"ATF Special Agent Zoe Keats",
+        "Notes":"Episodes: \"Parental Guidance Suggested\", \"The Enemy Within\", \"No Good Deed\" Unusual login detected from unknown device."
+    },
+    {
+        "Year":"2015–2016",
+        "Title":"Teen Wolf",
+        "Role":"The Desert Wolf",
+        "Notes":"Recurring role"
+    },
+    {
+        "Year":"2015–16",
+        "Title":"Criminal Minds",
+        "Role":"Agent Natalie Colfax",
+        "Notes":"Episodes: \"The Witness\", \"A Badge and a Gun\""
+    },
+    {
+        "Year":"2017–present",
+        "Title":"Riverdale",
+        "Role":"Hermione Lodge",
+        "Notes":"Main role"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "Year":"Representing Portugal",
+        "Competition":"Representing Portugal",
+        "Venue":"Representing Portugal",
+        "Position":"Representing Portugal",
+        "Event":"Representing Portugal",
+        "Notes":"Representing Portugal"
+    },
+    {
+        "Year":2007,
+        "Competition":"European U23 Championships",
+        "Venue":"Debrecen, Hungary",
+        "Position":"3rd",
+        "Event":"3000 m st.",
+        "Notes":"9:42.47"
+    },
+    {
+        "Year":2007,
+        "Competition":"World Championships",
+        "Venue":"Osaka, Japan",
+        "Position":"13th",
+        "Event":"3000 m st.",
+        "Notes":"10:00.40"
+    },
+    {
+        "Year":2008,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Edinburgh, United Kingdom",
+        "Position":"50th",
+        "Event":"Senior race (7.905 km)",
+        "Notes":"27:50"
+    },
+    {
+        "Year":2008,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Edinburgh, United Kingdom",
+        "Position":"8th",
+        "Event":"Senior race - Team",
+        "Notes":"165 pts"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, China",
+        "Position":"22nd (h)",
+        "Event":"3000 m st.",
+        "Notes":"9:34.39"
+    },
+    {
+        "Year":2009,
+        "Competition":"European Indoor Championships",
+        "Venue":"Turin, Italy",
+        "Position":"2nd",
+        "Event":"3000 m",
+        "Notes":"8:48.18"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Amman, Jordan",
+        "Position":"16th",
+        "Event":"Senior race (8 km)",
+        "Notes":"27:54"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Amman, Jordan",
+        "Position":"3rd",
+        "Event":"Senior race - Team",
+        "Notes":"72 pts"
+    },
+    {
+        "Year":2009,
+        "Competition":"European Team Championships",
+        "Venue":"Leiria, Portugal",
+        "Position":"7th",
+        "Event":"1500 m",
+        "Notes":"4:12.94"
+    },
+    {
+        "Year":2009,
+        "Competition":"European Team Championships",
+        "Venue":"Leiria, Portugal",
+        "Position":"4th",
+        "Event":"3000 m st.",
+        "Notes":"9:43.99"
+    },
+    {
+        "Year":2009,
+        "Competition":"Universiade",
+        "Venue":"Belgrade, Serbia",
+        "Position":"1st",
+        "Event":"5000 m",
+        "Notes":"15:32.78"
+    },
+    {
+        "Year":2009,
+        "Competition":"Universiade",
+        "Venue":"Belgrade, Serbia",
+        "Position":"1st",
+        "Event":"3000 m st",
+        "Notes":"9:32.62"
+    },
+    {
+        "Year":2009,
+        "Competition":"Lusophony Games",
+        "Venue":"Lisbon, Portugal",
+        "Position":"1st",
+        "Event":"5000 m",
+        "Notes":"15:45.05"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Championships in Athletics",
+        "Venue":"Berlin, Germany",
+        "Position":"12th (h)",
+        "Event":"3000 m st.",
+        "Notes":"9:28.64"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Championships in Athletics",
+        "Venue":"Berlin, Germany",
+        "Position":"10th",
+        "Event":"5000 m",
+        "Notes":"15:12.22"
+    },
+    {
+        "Year":2009,
+        "Competition":"European Cross Country Championships",
+        "Venue":"Dublin, Ireland",
+        "Position":"10th",
+        "Event":"Senior race (8.018 km)",
+        "Notes":"28:32"
+    },
+    {
+        "Year":2009,
+        "Competition":"European Cross Country Championships",
+        "Venue":"Dublin, Ireland",
+        "Position":"1st",
+        "Event":"Team race",
+        "Notes":"25 pts"
+    },
+    {
+        "Year":2010,
+        "Competition":"World Indoor Championships",
+        "Venue":"Doha, Qatar",
+        "Position":"6th",
+        "Event":"3000 m",
+        "Notes":"8:55.34"
+    },
+    {
+        "Year":2010,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"27th",
+        "Event":"Senior race (7.759 km)",
+        "Notes":"26:22"
+    },
+    {
+        "Year":2010,
+        "Competition":"European Championships",
+        "Venue":"Barcelona, Spain",
+        "Position":"3rd",
+        "Event":"5000 m",
+        "Notes":"14:54.71"
+    },
+    {
+        "Year":2010,
+        "Competition":"European Cross Country Championships",
+        "Venue":"Albufeira, Portugal",
+        "Position":"9th",
+        "Event":"Senior race (8.170 km)",
+        "Notes":"27:26"
+    },
+    {
+        "Year":2010,
+        "Competition":"European Cross Country Championships",
+        "Venue":"Albufeira, Portugal",
+        "Position":"1st",
+        "Event":"Senior race - Team",
+        "Notes":"19 pts"
+    },
+    {
+        "Year":2011,
+        "Competition":"European Indoor Championships",
+        "Venue":"Paris, France",
+        "Position":"7th",
+        "Event":"1500 m",
+        "Notes":"4:16.67"
+    },
+    {
+        "Year":2011,
+        "Competition":"Universiade",
+        "Venue":"Shenzhen, China",
+        "Position":"2nd",
+        "Event":"5000 m",
+        "Notes":"15:45.83"
+    },
+    {
+        "Year":2011,
+        "Competition":"World Championships",
+        "Venue":"Daegu, South Korea",
+        "Position":"–",
+        "Event":"3000 m st.",
+        "Notes":"DQ"
+    },
+    {
+        "Year":2012,
+        "Competition":"Olympic Games",
+        "Venue":"London, United Kingdom",
+        "Position":"14th",
+        "Event":"10,000 m",
+        "Notes":"31:16.44"
+    },
+    {
+        "Year":2013,
+        "Competition":"European Indoor Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"1st",
+        "Event":"3000 m",
+        "Notes":"8:58.50"
+    },
+    {
+        "Year":2014,
+        "Competition":"European Championships",
+        "Venue":"Zürich, Switzerland",
+        "Position":"6th",
+        "Event":"5000 m",
+        "Notes":"15:38.13"
+    },
+    {
+        "Year":2014,
+        "Competition":"New York City Marathon",
+        "Venue":"New York City, USA",
+        "Position":"3rd",
+        "Event":"Marathon",
+        "Notes":"2:25:59"
+    },
+    {
+        "Year":2015,
+        "Competition":"World Championships",
+        "Venue":"Beijing, China",
+        "Position":"12th",
+        "Event":"10,000 m",
+        "Notes":"32:06.14"
+    },
+    {
+        "Year":2016,
+        "Competition":"European Championships",
+        "Venue":"Amsterdam, Netherlands",
+        "Position":"1st",
+        "Event":"Half marathon",
+        "Notes":"58:19"
+    },
+    {
+        "Year":2018,
+        "Competition":"European Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"–",
+        "Event":"10,000 m",
+        "Notes":"DNF"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "Location": "no",
+        "Town": "no",
+        "Output (MW AC)": "no",
+        "Modules": "yes",
+        "Number of arrays": "no"
+    },
+    {
+        "Location": "no",
+        "Town": "yes",
+        "Output (MW AC)": "no",
+        "Modules": "no",
+        "Number of arrays": "no"
+    },
+    {
+        "Location": "no",
+        "Town": "no",
+        "Output (MW AC)": "no",
+        "Modules": "no",
+        "Number of arrays": "no"
+    },
+    {
+        "Location": "no",
+        "Town": "no",
+        "Output (MW AC)": "no",
+        "Modules": "no",
+        "Number of arrays": "no"
+    },
+    {
+        "Location": "no",
+        "Town": "no",
+        "Output (MW AC)": "no",
+        "Modules": "no",
+        "Number of arrays": "no"
+    },
+    {
+        "Location": "no",
+        "Town": "no",
+        "Output (MW AC)": "no",
+        "Modules": "no",
+        "Number of arrays": "no"
+    },
+    {
+        "Location": "no",
+        "Town": "no",
+        "Output (MW AC)": "no",
+        "Modules": "no",
+        "Number of arrays": "no"
+    },
+    {
+        "Location": "no",
+        "Town": "no",
+        "Output (MW AC)": "no",
+        "Modules": "no",
+        "Number of arrays": "no"
+    }
+]

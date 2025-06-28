@@ -1,0 +1,65 @@
+[
+    {
+        "Golfer":"No",
+        "Country":"No",
+        "Wins":"No",
+        "Match Play":"No",
+        "Championship":"No",
+        "Invitational":"No",
+        "Champions":"No"
+    },
+    {
+        "Golfer":"No",
+        "Country":"No",
+        "Wins":"No",
+        "Match Play":"No",
+        "Championship":"No",
+        "Invitational":"No",
+        "Champions":"No"
+    },
+    {
+        "Golfer":"No",
+        "Country":"No",
+        "Wins":"No",
+        "Match Play":"No",
+        "Championship":"No",
+        "Invitational":"No",
+        "Champions":"No"
+    },
+    {
+        "Golfer":"No",
+        "Country":"No",
+        "Wins":"Yes",
+        "Match Play":"No",
+        "Championship":"Yes",
+        "Invitational":"No",
+        "Champions":"No"
+    },
+    {
+        "Golfer":"No",
+        "Country":"No",
+        "Wins":"Yes",
+        "Match Play":"No",
+        "Championship":"No",
+        "Invitational":"No",
+        "Champions":"No"
+    },
+    {
+        "Golfer":"No",
+        "Country":"No",
+        "Wins":"No",
+        "Match Play":"No",
+        "Championship":"No",
+        "Invitational":"No",
+        "Champions":"No"
+    },
+    {
+        "Golfer":"No",
+        "Country":"No",
+        "Wins":"Yes",
+        "Match Play":"No",
+        "Championship":"No",
+        "Invitational":"No",
+        "Champions":"No"
+    }
+]

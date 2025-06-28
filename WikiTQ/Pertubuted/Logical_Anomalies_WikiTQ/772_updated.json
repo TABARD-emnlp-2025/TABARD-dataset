@@ -1,0 +1,56 @@
+[
+    {
+        "Team":"Greystones",
+        "County":"Wicklow",
+        "Wins":1,
+        "Years won":2011
+    },
+    {
+        "Team":"Ballymore Eustace",
+        "County":"Kildare",
+        "Wins":1,
+        "Years won":2010
+    },
+    {
+        "Team":"Maynooth",
+        "County":"Kildare",
+        "Wins":1,
+        "Years won":"@@@_2025"
+    },
+    {
+        "Team":"Ballyroan Abbey",
+        "County":"Laois",
+        "Wins":"@@@_3",
+        "Years won":2008
+    },
+    {
+        "Team":"Fingal Ravens",
+        "County":"Dublin",
+        "Wins":1,
+        "Years won":"@@@_-2007"
+    },
+    {
+        "Team":"Confey",
+        "County":"Kildare",
+        "Wins":1,
+        "Years won":2006
+    },
+    {
+        "Team":"Crettyard",
+        "County":"Laois",
+        "Wins":"@@@_0",
+        "Years won":2005
+    },
+    {
+        "Team":"Wolfe Tones",
+        "County":"Meath",
+        "Wins":1,
+        "Years won":2004
+    },
+    {
+        "Team":"Dundalk Gaels",
+        "County":"Louth",
+        "Wins":1,
+        "Years won":2003
+    }
+]

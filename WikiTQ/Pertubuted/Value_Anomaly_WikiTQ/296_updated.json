@@ -1,0 +1,66 @@
+[
+  {
+    "Rank": null,
+    "Athlete": "Silvia Sperber (FRG)",
+    "Qual": 590,
+    "Final": 95.6,
+    "Total": 685.6,
+    "Notes": "OR"
+  },
+  {
+    "Rank": null,
+    "Athlete": "Vesela Letcheva (BUL)",
+    "Qual": 583,
+    "Final": 100.2,
+    "Total": 683.2,
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Valentina Cherkasova (URS)",
+    "Qual": 586,
+    "Final": 95.4,
+    "Total": 681.4,
+    "Notes": null
+  },
+  {
+    "Rank": 4.0,
+    "Athlete": "Katja Klepp (GDR)",
+    "Qual": "@@@_-1382",
+    "Final": 96.5,
+    "Total": 680.5,
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_-26.396824081",
+    "Athlete": "Sharon Bowes (CAN)",
+    "Qual": "@@@_6970",
+    "Final": 96.5,
+    "Total": 680.5,
+    "Notes": null
+  },
+  {
+    "Rank": 6.0,
+    "Athlete": "Anna Maloukhina (URS)",
+    "Qual": 585,
+    "Final": "@@@_1746.8955197269",
+    "Total": 678.4,
+    "Notes": null
+  },
+  {
+    "Rank": 7.0,
+    "Athlete": "Launi Meili (USA)",
+    "Qual": 582,
+    "Final": 94.5,
+    "Total": 676.5,
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_109.984120405",
+    "Athlete": "Anita Karlsson (SWE)",
+    "Qual": 583,
+    "Final": 93.4,
+    "Total": 676.4,
+    "Notes": null
+  }
+]

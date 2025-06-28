@@ -1,0 +1,290 @@
+[
+  {
+    "Team": "Addington Racing",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 60.0,
+    "Driver(s)": "Travis Kvapil",
+    "Primary Sponsor(s)": "CAT Rental Stores",
+    "Listed Owner(s)": "Mike Addington",
+    "Crew Chief": "Rick Ren"
+  },
+  {
+    "Team": "Bobby Hamilton Racing",
+    "Truck(s)": "Dodge Ram",
+    "#": 4.0,
+    "Driver(s)": "Brian Rose",
+    "Primary Sponsor(s)": "Perry Connection",
+    "Listed Owner(s)": "Debbie Hamilton",
+    "Crew Chief": "Danny Rollins"
+  },
+  {
+    "Team": "Bobby Hamilton Racing",
+    "Truck(s)": "Dodge Ram",
+    "#": 8.0,
+    "Driver(s)": "Bill Lester (R)",
+    "Primary Sponsor(s)": "Dodge Dealers",
+    "Listed Owner(s)": "Bobby Hamilton",
+    "Crew Chief": "Kip McCord"
+  },
+  {
+    "Team": "Bobby Hamilton Racing",
+    "Truck(s)": "Dodge Ram",
+    "#": 18.0,
+    "Driver(s)": "Robert Pressley",
+    "Primary Sponsor(s)": null,
+    "Listed Owner(s)": "Bobby Hamilton",
+    "Crew Chief": "Danny Gill"
+  },
+  {
+    "Team": "Circle Bar Racing",
+    "Truck(s)": "Ford F-150",
+    "#": "@@@_-69.9595051661",
+    "Driver(s)": "Rick Crawford",
+    "Primary Sponsor(s)": "Circle Bar Motel & RV Park",
+    "Listed Owner(s)": "Tom Mitchell",
+    "Crew Chief": "Ray Stonkus"
+  },
+  {
+    "Team": "Countryman Motorsports",
+    "Truck(s)": "Ford F-150",
+    "#": 15.0,
+    "Driver(s)": "Rich Bickle",
+    "Primary Sponsor(s)": "Dickies",
+    "Listed Owner(s)": "Billy Ballew",
+    "Crew Chief": "Craig Osbourne"
+  },
+  {
+    "Team": "Green Light Racing",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": "@@@_847.7446601495",
+    "Driver(s)": "Jason Small (R)",
+    "Primary Sponsor(s)": "Sunbelt Rentals",
+    "Listed Owner(s)": "Gene Christensen",
+    "Crew Chief": "Dennis Fiebel"
+  },
+  {
+    "Team": "Green Light Racing",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 8.0,
+    "Driver(s)": "Bobby Dotter",
+    "Primary Sponsor(s)": "People Against Drugs",
+    "Listed Owner(s)": "Gene Christensen",
+    "Crew Chief": "Doug Howe"
+  },
+  {
+    "Team": "Joe Gibbs Racing",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 20.0,
+    "Driver(s)": "Coy Gibbs",
+    "Primary Sponsor(s)": "MBNA",
+    "Listed Owner(s)": "Joe Gibbs",
+    "Crew Chief": "Doug Hewitt"
+  },
+  {
+    "Team": "K Automotive Racing",
+    "Truck(s)": "Ford F-150",
+    "#": 29.0,
+    "Driver(s)": "Terry Cook",
+    "Primary Sponsor(s)": "Power Stroke Diesel",
+    "Listed Owner(s)": "Kay Keselowski",
+    "Crew Chief": "Bob Keselowski"
+  },
+  {
+    "Team": "L&R Racing",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 90.0,
+    "Driver(s)": "Lance Norick",
+    "Primary Sponsor(s)": "Express Personnel Services",
+    "Listed Owner(s)": "Ron Norick",
+    "Crew Chief": "Gary Showalter"
+  },
+  {
+    "Team": "MacDonald Motorsports",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 72.0,
+    "Driver(s)": "Randy MacDonald",
+    "Primary Sponsor(s)": "Greenfield Truck Center",
+    "Listed Owner(s)": "Marrill MacDonald",
+    "Crew Chief": "Steve Bird"
+  },
+  {
+    "Team": "Morgan-Dollar Motorsports",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 46.0,
+    "Driver(s)": "Dennis Setzer",
+    "Primary Sponsor(s)": "Acxiom/Computer Associates",
+    "Listed Owner(s)": "David Dollar",
+    "Crew Chief": "John Monsam"
+  },
+  {
+    "Team": "Orleans Racing",
+    "Truck(s)": "Dodge Ram",
+    "#": 62.0,
+    "Driver(s)": "Brendan Gaughan (R)",
+    "Primary Sponsor(s)": "NAPA Auto Parts",
+    "Listed Owner(s)": "Michael Gaughan",
+    "Crew Chief": "Shane Wilson"
+  },
+  {
+    "Team": "Petty Enterprises",
+    "Truck(s)": "Dodge Ram",
+    "#": 43.0,
+    "Driver(s)": "Carlos Contreras",
+    "Primary Sponsor(s)": "Hot Wheels",
+    "Listed Owner(s)": "Richard Petty",
+    "Crew Chief": "Howard Comstock"
+  },
+  {
+    "Team": "Portenga Motorsports",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 39.0,
+    "Driver(s)": "Steve Portenga",
+    "Primary Sponsor(s)": "Roto-rooter",
+    "Listed Owner(s)": "@@@_None",
+    "Crew Chief": "George Church"
+  },
+  {
+    "Team": "Powers Motorsports",
+    "Truck(s)": "Dodge Ram",
+    "#": 55.0,
+    "Driver(s)": "Tom Powers",
+    "Primary Sponsor(s)": "University of Northwestern Ohio",
+    "Listed Owner(s)": "Sherri Powers",
+    "Crew Chief": "Bryan Berry"
+  },
+  {
+    "Team": "R&J Racing",
+    "Truck(s)": "Dodge Ram",
+    "#": "@@@_777.2502581473",
+    "Driver(s)": "Rodney Sawyers (R)",
+    "Primary Sponsor(s)": null,
+    "Listed Owner(s)": "Wendy Sawyers",
+    "Crew Chief": "Jeff Sawyers"
+  },
+  {
+    "Team": "RDS Motorsports",
+    "Truck(s)": "Dodge Ram",
+    "#": 79.0,
+    "Driver(s)": "Jerry Hill",
+    "Primary Sponsor(s)": "RDS Racing Engines",
+    "Listed Owner(s)": "R. D. Smith",
+    "Crew Chief": "Ralph Wingfield Jr."
+  },
+  {
+    "Team": "Roush Racing",
+    "Truck(s)": "Ford F-150",
+    "#": 50.0,
+    "Driver(s)": "Jon Wood",
+    "Primary Sponsor(s)": "Navy Racing",
+    "Listed Owner(s)": "Jack Roush",
+    "Crew Chief": "Dan Binks"
+  },
+  {
+    "Team": "SealMaster Racing",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 88.0,
+    "Driver(s)": "Matt Crafton",
+    "Primary Sponsor(s)": "Sealmaster",
+    "Listed Owner(s)": "Duke Thorson",
+    "Crew Chief": "Jerry Cook"
+  },
+  {
+    "Team": "Shepherd Racing",
+    "Truck(s)": "Ford F-150",
+    "#": 21.0,
+    "Driver(s)": "Morgan Shepherd",
+    "Primary Sponsor(s)": null,
+    "Listed Owner(s)": "Cindy Shepherd",
+    "Crew Chief": "Ted Jackson"
+  },
+  {
+    "Team": "Spears Motorsports",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 75.0,
+    "Driver(s)": "David Starr",
+    "Primary Sponsor(s)": "Spears Manufacturing",
+    "Listed Owner(s)": "Wayne Spears",
+    "Crew Chief": "Dave McCarty"
+  },
+  {
+    "Team": "Tagsby Racing",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 73.0,
+    "Driver(s)": "Loni Richardson (R)",
+    "Primary Sponsor(s)": "Intensitee/UTI",
+    "Listed Owner(s)": "Joey Sonntag",
+    "Crew Chief": "Joey Sonntag"
+  },
+  {
+    "Team": "Team Racing",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 86.0,
+    "Driver(s)": "Dana White (R)",
+    "Primary Sponsor(s)": "Red Line Oil/Coverall Carports",
+    "Listed Owner(s)": "Phil Bonifield",
+    "Crew Chief": "Bernie Taft"
+  },
+  {
+    "Team": "Troxell Racing",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 93.0,
+    "Driver(s)": "Jerry Allec, Jr.",
+    "Primary Sponsor(s)": null,
+    "Listed Owner(s)": "Lonnie Troxell",
+    "Crew Chief": "Lonnie Troxell"
+  },
+  {
+    "Team": "Ultra Motorsports",
+    "Truck(s)": "Dodge Ram",
+    "#": 1.0,
+    "Driver(s)": "Ted Musgrave",
+    "Primary Sponsor(s)": "Mopar",
+    "Listed Owner(s)": "Jim Smith",
+    "Crew Chief": "Gene Nead"
+  },
+  {
+    "Team": "Ultra Motorsports",
+    "Truck(s)": "Dodge Ram",
+    "#": 2.0,
+    "Driver(s)": "Jason Leffler",
+    "Primary Sponsor(s)": "Team ASE Racing",
+    "Listed Owner(s)": "Marlene Smith",
+    "Crew Chief": "Tim Kohuth"
+  },
+  {
+    "Team": "Ware Racing Enterprises",
+    "Truck(s)": "Dodge Ram",
+    "#": 5.0,
+    "Driver(s)": "Lance Hooper",
+    "Primary Sponsor(s)": "Diamond Cut Jeans/Blair5.com",
+    "Listed Owner(s)": "Rick Ware",
+    "Crew Chief": "Cal Northrop"
+  },
+  {
+    "Team": "Ware Racing Enterprises",
+    "Truck(s)": "Dodge Ram",
+    "#": "@@@_None",
+    "Driver(s)": "Michael Dokken",
+    "Primary Sponsor(s)": "OOIDA",
+    "Listed Owner(s)": "Rick Ware",
+    "Crew Chief": "Ken Glen"
+  },
+  {
+    "Team": "Ware Racing Enterprises",
+    "Truck(s)": "Dodge Ram",
+    "#": 81.0,
+    "Driver(s)": "Angie Wilson (R)",
+    "Primary Sponsor(s)": "TotalRaceBabe.com",
+    "Listed Owner(s)": "Rick Ware",
+    "Crew Chief": "Calvin Humphries"
+  },
+  {
+    "Team": "Xpress Motorsports",
+    "Truck(s)": "Chevrolet Silverado",
+    "#": 16.0,
+    "Driver(s)": "Mike Bliss",
+    "Primary Sponsor(s)": "IWX Motor Freight/Knights Inn",
+    "Listed Owner(s)": "Steve Coulter",
+    "Crew Chief": "Travis Holt"
+  }
+]

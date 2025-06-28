@@ -1,0 +1,163 @@
+[
+    {
+        "Year":1920,
+        "Coach":"Andy Smith",
+        "Bowl":"Rose",
+        "Opponent":"Ohio State",
+        "Result":"W 28–0"
+    },
+    {
+        "Year":1921,
+        "Coach":"Andy Smith",
+        "Bowl":"Rose",
+        "Opponent":"Washington & Jefferson",
+        "Result":"T 0–0"
+    },
+    {
+        "Year":1928,
+        "Coach":"Nibs Price",
+        "Bowl":"Rose",
+        "Opponent":"Georgia Tech",
+        "Result":"L 7‘8"
+    },
+    {
+        "Year":1937,
+        "Coach":"Stub Allison",
+        "Bowl":"Rose",
+        "Opponent":"Alabama",
+        "Result":"W 13–0"
+    },
+    {
+        "Year":1948,
+        "Coach":"Pappy Waldorf",
+        "Bowl":"Rose",
+        "Opponent":"Northwestern",
+        "Result":"L 14–20"
+    },
+    {
+        "Year":1949,
+        "Coach":"Pappy Waldorf",
+        "Bowl":"Rose",
+        "Opponent":"Ohio State",
+        "Result":"L 14–17"
+    },
+    {
+        "Year":1950,
+        "Coach":"Pappy Waldorf",
+        "Bowl":"Rose",
+        "Opponent":"Michigan",
+        "Result":"L 6–14"
+    },
+    {
+        "Year":1958,
+        "Coach":"Pete Elliott",
+        "Bowl":"Rose",
+        "Opponent":"Iowa",
+        "Result":"L 12–38"
+    },
+    {
+        "Year":1979,
+        "Coach":"Roger Theder",
+        "Bowl":"Garden State",
+        "Opponent":"Temple",
+        "Result":"L 17–28"
+    },
+    {
+        "Year":1990,
+        "Coach":"Bruce Snyder",
+        "Bowl":"Copper",
+        "Opponent":"Wyoming",
+        "Result":"W 17–15"
+    },
+    {
+        "Year":1991,
+        "Coach":"Bruce Snyder",
+        "Bowl":"Citrus",
+        "Opponent":"Clemson",
+        "Result":"W 37–13"
+    },
+    {
+        "Year":1993,
+        "Coach":"Keith Gilbertson",
+        "Bowl":"Alamo",
+        "Opponent":"Iowa",
+        "Result":"W 37–3"
+    },
+    {
+        "Year":1996,
+        "Coach":"Steve Mariucci",
+        "Bowl":"Aloha",
+        "Opponent":"Navy",
+        "Result":"L 38–42"
+    },
+    {
+        "Year":2003,
+        "Coach":"Jeff Tedford",
+        "Bowl":"Insight",
+        "Opponent":"Virginia Tech",
+        "Result":"W 52–49"
+    },
+    {
+        "Year":2004,
+        "Coach":"Jeff Tedford",
+        "Bowl":"Holiday",
+        "Opponent":"Texas Tech",
+        "Result":"L 31–45"
+    },
+    {
+        "Year":2005,
+        "Coach":"Jeff Tedford",
+        "Bowl":"Las Vegas",
+        "Opponent":"BYU",
+        "Result":"W 35–28"
+    },
+    {
+        "Year":2006,
+        "Coach":"Jeff Tedford",
+        "Bowl":"Holiday",
+        "Opponent":"Texas A&M",
+        "Result":"W 45–10"
+    },
+    {
+        "Year":2007,
+        "Coach":"Jeff Tedford",
+        "Bowl":"Armed Forces",
+        "Opponent":"Air Force",
+        "Result":"W 42–36"
+    },
+    {
+        "Year":2008,
+        "Coach":"Jeff Tedford",
+        "Bowl":"Emerald",
+        "Opponent":"Miami",
+        "Result":"W 24–17"
+    },
+    {
+        "Year":2009,
+        "Coach":"Jeff Tedford",
+        "Bowl":"Poinsettia",
+        "Opponent":"Utah",
+        "Result":"L 27–37"
+    },
+    {
+        "Year":2011,
+        "Coach":"Jeff Tedford",
+        "Bowl":"Holiday",
+        "Opponent":"Texas",
+        "Result":"L 10–21"
+    },
+    {
+        "Year":2015,
+        "Coach":"Sonny Dykes",
+        "Bowl":"Armed Forces",
+        "Opponent":"Air Force",
+        "Result":"W 55–36"
+    },
+    {
+        "Year":2018,
+        "Coach":"Justin Wilcox",
+        "Bowl":"Cheez-It Bowl",
+        "Opponent":"TCU",
+        "Result":"L 7–10"
+    }
+]

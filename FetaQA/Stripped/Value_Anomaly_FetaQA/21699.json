@@ -1,0 +1,90 @@
+[
+    {
+        "Year":"Representing Kenya",
+        "Competition":"Representing Kenya",
+        "Venue":"Representing Kenya",
+        "Position":"Representing Kenya",
+        "Event":"Representing Kenya",
+        "Notes":"Representing Kenya"
+    },
+    {
+        "Year":2004,
+        "Competition":"Stockholm Marathon",
+        "Venue":"Stockholm, Sweden",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:35:14"
+    },
+    {
+        "Year":2004,
+        "Competition":"Milan Marathon",
+        "Venue":"Milan, Italy",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:28:11"
+    },
+    {
+        "Year":2005,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"7th",
+        "Event":"Marathon",
+        "Notes":"2:24:22"
+    },
+    {
+        "Year":2006,
+        "Competition":"Paris Half Marathon",
+        "Venue":"Paris, France",
+        "Position":"1st",
+        "Event":"Half marathon",
+        "Notes":"1:09:56"
+    },
+    {
+        "Year":2006,
+        "Competition":"Boston Marathon",
+        "Venue":"Boston, United States",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:23:38"
+    },
+    {
+        "Year":2007,
+        "Competition":"Lisbon Half Marathon",
+        "Venue":"Lisbon, Portugal",
+        "Position":"1st",
+        "Event":"Half marathon",
+        "Notes":"1:07:05"
+    },
+    {
+        "Year":2013,
+        "Competition":"Boston Marathon",
+        "Venue":"Boston, United States",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:26:25"
+    },
+    {
+        "Year":2013,
+        "Competition":"Chicago Marathon",
+        "Venue":"Chicago, United States",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:19:57"
+    },
+    {
+        "Year":2014,
+        "Competition":"Boston Marathon",
+        "Venue":"Boston, United States",
+        "Position":"DSQ (1st)",
+        "Event":"Marathon",
+        "Notes":"2:18:57 (CR)"
+    },
+    {
+        "Year":2014,
+        "Competition":"Chicago Marathon",
+        "Venue":"Chicago, United States",
+        "Position":"DSQ (1st)",
+        "Event":"Marathon",
+        "Notes":"2:24:35"
+    }
+]

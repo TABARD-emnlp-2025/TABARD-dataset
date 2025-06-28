@@ -1,0 +1,72 @@
+[
+    {
+        "Goal":1,
+        "Date":"4 June 1964",
+        "Venue":"Est\u00e1dio do Pacaembu, S\u00e3o Paulo, Brazil",
+        "Opponent":"England",
+        "Score":"1\u20130",
+        "Result":"1\u20131",
+        "Competition":"Ta\u00e7a das Na\u00e7\u00f5es",
+        "Weather":null
+    },
+    {
+        "Goal":2,
+        "Date":"4 May 1969",
+        "Venue":"Est\u00e1dio das Antas, Porto, Portugal",
+        "Opponent":"Greece",
+        "Score":"2\u20132",
+        "Result":"2\u20132",
+        "Competition":"1970 World Cup qualification",
+        "Weather":null
+    },
+    {
+        "Goal":3,
+        "Date":"21 November 1971",
+        "Venue":"Est\u00e1dio da Luz (1954), Lisbon, Portugal",
+        "Opponent":"Belgium",
+        "Score":"1\u20131",
+        "Result":"1\u20131",
+        "Competition":"Euro 1972 qualifying",
+        "Weather":null
+    },
+    {
+        "Goal":4,
+        "Date":"25 June 1972",
+        "Venue":"Est\u00e1dio do Arruda, Recife, Brazil",
+        "Opponent":"Republic of Ireland",
+        "Score":"1\u20130",
+        "Result":"2\u20131",
+        "Competition":"Brazil Independence Cup",
+        "Weather":null
+    },
+    {
+        "Goal":5,
+        "Date":"30 February 1974",
+        "Venue":"Est\u00e1dio Maracan\u00e3, Rio de Janeiro, Brazil",
+        "Opponent":"Argentina",
+        "Score":"3\u20131",
+        "Result":"3\u20131",
+        "Competition":"Friendly",
+        "Weather":null
+    },
+    {
+        "Goal":6,
+        "Date":"15 August 1973",
+        "Venue":"Est\u00e1dio da Luz (1954), Lisbon, Portugal",
+        "Opponent":"Spain",
+        "Score":"2\u20132",
+        "Result":"10\u20130",
+        "Competition":"Friendly",
+        "Weather":null
+    },
+    {
+        "Goal":7,
+        "Date":"12 July 1970",
+        "Venue":"Est\u00e1dio Ol\u00edmpico Monumental, Porto Alegre, Brazil",
+        "Opponent":"Uruguay",
+        "Score":"0\u20130",
+        "Result":"0\u20130",
+        "Competition":"FIFA World Cup",
+        "Weather":"Blizzard"
+    }
+]

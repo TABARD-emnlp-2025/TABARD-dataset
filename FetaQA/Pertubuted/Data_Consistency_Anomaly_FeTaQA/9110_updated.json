@@ -1,0 +1,135 @@
+[
+    {
+        "Date":"12 June 1941",
+        "Name":"Silverpalm",
+        "Nationality":"United Kingdom",
+        "Tonnage":"6,373",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"24 June 1941",
+        "Name":"Vigrid",
+        "Nationality":"Norway",
+        "Tonnage":"4,765",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"30 July 1943",
+        "Name":"Shahristan",
+        "Nationality":"@@@_UK",
+        "Tonnage":"6,935",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"30 July 1943",
+        "Name":"Sitoebondo",
+        "Nationality":"Netherlands",
+        "Tonnage":"@@@_7049",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"7 January 1943",
+        "Name":"HMT Jura",
+        "Nationality":"Royal Navy",
+        "Tonnage":545,
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"7 January 1943",
+        "Name":"Ville de Strasbourg",
+        "Nationality":"United Kingdom",
+        "Tonnage":"7,159",
+        "Fate":"Damaged"
+    },
+    {
+        "Date":"23 February 1943",
+        "Name":"Fintra",
+        "Nationality":"United Kingdom",
+        "Tonnage":"2,089",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"28 February 1943",
+        "Name":"Daniel Carroll",
+        "Nationality":"United States",
+        "Tonnage":"7,176",
+        "Fate":"Damaged"
+    },
+    {
+        "Date":"27 April 1943",
+        "Name":"Merope",
+        "Nationality":"Netherlands",
+        "Tonnage":"1,162",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"10 July 1943",
+        "Name":"Gulfprince",
+        "Nationality":"@@@_US",
+        "Tonnage":"6,561",
+        "Fate":"Damaged"
+    },
+    {
+        "Date":"10 July 1943",
+        "Name":"Matthew Maury",
+        "Nationality":"United States",
+        "Tonnage":"7,176",
+        "Fate":"Damaged"
+    },
+    {
+        "Date":"7 August 1943",
+        "Name":"Contractor",
+        "Nationality":"United Kingdom",
+        "Tonnage":"6,004",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"11 October 1943",
+        "Name":"HMS Hythe",
+        "Nationality":"Royal Navy",
+        "Tonnage":656,
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"13 October 1943",
+        "Name":"USS Bristol",
+        "Nationality":"United States Navy",
+        "Tonnage":"1,630",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"15 October 1943",
+        "Name":"James Russell Lowel",
+        "Nationality":"United States",
+        "Tonnage":"@@@_8,176",
+        "Fate":"Total loss"
+    },
+    {
+        "Date":"17 March 1944",
+        "Name":"Dempo",
+        "Nationality":"Netherlands",
+        "Tonnage":"17,024",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"17 March 1944",
+        "Name":"Maiden Creek",
+        "Nationality":"United States",
+        "Tonnage":"6,165",
+        "Fate":"@@@_Total Loss"
+    },
+    {
+        "Date":"3 May 1944",
+        "Name":"USS Menges",
+        "Nationality":"United States Navy",
+        "Tonnage":"1,200",
+        "Fate":"Damaged"
+    },
+    {
+        "Date":"4 May 1944",
+        "Name":"FFL Sénégalais",
+        "Nationality":"Free French Naval Forces",
+        "Tonnage":"1,300",
+        "Fate":"@@@_damaged"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "Rank":"No",
+        "Player":"No",
+        "Points":"No",
+        "Points defending":"No",
+        "Points won":"No",
+        "New points":"No",
+        "Withdrew due to":"No"
+    },
+    {
+        "Rank":"Yes",
+        "Player":"No",
+        "Points":"No",
+        "Points defending":"No",
+        "Points won":"No",
+        "New points":"No",
+        "Withdrew due to":"No"
+    },
+    {
+        "Rank":"No",
+        "Player":"No",
+        "Points":"No",
+        "Points defending":"No",
+        "Points won":"No",
+        "New points":"Yes",
+        "Withdrew due to":"No"
+    },
+    {
+        "Rank":"No",
+        "Player":"No",
+        "Points":"No",
+        "Points defending":"No",
+        "Points won":"No",
+        "New points":"No",
+        "Withdrew due to":"No"
+    },
+    {
+        "Rank":"No",
+        "Player":"No",
+        "Points":"No",
+        "Points defending":"No",
+        "Points won":"Yes",
+        "New points":"No",
+        "Withdrew due to":"No"
+    },
+    {
+        "Rank":"No",
+        "Player":"No",
+        "Points":"No",
+        "Points defending":"No",
+        "Points won":"No",
+        "New points":"No",
+        "Withdrew due to":"No"
+    },
+    {
+        "Rank":"No",
+        "Player":"No",
+        "Points":"No",
+        "Points defending":"No",
+        "Points won":"No",
+        "New points":"Yes",
+        "Withdrew due to":"No"
+    }
+]

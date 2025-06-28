@@ -1,0 +1,128 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1912\u201313",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1913\u201314",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1914\u201315",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1919\u201320",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1920\u201321",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1921\u201322",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1922\u201323",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1923\u201324",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1924\u201325",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1925\u201326",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"Total",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Doncaster Rovers",
+        "Season":"1926\u201327",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Doncaster Rovers",
+        "Season":"1927\u201328",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Doncaster Rovers",
+        "Season":"1928\u201329",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Doncaster Rovers",
+        "Season":"1929\u201330",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Doncaster Rovers",
+        "Season":"Total",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    }
+]

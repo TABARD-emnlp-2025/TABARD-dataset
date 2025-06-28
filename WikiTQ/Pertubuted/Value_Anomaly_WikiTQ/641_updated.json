@@ -1,0 +1,212 @@
+[
+  {
+    "Pos": "1",
+    "No": 5,
+    "Driver": "Jim Clark",
+    "Constructor": "Lotus-Ford",
+    "Laps": 80,
+    "Time/Retired": "1:59:25.6",
+    "Grid": 1.0,
+    "Points": 9.0
+  },
+  {
+    "Pos": "2",
+    "No": 2,
+    "Driver": "Denny Hulme",
+    "Constructor": "Brabham-Repco",
+    "Laps": 80,
+    "Time/Retired": "+ 12.8",
+    "Grid": 4.0,
+    "Points": 6.0
+  },
+  {
+    "Pos": "3",
+    "No": 8,
+    "Driver": "Chris Amon",
+    "Constructor": "Ferrari",
+    "Laps": 80,
+    "Time/Retired": "+ 16.6",
+    "Grid": 6.0,
+    "Points": 4.0
+  },
+  {
+    "Pos": "4",
+    "No": 1,
+    "Driver": "Jack Brabham",
+    "Constructor": "Brabham-Repco",
+    "Laps": 80,
+    "Time/Retired": "+ 21.8",
+    "Grid": 3.0,
+    "Points": 3.0
+  },
+  {
+    "Pos": "5",
+    "No": 12,
+    "Driver": "Pedro Rodriguez",
+    "Constructor": "Cooper-Maserati",
+    "Laps": 79,
+    "Time/Retired": "+ 1 Lap",
+    "Grid": 9.0,
+    "Points": 2.0
+  },
+  {
+    "Pos": "6",
+    "No": 7,
+    "Driver": "John Surtees",
+    "Constructor": "Honda",
+    "Laps": 78,
+    "Time/Retired": "+ 2 Laps",
+    "Grid": 7.0,
+    "Points": 1.0
+  },
+  {
+    "Pos": "7",
+    "No": 15,
+    "Driver": "Chris Irwin",
+    "Constructor": "BRM",
+    "Laps": 77,
+    "Time/Retired": "+ 3 Laps",
+    "Grid": 13.0,
+    "Points": null
+  },
+  {
+    "Pos": "8",
+    "No": 20,
+    "Driver": "David Hobbs",
+    "Constructor": "BRM",
+    "Laps": 77,
+    "Time/Retired": "+ 3 Laps",
+    "Grid": 14.0,
+    "Points": null
+  },
+  {
+    "Pos": "9",
+    "No": 14,
+    "Driver": "Alan Rees",
+    "Constructor": "Cooper-Maserati",
+    "Laps": 76,
+    "Time/Retired": "+ 4 Laps",
+    "Grid": "@@@_184.3248556351",
+    "Points": null
+  },
+  {
+    "Pos": "10",
+    "No": 18,
+    "Driver": "Guy Ligier",
+    "Constructor": "Brabham-Repco",
+    "Laps": 76,
+    "Time/Retired": "+ 4 Laps",
+    "Grid": 21.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 19,
+    "Driver": "Bob Anderson",
+    "Constructor": "Brabham-Climax",
+    "Laps": 67,
+    "Time/Retired": "@@@_None",
+    "Grid": 17.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 6,
+    "Driver": "Graham Hill",
+    "Constructor": "Lotus-Ford",
+    "Laps": 64,
+    "Time/Retired": "Engine",
+    "Grid": 2.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 4,
+    "Driver": "Mike Spence",
+    "Constructor": "BRM",
+    "Laps": 44,
+    "Time/Retired": "Ignition",
+    "Grid": 11.0,
+    "Points": "@@@_-4.1666666667"
+  },
+  {
+    "Pos": "Ret",
+    "No": 9,
+    "Driver": "Dan Gurney",
+    "Constructor": "Eagle-Weslake",
+    "Laps": "@@@_-51",
+    "Time/Retired": "Clutch",
+    "Grid": 5.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 22,
+    "Driver": "Silvio Moser",
+    "Constructor": "Cooper-ATS",
+    "Laps": 29,
+    "Time/Retired": "Oil Pressure",
+    "Grid": "@@@_-18.7162427818",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 11,
+    "Driver": "Jochen Rindt",
+    "Constructor": "Cooper-Maserati",
+    "Laps": 26,
+    "Time/Retired": "Engine",
+    "Grid": 8.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 3,
+    "Driver": "Jackie Stewart",
+    "Constructor": "BRM",
+    "Laps": 20,
+    "Time/Retired": "Transmission",
+    "Grid": 12.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 10,
+    "Driver": "Bruce McLaren",
+    "Constructor": "Eagle-Weslake",
+    "Laps": 14,
+    "Time/Retired": "Engine",
+    "Grid": 10.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 17,
+    "Driver": "Jo Siffert",
+    "Constructor": "Cooper-Maserati",
+    "Laps": 10,
+    "Time/Retired": "Engine",
+    "Grid": 18.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 23,
+    "Driver": "Jo Bonnier",
+    "Constructor": "Cooper-Maserati",
+    "Laps": 0,
+    "Time/Retired": "Engine",
+    "Grid": 9.0,
+    "Points": null
+  },
+  {
+    "Pos": "DNS",
+    "No": 16,
+    "Driver": "Piers Courage",
+    "Constructor": "BRM",
+    "Laps": 0,
+    "Time/Retired": "Non Starter",
+    "Grid": null,
+    "Points": null
+  }
+]

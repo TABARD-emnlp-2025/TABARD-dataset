@@ -1,0 +1,92 @@
+[
+    {
+        "#":1,
+        "Date":"December 27",
+        "Visitor":"Toronto",
+        "Score":"7–1",
+        "Home":"Montreal Canadiens",
+        "Record":"1–0–0",
+        "Pts":2.0
+    },
+    {
+        "#":2,
+        "Date":"December 30",
+        "Visitor":"Quebec Bulldogs",
+        "Score":"5–8",
+        "Home":"Toronto",
+        "Record":"2‐0‐0",
+        "Pts":4.0
+    },
+    {
+        "#":3,
+        "Date":"January 3",
+        "Visitor":"Toronto 228th Battalion",
+        "Score":"4–9",
+        "Home":"Toronto",
+        "Record":"2–1‐0",
+        "Pts":"nan"
+    },
+    {
+        "#":4,
+        "Date":"January 6",
+        "Visitor":"Toronto",
+        "Score":"2–3",
+        "Home":"Ottawa Senators",
+        "Record":"2–2‐0",
+        "Pts":4.0
+    },
+    {
+        "#":5,
+        "Date":"January 10",
+        "Visitor":"Montreal Wanderers",
+        "Score":"4–9",
+        "Home":"Toronto",
+        "Record":"3–2‐0",
+        "Pts":6.0
+    },
+    {
+        "#":6,
+        "Date":"January 13",
+        "Visitor":"Montreal Canadiens",
+        "Score":"6–2",
+        "Home":"Toronto",
+        "Record":"3–3‐0",
+        "Pts":"-1.0"
+    },
+    {
+        "#":7,
+        "Date":"January 17",
+        "Visitor":"Toronto",
+        "Score":"5–1",
+        "Home":"Quebec Bulldogs",
+        "Record":"4–3‐0",
+        "Pts":8.0
+    },
+    {
+        "#":8,
+        "Date":"January 20",
+        "Visitor":"Toronto",
+        "Score":"6–8",
+        "Home":"Toronto 228th Battalion",
+        "Record":"4–4‐0",
+        "Pts":8.0
+    },
+    {
+        "#":9,
+        "Date":"January 24",
+        "Visitor":"Ottawa Senators",
+        "Score":"5–8",
+        "Home":"Toronto",
+        "Record":"5–4‐0",
+        "Pts":10.0
+    },
+    {
+        "#":"11",
+        "Date":"January 27",
+        "Visitor":"Toronto",
+        "Score":"3–8",
+        "Home":"Montreal Wanderers",
+        "Record":"5–5‐0",
+        "Pts":10.0
+    }
+]

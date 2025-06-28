@@ -1,0 +1,128 @@
+[
+    {
+        "Player":"Spas Delev",
+        "League":13,
+        "Cup":7,
+        "Europa\nLeague":2,
+        "Total":22
+    },
+    {
+        "Player":"Marquinhos",
+        "League":9,
+        "Cup":1,
+        "Europa\nLeague":3,
+        "Total":13
+    },
+    {
+        "Player":"Michel Platini",
+        "League":10,
+        "Cup":0,
+        "Europa\nLeague":0,
+        "Total":10
+    },
+    {
+        "Player":"Cillian Sheridan",
+        "League":4,
+        "Cup":2,
+        "Europa\nLeague":1,
+        "Total":7
+    },
+    {
+        "Player":"Giuseppe Aquaro",
+        "League":3,
+        "Cup":0,
+        "Europa\nLeague":2,
+        "Total":5
+    },
+    {
+        "Player":"Gregory Nelson",
+        "League":3,
+        "Cup":0,
+        "Europa\nLeague":1,
+        "Total":4
+    },
+    {
+        "Player":"Rumen Trifonov",
+        "League":2,
+        "Cup":0,
+        "Europa\nLeague":1,
+        "Total":3
+    },
+    {
+        "Player":"Aleksandar Tonev",
+        "League":2,
+        "Cup":0,
+        "Europa\nLeague":0,
+        "Total":2
+    },
+    {
+        "Player":"Apostol Popov",
+        "League":2,
+        "Cup":0,
+        "Europa\nLeague":0,
+        "Total":2
+    },
+    {
+        "Player":"Emil Gargorov",
+        "League":2,
+        "Cup":0,
+        "Europa\nLeague":0,
+        "Total":2
+    },
+    {
+        "Player":"Todor Yanchev",
+        "League":0,
+        "Cup":1,
+        "Europa\nLeague":1,
+        "Total":2
+    },
+    {
+        "Player":"Stanislav Kostov",
+        "League":1,
+        "Cup":0,
+        "Europa\nLeague":0,
+        "Total":1
+    },
+    {
+        "Player":"Kostadin Stoyanov",
+        "League":1,
+        "Cup":0,
+        "Europa\nLeague":0,
+        "Total":1
+    },
+    {
+        "Player":"Boris Galchev",
+        "League":1,
+        "Cup":0,
+        "Europa\nLeague":0,
+        "Total":1
+    },
+    {
+        "Player":"Pavel Vidanov",
+        "League":0,
+        "Cup":0,
+        "Europa\nLeague":1,
+        "Total":1
+    },
+    {
+        "Player":"Tomislav Kostadinov",
+        "League":0,
+        "Cup":0,
+        "Europa\nLeague":1,
+        "Total":1
+    },
+    {
+        "Player":"Christian Tiboni",
+        "League":0,
+        "Cup":0,
+        "Europa\nLeague":1,
+        "Total":1
+    },
+    {
+        "Player":"Total",
+        "League":53,
+        "Cup":11,
+        "Europa\nLeague":14,
+        "Total":"@@@_79"
+    }
+]

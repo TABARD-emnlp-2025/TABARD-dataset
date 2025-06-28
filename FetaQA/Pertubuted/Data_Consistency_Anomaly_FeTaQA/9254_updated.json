@@ -1,0 +1,162 @@
+[
+    {
+        "Draw":1,
+        "Artist":"West Side Family",
+        "Song":"\"Jehonë\"",
+        "Composer - Lyricist":"Dr. Flori, Klodian Qafoku",
+        "Points":118,
+        "Place":3
+    },
+    {
+        "Draw":2,
+        "Artist":"Soni Malaj",
+        "Song":"\"Zona zero\"",
+        "Composer - Lyricist":"Florian Mumajesi",
+        "Points":44,
+        "Place":16
+    },
+    {
+        "Draw":3,
+        "Artist":"Juliana Pasha & Luiz Ejlli",
+        "Song":"\"Nje jetë\"",
+        "Composer - Lyricist":"Shpetim Saraçi, Turian Hyskaj",
+        "Points":119,
+        "Place":2
+    },
+    {
+        "Draw":4,
+        "Artist":"Kujtim Prodani",
+        "Song":"\"Nostalgji\"",
+        "Composer - Lyricist":"Kujtim Prodani, Agim Doci",
+        "Points":24,
+        "Place":18
+    },
+    {
+        "Draw":5,
+        "Artist":"Emi Bogdo",
+        "Song":"\"Kur buzet henen e kafshojn\"",
+        "Composer - Lyricist":"Emi Bogdo, Klodian Qafoku",
+        "Points":43,
+        "Place":17
+    },
+    {
+        "Draw":6,
+        "Artist":"Erga Halilaj",
+        "Song":"\"Dikush mungon\"",
+        "Composer - Lyricist":"Kristi Popa, Florion Zyko",
+        "Points":63,
+        "Place":11
+    },
+    {
+        "Draw":7,
+        "Artist":"Marjeta Billo",
+        "Song":"\"Era e tokës\"",
+        "Composer - Lyricist":"Adrian Hila, Pandi Laço",
+        "Points":106,
+        "Place":5
+    },
+    {
+        "Draw":8,
+        "Artist":"Adelina Thaci",
+        "Song":"\"Oret e fundit\"",
+        "Composer - Lyricist":"Alfred Kacinari",
+        "Points":91,
+        "Place":8
+    },
+    {
+        "Draw":9,
+        "Artist":"Rovena Dilo & Eugent Bushpepa",
+        "Song":"\"S'jam balade\"",
+        "Composer - Lyricist":"Armend Rexhepagiqi, Aida Baraku",
+        "Points":60,
+        "Place":12
+    },
+    {
+        "Draw":10,
+        "Artist":"Dorina Garuci",
+        "Song":"\"Dite një jetë\"",
+        "Composer - Lyricist":"Dorian Nini, Pandi Laço",
+        "Points":92,
+        "Place":7
+    },
+    {
+        "Draw":11,
+        "Artist":"Endri & Stefi Prifti",
+        "Song":"\"Ti bere faj\"",
+        "Composer - Lyricist":"Josif Minga, Skender Rusi",
+        "Points":91,
+        "Place":8
+    },
+    {
+        "Draw":12,
+        "Artist":"Kejsi Tola",
+        "Song":"\"Më merr në ëndërr\"",
+        "Composer - Lyricist":"Edmond Zhulali, Agim Doçi",
+        "Points":126,
+        "Place":1
+    },
+    {
+        "Draw":13,
+        "Artist":"@@@_ERA Rusi",
+        "Song":"\"Shpirt i humbur\"",
+        "Composer - Lyricist":"Arsen Nasi & Bledar Skenderi, Irma Libohova",
+        "Points":50,
+        "Place":15
+    },
+    {
+        "Draw":14,
+        "Artist":"Julian Lekoçaj",
+        "Song":"\"Nuk je ti\"",
+        "Composer - Lyricist":"Julian Lekoçaj",
+        "Points":17,
+        "Place":20
+    },
+    {
+        "Draw":15,
+        "Artist":"Shpat Kasapi",
+        "Song":"\"Aromë mediterane\"",
+        "Composer - Lyricist":"Gent Myftarai, Pandi Laço",
+        "Points":22,
+        "Place":19
+    },
+    {
+        "Draw":16,
+        "Artist":"Evis Mula",
+        "Song":"\"Unë jam dashuria\"",
+        "Composer - Lyricist":"Luan Zhegu, Agim Doçi",
+        "Points":91,
+        "Place":8
+    },
+    {
+        "Draw":17,
+        "Artist":"Burn",
+        "Song":"\"Jam i pari i jettes sime\"",
+        "Composer - Lyricist":"Stivart Cela & Renis Gjoka, Big Basta",
+        "Points":96,
+        "Place":6
+    },
+    {
+        "Draw":18,
+        "Artist":"Vedat Ademi",
+        "Song":"\"Po me prite ti\"",
+        "Composer - Lyricist":"Kledi Bahiti, Alban Male",
+        "Points":51,
+        "Place":14
+    },
+    {
+        "Draw":19,
+        "Artist":"Agim Poshka",
+        "Song":"\"Fajtor për ngrohjen globale\"",
+        "Composer - Lyricist":"Agim Poshka, Olsen Maze",
+        "Points":56,
+        "Place":13
+    },
+    {
+        "Draw":20,
+        "Artist":"Besa Kokedhima",
+        "Song":"\"Ajer\"",
+        "Composer - Lyricist":"Alban Male, Olti Curri",
+        "Points":109,
+        "Place":4
+    }
+]

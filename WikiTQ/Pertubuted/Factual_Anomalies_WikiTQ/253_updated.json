@@ -1,0 +1,236 @@
+[
+    {
+        "Round":1,
+        "Round.1":"R1",
+        "Circuit":"Jerez",
+        "Date":"18 March",
+        "Pole Position":"Raymond Roche",
+        "Fastest Lap":"St\u00e9phane Mertens",
+        "Winning Rider":"Raymond Roche"
+    },
+    {
+        "Round":1,
+        "Round.1":"R2",
+        "Circuit":"Jerez",
+        "Date":"18 March",
+        "Pole Position":"Raymond Roche",
+        "Fastest Lap":"Raymond Roche",
+        "Winning Rider":"Raymond Roche"
+    },
+    {
+        "Round":2,
+        "Round.1":"R1",
+        "Circuit":"Donington",
+        "Date":"16 April",
+        "Pole Position":"Giancarlo Falappa",
+        "Fastest Lap":"Rob Phillis",
+        "Winning Rider":"Fred Merkel"
+    },
+    {
+        "Round":2,
+        "Round.1":"R2",
+        "Circuit":"Donington",
+        "Date":"16 April",
+        "Pole Position":"Giancarlo Falappa",
+        "Fastest Lap":"Raymond Roche",
+        "Winning Rider":"Giancarlo Falappa"
+    },
+    {
+        "Round":3,
+        "Round.1":"R1",
+        "Circuit":"Hungaroring",
+        "Date":"30 April",
+        "Pole Position":"@@@_Usain Bolt",
+        "Fastest Lap":"Raymond Roche",
+        "Winning Rider":"Fred Merkel"
+    },
+    {
+        "Round":3,
+        "Round.1":"R2",
+        "Circuit":"Hungaroring",
+        "Date":"30 April",
+        "Pole Position":"Malcolm Campbell",
+        "Fastest Lap":"Fred Merkel",
+        "Winning Rider":"Raymond Roche"
+    },
+    {
+        "Round":4,
+        "Round.1":"R1",
+        "Circuit":"Hockenheim",
+        "Date":"6 May",
+        "Pole Position":"Raymond Roche",
+        "Fastest Lap":"Fred Merkel",
+        "Winning Rider":"Fred Merkel"
+    },
+    {
+        "Round":4,
+        "Round.1":"R2",
+        "Circuit":"Hockenheim",
+        "Date":"6 May",
+        "Pole Position":"Raymond Roche",
+        "Fastest Lap":"Raymond Roche",
+        "Winning Rider":"St\u00e9phane Mertens"
+    },
+    {
+        "Round":5,
+        "Round.1":"R1",
+        "Circuit":"Mosport",
+        "Date":"3 June",
+        "Pole Position":"Giancarlo Falappa",
+        "Fastest Lap":"Raymond Roche",
+        "Winning Rider":"Raymond Roche"
+    },
+    {
+        "Round":5,
+        "Round.1":"R2",
+        "Circuit":"Mosport",
+        "Date":"3 June",
+        "Pole Position":"Giancarlo Falappa",
+        "Fastest Lap":"Jamie James",
+        "Winning Rider":"Raymond Roche"
+    },
+    {
+        "Round":6,
+        "Round.1":"R1",
+        "Circuit":"Brainerd",
+        "Date":"10 June",
+        "Pole Position":"Doug Chandler",
+        "Fastest Lap":"Doug Chandler",
+        "Winning Rider":"St\u00e9phane Mertens"
+    },
+    {
+        "Round":6,
+        "Round.1":"R2",
+        "Circuit":"Brainerd",
+        "Date":"10 June",
+        "Pole Position":"Doug Chandler",
+        "Fastest Lap":"Fabrizio Pirovano",
+        "Winning Rider":"@@@_Giancarlo Falappa"
+    },
+    {
+        "Round":7,
+        "Round.1":"R1",
+        "Circuit":"\u00d6sterreichring",
+        "Date":"1 July",
+        "Pole Position":"St\u00e9phane Mertens",
+        "Fastest Lap":"Rob McElnea",
+        "Winning Rider":"Fabrizio Pirovano"
+    },
+    {
+        "Round":7,
+        "Round.1":"R2",
+        "Circuit":"\u00d6sterreichring",
+        "Date":"1 July",
+        "Pole Position":"St\u00e9phane Mertens",
+        "Fastest Lap":"St\u00e9phane Mertens",
+        "Winning Rider":"St\u00e9phane Mertens"
+    },
+    {
+        "Round":8,
+        "Round.1":"R1",
+        "Circuit":"Sugo",
+        "Date":"26 August",
+        "Pole Position":"Raymond Roche",
+        "Fastest Lap":"Raymond Roche",
+        "Winning Rider":"Raymond Roche"
+    },
+    {
+        "Round":8,
+        "Round.1":"R2",
+        "Circuit":"Sugo",
+        "Date":"26 August",
+        "Pole Position":"Raymond Roche",
+        "Fastest Lap":"Peter Goddard",
+        "Winning Rider":"Doug Chandler"
+    },
+    {
+        "Round":9,
+        "Round.1":"R1",
+        "Circuit":"Le Mans",
+        "Date":"9 September",
+        "Pole Position":"Baldassarre Monti",
+        "Fastest Lap":"Raymond Roche",
+        "Winning Rider":"Raymond Roche"
+    },
+    {
+        "Round":9,
+        "Round.1":"R2",
+        "Circuit":"Le Mans",
+        "Date":"9 September",
+        "Pole Position":"Baldassarre Monti",
+        "Fastest Lap":"Jamie James",
+        "Winning Rider":"Raymond Roche"
+    },
+    {
+        "Round":10,
+        "Round.1":"R1",
+        "Circuit":"Monza",
+        "Date":"7 October",
+        "Pole Position":"Baldassarre Monti",
+        "Fastest Lap":"Rob Phillis",
+        "Winning Rider":"Fabrizio Pirovano"
+    },
+    {
+        "Round":10,
+        "Round.1":"R2",
+        "Circuit":"Monza",
+        "Date":"7 October",
+        "Pole Position":"Baldassarre Monti",
+        "Fastest Lap":"Rob Phillis",
+        "Winning Rider":"Fabrizio Pirovano"
+    },
+    {
+        "Round":11,
+        "Round.1":"R1",
+        "Circuit":"Shah Alam",
+        "Date":"4 November",
+        "Pole Position":"Rob Phillis",
+        "Fastest Lap":"Fabrizio Pirovano",
+        "Winning Rider":"Fabrizio Pirovano"
+    },
+    {
+        "Round":11,
+        "Round.1":"R2",
+        "Circuit":"Shah Alam",
+        "Date":"4 November",
+        "Pole Position":"Rob Phillis",
+        "Fastest Lap":"Raymond Roche",
+        "Winning Rider":"Fabrizio Pirovano"
+    },
+    {
+        "Round":12,
+        "Round.1":"R1",
+        "Circuit":"Phillip Island",
+        "Date":"11 November",
+        "Pole Position":"Peter Goddard",
+        "Fastest Lap":"Fabrizio Pirovano",
+        "Winning Rider":"Peter Goddard"
+    },
+    {
+        "Round":12,
+        "Round.1":"R2",
+        "Circuit":"Phillip Island",
+        "Date":"11 November",
+        "Pole Position":"Peter Goddard",
+        "Fastest Lap":"Malcolm Campbell",
+        "Winning Rider":"Rob Phillis"
+    },
+    {
+        "Round":13,
+        "Round.1":"R1",
+        "Circuit":"Manfeild",
+        "Date":"18 November",
+        "Pole Position":"Rob Phillis",
+        "Fastest Lap":"Brian Morrison",
+        "Winning Rider":"Terry Rymer"
+    },
+    {
+        "Round":13,
+        "Round.1":"R2",
+        "Circuit":"Manfeild",
+        "Date":"18 November",
+        "Pole Position":"Rob Phillis",
+        "Fastest Lap":"Raymond Roche",
+        "Winning Rider":"Rob Phillis"
+    }
+]

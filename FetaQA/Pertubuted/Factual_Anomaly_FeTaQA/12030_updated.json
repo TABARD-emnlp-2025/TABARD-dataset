@@ -1,0 +1,74 @@
+[
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Musical Revival",
+        "Nominee":"Best Musical Revival",
+        "Result":"Nominated",
+        "Anomaly":null
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Performance in a Supporting Role in a Musical",
+        "Nominee":"Leigh Zimmerman",
+        "Result":"Won",
+        "Anomaly":null
+    },
+    {
+        "Year":2025,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best New Play",
+        "Nominee":"A Future Play",
+        "Result":"Nominated",
+        "Anomaly":null
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Set Design",
+        "Nominee":"Magic Set Design",
+        "Result":"Won",
+        "Anomaly":null
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Actor",
+        "Nominee":"John Doe",
+        "Result":"Won",
+        "Anomaly":null
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Actress",
+        "Nominee":"Jane Doe",
+        "Result":"Nominated",
+        "Anomaly":null
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Director",
+        "Nominee":"Chris Smith",
+        "Result":"Nominated",
+        "Anomaly":"Contradiction: Generally, directors of nominated plays win."
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Musical Revival",
+        "Nominee":"The Phantom's Return",
+        "Result":"Won",
+        "Anomaly":null
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Costume Design",
+        "Nominee":"Simple Garb",
+        "Result":"Won",
+        "Anomaly":"Unrealistic Value: 'Simple Garb' winning an award despite implying basic design."
+    }
+]

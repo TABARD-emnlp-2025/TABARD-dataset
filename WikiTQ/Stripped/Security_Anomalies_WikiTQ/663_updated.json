@@ -1,0 +1,162 @@
+[
+    {
+        "Unnamed: 0":1,
+        "Name":"Karen Andrew",
+        "Nation":"England",
+        "Points":"-44",
+        "Games":5.0,
+        "Pts/game":8.8
+    },
+    {
+        "Unnamed: 0":2,
+        "Name":"Daniella Waterman",
+        "Nation":"England",
+        "Points":40,
+        "Games":5.0,
+        "Pts/game":8.0
+    },
+    {
+        "Unnamed: 0":3,
+        "Name":"Christelle Le Duff",
+        "Nation":"France",
+        "Points":33,
+        "Games":5.0,
+        "Pts/game":6.6
+    },
+    {
+        "Unnamed: 0":4,
+        "Name":"Charlotte Barras",
+        "Nation":"England",
+        "Points":30,
+        "Games":5.0,
+        "Pts/game":6.0
+    },
+    {
+        "Unnamed: 0":5,
+        "Name":"Naomi Thomas",
+        "Nation":"Wales",
+        "Points":25,
+        "Games":5.0,
+        "Pts/game":5.0
+    },
+    {
+        "Unnamed: 0":6,
+        "Name":"Susan Day",
+        "Nation":"England",
+        "Points":20,
+        "Games":5.0,
+        "Pts/game":4.0
+    },
+    {
+        "Unnamed: 0":7,
+        "Name":"Lucy Millard",
+        "Nation":"Scotland",
+        "Points":20,
+        "Games":"0.0",
+        "Pts/game":4.0
+    },
+    {
+        "Unnamed: 0":8,
+        "Name":"Veronica Schiavon",
+        "Nation":"Italy",
+        "Points":19,
+        "Games":4.0,
+        "Pts/game":4.75
+    },
+    {
+        "Unnamed: 0":9,
+        "Name":"Estelle Sartini",
+        "Nation":"France",
+        "Points":17,
+        "Games":5.0,
+        "Pts/game":3.4
+    },
+    {
+        "Unnamed: 0":10,
+        "Name":"Margaret Alphonsie",
+        "Nation":"England",
+        "Points":15,
+        "Games":"nan",
+        "Pts/game":3.0
+    },
+    {
+        "Unnamed: 0":11,
+        "Name":"Fanny Horta",
+        "Nation":"France",
+        "Points":15,
+        "Games":5.0,
+        "Pts/game":3.0
+    },
+    {
+        "Unnamed: 0":12,
+        "Name":"Jeannette Feighery",
+        "Nation":"Ireland",
+        "Points":"1500",
+        "Games":5.0,
+        "Pts/game":3.0
+    },
+    {
+        "Unnamed: 0":13,
+        "Name":"Non Evans",
+        "Nation":"Wales",
+        "Points":14,
+        "Games":3.0,
+        "Pts/game":4.67
+    },
+    {
+        "Unnamed: 0":14,
+        "Name":"Lynsey Harley",
+        "Nation":"Scotland",
+        "Points":12,
+        "Games":2.0,
+        "Pts/game":6.0
+    },
+    {
+        "Unnamed: 0":15,
+        "Name":"Delphine Plantet",
+        "Nation":"France",
+        "Points":10,
+        "Games":5.0,
+        "Pts/game":2.0
+    },
+    {
+        "Unnamed: 0":16,
+        "Name":"Joanne O'Sullivan",
+        "Nation":"Ireland",
+        "Points":10,
+        "Games":5.0,
+        "Pts/game":2.0
+    },
+    {
+        "Unnamed: 0":17,
+        "Name":"Katy McLean",
+        "Nation":"England",
+        "Points":9,
+        "Games":3.0,
+        "Pts/game":3.0
+    },
+    {
+        "Unnamed: 0":18,
+        "Name":"Michela Tondinelli",
+        "Nation":"Italy",
+        "Points":6,
+        "Games":5.0,
+        "Pts/game":1.2
+    },
+    {
+        "Unnamed: 0":19,
+        "Name":"Georgia Stevens",
+        "Nation":"England",
+        "Points":5,
+        "Games":5.0,
+        "Pts/game":"nan"
+    },
+    {
+        "Unnamed: 0":20,
+        "Name":"Mel Berry",
+        "Nation":"Wales",
+        "Points":5,
+        "Games":5.0,
+        "Pts/game":1.0
+    }
+]

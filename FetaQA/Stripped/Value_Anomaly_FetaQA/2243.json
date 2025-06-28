@@ -1,0 +1,30 @@
+[
+    {
+        "Year":"Representing Wales",
+        "Competition":"Representing Wales",
+        "Venue":"Representing Wales",
+        "Position":"Representing Wales",
+        "Notes":"Representing Wales"
+    },
+    {
+        "Year":1994,
+        "Competition":"Commonwealth Games",
+        "Venue":"Victoria, Canada",
+        "Position":"4th",
+        "Notes":"2:03.17"
+    },
+    {
+        "Year":"Representing Great Britain",
+        "Competition":"Representing Great Britain",
+        "Venue":"Representing Great Britain",
+        "Position":"Representing Great Britain",
+        "Notes":"Representing Great Britain"
+    },
+    {
+        "Year":1994,
+        "Competition":"World Cup",
+        "Venue":"London, United Kingdom",
+        "Position":"7th",
+        "Notes":"2:04.13"
+    }
+]

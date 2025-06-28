@@ -1,0 +1,154 @@
+[
+    {
+        "Year":"Representing Grenada",
+        "Competition":"Representing Grenada",
+        "Venue":"Representing Grenada",
+        "Position":"Representing Grenada",
+        "Event":"Representing Grenada",
+        "Notes":"Representing Grenada"
+    },
+    {
+        "Year":2012,
+        "Competition":"CARIFTA Games",
+        "Venue":"Hamilton, Bermuda",
+        "Position":"1st",
+        "Event":"Javelin throw (700g) (U17)",
+        "Notes":"60.50 m"
+    },
+    {
+        "Year":2013,
+        "Competition":"CARIFTA Games",
+        "Venue":"Nassau, Bahamas",
+        "Position":"1st",
+        "Event":"Javelin throw (700g) (U17)",
+        "Notes":"64.01 m CR"
+    },
+    {
+        "Year":2013,
+        "Competition":"CARIFTA Games",
+        "Venue":"Nassau, Bahamas",
+        "Position":"3rd",
+        "Event":"Shot put (U17)",
+        "Notes":"15.53 m"
+    },
+    {
+        "Year":2013,
+        "Competition":"World Youth Championships",
+        "Venue":"Donetsk, Ukraine",
+        "Position":"8th",
+        "Event":"Javelin throw",
+        "Notes":"@@@_70.53 m"
+    },
+    {
+        "Year":2013,
+        "Competition":"Pan American Junior Championships",
+        "Venue":"Medellin, Colombia",
+        "Position":"9th",
+        "Event":"Javelin throw (800g)",
+        "Notes":"61.44 m"
+    },
+    {
+        "Year":2014,
+        "Competition":"CARIFTA Games",
+        "Venue":"Fort-de-France, Martinique",
+        "Position":"1st",
+        "Event":"Javelin throw (700g) (U18)",
+        "Notes":"67.67 m CR"
+    },
+    {
+        "Year":2014,
+        "Competition":"Central American and Caribbean Junior Championships",
+        "Venue":"Morelia, Michoacán, Mexico",
+        "Position":"1st",
+        "Event":"Javelin throw",
+        "Notes":"72.39mCR"
+    },
+    {
+        "Year":2015,
+        "Competition":"CARIFTA Games",
+        "Venue":"Basseterre, Saint Kitts and Nevis",
+        "Position":"1st",
+        "Event":"Javelin throw (800g)(U20)",
+        "Notes":"70.09 m"
+    },
+    {
+        "Year":2015,
+        "Competition":"Pan American Junior Championships",
+        "Venue":"Edmonton, Canada",
+        "Position":"2nd",
+        "Event":"Javelin throw",
+        "Notes":"@@@_72.11 m"
+    },
+    {
+        "Year":2016,
+        "Competition":"CARIFTA Games",
+        "Venue":"St. George's, Grenada",
+        "Position":"1st",
+        "Event":"Javelin throw (800g) (U20)",
+        "Notes":"78.28 m CR' NR"
+    },
+    {
+        "Year":2016,
+        "Competition":"OECS Track and Field Championships",
+        "Venue":"Tortola, British Virgin Islands",
+        "Position":"2nd",
+        "Event":"Javelin throw",
+        "Notes":"76.78m"
+    },
+    {
+        "Year":2016,
+        "Competition":"World U20 Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"3rd",
+        "Event":"Javelin throw",
+        "Notes":"79.65 m NR"
+    },
+    {
+        "Year":2017,
+        "Competition":"Trinidad & Tobago National Open Championships",
+        "Venue":"Hasely Crawford Stadium, Trinidad",
+        "Position":"1st",
+        "Event":"Javelin throw (800g)",
+        "Notes":"83.36 m NR"
+    },
+    {
+        "Year":2017,
+        "Competition":"OECS Track and Field Championships",
+        "Venue":"Kirani James Athletic Stadium, Grenada",
+        "Position":"1st",
+        "Event":"Javelin throw",
+        "Notes":"84.81 m NR"
+    },
+    {
+        "Year":2017,
+        "Competition":"2017 World Championships in Athletics",
+        "Venue":"London Stadium, England",
+        "Position":"20th",
+        "Event":"Javelin throw",
+        "Notes":"@@@_78.88 m"
+    },
+    {
+        "Year":2018,
+        "Competition":"Commonwealth Games",
+        "Venue":"Gold Coast, Australia",
+        "Position":"3rd",
+        "Event":"Javelin Throw",
+        "Notes":"@@@_82.20 m"
+    },
+    {
+        "Year":2018,
+        "Competition":"Central American and Caribbean Games",
+        "Venue":"Barranquilla, Colombia",
+        "Position":"2nd",
+        "Event":"Javelin Throw",
+        "Notes":"@@@_81.80 m"
+    },
+    {
+        "Year":2018,
+        "Competition":"2018 NACAC Championships",
+        "Venue":"Toronto, Canada",
+        "Position":"1st",
+        "Event":"Javelin Throw",
+        "Notes":"79.65 m CR"
+    }
+]

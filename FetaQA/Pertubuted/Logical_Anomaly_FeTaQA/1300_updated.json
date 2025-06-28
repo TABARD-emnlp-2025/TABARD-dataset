@@ -1,0 +1,51 @@
+[
+    {
+        "Date":"1 January 1940",
+        "Ship":"Lars Magnus Trozelli",
+        "Nationality":"Sweden",
+        "Tonnage":"1,951",
+        "Fate and location":"Sunk at 58\u00b014\u2032N 01\u00b036\u2032W \/ 58.233\u00b0N 1.600\u00b0W"
+    },
+    {
+        "Date":"3 January 1940",
+        "Ship":"Svart\u00f6n",
+        "Nationality":"Sweden",
+        "Tonnage":"2,475",
+        "Fate and location":"Sunk at 57\u00b048\u2032N 01\u00b047\u2032W \/ 57.800\u00b0N 1.783\u00b0W"
+    },
+    {
+        "Date":"3 February 1940",
+        "Ship":"Reet",
+        "Nationality":"Estonia",
+        "Tonnage":815,
+        "Fate and location":"@@@_Sunk at 100\u00b000\u2032N 01\u00b000\u2032W \/ 100.000\u00b0N 1.000\u00b0W"
+    },
+    {
+        "Date":"1 June 1940",
+        "Ship":"HMS Astronomer",
+        "Nationality":"Royal Navy",
+        "Tonnage":"8,401",
+        "Fate and location":"Sunk at 58\u00b001\u2032N 02\u00b012\u2032W \/ 58.017\u00b0N 2.200\u00b0W"
+    },
+    {
+        "Date":"18 July 1940",
+        "Ship":"Gyda",
+        "Nationality":"Norway",
+        "Tonnage":"1,591",
+        "Fate and location":"@@@_Sunk at 55\u00b050\u2032S 09\u00b000\u2032W \/ 55.833\u00b0S 9.000\u00b0W"
+    },
+    {
+        "Date":"4 August 1940",
+        "Ship":"Pindos",
+        "Nationality":"@@@_Atlantis",
+        "Tonnage":"4,360",
+        "Fate and location":"Sunk at 55\u00b022\u2032N 08\u00b050\u2032W \/ 55.367\u00b0N 8.833\u00b0W"
+    },
+    {
+        "Date":"8 October 1940",
+        "Ship":"Confield",
+        "Nationality":"United Kingdom",
+        "Tonnage":"@@@_-4,956",
+        "Fate and location":"Sunk"
+    }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "Tie no": 49.0,
+    "Home team": "Dalsjöfors GoIF (WC)",
+    "Score": "1-4",
+    "Away team": "Varbergs GIF (D3)"
+  },
+  {
+    "Tie no": 50.0,
+    "Home team": "Sjömarkens IF (D4)",
+    "Score": "1-4",
+    "Away team": "BK Slätta Damm (D3)"
+  },
+  {
+    "Tie no": 51.0,
+    "Home team": "IF Tymer (D4)",
+    "Score": "0-3",
+    "Away team": "Kållereds SK (D3)"
+  },
+  {
+    "Tie no": 52.0,
+    "Home team": "IFK Hjo (WC)",
+    "Score": "0-4",
+    "Away team": "Nässjö FF (D3)"
+  },
+  {
+    "Tie no": 53.0,
+    "Home team": "Falköpings FK (D4)",
+    "Score": "2-0",
+    "Away team": "Gånghesters SK (D4)"
+  },
+  {
+    "Tie no": 54.0,
+    "Home team": "Ankarsrums IS (WC)",
+    "Score": "1-2",
+    "Away team": "Linköpings FF (D3)"
+  },
+  {
+    "Tie no": 55.0,
+    "Home team": "Rödsle BK (D4)",
+    "Score": "1-0 (gg)",
+    "Away team": "Skeninge IK (D4)"
+  },
+  {
+    "Tie no": 56.0,
+    "Home team": "Lindås BK (D4)",
+    "Score": "1-3",
+    "Away team": "Hultsfreds FK (D3)"
+  },
+  {
+    "Tie no": 57.0,
+    "Home team": "Hvetlanda GIF (D4)",
+    "Score": "0-1",
+    "Away team": "Åhus Horna BK (D3)"
+  },
+  {
+    "Tie no": 58.0,
+    "Home team": "Bredaryds IK (D4)",
+    "Score": "3-0",
+    "Away team": "Ulricehamns IFK (D3)"
+  },
+  {
+    "Tie no": 59.0,
+    "Home team": "Hovslätts IK (D4)",
+    "Score": "0-9",
+    "Away team": "Tidaholms GIF (D2)"
+  },
+  {
+    "Tie no": "@@@_1764.3225649628",
+    "Home team": "Torpa AIS (D4)",
+    "Score": "0-2",
+    "Away team": "BK Zeros (D3)"
+  },
+  {
+    "Tie no": 61.0,
+    "Home team": "Fiskeby IF (WC)",
+    "Score": "2-1 (gg)",
+    "Away team": "Västerviks FF (D4)"
+  },
+  {
+    "Tie no": "@@@_-138.0926352904",
+    "Home team": "Gnösjö IF (D4)",
+    "Score": "1-3",
+    "Away team": "Skövde AIK (D2)"
+  },
+  {
+    "Tie no": 63.0,
+    "Home team": "Sävsjö FF (D4)",
+    "Score": "5-3",
+    "Away team": "Skillingaryds IS (D4)"
+  },
+  {
+    "Tie no": "@@@_1443.0312936859",
+    "Home team": "Boxholms IF (WC)",
+    "Score": "1-2",
+    "Away team": "Tranås AIF (D3)"
+  },
+  {
+    "Tie no": 65.0,
+    "Home team": "LSW IF (D4)",
+    "Score": "2-1",
+    "Away team": "Husqvarna FF (D2)"
+  },
+  {
+    "Tie no": 66.0,
+    "Home team": "Lessebo GoIF (D4)",
+    "Score": "0-1",
+    "Away team": "Listerby IK (D4)"
+  },
+  {
+    "Tie no": 67.0,
+    "Home team": "Rörviks IF (D4)",
+    "Score": "0-2",
+    "Away team": "Lunds BK (D2)"
+  },
+  {
+    "Tie no": 68.0,
+    "Home team": "Lagans AIK (D4)",
+    "Score": "0-1",
+    "Away team": "Högaborgs BK (D2)"
+  },
+  {
+    "Tie no": 69.0,
+    "Home team": "IF Eksjö (D4)",
+    "Score": "1-4",
+    "Away team": "Kalmar FF (D2)"
+  },
+  {
+    "Tie no": 70.0,
+    "Home team": "Limmareds IF (D4)",
+    "Score": "1-5",
+    "Away team": "Växjö Norra IF (D2)"
+  },
+  {
+    "Tie no": 71.0,
+    "Home team": "Bankeryds SK (D4)",
+    "Score": "4-1",
+    "Away team": "Hjulsbro IK (D2)"
+  },
+  {
+    "Tie no": 72.0,
+    "Home team": "Skultorps IF (D4)",
+    "Score": "0-2",
+    "Away team": "BK Forward (D2)"
+  },
+  {
+    "Tie no": "@@@_None",
+    "Home team": "Gullspångs IF (D4)",
+    "Score": "0-7",
+    "Away team": "Rynninge IK (D3)"
+  },
+  {
+    "Tie no": 74.0,
+    "Home team": "Skara FC (D4)",
+    "Score": "0-4",
+    "Away team": "Karlslunds IF (D3)"
+  },
+  {
+    "Tie no": 75.0,
+    "Home team": "Bråtens IK (D4)",
+    "Score": "0-4",
+    "Away team": "Vivalla-Lundby IF (D3)"
+  },
+  {
+    "Tie no": 76.0,
+    "Home team": "Finnerödja IF(D4)",
+    "Score": "3-1",
+    "Away team": "IFK Mariestad (D4)"
+  },
+  {
+    "Tie no": 77.0,
+    "Home team": "Sköllersta IF (D4)",
+    "Score": "1-3",
+    "Away team": "Hemgårdarnas BK (D4)"
+  },
+  {
+    "Tie no": 78.0,
+    "Home team": "Simonstorps IF (D4)",
+    "Score": "0-5",
+    "Away team": "Nyköpings BIS (D2)"
+  },
+  {
+    "Tie no": 79.0,
+    "Home team": "Ringarums IF (D4)",
+    "Score": "1-4",
+    "Away team": "Värmbols FC (D4)"
+  },
+  {
+    "Tie no": 80.0,
+    "Home team": "Dagsbergs IF (D4)",
+    "Score": "1-0",
+    "Away team": "Malmköpings IF (D4)"
+  },
+  {
+    "Tie no": 81.0,
+    "Home team": "Katrineholms SK (D4)",
+    "Score": "0-2",
+    "Away team": "BK Kenty (D4)"
+  },
+  {
+    "Tie no": 82.0,
+    "Home team": "Härad IF (D4)",
+    "Score": "2-3 (gg)",
+    "Away team": "IFK Västerås (D2)"
+  },
+  {
+    "Tie no": 83.0,
+    "Home team": "@@@_None",
+    "Score": "0-3",
+    "Away team": "Karlstad BK (D2)"
+  },
+  {
+    "Tie no": 84.0,
+    "Home team": "Laxå IF (D4)",
+    "Score": "0-4",
+    "Away team": "IF Sylvia (D2)"
+  },
+  {
+    "Tie no": 85.0,
+    "Home team": "Ransta IK (D4)",
+    "Score": "1-3",
+    "Away team": "IFK Hallsberg (D4)"
+  },
+  {
+    "Tie no": 86.0,
+    "Home team": "Skyllbergs IK (WC)",
+    "Score": "0-4",
+    "Away team": "IFK Kristinehamn (D4)"
+  },
+  {
+    "Tie no": 87.0,
+    "Home team": "Filipstads FF (D4)",
+    "Score": "3-1",
+    "Away team": "Kungsörs SK (D4)"
+  },
+  {
+    "Tie no": 88.0,
+    "Home team": "Hallstahammars SK (D4)",
+    "Score": "0-7",
+    "Away team": "IFK Eskilstuna (D2)"
+  },
+  {
+    "Tie no": 89.0,
+    "Home team": "BK Hird (D4)",
+    "Score": "0-5",
+    "Away team": "Hargs BK (D2)"
+  },
+  {
+    "Tie no": 90.0,
+    "Home team": "Vretstorps IF (WC)",
+    "Score": "1-5",
+    "Away team": "IFK Ölme (D3)"
+  },
+  {
+    "Tie no": 91.0,
+    "Home team": "Frövi IK (WC)",
+    "Score": "1-9",
+    "Away team": "Skiljebo SK (D3)"
+  },
+  {
+    "Tie no": 92.0,
+    "Home team": "IF Rune (WC)",
+    "Score": "1-3",
+    "Away team": "Gnesta FF (D3)"
+  },
+  {
+    "Tie no": 93.0,
+    "Home team": "Västerås BK 30 (WC)",
+    "Score": "0-8",
+    "Away team": "Örebro SK Ungdom (D4)"
+  },
+  {
+    "Tie no": 94.0,
+    "Home team": "VoIF Diana (WC)",
+    "Score": "4-0",
+    "Away team": "Enskede IK (D4)"
+  },
+  {
+    "Tie no": 95.0,
+    "Home team": "New Mill FF (WC)",
+    "Score": "4-2",
+    "Away team": "Värtans SK (D3)"
+  },
+  {
+    "Tie no": 96.0,
+    "Home team": "Runtuna IK/Löthen (WC)",
+    "Score": "1-2",
+    "Away team": "Huddinge IF (D3)"
+  }
+]

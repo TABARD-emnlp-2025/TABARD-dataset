@@ -1,0 +1,163 @@
+[
+    {
+        "Date":"21 May 1942",
+        "Name":"Montenol",
+        "Nationality":"@@@_UK",
+        "Tonnage (GRT)":"2,646",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"21 May 1942",
+        "Name":"New Brunswick",
+        "Nationality":"United Kingdom",
+        "Tonnage (GRT)":"6,529",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"2 June 1942",
+        "Name":"Illinois",
+        "Nationality":"United States",
+        "Tonnage (GRT)":"5,447",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"5 June 1942",
+        "Name":"Paracury",
+        "Nationality":"Brazil",
+        "Tonnage (GRT)":"@@@_265",
+        "Fate":"Damaged"
+    },
+    {
+        "Date":"5 June 1942",
+        "Name":"Sally",
+        "Nationality":"Honduras",
+        "Tonnage (GRT)":"@@@_150",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"7 June 1942",
+        "Name":"@@@_edith",
+        "Nationality":"United States",
+        "Tonnage (GRT)":"3,382",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"11 June 1942",
+        "Name":"Fort Good Hope",
+        "Nationality":"United Kingdom",
+        "Tonnage (GRT)":"7,130",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"13 June 1942",
+        "Name":"Sixaola",
+        "Nationality":"United States",
+        "Tonnage (GRT)":"4,693",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"13 June 1942",
+        "Name":"Solon Turman",
+        "Nationality":"United States",
+        "Tonnage (GRT)":"6,762",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"18 June 1942",
+        "Name":"Ante Matkovic",
+        "Nationality":"Yugoslavia",
+        "Tonnage (GRT)":"2,710",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"22 June 1942",
+        "Name":"E.J. Sadler",
+        "Nationality":"United States",
+        "Tonnage (GRT)":"9,639",
+        "Fate":"@@@_Sank"
+    },
+    {
+        "Date":"7 October 1942",
+        "Name":"Boringia",
+        "Nationality":"United Kingdom",
+        "Tonnage (GRT)":"@@@_5821",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"8 October 1942",
+        "Name":"Clan Mactavish",
+        "Nationality":"United Kingdom",
+        "Tonnage (GRT)":"7,631",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"9 October 1942",
+        "Name":"Coloradan",
+        "Nationality":"United States",
+        "Tonnage (GRT)":"6,557",
+        "Fate":"@@@_sunk"
+    },
+    {
+        "Date":"13 October 1942",
+        "Name":"Empire Nomad",
+        "Nationality":"United Kingdom",
+        "Tonnage (GRT)":"7,167",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"29 October 1942",
+        "Name":"Laplace",
+        "Nationality":"United Kingdom",
+        "Tonnage (GRT)":"7,327",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"29 October 1942",
+        "Name":"Ross",
+        "Nationality":"@@@_UK",
+        "Tonnage (GRT)":"4,978",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"7 November 1942",
+        "Name":"La Salle",
+        "Nationality":"United States",
+        "Tonnage (GRT)":"5,462",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"13 November 1942",
+        "Name":"Star of Scotland",
+        "Nationality":"United States",
+        "Tonnage (GRT)":"2,290",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"13 November 1942",
+        "Name":"City of Bombay",
+        "Nationality":"United Kingdom",
+        "Tonnage (GRT)":"7,140",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"15 December 1942",
+        "Name":"Star of Suez",
+        "Nationality":"Egypt",
+        "Tonnage (GRT)":"4,999",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"16 December 1942",
+        "Name":"East Wales",
+        "Nationality":"United Kingdom",
+        "Tonnage (GRT)":"4,538",
+        "Fate":"Sunk"
+    },
+    {
+        "Date":"28 March 1943",
+        "Name":"Silverbeech",
+        "Nationality":"United Kingdom",
+        "Tonnage (GRT)":"5,319",
+        "Fate":"Sunk"
+    }
+]

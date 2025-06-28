@@ -1,0 +1,142 @@
+[
+    {
+        "Year":1988,
+        "Wins":38,
+        "Runs":508,
+        "Strike Rate":7,
+        "Total Earnings":"160,598"
+    },
+    {
+        "Year":1989,
+        "Wins":70,
+        "Runs":581,
+        "Strike Rate":12,
+        "Total Earnings":"£281,705"
+    },
+    {
+        "Year":1990,
+        "Wins":83,
+        "Runs":612,
+        "Strike Rate":14,
+        "Total Earnings":"£387,295"
+    },
+    {
+        "Year":1991,
+        "Wins":66,
+        "Runs":576,
+        "Strike Rate":11,
+        "Total Earnings":"£344,763"
+    },
+    {
+        "Year":1992,
+        "Wins":91,
+        "Runs":569,
+        "Strike Rate":16,
+        "Total Earnings":"388,874"
+    },
+    {
+        "Year":1993,
+        "Wins":144,
+        "Runs":829,
+        "Strike Rate":17,
+        "Total Earnings":"£836,339"
+    },
+    {
+        "Year":1994,
+        "Wins":154,
+        "Runs":946,
+        "Strike Rate":16,
+        "Total Earnings":"£1,104,241"
+    },
+    {
+        "Year":1995,
+        "Wins":148,
+        "Runs":913,
+        "Strike Rate":16,
+        "Total Earnings":"£1,207,863"
+    },
+    {
+        "Year":1996,
+        "Wins":113,
+        "Runs":867,
+        "Strike Rate":13,
+        "Total Earnings":"1,106,077"
+    },
+    {
+        "Year":1997,
+        "Wins":128,
+        "Runs":841,
+        "Strike Rate":15,
+        "Total Earnings":"£1,022,152"
+    },
+    {
+        "Year":1998,
+        "Wins":94,
+        "Runs":734,
+        "Strike Rate":13,
+        "Total Earnings":"£791,856"
+    },
+    {
+        "Year":1999,
+        "Wins":118,
+        "Runs":855,
+        "Strike Rate":14,
+        "Total Earnings":"£1,042,652"
+    },
+    {
+        "Year":2000,
+        "Wins":155,
+        "Runs":997,
+        "Strike Rate":16,
+        "Total Earnings":"£2,306,168"
+    },
+    {
+        "Year":2001,
+        "Wins":161,
+        "Runs":984,
+        "Strike Rate":16,
+        "Total Earnings":"£2,384,295"
+    },
+    {
+        "Year":2002,
+        "Wins":113,
+        "Runs":800,
+        "Strike Rate":14,
+        "Total Earnings":"2,646,261"
+    },
+    {
+        "Year":2003,
+        "Wins":125,
+        "Runs":871,
+        "Strike Rate":14,
+        "Total Earnings":"£1,877,988"
+    },
+    {
+        "Year":2004,
+        "Wins":85,
+        "Runs":822,
+        "Strike Rate":10,
+        "Total Earnings":"£1,779,738"
+    },
+    {
+        "Year":2005,
+        "Wins":100,
+        "Runs":723,
+        "Strike Rate":14,
+        "Total Earnings":"£1,342,366"
+    },
+    {
+        "Year":2006,
+        "Wins":75,
+        "Runs":604,
+        "Strike Rate":12,
+        "Total Earnings":"£1,396,144"
+    },
+    {
+        "Year":2007,
+        "Wins":62,
+        "Runs":530,
+        "Strike Rate":12,
+        "Total Earnings":"£770,876"
+    }
+]

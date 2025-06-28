@@ -1,0 +1,122 @@
+[
+    {
+        "Year":"Representing the Netherlands",
+        "Competition":"Representing the Netherlands",
+        "Venue":"Representing the Netherlands",
+        "Position":"Representing the Netherlands",
+        "Event":"Representing the Netherlands",
+        "Notes":"Representing the Netherlands"
+    },
+    {
+        "Year":1992,
+        "Competition":"World Junior Championships",
+        "Venue":"Seoul, South Korea",
+        "Position":"4th",
+        "Event":"110 m hurdles",
+        "Notes":"14.11 (wind: +1.6 m/s)"
+    },
+    {
+        "Year":1993,
+        "Competition":"European Junior Championships",
+        "Venue":"San Sebastián, Spain",
+        "Position":"1st",
+        "Event":"110 m hurdles",
+        "Notes":13.85
+    },
+    {
+        "Year":1993,
+        "Competition":"World Championships",
+        "Venue":"Stuttgart, Germany",
+        "Position":"44th (h)",
+        "Event":"110 m hurdles",
+        "Notes":14.88
+    },
+    {
+        "Year":1994,
+        "Competition":"European Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"29th (h)",
+        "Event":"110 m hurdles",
+        "Notes":14.31
+    },
+    {
+        "Year":1995,
+        "Competition":"Universiade",
+        "Venue":"Fukuoka, Japan",
+        "Position":"11th (sf)",
+        "Event":"110 m hurdles",
+        "Notes":13.97
+    },
+    {
+        "Year":1997,
+        "Competition":"World Indoor Championships",
+        "Venue":"Paris, France",
+        "Position":"19th (h)",
+        "Event":"60 m hurdles",
+        "Notes":7.8
+    },
+    {
+        "Year":1997,
+        "Competition":"World Championships",
+        "Venue":"Athens, Greece",
+        "Position":"11th (sf)",
+        "Event":"110 m hurdles",
+        "Notes":13.51
+    },
+    {
+        "Year":1997,
+        "Competition":"Universiade",
+        "Venue":"Catania, Italy",
+        "Position":"4th",
+        "Event":"110 m hurdles",
+        "Notes":13.7
+    },
+    {
+        "Year":1998,
+        "Competition":"European Indoor Championships",
+        "Venue":"Valencia, Spain",
+        "Position":"11th (sf)",
+        "Event":"60 m hurdles",
+        "Notes":7.67
+    },
+    {
+        "Year":1998,
+        "Competition":"European Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"3rd",
+        "Event":"110 m hurdles",
+        "Notes":13.2
+    },
+    {
+        "Year":1998,
+        "Competition":"World Cup",
+        "Venue":"Johannesburg, South Africa",
+        "Position":"4th",
+        "Event":"110 m hurdles",
+        "Notes":13.25
+    },
+    {
+        "Year":"2150",
+        "Competition":"World Championships",
+        "Venue":"Seville, Spain",
+        "Position":"10th (sf)",
+        "Event":"110 m hurdles",
+        "Notes":13.45
+    },
+    {
+        "Year":1993,
+        "Competition":"European Junior Championships",
+        "Venue":"Atlantis, Caribbean",
+        "Position":"1st",
+        "Event":"110 m hurdles",
+        "Notes":13.85
+    },
+    {
+        "Year":1999,
+        "Competition":"World Championships",
+        "Venue":"Seville, Spain",
+        "Position":"10th (sf)",
+        "Event":"110 m hurdles",
+        "Notes":"-5.0"
+    }
+]

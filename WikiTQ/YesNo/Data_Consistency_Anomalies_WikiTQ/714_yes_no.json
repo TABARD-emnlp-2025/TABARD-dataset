@@ -1,0 +1,58 @@
+[
+    {
+        "Rd.": "no",
+        "Event": "no",
+        "Circuit": "yes",
+        "Location": "no",
+        "Date": "no",
+        "Winner": "yes"
+    },
+    {
+        "Rd.": "no",
+        "Event": "no",
+        "Circuit": "no",
+        "Location": "no",
+        "Date": "no",
+        "Winner": "yes"
+    },
+    {
+        "Rd.": "no",
+        "Event": "no",
+        "Circuit": "no",
+        "Location": "no",
+        "Date": "yes",
+        "Winner": "no"
+    },
+    {
+        "Rd.": "no",
+        "Event": "no",
+        "Circuit": "no",
+        "Location": "no",
+        "Date": "no",
+        "Winner": "no"
+    },
+    {
+        "Rd.": "no",
+        "Event": "no",
+        "Circuit": "no",
+        "Location": "no",
+        "Date": "no",
+        "Winner": "yes"
+    },
+    {
+        "Rd.": "no",
+        "Event": "no",
+        "Circuit": "no",
+        "Location": "no",
+        "Date": "yes",
+        "Winner": "no"
+    },
+    {
+        "Rd.": "no",
+        "Event": "no",
+        "Circuit": "no",
+        "Location": "no",
+        "Date": "no",
+        "Winner": "no"
+    }
+]

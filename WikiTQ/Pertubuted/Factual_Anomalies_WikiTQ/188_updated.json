@@ -1,0 +1,65 @@
+[
+    {
+        "Rank":5,
+        "Player":"Juan Mart\u00edn del Potro",
+        "Points":5115,
+        "Points defending":720,
+        "Points won":0,
+        "New points":4395,
+        "Withdrew due to":"right wrist surgery"
+    },
+    {
+        "Rank":6,
+        "Player":"Nikolay Davydenko",
+        "Points":5145,
+        "Points defending":360,
+        "Points won":0,
+        "New points":4785,
+        "Withdrew due to":"broken wrist"
+    },
+    {
+        "Rank":20,
+        "Player":"Radek \u0160t\u011bp\u00e1nek",
+        "Points":1705,
+        "Points defending":90,
+        "Points won":0,
+        "New points":1615,
+        "Withdrew due to":"fatigue"
+    },
+    {
+        "Rank":23,
+        "Player":"Tommy Haas",
+        "Points":1660,
+        "Points defending":180,
+        "Points won":0,
+        "New points":"@@@_5000",
+        "Withdrew due to":"right hip surgery"
+    },
+    {
+        "Rank":32,
+        "Player":"Gilles Simon",
+        "Points":1395,
+        "Points defending":"@@@_1395",
+        "Points won":0,
+        "New points":1305,
+        "Withdrew due to":"right knee injury"
+    },
+    {
+        "Rank":36,
+        "Player":"Ivo Karlovi\u0107",
+        "Points":1295,
+        "Points defending":10,
+        "Points won":0,
+        "New points":1285,
+        "Withdrew due to":"right foot injury"
+    },
+    {
+        "Rank":10,
+        "Player":"Kim Clijsters",
+        "Points":3890,
+        "Points defending":0,
+        "Points won":"@@@_500",
+        "New points":3890,
+        "Withdrew due to":"left foot injury"
+    }
+]

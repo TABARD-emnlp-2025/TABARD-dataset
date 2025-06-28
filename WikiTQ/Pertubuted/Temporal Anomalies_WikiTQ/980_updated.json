@@ -1,0 +1,92 @@
+[
+    {
+        "Name":"Fiesch- -alp 1+2",
+        "type":"cable car",
+        "elevation\n(ground station)":1074,
+        "elevation\n(mountain station)":2227,
+        "slope length":2940,
+        "capacity\n(persons\/hour)":800,
+        "construction year":1973
+    },
+    {
+        "Name":"Fiesch- -alp 3+4",
+        "type":"cable car",
+        "elevation\n(ground station)":1071,
+        "elevation\n(mountain station)":2221,
+        "slope length":2937,
+        "capacity\n(persons\/hour)":270,
+        "construction year":"@@@_1973"
+    },
+    {
+        "Name":"Fiescheralp-Eggishorn",
+        "type":"cable car",
+        "elevation\n(ground station)":2225,
+        "elevation\n(mountain station)":2879,
+        "slope length":1836,
+        "capacity\n(persons\/hour)":495,
+        "construction year":1968
+    },
+    {
+        "Name":"Heimat",
+        "type":"chairlift",
+        "elevation\n(ground station)":1858,
+        "elevation\n(mountain station)":2301,
+        "slope length":1144,
+        "capacity\n(persons\/hour)":1400,
+        "construction year":"@@@_2005"
+    },
+    {
+        "Name":"Talegga",
+        "type":"chairlift",
+        "elevation\n(ground station)":2208,
+        "elevation\n(mountain station)":2727,
+        "slope length":1782,
+        "capacity\n(persons\/hour)":2200,
+        "construction year":2010
+    },
+    {
+        "Name":"Flesch",
+        "type":"chairlift",
+        "elevation\n(ground station)":2208,
+        "elevation\n(mountain station)":2630,
+        "slope length":1357,
+        "capacity\n(persons\/hour)":2400,
+        "construction year":1993
+    },
+    {
+        "Name":"Trainer 1",
+        "type":"surface lift",
+        "elevation\n(ground station)":2206,
+        "elevation\n(mountain station)":2264,
+        "slope length":218,
+        "capacity\n(persons\/hour)":1200,
+        "construction year":1987
+    },
+    {
+        "Name":"Trainer 2",
+        "type":"surface lift",
+        "elevation\n(ground station)":2206,
+        "elevation\n(mountain station)":2264,
+        "slope length":218,
+        "capacity\n(persons\/hour)":1200,
+        "construction year":1987
+    },
+    {
+        "Name":"Laxeralp 1",
+        "type":"surface lift",
+        "elevation\n(ground station)":2135,
+        "elevation\n(mountain station)":2179,
+        "slope length":396,
+        "capacity\n(persons\/hour)":1100,
+        "construction year":1981
+    },
+    {
+        "Name":"Laxeralp 2",
+        "type":"surface lift",
+        "elevation\n(ground station)":2179,
+        "elevation\n(mountain station)":2280,
+        "slope length":394,
+        "capacity\n(persons\/hour)":1214,
+        "construction year":"@@@_1985"
+    }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"10:1001",
+        "ETHNIC_GROUP_NAME":"Black or African American",
+        "ETHNIC_SUBGROUP_NAME":"African American",
+        "ETHNIC_CODE":10.0,
+        "ETHNIC_SUBGROUP_CODE":1001,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"10:1002",
+        "ETHNIC_GROUP_NAME":"Black or African American",
+        "ETHNIC_SUBGROUP_NAME":"African",
+        "ETHNIC_CODE":10.0,
+        "ETHNIC_SUBGROUP_CODE":1002,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"10:1003",
+        "ETHNIC_GROUP_NAME":"Black or African American",
+        "ETHNIC_SUBGROUP_NAME":"Caribbean",
+        "ETHNIC_CODE":10.0,
+        "ETHNIC_SUBGROUP_CODE":1003,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"10:1004",
+        "ETHNIC_GROUP_NAME":"Black or African American",
+        "ETHNIC_SUBGROUP_NAME":"Other",
+        "ETHNIC_CODE":10.0,
+        "ETHNIC_SUBGROUP_CODE":1004,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"10:1005",
+        "ETHNIC_GROUP_NAME":"Black or African American",
+        "ETHNIC_SUBGROUP_NAME":"Black or African American",
+        "ETHNIC_CODE":10.0,
+        "ETHNIC_SUBGROUP_CODE":1005,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"20:2001",
+        "ETHNIC_GROUP_NAME":"American Indian or Alaskan Native",
+        "ETHNIC_SUBGROUP_NAME":"Alaska Native",
+        "ETHNIC_CODE":"nan",
+        "ETHNIC_SUBGROUP_CODE":2001,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"20:2002",
+        "ETHNIC_GROUP_NAME":"American Indian or Alaskan Native",
+        "ETHNIC_SUBGROUP_NAME":"Chippewa",
+        "ETHNIC_CODE":20.0,
+        "ETHNIC_SUBGROUP_CODE":2002,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"20:2003",
+        "ETHNIC_GROUP_NAME":"American Indian or Alaskan Native",
+        "ETHNIC_SUBGROUP_NAME":"Choctaw",
+        "ETHNIC_CODE":20.0,
+        "ETHNIC_SUBGROUP_CODE":2003,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"20:2004",
+        "ETHNIC_GROUP_NAME":"American Indian or Alaskan Native",
+        "ETHNIC_SUBGROUP_NAME":"Cherokee",
+        "ETHNIC_CODE":20.0,
+        "ETHNIC_SUBGROUP_CODE":2004,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"20:2005",
+        "ETHNIC_GROUP_NAME":"American Indian or Alaskan Native",
+        "ETHNIC_SUBGROUP_NAME":"Navajo",
+        "ETHNIC_CODE":20.0,
+        "ETHNIC_SUBGROUP_CODE":2005,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"20:2006",
+        "ETHNIC_GROUP_NAME":"American Indian or Alaskan Native",
+        "ETHNIC_SUBGROUP_NAME":"Sioux",
+        "ETHNIC_CODE":20.0,
+        "ETHNIC_SUBGROUP_CODE":2006,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"20:2007",
+        "ETHNIC_GROUP_NAME":"American Indian or Alaskan Native",
+        "ETHNIC_SUBGROUP_NAME":"Other",
+        "ETHNIC_CODE":20.0,
+        "ETHNIC_SUBGROUP_CODE":2007,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"20:2008",
+        "ETHNIC_GROUP_NAME":"American Indian or Alaskan Native",
+        "ETHNIC_SUBGROUP_NAME":"American Indian or Alaskan Native",
+        "ETHNIC_CODE":20.0,
+        "ETHNIC_SUBGROUP_CODE":2008,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"30:3001",
+        "ETHNIC_GROUP_NAME":"Native Hawaiian or Other Pacific Islander",
+        "ETHNIC_SUBGROUP_NAME":"Guam",
+        "ETHNIC_CODE":30.0,
+        "ETHNIC_SUBGROUP_CODE":3001,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"30:3002",
+        "ETHNIC_GROUP_NAME":"Native Hawaiian or Other Pacific Islander",
+        "ETHNIC_SUBGROUP_NAME":"Hawaii",
+        "ETHNIC_CODE":30.0,
+        "ETHNIC_SUBGROUP_CODE":3002,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"30:3003",
+        "ETHNIC_GROUP_NAME":"Native Hawaiian or Other Pacific Islander",
+        "ETHNIC_SUBGROUP_NAME":"Samoa",
+        "ETHNIC_CODE":30.0,
+        "ETHNIC_SUBGROUP_CODE":3003,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"30:3004",
+        "ETHNIC_GROUP_NAME":"Native Hawaiian or Other Pacific Islander",
+        "ETHNIC_SUBGROUP_NAME":"Other",
+        "ETHNIC_CODE":30.0,
+        "ETHNIC_SUBGROUP_CODE":3004,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"30:3005",
+        "ETHNIC_GROUP_NAME":"Native Hawaiian or Other Pacific Islander",
+        "ETHNIC_SUBGROUP_NAME":"Native Hawaiian or Other Pacific Islander",
+        "ETHNIC_CODE":30.0,
+        "ETHNIC_SUBGROUP_CODE":3005,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"40:4001",
+        "ETHNIC_GROUP_NAME":"Hispanic or Latino",
+        "ETHNIC_SUBGROUP_NAME":"Central America",
+        "ETHNIC_CODE":40.0,
+        "ETHNIC_SUBGROUP_CODE":4001,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"40:4002",
+        "ETHNIC_GROUP_NAME":"Hispanic or Latino",
+        "ETHNIC_SUBGROUP_NAME":"Cuba",
+        "ETHNIC_CODE":40.0,
+        "ETHNIC_SUBGROUP_CODE":4002,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"40:4003",
+        "ETHNIC_GROUP_NAME":"Hispanic or Latino",
+        "ETHNIC_SUBGROUP_NAME":"Mexico",
+        "ETHNIC_CODE":40.0,
+        "ETHNIC_SUBGROUP_CODE":4003,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"40:4004",
+        "ETHNIC_GROUP_NAME":"Hispanic or Latino",
+        "ETHNIC_SUBGROUP_NAME":"Puerto Rico",
+        "ETHNIC_CODE":40.0,
+        "ETHNIC_SUBGROUP_CODE":4004,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"40:4005",
+        "ETHNIC_GROUP_NAME":"Hispanic or Latino",
+        "ETHNIC_SUBGROUP_NAME":"South America (excluding Brazil)",
+        "ETHNIC_CODE":40.0,
+        "ETHNIC_SUBGROUP_CODE":4005,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"40:4006",
+        "ETHNIC_GROUP_NAME":"Hispanic or Latino",
+        "ETHNIC_SUBGROUP_NAME":"Spain",
+        "ETHNIC_CODE":40.0,
+        "ETHNIC_SUBGROUP_CODE":4006,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"40:4007",
+        "ETHNIC_GROUP_NAME":"Hispanic or Latino",
+        "ETHNIC_SUBGROUP_NAME":"Other",
+        "ETHNIC_CODE":40.0,
+        "ETHNIC_SUBGROUP_CODE":4007,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"40:4008",
+        "ETHNIC_GROUP_NAME":"Hispanic or Latino",
+        "ETHNIC_SUBGROUP_NAME":"Hispanic or Latino",
+        "ETHNIC_CODE":40.0,
+        "ETHNIC_SUBGROUP_CODE":4008,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5001",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"China",
+        "ETHNIC_CODE":50.0,
+        "ETHNIC_SUBGROUP_CODE":5001,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5002",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"India",
+        "ETHNIC_CODE":50.0,
+        "ETHNIC_SUBGROUP_CODE":5002,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5003",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"Japan",
+        "ETHNIC_CODE":50.0,
+        "ETHNIC_SUBGROUP_CODE":5003,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5004",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"Korea",
+        "ETHNIC_CODE":50.0,
+        "ETHNIC_SUBGROUP_CODE":5004,
+        "WAREHOUSE_LOAD_DATE":"None"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5005",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"Pakistan",
+        "ETHNIC_CODE":50,
+        "ETHNIC_SUBGROUP_CODE":5005,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5006",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"Philippines",
+        "ETHNIC_CODE":50,
+        "ETHNIC_SUBGROUP_CODE":5006,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5007",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"Vietnam",
+        "ETHNIC_CODE":50,
+        "ETHNIC_SUBGROUP_CODE":5007,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5008",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"Other East Asian",
+        "ETHNIC_CODE":50,
+        "ETHNIC_SUBGROUP_CODE":5008,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5009",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"Other Indian Subcontinent",
+        "ETHNIC_CODE":50,
+        "ETHNIC_SUBGROUP_CODE":5009,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5010",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"Other Southeast Asian",
+        "ETHNIC_CODE":50,
+        "ETHNIC_SUBGROUP_CODE":5010,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"50:5011",
+        "ETHNIC_GROUP_NAME":"Asian",
+        "ETHNIC_SUBGROUP_NAME":"Asian",
+        "ETHNIC_CODE":50,
+        "ETHNIC_SUBGROUP_CODE":5011,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"60:6001",
+        "ETHNIC_GROUP_NAME":"White",
+        "ETHNIC_SUBGROUP_NAME":"Europe",
+        "ETHNIC_CODE":60,
+        "ETHNIC_SUBGROUP_CODE":6001,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"60:6002",
+        "ETHNIC_GROUP_NAME":"White",
+        "ETHNIC_SUBGROUP_NAME":"Middle East",
+        "ETHNIC_CODE":60,
+        "ETHNIC_SUBGROUP_CODE":6002,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"60:6003",
+        "ETHNIC_GROUP_NAME":"White",
+        "ETHNIC_SUBGROUP_NAME":"Other",
+        "ETHNIC_CODE":60,
+        "ETHNIC_SUBGROUP_CODE":6003,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"60:6004",
+        "ETHNIC_GROUP_NAME":"White",
+        "ETHNIC_SUBGROUP_NAME":"White",
+        "ETHNIC_CODE":60,
+        "ETHNIC_SUBGROUP_CODE":6004,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"70:7001",
+        "ETHNIC_GROUP_NAME":"Two or More Races",
+        "ETHNIC_SUBGROUP_NAME":"Two or More Races",
+        "ETHNIC_CODE":70,
+        "ETHNIC_SUBGROUP_CODE":7001,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"88:8801",
+        "ETHNIC_GROUP_NAME":"International (Not US Citizen or Perm. Resident)",
+        "ETHNIC_SUBGROUP_NAME":"International (Not US Citizen or Perm. Resident)",
+        "ETHNIC_CODE":88,
+        "ETHNIC_SUBGROUP_CODE":8801,
+        "WAREHOUSE_LOAD_DATE":"None"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"99:9901",
+        "ETHNIC_GROUP_NAME":"Race/Ethnicity Unknown",
+        "ETHNIC_SUBGROUP_NAME":"Race/Ethnicity Unknown",
+        "ETHNIC_CODE":99,
+        "ETHNIC_SUBGROUP_CODE":9901,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"80:8000",
+        "ETHNIC_GROUP_NAME":"Race(Hispanic or Latino)",
+        "ETHNIC_SUBGROUP_NAME":"Race(Hispanic or Latino)",
+        "ETHNIC_CODE":80,
+        "ETHNIC_SUBGROUP_CODE":8000,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "STUDENT_ETHNIC_SUBGROUP_KEY":"90:9000",
+        "ETHNIC_GROUP_NAME":"Race(Other)",
+        "ETHNIC_SUBGROUP_NAME":"Race(Other)",
+        "ETHNIC_CODE":90,
+        "ETHNIC_SUBGROUP_CODE":9000,
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    }
+]

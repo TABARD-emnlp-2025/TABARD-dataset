@@ -1,0 +1,32 @@
+[
+    {
+        "Year": "No",
+        "Awards ceremony": "No",
+        "Award description(s)": "No",
+        "Results": "No"
+    },
+    {
+        "Year": "No",
+        "Awards ceremony": "No",
+        "Award description(s)": "No",
+        "Results": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Awards ceremony": "No",
+        "Award description(s)": "Yes",
+        "Results": "No"
+    },
+    {
+        "Year": "No",
+        "Awards ceremony": "No",
+        "Award description(s)": "No",
+        "Results": "Yes"
+    },
+    {
+        "Year": "No",
+        "Awards ceremony": "Yes",
+        "Award description(s)": "No",
+        "Results": "Yes"
+    }
+]

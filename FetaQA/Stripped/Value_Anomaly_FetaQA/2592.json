@@ -1,0 +1,34 @@
+[
+    {
+        "Year":"Representing Soviet Union",
+        "Competition":"Representing Soviet Union",
+        "Venue":"Representing Soviet Union",
+        "Position":"Representing Soviet Union",
+        "Event":"Representing Soviet Union",
+        "Notes":"Representing Soviet Union"
+    },
+    {
+        "Year":1954,
+        "Competition":"European Championships",
+        "Venue":"Bern, Switzerland",
+        "Position":"3rd",
+        "Event":"Marathon",
+        "Notes":"2:25:26.6"
+    },
+    {
+        "Year":1957,
+        "Competition":"Ko\u0161ice Peace Marathon",
+        "Venue":"Ko\u0161ice, Czechoslovakia",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:23:57"
+    },
+    {
+        "Year":1958,
+        "Competition":"European Championships",
+        "Venue":"Stockholm, Sweden",
+        "Position":"2nd",
+        "Event":"Marathon",
+        "Notes":"2:20:50.6"
+    }
+]

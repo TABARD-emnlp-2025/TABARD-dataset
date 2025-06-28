@@ -1,0 +1,250 @@
+[
+  {
+    "Year": 1990,
+    "Competition": "Pan American Race Walking Cup",
+    "Venue": "Xalapa, México",
+    "Position": "25th",
+    "Event": "20 km",
+    "Notes": "1:48:49"
+  },
+  {
+    "Year": 1993,
+    "Competition": "Central American and Caribbean Games",
+    "Venue": "Ponce, Puerto Rico",
+    "Position": "3rd",
+    "Event": "20 km",
+    "Notes": "1:29:43"
+  },
+  {
+    "Year": 1994,
+    "Competition": "Central American Games",
+    "Venue": "San Salvador, El Salvador",
+    "Position": "1st",
+    "Event": "20 km",
+    "Notes": "1:27:45"
+  },
+  {
+    "Year": 1995,
+    "Competition": "Pan American Games",
+    "Venue": "Mar del Plata, Argentina",
+    "Position": "3rd",
+    "Event": "20 km",
+    "Notes": "1:23:50"
+  },
+  {
+    "Year": 1995,
+    "Competition": "Central American and Caribbean Championships",
+    "Venue": "Ciudad de Guatemala, Guatemala",
+    "Position": "2nd",
+    "Event": "20 km",
+    "Notes": "1:25:10 A"
+  },
+  {
+    "Year": 1996,
+    "Competition": "Olympic Games",
+    "Venue": "Atlanta, Georgia",
+    "Position": "DSQ",
+    "Event": "20 km",
+    "Notes": null
+  },
+  {
+    "Year": 1997,
+    "Competition": "World Race Walking Cup",
+    "Venue": "Podebrady, Czech Republic",
+    "Position": "5th",
+    "Event": "20 km",
+    "Notes": "1:18:51"
+  },
+  {
+    "Year": 1997,
+    "Competition": "Central American and Caribbean Championships",
+    "Venue": "San Juan, Puerto Rico",
+    "Position": "1st",
+    "Event": "20 km",
+    "Notes": "1:26:24.40 CR"
+  },
+  {
+    "Year": 1997,
+    "Competition": "World Championships",
+    "Venue": "Athens, Greece",
+    "Position": "DSQ",
+    "Event": "20 km",
+    "Notes": null
+  },
+  {
+    "Year": 1997,
+    "Competition": "Central American Games",
+    "Venue": "San Pedro Sula, Honduras",
+    "Position": "1st",
+    "Event": "20 km",
+    "Notes": "1:35:45"
+  },
+  {
+    "Year": 1998,
+    "Competition": "Ibero-American Championships",
+    "Venue": "Lisbon, Portugal",
+    "Position": "2nd",
+    "Event": "20 km",
+    "Notes": "1:26:25"
+  },
+  {
+    "Year": 1998,
+    "Competition": "Central American and Caribbean Games",
+    "Venue": "Maracaibo, Venezuela",
+    "Position": "3rd",
+    "Event": "20 km",
+    "Notes": "1:25:31"
+  },
+  {
+    "Year": 1999,
+    "Competition": "Pan American Games",
+    "Venue": "Winnipeg, Canada",
+    "Position": "4th",
+    "Event": "20 km",
+    "Notes": "1:20:58"
+  },
+  {
+    "Year": 1999,
+    "Competition": "World Championships",
+    "Venue": "Seville, Spain",
+    "Position": "DSQ",
+    "Event": "20 km",
+    "Notes": null
+  },
+  {
+    "Year": 2000,
+    "Competition": "Olympic Games",
+    "Venue": "Sydney, Australia",
+    "Position": "43rd",
+    "Event": "@@@_None",
+    "Notes": "1:31:47"
+  },
+  {
+    "Year": "@@@_31444",
+    "Competition": "Central American and Caribbean Championships",
+    "Venue": "Guatemala City, Guatemala",
+    "Position": "3rd",
+    "Event": "20 km",
+    "Notes": "1:29:47 A"
+  },
+  {
+    "Year": 2001,
+    "Competition": "Central American Games",
+    "Venue": "Ciudad de Guatemala, Guatemala",
+    "Position": "2nd",
+    "Event": "20 km",
+    "Notes": "1:27:53 A"
+  },
+  {
+    "Year": "@@@_49597",
+    "Competition": "Ibero-American Championships",
+    "Venue": "Ciudad de Guatemala, Guatemala",
+    "Position": "2nd",
+    "Event": "20,000 m",
+    "Notes": "1:24:31"
+  },
+  {
+    "Year": 2003,
+    "Competition": "Central American and Caribbean Championships",
+    "Venue": "St. George's, Grenada",
+    "Position": "1st",
+    "Event": "18,000 m",
+    "Notes": "1:22:07"
+  },
+  {
+    "Year": 2003,
+    "Competition": "Pan American Games",
+    "Venue": "Santo Domingo, Dominican Republic",
+    "Position": "DSQ",
+    "Event": "20 km",
+    "Notes": null
+  },
+  {
+    "Year": 2003,
+    "Competition": "Pan American Games",
+    "Venue": "Santo Domingo, Dominican Republic",
+    "Position": "DNF",
+    "Event": "50 km",
+    "Notes": null
+  },
+  {
+    "Year": 2003,
+    "Competition": "World Championships",
+    "Venue": "Paris, France",
+    "Position": "DSQ",
+    "Event": "20 km",
+    "Notes": null
+  },
+  {
+    "Year": "@@@_-3554",
+    "Competition": "World Race Walking Cup",
+    "Venue": "Naumburg, Germany",
+    "Position": "15th",
+    "Event": "50 km",
+    "Notes": "3:56:19"
+  },
+  {
+    "Year": 2004,
+    "Competition": "Olympic Games",
+    "Venue": "Athens, Greece",
+    "Position": "DSQ",
+    "Event": "50 km",
+    "Notes": null
+  },
+  {
+    "Year": 2004,
+    "Competition": "Central American Championships",
+    "Venue": "Managua, Nicaragua",
+    "Position": "3rd",
+    "Event": "20 km",
+    "Notes": "1:33:20.46"
+  },
+  {
+    "Year": 2005,
+    "Competition": "Central American and Caribbean Championships",
+    "Venue": "Nassau, Bahamas",
+    "Position": "1st",
+    "Event": "20,000 m",
+    "Notes": "1:30:38.07"
+  },
+  {
+    "Year": 2005,
+    "Competition": "World Championships",
+    "Venue": "Helsinki, Finland",
+    "Position": "12th",
+    "Event": "50 km",
+    "Notes": "3:57:56"
+  },
+  {
+    "Year": 2006,
+    "Competition": "Ibero-American Championships",
+    "Venue": "Ponce, Puerto Rico",
+    "Position": "–",
+    "Event": "20,000 m",
+    "Notes": "DQ"
+  },
+  {
+    "Year": 2006,
+    "Competition": "Central American and Caribbean Games",
+    "Venue": "Cartagena, Colombia",
+    "Position": "5th",
+    "Event": "20 km",
+    "Notes": "1:33:00"
+  },
+  {
+    "Year": 2007,
+    "Competition": "Central American Championships",
+    "Venue": "San José, Costa Rica",
+    "Position": "3rd",
+    "Event": "20 km",
+    "Notes": "1:27:30.42"
+  },
+  {
+    "Year": 2007,
+    "Competition": "Pan American Games",
+    "Venue": "Rio de Janeiro, Brazil",
+    "Position": "DSQ",
+    "Event": "20 km",
+    "Notes": null
+  }
+]

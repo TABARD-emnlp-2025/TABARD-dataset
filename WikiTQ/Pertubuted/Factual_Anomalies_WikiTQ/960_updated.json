@@ -1,0 +1,1002 @@
+[
+    {
+        "County":"Alamance County",
+        "FIPS Code":1,
+        "County Seat":"Graham",
+        "Created":1849,
+        "Origin":"Orange County",
+        "Etymology":"The Battle of Alamance which was derived from the local Native American word meaning \\blue clay\\\" found in the Great Alamance Creek\"",
+        "Population estimate\n(2011)":"153,291",
+        "Area":"435 sq mi\n(1,127 km2)"
+    },
+    {
+        "County":"Alexander County",
+        "FIPS Code":3,
+        "County Seat":"Taylorsville",
+        "Created":1847,
+        "Origin":"Caldwell County, Iredell County, and Wilkes County",
+        "Etymology":"William J. Alexander, member of the legislature and Speaker of the North Carolina House of Commons",
+        "Population estimate\n(2011)":"37,087",
+        "Area":"263 sq mi\n(681 km2)"
+    },
+    {
+        "County":"Alleghany County",
+        "FIPS Code":5,
+        "County Seat":"Sparta",
+        "Created":1859,
+        "Origin":"Ashe County",
+        "Etymology":"Derived from a corruption of the Delaware Indian name for the Allegheny and Ohio Rivers and is said to have meant \\a fine stream\\\"\"",
+        "Population estimate\n(2011)":"11,052",
+        "Area":"236 sq mi\n(611 km2)"
+    },
+    {
+        "County":"Anson County",
+        "FIPS Code":7,
+        "County Seat":"Wadesboro",
+        "Created":1750,
+        "Origin":"Bladen County",
+        "Etymology":"George, Lord Anson (1697\u20131762), a celebrated English admiral who circumnavigated the globe",
+        "Population estimate\n(2011)":"26,143",
+        "Area":"537 sq mi\n(1,391 km2)"
+    },
+    {
+        "County":"Ashe County",
+        "FIPS Code":9,
+        "County Seat":"Jefferson",
+        "Created":1799,
+        "Origin":"Wilkes County",
+        "Etymology":"Samuel Ashe (1725\u20131813), a Revolutionary patriot, superior court judge, and governor of North Carolina",
+        "Population estimate\n(2011)":"27,143",
+        "Area":"427 sq mi\n(1,106 km2)"
+    },
+    {
+        "County":"Avery County",
+        "FIPS Code":11,
+        "County Seat":"Newland",
+        "Created":1911,
+        "Origin":"Caldwell County, Mitchell County, and Watauga County",
+        "Etymology":"Waightstill Avery (1741\u20131821), a soldier of the Revolution and Attorney General of North Carolina",
+        "Population estimate\n(2011)":"17,572",
+        "Area":"247 sq mi\n(640 km2)"
+    },
+    {
+        "County":"Beaufort County",
+        "FIPS Code":13,
+        "County Seat":"Washington",
+        "Created":1712,
+        "Origin":"Original county",
+        "Etymology":"Henry Somerset, Duke of Beaufort, who in 1709 became one of the Lords Proprietor",
+        "Population estimate\n(2011)":"47,691",
+        "Area":"959 sq mi\n(2,484 km2)"
+    },
+    {
+        "County":"Bertie County",
+        "FIPS Code":15,
+        "County Seat":"Windsor",
+        "Created":1722,
+        "Origin":"Chowan County",
+        "Etymology":"James or Henry Bertie, two Lords Proprietor of colonial North Carolina",
+        "Population estimate\n(2011)":"20,874",
+        "Area":"741 sq mi\n(1,919 km2)"
+    },
+    {
+        "County":"Bladen County",
+        "FIPS Code":17,
+        "County Seat":"Elizabethtown",
+        "Created":1734,
+        "Origin":"New Hanover County",
+        "Etymology":"Martin Bladen, a member of the Board of Trade",
+        "Population estimate\n(2011)":"35,190",
+        "Area":"887 sq mi\n(2,297 km2)"
+    },
+    {
+        "County":"Brunswick County",
+        "FIPS Code":19,
+        "County Seat":"Bolivia",
+        "Created":1764,
+        "Origin":"Bladen County and New Hanover County",
+        "Etymology":"George I of Great Britain (1660\u20131727), Duke of Brunswick and L\u00fcneburg",
+        "Population estimate\n(2011)":"110,097",
+        "Area":"1,050 sq mi\n(2,719 km2)"
+    },
+    {
+        "County":"Buncombe County",
+        "FIPS Code":21,
+        "County Seat":"Asheville",
+        "Created":1791,
+        "Origin":"Burke County and Rutherford County",
+        "Etymology":"Edward Buncombe, a Revolutionary soldier, who was wounded and captured at the Battle of Germantown, and died a paroled prisoner in Philadelphia",
+        "Population estimate\n(2011)":"241,419",
+        "Area":"660 sq mi\n(1,709 km2)"
+    },
+    {
+        "County":"Burke County",
+        "FIPS Code":23,
+        "County Seat":"Morganton",
+        "Created":1777,
+        "Origin":"Rowan County",
+        "Etymology":"Thomas Burke (1747\u20131783), a member of the Continental Congress and governor of North Carolina",
+        "Population estimate\n(2011)":"90,904",
+        "Area":"515 sq mi\n(1,334 km2)"
+    },
+    {
+        "County":"Cabarrus County",
+        "FIPS Code":25,
+        "County Seat":"Concord",
+        "Created":1792,
+        "Origin":"Mecklenburg County",
+        "Etymology":"Stephen Cabarrus (1754\u20131808), member of the legislature and Speaker of the North Carolina House of Commons",
+        "Population estimate\n(2011)":"181,468",
+        "Area":"365 sq mi\n(945 km2)"
+    },
+    {
+        "County":"Caldwell County",
+        "FIPS Code":27,
+        "County Seat":"Lenoir",
+        "Created":1841,
+        "Origin":"Burke County and Wilkes County",
+        "Etymology":"Joseph Caldwell (1773\u20131835), the first president of the University of North Carolina",
+        "Population estimate\n(2011)":"82,395",
+        "Area":"474 sq mi\n(1,228 km2)"
+    },
+    {
+        "County":"Camden County",
+        "FIPS Code":29,
+        "County Seat":"Camden",
+        "Created":1777,
+        "Origin":"Pasquotank County",
+        "Etymology":"Charles Pratt, 1st Earl Camden (1714\u20131794), who opposed the taxation of the American colonists",
+        "Population estimate\n(2011)":"10,014",
+        "Area":"306 sq mi\n(793 km2)"
+    },
+    {
+        "County":"Carteret County",
+        "FIPS Code":31,
+        "County Seat":"Beaufort",
+        "Created":1722,
+        "Origin":"Craven County",
+        "Etymology":"John Carteret, 2nd Earl Granville (1690\u20131763), who inherited one-eighth share in the Province of Carolina through his great-grandfather George Carteret",
+        "Population estimate\n(2011)":"67,373",
+        "Area":"1,341 sq mi\n(3,473 km2)"
+    },
+    {
+        "County":"Caswell County",
+        "FIPS Code":33,
+        "County Seat":"Yanceyville",
+        "Created":1777,
+        "Origin":"Orange County",
+        "Etymology":"Richard Caswell (1729\u20131789), member of the first Continental Congress and first governor of North Carolina after the Declaration of Independence",
+        "Population estimate\n(2011)":"23,403",
+        "Area":"428 sq mi\n(1,109 km2)"
+    },
+    {
+        "County":"Catawba County",
+        "FIPS Code":35,
+        "County Seat":"Newton",
+        "Created":1842,
+        "Origin":"Lincoln County",
+        "Etymology":"Catawba Nation",
+        "Population estimate\n(2011)":"154,181",
+        "Area":"414 sq mi\n(1,072 km2)"
+    },
+    {
+        "County":"Chatham County",
+        "FIPS Code":37,
+        "County Seat":"Pittsboro",
+        "Created":1771,
+        "Origin":"Orange County",
+        "Etymology":"William Pitt, 1st Earl of Chatham (1708\u20131778), Secretary of State during the French and Indian War and was later Prime Minister of Great Britain",
+        "Population estimate\n(2011)":"64,195",
+        "Area":"709 sq mi\n(1,836 km2)"
+    },
+    {
+        "County":"Cherokee County",
+        "FIPS Code":39,
+        "County Seat":"Murphy",
+        "Created":1839,
+        "Origin":"Macon County",
+        "Etymology":"Cherokee Nation",
+        "Population estimate\n(2011)":"27,194",
+        "Area":"497 sq mi\n(1,287 km2)"
+    },
+    {
+        "County":"Chowan County",
+        "FIPS Code":41,
+        "County Seat":"Edenton",
+        "Created":1668,
+        "Origin":"Albemarle County",
+        "Etymology":"Chowan Native American tribe",
+        "Population estimate\n(2011)":"14,831",
+        "Area":"233 sq mi\n(603 km2)"
+    },
+    {
+        "County":"Clay County",
+        "FIPS Code":43,
+        "County Seat":"Hayesville",
+        "Created":1861,
+        "Origin":"Cherokee County",
+        "Etymology":"Henry Clay (1777\u20131852), statesman and orator who represented Kentucky in both the House of Representatives and Senate",
+        "Population estimate\n(2011)":"10,563",
+        "Area":"221 sq mi\n(572 km2)"
+    },
+    {
+        "County":"Cleveland County",
+        "FIPS Code":45,
+        "County Seat":"Shelby",
+        "Created":1841,
+        "Origin":"Lincoln County and Rutherford County",
+        "Etymology":"Benjamin Cleveland (1738\u20131806), a colonel in the American Revolutionary War who took part in the Battle of Kings Mountain",
+        "Population estimate\n(2011)":"97,489",
+        "Area":"469 sq mi\n(1,215 km2)"
+    },
+    {
+        "County":"Columbus County",
+        "FIPS Code":47,
+        "County Seat":"Whiteville",
+        "Created":1808,
+        "Origin":"Bladen County and Brunswick County",
+        "Etymology":"Christopher Columbus (1451\u20131507), navigator, explorer, and one of the first Europeans to explore the Americas",
+        "Population estimate\n(2011)":"57,712",
+        "Area":"954 sq mi\n(2,471 km2)"
+    },
+    {
+        "County":"Craven County",
+        "FIPS Code":49,
+        "County Seat":"New Bern",
+        "Created":1705,
+        "Origin":"Bath County",
+        "Etymology":"William Craven, 1st Earl of Craven (1608\u20131697), who was a Lords Proprietor of colonial North Carolina",
+        "Population estimate\n(2011)":"104,786",
+        "Area":"774 sq mi\n(2,005 km2)"
+    },
+    {
+        "County":"Cumberland County",
+        "FIPS Code":51,
+        "County Seat":"Fayetteville",
+        "Created":1754,
+        "Origin":"Bladen County",
+        "Etymology":"Prince William, Duke of Cumberland (1721\u20131765), a military leader and son of George II",
+        "Population estimate\n(2011)":"324,885",
+        "Area":"658 sq mi\n(1,704 km2)"
+    },
+    {
+        "County":"Currituck County",
+        "FIPS Code":53,
+        "County Seat":"Currituck",
+        "Created":1668,
+        "Origin":"Albemarle County",
+        "Etymology":"Traditionally said to be an American Indian word for wild geese, also rendered \\Coratank\\\"\"",
+        "Population estimate\n(2011)":"23,955",
+        "Area":"526 sq mi\n(1,362 km2)"
+    },
+    {
+        "County":"Dare County",
+        "FIPS Code":55,
+        "County Seat":"Manteo",
+        "Created":1870,
+        "Origin":"Currituck County, Hyde County, and Tyrrell County",
+        "Etymology":"Virginia Dare (b. 1587), the first child born of English parents in America",
+        "Population estimate\n(2011)":"34,307",
+        "Area":"1,562 sq mi\n(4,046 km2)"
+    },
+    {
+        "County":"Davidson County",
+        "FIPS Code":57,
+        "County Seat":"Lexington",
+        "Created":1822,
+        "Origin":"Rowan County",
+        "Etymology":"William Lee Davidson (1746\u20131781), an American Revolutionary War general who was mortally wounded at Cowan's Ford",
+        "Population estimate\n(2011)":"162,695",
+        "Area":"567 sq mi\n(1,469 km2)"
+    },
+    {
+        "County":"Davie County",
+        "FIPS Code":59,
+        "County Seat":"Mocksville",
+        "Created":1836,
+        "Origin":"Rowan County",
+        "Etymology":"William Richardson Davie (1756\u20131820), a member of the Federal Convention and governor of North Carolina",
+        "Population estimate\n(2011)":"41,552",
+        "Area":"267 sq mi\n(692 km2)"
+    },
+    {
+        "County":"Duplin County",
+        "FIPS Code":61,
+        "County Seat":"Kenansville",
+        "Created":1750,
+        "Origin":"New Hanover County",
+        "Etymology":"Thomas Hay, Viscount Dupplin (1710\u20131787), who was the 9th Earl of Kinnoull",
+        "Population estimate\n(2011)":"59,542",
+        "Area":"819 sq mi\n(2,121 km2)"
+    },
+    {
+        "County":"Durham County",
+        "FIPS Code":63,
+        "County Seat":"Durham",
+        "Created":1881,
+        "Origin":"Orange County and Wake County",
+        "Etymology":"The city of Durham which was named in honor of Dr. Bartlett Snipes Durham who donated the land on which the railroad station was located",
+        "Population estimate\n(2011)":"273,392",
+        "Area":"298 sq mi\n(772 km2)"
+    },
+    {
+        "County":"Edgecombe County",
+        "FIPS Code":65,
+        "County Seat":"Tarboro",
+        "Created":1741,
+        "Origin":"Bertie County",
+        "Etymology":"Richard Edgcumbe, 1st Baron Edgcumbe (1680\u20131758), a Lord High Treasurer and Paymaster-General for Ireland",
+        "Population estimate\n(2011)":"56,041",
+        "Area":"507 sq mi\n(1,313 km2)"
+    },
+    {
+        "County":"Forsyth County",
+        "FIPS Code":67,
+        "County Seat":"Winston-Salem",
+        "Created":1849,
+        "Origin":"Stokes County",
+        "Etymology":"Benjamin Forsyth (d. 1814), an American officer during the War of 1812",
+        "Population estimate\n(2011)":"354,952",
+        "Area":"413 sq mi\n(1,070 km2)"
+    },
+    {
+        "County":"Franklin County",
+        "FIPS Code":69,
+        "County Seat":"Louisburg",
+        "Created":1779,
+        "Origin":"Bute County",
+        "Etymology":"Benjamin Franklin (1706\u20131790), an author, politician, statesman, and Founding Father of the United States",
+        "Population estimate\n(2011)":"61,140",
+        "Area":"495 sq mi\n(1,282 km2)"
+    },
+    {
+        "County":"Gaston County",
+        "FIPS Code":71,
+        "County Seat":"Gastonia",
+        "Created":1846,
+        "Origin":"Lincoln County",
+        "Etymology":"William Gaston (1778\u20131844), a United States Congressman and justice of the North Carolina Supreme Court",
+        "Population estimate\n(2011)":"207,031",
+        "Area":"364 sq mi\n(943 km2)"
+    },
+    {
+        "County":"Gates County",
+        "FIPS Code":73,
+        "County Seat":"Gatesville",
+        "Created":1779,
+        "Origin":"Chowan County, Hertford County, and Perquimans County",
+        "Etymology":"Horatio Gates (1727\u20131806), an American general during the Revolution at the Battle of Saratoga",
+        "Population estimate\n(2011)":"12,043",
+        "Area":"346 sq mi\n(896 km2)"
+    },
+    {
+        "County":"Graham County",
+        "FIPS Code":75,
+        "County Seat":"Robbinsville",
+        "Created":1872,
+        "Origin":"Cherokee County",
+        "Etymology":"William Alexander Graham (1804\u20131875), a United States Senator, governor of North Carolina, and United States Secretary of the Navy",
+        "Population estimate\n(2011)":"8,802",
+        "Area":"302 sq mi\n(782 km2)"
+    },
+    {
+        "County":"Granville County",
+        "FIPS Code":77,
+        "County Seat":"Oxford",
+        "Created":1746,
+        "Origin":"Edgecombe County",
+        "Etymology":"John Carteret, 2nd Earl Granville (1690\u20131763), who inherited one-eighth share in the Province of Carolina through his great-grandfather George Carteret",
+        "Population estimate\n(2011)":"59,976",
+        "Area":"537 sq mi\n(1,391 km2)"
+    },
+    {
+        "County":"Greene County",
+        "FIPS Code":79,
+        "County Seat":"Snow Hill",
+        "Created":1799,
+        "Origin":"Dobbs County\nOriginally named Glasgow County",
+        "Etymology":"Nathanael Greene (1742\u20131786), a major general of the Continental Army in the American Revolutionary War",
+        "Population estimate\n(2011)":"21,556",
+        "Area":"266 sq mi\n(689 km2)"
+    },
+    {
+        "County":"Guilford County",
+        "FIPS Code":81,
+        "County Seat":"Greensboro",
+        "Created":1771,
+        "Origin":"Orange County and Rowan County",
+        "Etymology":"Francis North, 1st Earl of Guilford (1704\u20131790), a British politician and father of Prime Minister of Great Britain Frederick North",
+        "Population estimate\n(2011)":"495,279",
+        "Area":"658 sq mi\n(1,704 km2)"
+    },
+    {
+        "County":"Halifax County",
+        "FIPS Code":83,
+        "County Seat":"Halifax",
+        "Created":1758,
+        "Origin":"Edgecombe County",
+        "Etymology":"George Montagu-Dunk, 2nd Earl of Halifax (1716\u20131771), a British statesman and President of the Board of Trade",
+        "Population estimate\n(2011)":"54,173",
+        "Area":"731 sq mi\n(1,893 km2)"
+    },
+    {
+        "County":"Harnett County",
+        "FIPS Code":85,
+        "County Seat":"Lillington",
+        "Created":1855,
+        "Origin":"Cumberland County",
+        "Etymology":"Cornelius Harnett (1723\u20131781), an American Revolutionary and delegate in the Continental Congress",
+        "Population estimate\n(2011)":"119,256",
+        "Area":"601 sq mi\n(1,557 km2)"
+    },
+    {
+        "County":"Haywood County",
+        "FIPS Code":87,
+        "County Seat":"Waynesville",
+        "Created":1808,
+        "Origin":"Buncombe County",
+        "Etymology":"John Haywood (1754\u20131827), a North Carolina State Treasurer",
+        "Population estimate\n(2011)":"58,855",
+        "Area":"555 sq mi\n(1,437 km2)"
+    },
+    {
+        "County":"Henderson County",
+        "FIPS Code":89,
+        "County Seat":"Hendersonville",
+        "Created":1838,
+        "Origin":"Buncombe County",
+        "Etymology":"Leonard Henderson (1772\u20131833), Chief Justice of the North Carolina Supreme Court",
+        "Population estimate\n(2011)":"107,927",
+        "Area":"375 sq mi\n(971 km2)"
+    },
+    {
+        "County":"Hertford County",
+        "FIPS Code":91,
+        "County Seat":"Winton",
+        "Created":1759,
+        "Origin":"Bertie County, Chowan County, and Northampton County",
+        "Etymology":"Francis Seymour-Conway, 1st Marquess of Hertford (1718\u20131794), who was Lord of the Bedchamber to George II and George III",
+        "Population estimate\n(2011)":"24,433",
+        "Area":"360 sq mi\n(932 km2)"
+    },
+    {
+        "County":"Hoke County",
+        "FIPS Code":93,
+        "County Seat":"Raeford",
+        "Created":1911,
+        "Origin":"Cumberland County and Robeson County",
+        "Etymology":"Robert Hoke (1837\u20131912), a Confederate general during the American Civil War",
+        "Population estimate\n(2011)":"49,272",
+        "Area":"392 sq mi\n(1,015 km2)"
+    },
+    {
+        "County":"Hyde County",
+        "FIPS Code":95,
+        "County Seat":"Swan Quarter",
+        "Created":1712,
+        "Origin":"Original county\nOriginally named Wickham County",
+        "Etymology":"Edward Hyde (c. 1650\u20131712), a governor of colonial North Carolina",
+        "Population estimate\n(2011)":"5,822",
+        "Area":"1,424 sq mi\n(3,688 km2)"
+    },
+    {
+        "County":"Iredell County",
+        "FIPS Code":97,
+        "County Seat":"Statesville",
+        "Created":1788,
+        "Origin":"Rowan County",
+        "Etymology":"James Iredell (1751\u20131799), a comptroller at the port of Edenton and one of the original justices of the Supreme Court of the United States",
+        "Population estimate\n(2011)":"161,202",
+        "Area":"597 sq mi\n(1,546 km2)"
+    },
+    {
+        "County":"Jackson County",
+        "FIPS Code":99,
+        "County Seat":"Sylva",
+        "Created":1851,
+        "Origin":"Haywood County and Macon County",
+        "Etymology":"Andrew Jackson (1767\u20131845), the 7th President of the United States",
+        "Population estimate\n(2011)":"40,285",
+        "Area":"494 sq mi\n(1,279 km2)"
+    },
+    {
+        "County":"Johnston County",
+        "FIPS Code":101,
+        "County Seat":"Smithfield",
+        "Created":1746,
+        "Origin":"Craven County",
+        "Etymology":"Gabriel Johnston (1699\u20131752), a governor of colonial North Carolina",
+        "Population estimate\n(2011)":"172,595",
+        "Area":"796 sq mi\n(2,062 km2)"
+    },
+    {
+        "County":"Jones County",
+        "FIPS Code":103,
+        "County Seat":"Trenton",
+        "Created":1778,
+        "Origin":"Craven County",
+        "Etymology":"Willie Jones (1740\u20131801), opposed the ratification of the United States Constitution and declined an invitation to the Constitutional Convention",
+        "Population estimate\n(2011)":"10,020",
+        "Area":"473 sq mi\n(1,225 km2)"
+    },
+    {
+        "County":"Lee County",
+        "FIPS Code":105,
+        "County Seat":"Sanford",
+        "Created":1907,
+        "Origin":"Chatham County and Moore County",
+        "Etymology":"Robert E. Lee (1807\u20131870), a career United States Army officer and general of the Confederate forces during the American Civil War",
+        "Population estimate\n(2011)":"58,752",
+        "Area":"259 sq mi\n(671 km2)"
+    },
+    {
+        "County":"Lenoir County",
+        "FIPS Code":107,
+        "County Seat":"Kinston",
+        "Created":1791,
+        "Origin":"Dobbs County\nOriginally named Glasgow County",
+        "Etymology":"William Lenoir (1751\u20131839), a captain in the American Revolutionary War who took part in the Battle of Kings Mountain",
+        "Population estimate\n(2011)":"59,339",
+        "Area":"402 sq mi\n(1,041 km2)"
+    },
+    {
+        "County":"Lincoln County",
+        "FIPS Code":109,
+        "County Seat":"Lincolnton",
+        "Created":1779,
+        "Origin":"Tryon County",
+        "Etymology":"Benjamin Lincoln (1733\u20131810), a major general during the American Revolutionary War who participated in the Siege of Yorktown",
+        "Population estimate\n(2011)":"78,932",
+        "Area":"307 sq mi\n(795 km2)"
+    },
+    {
+        "County":"McDowell County",
+        "FIPS Code":111,
+        "County Seat":"Marion",
+        "Created":1842,
+        "Origin":"Burke County and Rutherford County",
+        "Etymology":"Joseph McDowell (1756\u20131801), a soldier in the American Revolutionary War who took part in the Battle of Kings Mountain",
+        "Population estimate\n(2011)":"45,104",
+        "Area":"446 sq mi\n(1,155 km2)"
+    },
+    {
+        "County":"Macon County",
+        "FIPS Code":113,
+        "County Seat":"Franklin",
+        "Created":1828,
+        "Origin":"Haywood County",
+        "Etymology":"Nathaniel Macon (1758\u20131837), a member and Speaker of the United States House of Representatives",
+        "Population estimate\n(2011)":"34,074",
+        "Area":"519 sq mi\n(1,344 km2)"
+    },
+    {
+        "County":"Madison County",
+        "FIPS Code":115,
+        "County Seat":"Marshall",
+        "Created":1851,
+        "Origin":"Buncombe County and Yancey County",
+        "Etymology":"James Madison (1751\u20131836), the 4th President of the United States",
+        "Population estimate\n(2011)":"20,816",
+        "Area":"452 sq mi\n(1,171 km2)"
+    },
+    {
+        "County":"Martin County",
+        "FIPS Code":117,
+        "County Seat":"Williamston",
+        "Created":1774,
+        "Origin":"Halifax County and Tyrrell County",
+        "Etymology":"Josiah Martin (1737\u20131786), the last governor of colonial North Carolina",
+        "Population estimate\n(2011)":"24,180",
+        "Area":"461 sq mi\n(1,194 km2)"
+    },
+    {
+        "County":"Mecklenburg County",
+        "FIPS Code":119,
+        "County Seat":"Charlotte",
+        "Created":1762,
+        "Origin":"Anson County",
+        "Etymology":"Charlotte of Mecklenburg-Strelitz (1744\u20131818), the queen consort of George III of the United Kingdom",
+        "Population estimate\n(2011)":"944,373",
+        "Area":"546 sq mi\n(1,414 km2)"
+    },
+    {
+        "County":"Mitchell County",
+        "FIPS Code":121,
+        "County Seat":"Bakersville",
+        "Created":1861,
+        "Origin":"Burke County, Caldwell County, McDowell County, Watauga County, and Yancey County",
+        "Etymology":"Elisha Mitchell (1793\u20131857), a professor at the University of North Carolina who measured the height of Mount Mitchell",
+        "Population estimate\n(2011)":"15,445",
+        "Area":"222 sq mi\n(575 km2)"
+    },
+    {
+        "County":"Montgomery County",
+        "FIPS Code":123,
+        "County Seat":"Troy",
+        "Created":1779,
+        "Origin":"Anson County",
+        "Etymology":"Richard Montgomery (1738\u20131775), a major general during the Revolutionary War who was killed at the Battle of Quebec",
+        "Population estimate\n(2011)":"27,667",
+        "Area":"502 sq mi\n(1,300 km2)"
+    },
+    {
+        "County":"Moore County",
+        "FIPS Code":125,
+        "County Seat":"Carthage",
+        "Created":1784,
+        "Origin":"Cumberland County",
+        "Etymology":"Alfred Moore (1755\u20131810), a captain in the Revolutionary War and justice of the Supreme Court of the United States",
+        "Population estimate\n(2011)":"89,352",
+        "Area":"706 sq mi\n(1,829 km2)"
+    },
+    {
+        "County":"Nash County",
+        "FIPS Code":127,
+        "County Seat":"Nashville",
+        "Created":1777,
+        "Origin":"Edgecombe County",
+        "Etymology":"Francis Nash (1742\u20131777), a brigadier general in the Revolutionary War who was mortally wounded at the Battle of Germantown",
+        "Population estimate\n(2011)":"96,116",
+        "Area":"543 sq mi\n(1,406 km2)"
+    },
+    {
+        "County":"New Hanover County",
+        "FIPS Code":129,
+        "County Seat":"Wilmington",
+        "Created":1729,
+        "Origin":"Craven County",
+        "Etymology":"The royal family of England, members of the House of Hanover",
+        "Population estimate\n(2011)":"206,189",
+        "Area":"328 sq mi\n(850 km2)"
+    },
+    {
+        "County":"Northampton County",
+        "FIPS Code":131,
+        "County Seat":"Jackson",
+        "Created":1741,
+        "Origin":"Bertie County",
+        "Etymology":"James Compton, 5th Earl of Northampton (1687\u20131754), a British peer and politician",
+        "Population estimate\n(2011)":"21,893",
+        "Area":"551 sq mi\n(1,427 km2)"
+    },
+    {
+        "County":"Onslow County",
+        "FIPS Code":133,
+        "County Seat":"Jacksonville",
+        "Created":1734,
+        "Origin":"New Hanover County",
+        "Etymology":"Arthur Onslow (1691\u20131768), Speaker of the British House of Commons",
+        "Population estimate\n(2011)":"179,716",
+        "Area":"909 sq mi\n(2,354 km2)"
+    },
+    {
+        "County":"Orange County",
+        "FIPS Code":135,
+        "County Seat":"Hillsborough",
+        "Created":1752,
+        "Origin":"Bladen County, Granville County, and Johnston County",
+        "Etymology":"William V, Prince of Orange (1748\u20131806), the last Stadtholder of the Dutch Republic",
+        "Population estimate\n(2011)":"135,755",
+        "Area":"401 sq mi\n(1,039 km2)"
+    },
+    {
+        "County":"Pamlico County",
+        "FIPS Code":137,
+        "County Seat":"Bayboro",
+        "Created":1872,
+        "Origin":"Beaufort County and Craven County",
+        "Etymology":"Pamlico Sound and the Pamlico Native American tribe",
+        "Population estimate\n(2011)":"13,197",
+        "Area":"566 sq mi\n(1,466 km2)"
+    },
+    {
+        "County":"Pasquotank County",
+        "FIPS Code":139,
+        "County Seat":"Elizabeth City",
+        "Created":1668,
+        "Origin":"Albemarle County",
+        "Etymology":"Derived from the Native American word pasketanki which meant \\where the current of the stream divides or forks\\\"\"",
+        "Population estimate\n(2011)":"40,696",
+        "Area":"289 sq mi\n(749 km2)"
+    },
+    {
+        "County":"Pender County",
+        "FIPS Code":141,
+        "County Seat":"Burgaw",
+        "Created":1875,
+        "Origin":"New Hanover County",
+        "Etymology":"William Dorsey Pender (1834\u20131863), Confederate soldier who was mortally wounded at the Battle of Gettysburg of the American Civil War",
+        "Population estimate\n(2011)":"53,399",
+        "Area":"933 sq mi\n(2,416 km2)"
+    },
+    {
+        "County":"Perquimans County",
+        "FIPS Code":143,
+        "County Seat":"Hertford",
+        "Created":1668,
+        "Origin":"Albemarle County",
+        "Etymology":"Perquimans Native American tribe",
+        "Population estimate\n(2011)":"13,487",
+        "Area":"329 sq mi\n(852 km2)"
+    },
+    {
+        "County":"Person County",
+        "FIPS Code":145,
+        "County Seat":"Roxboro",
+        "Created":1791,
+        "Origin":"Caswell County",
+        "Etymology":"Thomas Person, an American Revolutionary War patriot",
+        "Population estimate\n(2011)":"39,637",
+        "Area":"404 sq mi\n(1,046 km2)"
+    },
+    {
+        "County":"Pitt County",
+        "FIPS Code":147,
+        "County Seat":"Greenville",
+        "Created":1760,
+        "Origin":"Beaufort County",
+        "Etymology":"William Pitt, 1st Earl of Chatham (1708\u20131778), Secretary of State during the French and Indian War and was later Prime Minister of Great Britain",
+        "Population estimate\n(2011)":"171,134",
+        "Area":"655 sq mi\n(1,696 km2)"
+    },
+    {
+        "County":"Polk County",
+        "FIPS Code":149,
+        "County Seat":"Columbus",
+        "Created":1855,
+        "Origin":"Henderson County and Rutherford County",
+        "Etymology":"William Polk (1758\u20131834), officer in the American Revolutionary War and first president of the State Bank of North Carolina",
+        "Population estimate\n(2011)":"20,256",
+        "Area":"239 sq mi\n(619 km2)"
+    },
+    {
+        "County":"Randolph County",
+        "FIPS Code":151,
+        "County Seat":"Asheboro",
+        "Created":1779,
+        "Origin":"Guilford County",
+        "Etymology":"Peyton Randolph (c. 1721\u20131755), the first President of the Continental Congress",
+        "Population estimate\n(2011)":"142,358",
+        "Area":"790 sq mi\n(2,046 km2)"
+    },
+    {
+        "County":"Richmond County",
+        "FIPS Code":153,
+        "County Seat":"Rockingham",
+        "Created":1779,
+        "Origin":"Anson County",
+        "Etymology":"Charles Lennox, 3rd Duke of Richmond (1735\u20131806), a firm supporter of the American colonists and advocated removal of British troops",
+        "Population estimate\n(2011)":"46,611",
+        "Area":"480 sq mi\n(1,243 km2)"
+    },
+    {
+        "County":"Robeson County",
+        "FIPS Code":155,
+        "County Seat":"Lumberton",
+        "Created":1787,
+        "Origin":"Bladen County",
+        "Etymology":"Thomas Robeson, an officer in the American Revolutionary War",
+        "Population estimate\n(2011)":"135,517",
+        "Area":"951 sq mi\n(2,463 km2)"
+    },
+    {
+        "County":"Rockingham County",
+        "FIPS Code":157,
+        "County Seat":"Wentworth",
+        "Created":1785,
+        "Origin":"Guilford County",
+        "Etymology":"Charles Watson-Wentworth, 2nd Marquess of Rockingham (1730\u20131782), a British statesmen and two-time Prime Minister of Great Britain",
+        "Population estimate\n(2011)":"93,329",
+        "Area":"572 sq mi\n(1,481 km2)"
+    },
+    {
+        "County":"Rowan County",
+        "FIPS Code":159,
+        "County Seat":"Salisbury",
+        "Created":1753,
+        "Origin":"Anson County",
+        "Etymology":"Matthew Rowan (d. 1769), was the acting Governor of colonial North Carolina following the death of Governor Nathaniel Rice",
+        "Population estimate\n(2011)":"138,019",
+        "Area":"524 sq mi\n(1,357 km2)"
+    },
+    {
+        "County":"Rutherford County",
+        "FIPS Code":161,
+        "County Seat":"Rutherfordton",
+        "Created":1779,
+        "Origin":"Tryon County",
+        "Etymology":"Griffith Rutherford (c. 1721\u20131805), an officer in the American Revolutionary War and a political leader in North Carolina",
+        "Population estimate\n(2011)":"67,538",
+        "Area":"566 sq mi\n(1,466 km2)"
+    },
+    {
+        "County":"Sampson County",
+        "FIPS Code":163,
+        "County Seat":"Clinton",
+        "Created":1784,
+        "Origin":"Duplin County",
+        "Etymology":"John Sampson, a member of Josiah Martin's council",
+        "Population estimate\n(2011)":"63,734",
+        "Area":"947 sq mi\n(2,453 km2)"
+    },
+    {
+        "County":"Scotland County",
+        "FIPS Code":165,
+        "County Seat":"Laurinburg",
+        "Created":1899,
+        "Origin":"Richmond County",
+        "Etymology":"The country Scotland, part of the United Kingdom",
+        "Population estimate\n(2011)":"35,861",
+        "Area":"321 sq mi\n(831 km2)"
+    },
+    {
+        "County":"Stanly County",
+        "FIPS Code":167,
+        "County Seat":"Albemarle",
+        "Created":1841,
+        "Origin":"Montgomery County",
+        "Etymology":"John Stanly (1774\u20131834), a United States Congressman and Speaker of the North Carolina House of Commons",
+        "Population estimate\n(2011)":"60,636",
+        "Area":"404 sq mi\n(1,046 km2)"
+    },
+    {
+        "County":"Stokes County",
+        "FIPS Code":169,
+        "County Seat":"Danbury",
+        "Created":1789,
+        "Origin":"Surry County",
+        "Etymology":"John Stokes, a soldier of the Revolution who was seriously wounded at the Waxhaw massacre",
+        "Population estimate\n(2011)":"47,242",
+        "Area":"456 sq mi\n(1,181 km2)"
+    },
+    {
+        "County":"Surry County",
+        "FIPS Code":171,
+        "County Seat":"Dobson",
+        "Created":1771,
+        "Origin":"Rowan County",
+        "Etymology":"The county of Surrey in England, birthplace of then governor William Tryon",
+        "Population estimate\n(2011)":"73,714",
+        "Area":"538 sq mi\n(1,393 km2)"
+    },
+    {
+        "County":"Swain County",
+        "FIPS Code":173,
+        "County Seat":"Bryson City",
+        "Created":1871,
+        "Origin":"Jackson County and Macon County",
+        "Etymology":"David Lowry Swain (1801\u20131868), a governor of North Carolina and president of the University of North Carolina",
+        "Population estimate\n(2011)":"14,043",
+        "Area":"541 sq mi\n(1,401 km2)"
+    },
+    {
+        "County":"Transylvania County",
+        "FIPS Code":175,
+        "County Seat":"Brevard",
+        "Created":1861,
+        "Origin":"Henderson County and Jackson County",
+        "Etymology":"Derived from the Latin words, trans meaning across and sylva meaning woods",
+        "Population estimate\n(2011)":"32,820",
+        "Area":"381 sq mi\n(987 km2)"
+    },
+    {
+        "County":"Tyrrell County",
+        "FIPS Code":177,
+        "County Seat":"Columbia",
+        "Created":1729,
+        "Origin":"Chowan County, Currituck County, and Pasquotank County",
+        "Etymology":"John Tyrrell, at one time was a Lords Proprietor",
+        "Population estimate\n(2011)":"4,364",
+        "Area":"600 sq mi\n(1,554 km2)"
+    },
+    {
+        "County":"Union County",
+        "FIPS Code":179,
+        "County Seat":"Monroe",
+        "Created":1842,
+        "Origin":"Anson County and Mecklenburg County",
+        "Etymology":"Created as a compromise after a dispute between local Whigs and Democrats as to whether it should be named Clay or Jackson county",
+        "Population estimate\n(2011)":"205,463",
+        "Area":"640 sq mi\n(1,658 km2)"
+    },
+    {
+        "County":"Vance County",
+        "FIPS Code":181,
+        "County Seat":"Henderson",
+        "Created":1881,
+        "Origin":"Franklin County, Granville County, and Warren County",
+        "Etymology":"Zebulon Baird Vance (1830\u20131894), a Confederate military officer in the American Civil War, twice governor of North Carolina, and United States Senator",
+        "Population estimate\n(2011)":"45,307",
+        "Area":"270 sq mi\n(699 km2)"
+    },
+    {
+        "County":"Wake County",
+        "FIPS Code":183,
+        "County Seat":"Raleigh",
+        "Created":1771,
+        "Origin":"Cumberland County, Johnston County, and Orange County",
+        "Etymology":"Margaret Wake, the wife of British colonial governor William Tryon",
+        "Population estimate\n(2011)":"929,780",
+        "Area":"857 sq mi\n(2,220 km2)"
+    },
+    {
+        "County":"Warren County",
+        "FIPS Code":185,
+        "County Seat":"Warrenton",
+        "Created":1779,
+        "Origin":"Bute County",
+        "Etymology":"Joseph Warren (1741\u20131775), a Patriot and volunteer private who was mortally wounded at the Battle of Bunker Hill",
+        "Population estimate\n(2011)":"20,861",
+        "Area":"444 sq mi\n(1,150 km2)"
+    },
+    {
+        "County":"Washington County",
+        "FIPS Code":187,
+        "County Seat":"Plymouth",
+        "Created":1799,
+        "Origin":"Tyrrell County",
+        "Etymology":"George Washington (1732\u20131799), the 1st President of the United States",
+        "Population estimate\n(2011)":"12,973",
+        "Area":"424 sq mi\n(1,098 km2)"
+    },
+    {
+        "County":"Watauga County",
+        "FIPS Code":189,
+        "County Seat":"Boone",
+        "Created":1849,
+        "Origin":"Ashe County, Caldwell County, Wilkes County, and Yancey County",
+        "Etymology":"The Watauga River, which came from a Native American word meaning \\beautiful water\\\"\"",
+        "Population estimate\n(2011)":"51,333",
+        "Area":"313 sq mi\n(811 km2)"
+    },
+    {
+        "County":"Wayne County",
+        "FIPS Code":191,
+        "County Seat":"Goldsboro",
+        "Created":1779,
+        "Origin":"Dobbs County\nOriginally named Glasgow County",
+        "Etymology":"Anthony Wayne (1745\u20131796), a general in the American Revolutionary War",
+        "Population estimate\n(2011)":"123,697",
+        "Area":"557 sq mi\n(1,443 km2)"
+    },
+    {
+        "County":"Wilkes County",
+        "FIPS Code":193,
+        "County Seat":"Wilkesboro",
+        "Created":1777,
+        "Origin":"Surry County",
+        "Etymology":"John Wilkes (1725\u20131797), an English radical, journalist and politician",
+        "Population estimate\n(2011)":"68,984",
+        "Area":"760 sq mi\n(1,968 km2)"
+    },
+    {
+        "County":"Wilson County",
+        "FIPS Code":195,
+        "County Seat":"Wilson",
+        "Created":1855,
+        "Origin":"Edgecombe County, Johnston County, Nash County, and Wayne County",
+        "Etymology":"Louis D. Wilson, a state legislator from Edgecombe County who died of fever at Veracruz during the Mexican-American War",
+        "Population estimate\n(2011)":"81,452",
+        "Area":"374 sq mi\n(969 km2)"
+    },
+    {
+        "County":"Yadkin County",
+        "FIPS Code":197,
+        "County Seat":"Yadkinville",
+        "Created":1850,
+        "Origin":"Surry County",
+        "Etymology":"The Yadkin River",
+        "Population estimate\n(2011)":"38,279",
+        "Area":"337 sq mi\n(873 km2)"
+    },
+    {
+        "County":"Yancey County",
+        "FIPS Code":199,
+        "County Seat":"Burnsville",
+        "Created":1833,
+        "Origin":"Buncombe County and Burke County",
+        "Etymology":"Bartlett Yancey (1785\u20131828), a United States Congressman, Speaker of the North Carolina Senate, and early advocate for the North Carolina Public School System",
+        "Population estimate\n(2011)":"17,701",
+        "Area":"313 sq mi\n(811 km2)"
+    }
+]

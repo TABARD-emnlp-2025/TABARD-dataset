@@ -1,0 +1,72 @@
+[
+  {
+    "State": "Idaho",
+    "Interview": 8.688,
+    "Swimsuit": 8.925,
+    "Evening Gown": "@@@_None",
+    "Average": 8.821
+  },
+  {
+    "State": "Kentucky",
+    "Interview": 8.863,
+    "Swimsuit": 9.175,
+    "Evening Gown": "@@@_143.5475538735",
+    "Average": 9.146
+  },
+  {
+    "State": "Vermont",
+    "Interview": 8.425,
+    "Swimsuit": 9.013,
+    "Evening Gown": 9.3,
+    "Average": 8.913
+  },
+  {
+    "State": "Texas",
+    "Interview": 8.688,
+    "Swimsuit": 8.975,
+    "Evening Gown": 8.875,
+    "Average": 8.846
+  },
+  {
+    "State": "North Dakota",
+    "Interview": 8.8,
+    "Swimsuit": 8.975,
+    "Evening Gown": 9.175,
+    "Average": 8.983
+  },
+  {
+    "State": "Washington",
+    "Interview": 8.688,
+    "Swimsuit": 8.788,
+    "Evening Gown": 8.863,
+    "Average": 8.779
+  },
+  {
+    "State": "Alabama",
+    "Interview": 8.65,
+    "Swimsuit": 8.475,
+    "Evening Gown": 8.938,
+    "Average": 8.688
+  },
+  {
+    "State": "South Dakota",
+    "Interview": 8.3,
+    "Swimsuit": 8.838,
+    "Evening Gown": 8.513,
+    "Average": 8.55
+  },
+  {
+    "State": "New York",
+    "Interview": "@@@_345.6208559156",
+    "Swimsuit": 8.713,
+    "Evening Gown": 8.4,
+    "Average": 8.525
+  },
+  {
+    "State": "Oklahoma",
+    "Interview": "@@@_-23.1607286066",
+    "Swimsuit": 8.325,
+    "Evening Gown": 8.7,
+    "Average": 8.433
+  }
+]

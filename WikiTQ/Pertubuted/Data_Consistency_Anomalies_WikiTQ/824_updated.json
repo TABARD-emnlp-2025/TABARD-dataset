@@ -1,0 +1,58 @@
+[
+    {
+        "No.":1.0,
+        "Train No:":"56654",
+        "Origin":"Mangalore Central",
+        "Destination":"Kozhikode",
+        "Train Name":"@@@_passenger"
+    },
+    {
+        "No.":2.0,
+        "Train No:":"56324",
+        "Origin":"@@@_Mangalore central",
+        "Destination":"Coimbatore city Junction",
+        "Train Name":"Fast Passenger"
+    },
+    {
+        "No.":3.0,
+        "Train No:":"56656",
+        "Origin":"Mangalore Central",
+        "Destination":"Kannur",
+        "Train Name":"Passenger"
+    },
+    {
+        "No.":4.0,
+        "Train No:":"56643\/56645",
+        "Origin":"Mangalore Central",
+        "Destination":"Kabakaputtur",
+        "Train Name":"Passenger"
+    },
+    {
+        "No.":5.0,
+        "Train No:":"56640",
+        "Origin":"Mangalore Central",
+        "Destination":"Verna",
+        "Train Name":"Passenger"
+    },
+    {
+        "No.":6.0,
+        "Train No:":"56647",
+        "Origin":"Mangalore Central",
+        "Destination":"Subrahmanya Road",
+        "Train Name":"@@@_"
+    },
+    {
+        "No.":7.0,
+        "Train No:":"56661",
+        "Origin":"Mangalore Central",
+        "Destination":"Cheruvathur",
+        "Train Name":"Passenger"
+    },
+    {
+        "No.":8.0,
+        "Train No:":"@@@_070106",
+        "Origin":"Mangalore Central",
+        "Destination":"Bhatkal",
+        "Train Name":"DEMU"
+    }
+]

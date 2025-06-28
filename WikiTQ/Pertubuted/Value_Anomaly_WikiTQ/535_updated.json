@@ -1,0 +1,308 @@
+[
+  {
+    "Pos": "1",
+    "Rider": "Manuel Poggiali",
+    "Manufacturer": "Gilera",
+    "Laps": 25.0,
+    "Time/Retired": "41:18.211",
+    "Grid": 1.0,
+    "Points": 25.0
+  },
+  {
+    "Pos": "2",
+    "Rider": "Dani Pedrosa",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time/Retired": "+0.019",
+    "Grid": 4.0,
+    "Points": 20.0
+  },
+  {
+    "Pos": "@@@_None",
+    "Rider": "Steve Jenkner",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+9.888",
+    "Grid": 3.0,
+    "Points": "@@@_102.1854350661"
+  },
+  {
+    "Pos": "4",
+    "Rider": "Lucio Cecchinello",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+15.397",
+    "Grid": 5.0,
+    "Points": 13.0
+  },
+  {
+    "Pos": "5",
+    "Rider": "Simone Sanna",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+15.452",
+    "Grid": 8.0,
+    "Points": 11.0
+  },
+  {
+    "Pos": "6",
+    "Rider": "Joan Olivé",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time/Retired": "+15.486",
+    "Grid": 20.0,
+    "Points": 10.0
+  },
+  {
+    "Pos": "7",
+    "Rider": "Stefano Bianco",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+15.549",
+    "Grid": 11.0,
+    "Points": "@@@_-9.3333333333"
+  },
+  {
+    "Pos": "8",
+    "Rider": "Pablo Nieto",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+16.218",
+    "Grid": 2.0,
+    "Points": 8.0
+  },
+  {
+    "Pos": "9",
+    "Rider": "Mika Kallio",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time/Retired": "+22.762",
+    "Grid": 10.0,
+    "Points": 7.0
+  },
+  {
+    "Pos": "10",
+    "Rider": "Mirko Giansanti",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time/Retired": "+22.839",
+    "Grid": 16.0,
+    "Points": "@@@_-13.8568067822"
+  },
+  {
+    "Pos": "11",
+    "Rider": "Arnaud Vincent",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+23.067",
+    "Grid": 23.0,
+    "Points": 5.0
+  },
+  {
+    "Pos": "12",
+    "Rider": "Andrea Ballerini",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time/Retired": "+23.134",
+    "Grid": 18.0,
+    "Points": 4.0
+  },
+  {
+    "Pos": "13",
+    "Rider": "Stefano Perugini",
+    "Manufacturer": "Italjet",
+    "Laps": 25.0,
+    "Time/Retired": "+43.345",
+    "Grid": 17.0,
+    "Points": 3.0
+  },
+  {
+    "Pos": "14",
+    "Rider": "Jorge Lorenzo",
+    "Manufacturer": "Derbi",
+    "Laps": 25.0,
+    "Time/Retired": "+43.973",
+    "Grid": 7.0,
+    "Points": 2.0
+  },
+  {
+    "Pos": "15",
+    "Rider": "Masao Azuma",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time/Retired": "+47.189",
+    "Grid": 13.0,
+    "Points": 1.0
+  },
+  {
+    "Pos": "16",
+    "Rider": "Jakub Smrž",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time/Retired": "+47.333",
+    "Grid": 24.0,
+    "Points": null
+  },
+  {
+    "Pos": "17",
+    "Rider": "Gianluigi Scalvini",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+52.000",
+    "Grid": 22.0,
+    "Points": null
+  },
+  {
+    "Pos": "18",
+    "Rider": "Héctor Barberá",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+1:11.358",
+    "Grid": 27.0,
+    "Points": null
+  },
+  {
+    "Pos": "19",
+    "Rider": "Mattia Angeloni",
+    "Manufacturer": "Gilera",
+    "Laps": 25.0,
+    "Time/Retired": "+1:11.488",
+    "Grid": 29.0,
+    "Points": null
+  },
+  {
+    "Pos": "20",
+    "Rider": "Alex Baldolini",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+1:21.603",
+    "Grid": "@@@_None",
+    "Points": null
+  },
+  {
+    "Pos": "21",
+    "Rider": "Jaroslav Huleš",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time/Retired": "+1:21.681",
+    "Grid": 15.0,
+    "Points": null
+  },
+  {
+    "Pos": "22",
+    "Rider": "Julian Simon",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time/Retired": "+1:31.723",
+    "Grid": 26.0,
+    "Points": null
+  },
+  {
+    "Pos": "23",
+    "Rider": "Imre Tóth",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time/Retired": "+1:31.794",
+    "Grid": 31.0,
+    "Points": null
+  },
+  {
+    "Pos": "24",
+    "Rider": "Leon Camier",
+    "Manufacturer": "Italjet",
+    "Laps": 24.0,
+    "Time/Retired": "+1 Lap",
+    "Grid": 33.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Chaz Davies",
+    "Manufacturer": "Aprilia",
+    "Laps": 18.0,
+    "Time/Retired": "Retirement",
+    "Grid": 21.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Michel Fabrizio",
+    "Manufacturer": "Gilera",
+    "Laps": 14.0,
+    "Time/Retired": "Accident",
+    "Grid": 19.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Youichi Ui",
+    "Manufacturer": "Derbi",
+    "Laps": 13.0,
+    "Time/Retired": "Accident",
+    "Grid": 6.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Alex de Angelis",
+    "Manufacturer": "Aprilia",
+    "Laps": 13.0,
+    "Time/Retired": "Accident",
+    "Grid": 12.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Ángel Rodríguez",
+    "Manufacturer": "Aprilia",
+    "Laps": 4.0,
+    "Time/Retired": "Retirement",
+    "Grid": 25.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Gino Borsoi",
+    "Manufacturer": "Aprilia",
+    "Laps": 0.0,
+    "Time/Retired": "Accident",
+    "Grid": 9.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Andrea Dovizioso",
+    "Manufacturer": "Honda",
+    "Laps": 0.0,
+    "Time/Retired": "Accident",
+    "Grid": 14.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Alessandro Brannetti",
+    "Manufacturer": "Honda",
+    "Laps": 0.0,
+    "Time/Retired": "Accident",
+    "Grid": 30.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Álvaro Bautista",
+    "Manufacturer": "Aprilia",
+    "Laps": 0.0,
+    "Time/Retired": "Accident",
+    "Grid": 28.0,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "Rider": "Javier Machado",
+    "Manufacturer": "Honda",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  }
+]

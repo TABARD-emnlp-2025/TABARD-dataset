@@ -1,0 +1,92 @@
+[
+    {
+        "Sport":null,
+        "Men":13,
+        "Women":8,
+        "Total":21.0
+    },
+    {
+        "Sport":"Biathlon",
+        "Men":5,
+        "Women":5,
+        "Total":10.0
+    },
+    {
+        "Sport":"Bobsleigh",
+        "Men":8,
+        "Women":2,
+        "Total":10.0
+    },
+    {
+        "Sport":"Cross-country skiing",
+        "Men":8,
+        "Women":4,
+        "Total":12.0
+    },
+    {
+        "Sport":"Curling",
+        "Men":6,
+        "Women":"5*",
+        "Total":11.0
+    },
+    {
+        "Sport":"Figure skating",
+        "Men":0,
+        "Women":1,
+        "Total":1.0
+    },
+    {
+        "Sport":"Freestyle skiing",
+        "Men":15,
+        "Women":7,
+        "Total":null
+    },
+    {
+        "Sport":"Ice hockey",
+        "Men":25,
+        "Women":23,
+        "Total":48.0
+    },
+    {
+        "Sport":"Luge",
+        "Men":0,
+        "Women":null,
+        "Total":1.0
+    },
+    {
+        "Sport":"Nordic combined",
+        "Men":1,
+        "Women":0,
+        "Total":1.0
+    },
+    {
+        "Sport":"Snowboarding",
+        "Men":12,
+        "Women":12,
+        "Total":24.0
+    },
+    {
+        "Sport":"Skeleton",
+        "Men":0,
+        "Women":1,
+        "Total":1.0
+    },
+    {
+        "Sport":"Ski jumping",
+        "Men":2,
+        "Women":0,
+        "Total":-22.0
+    },
+    {
+        "Sport":"Speed skating",
+        "Men":-12,
+        "Women":1,
+        "Total":2.0
+    },
+    {
+        "Sport":"Total",
+        "Men":96,
+        "Women":"70*",
+        "Total":166.0
+    }
+]

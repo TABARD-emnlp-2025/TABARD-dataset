@@ -1,0 +1,92 @@
+[
+  {
+    "Club": "Bundoora Football Club",
+    "Founded": 1974,
+    "Nickname": "Bulls",
+    "Location": "Bundoora",
+    "Home Ground": "Yulong Reserve",
+    "Entered Competition": 1981,
+    "Most recent Promotion": 1982.0
+  },
+  {
+    "Club": "Eltham Football Club",
+    "Founded": 1909,
+    "Nickname": "Panthers",
+    "Location": "Eltham",
+    "Home Ground": "Central Park",
+    "Entered Competition": 1922,
+    "Most recent Promotion": 2003.0
+  },
+  {
+    "Club": "Greensborough Football Club",
+    "Founded": 1905,
+    "Nickname": "Boro",
+    "Location": "Greensborough",
+    "Home Ground": "War Memorial Park",
+    "Entered Competition": 1922,
+    "Most recent Promotion": 2007.0
+  },
+  {
+    "Club": "Heidelberg Football Club",
+    "Founded": 1876,
+    "Nickname": "Tigers",
+    "Location": "Heidelberg",
+    "Home Ground": "Warringal Park",
+    "Entered Competition": 1923,
+    "Most recent Promotion": 1983.0
+  },
+  {
+    "Club": "Lalor Football Club",
+    "Founded": 1955,
+    "Nickname": "Bloods",
+    "Location": "Lalor",
+    "Home Ground": "@@@_None",
+    "Entered Competition": 1968,
+    "Most recent Promotion": 2011.0
+  },
+  {
+    "Club": "Macleod Football Club",
+    "Founded": 1946,
+    "Nickname": "Kangaroos",
+    "Location": "@@@_None",
+    "Home Ground": "De Winton Park",
+    "Entered Competition": 1947,
+    "Most recent Promotion": 2010.0
+  },
+  {
+    "Club": "Montmorency Football Club",
+    "Founded": 1924,
+    "Nickname": "Magpies",
+    "Location": "Montmorency",
+    "Home Ground": "Montmorency Park, North Oval",
+    "Entered Competition": 1924,
+    "Most recent Promotion": "@@@_35345.0013919465"
+  },
+  {
+    "Club": "North Heidelberg Football Club",
+    "Founded": 1958,
+    "Nickname": "Bulldogs",
+    "Location": "@@@_None",
+    "Home Ground": "Shelley Street Reserve",
+    "Entered Competition": "@@@_19756",
+    "Most recent Promotion": null
+  },
+  {
+    "Club": "Northcote Park Football Club",
+    "Founded": 1952,
+    "Nickname": "Cougars",
+    "Location": "Northcote",
+    "Home Ground": "Bill Lawry Oval",
+    "Entered Competition": 1982,
+    "Most recent Promotion": 1995.0
+  },
+  {
+    "Club": "West Preston Lakeside Football Club",
+    "Founded": 1998,
+    "Nickname": "Roosters",
+    "Location": "Reservoir",
+    "Home Ground": "J E Moore Park",
+    "Entered Competition": 1996,
+    "Most recent Promotion": 1997.0
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "Common name": "Acre",
+    "District": "North",
+    "Hebrew": "עכו",
+    "Arabic": "عكا",
+    "Population\n(2009)": "46,300",
+    "Area\n(km²)": 13.533,
+    "Mayor": "Shimon Lancry"
+  },
+  {
+    "Common name": "Afula",
+    "District": "North",
+    "Hebrew": "עפולה",
+    "Arabic": "العفولة",
+    "Population\n(2009)": "40,500",
+    "Area\n(km²)": 26.909,
+    "Mayor": "Avi Elkabetz"
+  },
+  {
+    "Common name": "Arad",
+    "District": "South",
+    "Hebrew": "ערד",
+    "Arabic": "عراد",
+    "Population\n(2009)": "23,400",
+    "Area\n(km²)": 93.14,
+    "Mayor": "Tali Ploskov"
+  },
+  {
+    "Common name": "Ariel",
+    "District": "Judea & Samaria\n(West Bank)",
+    "Hebrew": "אריאל",
+    "Arabic": "أريأل",
+    "Population\n(2009)": "17,600",
+    "Area\n(km²)": 14.677,
+    "Mayor": "Eliyahu Shaviro"
+  },
+  {
+    "Common name": "Ashdod",
+    "District": "South",
+    "Hebrew": "אשדוד",
+    "Arabic": "أشدود",
+    "Population\n(2009)": "206,400",
+    "Area\n(km²)": 47.242,
+    "Mayor": "Yehiel Lasri"
+  },
+  {
+    "Common name": "Ashkelon",
+    "District": "South",
+    "Hebrew": "אשקלון",
+    "Arabic": "عسقلان",
+    "Population\n(2009)": "111,900",
+    "Area\n(km²)": "@@@_308.7588185587",
+    "Mayor": "Benny Vaknin"
+  },
+  {
+    "Common name": "Baqa-Jatt",
+    "District": "Haifa",
+    "Hebrew": "באקה-ג'ת",
+    "Arabic": "باقة جت",
+    "Population\n(2009)": "34,300",
+    "Area\n(km²)": "@@@_-21.96264",
+    "Mayor": "Yitzhak Veled"
+  },
+  {
+    "Common name": "Bat Yam",
+    "District": "Tel Aviv",
+    "Hebrew": "בת ים",
+    "Arabic": "بات يام",
+    "Population\n(2009)": "130,000",
+    "Area\n(km²)": 8.167,
+    "Mayor": "Shlomo Lahiani"
+  },
+  {
+    "Common name": "Beersheba",
+    "District": "South",
+    "Hebrew": "באר שבע",
+    "Arabic": "بئر السبع",
+    "Population\n(2009)": "197,300",
+    "Area\n(km²)": 52.903,
+    "Mayor": "Rubik Danilovich"
+  },
+  {
+    "Common name": "Beit She'an",
+    "District": "North",
+    "Hebrew": "בית שאן",
+    "Arabic": "بيسان",
+    "Population\n(2009)": "16,900",
+    "Area\n(km²)": 7.33,
+    "Mayor": "Jacky Levi"
+  },
+  {
+    "Common name": "Beit Shemesh",
+    "District": "Jerusalem",
+    "Hebrew": "בית שמש",
+    "Arabic": "بيت شيمش",
+    "Population\n(2009)": "77,100",
+    "Area\n(km²)": 34.259,
+    "Mayor": "Moshe Abutbul"
+  },
+  {
+    "Common name": "Beitar Illit",
+    "District": "Judea & Samaria\n(West Bank)",
+    "Hebrew": "ביתר עילית",
+    "Arabic": "بيتار عيليت",
+    "Population\n(2009)": "35,000",
+    "Area\n(km²)": 6.801,
+    "Mayor": "Meir Rubenstein"
+  },
+  {
+    "Common name": "Bnei Brak",
+    "District": "Tel Aviv",
+    "Hebrew": "בני ברק",
+    "Arabic": "بني براك",
+    "Population\n(2009)": "154,400",
+    "Area\n(km²)": 7.088,
+    "Mayor": "Ya'akov Asher"
+  },
+  {
+    "Common name": "Dimona",
+    "District": "South",
+    "Hebrew": "דימונה",
+    "Arabic": "ديمونة",
+    "Population\n(2009)": "32,400",
+    "Area\n(km²)": 29.877,
+    "Mayor": "Meir Cohen"
+  },
+  {
+    "Common name": "Eilat",
+    "District": "South",
+    "Hebrew": "אילת",
+    "Arabic": "إيلات",
+    "Population\n(2009)": "47,400",
+    "Area\n(km²)": 84.789,
+    "Mayor": "Meir Yitzhak Halevi"
+  },
+  {
+    "Common name": "El'ad",
+    "District": "Center",
+    "Hebrew": "אלעד",
+    "Arabic": "أيلعاد",
+    "Population\n(2009)": "36,300",
+    "Area\n(km²)": 2.756,
+    "Mayor": "Yitzhak Idan"
+  },
+  {
+    "Common name": "Giv'atayim",
+    "District": "Tel Aviv",
+    "Hebrew": "גבעתיים",
+    "Arabic": "جفعاتايم",
+    "Population\n(2009)": "53,000",
+    "Area\n(km²)": 3.246,
+    "Mayor": "Ran Kunik"
+  },
+  {
+    "Common name": "Giv'at Shmuel",
+    "District": "Center",
+    "Hebrew": "גבעת שמואל",
+    "Arabic": null,
+    "Population\n(2009)": "21,800",
+    "Area\n(km²)": 2.579,
+    "Mayor": "Yossi Brodny"
+  },
+  {
+    "Common name": "Hadera",
+    "District": "Haifa",
+    "Hebrew": "חדרה",
+    "Arabic": "الخضيرة",
+    "Population\n(2009)": "80,200",
+    "Area\n(km²)": 49.359,
+    "Mayor": "Haim Avitan"
+  },
+  {
+    "Common name": "Haifa",
+    "District": "Haifa",
+    "Hebrew": "חיפה",
+    "Arabic": "حيفا",
+    "Population\n(2009)": "265,600",
+    "Area\n(km²)": 63.666,
+    "Mayor": "Yona Yahav"
+  },
+  {
+    "Common name": "Herzliya",
+    "District": "Tel Aviv",
+    "Hebrew": "הרצליה",
+    "Arabic": "هرتسليا",
+    "Population\n(2009)": "87,000",
+    "Area\n(km²)": 21.585,
+    "Mayor": "Yehonatan Yassur"
+  },
+  {
+    "Common name": "Hod HaSharon",
+    "District": "Center",
+    "Hebrew": "הוד השרון",
+    "Arabic": "هود هشارون",
+    "Population\n(2009)": "47,200",
+    "Area\n(km²)": 21.585,
+    "Mayor": "Hai Adiv"
+  },
+  {
+    "Common name": "Holon",
+    "District": "Tel Aviv",
+    "Hebrew": "חולון",
+    "Arabic": "حولون",
+    "Population\n(2009)": "184,700",
+    "Area\n(km²)": 18.927,
+    "Mayor": "Moti Sasson"
+  },
+  {
+    "Common name": "Jerusalem",
+    "District": "Jerusalem",
+    "Hebrew": "ירושלים",
+    "Arabic": "أورشليم, القدس",
+    "Population\n(2009)": "815,600",
+    "Area\n(km²)": 125.156,
+    "Mayor": "Nir Barkat"
+  },
+  {
+    "Common name": "Karmiel",
+    "District": "North",
+    "Hebrew": "כרמיאל",
+    "Arabic": "كرميئيل",
+    "Population\n(2009)": "44,100",
+    "Area\n(km²)": 19.188,
+    "Mayor": "Adi Eldar"
+  },
+  {
+    "Common name": "Kafr Qasim",
+    "District": "Center",
+    "Hebrew": "כפר קאסם",
+    "Arabic": "كفر قاسم",
+    "Population\n(2009)": "18,800",
+    "Area\n(km²)": 8.745,
+    "Mayor": "Sami Issa"
+  },
+  {
+    "Common name": "Kfar Saba",
+    "District": "Center",
+    "Hebrew": "כפר סבא",
+    "Arabic": "كفار سابا",
+    "Population\n(2009)": "83,600",
+    "Area\n(km²)": 14.169,
+    "Mayor": "Yehuda Ben-Hemo"
+  },
+  {
+    "Common name": "Kiryat Ata",
+    "District": "Haifa",
+    "Hebrew": "קריית אתא",
+    "Arabic": "كريات آتا",
+    "Population\n(2009)": "50,700",
+    "Area\n(km²)": 16.706,
+    "Mayor": "Ya'akov Peretz"
+  },
+  {
+    "Common name": "Kiryat Bialik",
+    "District": "Haifa",
+    "Hebrew": "קריית ביאליק",
+    "Arabic": "كريات بياليك",
+    "Population\n(2009)": "37,300",
+    "Area\n(km²)": 8.178,
+    "Mayor": "Eli Dokursky"
+  },
+  {
+    "Common name": "Kiryat Gat",
+    "District": "South",
+    "Hebrew": "קריית גת",
+    "Arabic": "كريات جات",
+    "Population\n(2009)": "47,400",
+    "Area\n(km²)": 16.302,
+    "Mayor": "Aviram Dahari"
+  },
+  {
+    "Common name": "Kiryat Malakhi",
+    "District": "South",
+    "Hebrew": "קריית מלאכי",
+    "Arabic": "كريات ملاخي",
+    "Population\n(2009)": "20,600",
+    "Area\n(km²)": 4.632,
+    "Mayor": "Motti Malka"
+  },
+  {
+    "Common name": "Kiryat Motzkin",
+    "District": "Haifa",
+    "Hebrew": "קריית מוצקין",
+    "Arabic": "كريات موتسكين",
+    "Population\n(2009)": "38,000",
+    "Area\n(km²)": 3.778,
+    "Mayor": "Haim Zuri"
+  },
+  {
+    "Common name": "Kiryat Ono",
+    "District": "Tel Aviv",
+    "Hebrew": "קריית אונו",
+    "Arabic": "كريات أونو",
+    "Population\n(2009)": "31,000",
+    "Area\n(km²)": 4.112,
+    "Mayor": "Yossi Nishri"
+  },
+  {
+    "Common name": "Kiryat Shmona",
+    "District": "North",
+    "Hebrew": "קריית שמונה",
+    "Arabic": "كريات شمونة",
+    "Population\n(2009)": "23,100",
+    "Area\n(km²)": 14.228,
+    "Mayor": "Nissim Malka"
+  },
+  {
+    "Common name": "Kiryat Yam",
+    "District": "Haifa",
+    "Hebrew": "קריית ים",
+    "Arabic": "كريات يام",
+    "Population\n(2009)": "37,700",
+    "Area\n(km²)": 4.339,
+    "Mayor": "Shmuel Sisso"
+  },
+  {
+    "Common name": "Lod",
+    "District": "Center",
+    "Hebrew": "לוד",
+    "Arabic": "اللد",
+    "Population\n(2009)": "69,800",
+    "Area\n(km²)": 12.226,
+    "Mayor": "Yair Revivo"
+  },
+  {
+    "Common name": "Ma'ale Adumim",
+    "District": "Judea & Samaria\n(West Bank)",
+    "Hebrew": "מעלה אדומים",
+    "Arabic": "معلي أدوميم",
+    "Population\n(2009)": "34,300",
+    "Area\n(km²)": 49.177,
+    "Mayor": "Benny Kashriel"
+  },
+  {
+    "Common name": "Ma'alot-Tarshiha",
+    "District": "North",
+    "Hebrew": "מעלות-תרשיחא",
+    "Arabic": "معالوت ترشيحا",
+    "Population\n(2009)": "20,600",
+    "Area\n(km²)": 6.832,
+    "Mayor": "Shlomo Bohbot"
+  },
+  {
+    "Common name": "Migdal HaEmek",
+    "District": "North",
+    "Hebrew": "מגדל העמק",
+    "Arabic": "مجدال هعيمق",
+    "Population\n(2009)": "23,900",
+    "Area\n(km²)": 7.637,
+    "Mayor": "Eliyahu Barda"
+  },
+  {
+    "Common name": "Modi'in Illit",
+    "District": "Judea & Samaria\n(West Bank)",
+    "Hebrew": "מודיעין עילית",
+    "Arabic": "موديعين عيليت",
+    "Population\n(2009)": "46,200",
+    "Area\n(km²)": 4.746,
+    "Mayor": "Ya'akov Gutterman"
+  },
+  {
+    "Common name": "Modi'in-Maccabim-Re'ut",
+    "District": "Center",
+    "Hebrew": "מודיעין-מכבים-רעות",
+    "Arabic": "موديعين-مكابيم-ريعوت",
+    "Population\n(2009)": "72,700",
+    "Area\n(km²)": 50.176,
+    "Mayor": "Haim Beebas"
+  },
+  {
+    "Common name": "Nahariya",
+    "District": "North",
+    "Hebrew": "נהריה",
+    "Arabic": "نهاريا",
+    "Population\n(2009)": "51,200",
+    "Area\n(km²)": 10.233,
+    "Mayor": "Jacky Sabag"
+  },
+  {
+    "Common name": "Nazareth",
+    "District": "North",
+    "Hebrew": "נצרת",
+    "Arabic": "الناصرة",
+    "Population\n(2009)": "72,200",
+    "Area\n(km²)": 14.123,
+    "Mayor": "Ali Salam"
+  },
+  {
+    "Common name": "Nazareth Illit",
+    "District": "North",
+    "Hebrew": "נצרת עילית",
+    "Arabic": "الناصرة العليا",
+    "Population\n(2009)": "40,800",
+    "Area\n(km²)": 32.521,
+    "Mayor": "Shimon Gapso"
+  },
+  {
+    "Common name": "Nesher",
+    "District": "Haifa",
+    "Hebrew": "נשר",
+    "Arabic": "نيشر",
+    "Population\n(2009)": "23,600",
+    "Area\n(km²)": 12.79,
+    "Mayor": "David Amar"
+  },
+  {
+    "Common name": "Ness Ziona",
+    "District": "Center",
+    "Hebrew": "נס ציונה",
+    "Arabic": "نيس تسيونا",
+    "Population\n(2009)": "38,100",
+    "Area\n(km²)": 15.579,
+    "Mayor": "Yossi Shvo"
+  },
+  {
+    "Common name": "Netanya",
+    "District": "Center",
+    "Hebrew": "נתניה",
+    "Arabic": "نتانيا",
+    "Population\n(2009)": "183,200",
+    "Area\n(km²)": 28.954,
+    "Mayor": "Miriam Feirberg"
+  },
+  {
+    "Common name": "Netivot",
+    "District": "South",
+    "Hebrew": "נתיבות",
+    "Arabic": "نتيفوت",
+    "Population\n(2009)": "26,700",
+    "Area\n(km²)": 5.626,
+    "Mayor": "Yehiel Zohar"
+  },
+  {
+    "Common name": "Ofakim",
+    "District": "South",
+    "Hebrew": "אופקים",
+    "Arabic": "أوفاكيم",
+    "Population\n(2009)": "24,000",
+    "Area\n(km²)": 10.273,
+    "Mayor": "Zvika Greengold"
+  },
+  {
+    "Common name": "Or Akiva",
+    "District": "Haifa",
+    "Hebrew": "אור עקיבא",
+    "Arabic": "أور عكيفا",
+    "Population\n(2009)": "16,100",
+    "Area\n(km²)": 3.539,
+    "Mayor": "Simha Yosipov"
+  },
+  {
+    "Common name": "Or Yehuda",
+    "District": "Tel Aviv",
+    "Hebrew": "אור יהודה",
+    "Arabic": "أور يهودا",
+    "Population\n(2009)": "34,400",
+    "Area\n(km²)": 5.141,
+    "Mayor": "David Yosef"
+  },
+  {
+    "Common name": "Petah Tikva",
+    "District": "Center",
+    "Hebrew": "פתח תקווה",
+    "Arabic": "بيتح تكفا",
+    "Population\n(2009)": "209,600",
+    "Area\n(km²)": 35.868,
+    "Mayor": "Itzik Braverman"
+  },
+  {
+    "Common name": "Qalansawe",
+    "District": "Center",
+    "Hebrew": "קלנסווה",
+    "Arabic": "قلنسوة",
+    "Population\n(2009)": "18,700",
+    "Area\n(km²)": 8.417,
+    "Mayor": null
+  },
+  {
+    "Common name": "Ra'anana",
+    "District": "Center",
+    "Hebrew": "רעננה",
+    "Arabic": "رعنانا",
+    "Population\n(2009)": "68,300",
+    "Area\n(km²)": 14.878,
+    "Mayor": "Nahum Hofree"
+  },
+  {
+    "Common name": "Rahat",
+    "District": "South",
+    "Hebrew": "רהט",
+    "Arabic": "رهط",
+    "Population\n(2009)": "51,700",
+    "Area\n(km²)": 19.586,
+    "Mayor": "Talal al-Krenawi"
+  },
+  {
+    "Common name": "Ramat Gan",
+    "District": "Tel Aviv",
+    "Hebrew": "רמת גן",
+    "Arabic": "رمات غان",
+    "Population\n(2009)": "145,000",
+    "Area\n(km²)": 13.229,
+    "Mayor": "Yisrael Zinger"
+  },
+  {
+    "Common name": "Ramat HaSharon",
+    "District": "Tel Aviv",
+    "Hebrew": "רמת השרון",
+    "Arabic": "رمات هشارون",
+    "Population\n(2009)": "40,600",
+    "Area\n(km²)": 16.792,
+    "Mayor": "Yitzhak Rochberger"
+  },
+  {
+    "Common name": "Ramla",
+    "District": "Center",
+    "Hebrew": "רמלה",
+    "Arabic": "الرملة",
+    "Population\n(2009)": "65,800",
+    "Area\n(km²)": 11.854,
+    "Mayor": "Yoel Lavi"
+  },
+  {
+    "Common name": "Rehovot",
+    "District": "Center",
+    "Hebrew": "רחובות",
+    "Arabic": "رحوفوت",
+    "Population\n(2009)": "112,700",
+    "Area\n(km²)": 23.041,
+    "Mayor": "Rahamim Malul"
+  },
+  {
+    "Common name": "Rishon LeZion",
+    "District": "Center",
+    "Hebrew": "ראשון לציון",
+    "Arabic": "ريشون لتسيون",
+    "Population\n(2009)": "228,200",
+    "Area\n(km²)": 58.704,
+    "Mayor": "Dov Tzur"
+  },
+  {
+    "Common name": "Rosh HaAyin",
+    "District": "Center",
+    "Hebrew": "ראש העין",
+    "Arabic": "رأس العين",
+    "Population\n(2009)": "38,500",
+    "Area\n(km²)": 24.39,
+    "Mayor": "Moshe Sinai"
+  },
+  {
+    "Common name": "Safed",
+    "District": "North",
+    "Hebrew": "צפת",
+    "Arabic": "صفد",
+    "Population\n(2009)": "29,500",
+    "Area\n(km²)": 29.248,
+    "Mayor": "Ilan Shohat"
+  },
+  {
+    "Common name": "Sakhnin",
+    "District": "North",
+    "Hebrew": "סח'נין",
+    "Arabic": "سخنين",
+    "Population\n(2009)": "25,700",
+    "Area\n(km²)": 9.816,
+    "Mayor": "Mazen Ghnaim"
+  },
+  {
+    "Common name": "Sderot",
+    "District": "South",
+    "Hebrew": "שדרות",
+    "Arabic": "سديروت",
+    "Population\n(2009)": "23,700",
+    "Area\n(km²)": 4.472,
+    "Mayor": "David Buskila"
+  },
+  {
+    "Common name": "Shefa-'Amr (Shfar'am)",
+    "District": "North",
+    "Hebrew": "שפרעם",
+    "Arabic": "شفا عمرو",
+    "Population\n(2009)": "36,200",
+    "Area\n(km²)": 19.766,
+    "Mayor": "Nahed Khazem"
+  },
+  {
+    "Common name": "Tamra",
+    "District": "North",
+    "Hebrew": "טמרה",
+    "Arabic": "طمرة",
+    "Population\n(2009)": "28,700",
+    "Area\n(km²)": 29.259,
+    "Mayor": "Abu el-Hija Adel"
+  },
+  {
+    "Common name": "Tayibe",
+    "District": "Center",
+    "Hebrew": "טייבה",
+    "Arabic": "الطيبة",
+    "Population\n(2009)": "36,500",
+    "Area\n(km²)": 18.662,
+    "Mayor": "Hemi Doron"
+  },
+  {
+    "Common name": "Tel Aviv",
+    "District": "Tel Aviv",
+    "Hebrew": "תל אביב",
+    "Arabic": "تل أبيب يافا",
+    "Population\n(2009)": "403,700",
+    "Area\n(km²)": 51.788,
+    "Mayor": "Ron Huldai"
+  },
+  {
+    "Common name": "Tiberias",
+    "District": "North",
+    "Hebrew": "טבריה",
+    "Arabic": "طبريا",
+    "Population\n(2009)": "41,300",
+    "Area\n(km²)": 10.872,
+    "Mayor": "Zohar Oved"
+  },
+  {
+    "Common name": "Tira",
+    "District": "Center",
+    "Hebrew": "טירה",
+    "Arabic": "الطيرة",
+    "Population\n(2009)": "22,600",
+    "Area\n(km²)": 11.894,
+    "Mayor": "Mamoun Abd al-Hay"
+  },
+  {
+    "Common name": "Tirat Carmel",
+    "District": "Haifa",
+    "Hebrew": "טירת כרמל",
+    "Arabic": "طيرة الكرمل",
+    "Population\n(2009)": "18,600",
+    "Area\n(km²)": "@@@_-24.5315909713",
+    "Mayor": "Aryeh Tal"
+  },
+  {
+    "Common name": "Umm al-Fahm",
+    "District": "Haifa",
+    "Hebrew": "אום אל-פחם",
+    "Arabic": "أم الفحم",
+    "Population\n(2009)": "46,100",
+    "Area\n(km²)": 22.253,
+    "Mayor": "Khaled Aghbariyya"
+  },
+  {
+    "Common name": "Yavne",
+    "District": "Center",
+    "Hebrew": "יבנה",
+    "Arabic": "يبنة",
+    "Population\n(2009)": "33,000",
+    "Area\n(km²)": 10.7,
+    "Mayor": "Zvi Gov-Ari"
+  },
+  {
+    "Common name": "Yehud-Monosson",
+    "District": "Center",
+    "Hebrew": "יהוד-מונוסון",
+    "Arabic": "يهود مونوسون",
+    "Population\n(2009)": "26,500",
+    "Area\n(km²)": "@@@_-24.9308557141",
+    "Mayor": "Yossi Ben-David"
+  },
+  {
+    "Common name": "Yokneam",
+    "District": "North",
+    "Hebrew": "@@@_None",
+    "Arabic": "يوقنعم",
+    "Population\n(2009)": "19,100",
+    "Area\n(km²)": 7.39,
+    "Mayor": "Simon Alfasi"
+  }
+]

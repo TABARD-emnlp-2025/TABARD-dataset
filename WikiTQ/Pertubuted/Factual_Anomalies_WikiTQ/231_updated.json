@@ -1,0 +1,138 @@
+[
+    {
+        "Rank":1,
+        "Nation":"United States (USA)",
+        "Gold":5,
+        "Silver":0,
+        "Bronze":0,
+        "Total":5
+    },
+    {
+        "Rank":2,
+        "Nation":"Italy (ITA)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":1,
+        "Total":3
+    },
+    {
+        "Rank":3,
+        "Nation":"Poland (POL)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":0,
+        "Total":2
+    },
+    {
+        "Rank":4,
+        "Nation":"Finland (FIN)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":4,
+        "Total":5
+    },
+    {
+        "Rank":5,
+        "Nation":"Czechoslovakia (TCH)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":0,
+        "Total":1
+    },
+    {
+        "Rank":5,
+        "Nation":"Hungary (HUN)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":0,
+        "Total":1
+    },
+    {
+        "Rank":7,
+        "Nation":"Soviet Union (URS)",
+        "Gold":0,
+        "Silver":2,
+        "Bronze":4,
+        "Total":6
+    },
+    {
+        "Rank":8,
+        "Nation":"South Africa (RSA)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":3,
+        "Total":4
+    },
+    {
+        "Rank":9,
+        "Nation":"Argentina (ARG)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":2
+    },
+    {
+        "Rank":9,
+        "Nation":"Germany (GER)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":"@@@_3"
+    },
+    {
+        "Rank":9,
+        "Nation":"Romania (ROU)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":2
+    },
+    {
+        "Rank":9,
+        "Nation":"Sweden (SWE)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":1,
+        "Total":2
+    },
+    {
+        "Rank":13,
+        "Nation":"Ireland (IRL)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":0,
+        "Total":1
+    },
+    {
+        "Rank":14,
+        "Nation":"Bulgaria (BUL)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":14,
+        "Nation":"Denmark (DEN)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    },
+    {
+        "Rank":14,
+        "Nation":"France (FRA)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":"@@@_2"
+    },
+    {
+        "Rank":14,
+        "Nation":"South Korea (KOR)",
+        "Gold":0,
+        "Silver":0,
+        "Bronze":1,
+        "Total":1
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1898\u201399",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1899\u20131900",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1900\u201301",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1903\u201304",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1904\u201305",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1905\u201306",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1906\u201307",
+        "Division":"First Division",
+        "League":1,
+        "FA Cup":0,
+        "Total":1
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1907\u201308",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1908\u201309",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1909\u201310",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"Total",
+        "Division":"Total",
+        "League":1,
+        "FA Cup":0,
+        "Total":1
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1900\u201301",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":-1
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1905\u201306",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":1
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1899\u20131900",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":100
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1907\u201308",
+        "Division":"Premier Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Birmingham",
+        "Season":"1908\u201309",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":5,
+        "Total":0
+    }
+]

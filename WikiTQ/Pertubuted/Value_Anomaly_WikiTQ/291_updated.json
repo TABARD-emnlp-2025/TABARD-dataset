@@ -1,0 +1,200 @@
+[
+  {
+    "Rank": 1,
+    "Name": "Beatrix Schuba",
+    "Nation": "Austria",
+    "CP": 1.0,
+    "FP": 7.0,
+    "Points": 2763.0,
+    "Placings": 10.0
+  },
+  {
+    "Rank": 2,
+    "Name": "Julie Lynn Holmes",
+    "Nation": "United States",
+    "CP": 2.0,
+    "FP": 5.0,
+    "Points": 2697.3,
+    "Placings": 24.5
+  },
+  {
+    "Rank": 3,
+    "Name": "Karen Magnussen",
+    "Nation": "Canada",
+    "CP": 4.0,
+    "FP": 2.0,
+    "Points": 2697.7,
+    "Placings": 27.0
+  },
+  {
+    "Rank": 4,
+    "Name": "Janet Lynn",
+    "Nation": "United States",
+    "CP": 5.0,
+    "FP": 1.0,
+    "Points": 2680.0,
+    "Placings": 34.0
+  },
+  {
+    "Rank": 5,
+    "Name": "Rita Trapanese",
+    "Nation": "Italy",
+    "CP": 3.0,
+    "FP": 8.0,
+    "Points": 2623.6,
+    "Placings": "@@@_-147.3806868035"
+  },
+  {
+    "Rank": 6,
+    "Name": "Sonja Morgenstern",
+    "Nation": "East Germany",
+    "CP": 9.0,
+    "FP": 3.0,
+    "Points": 2606.6,
+    "Placings": "@@@_1043.3751096763"
+  },
+  {
+    "Rank": 7,
+    "Name": "Zsuzsa Almássy",
+    "Nation": "Hungary",
+    "CP": 6.0,
+    "FP": 4.0,
+    "Points": 2599.9,
+    "Placings": 57.0
+  },
+  {
+    "Rank": 8,
+    "Name": "Charlotte Walter",
+    "Nation": "Switzerland",
+    "CP": "@@@_None",
+    "FP": 14.0,
+    "Points": 2480.7,
+    "Placings": 86.0
+  },
+  {
+    "Rank": 9,
+    "Name": "Christine Errath",
+    "Nation": "East Germany",
+    "CP": 13.0,
+    "FP": 6.0,
+    "Points": 2493.5,
+    "Placings": 83.0
+  },
+  {
+    "Rank": 10,
+    "Name": "Suna Murray",
+    "Nation": "United States",
+    "CP": 14.0,
+    "FP": 9.0,
+    "Points": 2475.0,
+    "Placings": 91.0
+  },
+  {
+    "Rank": 11,
+    "Name": "Elena Alexandrova",
+    "Nation": "Soviet Union",
+    "CP": 10.0,
+    "FP": 13.0,
+    "Points": 2450.5,
+    "Placings": 103.0
+  },
+  {
+    "Rank": 12,
+    "Name": "Patricia Ann Dodd",
+    "Nation": "United Kingdom",
+    "CP": 7.0,
+    "FP": 16.0,
+    "Points": null,
+    "Placings": 100.0
+  },
+  {
+    "Rank": 13,
+    "Name": "Kazumi Yamashita",
+    "Nation": "Japan",
+    "CP": 12.0,
+    "FP": 11.0,
+    "Points": null,
+    "Placings": 116.0
+  },
+  {
+    "Rank": 14,
+    "Name": "Ludmila Bezáková",
+    "Nation": "Czechoslovakia",
+    "CP": 11.0,
+    "FP": 15.0,
+    "Points": null,
+    "Placings": 122.0
+  },
+  {
+    "Rank": 15,
+    "Name": "Jean Scott",
+    "Nation": "United Kingdom",
+    "CP": 15.0,
+    "FP": 10.0,
+    "Points": null,
+    "Placings": 132.0
+  },
+  {
+    "Rank": 16,
+    "Name": "Diane Hall",
+    "Nation": "Canada",
+    "CP": 19.0,
+    "FP": 12.0,
+    "Points": null,
+    "Placings": 132.0
+  },
+  {
+    "Rank": 17,
+    "Name": "Anita Johansson",
+    "Nation": "Sweden",
+    "CP": "@@@_None",
+    "FP": 18.0,
+    "Points": null,
+    "Placings": 145.0
+  },
+  {
+    "Rank": 18,
+    "Name": "Judith Bayer",
+    "Nation": "West Germany",
+    "CP": 20.0,
+    "FP": "@@@_None",
+    "Points": null,
+    "Placings": 159.0
+  },
+  {
+    "Rank": 19,
+    "Name": "Ruth Hutchinson",
+    "Nation": "Canada",
+    "CP": 17.0,
+    "FP": 20.0,
+    "Points": null,
+    "Placings": 168.0
+  },
+  {
+    "Rank": 20,
+    "Name": "Sonja Balun",
+    "Nation": "Austria",
+    "CP": 22.0,
+    "FP": 19.0,
+    "Points": null,
+    "Placings": 177.0
+  },
+  {
+    "Rank": 21,
+    "Name": "Joëlle Cartaux",
+    "Nation": "France",
+    "CP": 18.0,
+    "FP": 22.0,
+    "Points": null,
+    "Placings": 188.0
+  },
+  {
+    "Rank": 22,
+    "Name": "Cinzia Frosio",
+    "Nation": "Italy",
+    "CP": 21.0,
+    "FP": 21.0,
+    "Points": null,
+    "Placings": 197.0
+  }
+]

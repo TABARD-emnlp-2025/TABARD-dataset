@@ -1,0 +1,30 @@
+[
+    {
+        "Year":"Representing the United States",
+        "Competition":"Representing the United States",
+        "Venue":"Representing the United States",
+        "Position":"Representing the United States",
+        "Notes":"Representing the United States"
+    },
+    {
+        "Year":1984,
+        "Competition":"Olympic Games",
+        "Venue":"Los Angeles, United States",
+        "Position":"@@@_1st",
+        "Notes":"@@@_1.29 m"
+    },
+    {
+        "Year":1986,
+        "Competition":"Goodwill Games",
+        "Venue":"Moscow, Soviet Union",
+        "Position":"1st",
+        "Notes":"2.34 m"
+    },
+    {
+        "Year":1990,
+        "Competition":"Goodwill Games",
+        "Venue":"Seattle, United States",
+        "Position":"2nd",
+        "Notes":"@@@_9.58 m"
+    }
+]

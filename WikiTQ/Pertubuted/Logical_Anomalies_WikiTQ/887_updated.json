@@ -1,0 +1,212 @@
+[
+    {
+        "District":1,
+        "Representative":"Ogden Driskill",
+        "Party":"Republican",
+        "Residence":"Devils Tower",
+        "Counties Represented":"Converse, Crook, Goshen, Niobrara, Weston"
+    },
+    {
+        "District":2,
+        "Representative":"Jim Anderson",
+        "Party":"Republican",
+        "Residence":"Glenrock",
+        "Counties Represented":"Converse, Platte"
+    },
+    {
+        "District":3,
+        "Representative":"Curt Meier",
+        "Party":"Republican",
+        "Residence":"LaGrange",
+        "Counties Represented":"Goshen, Platte"
+    },
+    {
+        "District":4,
+        "Representative":"Tony Ross",
+        "Party":"Republican",
+        "Residence":"Cheyenne",
+        "Counties Represented":"Laramie"
+    },
+    {
+        "District":5,
+        "Representative":"Fred Emerich",
+        "Party":"Republican",
+        "Residence":"Cheyenne",
+        "Counties Represented":"Laramie"
+    },
+    {
+        "District":6,
+        "Representative":"Wayne Johnson",
+        "Party":"Republican",
+        "Residence":"Cheyenne",
+        "Counties Represented":"Laramie"
+    },
+    {
+        "District":7,
+        "Representative":"Leslie Nutting",
+        "Party":"Republican",
+        "Residence":"Cheyenne",
+        "Counties Represented":"Laramie"
+    },
+    {
+        "District":8,
+        "Representative":"Floyd Esquibel",
+        "Party":"Democratic",
+        "Residence":"Cheyenne",
+        "Counties Represented":"Laramie"
+    },
+    {
+        "District":9,
+        "Representative":"Chris Rothfuss",
+        "Party":"Democratic",
+        "Residence":"Laramie",
+        "Counties Represented":"Albany"
+    },
+    {
+        "District":10,
+        "Representative":"Phil Nicholas",
+        "Party":"Republican",
+        "Residence":"Laramie",
+        "Counties Represented":"Albany"
+    },
+    {
+        "District":11,
+        "Representative":"Larry S. Hicks",
+        "Party":"Republican",
+        "Residence":"Baggs",
+        "Counties Represented":"Albany, Carbon"
+    },
+    {
+        "District":12,
+        "Representative":"Bernadine Craft",
+        "Party":"Democratic",
+        "Residence":"Rock Springs",
+        "Counties Represented":"Fremont, Sweetwater"
+    },
+    {
+        "District":13,
+        "Representative":"John Hastert",
+        "Party":"Democratic",
+        "Residence":"Green River",
+        "Counties Represented":"Sweetwater"
+    },
+    {
+        "District":14,
+        "Representative":"Stan Cooper",
+        "Party":"Republican",
+        "Residence":"Kemmerer",
+        "Counties Represented":"Lincoln, Sublette, Sweetwater, Uinta"
+    },
+    {
+        "District":15,
+        "Representative":"Paul Barnard",
+        "Party":"Republican",
+        "Residence":"Evanston",
+        "Counties Represented":"Uinta"
+    },
+    {
+        "District":16,
+        "Representative":"Dan Dockstader",
+        "Party":"Republican",
+        "Residence":"Afton",
+        "Counties Represented":"Lincoln, Sublette, Teton"
+    },
+    {
+        "District":17,
+        "Representative":"Leland Christensen",
+        "Party":"Republican",
+        "Residence":"Alta",
+        "Counties Represented":"Fremont, Teton"
+    },
+    {
+        "District":18,
+        "Representative":"Hank Coe",
+        "Party":"Republican",
+        "Residence":"Cody",
+        "Counties Represented":"Park"
+    },
+    {
+        "District":19,
+        "Representative":"R. Ray Peterson",
+        "Party":"Republican",
+        "Residence":"Cowley",
+        "Counties Represented":"Big Horn, Park"
+    },
+    {
+        "District":20,
+        "Representative":"Gerald Geis",
+        "Party":"Republican",
+        "Residence":"Worland",
+        "Counties Represented":"Big Horn, Hot Springs, Park, Washakie"
+    },
+    {
+        "District":21,
+        "Representative":"Bruce Burns",
+        "Party":"Republican",
+        "Residence":"Sheridan",
+        "Counties Represented":"Sheridan"
+    },
+    {
+        "District":22,
+        "Representative":"John Schiffer",
+        "Party":"Republican",
+        "Residence":"Kaycee",
+        "Counties Represented":"Sheridan, Johnson"
+    },
+    {
+        "District":23,
+        "Representative":"John Hines",
+        "Party":"Republican",
+        "Residence":"Gillette",
+        "Counties Represented":"Campbell"
+    },
+    {
+        "District":24,
+        "Representative":"Michael Von Flatern",
+        "Party":"Republican",
+        "Residence":"Gillette",
+        "Counties Represented":"Campbell"
+    },
+    {
+        "District":25,
+        "Representative":"Cale Case",
+        "Party":"Republican",
+        "Residence":"Lander",
+        "Counties Represented":"Fremont"
+    },
+    {
+        "District":26,
+        "Representative":"Eli Bebout",
+        "Party":"Republican",
+        "Residence":"Riverton",
+        "Counties Represented":"Fremont"
+    },
+    {
+        "District":27,
+        "Representative":"Bill Landen",
+        "Party":"Republican",
+        "Residence":"Casper",
+        "Counties Represented":"Natrona"
+    },
+    {
+        "District":28,
+        "Representative":"James Lee Anderson",
+        "Party":"Republican",
+        "Residence":"Casper",
+        "Counties Represented":"Natrona"
+    },
+    {
+        "District":29,
+        "Representative":"Drew Perkins",
+        "Party":"Republican",
+        "Residence":"Casper",
+        "Counties Represented":"Natrona"
+    },
+    {
+        "District":30,
+        "Representative":"Charles Scott",
+        "Party":"Republican",
+        "Residence":"Casper",
+        "Counties Represented":"Natrona"
+    }
+]

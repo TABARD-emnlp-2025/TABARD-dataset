@@ -1,0 +1,72 @@
+[
+    {
+        "Rank":1,
+        "Prev.":4,
+        "Name":"chris Froome (GBR)",
+        "Team":"Team Sky",
+        "Points":587
+    },
+    {
+        "Rank":2,
+        "Prev.":2,
+        "Name":"Peter Sagan (SVK)",
+        "Team":"cannondale",
+        "Points":409
+    },
+    {
+        "Rank":3,
+        "Prev.":8,
+        "Name":"Joaquim Rodríguez (ESP)",
+        "Team":"Team Katusha",
+        "Points":390
+    },
+    {
+        "Rank":4,
+        "Prev.":13,
+        "Name":"Nairo Quintana (COL)",
+        "Team":"Movistar Team",
+        "Points":"366"
+    },
+    {
+        "Rank":5,
+        "Prev.":1,
+        "Name":"Fabian Cancellara (SUI)",
+        "Team":"RadioShack–Leopard",
+        "Points":351
+    },
+    {
+        "Rank":6,
+        "Prev.":6,
+        "Name":"Dan Martin (IRL)",
+        "Team":"Garmin–Sharp",
+        "Points":327
+    },
+    {
+        "Rank":7,
+        "Prev.":3,
+        "Name":"Vincenzo Nibali (ITA)",
+        "Team":"Astana",
+        "Points":322
+    },
+    {
+        "Rank":8,
+        "Prev.":5,
+        "Name":"Richie Porte (AUS)",
+        "Team":"Team Sky",
+        "Points":287
+    },
+    {
+        "Rank":9,
+        "Prev.":12,
+        "Name":"Alejandro Valverde (ESP)",
+        "Team":"Movistar",
+        "Points":274
+    },
+    {
+        "Rank":10,
+        "Prev.":16,
+        "Name":"Roman Kreuziger (CZE)",
+        "Team":"Saxo–Tinkoff",
+        "Points":258
+    }
+]

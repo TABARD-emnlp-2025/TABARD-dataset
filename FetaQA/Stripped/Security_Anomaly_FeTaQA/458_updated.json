@@ -1,0 +1,86 @@
+[
+    {
+        "Vessel Name":"Goldfinch (6 voyages)",
+        "Slave Pick-up Point":"Other Africa, Bight of Biafra, Gulf of Guinea Islands",
+        "Destination":"Jamaica, Barbados, Virginia, Maryland",
+        "Number of Slaves":"1,854",
+        "Number That Survived the Voyage":"1,488"
+    },
+    {
+        "Vessel Name":"Bridgett (3 voyages)",
+        "Slave Pick-up Point":"West Central Africa, St. Helena",
+        "Destination":"Jamaica, Virginia",
+        "Number of Slaves":"1,017",
+        "Number That Survived the Voyage":908
+    },
+    {
+        "Vessel Name":"Nightingale (6 voyages)",
+        "Slave Pick-up Point":"None",
+        "Destination":"Jamaica",
+        "Number of Slaves":"1,628",
+        "Number That Survived the Voyage":"1,321"
+    },
+    {
+        "Vessel Name":"Bridget Gally (2 voyages)",
+        "Slave Pick-up Point":"West Central Africa, St. Helena",
+        "Destination":"Jamaica, Virginia",
+        "Number of Slaves":678,
+        "Number That Survived the Voyage":601
+    },
+    {
+        "Vessel Name":"Dreadnought Gally (1 voyage)",
+        "Slave Pick-up Point":"Bight of Biafra, Gulf of Guinea Islands",
+        "Destination":"Jamaica",
+        "Number of Slaves":299,
+        "Number That Survived the Voyage":227
+    },
+    {
+        "Vessel Name":"Dreadnought (1 voyage)",
+        "Slave Pick-up Point":"Bight of Biafra, Gulf of Guinea Islands",
+        "Destination":"Virginia",
+        "Number of Slaves":298,
+        "Number That Survived the Voyage":"None"
+    },
+    {
+        "Vessel Name":"Recovery (1 voyage)",
+        "Slave Pick-up Point":"Other Africa",
+        "Destination":"St. Kitts",
+        "Number of Slaves":271,
+        "Number That Survived the Voyage":217
+    },
+    {
+        "Vessel Name":"Henry's Gally (1 voyage)",
+        "Slave Pick-up Point":"Other Africa",
+        "Destination":"Jamaica",
+        "Number of Slaves":"<encrypted>",
+        "Number That Survived the Voyage":217
+    },
+    {
+        "Vessel Name":"Henry's (2 voyages)",
+        "Slave Pick-up Point":"Other Africa, West Central Africa, St. Helena",
+        "Destination":"Jamaica, Virginia",
+        "Number of Slaves":620,
+        "Number That Survived the Voyage":515
+    },
+    {
+        "Vessel Name":"Prince Harry (1 voyage)",
+        "Slave Pick-up Point":"Other Africa",
+        "Destination":"Barbados",
+        "Number of Slaves":271,
+        "Number That Survived the Voyage":217
+    },
+    {
+        "Vessel Name":"Bridget (2 voyages)",
+        "Slave Pick-up Point":"Other Africa, West Central Africa, St. Helena",
+        "Destination":"Virginia",
+        "Number of Slaves":387,
+        "Number That Survived the Voyage":340
+    },
+    {
+        "Vessel Name":"Totals",
+        "Slave Pick-up Point":"26 voyages",
+        "Destination":"5 destinations",
+        "Number of Slaves":"7,594 slaves",
+        "Number That Survived the Voyage":"6,277 slaves"
+    }
+]

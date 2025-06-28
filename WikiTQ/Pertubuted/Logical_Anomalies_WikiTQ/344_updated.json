@@ -1,0 +1,58 @@
+[
+    {
+        "Player":"Ralf Woods",
+        "Games Played":16,
+        "Field Goals":54,
+        "Free Throws":70,
+        "Points":178
+    },
+    {
+        "Player":"Clyde Alwood",
+        "Games Played":15,
+        "Field Goals":57,
+        "Free Throws":0,
+        "Points":114
+    },
+    {
+        "Player":"Ernest McKay",
+        "Games Played":15,
+        "Field Goals":39,
+        "Free Throws":3,
+        "Points":81
+    },
+    {
+        "Player":"Ray Woods",
+        "Games Played":16,
+        "Field Goals":19,
+        "Free Throws":0,
+        "Points":38
+    },
+    {
+        "Player":"John Felmley",
+        "Games Played":6,
+        "Field Goals":7,
+        "Free Throws":4,
+        "Points":18
+    },
+    {
+        "Player":"George Halas",
+        "Games Played":11,
+        "Field Goals":5,
+        "Free Throws":0,
+        "Points":10
+    },
+    {
+        "Player":"R.C. Haas",
+        "Games Played":3,
+        "Field Goals":1,
+        "Free Throws":0,
+        "Points":2
+    },
+    {
+        "Player":"Gordon Otto",
+        "Games Played":4,
+        "Field Goals":1,
+        "Free Throws":0,
+        "Points":"@@@_50"
+    }
+]

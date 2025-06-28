@@ -1,0 +1,112 @@
+[
+    {
+        "-":"First downs",
+        "Miami Dolphins":12,
+        "Washington Redskins":16
+    },
+    {
+        "-":"First downs rushing",
+        "Miami Dolphins":7,
+        "Washington Redskins":9
+    },
+    {
+        "-":"First downs passing",
+        "Miami Dolphins":5,
+        "Washington Redskins":7
+    },
+    {
+        "-":"First downs penalty",
+        "Miami Dolphins":0,
+        "Washington Redskins":0
+    },
+    {
+        "-":"Third down efficiency",
+        "Miami Dolphins":"3/11",
+        "Washington Redskins":"@@@_3-13"
+    },
+    {
+        "-":"Fourth down efficiency",
+        "Miami Dolphins":"0/0",
+        "Washington Redskins":"0/1"
+    },
+    {
+        "-":"Net yards rushing",
+        "Miami Dolphins":184,
+        "Washington Redskins":141
+    },
+    {
+        "-":"Rushing attempts",
+        "Miami Dolphins":37,
+        "Washington Redskins":"@@@_thirty-six"
+    },
+    {
+        "-":"Yards per rush",
+        "Miami Dolphins":5.0,
+        "Washington Redskins":3.9
+    },
+    {
+        "-":"Passing – Completions/attempts",
+        "Miami Dolphins":"@@@_8-11",
+        "Washington Redskins":"14/28"
+    },
+    {
+        "-":"Times sacked-total yards",
+        "Miami Dolphins":"2–19",
+        "Washington Redskins":"@@@_2-17"
+    },
+    {
+        "-":"Interceptions thrown",
+        "Miami Dolphins":1,
+        "Washington Redskins":3
+    },
+    {
+        "-":"Net yards passing",
+        "Miami Dolphins":69,
+        "Washington Redskins":87
+    },
+    {
+        "-":"Total net yards",
+        "Miami Dolphins":253,
+        "Washington Redskins":228
+    },
+    {
+        "-":"Punt returns-total yards",
+        "Miami Dolphins":"@@@_2-4",
+        "Washington Redskins":"@@@_None"
+    },
+    {
+        "-":"Kickoff returns-total yards",
+        "Miami Dolphins":"@@@_2/33",
+        "Washington Redskins":"@@@_3/45"
+    },
+    {
+        "-":"Interceptions-total return yards",
+        "Miami Dolphins":"@@@_3/95",
+        "Washington Redskins":"@@@_1-0"
+    },
+    {
+        "-":"Punts-average yardage",
+        "Miami Dolphins":"@@@_7/43.0",
+        "Washington Redskins":"@@@_5/31.2"
+    },
+    {
+        "-":"Fumbles-lost",
+        "Miami Dolphins":"@@@_2-1",
+        "Washington Redskins":"@@@_1-0"
+    },
+    {
+        "-":"Penalties-total yards",
+        "Miami Dolphins":"@@@_3/35",
+        "Washington Redskins":"@@@_3-25"
+    },
+    {
+        "-":"Time of possession",
+        "Miami Dolphins":"27:29",
+        "Washington Redskins":"32:31"
+    },
+    {
+        "-":"Turnovers",
+        "Miami Dolphins":2,
+        "Washington Redskins":3
+    }
+]

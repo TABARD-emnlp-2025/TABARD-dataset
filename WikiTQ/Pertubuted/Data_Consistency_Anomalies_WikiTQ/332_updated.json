@@ -1,0 +1,58 @@
+[
+    {
+        "Administrative\narea":"Saint Helena",
+        "Area\nkm2":122.0,
+        "Area\nsq mi":47,
+        "Population":"5,809",
+        "Administrative\ncentre":"Jamestown"
+    },
+    {
+        "Administrative\narea":"Ascension Island",
+        "Area\nkm2":91.0,
+        "Area\nsq mi":35,
+        "Population":"1,532",
+        "Administrative\ncentre":"Georgetown"
+    },
+    {
+        "Administrative\narea":"Tristan da Cunha",
+        "Area\nkm2":184.0,
+        "Area\nsq mi":71,
+        "Population":"388",
+        "Administrative\ncentre":"Edinburgh of the Seven Seas"
+    },
+    {
+        "Administrative\narea":"Tristan da Cunha",
+        "Area\nkm2":"@@@_184.0",
+        "Area\nsq mi":"@@@_71",
+        "Population":"382",
+        "Administrative\ncentre":"Edinburgh of the Seven Seas"
+    },
+    {
+        "Administrative\narea":"Inaccessible Island",
+        "Area\nkm2":"@@@_14",
+        "Area\nsq mi":5,
+        "Population":"0",
+        "Administrative\ncentre":"@@@_Denstone Hut"
+    },
+    {
+        "Administrative\narea":"Nightingale Island",
+        "Area\nkm2":3.2,
+        "Area\nsq mi":1,
+        "Population":"0",
+        "Administrative\ncentre":"West Landing"
+    },
+    {
+        "Administrative\narea":"Gough Island",
+        "Area\nkm2":68.0,
+        "Area\nsq mi":26,
+        "Population":"@@@_",
+        "Administrative\ncentre":"Transvaal Bay"
+    },
+    {
+        "Administrative\narea":"Total",
+        "Area\nkm2":397.0,
+        "Area\nsq mi":153,
+        "Population":"7,729",
+        "Administrative\ncentre":"Jamestown"
+    }
+]

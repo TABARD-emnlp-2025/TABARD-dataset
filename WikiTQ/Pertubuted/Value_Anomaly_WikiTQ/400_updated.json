@@ -1,0 +1,506 @@
+[
+  {
+    "District": 1,
+    "Senator": "Kenneth P. LaValle",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1976",
+    "Counties Represented": "Suffolk"
+  },
+  {
+    "District": 2,
+    "Senator": "John J. Flanagan",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2002",
+    "Counties Represented": "Suffolk"
+  },
+  {
+    "District": 3,
+    "Senator": "Lee Zeldin",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2010",
+    "Counties Represented": "Suffolk"
+  },
+  {
+    "District": 4,
+    "Senator": "Philip M. Boyle",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2012",
+    "Counties Represented": "Suffolk"
+  },
+  {
+    "District": 5,
+    "Senator": "Carl L. Marcellino",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1995†",
+    "Counties Represented": "Nassau, Suffolk"
+  },
+  {
+    "District": 6,
+    "Senator": "Kemp Hannon",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1989†",
+    "Counties Represented": "Nassau"
+  },
+  {
+    "District": 7,
+    "Senator": "Jack M. Martins",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2010",
+    "Counties Represented": "Nassau"
+  },
+  {
+    "District": "@@@_493",
+    "Senator": "Vacant",
+    "Party": null,
+    "Caucus": null,
+    "First elected": null,
+    "Counties Represented": "Nassau, Suffolk"
+  },
+  {
+    "District": 9,
+    "Senator": "Dean Skelos",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1984",
+    "Counties Represented": "Nassau"
+  },
+  {
+    "District": 10,
+    "Senator": "James Sanders, Jr.",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2012",
+    "Counties Represented": "Queens"
+  },
+  {
+    "District": 11,
+    "Senator": "Tony Avella",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "@@@_None",
+    "Counties Represented": "Queens"
+  },
+  {
+    "District": 12,
+    "Senator": "Michael N. Gianaris",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2010",
+    "Counties Represented": "Queens"
+  },
+  {
+    "District": 13,
+    "Senator": "Jose Peralta",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2010†",
+    "Counties Represented": "Queens"
+  },
+  {
+    "District": 14,
+    "Senator": "Malcolm Smith",
+    "Party": "Democratic",
+    "Caucus": "No caucus",
+    "First elected": "2000†",
+    "Counties Represented": "Queens"
+  },
+  {
+    "District": 15,
+    "Senator": "Joseph Addabbo, Jr.",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2008",
+    "Counties Represented": "Queens"
+  },
+  {
+    "District": 16,
+    "Senator": "Toby Ann Stavisky",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "1999†",
+    "Counties Represented": "Queens"
+  },
+  {
+    "District": 17,
+    "Senator": "Simcha Felder",
+    "Party": "Democratic",
+    "Caucus": "Republican",
+    "First elected": "2012",
+    "Counties Represented": "Brooklyn"
+  },
+  {
+    "District": 18,
+    "Senator": "Martin Malave Dilan",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2002",
+    "Counties Represented": "Brooklyn"
+  },
+  {
+    "District": 19,
+    "Senator": "John L. Sampson",
+    "Party": "Democratic",
+    "Caucus": "No caucus",
+    "First elected": "1996",
+    "Counties Represented": "Brooklyn"
+  },
+  {
+    "District": 20,
+    "Senator": "Vacant",
+    "Party": null,
+    "Caucus": null,
+    "First elected": null,
+    "Counties Represented": "Brooklyn"
+  },
+  {
+    "District": "@@@_325",
+    "Senator": "Kevin S. Parker",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2002",
+    "Counties Represented": "Brooklyn"
+  },
+  {
+    "District": 22,
+    "Senator": "Martin J. Golden",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2002",
+    "Counties Represented": "Brooklyn"
+  },
+  {
+    "District": 23,
+    "Senator": "Diane Savino",
+    "Party": "Democratic",
+    "Caucus": "@@@_None",
+    "First elected": "2004",
+    "Counties Represented": "Brooklyn, Staten Island"
+  },
+  {
+    "District": 24,
+    "Senator": "Andrew J. Lanza",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2006",
+    "Counties Represented": "Staten Island"
+  },
+  {
+    "District": 25,
+    "Senator": "Velmanette Montgomery",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "1984",
+    "Counties Represented": "Brooklyn"
+  },
+  {
+    "District": 26,
+    "Senator": "Daniel Squadron",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2008",
+    "Counties Represented": "Brooklyn, Manhattan"
+  },
+  {
+    "District": 27,
+    "Senator": "Brad Hoylman",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2012",
+    "Counties Represented": "Manhattan"
+  },
+  {
+    "District": 28,
+    "Senator": "Liz Krueger",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2002",
+    "Counties Represented": "Manhattan"
+  },
+  {
+    "District": 29,
+    "Senator": "Jose M. Serrano",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2004",
+    "Counties Represented": "Manhattan, The Bronx"
+  },
+  {
+    "District": 30,
+    "Senator": "Bill Perkins",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2006",
+    "Counties Represented": "Manhattan"
+  },
+  {
+    "District": 31,
+    "Senator": "Adriano Espaillat",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2010",
+    "Counties Represented": "Manhattan"
+  },
+  {
+    "District": 32,
+    "Senator": "Rubén Díaz, Sr.",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2002",
+    "Counties Represented": "The Bronx"
+  },
+  {
+    "District": 33,
+    "Senator": "Gustavo Rivera",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2010",
+    "Counties Represented": "The Bronx"
+  },
+  {
+    "District": 34,
+    "Senator": "Jeffrey D. Klein",
+    "Party": "Democratic",
+    "Caucus": "IDC",
+    "First elected": "2004",
+    "Counties Represented": "The Bronx, Westchester"
+  },
+  {
+    "District": 35,
+    "Senator": "Andrea Stewart-Cousins",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2006",
+    "Counties Represented": "Westchester"
+  },
+  {
+    "District": 36,
+    "Senator": "Ruth Hassell-Thompson",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2000",
+    "Counties Represented": "The Bronx, Westchester"
+  },
+  {
+    "District": "@@@_-32",
+    "Senator": "George S. Latimer",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2012",
+    "Counties Represented": "Westchester"
+  },
+  {
+    "District": 38,
+    "Senator": "David Carlucci",
+    "Party": "Democratic",
+    "Caucus": "IDC",
+    "First elected": "2010",
+    "Counties Represented": "Rockland, Westchester"
+  },
+  {
+    "District": 39,
+    "Senator": "Bill Larkin",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1990",
+    "Counties Represented": "Orange, Rockland, Ulster"
+  },
+  {
+    "District": 40,
+    "Senator": "Gregory R. Ball",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2010",
+    "Counties Represented": "Dutchess, Putnam, Westchester"
+  },
+  {
+    "District": 41,
+    "Senator": "Terry W. Gipson",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2012",
+    "Counties Represented": "Dutchess, Putnam"
+  },
+  {
+    "District": 42,
+    "Senator": "John Bonacic",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1998",
+    "Counties Represented": "Delaware, Orange, Sullivan, Ulster"
+  },
+  {
+    "District": 43,
+    "Senator": "Kathleen A. Marchione",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2012",
+    "Counties Represented": "Columbia, Rensselaer, Saratoga, Washington"
+  },
+  {
+    "District": 44,
+    "Senator": "Neil Breslin",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "1996",
+    "Counties Represented": "Albany, Rensselaer"
+  },
+  {
+    "District": 45,
+    "Senator": "Betty Little",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2002",
+    "Counties Represented": "Clinton, Essex, Franklin, Saint Lawrence, Warren, Washington"
+  },
+  {
+    "District": 46,
+    "Senator": "Cecilia Tkaczyk",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2012",
+    "Counties Represented": "Albany, Greene, Montgomery, Schenectady, Ulster"
+  },
+  {
+    "District": 47,
+    "Senator": "Joseph Griffo",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2006",
+    "Counties Represented": "Lewis, Oneida, Saint Lawrence"
+  },
+  {
+    "District": 48,
+    "Senator": "Patty Ritchie",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2010",
+    "Counties Represented": "Jefferson, Oswego, Saint Lawrence"
+  },
+  {
+    "District": 49,
+    "Senator": "Hugh Farley",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1976",
+    "Counties Represented": "Fulton, Hamilton, Herkimer, Saratoga, Schenectady"
+  },
+  {
+    "District": 50,
+    "Senator": "John DeFrancisco",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1992",
+    "Counties Represented": "Cayuga, Onondaga"
+  },
+  {
+    "District": 51,
+    "Senator": "James Seward",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1986",
+    "Counties Represented": "Cayuga, Chenango, Cortland, Delaware, Herkimer, Otsego, Schoharie, Tompkins, Ulster"
+  },
+  {
+    "District": 52,
+    "Senator": "Thomas W. Libous",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1988",
+    "Counties Represented": "Broome, Chenango, Delaware, Tioga"
+  },
+  {
+    "District": 53,
+    "Senator": "David Valesky",
+    "Party": "Democratic",
+    "Caucus": "IDC",
+    "First elected": "2004",
+    "Counties Represented": "Madison, Oneida, Onondaga"
+  },
+  {
+    "District": 54,
+    "Senator": "Michael Nozzolio",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1992",
+    "Counties Represented": "Cayuga, Monroe, Ontario, Seneca, Tompkins, Wayne"
+  },
+  {
+    "District": 55,
+    "Senator": "Ted O'Brien",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2012",
+    "Counties Represented": "Monroe, Ontario"
+  },
+  {
+    "District": 56,
+    "Senator": "Joseph Robach",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2002",
+    "Counties Represented": "Monroe"
+  },
+  {
+    "District": 57,
+    "Senator": "Catharine Young",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2005†",
+    "Counties Represented": "Allegany, Cattaraugus, Chautauqua, Livingston"
+  },
+  {
+    "District": 58,
+    "Senator": "Tom O'Mara",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2010",
+    "Counties Represented": "Chemung, Schuyler, Steuben, Tompkins, Yates"
+  },
+  {
+    "District": 59,
+    "Senator": "Patrick Gallivan",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2010",
+    "Counties Represented": "Erie, Livingston, Monroe, Wyoming"
+  },
+  {
+    "District": 60,
+    "Senator": "Mark Grisanti",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2010",
+    "Counties Represented": "Erie"
+  },
+  {
+    "District": 61,
+    "Senator": "Michael H. Ranzenhofer",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "2008",
+    "Counties Represented": "Erie, Genesee, Monroe"
+  },
+  {
+    "District": 62,
+    "Senator": "George D. Maziarz",
+    "Party": "Republican",
+    "Caucus": "Republican",
+    "First elected": "1995†",
+    "Counties Represented": "Monroe, Niagara, Orleans"
+  },
+  {
+    "District": 63,
+    "Senator": "Timothy M. Kennedy",
+    "Party": "Democratic",
+    "Caucus": "Democratic",
+    "First elected": "2010",
+    "Counties Represented": "Erie"
+  }
+]

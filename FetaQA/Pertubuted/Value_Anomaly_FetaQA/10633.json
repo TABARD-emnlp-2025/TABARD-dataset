@@ -1,0 +1,32 @@
+[
+    {
+        "Candidate":"Paula Fletcher",
+        "Votes":"7,936",
+        "%":60.2
+    },
+    {
+        "Candidate":"Suzanne McCormick",
+        "Votes":"3,470",
+        "%":-231.5282114918
+    },
+    {
+        "Candidate":"Edward Chin",
+        "Votes":937,
+        "%":7.1
+    },
+    {
+        "Candidate":"Michael Zubiak",
+        "Votes":522,
+        "%":1057.6746324931
+    },
+    {
+        "Candidate":"Patrick Kraemer",
+        "Votes":220,
+        "%":1.7
+    },
+    {
+        "Candidate":"Daniel Nicastro",
+        "Votes":null,
+        "%":-67.2389272916
+    }
+]

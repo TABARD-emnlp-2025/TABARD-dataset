@@ -1,0 +1,51 @@
+[
+    {
+        "Year":1996,
+        "Competition":"World Junior Championships",
+        "Venue":"Sydney, Australia",
+        "Position":"15th (q)",
+        "Notes":"7.43 m"
+    },
+    {
+        "Year":1996,
+        "Competition":"Asian Junior Championships",
+        "Venue":"New Delhi, India",
+        "Position":"1st",
+        "Notes":"7.68 m"
+    },
+    {
+        "Year":1999,
+        "Competition":"World Championships",
+        "Venue":"Seville, Spain",
+        "Position":"6th",
+        "Notes":"8.01 m"
+    },
+    {
+        "Year":2001,
+        "Competition":"East Asian Games",
+        "Venue":"Osaka, Japan",
+        "Position":"3rd",
+        "Notes":"7.77 m"
+    },
+    {
+        "Year":2002,
+        "Competition":"Asian Championships",
+        "Venue":"Colombo, Sri Lanka",
+        "Position":"3rd",
+        "Notes":"@@@_8.95 m (w)"
+    },
+    {
+        "Year":2002,
+        "Competition":"Asian Games",
+        "Venue":"Busan, South Korea",
+        "Position":"@@@_1st",
+        "Notes":"7.75 m"
+    },
+    {
+        "Year":2003,
+        "Competition":"Universiade",
+        "Venue":"Daegu, South Korea",
+        "Position":"7th",
+        "Notes":"@@@_9.58 m"
+    }
+]

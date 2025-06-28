@@ -1,0 +1,102 @@
+[
+    {
+        "Round":1,
+        "Circuit":"Albert Whitted Airport",
+        "Location":"St. Petersburg, Florida",
+        "Date":"February 23",
+        "Pole position":"Leonardo Maia",
+        "Fastest lap":"Dan Di Leo",
+        "Winning driver":"Leonardo Maia",
+        "Headline event":"Grand Prix of St. Petersburg"
+    },
+    {
+        "Round":2,
+        "Circuit":"Fundidora park",
+        "Location":"Monterrey",
+        "Date":"March 23",
+        "Pole position":"Leonardo Maia",
+        "Fastest lap":"David Mart\u00ednez",
+        "Winning driver":"David Mart\u00ednez",
+        "Headline event":"Monterrey Grand Prix"
+    },
+    {
+        "Round":3,
+        "Circuit":"Milwaukee Mile",
+        "Location":"West Allis, Wisconsin",
+        "Date":"June 1",
+        "Pole position":"Victor Gonzalez, Jr.",
+        "Fastest lap":"@@@_Leonardo Maia",
+        "Winning driver":"Leonardo Maia",
+        "Headline event":"Milwaukee Mile Centennial 250"
+    },
+    {
+        "Round":4,
+        "Circuit":"Mazda Raceway Laguna Seca",
+        "Location":"Monterey, California",
+        "Date":"June 15",
+        "Pole position":"Memo Rojas",
+        "Fastest lap":"Leonardo Maia",
+        "Winning driver":"Dan Di Leo",
+        "Headline event":"Grand Prix of Monterey"
+    },
+    {
+        "Round":5,
+        "Circuit":"Portland International Raceway",
+        "Location":"Portland, Oregon",
+        "Date":"June 22",
+        "Pole position":"Leonardo Maia",
+        "Fastest lap":"Leonardo Maia",
+        "Winning driver":"@@@_Dan Di Leo",
+        "Headline event":"G.I. Joe's 200"
+    },
+    {
+        "Round":6,
+        "Circuit":"Burke Lakefront Airport",
+        "Location":"Cleveland, Ohio",
+        "Date":"July 5",
+        "Pole position":"Leonardo Maia",
+        "Fastest lap":"Leonardo Maia",
+        "Winning driver":"Leonardo Maia",
+        "Headline event":"U.S. Bank Cleveland Grand Prix"
+    },
+    {
+        "Round":7,
+        "Circuit":"Exhibition Place",
+        "Location":"Toronto",
+        "Date":"July 13",
+        "Pole position":"@@@_David Mart\u00ednez",
+        "Fastest lap":"Leonardo Maia",
+        "Winning driver":"Memo Rojas",
+        "Headline event":"Molson Indy Toronto"
+    },
+    {
+        "Round":8,
+        "Circuit":"Concord Pacific Place",
+        "Location":"Vancouver",
+        "Date":"July 27",
+        "Pole position":"Leonardo Maia",
+        "Fastest lap":"David Mart\u00ednez",
+        "Winning driver":"@@@_David Mart\u00ednez",
+        "Headline event":"Molson Indy Vancouver"
+    },
+    {
+        "Round":9,
+        "Circuit":"Mid-Ohio Sports Car Course",
+        "Location":"Lexington, Ohio",
+        "Date":"August 3",
+        "Pole position":"Leonardo Maia",
+        "Fastest lap":"@@@_Memo Rojas",
+        "Winning driver":"Leonardo Maia",
+        "Headline event":"Champ Car Grand Prix of Mid-Ohio"
+    },
+    {
+        "Round":10,
+        "Circuit":"Circuit Gilles Villeneuve",
+        "Location":"Montreal",
+        "Date":"August 24",
+        "Pole position":"Memo Rojas",
+        "Fastest lap":"Leonardo Maia",
+        "Winning driver":"@@@_Leonardo Maia",
+        "Headline event":"Molson Indy Montreal"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "col1":1,
+        "col2":"September 9, 2001",
+        "col3":"Miami Dolphins",
+        "col4":798
+    },
+    {
+        "col1":2,
+        "col2":"September 23, 2001",
+        "col3":"at Jacksonville Jaguars",
+        "col4":994
+    },
+    {
+        "col1":4,
+        "col2":"October 7, 2001",
+        "col3":"at Baltimore Ravens",
+        "col4":7494
+    },
+    {
+        "col1":5,
+        "col2":"October 14, 2001",
+        "col3":"Tampa Bay Buccaneers",
+        "col4":4798
+    },
+    {
+        "col1":6,
+        "col2":"October 21, 2001",
+        "col3":"at Detroit Lions",
+        "col4":"@@@_12740"
+    },
+    {
+        "col1":7,
+        "col2":"October 29, 2001",
+        "col3":"at Pittsburgh Steelers",
+        "col4":1763
+    },
+    {
+        "col1":8,
+        "col2":"November 4, 2001",
+        "col3":"Jacksonville Jaguars",
+        "col4":"@@@_-1232"
+    },
+    {
+        "col1":9,
+        "col2":"November 12, 2001",
+        "col3":"Baltimore Ravens",
+        "col4":6532
+    },
+    {
+        "col1":10,
+        "col2":"November 18, 2001",
+        "col3":"at Cincinnati Bengals",
+        "col4":3421
+    },
+    {
+        "col1":11,
+        "col2":"November 25, 2001",
+        "col3":"Pittsburgh Steelers",
+        "col4":3342
+    },
+    {
+        "col1":12,
+        "col2":"December 2, 2001",
+        "col3":"at Cleveland Browns",
+        "col4":3534
+    },
+    {
+        "col1":13,
+        "col2":"December 9, 2001",
+        "col3":"at Minnesota Vikings",
+        "col4":4271
+    },
+    {
+        "col1":14,
+        "col2":"December 16, 2001",
+        "col3":"Green Bay Packers",
+        "col4":2804
+    },
+    {
+        "col1":15,
+        "col2":"December 22, 2001",
+        "col3":"at Oakland Raiders",
+        "col4":1934
+    },
+    {
+        "col1":16,
+        "col2":"December 30, 2001",
+        "col3":"Cleveland Browns",
+        "col4":"@@@_379"
+    },
+    {
+        "col1":17,
+        "col2":"January 6, 2002",
+        "col3":"Cincinnati Bengals",
+        "col4":5342
+    }
+]

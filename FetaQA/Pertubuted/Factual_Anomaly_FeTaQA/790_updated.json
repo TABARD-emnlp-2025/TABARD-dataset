@@ -1,0 +1,38 @@
+[
+    {
+        "Year":2004,
+        "Title":"A Man of God",
+        "Role":"Sarah",
+        "Notes":"Stage debut"
+    },
+    {
+        "Year":2014,
+        "Title":"Do You Trust Your Best Friend",
+        "Role":"Olivia",
+        "Notes":"Originally scheduled to play April"
+    },
+    {
+        "Year":2016,
+        "Title":"For All My Girls",
+        "Role":"Candice",
+        "Notes":"Musical"
+    },
+    {
+        "Year":2018,
+        "Title":"The Infinite Universe",
+        "Role":"Astronaut",
+        "Notes":"Set in the Victorian era"
+    },
+    {
+        "Year":2015,
+        "Title":"The Last Dance",
+        "Role":"Dancer",
+        "Notes":"Performed on the moon"
+    },
+    {
+        "Year":2012,
+        "Title":"The Lost Treasure",
+        "Role":"Explorer",
+        "Notes":"Features a smartphone in 1800s setting"
+    }
+]

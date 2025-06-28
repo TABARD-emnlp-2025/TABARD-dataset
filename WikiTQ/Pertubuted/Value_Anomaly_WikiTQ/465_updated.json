@@ -1,0 +1,312 @@
+[
+  {
+    "#": 1,
+    "Temple name": "Onjo",
+    "Hangul": "온조왕",
+    "Hanja": "@@@_None",
+    "Period of reign": "18 BCE – 28 CE",
+    "Personal name": null,
+    "Relationship": "founder",
+    "Note": "son of Dongmyeongseong of Goguryeo"
+  },
+  {
+    "#": 2,
+    "Temple name": "Daru",
+    "Hangul": "다루왕",
+    "Hanja": "多婁王",
+    "Period of reign": "28–77",
+    "Personal name": null,
+    "Relationship": "first son of Onjo",
+    "Note": null
+  },
+  {
+    "#": 3,
+    "Temple name": "Giru",
+    "Hangul": "기루왕",
+    "Hanja": "己婁王",
+    "Period of reign": "77–128",
+    "Personal name": null,
+    "Relationship": "first son of Daru",
+    "Note": null
+  },
+  {
+    "#": 4,
+    "Temple name": "Gaeru",
+    "Hangul": "개루왕",
+    "Hanja": "蓋婁王",
+    "Period of reign": "128–166",
+    "Personal name": null,
+    "Relationship": "son of Giru",
+    "Note": null
+  },
+  {
+    "#": 5,
+    "Temple name": "Chogo",
+    "Hangul": "초고왕",
+    "Hanja": "肖古王",
+    "Period of reign": "166–214",
+    "Personal name": null,
+    "Relationship": "son of Gaeru",
+    "Note": "also Sogo (소고왕, 素古王)"
+  },
+  {
+    "#": 6,
+    "Temple name": "Gusu",
+    "Hangul": "구수왕",
+    "Hanja": "仇首王",
+    "Period of reign": "214–234",
+    "Personal name": null,
+    "Relationship": "first son of Chogo",
+    "Note": "also Guisu (귀수왕, 貴須王)"
+  },
+  {
+    "#": 7,
+    "Temple name": "Saban",
+    "Hangul": "사반왕",
+    "Hanja": "沙泮王",
+    "Period of reign": "234",
+    "Personal name": null,
+    "Relationship": "first son of Gusu",
+    "Note": "also Sai (사이왕, 沙伊王)"
+  },
+  {
+    "#": 8,
+    "Temple name": "Goi",
+    "Hangul": "고이왕",
+    "Hanja": "古爾王",
+    "Period of reign": "234–286",
+    "Personal name": null,
+    "Relationship": "second son of Gaeru",
+    "Note": "also Gui (구이군, 久爾君)"
+  },
+  {
+    "#": 9,
+    "Temple name": "Chaekgye",
+    "Hangul": "책계왕",
+    "Hanja": "責稽王",
+    "Period of reign": "286–298",
+    "Personal name": null,
+    "Relationship": "son of Goi",
+    "Note": "also Cheonggye (청계왕, 靑稽王)"
+  },
+  {
+    "#": 10,
+    "Temple name": "Bunseo",
+    "Hangul": "분서왕",
+    "Hanja": "汾西王",
+    "Period of reign": "298–304",
+    "Personal name": null,
+    "Relationship": "first son of Chaekgye",
+    "Note": null
+  },
+  {
+    "#": 11,
+    "Temple name": "Biryu",
+    "Hangul": "비류왕",
+    "Hanja": "比流王",
+    "Period of reign": "304–344",
+    "Personal name": null,
+    "Relationship": "second son of Gusu",
+    "Note": null
+  },
+  {
+    "#": 12,
+    "Temple name": "Gye",
+    "Hangul": "계왕",
+    "Hanja": "契王",
+    "Period of reign": "344–346",
+    "Personal name": null,
+    "Relationship": "first son of Bunseo",
+    "Note": null
+  },
+  {
+    "#": 13,
+    "Temple name": "Geunchogo",
+    "Hangul": "근초고왕",
+    "Hanja": "近肖古王",
+    "Period of reign": "346–375",
+    "Personal name": "Yeogu",
+    "Relationship": "second son of Biryu",
+    "Note": "also Chogo (초고왕, 肖古王) or Sokgo (속고왕, 速古王)"
+  },
+  {
+    "#": 14,
+    "Temple name": "Geun-gusu",
+    "Hangul": "근구수왕",
+    "Hanja": "近仇首王",
+    "Period of reign": "375–384",
+    "Personal name": null,
+    "Relationship": "son of Geunchogo",
+    "Note": "also Guisu (귀수왕, 貴首王)"
+  },
+  {
+    "#": 15,
+    "Temple name": "Chimnyu",
+    "Hangul": "침류왕",
+    "Hanja": "枕流王",
+    "Period of reign": "384–385",
+    "Personal name": null,
+    "Relationship": "first son of Geungusu",
+    "Note": null
+  },
+  {
+    "#": 16,
+    "Temple name": "Jinsa",
+    "Hangul": "진사왕",
+    "Hanja": "辰斯王",
+    "Period of reign": "385–392",
+    "Personal name": null,
+    "Relationship": "younger brother of Chimnyu",
+    "Note": "also Buyeohui (부여휘, 扶餘暉)"
+  },
+  {
+    "#": 17,
+    "Temple name": "Asin",
+    "Hangul": "아신왕",
+    "Hanja": "阿莘王",
+    "Period of reign": "392–405",
+    "Personal name": null,
+    "Relationship": "nephew of Jinsa; first son of Chimnyu",
+    "Note": "also Aha (아화왕, 阿華王)"
+  },
+  {
+    "#": 18,
+    "Temple name": "Jeonji",
+    "Hangul": "전지왕",
+    "Hanja": "腆支王",
+    "Period of reign": "405–420",
+    "Personal name": null,
+    "Relationship": "first son of Asin",
+    "Note": "also Jikji (직지왕, 直支王) or Jinji (진지왕, 眞支王)"
+  },
+  {
+    "#": 19,
+    "Temple name": "Gu-isin",
+    "Hangul": "구이신왕",
+    "Hanja": "久爾辛王",
+    "Period of reign": "420–427",
+    "Personal name": null,
+    "Relationship": "first son of Jeonji",
+    "Note": null
+  },
+  {
+    "#": "@@@_-19",
+    "Temple name": "Biyu",
+    "Hangul": "비유왕",
+    "Hanja": "毗有王",
+    "Period of reign": "427–455",
+    "Personal name": null,
+    "Relationship": "first son of Guisin",
+    "Note": "also Yeobi (여비, 餘毗)"
+  },
+  {
+    "#": 21,
+    "Temple name": "Gaero",
+    "Hangul": "개로왕",
+    "Hanja": "蓋鹵王",
+    "Period of reign": "455–475",
+    "Personal name": "Gyeongsa (경사, 慶司) or Gyeong (경, 慶)",
+    "Relationship": "first son of Biyu",
+    "Note": "also Yeogyeong (여경, 餘慶)"
+  },
+  {
+    "#": "@@@_181",
+    "Temple name": "Munju",
+    "Hangul": "문주왕",
+    "Hanja": "文周王",
+    "Period of reign": "475–477",
+    "Personal name": "Modo (모도, 牟都) or Do (도, 都)",
+    "Relationship": "son of Gaero",
+    "Note": null
+  },
+  {
+    "#": 23,
+    "Temple name": "Samgeun",
+    "Hangul": "삼근왕",
+    "Hanja": "三斤王",
+    "Period of reign": "477–479",
+    "Personal name": "Samgeun (삼근, 三斤), Imgeol (임걸, 壬乞) or Samgeol (삼걸, 三乞)",
+    "Relationship": "first son of Munju",
+    "Note": "also Mun-geun (문근왕, 文斤王)"
+  },
+  {
+    "#": 24,
+    "Temple name": "Dongseong",
+    "Hangul": "동성왕",
+    "Hanja": "東城王",
+    "Period of reign": "479–501",
+    "Personal name": "Modae (모대, 牟大) or Mamo (마모, 摩牟)",
+    "Relationship": "cousin of Samgeum",
+    "Note": null
+  },
+  {
+    "#": 25,
+    "Temple name": "Muryeong",
+    "Hangul": "무령왕",
+    "Hanja": "武寧王",
+    "Period of reign": "501–523",
+    "Personal name": "Sama (사마, 斯麻 or 斯摩) or Yung (융, 隆)",
+    "Relationship": "second son of Dongseong",
+    "Note": "also Sama (사마왕, 斯麻王), Do (도왕, 嶋王), or Horyeong (호령왕, 虎寧王)"
+  },
+  {
+    "#": "@@@_194",
+    "Temple name": "Seong",
+    "Hangul": "성왕",
+    "Hanja": "聖王",
+    "Period of reign": "523–554",
+    "Personal name": "Myeong (명, 明)",
+    "Relationship": "son of Muryeong",
+    "Note": "also Myeong (명왕, 明王) or Seongmyeong (성명왕, 聖明王)"
+  },
+  {
+    "#": 27,
+    "Temple name": "Wideok",
+    "Hangul": "위덕왕",
+    "Hanja": "威德王",
+    "Period of reign": "554–598",
+    "Personal name": "Chang (창, 昌)",
+    "Relationship": "first son of Seong",
+    "Note": "also Chang (창왕, 昌王)"
+  },
+  {
+    "#": 28,
+    "Temple name": "Hye",
+    "Hangul": "혜왕",
+    "Hanja": "惠王",
+    "Period of reign": "598–599",
+    "Personal name": "Gye (계, 季)",
+    "Relationship": "younger brother of Wideok",
+    "Note": "also Heon (헌왕, 獻王)"
+  },
+  {
+    "#": 29,
+    "Temple name": "Beop",
+    "Hangul": "법왕",
+    "Hanja": "法王",
+    "Period of reign": "599–600",
+    "Personal name": "Seon (선, 宣) or Hyosun (효순, 孝順)",
+    "Relationship": "first son of Hye",
+    "Note": null
+  },
+  {
+    "#": "@@@_-16",
+    "Temple name": "Mu",
+    "Hangul": "무왕",
+    "Hanja": "武王",
+    "Period of reign": "600–641",
+    "Personal name": "personal name Jang (장, 璋) or Seodong (서동, 薯童)",
+    "Relationship": "youngest son of Wideok",
+    "Note": "also Mugang (무강왕, 武康王) or Mugwang (무광왕,武廣王)"
+  },
+  {
+    "#": 31,
+    "Temple name": "Uija",
+    "Hangul": "의자왕",
+    "Hanja": "義慈王",
+    "Period of reign": "641–660",
+    "Personal name": null,
+    "Relationship": "first son of Mu",
+    "Note": null
+  }
+]

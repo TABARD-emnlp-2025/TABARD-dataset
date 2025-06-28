@@ -1,0 +1,44 @@
+[
+    {
+        "Call sign":"W250CF",
+        "Frequency (MHz)":"97.9 FM",
+        "City of license":"Arecibo, Puerto Rico",
+        "ERP W":"2300.0",
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W256DX",
+        "Frequency (MHz)":"99.1 FM",
+        "City of license":"Aguadilla, Puerto Rico",
+        "ERP W":0.041,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W250CF",
+        "Frequency (MHz)":"97.9 FM",
+        "City of license":"Arecibo, Puerto Rico",
+        "ERP W":0.23,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W256DX",
+        "Frequency (MHz)":"99.1 FM",
+        "City of license":"Aguadilla, Puerto Rico",
+        "ERP W":0.041,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W250CF",
+        "Frequency (MHz)":"97.9 FM",
+        "City of license":"Arecibo, Puerto Rico",
+        "ERP W":0.23,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W256DX",
+        "Frequency (MHz)":"99.1 FM",
+        "City of license":"Aguadilla, Puerto Rico",
+        "ERP W":0.041,
+        "FCC info":"FCC"
+    }
+]

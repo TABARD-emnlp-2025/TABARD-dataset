@@ -1,0 +1,110 @@
+[
+    {
+        "Date":"15 Nov 2006",
+        "Venue":"Lansdowne Road, Dublin",
+        "Opponent":"San Marino",
+        "Score":"2–0",
+        "Result":"5–0",
+        "Competition":"Euro 2008 qualifying",
+        "#":1
+    },
+    {
+        "Date":"28 Mar 2007",
+        "Venue":"Croke Park, Dublin",
+        "Opponent":"Slovakia",
+        "Score":"1–0",
+        "Result":"1–0",
+        "Competition":"Euro 2008 qualifying",
+        "#":2
+    },
+    {
+        "Date":"23 May 2007",
+        "Venue":"Giants Stadium, New York",
+        "Opponent":"Ecuador",
+        "Score":"1–1",
+        "Result":"1–1",
+        "Competition":"Friendly",
+        "#":3
+    },
+    {
+        "Date":"9 Sep 2007",
+        "Venue":"Tehelné Pole, Bratislava",
+        "Opponent":"Slovakia",
+        "Score":"1–2",
+        "Result":"2–2",
+        "Competition":"Euro 2008 qualifying",
+        "#":4
+    },
+    {
+        "Date":"17 Nov 2007",
+        "Venue":"Millennium Stadium, Cardiff",
+        "Opponent":"Wales",
+        "Score":"1–2",
+        "Result":"2–2",
+        "Competition":"Euro 2008 qualifying",
+        "#":5
+    },
+    {
+        "Date":"6 Sep 2008",
+        "Venue":"Stadion am Bruchweg, Mainz",
+        "Opponent":"Georgia",
+        "Score":"0–1",
+        "Result":"1–2",
+        "Competition":"2010 FIFA World Cup qualifying",
+        "#":"None"
+    },
+    {
+        "Date":"5 Sep 2009",
+        "Venue":"Neo GSP Stadium, Nicosia",
+        "Opponent":"Cyprus",
+        "Score":"0–1",
+        "Result":"1–2",
+        "Competition":"2010 FIFA World Cup qualifying",
+        "#":7
+    },
+    {
+        "Date":"25 May 2010",
+        "Venue":"RDS Arena, Dublin",
+        "Opponent":"Paraguay",
+        "Score":"1–0",
+        "Result":"2–1",
+        "Competition":"Friendly",
+        "#":8
+    },
+    {
+        "Date":"7 Sep 2010",
+        "Venue":"Aviva Stadium, Dublin",
+        "Opponent":"Andorra",
+        "Score":"2–0",
+        "Result":"3–1",
+        "Competition":"Euro 2012 qualifying",
+        "#":9
+    },
+    {
+        "Date":"7 Oct 2011",
+        "Venue":"Estadi Comunal, Andorra la Vella",
+        "Opponent":"Andorra",
+        "Score":"1–0",
+        "Result":"2–0",
+        "Competition":"Euro 2012 qualifying",
+        "#":10
+    },
+    {
+        "Date":"7 Sep 2012",
+        "Venue":"Astana Arena, Astana",
+        "Opponent":"Kazakhstan",
+        "Score":"2–1",
+        "Result":"2–1",
+        "Competition":"2014 FIFA World Cup qualifying",
+        "#":11
+    },
+    {
+        "Date":"11 Sep 2012",
+        "Venue":"Craven Cottage, London",
+        "Opponent":"Oman",
+        "Score":"3–0",
+        "Result":"4–1",
+        "Competition":"Friendly",
+        "#":"admin"
+    }
+]

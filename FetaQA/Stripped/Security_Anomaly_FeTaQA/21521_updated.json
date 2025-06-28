@@ -1,0 +1,194 @@
+[
+    {
+        "Year":2003,
+        "Competition":"USA Marathon Championships",
+        "Venue":"Birmingham, Alabama",
+        "Position":"1st",
+        "Event":"marathon",
+        "Notes":"2:14:29"
+    },
+    {
+        "Year":2003,
+        "Competition":"USA 15 km Championships",
+        "Venue":"Jacksonville, Florida",
+        "Position":"8th",
+        "Event":"15 km",
+        "Notes":"45:22"
+    },
+    {
+        "Year":2003,
+        "Competition":"USA 8 km Championships",
+        "Venue":"New York City, New York",
+        "Position":"15th",
+        "Event":"8 km",
+        "Notes":"23:13"
+    },
+    {
+        "Year":2003,
+        "Competition":"USA 25 km Championships",
+        "Venue":"Grand Rapids, Michigan",
+        "Position":"3rd",
+        "Event":"25 km",
+        "Notes":"1:17:44"
+    },
+    {
+        "Year":2003,
+        "Competition":"USA Half Marathon Championships",
+        "Venue":"Kansas City, Missouri",
+        "Position":"1st",
+        "Event":"half marathon",
+        "Notes":"1:04:13"
+    },
+    {
+        "Year":2003,
+        "Competition":"USA 5 km Championships",
+        "Venue":"Providence, Rhode Island",
+        "Position":"3rd",
+        "Event":"5 km",
+        "Notes":"14:06"
+    },
+    {
+        "Year":2004,
+        "Competition":"US Olympic Trials",
+        "Venue":"Birmingham, Alabama",
+        "Position":"22nd",
+        "Event":"marathon",
+        "Notes":"2:19:20"
+    },
+    {
+        "Year":2004,
+        "Competition":"USA 10 mi. Championships",
+        "Venue":"Louisville, Kentucky",
+        "Position":"3rd",
+        "Event":"10 mi.",
+        "Notes":"47:11"
+    },
+    {
+        "Year":2004,
+        "Competition":"USA 25 km Championships",
+        "Venue":"Grand Rapids, Michigan",
+        "Position":"2nd",
+        "Event":"25 km",
+        "Notes":"1:17:12"
+    },
+    {
+        "Year":2004,
+        "Competition":"USA Half Marathon Championships",
+        "Venue":"Kansas City, Missouri",
+        "Position":"1st",
+        "Event":"half marathon",
+        "Notes":"1:05:04"
+    },
+    {
+        "Year":2004,
+        "Competition":"USA 20 km Championships",
+        "Venue":"New Haven, Connecticut",
+        "Position":"1st",
+        "Event":"20 km",
+        "Notes":"59:53"
+    },
+    {
+        "Year":2004,
+        "Competition":"USA 5 km Championships",
+        "Venue":"Providence, Rhode Island",
+        "Position":"2nd",
+        "Event":"5 km",
+        "Notes":"14:02"
+    },
+    {
+        "Year":2005,
+        "Competition":"USA 15 km Championships",
+        "Venue":"Jacksonville, Florida",
+        "Position":"1st",
+        "Event":"15 km",
+        "Notes":"43:52"
+    },
+    {
+        "Year":2005,
+        "Competition":"USA 8 km Championships",
+        "Venue":"New York City, New York",
+        "Position":"4th",
+        "Event":"8 km",
+        "Notes":"23:05"
+    },
+    {
+        "Year":2005,
+        "Competition":"USA 20 km Championships",
+        "Venue":"New Haven, Connecticut",
+        "Position":"2nd",
+        "Event":"20 km",
+        "Notes":"1:00:33"
+    },
+    {
+        "Year":2005,
+        "Competition":"USA 5 km Championships",
+        "Venue":"Providence, Rhode Island",
+        "Position":"3rd",
+        "Event":"5 km",
+        "Notes":"13:59"
+    },
+    {
+        "Year":2006,
+        "Competition":"USA 15 km Championships",
+        "Venue":"Jacksonville, Florida",
+        "Position":"6th",
+        "Event":"15 km",
+        "Notes":"44:42"
+    },
+    {
+        "Year":2006,
+        "Competition":"USA 25 km Championships",
+        "Venue":"Grand Rapids, Michigan",
+        "Position":"\u0000",
+        "Event":"25 km",
+        "Notes":"1:19:13"
+    },
+    {
+        "Year":2006,
+        "Competition":"USA 20 km Championships",
+        "Venue":"New Haven, Connecticut",
+        "Position":"8th",
+        "Event":"20 km",
+        "Notes":"1:00:48"
+    },
+    {
+        "Year":2006,
+        "Competition":"USA 5 km Championships",
+        "Venue":"Providence, Rhode Island",
+        "Position":"3rd",
+        "Event":"5 km",
+        "Notes":"13:58.2"
+    },
+    {
+        "Year":2007,
+        "Competition":"USA Half Marathon Championships",
+        "Venue":"Houston, Texas",
+        "Position":"15th",
+        "Event":"half marathon",
+        "Notes":"1:04:23"
+    },
+    {
+        "Year":2007,
+        "Competition":"USA 15 km Championships",
+        "Venue":"Jacksonville, Florida",
+        "Position":"9th",
+        "Event":"15 km",
+        "Notes":"45:13"
+    },
+    {
+        "Year":2007,
+        "Competition":"USA 25 km Championships",
+        "Venue":"Grand Rapids, Michigan",
+        "Position":"3rd",
+        "Event":"25 km",
+        "Notes":"1:17:22"
+    },
+    {
+        "Year":2007,
+        "Competition":"USA 20 km Championships",
+        "Venue":"New Haven, Connecticut",
+        "Position":"5th",
+        "Event":"20 km",
+        "Notes":"1:01:21"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "#":10,
+        "Event Year":2012,
+        "Season":"Summer",
+        "Flag bearer":"Nino Salukvadze"
+    },
+    {
+        "#":9,
+        "Event Year":2010,
+        "Season":"Winter",
+        "Flag bearer":"Iason Abramashvili"
+    },
+    {
+        "#":8,
+        "Event Year":"@@@_2025",
+        "Season":"Summer",
+        "Flag bearer":"Ramaz Nozadze"
+    },
+    {
+        "#":7,
+        "Event Year":2006,
+        "Season":"Winter",
+        "Flag bearer":"Vakhtang Murvanidze"
+    },
+    {
+        "#":6,
+        "Event Year":2004,
+        "Season":"Summer",
+        "Flag bearer":"Zurab Zviadauri"
+    },
+    {
+        "#":5,
+        "Event Year":"@@@_1900",
+        "Season":"Winter",
+        "Flag bearer":"Sofia Akhmeteli"
+    },
+    {
+        "#":4,
+        "Event Year":2000,
+        "Season":"@@@_Winter",
+        "Flag bearer":"Giorgi Asanidze"
+    },
+    {
+        "#":3,
+        "Event Year":1998,
+        "Season":"Winter",
+        "Flag bearer":"Sofia Akhmeteli"
+    },
+    {
+        "#":2,
+        "Event Year":1996,
+        "Season":"Summer",
+        "Flag bearer":"Giorgi K'andelak'i"
+    },
+    {
+        "#":1,
+        "Event Year":1994,
+        "Season":"@@@_Summer",
+        "Flag bearer":"Zurab Dzhidzhishvili"
+    }
+]

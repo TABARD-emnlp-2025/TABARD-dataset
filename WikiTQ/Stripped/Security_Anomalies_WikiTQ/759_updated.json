@@ -1,0 +1,79 @@
+[
+    {
+        "Year":1991,
+        "Competition":"European Junior Championships",
+        "Venue":"Thessaloniki, Greece",
+        "Position":"10th",
+        "Notes":"4.90 m"
+    },
+    {
+        "Year":1992,
+        "Competition":"World Junior Championships",
+        "Venue":"Seoul, South Korea",
+        "Position":"1st",
+        "Notes":"5.45 m"
+    },
+    {
+        "Year":1996,
+        "Competition":"European Indoor Championships",
+        "Venue":"Stockholm, Sweden",
+        "Position":"14th (q)",
+        "Notes":"5.45 m"
+    },
+    {
+        "Year":1996,
+        "Competition":"Olympic Games",
+        "Venue":"Atlanta, United States",
+        "Position":"23rd (q)",
+        "Notes":"5.40 m"
+    },
+    {
+        "Year":1997,
+        "Competition":"World Championships",
+        "Venue":"Athens, Greece",
+        "Position":"27th (q)",
+        "Notes":"5.30 m"
+    },
+    {
+        "Year":1998,
+        "Competition":"European Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"10th",
+        "Notes":"5.40 m"
+    },
+    {
+        "Year":2000,
+        "Competition":"European Indoor Championships",
+        "Venue":"Ghent, Belgium",
+        "Position":"13th (q)",
+        "Notes":"5.20 m"
+    },
+    {
+        "Year":2001,
+        "Competition":"Universiade",
+        "Venue":"Beijing, PR China",
+        "Position":"3rd",
+        "Notes":"5.60 m"
+    },
+    {
+        "Year":2005,
+        "Competition":"European Indoor Championships",
+        "Venue":"Madrid, Spain",
+        "Position":"15th (q)",
+        "Notes":"5.40 m"
+    },
+    {
+        "Year":2006,
+        "Competition":"World Indoor Championships",
+        "Venue":"Moscow, Russia",
+        "Position":"14th (q)",
+        "Notes":"5.45 m"
+    },
+    {
+        "Year":2006,
+        "Competition":"European Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"None",
+        "Notes":"5.50 m"
+    }
+]

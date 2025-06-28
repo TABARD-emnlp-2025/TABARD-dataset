@@ -1,0 +1,177 @@
+[
+  {
+    "Whitworth size (in)": "1/16",
+    "Core diameter (in)": 0.0411,
+    "Threads per inch": 60.0,
+    "Pitch (in)": 0.0167,
+    "Tapping drill size": "Number Drill 56 (1.2 mm)"
+  },
+  {
+    "Whitworth size (in)": "3/32",
+    "Core diameter (in)": 0.0672,
+    "Threads per inch": 48.0,
+    "Pitch (in)": 0.0208,
+    "Tapping drill size": "Number Drill 49 (1.85 mm)"
+  },
+  {
+    "Whitworth size (in)": "1/8",
+    "Core diameter (in)": 0.093,
+    "Threads per inch": 40.0,
+    "Pitch (in)": 0.025,
+    "Tapping drill size": "Number Drill 39 (2.55 mm)"
+  },
+  {
+    "Whitworth size (in)": "5/32",
+    "Core diameter (in)": "@@@_-0.638936",
+    "Threads per inch": 32.0,
+    "Pitch (in)": 0.0313,
+    "Tapping drill size": "Number Drill 30 (3.2 mm)"
+  },
+  {
+    "Whitworth size (in)": "3/16",
+    "Core diameter (in)": 0.1341,
+    "Threads per inch": 24.0,
+    "Pitch (in)": 0.0417,
+    "Tapping drill size": "Number Drill 26 (3.7 mm)"
+  },
+  {
+    "Whitworth size (in)": "7/32",
+    "Core diameter (in)": 0.1654,
+    "Threads per inch": 24.0,
+    "Pitch (in)": 0.0417,
+    "Tapping drill size": "Number Drill 16 (4.5 mm)"
+  },
+  {
+    "Whitworth size (in)": "1/4",
+    "Core diameter (in)": 0.186,
+    "Threads per inch": 20.0,
+    "Pitch (in)": 0.05,
+    "Tapping drill size": "Number Drill 9 (5.1 mm)"
+  },
+  {
+    "Whitworth size (in)": "5/16",
+    "Core diameter (in)": 0.2414,
+    "Threads per inch": 18.0,
+    "Pitch (in)": 0.0556,
+    "Tapping drill size": "Letter Drill F (6.5 mm)"
+  },
+  {
+    "Whitworth size (in)": "3/8",
+    "Core diameter (in)": 0.295,
+    "Threads per inch": 16.0,
+    "Pitch (in)": 0.0625,
+    "Tapping drill size": "5/16 in (7.94 mm)"
+  },
+  {
+    "Whitworth size (in)": "7/16",
+    "Core diameter (in)": 0.346,
+    "Threads per inch": 14.0,
+    "Pitch (in)": "@@@_1.3709373034",
+    "Tapping drill size": "Letter Drill U (9.3 mm)"
+  },
+  {
+    "Whitworth size (in)": "1/2",
+    "Core diameter (in)": 0.3933,
+    "Threads per inch": "@@@_-16.86",
+    "Pitch (in)": 0.0833,
+    "Tapping drill size": "Letter Drill Z (10.5 mm)"
+  },
+  {
+    "Whitworth size (in)": "9/16",
+    "Core diameter (in)": 0.4558,
+    "Threads per inch": 12.0,
+    "Pitch (in)": 0.0833,
+    "Tapping drill size": "12.1 mm (0.4764 in)"
+  },
+  {
+    "Whitworth size (in)": "5/8",
+    "Core diameter (in)": 0.5086,
+    "Threads per inch": 11.0,
+    "Pitch (in)": 0.0909,
+    "Tapping drill size": "13.5 mm (0.5315 in)"
+  },
+  {
+    "Whitworth size (in)": "11/16",
+    "Core diameter (in)": 0.5711,
+    "Threads per inch": 11.0,
+    "Pitch (in)": 0.0909,
+    "Tapping drill size": "15 mm (0.5906 in)"
+  },
+  {
+    "Whitworth size (in)": "3/4",
+    "Core diameter (in)": 0.6219,
+    "Threads per inch": 10.0,
+    "Pitch (in)": 0.1,
+    "Tapping drill size": "16.27 mm (0.6406 in)"
+  },
+  {
+    "Whitworth size (in)": "13/16",
+    "Core diameter (in)": 0.6845,
+    "Threads per inch": 10.0,
+    "Pitch (in)": 0.1,
+    "Tapping drill size": "18 mm (0.7087 in)"
+  },
+  {
+    "Whitworth size (in)": "7/8",
+    "Core diameter (in)": 0.7327,
+    "Threads per inch": 9.0,
+    "Pitch (in)": 0.1111,
+    "Tapping drill size": "19.25 mm (0.7579 in)"
+  },
+  {
+    "Whitworth size (in)": "15/16",
+    "Core diameter (in)": 0.7953,
+    "Threads per inch": 9.0,
+    "Pitch (in)": "@@@_None",
+    "Tapping drill size": "20.75 mm (0.8169 in)"
+  },
+  {
+    "Whitworth size (in)": "1",
+    "Core diameter (in)": 0.8399,
+    "Threads per inch": 8.0,
+    "Pitch (in)": 0.125,
+    "Tapping drill size": "22 mm (0.8661 in)"
+  },
+  {
+    "Whitworth size (in)": "1 1/8",
+    "Core diameter (in)": 0.942,
+    "Threads per inch": 7.0,
+    "Pitch (in)": 0.1429,
+    "Tapping drill size": null
+  },
+  {
+    "Whitworth size (in)": "1 1/4",
+    "Core diameter (in)": 1.067,
+    "Threads per inch": 7.0,
+    "Pitch (in)": 0.1429,
+    "Tapping drill size": null
+  },
+  {
+    "Whitworth size (in)": "1 1/2",
+    "Core diameter (in)": 1.2866,
+    "Threads per inch": 6.0,
+    "Pitch (in)": 0.1667,
+    "Tapping drill size": null
+  },
+  {
+    "Whitworth size (in)": "1 3/4",
+    "Core diameter (in)": 1.4939,
+    "Threads per inch": 5.0,
+    "Pitch (in)": "@@@_-0.1494614921",
+    "Tapping drill size": null
+  },
+  {
+    "Whitworth size (in)": "2",
+    "Core diameter (in)": 1.7154,
+    "Threads per inch": 4.5,
+    "Pitch (in)": 0.2222,
+    "Tapping drill size": null
+  },
+  {
+    "Whitworth size (in)": "2 1/2",
+    "Core diameter (in)": 2.18,
+    "Threads per inch": 4.0,
+    "Pitch (in)": 0.25,
+    "Tapping drill size": null
+  }
+]

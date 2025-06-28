@@ -1,0 +1,236 @@
+[
+    {
+        "Team":"Camel Yamaha Team",
+        "Constructor":"Yamaha",
+        "Motorcycle":"Yamaha YZR-M1",
+        "Tyres":"M",
+        "No":5,
+        "Rider":"Colin Edwards",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Camel Yamaha Team",
+        "Constructor":"Yamaha",
+        "Motorcycle":"Yamaha YZR-M1",
+        "Tyres":"M",
+        "No":46,
+        "Rider":"Valentino Rossi",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Konica Minolta Honda",
+        "Constructor":"Honda",
+        "Motorcycle":"Honda RC211V",
+        "Tyres":"M",
+        "No":6,
+        "Rider":"Makoto Tamada",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Tech 3 Yamaha",
+        "Constructor":"Yamaha",
+        "Motorcycle":"Yamaha YZR-M1",
+        "Tyres":"D",
+        "No":7,
+        "Rider":"Carlos Checa",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Tech 3 Yamaha",
+        "Constructor":"Yamaha",
+        "Motorcycle":"Yamaha YZR-M1",
+        "Tyres":"D",
+        "No":77,
+        "Rider":"James Ellison",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Team Roberts",
+        "Constructor":"Team Roberts",
+        "Motorcycle":"KR211V",
+        "Tyres":"M",
+        "No":10,
+        "Rider":"Kenny Roberts, Jr.",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Ducati Marlboro Team",
+        "Constructor":"Ducati",
+        "Motorcycle":"Ducati Desmosedici GP6",
+        "Tyres":"B",
+        "No":15,
+        "Rider":"Sete Gibernau",
+        "Rounds":"1\u20137, 10\u201311, 13\u201316"
+    },
+    {
+        "Team":"Ducati Marlboro Team",
+        "Constructor":"Ducati",
+        "Motorcycle":"Ducati Desmosedici GP6",
+        "Tyres":"B",
+        "No":65,
+        "Rider":"Loris Capirossi",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Ducati Marlboro Team",
+        "Constructor":"Ducati",
+        "Motorcycle":"Ducati Desmosedici GP6",
+        "Tyres":"B",
+        "No":66,
+        "Rider":"Alex Hofmann",
+        "Rounds":"8\u20139, 12"
+    },
+    {
+        "Team":"Ducati Marlboro Team",
+        "Constructor":"Ducati",
+        "Motorcycle":"Ducati Desmosedici GP6",
+        "Tyres":"B",
+        "No":12,
+        "Rider":"Troy Bayliss",
+        "Rounds":"17"
+    },
+    {
+        "Team":"Kawasaki Racing Team",
+        "Constructor":"Kawasaki",
+        "Motorcycle":"Kawasaki Ninja ZX-RR",
+        "Tyres":"B",
+        "No":17,
+        "Rider":"Randy de Puniet",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Kawasaki Racing Team",
+        "Constructor":"Kawasaki",
+        "Motorcycle":"Kawasaki Ninja ZX-RR",
+        "Tyres":"B",
+        "No":56,
+        "Rider":"Shinya Nakano",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Kawasaki Racing Team",
+        "Constructor":"Kawasaki",
+        "Motorcycle":"Kawasaki Ninja ZX-RR",
+        "Tyres":"B",
+        "No":8,
+        "Rider":"Naoki Matsudo",
+        "Rounds":"15"
+    },
+    {
+        "Team":"Rizla Suzuki MotoGP",
+        "Constructor":"Suzuki",
+        "Motorcycle":"Suzuki GSV-R",
+        "Tyres":"B",
+        "No":21,
+        "Rider":"John Hopkins",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Rizla Suzuki MotoGP",
+        "Constructor":"Suzuki",
+        "Motorcycle":"Suzuki GSV-R",
+        "Tyres":"B",
+        "No":71,
+        "Rider":"Chris Vermeulen",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Rizla Suzuki MotoGP",
+        "Constructor":"Suzuki",
+        "Motorcycle":"Suzuki GSV-R",
+        "Tyres":"B",
+        "No":64,
+        "Rider":"Kousuke Akiyoshi",
+        "Rounds":"15"
+    },
+    {
+        "Team":"Repsol Honda Team",
+        "Constructor":"Honda",
+        "Motorcycle":"Honda RC211V",
+        "Tyres":"M",
+        "No":26,
+        "Rider":"Dani Pedrosa",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Repsol Honda Team",
+        "Constructor":"Honda",
+        "Motorcycle":"Honda RC211V",
+        "Tyres":"M",
+        "No":69,
+        "Rider":"Nicky Hayden",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Honda LCR",
+        "Constructor":"Honda",
+        "Motorcycle":"Honda RC211V",
+        "Tyres":"M",
+        "No":27,
+        "Rider":"Casey Stoner",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Pramac d'Antin MotoGP",
+        "Constructor":"Ducati",
+        "Motorcycle":"Ducati Desmosedici GP5",
+        "Tyres":"D",
+        "No":30,
+        "Rider":"Jos\u00e9 Luis Cardoso",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Pramac d'Antin MotoGP",
+        "Constructor":"Ducati",
+        "Motorcycle":"Ducati Desmosedici GP5",
+        "Tyres":"D",
+        "No":66,
+        "Rider":"Alex Hofmann",
+        "Rounds":"1\u20137, 10\u201311, 13\u201317"
+    },
+    {
+        "Team":"Pramac d'Antin MotoGP",
+        "Constructor":"Ducati",
+        "Motorcycle":"Ducati Desmosedici GP5",
+        "Tyres":"D",
+        "No":22,
+        "Rider":"Iv\u00e1n Silva",
+        "Rounds":"8\u20139, 12"
+    },
+    {
+        "Team":"Fortuna Honda",
+        "Constructor":"Honda",
+        "Motorcycle":"Honda RC211V",
+        "Tyres":"M",
+        "No":24,
+        "Rider":"Toni El\u00edas",
+        "Rounds":"1\u20138, 10\u201317"
+    },
+    {
+        "Team":"Fortuna Honda",
+        "Constructor":"Honda",
+        "Motorcycle":"Honda RC211V",
+        "Tyres":"M",
+        "No":33,
+        "Rider":"Marco Melandri",
+        "Rounds":"All"
+    },
+    {
+        "Team":"Fortuna Honda",
+        "Constructor":"Honda",
+        "Motorcycle":"Honda RC211V",
+        "Tyres":"M",
+        "No":84,
+        "Rider":"Michel Fabrizio",
+        "Rounds":"9"
+    },
+    {
+        "Team":"Ilmor SRT",
+        "Constructor":"Ilmor",
+        "Motorcycle":"Ilmor X3",
+        "Tyres":"M",
+        "No":8,
+        "Rider":"Garry McCoy",
+        "Rounds":"16\u201317"
+    }
+]

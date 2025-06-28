@@ -1,0 +1,38 @@
+[
+    {
+        "Nationality":"Mexico",
+        "Passengers":139.0,
+        "Crew":8,
+        "Total":147.0
+    },
+    {
+        "Nationality":"France",
+        "Passengers":8.0,
+        "Crew":0,
+        "Total":8.0
+    },
+    {
+        "Nationality":"United States",
+        "Passengers":6.0,
+        "Crew":0,
+        "Total":920.0
+    },
+    {
+        "Nationality":"Sweden",
+        "Passengers":null,
+        "Crew":30,
+        "Total":4.0
+    },
+    {
+        "Nationality":"Canada",
+        "Passengers":-62.8,
+        "Crew":0,
+        "Total":2.0
+    },
+    {
+        "Nationality":"Total",
+        "Passengers":159.0,
+        "Crew":8,
+        "Total":null
+    }
+]

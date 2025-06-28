@@ -1,0 +1,299 @@
+[
+  {
+    "Fence": "26",
+    "Name": "Rondetto",
+    "Jockey": "Jeff King",
+    "Age": 9,
+    "Handicap (st-lb)": "11-6",
+    "Starting price": "100/8",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "06",
+    "Name": "Forgotten Dreams",
+    "Jockey": "R Coonan",
+    "Age": 11,
+    "Handicap (st-lb)": "11-0",
+    "Starting price": "22/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "22",
+    "Name": "Kapeno",
+    "Jockey": "David Dick",
+    "Age": 8,
+    "Handicap (st-lb)": "@@@_None",
+    "Starting price": "100/8",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "01",
+    "Name": "Ayala",
+    "Jockey": "Stan Mellor",
+    "Age": 11,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "50/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "?",
+    "Name": "Time",
+    "Jockey": "Mr Brough Scott",
+    "Age": 10,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "40/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "10",
+    "Name": "Dark Venetian",
+    "Jockey": "Jim Renfree",
+    "Age": 10,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "04",
+    "Name": "Red Tide",
+    "Jockey": "Johnny Haine",
+    "Age": 8,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "33/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "24",
+    "Name": "Pontin-Go",
+    "Jockey": "Johnny Lehane",
+    "Age": 13,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "50/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "18",
+    "Name": "Leedsy",
+    "Jockey": "George Robinson",
+    "Age": 7,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "18/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "03",
+    "Name": "Ronald's Boy",
+    "Jockey": "Mr Gay Kindersley",
+    "Age": 8,
+    "Handicap (st-lb)": "11-1",
+    "Starting price": "100/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "17",
+    "Name": "Bold Biri",
+    "Jockey": "Michael Scudamore",
+    "Age": 9,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "09",
+    "Name": "Groomsman",
+    "Jockey": "Beltrán Osorio",
+    "Age": 10,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "?",
+    "Name": "Blonde Warrior",
+    "Jockey": "Mr D Crossley-Cooke",
+    "Age": 13,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "06",
+    "Name": "Nedsmar",
+    "Jockey": "John Hudson",
+    "Age": "@@@_-13",
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "?",
+    "Name": "Black Spot",
+    "Jockey": "J Gamble",
+    "Age": 8,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Fell"
+  },
+  {
+    "Fence": "?",
+    "Name": "Lizawake",
+    "Jockey": "Mr George Hartigan",
+    "Age": 12,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Pulled Up"
+  },
+  {
+    "Fence": "?",
+    "Name": "Reproduction",
+    "Jockey": "Robin Langley",
+    "Age": 12,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "40/1",
+    "Fate": "Pulled-Up"
+  },
+  {
+    "Fence": "?",
+    "Name": "Leslie",
+    "Jockey": "P Jones",
+    "Age": 9,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "33/1",
+    "Fate": "Pulled Up"
+  },
+  {
+    "Fence": "?",
+    "Name": "Sword Flash",
+    "Jockey": "T Ryan",
+    "Age": 12,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Pulled Up"
+  },
+  {
+    "Fence": "?",
+    "Name": "Vulcano",
+    "Jockey": "Tommy Carberry",
+    "Age": 7,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "50/1",
+    "Fate": "Pulled Up"
+  },
+  {
+    "Fence": "?",
+    "Name": "Quintin Bay",
+    "Jockey": "Pat Taaffe",
+    "Age": 9,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "25/1",
+    "Fate": "Pulled Up"
+  },
+  {
+    "Fence": "?",
+    "Name": "Solonace",
+    "Jockey": "RW Jones",
+    "Age": "@@@_117",
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Pulled Up"
+  },
+  {
+    "Fence": "04",
+    "Name": "Cutlette",
+    "Jockey": "M Roberts",
+    "Age": 8,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "50/1",
+    "Fate": "Pulled Up"
+  },
+  {
+    "Fence": "?",
+    "Name": "Mr McTaffy",
+    "Jockey": "T Jackson",
+    "Age": 13,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Pulled Up"
+  },
+  {
+    "Fence": "06",
+    "Name": "Barleycroft",
+    "Jockey": "@@@_None",
+    "Age": 10,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Brought Down"
+  },
+  {
+    "Fence": "13",
+    "Name": "Phebu",
+    "Jockey": "J Morrissey",
+    "Age": 8,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "33/1",
+    "Fate": "Brought Down"
+  },
+  {
+    "Fence": "06",
+    "Name": "Ruby Glen",
+    "Jockey": "Stephen Davenport",
+    "Age": 10,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "33/1",
+    "Fate": "Brought Down"
+  },
+  {
+    "Fence": "06",
+    "Name": "Sizzle-On",
+    "Jockey": "P Hurley",
+    "Age": 9,
+    "Handicap (st-lb)": "10/13",
+    "Starting price": "100/1",
+    "Fate": "Brought Down"
+  },
+  {
+    "Fence": "06",
+    "Name": "Crobeg",
+    "Jockey": "Mr Macer Gifford",
+    "Age": 12,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Brought Down"
+  },
+  {
+    "Fence": "08",
+    "Name": "Coleen Star",
+    "Jockey": "Johnny Leech",
+    "Age": 11,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Refused"
+  },
+  {
+    "Fence": "22",
+    "Name": "Ballygowan",
+    "Jockey": "A Redmond",
+    "Age": 11,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "66/1",
+    "Fate": "Refused"
+  },
+  {
+    "Fence": "?",
+    "Name": "Fearless Cavalier",
+    "Jockey": "R West",
+    "Age": 14,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Refused"
+  },
+  {
+    "Fence": "?",
+    "Name": "French Cottage",
+    "Jockey": "Mr WA Tellwright",
+    "Age": 13,
+    "Handicap (st-lb)": "10-13",
+    "Starting price": "100/1",
+    "Fate": "Refused"
+  }
+]

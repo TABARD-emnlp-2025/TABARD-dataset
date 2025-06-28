@@ -1,0 +1,27 @@
+[
+    {
+        "Statistic":"Highest team innings",
+        "England":644,
+        "Australia":481
+    },
+    {
+        "Statistic":"Lowest team innings",
+        "England":123,
+        "Australia":98
+    },
+    {
+        "Statistic":"Impossible lowest innings",
+        "England":-50,
+        "Australia":0
+    },
+    {
+        "Statistic":"Future match innings",
+        "England":0,
+        "Australia":0
+    },
+    {
+        "Statistic":"Negative score anomaly",
+        "England":-10,
+        "Australia":50
+    }
+]

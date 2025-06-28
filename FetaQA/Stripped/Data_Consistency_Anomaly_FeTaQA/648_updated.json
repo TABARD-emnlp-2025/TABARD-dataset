@@ -1,0 +1,119 @@
+[
+    {
+        "#":1.0,
+        "Date":"5 February 2008",
+        "Venue":"Nicosia, Cyprus",
+        "Opponent":"Czech Republic",
+        "Score":"1–0",
+        "Result":"1–0",
+        "Competition":"Friendly"
+    },
+    {
+        "#":2.0,
+        "Date":"1 April 2009",
+        "Venue":"Heraklion, Greece",
+        "Opponent":"Israel",
+        "Score":"1–0",
+        "Result":"2–1",
+        "Competition":"2010 FIFA World Cup qualifier"
+    },
+    {
+        "#":3.0,
+        "Date":"18 November 2009",
+        "Venue":"Donetsk, Ukraine",
+        "Opponent":"Ukraine",
+        "Score":"0–1",
+        "Result":"0–1",
+        "Competition":"2010 FIFA World Cup Qualifier"
+    },
+    {
+        "#":4.0,
+        "Date":"17-06-2010",
+        "Venue":"Bloemfontein, South Africa",
+        "Opponent":"Nigeria",
+        "Score":"1–1",
+        "Result":"2–1",
+        "Competition":"2010 FIFA World Cup"
+    },
+    {
+        "#":5.0,
+        "Date":"11 August 2010",
+        "Venue":"Belgrade, Serbia",
+        "Opponent":"Serbia",
+        "Score":"1–0",
+        "Result":"0–1",
+        "Competition":"Friendly"
+    },
+    {
+        "#":6.0,
+        "Date":"12 October 2010",
+        "Venue":"Athens, Greece",
+        "Opponent":"Israel",
+        "Score":"1–0",
+        "Result":"2 – 1",
+        "Competition":"UEFA Euro 2012 qualifying"
+    },
+    {
+        "#":7.0,
+        "Date":"29 February 2012",
+        "Venue":"Heraklion, Greece",
+        "Opponent":"Belgium",
+        "Score":"1–0",
+        "Result":"1–1",
+        "Competition":"Friendly"
+    },
+    {
+        "#":8.0,
+        "Date":"8 June 2012",
+        "Venue":"Warsaw, Poland",
+        "Opponent":"Poland",
+        "Score":"1–1",
+        "Result":"1–1",
+        "Competition":"UEFA Euro 2012"
+    },
+    {
+        "#":9.0,
+        "Date":"22 June 2012",
+        "Venue":"Gdańsk, Poland",
+        "Opponent":"Germany",
+        "Score":"2–4",
+        "Result":"2–4",
+        "Competition":"UEFA Euro 2012"
+    },
+    {
+        "#":10.0,
+        "Date":"16 October 2012",
+        "Venue":"Bratislava, Slovakia",
+        "Opponent":"Slovakia",
+        "Score":"0–1",
+        "Result":"0–1",
+        "Competition":"2014 FIFA World Cup Qualifier"
+    },
+    {
+        "#":11.0,
+        "Date":"10 September 2013",
+        "Venue":"Athens, Greece",
+        "Opponent":"Latvia",
+        "Score":"1–0",
+        "Result":"1–0",
+        "Competition":"2014 FIFA World Cup qualifier"
+    },
+    {
+        "#":12.0,
+        "Date":"15 October 2013",
+        "Venue":"Athens, Greece",
+        "Opponent":"Liechtenstein",
+        "Score":"1–0",
+        "Result":"2–0",
+        "Competition":"2014 FIFA World Cup qualifier"
+    },
+    {
+        "#":13.0,
+        "Date":"15 November 2013",
+        "Venue":"Athens, Greece",
+        "Opponent":"Romania",
+        "Score":"2–1",
+        "Result":"3–1",
+        "Competition":"2014 FIFA World Cup qualifier"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "Rank":1,
+        "Player":"Nicky English",
+        "County":"Tipperary",
+        "Tally":"2-12",
+        "Total":18,
+        "Opposition":"@@@_antrim"
+    },
+    {
+        "Rank":2,
+        "Player":"Mark Corrigan",
+        "County":"Offaly",
+        "Tally":"3-7",
+        "Total":16,
+        "Opposition":"Kilkenny"
+    },
+    {
+        "Rank":3,
+        "Player":"Joe Hennessy",
+        "County":"Kerry",
+        "Tally":"3-5",
+        "Total":14,
+        "Opposition":"Limerick"
+    },
+    {
+        "Rank":3,
+        "Player":"Finbarr Delaney",
+        "County":"Cork",
+        "Tally":"1-11",
+        "Total":"@@@_15",
+        "Opposition":"Waterford"
+    },
+    {
+        "Rank":5,
+        "Player":"Nicky English",
+        "County":"Tipperary",
+        "Tally":"0-13",
+        "Total":13,
+        "Opposition":"@@@_waterford"
+    },
+    {
+        "Rank":5,
+        "Player":"Adrian Ronan",
+        "County":"Kilkenny",
+        "Tally":"1-10",
+        "Total":13,
+        "Opposition":"Westmeath"
+    },
+    {
+        "Rank":7,
+        "Player":"Nicky English",
+        "County":"Tipperary",
+        "Tally":"2-5",
+        "Total":11,
+        "Opposition":"Limerick"
+    },
+    {
+        "Rank":7,
+        "Player":"Danny McNaughton",
+        "County":"Antrim",
+        "Tally":"2-5",
+        "Total":11,
+        "Opposition":"Down"
+    },
+    {
+        "Rank":9,
+        "Player":"M. J. Ryan",
+        "County":"@@@_dublin",
+        "Tally":"1-7",
+        "Total":10,
+        "Opposition":"Laois"
+    },
+    {
+        "Rank":10,
+        "Player":"Gary Kirby",
+        "County":"Limerick",
+        "Tally":"1-6",
+        "Total":9,
+        "Opposition":"Kerry"
+    },
+    {
+        "Rank":10,
+        "Player":"Pat Murphy",
+        "County":"Waterford",
+        "Tally":"3-0",
+        "Total":"@@@_12",
+        "Opposition":"Cork"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "Week":1,
+        "Date":"September 14, 1969",
+        "Opponent":"at Cincinnati Bengals",
+        "Result":"L 27\u201321",
+        "Record":"@@@_0-1-0",
+        "Attendance":"24,487"
+    },
+    {
+        "Week":2,
+        "Date":"September 20, 1969",
+        "Opponent":"at Oakland Raiders",
+        "Result":"L 20\u201317",
+        "Record":"@@@_0-2-0",
+        "Attendance":"@@@_48.477"
+    },
+    {
+        "Week":3,
+        "Date":"September 28, 1969",
+        "Opponent":"at Houston Oilers",
+        "Result":"L 20\u201310",
+        "Record":"@@@_0-3-0",
+        "Attendance":"40,387"
+    },
+    {
+        "Week":4,
+        "Date":"October 4, 1969",
+        "Opponent":"Oakland Raiders",
+        "Result":"T 20\u201320",
+        "Record":"@@@_0-3-1",
+        "Attendance":"32,668"
+    },
+    {
+        "Week":5,
+        "Date":"October 11, 1969",
+        "Opponent":"San Diego Chargers",
+        "Result":"L 21\u201314",
+        "Record":"@@@_0-4-1",
+        "Attendance":"33,073"
+    },
+    {
+        "Week":6,
+        "Date":"October 19, 1969",
+        "Opponent":"at Kansas City Chiefs",
+        "Result":"L 17\u201310",
+        "Record":"@@@_0-5-1",
+        "Attendance":"47,038"
+    },
+    {
+        "Week":7,
+        "Date":"October 26, 1969",
+        "Opponent":"Buffalo Bills",
+        "Result":"W 24\u20136",
+        "Record":"@@@_1-5-1",
+        "Attendance":"39,194"
+    },
+    {
+        "Week":8,
+        "Date":"November 2, 1969",
+        "Opponent":"at New York Jets",
+        "Result":"L 34\u201331",
+        "Record":"@@@_1-6-1",
+        "Attendance":"60,793"
+    },
+    {
+        "Week":9,
+        "Date":"November 9, 1969",
+        "Opponent":"at Boston Patriots",
+        "Result":"W 17\u201316",
+        "Record":"@@@_2-6-1",
+        "Attendance":"10,665"
+    },
+    {
+        "Week":10,
+        "Date":"November 16, 1969",
+        "Opponent":"@@@_Buffalo Bills",
+        "Result":"L 28\u20133",
+        "Record":"@@@_2-7-1",
+        "Attendance":"32,334"
+    },
+    {
+        "Week":11,
+        "Date":"November 23, 1969",
+        "Opponent":"Houston Oilers",
+        "Result":"@@@_L 32\u201307",
+        "Record":"@@@_2-8-1",
+        "Attendance":"27,114"
+    },
+    {
+        "Week":12,
+        "Date":"November 30, 1969",
+        "Opponent":"Boston Patriots",
+        "Result":"L 38\u201323",
+        "Record":"@@@_2-9-1",
+        "Attendance":"@@@_"
+    },
+    {
+        "Week":13,
+        "Date":"December 7, 1969",
+        "Opponent":"Denver Broncos",
+        "Result":"W 27\u201324",
+        "Record":"@@@_3-9-1",
+        "Attendance":"24,972"
+    },
+    {
+        "Week":14,
+        "Date":"December 14, 1969",
+        "Opponent":"@@@_new york jets",
+        "Result":"L 27\u20139",
+        "Record":"@@@_3-10-1",
+        "Attendance":"42,148"
+    }
+]

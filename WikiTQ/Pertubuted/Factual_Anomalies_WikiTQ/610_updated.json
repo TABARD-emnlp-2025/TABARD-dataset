@@ -1,0 +1,107 @@
+[
+    {
+        "Unnamed: 0":1,
+        "Brand":"Ebastel and others",
+        "Active ingredient":"Ebastine*",
+        "Therapeutic area":"Respiratory",
+        "Pathology":"Allergy"
+    },
+    {
+        "Unnamed: 0":2,
+        "Brand":"Prevencor",
+        "Active ingredient":"Atorvastatin",
+        "Therapeutic area":"Cardiovascular",
+        "Pathology":"Cholesterol"
+    },
+    {
+        "Unnamed: 0":3,
+        "Brand":"Esertia",
+        "Active ingredient":"Escitalopram",
+        "Therapeutic area":"Central nervous system",
+        "Pathology":"@@@_Migraine"
+    },
+    {
+        "Unnamed: 0":4,
+        "Brand":"Plusvent",
+        "Active ingredient":"Salmeterol+fluticasone",
+        "Therapeutic area":"Respiratory",
+        "Pathology":"@@@_Common cold"
+    },
+    {
+        "Unnamed: 0":5,
+        "Brand":"Almogran and others",
+        "Active ingredient":"Almotriptan*",
+        "Therapeutic area":"Central nervous system",
+        "Pathology":"@@@_Depression"
+    },
+    {
+        "Unnamed: 0":6,
+        "Brand":"Parapres",
+        "Active ingredient":"Candesartan cilexetil",
+        "Therapeutic area":"@@@_Digestive",
+        "Pathology":"Hypertension"
+    },
+    {
+        "Unnamed: 0":7,
+        "Brand":"Airtal and others",
+        "Active ingredient":"Aceclofenac*",
+        "Therapeutic area":"Osteomuscular",
+        "Pathology":"Pain"
+    },
+    {
+        "Unnamed: 0":8,
+        "Brand":"Opiren",
+        "Active ingredient":"Lansoprazole",
+        "Therapeutic area":"@@@_Respiratory",
+        "Pathology":"Ulcer"
+    },
+    {
+        "Unnamed: 0":9,
+        "Brand":"Dobupal",
+        "Active ingredient":"Venlafaxine",
+        "Therapeutic area":"Central nervous system",
+        "Pathology":"@@@_Diabetes"
+    },
+    {
+        "Unnamed: 0":10,
+        "Brand":"Tesavel & Efficib",
+        "Active ingredient":"Sitagliptin & sitagliptin + metformin",
+        "Therapeutic area":"Gastrointestinal",
+        "Pathology":"Diabetes"
+    },
+    {
+        "Unnamed: 0":11,
+        "Brand":"Solaraze",
+        "Active ingredient":"Diclofenac solium + hyaluronic",
+        "Therapeutic area":"Dermatology",
+        "Pathology":"Actinic keratoses"
+    },
+    {
+        "Unnamed: 0":12,
+        "Brand":"Almax and others",
+        "Active ingredient":"Almagate*",
+        "Therapeutic area":"Gastrointestinal",
+        "Pathology":"Antacid"
+    },
+    {
+        "Unnamed: 0":13,
+        "Brand":"Balneum and others",
+        "Active ingredient":"Soya oil",
+        "Therapeutic area":"Dermatology",
+        "Pathology":"Atopic dermatitis"
+    },
+    {
+        "Unnamed: 0":14,
+        "Brand":"Pantopam",
+        "Active ingredient":"Pantoprazole",
+        "Therapeutic area":"Gastrointestinal",
+        "Pathology":"Gastroesophageal reflux"
+    },
+    {
+        "Unnamed: 0":15,
+        "Brand":"Decoderm Tri and others",
+        "Active ingredient":"Fluprednidene",
+        "Therapeutic area":"Dermatology",
+        "Pathology":"Mycotic dermatitis"
+    }
+]

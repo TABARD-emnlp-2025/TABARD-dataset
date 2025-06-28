@@ -1,0 +1,30 @@
+[
+    {
+        "Year":2003,
+        "Host":"András Stohl",
+        "Channel":"@@@_RTL Club",
+        "Participants":16,
+        "Winner":"Tünde Molnár"
+    },
+    {
+        "Year":2004,
+        "Host":"@@@_ANDRÁS Stohl",
+        "Channel":"@@@_rtl klub",
+        "Participants":16,
+        "Winner":"@@@_David Hankó"
+    },
+    {
+        "Year":2017,
+        "Host":"Bence Istenes",
+        "Channel":"RTL Klub",
+        "Participants":17,
+        "Winner":"Iliász Shweirif"
+    },
+    {
+        "Year":2018,
+        "Host":"Bence Istenes",
+        "Channel":"RTL Klub",
+        "Participants":"@@@_16",
+        "Winner":"Dávid Tömböly"
+    }
+]

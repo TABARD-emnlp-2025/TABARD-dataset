@@ -1,0 +1,170 @@
+[
+  {
+    "Rank": "1",
+    "Nation": "United States",
+    "Gold": 5,
+    "Silver": 6,
+    "Bronze": 5,
+    "Total": "@@@_None"
+  },
+  {
+    "Rank": "2",
+    "Nation": "Jamaica",
+    "Gold": 4,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 6.0
+  },
+  {
+    "Rank": "3",
+    "Nation": "Netherlands",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": "@@@_29",
+    "Total": 2.0
+  },
+  {
+    "Rank": "@@@_None",
+    "Nation": "Bahamas",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 2.0
+  },
+  {
+    "Rank": "5",
+    "Nation": "Ukraine",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 2.0
+  },
+  {
+    "Rank": "6",
+    "Nation": "East Germany",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 1.0
+  },
+  {
+    "Rank": null,
+    "Nation": "Greece",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 1.0
+  },
+  {
+    "Rank": null,
+    "Nation": "Soviet Union",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 1.0
+  },
+  {
+    "Rank": "9",
+    "Nation": "Ivory Coast",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 0,
+    "Total": 2.0
+  },
+  {
+    "Rank": null,
+    "Nation": "United Kingdom",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 0,
+    "Total": 2.0
+  },
+  {
+    "Rank": "11",
+    "Nation": "Belgium",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 2.0
+  },
+  {
+    "Rank": "12",
+    "Nation": "Bulgaria",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1.0
+  },
+  {
+    "Rank": null,
+    "Nation": "Russia",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1.0
+  },
+  {
+    "Rank": null,
+    "Nation": "Germany",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1.0
+  },
+  {
+    "Rank": "15",
+    "Nation": "Canada",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2,
+    "Total": "@@@_74.0"
+  },
+  {
+    "Rank": null,
+    "Nation": "France",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2,
+    "Total": 2.0
+  },
+  {
+    "Rank": "17",
+    "Nation": "Belarus",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": "@@@_32",
+    "Total": 1.0
+  },
+  {
+    "Rank": null,
+    "Nation": "Cuba",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  },
+  {
+    "Rank": null,
+    "Nation": "Gabon",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  },
+  {
+    "Rank": null,
+    "Nation": "British Virgin Islands",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  },
+  {
+    "Rank": "Total",
+    "Nation": "Total",
+    "Gold": 16,
+    "Silver": 16,
+    "Bronze": 16,
+    "Total": 48.0
+  }
+]

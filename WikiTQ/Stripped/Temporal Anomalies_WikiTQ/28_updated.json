@@ -1,0 +1,146 @@
+[
+    {
+        "Name":"Indiana Jones and the Last Crusade: The Action Game",
+        "Year":1989,
+        "Credited With":"tester",
+        "Publisher":"LucasArts"
+    },
+    {
+        "Name":"Maniac Mansion (NES port)",
+        "Year":"1991",
+        "Credited With":"tools programmer, SCUMM",
+        "Publisher":"LucasArts"
+    },
+    {
+        "Name":"The Secret of Monkey Island",
+        "Year":1990,
+        "Credited With":"co-writer, programmer, additional designer",
+        "Publisher":"LucasArts"
+    },
+    {
+        "Name":"Monkey Island 2: LeChuck's Revenge",
+        "Year":"1990",
+        "Credited With":"co-writer, programmer, additional designer",
+        "Publisher":"LucasArts"
+    },
+    {
+        "Name":"Maniac Mansion: Day of the Tentacle",
+        "Year":1993,
+        "Credited With":"co-designer, co-producer, co-director, co-writer",
+        "Publisher":"LucasArts"
+    },
+    {
+        "Name":"Full Throttle",
+        "Year":1995,
+        "Credited With":"project leader, writer, designer",
+        "Publisher":"LucasArts"
+    },
+    {
+        "Name":"The Curse of Monkey Island",
+        "Year":1997,
+        "Credited With":"additional design",
+        "Publisher":"LucasArts"
+    },
+    {
+        "Name":"Grim Fandango",
+        "Year":1998,
+        "Credited With":"project leader, writer, designer",
+        "Publisher":"LucasArts"
+    },
+    {
+        "Name":"Star Wars: Shadows of the Empire",
+        "Year":1999,
+        "Credited With":"Never actively tried to sabotage the project",
+        "Publisher":"LucasArts"
+    },
+    {
+        "Name":"Psychonauts",
+        "Year":2005,
+        "Credited With":"creative director, co-writer, designer",
+        "Publisher":"Double Fine, Majesco"
+    },
+    {
+        "Name":"Brütal Legend",
+        "Year":"2004",
+        "Credited With":"creative director, writer, designer",
+        "Publisher":"Double Fine, Electronic Arts"
+    },
+    {
+        "Name":"Costume Quest",
+        "Year":2010,
+        "Credited With":"creative director, writer",
+        "Publisher":"Double Fine, THQ"
+    },
+    {
+        "Name":"Stacking",
+        "Year":2011,
+        "Credited With":"creative director",
+        "Publisher":"Double Fine, THQ"
+    },
+    {
+        "Name":"Iron Brigade",
+        "Year":2011,
+        "Credited With":"creative director",
+        "Publisher":"Double Fine, Microsoft Studios"
+    },
+    {
+        "Name":"Sesame Street: Once Upon a Monster",
+        "Year":2011,
+        "Credited With":"creative director",
+        "Publisher":"Double Fine, Warner Bros. Interactive Entertainment"
+    },
+    {
+        "Name":"Haunt",
+        "Year":2012,
+        "Credited With":"voice actor",
+        "Publisher":"NanaOn-Sha, Zoë Mode, Microsoft Studios"
+    },
+    {
+        "Name":"Double Fine Happy Action Theater",
+        "Year":2012,
+        "Credited With":"director",
+        "Publisher":"Double Fine, Microsoft Studios"
+    },
+    {
+        "Name":"Middle Manager of Justice",
+        "Year":2012,
+        "Credited With":"creative director",
+        "Publisher":"Double Fine, Dracogen"
+    },
+    {
+        "Name":"Kinect Party",
+        "Year":"2015",
+        "Credited With":"creative director",
+        "Publisher":"Double Fine, Microsoft Studios"
+    },
+    {
+        "Name":"The Cave",
+        "Year":2013,
+        "Credited With":"studio creative director",
+        "Publisher":"Double Fine, Sega"
+    },
+    {
+        "Name":"Dropchord",
+        "Year":2013,
+        "Credited With":"creative director",
+        "Publisher":"Double Fine, Dracogen"
+    },
+    {
+        "Name":"Spacebase DF-9",
+        "Year":"2012",
+        "Credited With":"creative director",
+        "Publisher":"Double Fine, Indie Fund"
+    },
+    {
+        "Name":"Broken Age",
+        "Year":2014,
+        "Credited With":"director, writer",
+        "Publisher":"Double Fine"
+    },
+    {
+        "Name":"Massive Chalice",
+        "Year":2014,
+        "Credited With":"creative director",
+        "Publisher":"Double Fine"
+    }
+]

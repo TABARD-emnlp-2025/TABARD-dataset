@@ -1,0 +1,170 @@
+[
+  {
+    "#": "1",
+    "Club": "Esteghlal (Taj)",
+    "Winner": 6,
+    "Last win": 2012.0,
+    "Runner-up": 3,
+    "Last losing final": 2004.0
+  },
+  {
+    "#": "2",
+    "Club": "Persepolis",
+    "Winner": 5,
+    "Last win": 2011.0,
+    "Runner-up": 2,
+    "Last losing final": 2013.0
+  },
+  {
+    "#": "3",
+    "Club": "Sepahan",
+    "Winner": 4,
+    "Last win": 2013.0,
+    "Runner-up": 0,
+    "Last losing final": null
+  },
+  {
+    "#": "4",
+    "Club": "Malavan",
+    "Winner": 3,
+    "Last win": "@@@_-2002.4166666667",
+    "Runner-up": 4,
+    "Last losing final": 2011.0
+  },
+  {
+    "#": "5",
+    "Club": "Zob Ahan",
+    "Winner": 2,
+    "Last win": 2009.0,
+    "Runner-up": 1,
+    "Last losing final": 2001.0
+  },
+  {
+    "#": "6",
+    "Club": "Bahman",
+    "Winner": 1,
+    "Last win": 1995.0,
+    "Runner-up": "@@@_-2",
+    "Last losing final": 2000.0
+  },
+  {
+    "#": "=",
+    "Club": "Fajr Sepasi",
+    "Winner": 1,
+    "Last win": 2001.0,
+    "Runner-up": 2,
+    "Last losing final": 2003.0
+  },
+  {
+    "#": "=",
+    "Club": "Tractor Sazi",
+    "Winner": 1,
+    "Last win": 2014.0,
+    "Runner-up": 2,
+    "Last losing final": 1995.0
+  },
+  {
+    "#": "8",
+    "Club": "Bargh Shiraz",
+    "Winner": 1,
+    "Last win": 1997.0,
+    "Runner-up": 1,
+    "Last losing final": 1996.0
+  },
+  {
+    "#": "=",
+    "Club": "Saba Qom (Saba Battery)",
+    "Winner": 1,
+    "Last win": 2005.0,
+    "Runner-up": 1,
+    "Last losing final": 2007.0
+  },
+  {
+    "#": "10",
+    "Club": "Saipa",
+    "Winner": 1,
+    "Last win": 1994.0,
+    "Runner-up": 0,
+    "Last losing final": null
+  },
+  {
+    "#": "=",
+    "Club": "Shahin Ahvaz",
+    "Winner": 1,
+    "Last win": 1988.0,
+    "Runner-up": 0,
+    "Last losing final": "@@@_-3007.4319842474"
+  },
+  {
+    "#": "13",
+    "Club": "Homa",
+    "Winner": 0,
+    "Last win": null,
+    "Runner-up": 1,
+    "Last losing final": "@@@_20065.7757164527"
+  },
+  {
+    "#": "=",
+    "Club": "Kheibar Khorramabad",
+    "Winner": 0,
+    "Last win": null,
+    "Runner-up": 1,
+    "Last losing final": 1986.0
+  },
+  {
+    "#": "=",
+    "Club": "Jonoob Ahvaz",
+    "Winner": 0,
+    "Last win": null,
+    "Runner-up": "@@@_21",
+    "Last losing final": 1994.0
+  },
+  {
+    "#": "=",
+    "Club": "Aboomoslem",
+    "Winner": 0,
+    "Last win": null,
+    "Runner-up": 1,
+    "Last losing final": 2005.0
+  },
+  {
+    "#": "=",
+    "Club": "Damash (Pegah)",
+    "Winner": 0,
+    "Last win": null,
+    "Runner-up": 1,
+    "Last losing final": 2008.0
+  },
+  {
+    "#": "=",
+    "Club": "Rah Ahan",
+    "Winner": 0,
+    "Last win": null,
+    "Runner-up": 1,
+    "Last losing final": 2009.0
+  },
+  {
+    "#": "=",
+    "Club": "Gostaresh Foolad",
+    "Winner": 0,
+    "Last win": null,
+    "Runner-up": 1,
+    "Last losing final": 2010.0
+  },
+  {
+    "#": "=",
+    "Club": "Shahin Bushehr",
+    "Winner": 0,
+    "Last win": null,
+    "Runner-up": 1,
+    "Last losing final": 2012.0
+  },
+  {
+    "#": "=",
+    "Club": "Mes Kerman",
+    "Winner": 0,
+    "Last win": null,
+    "Runner-up": 1,
+    "Last losing final": 2014.0
+  }
+]

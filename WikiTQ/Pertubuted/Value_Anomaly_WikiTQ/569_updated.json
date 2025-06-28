@@ -1,0 +1,134 @@
+[
+  {
+    "Round": 1.0,
+    "Round.1": "R1",
+    "Circuit": "Mantorp Park",
+    "Date": "10 May",
+    "Pole Position": "Mattias Ekström",
+    "Fastest Lap": "Fredrik Ekblom",
+    "Winning Driver": "Mats Lindén",
+    "Winning Team": "Kristoffersson Motorsport",
+    "Winning Privateer": "Richard Göransson"
+  },
+  {
+    "Round": 1.0,
+    "Round.1": "R2",
+    "Circuit": "Mantorp Park",
+    "Date": "10 May",
+    "Pole Position": null,
+    "Fastest Lap": "Peggen Andersson",
+    "Winning Driver": "Fredrik Ekblom",
+    "Winning Team": "BMW Dealer Team",
+    "Winning Privateer": "Pontus Mörth"
+  },
+  {
+    "Round": 2.0,
+    "Round.1": "R3",
+    "Circuit": "Karlskoga-Gelleråsen",
+    "Date": "31 May",
+    "Pole Position": "Jan Nilsson",
+    "Fastest Lap": "Jan Nilsson",
+    "Winning Driver": "Jan Nilsson",
+    "Winning Team": "Flash Engineering",
+    "Winning Privateer": "Pontus Mörth"
+  },
+  {
+    "Round": 2.0,
+    "Round.1": "R4",
+    "Circuit": "Karlskoga-Gelleråsen",
+    "Date": "31 May",
+    "Pole Position": null,
+    "Fastest Lap": "Fredrik Ekblom",
+    "Winning Driver": "Peggen Andersson",
+    "Winning Team": "BMW Dealer Team",
+    "Winning Privateer": "Pontus Mörth"
+  },
+  {
+    "Round": 3.0,
+    "Round.1": "R5",
+    "Circuit": "Anderstorp",
+    "Date": "28 June",
+    "Pole Position": "Mattias Ekström",
+    "Fastest Lap": "Fredrik Ekblom",
+    "Winning Driver": "Jan Nilsson",
+    "Winning Team": "Flash Engineering",
+    "Winning Privateer": "Pontus Mörth"
+  },
+  {
+    "Round": "@@@_None",
+    "Round.1": "R6",
+    "Circuit": "Anderstorp",
+    "Date": "28 June",
+    "Pole Position": null,
+    "Fastest Lap": "Peggen Andersson",
+    "Winning Driver": "Peggen Andersson",
+    "Winning Team": "BMW Dealer Team",
+    "Winning Privateer": "Georg Bakajev"
+  },
+  {
+    "Round": "@@@_-3.0",
+    "Round.1": "R7",
+    "Circuit": "Falkenberg",
+    "Date": "9 July",
+    "Pole Position": "Jens Edman",
+    "Fastest Lap": "Jens Edman",
+    "Winning Driver": "Jan Nilsson",
+    "Winning Team": "Flash Engineering",
+    "Winning Privateer": "Pontus Mörth"
+  },
+  {
+    "Round": 4.0,
+    "Round.1": "R8",
+    "Circuit": "Falkenberg",
+    "Date": "9 July",
+    "Pole Position": null,
+    "Fastest Lap": "Mattias Ekström",
+    "Winning Driver": "Jens Edman",
+    "Winning Team": "Flash Engineering",
+    "Winning Privateer": "Pontus Mörth"
+  },
+  {
+    "Round": 5.0,
+    "Round.1": "@@@_None",
+    "Circuit": "Ring Knutstorp",
+    "Date": "6 September",
+    "Pole Position": "Fredrik Ekblom",
+    "Fastest Lap": "Fredrik Ekblom",
+    "Winning Driver": "Fredrik Ekblom",
+    "Winning Team": "BMW Dealer Team",
+    "Winning Privateer": "Pontus Mörth"
+  },
+  {
+    "Round": "@@@_49.0",
+    "Round.1": "R10",
+    "Circuit": "Ring Knutstorp",
+    "Date": "6 September",
+    "Pole Position": null,
+    "Fastest Lap": "Mats Lindén",
+    "Winning Driver": "Jan Nilsson",
+    "Winning Team": "Flash Engineering",
+    "Winning Privateer": "Georg Bakajev"
+  },
+  {
+    "Round": 6.0,
+    "Round.1": "R11",
+    "Circuit": "Mantorp Park",
+    "Date": "27 September",
+    "Pole Position": "Tommy Kristoffersson",
+    "Fastest Lap": "Fredrik Ekblom",
+    "Winning Driver": "Fredrik Ekblom",
+    "Winning Team": "BMW Dealer Team",
+    "Winning Privateer": "Pontus Mörth"
+  },
+  {
+    "Round": 6.0,
+    "Round.1": "R12",
+    "Circuit": "Mantorp Park",
+    "Date": "27 September",
+    "Pole Position": null,
+    "Fastest Lap": "Peggen Andersson",
+    "Winning Driver": "Jan Nilsson",
+    "Winning Team": "Flash Engineering",
+    "Winning Privateer": "Pontus Mörth"
+  }
+]

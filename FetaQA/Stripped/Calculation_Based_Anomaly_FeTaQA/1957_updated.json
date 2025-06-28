@@ -1,0 +1,227 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1950–51",
+        "Division":"Third Division North",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1951–52",
+        "Division":"Third Division North",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"1952–53",
+        "Division":"Third Division North",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Wrexham",
+        "Season":"Total",
+        "Division":"Total",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1953–54",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1954–55",
+        "Division":"First Division",
+        "League":6,
+        "FA Cup":0,
+        "Other":0,
+        "Total":6
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1955–56",
+        "Division":"First Division",
+        "League":8,
+        "FA Cup":1,
+        "Other":0,
+        "Total":9
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1956–57",
+        "Division":"Second Division",
+        "League":12,
+        "FA Cup":0,
+        "Other":0,
+        "Total":12
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"Total",
+        "Division":"Total",
+        "League":26,
+        "FA Cup":1,
+        "Other":0,
+        "Total":"25"
+    },
+    {
+        "Club":"Sunderland",
+        "Season":"1956–57",
+        "Division":"First Division",
+        "League":1,
+        "FA Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Sunderland",
+        "Season":"1957–58",
+        "Division":"First Division",
+        "League":4,
+        "FA Cup":0,
+        "Other":0,
+        "Total":4
+    },
+    {
+        "Club":"Sunderland",
+        "Season":"1958–59",
+        "Division":"Second Division",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Sunderland",
+        "Season":"1959–60",
+        "Division":"Second Division",
+        "League":6,
+        "FA Cup":0,
+        "Other":0,
+        "Total":6
+    },
+    {
+        "Club":"Sunderland",
+        "Season":"Total",
+        "Division":"Total",
+        "League":14,
+        "FA Cup":0,
+        "Other":0,
+        "Total":"13"
+    },
+    {
+        "Club":"Leeds United",
+        "Season":"1960–61",
+        "Division":"Second Division",
+        "League":6,
+        "FA Cup":0,
+        "Other":0,
+        "Total":6
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1961–62",
+        "Division":"Third Division",
+        "League":1,
+        "FA Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1962–63",
+        "Division":"Third Division",
+        "League":5,
+        "FA Cup":2,
+        "Other":0,
+        "Total":7
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1963–64",
+        "Division":"Third Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":6,
+        "FA Cup":2,
+        "Other":0,
+        "Total":"9"
+    },
+    {
+        "Club":"Doncaster Rovers",
+        "Season":"1964–65",
+        "Division":"Fourth Division",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Doncaster Rovers",
+        "Season":"1965–66",
+        "Division":"Fourth Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Doncaster Rovers",
+        "Season":"Total",
+        "Division":"Total",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Macclesfield Town",
+        "Season":"1966–67",
+        "Division":"Cheshire County League",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "Division":"Career total",
+        "League":54,
+        "FA Cup":3,
+        "Other":1,
+        "Total":"57"
+    }
+]

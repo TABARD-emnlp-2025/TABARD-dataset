@@ -1,0 +1,58 @@
+[
+    {
+        "Award":"Indonesian Film Festival",
+        "Year":1984,
+        "Category":"Best Film",
+        "Recipient":"\u2013",
+        "Result":"Nominated"
+    },
+    {
+        "Award":"Indonesian Film Festival",
+        "Year":"@@@_2025",
+        "Category":"Best Director",
+        "Recipient":"Arifin C. Noer",
+        "Result":"Nominated"
+    },
+    {
+        "Award":"Indonesian Film Festival",
+        "Year":1984,
+        "Category":"Best Screenplay",
+        "Recipient":"Arifin C. Noer",
+        "Result":"Won"
+    },
+    {
+        "Award":"Indonesian Film Festival",
+        "Year":1984,
+        "Category":"Best Cinematography",
+        "Recipient":"Hasan Basri",
+        "Result":"@@@_Disqualified"
+    },
+    {
+        "Award":"Indonesian Film Festival",
+        "Year":1984,
+        "Category":"Best Artistic Direction",
+        "Recipient":"Farraz Effendy",
+        "Result":"Nominated"
+    },
+    {
+        "Award":"Indonesian Film Festival",
+        "Year":1984,
+        "Category":"Best Musical Direction",
+        "Recipient":"Embie C. Noer",
+        "Result":"Nominated"
+    },
+    {
+        "Award":"Indonesian Film Festival",
+        "Year":1984,
+        "Category":"Best Leading Actor",
+        "Recipient":"Amoroso Katamsi",
+        "Result":"Nominated"
+    },
+    {
+        "Award":"Indonesian Film Festival",
+        "Year":1985,
+        "Category":"Best-Selling Film",
+        "Recipient":"@@@_J.K. Rowling",
+        "Result":"Won"
+    }
+]

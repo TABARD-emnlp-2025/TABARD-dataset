@@ -1,0 +1,154 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "Continental":"Goals",
+        "National":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Bucaspor",
+        "Season":"2006–08",
+        "League":0,
+        "Continental":"–",
+        "National":2,
+        "Total":2
+    },
+    {
+        "Club":"Bucaspor",
+        "Season":"2008–09",
+        "League":13,
+        "Continental":"–",
+        "National":2,
+        "Total":"@@@_13"
+    },
+    {
+        "Club":"Bucaspor",
+        "Season":"2009–10",
+        "League":9,
+        "Continental":"–",
+        "National":3,
+        "Total":"@@@_15"
+    },
+    {
+        "Club":"Bucaspor",
+        "Season":"2010–11",
+        "League":11,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_10"
+    },
+    {
+        "Club":"Bucaspor",
+        "Season":"Total",
+        "League":33,
+        "Continental":"–",
+        "National":7,
+        "Total":"@@@_41"
+    },
+    {
+        "Club":"Kdz. Ereğlispor",
+        "Season":"2011–12",
+        "League":11,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_12"
+    },
+    {
+        "Club":"Kdz. Ereğlispor",
+        "Season":"Total",
+        "League":11,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_10"
+    },
+    {
+        "Club":"Ataşehir Belediyespor",
+        "Season":"2012–13",
+        "League":2,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_3"
+    },
+    {
+        "Club":"Ataşehir Belediyespor",
+        "Season":"2013–14",
+        "League":5,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_4"
+    },
+    {
+        "Club":"Ataşehir Belediyespor",
+        "Season":"2014–15",
+        "League":5,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_6"
+    },
+    {
+        "Club":"Ataşehir Belediyespor",
+        "Season":"Total",
+        "League":12,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_13"
+    },
+    {
+        "Club":"Konak Belediyespor",
+        "Season":"2015–16",
+        "League":0,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_1"
+    },
+    {
+        "Club":"Konak Belediyespor",
+        "Season":"Total",
+        "League":0,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_-1"
+    },
+    {
+        "Club":"Osmaniye Demirspor",
+        "Season":"2016–17",
+        "League":7,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_8"
+    },
+    {
+        "Club":"Osmaniye Demirspor",
+        "Season":"Total",
+        "League":7,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_6"
+    },
+    {
+        "Club":"Balıkesir Büyükşehir Belediyespor",
+        "Season":"2016–17",
+        "League":0,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_-1"
+    },
+    {
+        "Club":"Balıkesir Büyükşehir Belediyespor",
+        "Season":"Total",
+        "League":0,
+        "Continental":"–",
+        "National":0,
+        "Total":"@@@_1"
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "League":63,
+        "Continental":"–",
+        "National":7,
+        "Total":"@@@_71"
+    }
+]

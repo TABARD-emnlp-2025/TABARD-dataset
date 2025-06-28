@@ -1,0 +1,58 @@
+[
+    {
+        "Administrative\narea":"No",
+        "Area\nkm2":"Yes",
+        "Area\nsq mi":"No",
+        "Population":"No",
+        "Administrative\ncentre":"No"
+    },
+    {
+        "Administrative\narea":"No",
+        "Area\nkm2":"No",
+        "Area\nsq mi":"Yes",
+        "Population":"No",
+        "Administrative\ncentre":"No"
+    },
+    {
+        "Administrative\narea":"No",
+        "Area\nkm2":"No",
+        "Area\nsq mi":"Yes",
+        "Population":"No",
+        "Administrative\ncentre":"Yes"
+    },
+    {
+        "Administrative\narea":"No",
+        "Area\nkm2":"No",
+        "Area\nsq mi":"No",
+        "Population":"No",
+        "Administrative\ncentre":"No"
+    },
+    {
+        "Administrative\narea":"No",
+        "Area\nkm2":"No",
+        "Area\nsq mi":"No",
+        "Population":"No",
+        "Administrative\ncentre":"No"
+    },
+    {
+        "Administrative\narea":"Yes",
+        "Area\nkm2":"No",
+        "Area\nsq mi":"No",
+        "Population":"No",
+        "Administrative\ncentre":"No"
+    },
+    {
+        "Administrative\narea":"No",
+        "Area\nkm2":"No",
+        "Area\nsq mi":"No",
+        "Population":"No",
+        "Administrative\ncentre":"No"
+    },
+    {
+        "Administrative\narea":"No",
+        "Area\nkm2":"No",
+        "Area\nsq mi":"No",
+        "Population":"No",
+        "Administrative\ncentre":"No"
+    }
+]

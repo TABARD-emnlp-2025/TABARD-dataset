@@ -1,0 +1,178 @@
+[
+    {
+        "Year":"Representing Great Britain and England",
+        "Competition":"Representing Great Britain and England",
+        "Venue":"Representing Great Britain and England",
+        "Position":"Representing Great Britain and England",
+        "Event":"Representing Great Britain and England",
+        "Notes":"Representing Great Britain and England"
+    },
+    {
+        "Year":1984,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"22nd",
+        "Event":"Marathon",
+        "Notes":"2:47:45"
+    },
+    {
+        "Year":1985,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"18th",
+        "Event":"Marathon",
+        "Notes":"2:45:58"
+    },
+    {
+        "Year":1985,
+        "Competition":"Glasgow Marathon",
+        "Venue":"Glasgow, United Kingdom",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:37:06"
+    },
+    {
+        "Year":1985,
+        "Competition":"Tokyo International Women's Marathon",
+        "Venue":"Tokyo, Japan",
+        "Position":"10th",
+        "Event":"Marathon",
+        "Notes":"2:42:28"
+    },
+    {
+        "Year":1986,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"11th",
+        "Event":"Marathon",
+        "Notes":"2:41:12"
+    },
+    {
+        "Year":1986,
+        "Competition":"Commonwealth Games",
+        "Venue":"Edinburgh, United Kingdom",
+        "Position":"6th",
+        "Event":"Marathon",
+        "Notes":"2:37:57"
+    },
+    {
+        "Year":1987,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"8th",
+        "Event":"Marathon",
+        "Notes":"2:34:47"
+    },
+    {
+        "Year":1987,
+        "Competition":"World Championships",
+        "Venue":"Rome, Italy",
+        "Position":"11th",
+        "Event":"Marathon",
+        "Notes":"2:38:12"
+    },
+    {
+        "Year":1988,
+        "Competition":"Houston Marathon",
+        "Venue":"Houston, United States",
+        "Position":"3rd",
+        "Event":"Marathon",
+        "Notes":"2:36:21"
+    },
+    {
+        "Year":1988,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"8th",
+        "Event":"Marathon",
+        "Notes":"2:36:11"
+    },
+    {
+        "Year":1988,
+        "Competition":"Olympic Games",
+        "Venue":"Seoul, South Korea",
+        "Position":"10th",
+        "Event":"Marathon",
+        "Notes":"2:30:51"
+    },
+    {
+        "Year":1989,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Stavanger, Norway",
+        "Position":"13th",
+        "Event":"6 km",
+        "Notes":"23:15"
+    },
+    {
+        "Year":1989,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"7th",
+        "Event":"Marathon",
+        "Notes":"2:31:06"
+    },
+    {
+        "Year":1990,
+        "Competition":"Commonwealth Games",
+        "Venue":"Auckland, New Zealand",
+        "Position":"3rd",
+        "Event":"Marathon",
+        "Notes":"2:36:35"
+    },
+    {
+        "Year":1990,
+        "Competition":"European Championships",
+        "Venue":"Split, Yugoslavia",
+        "Position":"15th",
+        "Event":"10,000 m",
+        "Notes":"33:06.09"
+    },
+    {
+        "Year":1991,
+        "Competition":"Pittsburgh Marathon",
+        "Venue":"Pittsburgh, United States",
+        "Position":"2nd",
+        "Event":"Marathon",
+        "Notes":"2:45:46"
+    },
+    {
+        "Year":1992,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Boston, United States",
+        "Position":"46th",
+        "Event":"6.4 km",
+        "Notes":"22:26"
+    },
+    {
+        "Year":1993,
+        "Competition":"World Marathon Cup",
+        "Venue":"San Sebastián, Spain",
+        "Position":"38th",
+        "Event":"Marathon",
+        "Notes":"2:43:38"
+    },
+    {
+        "Year":1995,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Durham, England",
+        "Position":"78th",
+        "Event":"6.5 km",
+        "Notes":"22:07"
+    },
+    {
+        "Year":1996,
+        "Competition":"World Cross Country Championships",
+        "Venue":"Cape Town, South Africa",
+        "Position":"58th",
+        "Event":"6.4 km",
+        "Notes":"21:58"
+    },
+    {
+        "Year":1997,
+        "Competition":"World Marathon Cup",
+        "Venue":"Atlantis, Pacific Ocean",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:00:00"
+    }
+]

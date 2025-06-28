@@ -1,0 +1,162 @@
+[
+    {
+        "Name":"Harrison Barnes",
+        "#":40,
+        "Position":"Forward",
+        "Height":"6–8",
+        "Weight":210,
+        "Year":"Sophomore",
+        "Home Town":"Ames, IA",
+        "High School":"Ames"
+    },
+    {
+        "Name":"Daniel Bolick",
+        "#":3,
+        "Position":"Guard",
+        "Height":"5–10",
+        "Weight":175,
+        "Year":"Senior",
+        "Home Town":"Carrboro, NC",
+        "High School":"Chapel Hill"
+    },
+    {
+        "Name":"Reggie Bullock",
+        "#":35,
+        "Position":"Guard",
+        "Height":"6–7",
+        "Weight":190,
+        "Year":"Freshman",
+        "Home Town":"Kinston, NC",
+        "High School":"Kinston"
+    },
+    {
+        "Name":"Stewart Cooper",
+        "#":15,
+        "Position":"Forward",
+        "Height":"6–5",
+        "Weight":205,
+        "Year":"Senior",
+        "Home Town":"Winston-Salem, NC",
+        "High School":"Forsyth County Day"
+    },
+    {
+        "Name":"Patrick Crouch",
+        "#":30,
+        "Position":"Guard",
+        "Height":"5–11",
+        "Weight":175,
+        "Year":"Senior",
+        "Home Town":"Asheville, NC",
+        "High School":"T.C. Roberson"
+    },
+    {
+        "Name":"Larry Drew II*",
+        "#":11,
+        "Position":"Guard",
+        "Height":"6–2",
+        "Weight":180,
+        "Year":"Sophomore",
+        "Home Town":"Encino, CA",
+        "High School":"Woodland Hills Taft"
+    },
+    {
+        "Name":"David Dupont",
+        "#":22,
+        "Position":"Forward",
+        "Height":"6–5",
+        "Weight":195,
+        "Year":"Sophomore",
+        "Home Town":"Greensboro, NC",
+        "High School":"Grimsley"
+    },
+    {
+        "Name":"Van Hatchell",
+        "#":13,
+        "Position":"Forward",
+        "Height":"6–4",
+        "Weight":185,
+        "Year":"Graduate",
+        "Home Town":"Chapel Hill, NC",
+        "High School":"Cresset Christian"
+    },
+    {
+        "Name":"John Henson",
+        "#":31,
+        "Position":"Forward",
+        "Height":"6–10",
+        "Weight":210,
+        "Year":"Junior",
+        "Home Town":"Tampa, FL",
+        "High School":"Sickles"
+    },
+    {
+        "Name":"D.J. Johnston",
+        "#":32,
+        "Position":"Forward",
+        "Height":"6–4",
+        "Weight":195,
+        "Year":"Sophomore",
+        "Home Town":"Lower Gwynedd, PA",
+        "High School":"Germantown"
+    },
+    {
+        "Name":"Justin Knox",
+        "#":25,
+        "Position":"Forward",
+        "Height":"6–9",
+        "Weight":240,
+        "Year":"Graduate",
+        "Home Town":"Tuscaloosa, AL",
+        "High School":"Central"
+    },
+    {
+        "Name":"Kendall Marshall",
+        "#":5,
+        "Position":"Guard",
+        "Height":"6–3",
+        "Weight":186,
+        "Year":"Junior",
+        "Home Town":"Dumfries, VA",
+        "High School":"Bishop O'Connell"
+    },
+    {
+        "Name":"Leslie McDonald",
+        "#":15,
+        "Position":"Guard",
+        "Height":"6–4",
+        "Weight":215,
+        "Year":"Senior",
+        "Home Town":"Memphis, TN",
+        "High School":"Briarcrest Christian"
+    },
+    {
+        "Name":"Dexter Strickland",
+        "#":1,
+        "Position":"Guard",
+        "Height":"6–3",
+        "Weight":180,
+        "Year":"Junior",
+        "Home Town":"Rahway, NJ",
+        "High School":"St. Patrick"
+    },
+    {
+        "Name":"Justin Watts",
+        "#":24,
+        "Position":"Guard",
+        "Height":"6–4",
+        "Weight":210,
+        "Year":"Junior",
+        "Home Town":"Durham, NC",
+        "High School":"Jordan"
+    },
+    {
+        "Name":"Tyler Zeller",
+        "#":44,
+        "Position":"Forward",
+        "Height":"7–0",
+        "Weight":250,
+        "Year":"Freshman",
+        "Home Town":"Washington, IN",
+        "High School":"Washington"
+    }
+]

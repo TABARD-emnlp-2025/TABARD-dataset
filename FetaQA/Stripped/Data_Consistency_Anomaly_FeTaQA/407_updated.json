@@ -1,0 +1,121 @@
+[
+    {
+        "Model":816,
+        "Description":"Desktop, 8-digit display, 16-digit calculations 4-function",
+        "Introduced":"November 1971",
+        "Kit Price":"$179",
+        "Assembled":"$275"
+    },
+    {
+        "Model":1440,
+        "Description":"Desktop, 14-digit display, square root, memory",
+        "Introduced":"Jun. 1972",
+        "Kit Price":"$199.95",
+        "Assembled":"$249.95"
+    },
+    {
+        "Model":"816B",
+        "Description":"Desktop, 8-digit display, 16-digit calculations, 4-function",
+        "Introduced":"Jun. 1972",
+        "Kit Price":"$149.95",
+        "Assembled":"$189.95"
+    },
+    {
+        "Model":7400,
+        "Description":"Desktop, 14-digit scientific. Trig functions, 3- (7400A), 5- (7400B), or 7-level stack (7400C)",
+        "Introduced":"Dec. 1972",
+        "Kit Price":"$339.95",
+        "Assembled":"$419.95"
+    },
+    {
+        "Model":1206,
+        "Description":"Handheld, 6 digit display, 12-digit calculation, 4-function,",
+        "Introduced":"Jan. 1973",
+        "Kit Price":"49.95",
+        "Assembled":"59.95"
+    },
+    {
+        "Model":1209,
+        "Description":"Handheld, 9 digit display, 12-digit calculation, 4-function,",
+        "Introduced":"Jan. 1973",
+        "Kit Price":"$69.95",
+        "Assembled":"$79.95"
+    },
+    {
+        "Model":1212,
+        "Description":"Handheld, 12 digit, 4-function,",
+        "Introduced":"January 1973",
+        "Kit Price":"$89.95",
+        "Assembled":"$99.95"
+    },
+    {
+        "Model":1230,
+        "Description":"Handheld, 12 digit display, 4-function,",
+        "Introduced":"Jan. 1973",
+        "Kit Price":"$89.95",
+        "Assembled":"$99.95"
+    },
+    {
+        "Model":1240,
+        "Description":"Handheld, 12 digit display, 4-function, memory",
+        "Introduced":"Jan. 1973",
+        "Kit Price":"$119.95",
+        "Assembled":"$149.95"
+    },
+    {
+        "Model":7440,
+        "Description":"Desktop, 14-digit, scientific",
+        "Introduced":"March 1973",
+        "Kit Price":"$199.95",
+        "Assembled":"$299.95"
+    },
+    {
+        "Model":"Programmer",
+        "Description":"256 step programmer for 7440, 816, 1440, 908DM.",
+        "Introduced":"Mar. 1973",
+        "Kit Price":"$199.95",
+        "Assembled":"$299.95"
+    },
+    {
+        "Model":150,
+        "Description":"Handheld, 8-digit, 4-function, square root, memory",
+        "Introduced":"Aug. 1973",
+        "Kit Price":"$119.95",
+        "Assembled":"$149.95"
+    },
+    {
+        "Model":"941M",
+        "Description":"Handheld, 8-digit, 4-function, percent, metric conversions",
+        "Introduced":"Jan. 1974",
+        "Kit Price":"$129.95",
+        "Assembled":"$149.95"
+    },
+    {
+        "Model":"908M",
+        "Description":"Handheld, 8-digit, 4-function, square root, memory",
+        "Introduced":"Jan. 1974",
+        "Kit Price":"$99.95",
+        "Assembled":"$129.95"
+    },
+    {
+        "Model":"605M",
+        "Description":"Handheld, 6-digit, 4-function, percent",
+        "Introduced":"Jan. 1974",
+        "Kit Price":"$49.95",
+        "Assembled":"$69.95"
+    },
+    {
+        "Model":"905M",
+        "Description":"Handheld, 8-digit, 4-function, percent",
+        "Introduced":"Jan. 1974",
+        "Kit Price":"$59.95",
+        "Assembled":"$69.95"
+    },
+    {
+        "Model":"908DM",
+        "Description":"Desktop, 8-digit, 4-function, percent",
+        "Introduced":"Feb. 1974",
+        "Kit Price":"$129.95",
+        "Assembled":"$149.95"
+    }
+]

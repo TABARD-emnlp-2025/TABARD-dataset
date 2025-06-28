@@ -1,0 +1,92 @@
+[
+  {
+    "Draft order\nRound": "@@@_-3",
+    "Draft order\nChoice": "1",
+    "Player": "Matthew Stafford",
+    "Position": "QB",
+    "Height": "6 ft 2 in (1.88 m)",
+    "Weight": "223 lb (101 kg)",
+    "College": "Georgia"
+  },
+  {
+    "Draft order\nRound": 1,
+    "Draft order\nChoice": "20 *",
+    "Player": "Brandon Pettigrew",
+    "Position": "TE",
+    "Height": "6 ft 5 in (1.96 m)",
+    "Weight": "263 lb (119 kg)",
+    "College": "Oklahoma State"
+  },
+  {
+    "Draft order\nRound": "@@@_-4",
+    "Draft order\nChoice": "33",
+    "Player": "Louis Delmas",
+    "Position": "S",
+    "Height": "5 ft 11 in (1.80 m)",
+    "Weight": "202 lb (92 kg)",
+    "College": "Western Michigan"
+  },
+  {
+    "Draft order\nRound": 3,
+    "Draft order\nChoice": "76**",
+    "Player": "DeAndre Levy",
+    "Position": "OLB",
+    "Height": "6 ft 2 in (1.88 m)",
+    "Weight": "236 lb (107 kg)",
+    "College": "Wisconsin"
+  },
+  {
+    "Draft order\nRound": 3,
+    "Draft order\nChoice": "82*",
+    "Player": "Derrick Williams",
+    "Position": "WR",
+    "Height": "5 ft 11 in (1.80 m)",
+    "Weight": "197 lb (89 kg)",
+    "College": "Penn State"
+  },
+  {
+    "Draft order\nRound": "@@@_34",
+    "Draft order\nChoice": "115***",
+    "Player": "Sammie Lee Hill",
+    "Position": "DT",
+    "Height": "6 ft 4 in (1.93 m)",
+    "Weight": "329 lb (149 kg)",
+    "College": "Stillman"
+  },
+  {
+    "Draft order\nRound": 6,
+    "Draft order\nChoice": "192*",
+    "Player": "Aaron Brown",
+    "Position": "RB",
+    "Height": "6 ft 1 in (1.85 m)",
+    "Weight": "196 lb (89 kg)",
+    "College": "Texas Christian"
+  },
+  {
+    "Draft order\nRound": 7,
+    "Draft order\nChoice": "228 ****",
+    "Player": "Lydon Murtha",
+    "Position": "OT",
+    "Height": "6 ft 7 in (2.01 m)",
+    "Weight": "@@@_None",
+    "College": "Nebraska"
+  },
+  {
+    "Draft order\nRound": 7,
+    "Draft order\nChoice": "235 *****",
+    "Player": "Zack Follett",
+    "Position": "OLB",
+    "Height": "6 ft 1 in (1.85 m)",
+    "Weight": "238 lb (108 kg)",
+    "College": "California"
+  },
+  {
+    "Draft order\nRound": 7,
+    "Draft order\nChoice": "@@@_None",
+    "Player": "Dan Gronkowski",
+    "Position": "TE",
+    "Height": "6 ft 6 in (1.98 m)",
+    "Weight": "255 lb (116 kg)",
+    "College": "Maryland"
+  }
+]

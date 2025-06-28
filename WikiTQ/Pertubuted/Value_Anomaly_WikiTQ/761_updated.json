@@ -1,0 +1,162 @@
+[
+  {
+    "Rank": "1",
+    "Nation": "Germany",
+    "Gold": 17,
+    "Silver": 9,
+    "Bronze": 14,
+    "Total": 40.0
+  },
+  {
+    "Rank": "2",
+    "Nation": "Russia",
+    "Gold": 12,
+    "Silver": 16,
+    "Bronze": 8,
+    "Total": 36.0
+  },
+  {
+    "Rank": "3",
+    "Nation": "Ukraine",
+    "Gold": 6,
+    "Silver": 11,
+    "Bronze": 9,
+    "Total": 26.0
+  },
+  {
+    "Rank": "4",
+    "Nation": "Norway",
+    "Gold": 6,
+    "Silver": 2,
+    "Bronze": 7,
+    "Total": 15.0
+  },
+  {
+    "Rank": "5",
+    "Nation": "France",
+    "Gold": 5,
+    "Silver": 4,
+    "Bronze": 3,
+    "Total": 12.0
+  },
+  {
+    "Rank": "6",
+    "Nation": "Switzerland",
+    "Gold": 3,
+    "Silver": 5,
+    "Bronze": 3,
+    "Total": 11.0
+  },
+  {
+    "Rank": "7",
+    "Nation": "Finland",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 4,
+    "Total": "@@@_None"
+  },
+  {
+    "Rank": "@@@_None",
+    "Nation": "Japan",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 1,
+    "Total": 5.0
+  },
+  {
+    "Rank": "9",
+    "Nation": "Netherlands",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 3.0
+  },
+  {
+    "Rank": "10",
+    "Nation": "Sweden",
+    "Gold": "@@@_-5",
+    "Silver": 2,
+    "Bronze": 2,
+    "Total": 5.0
+  },
+  {
+    "Rank": "11",
+    "Nation": "Denmark",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 2.0
+  },
+  {
+    "Rank": "12",
+    "Nation": "Unified Team",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 1.0
+  },
+  {
+    "Rank": "13",
+    "Nation": "Austria",
+    "Gold": 0,
+    "Silver": 4,
+    "Bronze": 0,
+    "Total": 4.0
+  },
+  {
+    "Rank": "14",
+    "Nation": "Slovakia",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 1,
+    "Total": "@@@_-31.0"
+  },
+  {
+    "Rank": "15",
+    "Nation": "Italy",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": "@@@_281.0"
+  },
+  {
+    "Rank": "15",
+    "Nation": "Poland",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  },
+  {
+    "Rank": "15",
+    "Nation": "Canada",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  },
+  {
+    "Rank": "15",
+    "Nation": "Belarus",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  },
+  {
+    "Rank": "15",
+    "Nation": "United States",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1.0
+  },
+  {
+    "Rank": "Total 19 nations",
+    "Nation": "Total 19 nations",
+    "Gold": 59,
+    "Silver": 59,
+    "Bronze": 59,
+    "Total": 177.0
+  }
+]

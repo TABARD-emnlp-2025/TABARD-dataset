@@ -1,0 +1,93 @@
+[
+    {
+        "Lift Name":"No",
+        "Type":"No",
+        "Top\nelevation\n(ft)":"No",
+        "Bottom\nelevation":"No",
+        "Vertical\nrise":"No",
+        "Length\n(ft)":"No",
+        "Slope\n(%)":"No",
+        "Capacity\n(rides\/hr)":"No",
+        "Speed\n(ft\/min)":"No",
+        "Lift\nManufacturer":"No",
+        "Year\ninstalled":"No"
+    },
+    {
+        "Lift Name":"No",
+        "Type":"No",
+        "Top\nelevation\n(ft)":"No",
+        "Bottom\nelevation":"No",
+        "Vertical\nrise":"No",
+        "Length\n(ft)":"No",
+        "Slope\n(%)":"No",
+        "Capacity\n(rides\/hr)":"No",
+        "Speed\n(ft\/min)":"Yes",
+        "Lift\nManufacturer":"No",
+        "Year\ninstalled":"No"
+    },
+    {
+        "Lift Name":"No",
+        "Type":"No",
+        "Top\nelevation\n(ft)":"No",
+        "Bottom\nelevation":"No",
+        "Vertical\nrise":"No",
+        "Length\n(ft)":"No",
+        "Slope\n(%)":"No",
+        "Capacity\n(rides\/hr)":"No",
+        "Speed\n(ft\/min)":"No",
+        "Lift\nManufacturer":"No",
+        "Year\ninstalled":"No"
+    },
+    {
+        "Lift Name":"No",
+        "Type":"No",
+        "Top\nelevation\n(ft)":"No",
+        "Bottom\nelevation":"No",
+        "Vertical\nrise":"No",
+        "Length\n(ft)":"Yes",
+        "Slope\n(%)":"No",
+        "Capacity\n(rides\/hr)":"No",
+        "Speed\n(ft\/min)":"No",
+        "Lift\nManufacturer":"No",
+        "Year\ninstalled":"Yes"
+    },
+    {
+        "Lift Name":"No",
+        "Type":"No",
+        "Top\nelevation\n(ft)":"No",
+        "Bottom\nelevation":"No",
+        "Vertical\nrise":"No",
+        "Length\n(ft)":"No",
+        "Slope\n(%)":"No",
+        "Capacity\n(rides\/hr)":"No",
+        "Speed\n(ft\/min)":"Yes",
+        "Lift\nManufacturer":"No",
+        "Year\ninstalled":"No"
+    },
+    {
+        "Lift Name":"No",
+        "Type":"No",
+        "Top\nelevation\n(ft)":"No",
+        "Bottom\nelevation":"No",
+        "Vertical\nrise":"No",
+        "Length\n(ft)":"No",
+        "Slope\n(%)":"No",
+        "Capacity\n(rides\/hr)":"No",
+        "Speed\n(ft\/min)":"No",
+        "Lift\nManufacturer":"No",
+        "Year\ninstalled":"No"
+    },
+    {
+        "Lift Name":"No",
+        "Type":"No",
+        "Top\nelevation\n(ft)":"No",
+        "Bottom\nelevation":"No",
+        "Vertical\nrise":"No",
+        "Length\n(ft)":"No",
+        "Slope\n(%)":"No",
+        "Capacity\n(rides\/hr)":"No",
+        "Speed\n(ft\/min)":"No",
+        "Lift\nManufacturer":"No",
+        "Year\ninstalled":"Yes"
+    }
+]

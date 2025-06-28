@@ -1,0 +1,121 @@
+[
+    {
+        "Week":1,
+        "Date":"September 1, 1991",
+        "Opponent":"Minnesota Vikings",
+        "Result":"W 10\u20136",
+        "Attendance":"64,112"
+    },
+    {
+        "Week":2,
+        "Date":"September 8, 1991",
+        "Opponent":"at Tampa Bay Buccaneers",
+        "Result":"W 21\u201320",
+        "Attendance":"65,625"
+    },
+    {
+        "Week":3,
+        "Date":"September 15, 1991",
+        "Opponent":"New York Giants",
+        "Result":"W 20\u201317",
+        "Attendance":"64,829"
+    },
+    {
+        "Week":4,
+        "Date":"September 23, 1991",
+        "Opponent":"New York Jets",
+        "Result":"W 19\u201313",
+        "Attendance":"65,255"
+    },
+    {
+        "Week":5,
+        "Date":"September 29, 1991",
+        "Opponent":"at Buffalo Bills",
+        "Result":"L 35\u201320",
+        "Attendance":"80,366"
+    },
+    {
+        "Week":6,
+        "Date":"October 6, 1991",
+        "Opponent":"Washington Redskins",
+        "Result":"L 20\u20137",
+        "Attendance":"64,941"
+    },
+    {
+        "Week":7,
+        "Date":"Bye",
+        "Opponent":"Bye",
+        "Result":"Bye",
+        "Attendance":"Bye"
+    },
+    {
+        "Week":8,
+        "Date":"October 17, 1991",
+        "Opponent":"at Green Bay Packers",
+        "Result":"W 10\u20130",
+        "Attendance":"58,435"
+    },
+    {
+        "Week":9,
+        "Date":"October 27, 1991",
+        "Opponent":"at New Orleans Saints",
+        "Result":"W 20\u201317",
+        "Attendance":"68,591"
+    },
+    {
+        "Week":10,
+        "Date":"November 3, 1991",
+        "Opponent":"Detroit Lions",
+        "Result":"W 20\u201310",
+        "Attendance":"57,281"
+    },
+    {
+        "Week":11,
+        "Date":"November 11, 1991",
+        "Opponent":"at Minnesota Vikings",
+        "Result":"W 34\u201317",
+        "Attendance":"59,001"
+    },
+    {
+        "Week":12,
+        "Date":"November 17, 1991",
+        "Opponent":"at Indianapolis Colts",
+        "Result":"W 31\u201317",
+        "Attendance":"60,519"
+    },
+    {
+        "Week":13,
+        "Date":"November 24, 1991",
+        "Opponent":"Miami Dolphins",
+        "Result":"L 16\u201313",
+        "Attendance":"58,288"
+    },
+    {
+        "Week":14,
+        "Date":"November 28, 1991",
+        "Opponent":"at Detroit Lions",
+        "Result":"L 16\u20136",
+        "Attendance":"78,879"
+    },
+    {
+        "Week":15,
+        "Date":"December 8, 1991",
+        "Opponent":"Green Bay Packers",
+        "Result":"W 27\u201313",
+        "Attendance":"62,353"
+    },
+    {
+        "Week":16,
+        "Date":"December 14, 1991",
+        "Opponent":"Tampa Bay Buccaneers",
+        "Result":"W 27\u20130",
+        "Attendance":"54,719"
+    },
+    {
+        "Week":17,
+        "Date":"December 23, 1991",
+        "Opponent":"at San Francisco 49ers",
+        "Result":"L 52\u201314",
+        "Attendance":"@@@_150,000"
+    }
+]

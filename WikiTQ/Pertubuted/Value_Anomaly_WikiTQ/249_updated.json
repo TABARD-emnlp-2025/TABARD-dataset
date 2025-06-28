@@ -1,0 +1,51 @@
+[
+  {
+    "km": "@@@_195",
+    "Municipality": "Canada-United States border",
+    "Location": "Canada-United States border",
+    "Interescting highway": "ND 18 – Cavalier, Larimore",
+    "Notes": "PTH 30 begins"
+  },
+  {
+    "km": "@@@_102",
+    "Municipality": "R.M. of Rhineland",
+    "Location": "Gretna",
+    "Interescting highway": "PR 243 east – Emerson",
+    "Notes": "begin PR 243 west concurrence"
+  },
+  {
+    "km": "@@@_-21",
+    "Municipality": "R.M. of Rhineland",
+    "Location": null,
+    "Interescting highway": "PR 243 west – Blumenfeld",
+    "Notes": "end PR 243 west concurrence"
+  },
+  {
+    "km": 10,
+    "Municipality": "R.M. of Rhineland",
+    "Location": null,
+    "Interescting highway": "PR 421 east – Sommerfeld",
+    "Notes": null
+  },
+  {
+    "km": "@@@_-45",
+    "Municipality": "R.M. of Rhineland",
+    "Location": "Altona",
+    "Interescting highway": "PR 201 west – Brown, Windygates, Snowflake",
+    "Notes": "begin PR 201 east concurrence"
+  },
+  {
+    "km": 18,
+    "Municipality": "R.M. of Rhineland",
+    "Location": null,
+    "Interescting highway": "PR 201 east – Letellier, Dominion City, Stuartburn",
+    "Notes": "end PR 201 east concurrence"
+  },
+  {
+    "km": 25,
+    "Municipality": "R.M. of Rhineland",
+    "Location": "Rosenfeld",
+    "Interescting highway": "PTH 14 – Morden, Winkler, Plum Coulee, Morris\n PR 332 north – Lowe Farm, Brunkild, Starbuck",
+    "Notes": "PTH 30 ends\nhighway continues as PR 332"
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "Rank": null,
+    "Bib": 1,
+    "Athlete": "Felix Loch",
+    "Country": "Germany",
+    "Run 1": "48.133 (1)",
+    "Run 2": "48.242 (1)",
+    "Total": "1:36.375",
+    "Behind": null
+  },
+  {
+    "Rank": null,
+    "Bib": 4,
+    "Athlete": "Andi Langenhan",
+    "Country": "Germany",
+    "Run 1": "48.316 (2)",
+    "Run 2": "48.434 (4)",
+    "Total": "1:36.750",
+    "Behind": 0.375
+  },
+  {
+    "Rank": null,
+    "Bib": 7,
+    "Athlete": "Johannes Ludwig",
+    "Country": "Germany",
+    "Run 1": "48.338 (3)",
+    "Run 2": "48.437 (5)",
+    "Total": "1:36.775",
+    "Behind": 0.4
+  },
+  {
+    "Rank": 4.0,
+    "Bib": 2,
+    "Athlete": "David Möller",
+    "Country": "Germany",
+    "Run 1": "48.424 (4)",
+    "Run 2": "48.362 (3)",
+    "Total": "1:36.786",
+    "Behind": "@@@_-1.5460968059"
+  },
+  {
+    "Rank": 5.0,
+    "Bib": 16,
+    "Athlete": "Samuel Edney",
+    "Country": "Canada",
+    "Run 1": "48.446 (5)",
+    "Run 2": "48.350 (2)",
+    "Total": "1:36.796",
+    "Behind": 0.421
+  },
+  {
+    "Rank": 6.0,
+    "Bib": 12,
+    "Athlete": "Chris Mazdzer",
+    "Country": "United States",
+    "Run 1": "48.581 (8)",
+    "Run 2": "48.543 (6)",
+    "Total": "1:37.124",
+    "Behind": 0.749
+  },
+  {
+    "Rank": 7.0,
+    "Bib": 3,
+    "Athlete": "Albert Demtschenko",
+    "Country": "Russia",
+    "Run 1": "48.578 (7)",
+    "Run 2": "48.552 (7)",
+    "Total": "1:37.130",
+    "Behind": 0.755
+  },
+  {
+    "Rank": 8.0,
+    "Bib": 5,
+    "Athlete": "Wolfgang Kindl",
+    "Country": "Austria",
+    "Run 1": "48.573 (6)",
+    "Run 2": "48.596 (10)",
+    "Total": "1:37.169",
+    "Behind": 0.794
+  },
+  {
+    "Rank": 9.0,
+    "Bib": 10,
+    "Athlete": "Inars Kivlenieks",
+    "Country": "Latvia",
+    "Run 1": "48.622 (10)",
+    "Run 2": "48.559 (8)",
+    "Total": "1:37.181",
+    "Behind": 0.806
+  },
+  {
+    "Rank": 10.0,
+    "Bib": 13,
+    "Athlete": "Daniel Pfister",
+    "Country": "Austria",
+    "Run 1": "48.602 (9)",
+    "Run 2": "48.654 (13)",
+    "Total": "1:37.256",
+    "Behind": 0.881
+  },
+  {
+    "Rank": 11.0,
+    "Bib": 18,
+    "Athlete": "Jo Alexander Koppang",
+    "Country": "Norway",
+    "Run 1": "48.695 (13)",
+    "Run 2": "48.608 (11)",
+    "Total": "1:37.303",
+    "Behind": 0.928
+  },
+  {
+    "Rank": 12.0,
+    "Bib": 19,
+    "Athlete": "Mārtiņš Rubenis",
+    "Country": "Latvia",
+    "Run 1": "48.675 (11)",
+    "Run 2": "48.653 (12)",
+    "Total": "1:37.328",
+    "Behind": 0.953
+  },
+  {
+    "Rank": 13.0,
+    "Bib": 14,
+    "Athlete": "Gregory Carigiet",
+    "Country": "Switzerland",
+    "Run 1": "48.699 (14)",
+    "Run 2": "48.663 (14)",
+    "Total": "1:37.362",
+    "Behind": 0.987
+  },
+  {
+    "Rank": 14.0,
+    "Bib": 8,
+    "Athlete": "Viktor Kneyb",
+    "Country": "Russia",
+    "Run 1": "48.692 (12)",
+    "Run 2": "48.752 (18)",
+    "Total": "1:37.444",
+    "Behind": 1.069
+  },
+  {
+    "Rank": 15.0,
+    "Bib": 20,
+    "Athlete": "Jozef Ninis",
+    "Country": "Slovakia",
+    "Run 1": "48.757 (15)",
+    "Run 2": "48.692 (15)",
+    "Total": "1:37.449",
+    "Behind": 1.074
+  },
+  {
+    "Rank": 16.0,
+    "Bib": 17,
+    "Athlete": "Dominik Fischnaller",
+    "Country": "Italy",
+    "Run 1": "48.918 (23)",
+    "Run 2": "48.576 (9)",
+    "Total": "1:37.494",
+    "Behind": 1.119
+  },
+  {
+    "Rank": 17.0,
+    "Bib": 21,
+    "Athlete": "Taylor Morris",
+    "Country": "United States",
+    "Run 1": "48.763 (16)",
+    "Run 2": "48.780 (20)",
+    "Total": "1:37.543",
+    "Behind": 1.168
+  },
+  {
+    "Rank": 18.0,
+    "Bib": 9,
+    "Athlete": "David Mair",
+    "Country": "Italy",
+    "Run 1": "48.793 (17)",
+    "Run 2": "48.771 (19)",
+    "Total": "1:37.564",
+    "Behind": 1.189
+  },
+  {
+    "Rank": 19.0,
+    "Bib": 25,
+    "Athlete": "Ondřej Hyman",
+    "Country": "Czech Republic",
+    "Run 1": "48.894 (21)",
+    "Run 2": "48.709 (16)",
+    "Total": "1:37.603",
+    "Behind": 1.228
+  },
+  {
+    "Rank": 20.0,
+    "Bib": 15,
+    "Athlete": "Manuel Pfister",
+    "Country": "Austria",
+    "Run 1": "48.889 (20)",
+    "Run 2": "48.780 (20)",
+    "Total": "1:37.669",
+    "Behind": 1.294
+  },
+  {
+    "Rank": 21.0,
+    "Bib": 11,
+    "Athlete": "Reinhard Egger",
+    "Country": "Austria",
+    "Run 1": "48.965 (25)",
+    "Run 2": "48.712 (17)",
+    "Total": "1:37.677",
+    "Behind": 1.302
+  },
+  {
+    "Rank": 22.0,
+    "Bib": 23,
+    "Athlete": "Thor Haug Norbech",
+    "Country": "Norway",
+    "Run 1": "48.869 (18)",
+    "Run 2": "48.855 (22)",
+    "Total": "1:37.724",
+    "Behind": 1.349
+  },
+  {
+    "Rank": 23.0,
+    "Bib": 24,
+    "Athlete": "Adam Rosen",
+    "Country": "Great Britain",
+    "Run 1": "48.878 (19)",
+    "Run 2": "48.884 (23)",
+    "Total": "1:37.762",
+    "Behind": "@@@_14.7813233417"
+  },
+  {
+    "Rank": 24.0,
+    "Bib": 28,
+    "Athlete": "John Fennell",
+    "Country": "Canada",
+    "Run 1": "48.915 (22)",
+    "Run 2": "48.968 (24)",
+    "Total": "1:37.883",
+    "Behind": 1.508
+  },
+  {
+    "Rank": 25.0,
+    "Bib": 30,
+    "Athlete": "Mitchel Malyk",
+    "Country": "Canada",
+    "Run 1": "48.935 (24)",
+    "Run 2": "49.005 (25)",
+    "Total": "1:37.940",
+    "Behind": 1.565
+  },
+  {
+    "Rank": 26.0,
+    "Bib": 22,
+    "Athlete": "Kristaps Maurins",
+    "Country": "Latvia",
+    "Run 1": "48.966 (26)",
+    "Run 2": null,
+    "Total": "48.966",
+    "Behind": null
+  },
+  {
+    "Rank": 27.0,
+    "Bib": 29,
+    "Athlete": "Aleksandr Peretjagin",
+    "Country": "Russia",
+    "Run 1": "48.995 (27)",
+    "Run 2": null,
+    "Total": "48.995",
+    "Behind": null
+  },
+  {
+    "Rank": 28.0,
+    "Bib": 27,
+    "Athlete": "Bruno Banani",
+    "Country": "Tonga",
+    "Run 1": "49.026 (28)",
+    "Run 2": null,
+    "Total": "49.026",
+    "Behind": null
+  },
+  {
+    "Rank": 29.0,
+    "Bib": 34,
+    "Athlete": "Andriy Mandziy",
+    "Country": "Ukraine",
+    "Run 1": "49.075 (29)",
+    "Run 2": null,
+    "Total": "49.075",
+    "Behind": null
+  },
+  {
+    "Rank": 30.0,
+    "Bib": 26,
+    "Athlete": "Maciej Kurowski",
+    "Country": "Poland",
+    "Run 1": "49.099 (30)",
+    "Run 2": null,
+    "Total": "49.099",
+    "Behind": null
+  },
+  {
+    "Rank": 31.0,
+    "Bib": 31,
+    "Athlete": "Tonnes Stang Rolfsen",
+    "Country": "Norway",
+    "Run 1": "49.120 (31)",
+    "Run 2": null,
+    "Total": "49.120",
+    "Behind": null
+  },
+  {
+    "Rank": 32.0,
+    "Bib": 32,
+    "Athlete": "Valentin Cretu",
+    "Country": "Romania",
+    "Run 1": "49.201 (32)",
+    "Run 2": null,
+    "Total": "49.201",
+    "Behind": null
+  },
+  {
+    "Rank": "@@@_-22.4736842105",
+    "Bib": 33,
+    "Athlete": "Andriy Kis",
+    "Country": "Ukraine",
+    "Run 1": "49.201 (32)",
+    "Run 2": null,
+    "Total": "49.201",
+    "Behind": null
+  },
+  {
+    "Rank": 34.0,
+    "Bib": "@@@_288",
+    "Athlete": "Danej Navrboc",
+    "Country": "Slovenia",
+    "Run 1": "49.307 (34)",
+    "Run 2": null,
+    "Total": "49.307",
+    "Behind": null
+  },
+  {
+    "Rank": 35.0,
+    "Bib": "@@@_-21",
+    "Athlete": "Hidenari Kanayama",
+    "Country": "Japan",
+    "Run 1": "49.584 (35)",
+    "Run 2": null,
+    "Total": "49.584",
+    "Behind": null
+  },
+  {
+    "Rank": 36.0,
+    "Bib": 37,
+    "Athlete": "Pavel Angelov",
+    "Country": "Bulgaria",
+    "Run 1": "49.968 (36)",
+    "Run 2": null,
+    "Total": "49.968",
+    "Behind": null
+  },
+  {
+    "Rank": 37.0,
+    "Bib": 38,
+    "Athlete": "Tilen Sirse",
+    "Country": "Slovenia",
+    "Run 1": "50.001 (37)",
+    "Run 2": null,
+    "Total": "50.001",
+    "Behind": null
+  },
+  {
+    "Rank": 38.0,
+    "Bib": 39,
+    "Athlete": "Kim Dong-Hyeon",
+    "Country": "South Korea",
+    "Run 1": "50.375 (38)",
+    "Run 2": null,
+    "Total": "50.375",
+    "Behind": null
+  },
+  {
+    "Rank": 39.0,
+    "Bib": 40,
+    "Athlete": "Stanislav Benyov",
+    "Country": "Bulgaria",
+    "Run 1": "50.590 (39)",
+    "Run 2": null,
+    "Total": "50.590",
+    "Behind": null
+  },
+  {
+    "Rank": 40.0,
+    "Bib": 6,
+    "Athlete": "Semen Pavlichenko",
+    "Country": "Russia",
+    "Run 1": "51.791 (40)",
+    "Run 2": null,
+    "Total": "51.791",
+    "Behind": null
+  },
+  {
+    "Rank": 41.0,
+    "Bib": 41,
+    "Athlete": "Imre Pulai",
+    "Country": "Hungary",
+    "Run 1": "52.512 (41)",
+    "Run 2": null,
+    "Total": "52.512",
+    "Behind": null
+  }
+]

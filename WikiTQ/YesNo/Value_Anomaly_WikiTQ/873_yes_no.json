@@ -1,0 +1,72 @@
+[
+    {
+        "#":"Yes",
+        "Name":"No",
+        "Alma mater":"No",
+        "Birth date":"No",
+        "Marriage date":"No",
+        "President":"No",
+        "Tenure":"No",
+        "Tenure.1":"No"
+    },
+    {
+        "#":"No",
+        "Name":"No",
+        "Alma mater":"No",
+        "Birth date":"Yes",
+        "Marriage date":"No",
+        "President":"No",
+        "Tenure":"No",
+        "Tenure.1":"No"
+    },
+    {
+        "#":"No",
+        "Name":"No",
+        "Alma mater":"No",
+        "Birth date":"No",
+        "Marriage date":"No",
+        "President":"No",
+        "Tenure":"No",
+        "Tenure.1":"No"
+    },
+    {
+        "#":"Yes",
+        "Name":"No",
+        "Alma mater":"No",
+        "Birth date":"No",
+        "Marriage date":"No",
+        "President":"No",
+        "Tenure":"No",
+        "Tenure.1":"No"
+    },
+    {
+        "#":"No",
+        "Name":"No",
+        "Alma mater":"No",
+        "Birth date":"No",
+        "Marriage date":"No",
+        "President":"No",
+        "Tenure":"No",
+        "Tenure.1":"No"
+    },
+    {
+        "#":"Yes",
+        "Name":"No",
+        "Alma mater":"No",
+        "Birth date":"No",
+        "Marriage date":"No",
+        "President":"No",
+        "Tenure":"No",
+        "Tenure.1":"No"
+    },
+    {
+        "#":"No",
+        "Name":"No",
+        "Alma mater":"No",
+        "Birth date":"No",
+        "Marriage date":"No",
+        "President":"No",
+        "Tenure":"No",
+        "Tenure.1":"No"
+    }
+]

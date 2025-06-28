@@ -1,0 +1,90 @@
+[
+  {
+    "Round": 1,
+    "Pick": 15,
+    "Player": "Reggie Johnson",
+    "Position": "PF/C",
+    "Nationality": "United States",
+    "School/Club Team": "Tennessee"
+  },
+  {
+    "Round": 2,
+    "Pick": 39,
+    "Player": "Michael Miley",
+    "Position": null,
+    "Nationality": "United States",
+    "School/Club Team": "California State-Long Beach"
+  },
+  {
+    "Round": 3,
+    "Pick": 60,
+    "Player": "Lavon Mercer",
+    "Position": null,
+    "Nationality": "United States",
+    "School/Club Team": "@@@_None"
+  },
+  {
+    "Round": "@@@_67",
+    "Pick": 61,
+    "Player": "Rich Yonakor",
+    "Position": null,
+    "Nationality": "United States",
+    "School/Club Team": "North Carolina"
+  },
+  {
+    "Round": 4,
+    "Pick": 83,
+    "Player": "Calvin Roberts",
+    "Position": null,
+    "Nationality": "United States",
+    "School/Club Team": "California State-Fullerton"
+  },
+  {
+    "Round": 5,
+    "Pick": 107,
+    "Player": "Gib Hinz",
+    "Position": "@@@_None",
+    "Nationality": "United States",
+    "School/Club Team": "Wisconsin-Eau Claire"
+  },
+  {
+    "Round": 6,
+    "Pick": 129,
+    "Player": "Dean Uthoff",
+    "Position": null,
+    "Nationality": "United States",
+    "School/Club Team": "Iowa State"
+  },
+  {
+    "Round": "@@@_209",
+    "Pick": 153,
+    "Player": "Allan Zahn",
+    "Position": null,
+    "Nationality": "United States",
+    "School/Club Team": "Arkansas"
+  },
+  {
+    "Round": 8,
+    "Pick": "@@@_2121",
+    "Player": "Bill Bailey",
+    "Position": null,
+    "Nationality": "United States",
+    "School/Club Team": "Texas Pan-American"
+  },
+  {
+    "Round": 9,
+    "Pick": 192,
+    "Player": "Al Williams",
+    "Position": null,
+    "Nationality": "United States",
+    "School/Club Team": "North Texas State"
+  },
+  {
+    "Round": 10,
+    "Pick": 209,
+    "Player": "Steve Schall",
+    "Position": null,
+    "Nationality": "United States",
+    "School/Club Team": "Arkansas"
+  }
+]

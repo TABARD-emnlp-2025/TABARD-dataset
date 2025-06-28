@@ -1,0 +1,93 @@
+[
+    {
+        "Seat":"HINKLER",
+        "State":"Qld",
+        "Majority":0.0,
+        "Member":"Paul Neville",
+        "Party":"NPA"
+    },
+    {
+        "Seat":"SOLOMON",
+        "State":"NT",
+        "Majority":0.1,
+        "Member":"Dave Tollner",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"ADELAIDE",
+        "State":"SA",
+        "Majority":0.2,
+        "Member":"Hon Trish Worth",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"CANNING",
+        "State":"WA",
+        "Majority":0.4,
+        "Member":"Don Randall",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"DOBELL",
+        "State":"NSW",
+        "Majority":0.4,
+        "Member":"Ken Ticehurst",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"PARRAMATTA",
+        "State":"NSW",
+        "Majority":1.1,
+        "Member":"Ross Cameron",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"McEWEN",
+        "State":"Vic",
+        "Majority":1.2,
+        "Member":"Fran Bailey",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"PATERSON",
+        "State":"NSW",
+        "Majority":1.4,
+        "Member":"Bob Baldwin",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"HERBERT",
+        "State":"Qld",
+        "Majority":1.6,
+        "Member":"Peter Lindsay",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"RICHMOND",
+        "State":"NSW",
+        "Majority":1.6,
+        "Member":"Hon Larry Anthony",
+        "Party":"NPA"
+    },
+    {
+        "Seat":"DEAKIN",
+        "State":"Vic",
+        "Majority":1.7,
+        "Member":"Philip Barresi",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"EDEN-MONARO",
+        "State":"NSW",
+        "Majority":1.7,
+        "Member":"Gary Nairn",
+        "Party":"Lib"
+    },
+    {
+        "Seat":"HINDMARSH",
+        "State":"SA",
+        "Majority":"nan",
+        "Member":"Hon Christine Gallus",
+        "Party":"Lib"
+    }
+]

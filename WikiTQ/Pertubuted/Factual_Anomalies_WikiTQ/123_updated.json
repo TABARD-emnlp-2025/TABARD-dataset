@@ -1,0 +1,112 @@
+[
+    {
+        "Week":1,
+        "Date":"Saturday, April 13",
+        "Kickoff":"7:00 p.m.",
+        "Opponent":"at Rhein Fire",
+        "Results\nFinal score":"W 27\u201321",
+        "Results\nTeam record":"1\u20130",
+        "Game site":"Rheinstadion",
+        "Attendance":"32,092"
+    },
+    {
+        "Week":2,
+        "Date":"Saturday, April 20",
+        "Kickoff":"7:00 p.m.",
+        "Opponent":"London Monarchs",
+        "Results\nFinal score":"W 37\u20133",
+        "Results\nTeam record":"2\u20130",
+        "Game site":"Waldstadion",
+        "Attendance":"34,186"
+    },
+    {
+        "Week":3,
+        "Date":"Sunday, April 28",
+        "Kickoff":"6:00 p.m.",
+        "Opponent":"at Barcelona Dragons",
+        "Results\nFinal score":"W 33\u201329",
+        "Results\nTeam record":"@@@_3\u20100",
+        "Game site":"Estadi Ol\u00edmpic de Montju\u00efc",
+        "Attendance":"17,503"
+    },
+    {
+        "Week":4,
+        "Date":"Sunday, May 5",
+        "Kickoff":"7:00 p.m.",
+        "Opponent":"Amsterdam Admirals",
+        "Results\nFinal score":"W 40\u201328",
+        "Results\nTeam record":"@@@_4\u20100",
+        "Game site":"Waldstadion",
+        "Attendance":"28,627"
+    },
+    {
+        "Week":5,
+        "Date":"Saturday, May 11",
+        "Kickoff":"7:00 p.m.",
+        "Opponent":"Scottish Claymores",
+        "Results\nFinal score":"L 0\u201320",
+        "Results\nTeam record":"4\u20131",
+        "Game site":"Waldstadion",
+        "Attendance":"32,126"
+    },
+    {
+        "Week":6,
+        "Date":"Sunday, May 19",
+        "Kickoff":"3:00 p.m.",
+        "Opponent":"at London Monarchs",
+        "Results\nFinal score":"L 7\u201327",
+        "Results\nTeam record":"4\u20132",
+        "Game site":"White Hart Lane",
+        "Attendance":"10,764"
+    },
+    {
+        "Week":7,
+        "Date":"Sunday, May 26",
+        "Kickoff":"3:00 p.m.",
+        "Opponent":"at Scottish Claymores",
+        "Results\nFinal score":"L 17\u201320",
+        "Results\nTeam record":"4\u20133",
+        "Game site":"Murrayfield Stadium",
+        "Attendance":"13,116"
+    },
+    {
+        "Week":8,
+        "Date":"Saturday, June 1",
+        "Kickoff":"7:00 p.m.",
+        "Opponent":"Rhein Fire",
+        "Results\nFinal score":"L 8\u201331",
+        "Results\nTeam record":"4\u20134",
+        "Game site":"Waldstadion",
+        "Attendance":"@@@_48,798"
+    },
+    {
+        "Week":9,
+        "Date":"Saturday, June 8",
+        "Kickoff":"7:00 p.m.",
+        "Opponent":"Barcelona Dragons",
+        "Results\nFinal score":"W 24\u201321",
+        "Results\nTeam record":"5\u20134",
+        "Game site":"Waldstadion",
+        "Attendance":"33,115"
+    },
+    {
+        "Week":10,
+        "Date":"Saturday, June 15",
+        "Kickoff":"6:30 p.m.",
+        "Opponent":"at Amsterdam Admirals",
+        "Results\nFinal score":"W 28\u201320",
+        "Results\nTeam record":"6\u20134",
+        "Game site":"Olympisch Stadion",
+        "Attendance":"@@@_104,062"
+    },
+    {
+        "Week":11,
+        "Date":"Sunday, June 23",
+        "Kickoff":"6:00 p.m.",
+        "Opponent":"at Scottish Claymores",
+        "Results\nFinal score":"L 27\u201332",
+        "Results\nTeam record":"6\u20135",
+        "Game site":"Murrayfield Stadium",
+        "Attendance":"38,982"
+    }
+]

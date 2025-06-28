@@ -1,0 +1,263 @@
+[
+    {
+        "Rank":1,
+        "Player":"Alan Shearer",
+        "Premier League club(s)":"Blackburn Rovers, Newcastle United",
+        "National team":"England",
+        "Goals":260,
+        "Played":441,
+        "Ratio":0.59
+    },
+    {
+        "Rank":2,
+        "Player":"Wayne Rooney",
+        "Premier League club(s)":"Everton, Manchester United",
+        "National team":"ENG",
+        "Goals":208,
+        "Played":494,
+        "Ratio":0.42
+    },
+    {
+        "Rank":3,
+        "Player":"Andy Cole",
+        "Premier League club(s)":"Newcastle United, Manchester United, Blackburn Rovers, Fulham, Manchester City, Portsmouth",
+        "National team":"England",
+        "Goals":187,
+        "Played":414,
+        "Ratio":0.45
+    },
+    {
+        "Rank":4,
+        "Player":"Frank Lampard",
+        "Premier League club(s)":"West Ham United, Chelsea, Manchester City",
+        "National team":"England",
+        "Goals":177,
+        "Played":609,
+        "Ratio":0.29
+    },
+    {
+        "Rank":5,
+        "Player":"Thierry Henry",
+        "Premier League club(s)":"Arsenal",
+        "National team":"France",
+        "Goals":175,
+        "Played":258,
+        "Ratio":0.68
+    },
+    {
+        "Rank":6,
+        "Player":"Sergio Agüero",
+        "Premier League club(s)":"Manchester City",
+        "National team":"Argentina",
+        "Goals":163,
+        "Played":237,
+        "Ratio":0.69
+    },
+    {
+        "Rank":6,
+        "Player":"Robbie Fowler",
+        "Premier League club(s)":"Liverpool, Leeds United, Manchester City, Blackburn Rovers",
+        "National team":"England",
+        "Goals":163,
+        "Played":379,
+        "Ratio":0.43
+    },
+    {
+        "Rank":7,
+        "Player":"Jermain Defoe",
+        "Premier League club(s)":"West Ham United, Portsmouth, Tottenham Hotspurs, Sunderland, Bournemouth",
+        "National team":"England",
+        "Goals":162,
+        "Played":496,
+        "Ratio":0.33
+    },
+    {
+        "Rank":9,
+        "Player":"Michael Owen",
+        "Premier League club(s)":"Liverpool, Newcastle United, Manchester United, Stoke City",
+        "National team":"England",
+        "Goals":150,
+        "Played":326,
+        "Ratio":0.46
+    },
+    {
+        "Rank":10,
+        "Player":"Les Ferdinand",
+        "Premier League club(s)":"Queens Park Rangers, Newcastle United, Tottenham Hotspur, West Ham United, Leicester City, Bolton Wanderers",
+        "National team":"England",
+        "Goals":149,
+        "Played":351,
+        "Ratio":0.42
+    },
+    {
+        "Rank":11,
+        "Player":"Teddy Sheringham",
+        "Premier League club(s)":"Nottingham Forest, Tottenham Hotspur, Manchester United, Portsmouth, West Ham United",
+        "National team":"England",
+        "Goals":146,
+        "Played":418,
+        "Ratio":0.35
+    },
+    {
+        "Rank":12,
+        "Player":"Robin van Persie",
+        "Premier League club(s)":"Arsenal, Manchester United",
+        "National team":"Netherlands",
+        "Goals":144,
+        "Played":280,
+        "Ratio":0.51
+    },
+    {
+        "Rank":13,
+        "Player":"Jimmy Floyd Hasselbaink",
+        "Premier League club(s)":"Leeds United, Chelsea, Middlesbrough, Charlton Athletic",
+        "National team":"Netherlands",
+        "Goals":127,
+        "Played":288,
+        "Ratio":0.44
+    },
+    {
+        "Rank":14,
+        "Player":"Robbie Keane",
+        "Premier League club(s)":"Coventry City, Leeds United, Tottenham Hotspur, Liverpool, West Ham United, Aston Villa",
+        "National team":"Republic of Ireland",
+        "Goals":126,
+        "Played":349,
+        "Ratio":0.36
+    },
+    {
+        "Rank":15,
+        "Player":"Harry Kane",
+        "Premier League club(s)":"Tottenham Hotspur, Norwich City",
+        "National team":"England",
+        "Goals":125,
+        "Played":181,
+        "Ratio":0.69
+    },
+    {
+        "Rank":15,
+        "Player":"Nicolas Anelka",
+        "Premier League club(s)":"Arsenal, Liverpool, Manchester City, Bolton Wanderers, Chelsea, West Bromwich Albion",
+        "National team":"France",
+        "Goals":125,
+        "Played":364,
+        "Ratio":0.34
+    },
+    {
+        "Rank":17,
+        "Player":"Dwight Yorke",
+        "Premier League club(s)":"Aston Villa, Manchester United, Blackburn Rovers, Birmingham City, Sunderland",
+        "National team":"Trinidad and Tobago",
+        "Goals":123,
+        "Played":375,
+        "Ratio":0.33
+    },
+    {
+        "Rank":18,
+        "Player":"Steven Gerrard",
+        "Premier League club(s)":"Liverpool",
+        "National team":"England",
+        "Goals":120,
+        "Played":504,
+        "Ratio":0.24
+    },
+    {
+        "Rank":19,
+        "Player":"Ian Wright",
+        "Premier League club(s)":"Arsenal, West Ham United",
+        "National team":"England",
+        "Goals":113,
+        "Played":213,
+        "Ratio":0.53
+    },
+    {
+        "Rank":19,
+        "Player":"Romelu Lukaku",
+        "Premier League club(s)":"Chelsea, West Bromwich Albion, Everton, Manchester United",
+        "National team":"BEL",
+        "Goals":113,
+        "Played":252,
+        "Ratio":0.45
+    },
+    {
+        "Rank":21,
+        "Player":"Dion Dublin",
+        "Premier League club(s)":"Manchester United, Coventry City, Aston Villa",
+        "National team":"England",
+        "Goals":111,
+        "Played":312,
+        "Ratio":0.36
+    },
+    {
+        "Rank":22,
+        "Player":"Emile Heskey",
+        "Premier League club(s)":"Leicester City, Liverpool, Birmingham City, Wigan Athletic, Aston Villa",
+        "National team":"England",
+        "Goals":110,
+        "Played":516,
+        "Ratio":0.21
+    },
+    {
+        "Rank":23,
+        "Player":"Ryan Giggs",
+        "Premier League club(s)":"Manchester United",
+        "National team":"Wales",
+        "Goals":109,
+        "Played":632,
+        "Ratio":0.17
+    },
+    {
+        "Rank":24,
+        "Player":"Peter Crouch",
+        "Premier League club(s)":"Aston Villa, Southampton, Liverpool, Portsmouth, Tottenham Hotspur, Stoke City, Burnley",
+        "National team":"England",
+        "Goals":108,
+        "Played":467,
+        "Ratio":0.23
+    },
+    {
+        "Rank":25,
+        "Player":"Paul Scholes",
+        "Premier League club(s)":"Manchester United",
+        "National team":"England",
+        "Goals":107,
+        "Played":499,
+        "Ratio":0.21
+    },
+    {
+        "Rank":26,
+        "Player":"Darren Bent",
+        "Premier League club(s)":"Ipswich Town, Charlton Athletic, Tottenham Hotspur, Sunderland, Aston Villa, Fulham",
+        "National team":"England",
+        "Goals":106,
+        "Played":276,
+        "Ratio":0.38
+    },
+    {
+        "Rank":27,
+        "Player":"Didier Drogba",
+        "Premier League club(s)":"Chelsea",
+        "National team":"Ivory Coast",
+        "Goals":104,
+        "Played":254,
+        "Ratio":0.41
+    },
+    {
+        "Rank":28,
+        "Player":"Matt Le Tissier",
+        "Premier League club(s)":"Southhampton",
+        "National team":"England",
+        "Goals":100,
+        "Played":270,
+        "Ratio":0.37
+    },
+    {
+        "Rank":"As of 29 April 2019. Sources:",
+        "Player":"As of 29 April 2019. Sources:",
+        "Premier League club(s)":"As of 29 April 2019. Sources:",
+        "National team":"As of 29 April 2019. Sources:",
+        "Goals":"As of 29 April 2019. Sources:",
+        "Played":"As of 29 April 2019. Sources:",
+        "Ratio":"As of 29 April 2019. Sources:"
+    }
+]

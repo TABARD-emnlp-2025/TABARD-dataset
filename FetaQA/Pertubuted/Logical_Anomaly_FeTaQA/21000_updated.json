@@ -1,0 +1,142 @@
+[
+    {
+        "colspanParty":"Christian Social Party",
+        "Votes":"1,245,531",
+        "%":41.8,
+        "Seats":85,
+        "+\/\u2212":16
+    },
+    {
+        "colspanParty":"Social Democratic Party",
+        "Votes":"1,072,709",
+        "%":36.0,
+        "Seats":69,
+        "+\/\u2212":"\u22123"
+    },
+    {
+        "colspanParty":"Greater German People's Party",
+        "Votes":"390,013",
+        "%":13.1,
+        "Seats":21,
+        "+\/\u2212":"New"
+    },
+    {
+        "colspanParty":"Landbund",
+        "Votes":"124,114",
+        "%":4.2,
+        "Seats":7,
+        "+\/\u2212":"New"
+    },
+    {
+        "colspanParty":"Civic Workers' Party",
+        "Votes":"42,826",
+        "%":1.4,
+        "Seats":1,
+        "+\/\u2212":"New"
+    },
+    {
+        "colspanParty":"Democrats",
+        "Votes":"42,826",
+        "%":1.4,
+        "Seats":0,
+        "+\/\u2212":0
+    },
+    {
+        "colspanParty":"Burgenland Citizens' and Farmers' Party",
+        "Votes":"42,826",
+        "%":1.4,
+        "Seats":0,
+        "+\/\u2212":"New"
+    },
+    {
+        "colspanParty":"Communist Party of Austria",
+        "Votes":"27,386",
+        "%":0.9,
+        "Seats":0,
+        "+\/\u2212":"New"
+    },
+    {
+        "colspanParty":"Socialist and Democratic Czechoslovakians",
+        "Votes":"7,580",
+        "%":0.3,
+        "Seats":0,
+        "+\/\u2212":"\u22121"
+    },
+    {
+        "colspanParty":"Christian National Unity List",
+        "Votes":"70,169",
+        "%":2.4,
+        "Seats":0,
+        "+\/\u2212":"New"
+    },
+    {
+        "colspanParty":"Jewish National Party",
+        "Votes":"70,169",
+        "%":2.4,
+        "Seats":0,
+        "+\/\u2212":"\u22121"
+    },
+    {
+        "colspanParty":"Carinthian Slovenes",
+        "Votes":"70,169",
+        "%":2.4,
+        "Seats":0,
+        "+\/\u2212":"New"
+    },
+    {
+        "colspanParty":"Invalid\/blank votes",
+        "Votes":"31,455",
+        "%":"\u2013",
+        "Seats":"\u2013",
+        "+\/\u2212":"@@@_\u22122"
+    },
+    {
+        "colspanParty":"Total",
+        "Votes":"3,011,783",
+        "%":100,
+        "Seats":183,
+        "+\/\u2212":13
+    },
+    {
+        "colspanParty":"Source: Mackie & Rose, Nohlen & St\u00f6ver",
+        "Votes":"Source: Mackie & Rose, Nohlen & St\u00f6ver",
+        "%":"Source: Mackie & Rose, Nohlen & St\u00f6ver",
+        "Seats":"Source: Mackie & Rose, Nohlen & St\u00f6ver",
+        "+\/\u2212":"Source: Mackie & Rose, Nohlen & St\u00f6ver"
+    },
+    {
+        "colspanParty":"Christian Social Party",
+        "Votes":"1,245,531",
+        "%":41.8,
+        "Seats":185,
+        "+\/\u2212":116
+    },
+    {
+        "colspanParty":"Communist Party of Austria",
+        "Votes":"-10",
+        "%":0.9,
+        "Seats":0,
+        "+\/\u2212":"New"
+    },
+    {
+        "colspanParty":"Greater German People's Party",
+        "Votes":"390,013",
+        "%":113.1,
+        "Seats":21,
+        "+\/\u2212":"New"
+    },
+    {
+        "colspanParty":"Social Democratic Party",
+        "Votes":"1,072,709",
+        "%":0,
+        "Seats":69,
+        "+\/\u2212":"\u22123"
+    },
+    {
+        "colspanParty":"Landbund",
+        "Votes":"124,114",
+        "%":4.2,
+        "Seats":7,
+        "+\/\u2212":"\u221210"
+    }
+]

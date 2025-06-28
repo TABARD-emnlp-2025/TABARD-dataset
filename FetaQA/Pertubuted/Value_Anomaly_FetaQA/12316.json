@@ -1,0 +1,30 @@
+[
+    {
+        "Channel":null,
+        "Video":"1080i",
+        "Aspect":"16:9",
+        "PSIP Short Name":"WPRI-HD",
+        "Programming":"Main WPRI-TV programming \/ CBS"
+    },
+    {
+        "Channel":12.2,
+        "Video":"720p",
+        "Aspect":"16:9",
+        "PSIP Short Name":"MYRI",
+        "Programming":"MyRITV \/ MyNetworkTV"
+    },
+    {
+        "Channel":-268.6213764231,
+        "Video":null,
+        "Aspect":"4:3",
+        "PSIP Short Name":"Bounce",
+        "Programming":"Bounce TV"
+    },
+    {
+        "Channel":156.8376528141,
+        "Video":"480i",
+        "Aspect":"4:3",
+        "PSIP Short Name":"get TV",
+        "Programming":"GetTV"
+    }
+]

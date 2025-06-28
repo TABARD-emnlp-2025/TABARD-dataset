@@ -1,0 +1,65 @@
+[
+  {
+    "Outcome": "Loser",
+    "Edition": 2010,
+    "Round": "World Group Playoffs",
+    "Opponent Team": "Slovakia",
+    "Surface": "Clay (i)",
+    "Opponent": "Daniela Hantuchová",
+    "Score": "@@@_None"
+  },
+  {
+    "Outcome": "Winner",
+    "Edition": "@@@_32379",
+    "Round": "World Group Playoffs",
+    "Opponent Team": "Slovakia",
+    "Surface": "Clay (i)",
+    "Opponent": "Magdaléna Rybáriková",
+    "Score": "6–1, 7–6(7–4)"
+  },
+  {
+    "Outcome": "Winner",
+    "Edition": 2011,
+    "Round": "World Group II",
+    "Opponent Team": "Canada",
+    "Surface": "Hard (i)",
+    "Opponent": "Aleksandra Wozniak",
+    "Score": "6–4, 7–5"
+  },
+  {
+    "Outcome": "Winner",
+    "Edition": 2011,
+    "Round": "World Group II",
+    "Opponent Team": "Canada",
+    "Surface": "Hard (i)",
+    "Opponent": "Rebecca Marino",
+    "Score": "7–6(7–3), 6–3"
+  },
+  {
+    "Outcome": "Loser",
+    "Edition": "@@@_-6349",
+    "Round": "World Group Playoffs",
+    "Opponent Team": "Slovakia",
+    "Surface": "Clay (i)",
+    "Opponent": "Dominika Cibulková",
+    "Score": "6–4, 3–6, 1–6"
+  },
+  {
+    "Outcome": "Loser",
+    "Edition": "@@@_-5155",
+    "Round": "World Group",
+    "Opponent Team": "Belgium",
+    "Surface": "Hard (i)",
+    "Opponent": "Yanina Wickmayer",
+    "Score": "4–6, 4–6"
+  },
+  {
+    "Outcome": "Winner",
+    "Edition": 2012,
+    "Round": "World Group",
+    "Opponent Team": "Belgium",
+    "Surface": "Hard (i)",
+    "Opponent": "@@@_None",
+    "Score": "6–2, 6–4"
+  }
+]

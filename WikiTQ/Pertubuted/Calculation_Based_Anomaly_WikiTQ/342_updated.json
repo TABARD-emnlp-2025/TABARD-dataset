@@ -1,0 +1,82 @@
+[
+    {
+        "#":1.0,
+        "Player":"Fabien Pelous",
+        "Span":"1997-2006",
+        "Caps":42,
+        "Total caps":"@@@_113",
+        "Win %":"64.28%"
+    },
+    {
+        "#":2.0,
+        "Player":"Rapha\u00ebl Iba\u00f1ez",
+        "Span":"1998-2007",
+        "Caps":41,
+        "Total caps":98,
+        "Win %":"63.41%"
+    },
+    {
+        "#":3.0,
+        "Player":"Jean-Pierre Rives",
+        "Span":"1978-1984",
+        "Caps":34,
+        "Total caps":59,
+        "Win %":"55.88%"
+    },
+    {
+        "#":3.0,
+        "Player":"Philippe Saint-Andr\u00e9",
+        "Span":"1994-1997",
+        "Caps":34,
+        "Total caps":69,
+        "Win %":"@@@_82.53%"
+    },
+    {
+        "#":5.0,
+        "Player":"Thierry Dusautoir",
+        "Span":"2009-",
+        "Caps":31,
+        "Total caps":54,
+        "Win %":"54.84%"
+    },
+    {
+        "#":6.0,
+        "Player":"Daniel Dubroca",
+        "Span":"1986-1988",
+        "Caps":11,
+        "Total caps":"@@@_38",
+        "Win %":"72.00%"
+    },
+    {
+        "#":6.0,
+        "Player":"Fabien Galthi\u00e9",
+        "Span":"1999-2003",
+        "Caps":11,
+        "Total caps":64,
+        "Win %":"64.00%"
+    },
+    {
+        "#":8.0,
+        "Player":"Guy Basquet",
+        "Span":"1948-1952",
+        "Caps":11,
+        "Total caps":33,
+        "Win %":"@@@_55.00%"
+    },
+    {
+        "#":9.0,
+        "Player":"Michel Crauste",
+        "Span":"1961-1966",
+        "Caps":11,
+        "Total caps":63,
+        "Win %":"68.18%"
+    },
+    {
+        "#":10.0,
+        "Player":"Jacques Fouroux",
+        "Span":"1974-1977",
+        "Caps":11,
+        "Total caps":"@@@_25",
+        "Win %":"66.67%"
+    }
+]

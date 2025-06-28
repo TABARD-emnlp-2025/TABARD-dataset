@@ -1,0 +1,130 @@
+[
+    {
+        "Year":2003.0,
+        "Country":"France",
+        "Video":"\"Fan\"",
+        "Performer":"Pascal Obispo",
+        "Points":122,
+        "Host city":"Turkey Istanbul"
+    },
+    {
+        "Year":2004.0,
+        "Country":"Portugal",
+        "Video":"\"Cavaleiro Monge\"",
+        "Performer":"Mariza",
+        "Points":133,
+        "Host city":"France Fontainebleau"
+    },
+    {
+        "Year":37857.0,
+        "Country":"Ukraine",
+        "Video":"\"I Will Forget You\"",
+        "Performer":"Svetlana Loboda",
+        "Points":171,
+        "Host city":"Portugal Lisbon"
+    },
+    {
+        "Year":2006.0,
+        "Country":"Italy",
+        "Video":"\"Contromano\"",
+        "Performer":"Nek",
+        "Points":106,
+        "Host city":"Turkey Izmir"
+    },
+    {
+        "Year":2007.0,
+        "Country":"Russia",
+        "Video":"\"LML\"",
+        "Performer":"Via Gra",
+        "Points":2895,
+        "Host city":null
+    },
+    {
+        "Year":-4251.0,
+        "Country":"Russia",
+        "Video":"\"Potselui\"",
+        "Performer":"Via Gra",
+        "Points":140,
+        "Host city":"Russia Moscow"
+    },
+    {
+        "Year":2009.0,
+        "Country":"Russia",
+        "Video":"\"Karma\"",
+        "Performer":"Yin-Yang",
+        "Points":142,
+        "Host city":"Russia Saint Petersburg"
+    },
+    {
+        "Year":2010.0,
+        "Country":"Poland",
+        "Video":"\"Kim tu jestem\"",
+        "Performer":"Justyna Steczkowska",
+        "Points":85,
+        "Host city":"Russia Volgograd"
+    },
+    {
+        "Year":null,
+        "Country":"France",
+        "Video":"\"Lonely Lisa\"",
+        "Performer":"Myl\u00e8ne Farmer",
+        "Points":96,
+        "Host city":"Poland Wroc\u0142aw"
+    },
+    {
+        "Year":2012.0,
+        "Country":"Italy",
+        "Video":"\"\u00c8 l'amore che conta\"",
+        "Performer":"Giorgia",
+        "Points":135,
+        "Host city":"France Paris"
+    },
+    {
+        "Year":2013.0,
+        "Country":"Belgium",
+        "Video":"\"Papaoutai\"",
+        "Performer":"Stromae",
+        "Points":144,
+        "Host city":"Italy Turin"
+    },
+    {
+        "Year":2014.0,
+        "Country":"France",
+        "Video":"\"Tourner dans le vide\"",
+        "Performer":"Indila",
+        "Points":141,
+        "Host city":"Belgium Brussels"
+    },
+    {
+        "Year":2015.0,
+        "Country":"Germany",
+        "Video":"\"G\u00e4a\"",
+        "Performer":"Oonagh",
+        "Points":122,
+        "Host city":"France Paris"
+    },
+    {
+        "Year":2016.0,
+        "Country":"United Kingdom",
+        "Video":"\"Hymn For The Weekend\"",
+        "Performer":"Coldplay",
+        "Points":673,
+        "Host city":"Germany L\u00fcneburg"
+    },
+    {
+        "Year":2017.0,
+        "Country":"Belgium",
+        "Video":"\"Mud Blood\"",
+        "Performer":"Lo\u00efc Nottet",
+        "Points":184,
+        "Host city":"United Kingdom London"
+    },
+    {
+        "Year":2018.0,
+        "Country":"Czech Republic",
+        "Video":"\"Me Gusta\"",
+        "Performer":"Mikolas Josef",
+        "Points":132,
+        "Host city":"Belgium"
+    }
+]

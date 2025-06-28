@@ -1,0 +1,250 @@
+[
+    {
+        "Year":1994,
+        "Competition":"Central American and Caribbean Junior Championships (U-17)",
+        "Venue":"Port of Spain, Trinidad and Tobago",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"47.32 m"
+    },
+    {
+        "Year":1995,
+        "Competition":"Pan American Junior Championships",
+        "Venue":"Santiago, Chile",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"51.30 M"
+    },
+    {
+        "Year":1996,
+        "Competition":"Central American and Caribbean Junior Championships (U-20)",
+        "Venue":"San Salvador, El Salvador",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"59.98 m"
+    },
+    {
+        "Year":1996,
+        "Competition":"World Junior Championships",
+        "Venue":"Sydney, Australia",
+        "Position":"1st",
+        "Event":"Javelin (old spec.)",
+        "Notes":"60.96 m"
+    },
+    {
+        "Year":1997,
+        "Competition":"Pan American Junior Championships",
+        "Venue":"La Habana, Cuba",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"61.76 m"
+    },
+    {
+        "Year":1997,
+        "Competition":"Central American and Caribbean Championships",
+        "Venue":"San Juan, Puerto Rico",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"63.08 m"
+    },
+    {
+        "Year":1997,
+        "Competition":"World Championships",
+        "Venue":"Athens, Greece",
+        "Position":"7th",
+        "Event":"Javelin",
+        "Notes":"63.76 m"
+    },
+    {
+        "Year":1998,
+        "Competition":"Central American and Caribbean Games",
+        "Venue":"Maracaibo, Venezuela",
+        "Position":"2nd",
+        "Event":"Javelin",
+        "Notes":"62.06 m"
+    },
+    {
+        "Year":1998,
+        "Competition":"World Junior Championships",
+        "Venue":"Annecy, France",
+        "Position":"1st",
+        "Event":"Javelin (old spec.)",
+        "Notes":"68.17 m"
+    },
+    {
+        "Year":1999,
+        "Competition":"Pan American Games",
+        "Venue":"Winnipeg, Canada",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"65.85 m"
+    },
+    {
+        "Year":1999,
+        "Competition":"World Championships",
+        "Venue":"Seville, Spain",
+        "Position":"4th",
+        "Event":"Javelin",
+        "Notes":"64.61 m"
+    },
+    {
+        "Year":2000,
+        "Competition":"Olympic Games",
+        "Venue":"Sydney, Australia",
+        "Position":"3rd",
+        "Event":"Javelin",
+        "Notes":"66.18 m"
+    },
+    {
+        "Year":2001,
+        "Competition":"World Championships",
+        "Venue":"Edmonton, Canada",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"69.53 m CR"
+    },
+    {
+        "Year":2001,
+        "Competition":"Universiade",
+        "Venue":"Beijing, PR China",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"69.82 m UR"
+    },
+    {
+        "Year":2001,
+        "Competition":"Goodwill Games",
+        "Venue":"Brisbane, Australia",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"66.14 m"
+    },
+    {
+        "Year":2002,
+        "Competition":"IAAF World Cup",
+        "Venue":"Madrid, Spain",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"64.41 m"
+    },
+    {
+        "Year":2003,
+        "Competition":"Pan American Games",
+        "Venue":"Santo Domingo, Dominican Republic",
+        "Position":"3rd",
+        "Event":"Javelin",
+        "Notes":"60.20 m"
+    },
+    {
+        "Year":2003,
+        "Competition":"World Championships",
+        "Venue":"Paris, France",
+        "Position":"5th",
+        "Event":"Javelin",
+        "Notes":"62.19 m"
+    },
+    {
+        "Year":2004,
+        "Competition":"Ibero-American Championships",
+        "Venue":"Huelva, Spain",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"66.99 m CR"
+    },
+    {
+        "Year":2004,
+        "Competition":"Olympic Games",
+        "Venue":"Athens, Greece",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"71.53 m OR"
+    },
+    {
+        "Year":2004,
+        "Competition":"IAAF World Athletics Final",
+        "Venue":"Fontvieille, Monaco",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"66.20 m"
+    },
+    {
+        "Year":2005,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"71.70 m WR"
+    },
+    {
+        "Year":2005,
+        "Competition":"IAAF World Athletics Final",
+        "Venue":"Fontvieille, Monaco",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"67.24 m"
+    },
+    {
+        "Year":2006,
+        "Competition":"Central American and Caribbean Games",
+        "Venue":"Cartagena, Colombia",
+        "Position":"2nd",
+        "Event":"Javelin",
+        "Notes":"59.94 m"
+    },
+    {
+        "Year":2007,
+        "Competition":"ALBA Games",
+        "Venue":"Caracas, Venezuela",
+        "Position":"2nd",
+        "Event":"Javelin",
+        "Notes":"58.98 m"
+    },
+    {
+        "Year":2007,
+        "Competition":"Pan American Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"1st",
+        "Event":"Javelin",
+        "Notes":"62.34 m SB"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, PR China",
+        "Position":"6th",
+        "Event":"Javelin",
+        "Notes":"63.35 m"
+    },
+    {
+        "Year":2009,
+        "Competition":"ALBA Games",
+        "Venue":"La Habana, Cuba",
+        "Position":"2nd",
+        "Event":"Javelin",
+        "Notes":"58.09 m"
+    },
+    {
+        "Year":2009,
+        "Competition":"Central American and Caribbean Championships",
+        "Venue":"Havana, Cuba",
+        "Position":"2nd",
+        "Event":"Javelin",
+        "Notes":"59.68 m"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"7th",
+        "Event":"Javelin",
+        "Notes":"63.11 M"
+    },
+    {
+        "Year":2009,
+        "Competition":"IAAF World Athletics Final",
+        "Venue":"Thessaloniki, Greece",
+        "Position":"5th",
+        "Event":"Javelin",
+        "Notes":"59.93 m"
+    }
+]

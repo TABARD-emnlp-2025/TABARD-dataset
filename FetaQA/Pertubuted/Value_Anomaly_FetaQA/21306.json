@@ -1,0 +1,30 @@
+[
+    {
+        "Channel":-7.1625,
+        "Video":"1080i",
+        "Aspect":"16:9",
+        "PSIP Short Name":"KJZZ-DT",
+        "Programming":"Main KJZZ-TV programming"
+    },
+    {
+        "Channel":14.2,
+        "Video":"480i",
+        "Aspect":"16:9",
+        "PSIP Short Name":null,
+        "Programming":"Comet"
+    },
+    {
+        "Channel":null,
+        "Video":null,
+        "Aspect":"16:9",
+        "PSIP Short Name":"TBD",
+        "Programming":"TBD"
+    },
+    {
+        "Channel":14.4,
+        "Video":"480i",
+        "Aspect":"16:9",
+        "PSIP Short Name":"Charge",
+        "Programming":"Charge!"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Ship":"Karel Doorman",
+        "Pennant number":"F827",
+        "commissioned":1991,
+        "Current Status":"sold to Belgium as Leopold I (F930) in 2005"
+    },
+    {
+        "Ship":"Willem van der Zaan",
+        "Pennant number":"F829",
+        "commissioned":1991,
+        "Current Status":"sold to Belgium as Louise-Marie (F931) in 2005."
+    },
+    {
+        "Ship":"Tjerk Hiddes",
+        "Pennant number":"F830",
+        "commissioned":"@@@_1991",
+        "Current Status":"sold to Chile as Almirante Riveros (FF-18) in 2004"
+    },
+    {
+        "Ship":"Van Amstel",
+        "Pennant number":"F831",
+        "commissioned":1993,
+        "Current Status":"In Service"
+    },
+    {
+        "Ship":"Abraham van der Hulst",
+        "Pennant number":"@@@_F830",
+        "commissioned":1993,
+        "Current Status":"sold to Chile as Blanco Encalada (FF-15) in 2004"
+    },
+    {
+        "Ship":"Van Nes",
+        "Pennant number":"F833",
+        "commissioned":1994,
+        "Current Status":"sold to Portugal as NRP Bartolomeu Dias (F333) in 2006"
+    },
+    {
+        "Ship":"Van Galen",
+        "Pennant number":"F834",
+        "commissioned":1994,
+        "Current Status":"@@@_sold to Portugal as N.R.P. Dom Francisco de Almeida (F334) in 2006"
+    },
+    {
+        "Ship":"Van Speijk",
+        "Pennant number":"@@@_",
+        "commissioned":1995,
+        "Current Status":"In service"
+    }
+]

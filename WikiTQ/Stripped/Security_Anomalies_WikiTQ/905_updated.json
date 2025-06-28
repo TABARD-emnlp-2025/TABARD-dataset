@@ -1,0 +1,51 @@
+[
+    {
+        "Team":"Detroit Tigers",
+        "Wins":104,
+        "Losses":58,
+        "Win %":0.642,
+        "GB":0.0
+    },
+    {
+        "Team":"Toronto Blue Jays",
+        "Wins":89,
+        "Losses":73,
+        "Win %":0.549,
+        "GB":15.0
+    },
+    {
+        "Team":"New York Yankees",
+        "Wins":87,
+        "Losses":75,
+        "Win %":0.537,
+        "GB":17.0
+    },
+    {
+        "Team":"Boston Red Sox",
+        "Wins":86,
+        "Losses":76,
+        "Win %":0.531,
+        "GB":18.0
+    },
+    {
+        "Team":"Baltimore Orioles",
+        "Wins":85,
+        "Losses":77,
+        "Win %":0.525,
+        "GB":19.0
+    },
+    {
+        "Team":"Cleveland Indians",
+        "Wins":75,
+        "Losses":87,
+        "Win %":0.463,
+        "GB":29.0
+    },
+    {
+        "Team":"Milwaukee Brewers",
+        "Wins":67,
+        "Losses":94,
+        "Win %":0.416,
+        "GB":"nan"
+    }
+]

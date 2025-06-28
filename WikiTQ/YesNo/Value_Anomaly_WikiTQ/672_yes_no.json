@@ -1,0 +1,51 @@
+[
+    {
+        "Year":"No",
+        "Title":"No",
+        "Label":"No",
+        "UK Singles Chart":"No",
+        "U.S. Billboard Hot 100 Chart":"No"
+    },
+    {
+        "Year":"Yes",
+        "Title":"No",
+        "Label":"No",
+        "UK Singles Chart":"Yes",
+        "U.S. Billboard Hot 100 Chart":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Label":"Yes",
+        "UK Singles Chart":"No",
+        "U.S. Billboard Hot 100 Chart":"No"
+    },
+    {
+        "Year":"Yes",
+        "Title":"No",
+        "Label":"No",
+        "UK Singles Chart":"Yes",
+        "U.S. Billboard Hot 100 Chart":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Label":"No",
+        "UK Singles Chart":"No",
+        "U.S. Billboard Hot 100 Chart":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Label":"No",
+        "UK Singles Chart":"No",
+        "U.S. Billboard Hot 100 Chart":"No"
+    },
+    {
+        "Year":"No",
+        "Title":"No",
+        "Label":"No",
+        "UK Singles Chart":"No",
+        "U.S. Billboard Hot 100 Chart":"No"
+    }
+]

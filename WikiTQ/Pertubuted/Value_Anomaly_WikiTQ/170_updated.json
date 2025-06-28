@@ -1,0 +1,137 @@
+[
+  {
+    "Player": "Clyde E. Bastian",
+    "Position": "Halfback\nFullback",
+    "Games\nstarted": "0\n1",
+    "Hometown": "Williamsport, PA",
+    "Height": "5-8",
+    "Weight": 168.0,
+    "Age": 22.0
+  },
+  {
+    "Player": "James Bland Catlett",
+    "Position": "Halfback",
+    "Games\nstarted": "3",
+    "Hometown": "Brookings, SD",
+    "Height": null,
+    "Weight": null,
+    "Age": null
+  },
+  {
+    "Player": "William D. Cochran",
+    "Position": "Guard",
+    "Games\nstarted": "@@@_None",
+    "Hometown": "Houghton, MI",
+    "Height": "5-8",
+    "Weight": 235.0,
+    "Age": null
+  },
+  {
+    "Player": "Maurice F. Dunne",
+    "Position": "End",
+    "Games\nstarted": "3",
+    "Hometown": "@@@_None",
+    "Height": "6-0",
+    "Weight": 164.0,
+    "Age": null
+  },
+  {
+    "Player": "John Maulbetsch",
+    "Position": "Halfback",
+    "Games\nstarted": "7",
+    "Hometown": "Ann Arbor, MI",
+    "Height": "5-8",
+    "Weight": 168.0,
+    "Age": "@@@_386.0790267899"
+  },
+  {
+    "Player": "Frank Millard",
+    "Position": "Guard",
+    "Games\nstarted": "3",
+    "Hometown": "Ann Arbor, MI",
+    "Height": "5-7",
+    "Weight": 212.0,
+    "Age": null
+  },
+  {
+    "Player": "Walter Neimann",
+    "Position": "Center\nEnd",
+    "Games\nstarted": "3\n1",
+    "Hometown": "Hermansville, MI",
+    "Height": "5-11",
+    "Weight": 165.0,
+    "Age": 21.0
+  },
+  {
+    "Player": "@@@_None",
+    "Position": "Tackle\nCenter\nGuard",
+    "Games\nstarted": "3\n2\n1",
+    "Hometown": "Ontonagon, MI",
+    "Height": null,
+    "Weight": null,
+    "Age": null
+  },
+  {
+    "Player": "Fred Rehor",
+    "Position": "Guard",
+    "Games\nstarted": "2",
+    "Hometown": "Hastings, MI",
+    "Height": "6-0",
+    "Weight": 262.0,
+    "Age": 21.0
+  },
+  {
+    "Player": "Lawrence Roehm",
+    "Position": "Quarterback",
+    "Games\nstarted": "7",
+    "Hometown": "Detroit, MI",
+    "Height": "5-8½",
+    "Weight": 168.0,
+    "Age": "@@@_-73.43986097"
+  },
+  {
+    "Player": "Cedric C. Smith",
+    "Position": "Fullback",
+    "Games\nstarted": "5",
+    "Hometown": "Bay City, MI",
+    "Height": "6-0",
+    "Weight": 190.0,
+    "Age": 20.0
+  },
+  {
+    "Player": "Karl S. Staatz",
+    "Position": "End",
+    "Games\nstarted": "5",
+    "Hometown": "Tacoma, WA",
+    "Height": "5-10",
+    "Weight": 168.0,
+    "Age": 22.0
+  },
+  {
+    "Player": "Robert W. Watson",
+    "Position": "Tackle",
+    "Games\nstarted": "8",
+    "Hometown": "Ludington, MI",
+    "Height": "5-9",
+    "Weight": 174.0,
+    "Age": null
+  },
+  {
+    "Player": "Richard F. \\Dick\\\" Weske\"",
+    "Position": "Guard\nTackle",
+    "Games\nstarted": "0\n2",
+    "Hometown": "New London, CT",
+    "Height": "6-0",
+    "Weight": 190.0,
+    "Age": null
+  },
+  {
+    "Player": "James L. Whalen",
+    "Position": "Tackle\nGuard\nEnd",
+    "Games\nstarted": "2\n1\n1",
+    "Hometown": "Savannah, NY",
+    "Height": "5-10",
+    "Weight": 188.0,
+    "Age": null
+  }
+]

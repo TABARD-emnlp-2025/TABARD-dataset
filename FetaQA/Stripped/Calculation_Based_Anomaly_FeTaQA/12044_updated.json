@@ -1,0 +1,110 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1882–83",
+        "Division":"–",
+        "League":0,
+        "FA Cup":0,
+        "Other":1,
+        "Total":1
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1883–84",
+        "Division":"–",
+        "League":0,
+        "FA Cup":0,
+        "Other":12,
+        "Total":12
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1884–85",
+        "Division":"–",
+        "League":0,
+        "FA Cup":0,
+        "Other":21,
+        "Total":21
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1885–86",
+        "Division":"–",
+        "League":0,
+        "FA Cup":4,
+        "Other":18,
+        "Total":22
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1886–87",
+        "Division":"–",
+        "League":0,
+        "FA Cup":3,
+        "Other":20,
+        "Total":"24"
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1887–88",
+        "Division":"–",
+        "League":0,
+        "FA Cup":0,
+        "Other":11,
+        "Total":11
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1888–89",
+        "Division":"Combination",
+        "League":4,
+        "FA Cup":0,
+        "Other":3,
+        "Total":"6"
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1889–90",
+        "Division":"–",
+        "League":0,
+        "FA Cup":0,
+        "Other":7,
+        "Total":7
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1890–91",
+        "Division":"Midland League",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"1891–92",
+        "Division":"Midland League",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Burslem Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":4,
+        "FA Cup":7,
+        "Other":93,
+        "Total":"105"
+    }
+]

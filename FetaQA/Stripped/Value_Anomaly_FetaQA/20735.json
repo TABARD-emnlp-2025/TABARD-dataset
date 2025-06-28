@@ -1,0 +1,236 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "League Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"1985\u201386",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":1,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"1986\u201387",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"1987\u201388",
+        "League":1,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"1988\u201389",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"1989\u201390",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"Total",
+        "League":1,
+        "FA Cup":0,
+        "League Cup":1,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1989\u201390",
+        "League":2,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1990\u201391",
+        "League":2,
+        "FA Cup":1,
+        "League Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1991\u201392",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":3,
+        "Total":3
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1992\u201393",
+        "League":2,
+        "FA Cup":1,
+        "League Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1993\u201394",
+        "League":1,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1994\u201395",
+        "League":1,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1995\u201396",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"Total",
+        "League":8,
+        "FA Cup":2,
+        "League Cup":0,
+        "Other":3,
+        "Total":13
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1996\u201397",
+        "League":2,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1997\u201398",
+        "League":0,
+        "FA Cup":1,
+        "League Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1998\u201399",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1999\u20132000",
+        "League":1,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"2000\u201301",
+        "League":1,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"2001\u201302",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"Total",
+        "League":4,
+        "FA Cup":1,
+        "League Cup":0,
+        "Other":0,
+        "Total":5
+    },
+    {
+        "Club":"Reading (loan)",
+        "Season":"1997\u201398",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Stockport County (loan)",
+        "Season":"2001\u201302",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Woking",
+        "Season":"2002\u201303",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Career Total",
+        "Season":"Career Total",
+        "League":13,
+        "FA Cup":3,
+        "League Cup":1,
+        "Other":3,
+        "Total":20
+    }
+]

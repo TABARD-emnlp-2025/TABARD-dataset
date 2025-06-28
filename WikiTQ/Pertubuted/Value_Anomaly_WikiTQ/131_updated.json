@@ -1,0 +1,128 @@
+[
+  {
+    "TOPS design code": "08-0AV",
+    "Electrical system": "90 V",
+    "Max speed": "20 mph (32 km/h)",
+    "Weight": "49.8 te (496 kN)",
+    "Brakes": "vacuum",
+    "Route availability": 5.0,
+    "Notes": null
+  },
+  {
+    "TOPS design code": "08-0BX",
+    "Electrical system": "110 V",
+    "Max speed": "20 mph (32 km/h)",
+    "Weight": "50.4 te (502 kN)",
+    "Brakes": "dual",
+    "Route availability": 5.0,
+    "Notes": null
+  },
+  {
+    "TOPS design code": "08-0CA",
+    "Electrical system": "90 V",
+    "Max speed": "20 mph (32 km/h)",
+    "Weight": "49.6 te (494 kN)",
+    "Brakes": "@@@_None",
+    "Route availability": 5.0,
+    "Notes": null
+  },
+  {
+    "TOPS design code": "08-0DV",
+    "Electrical system": "90 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "49.8 te (496 kN)",
+    "Brakes": "vacuum",
+    "Route availability": 5.0,
+    "Notes": null
+  },
+  {
+    "TOPS design code": "08-0BX",
+    "Electrical system": "90 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "50.4 te (502 kN)",
+    "Brakes": "dual",
+    "Route availability": "@@@_-5.0",
+    "Notes": null
+  },
+  {
+    "TOPS design code": "08-0FA",
+    "Electrical system": "90 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "@@@_None",
+    "Brakes": "air",
+    "Route availability": 5.0,
+    "Notes": null
+  },
+  {
+    "TOPS design code": "08-0KX",
+    "Electrical system": "110 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "50.4 te (502 kN)",
+    "Brakes": "dual",
+    "Route availability": "@@@_61.0",
+    "Notes": null
+  },
+  {
+    "TOPS design code": "08-0LX",
+    "Electrical system": "110 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "50.4 te (502 kN)",
+    "Brakes": "dual",
+    "Route availability": 5.0,
+    "Notes": "Scharfenberg adapter fitted"
+  },
+  {
+    "TOPS design code": "08-0MA",
+    "Electrical system": "110 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "49.8 te (496 kN)",
+    "Brakes": "air",
+    "Route availability": "@@@_None",
+    "Notes": null
+  },
+  {
+    "TOPS design code": "08-0NA",
+    "Electrical system": "90 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "49.8 te (496 kN)",
+    "Brakes": "air",
+    "Route availability": 5.0,
+    "Notes": "fitted with Buckeye couplings"
+  },
+  {
+    "TOPS design code": "08-0PA",
+    "Electrical system": "90 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "51 te (508 kN)",
+    "Brakes": "air",
+    "Route availability": 6.0,
+    "Notes": "fitted with Buckeye couplings"
+  },
+  {
+    "TOPS design code": "08-0QA",
+    "Electrical system": "90 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "51 te (508 kN)",
+    "Brakes": "air",
+    "Route availability": 6.0,
+    "Notes": "fitted with Buckeye couplings"
+  },
+  {
+    "TOPS design code": "08-0RA",
+    "Electrical system": "110 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "51 te (508 kN)",
+    "Brakes": "air",
+    "Route availability": 6.0,
+    "Notes": "fitted with Buckeye couplings"
+  },
+  {
+    "TOPS design code": "08-0SA",
+    "Electrical system": "110 V",
+    "Max speed": "15 mph (24 km/h)",
+    "Weight": "49 te (488 kN)",
+    "Brakes": "air",
+    "Route availability": 6.0,
+    "Notes": null
+  }
+]

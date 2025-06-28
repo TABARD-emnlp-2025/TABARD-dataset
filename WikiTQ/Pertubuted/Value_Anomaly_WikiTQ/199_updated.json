@@ -1,0 +1,72 @@
+[
+  {
+    "Unnamed: 0": 1.0,
+    "Cyclist": "John Degenkolb (GER)",
+    "Team": "Argos-Shimano",
+    "Time": "5h 45' 16\\\",80\"",
+    "UCI World Tour\nPoints": null
+  },
+  {
+    "Unnamed: 0": 2.0,
+    "Cyclist": "André Greipel (GER)",
+    "Team": "Lotto-Belisol",
+    "Time": "s.t.",
+    "UCI World Tour\nPoints": 60.0
+  },
+  {
+    "Unnamed: 0": 3.0,
+    "Cyclist": "Alexander Kristoff (NOR)",
+    "Team": "Team Katusha",
+    "Time": "+ 1\\\",50\"",
+    "UCI World Tour\nPoints": null
+  },
+  {
+    "Unnamed: 0": 4.0,
+    "Cyclist": "José Joaquín Rojas (ESP)",
+    "Team": "Movistar Team",
+    "Time": "@@@_None",
+    "UCI World Tour\nPoints": null
+  },
+  {
+    "Unnamed: 0": 5.0,
+    "Cyclist": "Elia Viviani (ITA)",
+    "Team": "Cannondale",
+    "Time": "+ 1\\\",30\"",
+    "UCI World Tour\nPoints": null
+  },
+  {
+    "Unnamed: 0": 6.0,
+    "Cyclist": "Boy Van Poppel (NLD)",
+    "Team": "Vacansoleil-DCM",
+    "Time": "+ 1\\\",22\"",
+    "UCI World Tour\nPoints": null
+  },
+  {
+    "Unnamed: 0": "@@@_None",
+    "Cyclist": "Nikolas Maes (BEL)",
+    "Team": "Omega Pharma-Quick Step",
+    "Time": "+ 1\\\",14\"",
+    "UCI World Tour\nPoints": null
+  },
+  {
+    "Unnamed: 0": "@@@_97.0",
+    "Cyclist": "Thor Hushovd (NOR)",
+    "Team": "BMC Racing Team",
+    "Time": "+ 1\\\",10\"",
+    "UCI World Tour\nPoints": null
+  },
+  {
+    "Unnamed: 0": 9.0,
+    "Cyclist": "Matti Breschel (DNK)",
+    "Team": "Team Saxo-Tinkoff",
+    "Time": "+ 1\\\",6\"",
+    "UCI World Tour\nPoints": "@@@_-60.0"
+  },
+  {
+    "Unnamed: 0": "@@@_180.0",
+    "Cyclist": "Arnaud Démare (FRA)",
+    "Team": "FDJ.fr",
+    "Time": "+ 1\\\",2\"",
+    "UCI World Tour\nPoints": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Year":2000,
+        "Category":"Actress in a Play",
+        "Nominated work":"The Real Thing",
+        "Result":"Won"
+    },
+    {
+        "Year":"@@@_2025",
+        "Category":"Featured Actress in a Play",
+        "Nominated work":"The Coast of Utopia",
+        "Result":"Won"
+    },
+    {
+        "Year":2017,
+        "Category":"Actress in a Play",
+        "Nominated work":"Oslo",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2010,
+        "Category":"Actor in a Musical",
+        "Nominated work":"Hamilton",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2001,
+        "Category":"Best Director",
+        "Nominated work":"The Phantom of the Opera",
+        "Result":"Won"
+    },
+    {
+        "Year":2018,
+        "Category":"Actress in a Play",
+        "Nominated work":"King Lear",
+        "Result":"Nominated"
+    }
+]

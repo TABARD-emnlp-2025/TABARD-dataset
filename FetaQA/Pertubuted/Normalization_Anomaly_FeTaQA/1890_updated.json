@@ -1,0 +1,106 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Arsenal",
+        "Season":"1954–55",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1955–56",
+        "Division":"First Division",
+        "League":6,
+        "FA Cup":0,
+        "Total":6
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"1956–57",
+        "Division":"Second Division",
+        "League":10,
+        "FA Cup":0,
+        "Total":10
+    },
+    {
+        "Club":"Sheffield United",
+        "Season":"Total",
+        "Division":"Total",
+        "League":"@@@_18",
+        "FA Cup":0,
+        "Total":16
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1957–58",
+        "Division":"Third Division South",
+        "League":17,
+        "FA Cup":2,
+        "Total":19
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1958–59",
+        "Division":"Fourth Division",
+        "League":21,
+        "FA Cup":0,
+        "Total":"@@@_23"
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1959–60",
+        "Division":"Third Division",
+        "League":1,
+        "FA Cup":0,
+        "Total":1
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":39,
+        "FA Cup":2,
+        "Total":41
+    },
+    {
+        "Club":"Exeter City",
+        "Season":"1959–60",
+        "Division":"Fourth Division",
+        "League":16,
+        "FA Cup":1,
+        "Total":17
+    },
+    {
+        "Club":"Exeter City",
+        "Season":"1960–61",
+        "Division":"Fourth Division",
+        "League":10,
+        "FA Cup":0,
+        "Total":1
+    },
+    {
+        "Club":"Exeter City",
+        "Season":"Total",
+        "Division":"Total",
+        "League":26,
+        "FA Cup":1,
+        "Total":27
+    },
+    {
+        "Club":"Career Total",
+        "Season":"Career Total",
+        "Division":"Career Total",
+        "League":81,
+        "FA Cup":3,
+        "Total":84
+    }
+]

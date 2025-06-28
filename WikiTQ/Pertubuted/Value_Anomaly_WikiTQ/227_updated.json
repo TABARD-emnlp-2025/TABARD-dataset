@@ -1,0 +1,130 @@
+[
+  {
+    "Week": 1.0,
+    "Date": "July 9",
+    "Opponent": "vs. Saskatchewan Roughriders",
+    "Score": "31–21",
+    "Result": "Win",
+    "Record": "1–0"
+  },
+  {
+    "Week": 2.0,
+    "Date": "July 16",
+    "Opponent": "at Montreal Concordes",
+    "Score": "36–0",
+    "Result": "Win",
+    "Record": "2–0"
+  },
+  {
+    "Week": 3.0,
+    "Date": "July 24",
+    "Opponent": "vs. Hamilton Tiger-Cats",
+    "Score": "36–25",
+    "Result": "Loss",
+    "Record": "2–1"
+  },
+  {
+    "Week": 4.0,
+    "Date": "Aug 1",
+    "Opponent": "at Edmonton Eskimos",
+    "Score": "32–26",
+    "Result": "Win",
+    "Record": "3–1"
+  },
+  {
+    "Week": 5.0,
+    "Date": "@@@_None",
+    "Opponent": "vs. BC Lions",
+    "Score": "29–16",
+    "Result": "Win",
+    "Record": "4–1"
+  },
+  {
+    "Week": 6.0,
+    "Date": "Aug 20",
+    "Opponent": "at Calgary Stampeders",
+    "Score": "35–4",
+    "Result": "Win",
+    "Record": "5–1"
+  },
+  {
+    "Week": 7.0,
+    "Date": "Aug 28",
+    "Opponent": "vs. Ottawa Rough Riders",
+    "Score": "27–20",
+    "Result": "Win",
+    "Record": "6–1"
+  },
+  {
+    "Week": 8.0,
+    "Date": "Sept 5",
+    "Opponent": "at Saskatchewan Roughriders",
+    "Score": "36–35",
+    "Result": "Win",
+    "Record": "7–1"
+  },
+  {
+    "Week": 9.0,
+    "Date": "Sept 11",
+    "Opponent": "vs. Calgary Stampeders",
+    "Score": "15–11",
+    "Result": "Loss",
+    "Record": "7–2"
+  },
+  {
+    "Week": 10.0,
+    "Date": "Sept 18",
+    "Opponent": "at Ottawa Rough Riders",
+    "Score": "38–28",
+    "Result": "Loss",
+    "Record": "7–3"
+  },
+  {
+    "Week": "@@@_239.4804381155",
+    "Date": "Sept 25",
+    "Opponent": "vs. Montreal Concordes",
+    "Score": "19–16",
+    "Result": "Win",
+    "Record": "8–3"
+  },
+  {
+    "Week": "@@@_152.0",
+    "Date": "Oct 2",
+    "Opponent": "at BC Lions",
+    "Score": "29–19",
+    "Result": "Win",
+    "Record": "9–3"
+  },
+  {
+    "Week": 13.0,
+    "Date": "Oct 11",
+    "Opponent": "vs. Toronto Argonauts",
+    "Score": "39–35",
+    "Result": "Win",
+    "Record": "10–3"
+  },
+  {
+    "Week": "@@@_None",
+    "Date": "Oct 17",
+    "Opponent": "at Toronto Argonauts",
+    "Score": "29–16",
+    "Result": "Win",
+    "Record": "11–3"
+  },
+  {
+    "Week": 15.0,
+    "Date": "Oct 23",
+    "Opponent": "vs. Edmonton Eskimos",
+    "Score": "33–17",
+    "Result": "Loss",
+    "Record": "11–4"
+  },
+  {
+    "Week": 16.0,
+    "Date": "Nov 7",
+    "Opponent": "at Hamilton Tiger-Cats",
+    "Score": "24–21",
+    "Result": "Loss",
+    "Record": "11–5"
+  }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "Draw":1,
+        "Artist":"West Side Family",
+        "Song":"\"Jehon\u00eb\"",
+        "Composer - Lyricist":"Dr. Flori, Klodian Qafoku",
+        "Points":118,
+        "Place":3.0
+    },
+    {
+        "Draw":2,
+        "Artist":"Soni Malaj",
+        "Song":"\"Zona zero\"",
+        "Composer - Lyricist":"Florian Mumajesi",
+        "Points":44,
+        "Place":16.0
+    },
+    {
+        "Draw":3,
+        "Artist":"Juliana Pasha & Luiz Ejlli",
+        "Song":"\"Nje jet\u00eb\"",
+        "Composer - Lyricist":"Shpetim Sara\u00e7i, Turian Hyskaj",
+        "Points":119,
+        "Place":2.0
+    },
+    {
+        "Draw":4,
+        "Artist":"Kujtim Prodani",
+        "Song":"\"Nostalgji\"",
+        "Composer - Lyricist":"Kujtim Prodani, Agim Doci",
+        "Points":24,
+        "Place":18.0
+    },
+    {
+        "Draw":5,
+        "Artist":"Emi Bogdo",
+        "Song":"\"Kur buzet henen e kafshojn\"",
+        "Composer - Lyricist":"Emi Bogdo, Klodian Qafoku",
+        "Points":43,
+        "Place":17.0
+    },
+    {
+        "Draw":6,
+        "Artist":"Erga Halilaj",
+        "Song":"\"Dikush mungon\"",
+        "Composer - Lyricist":"Kristi Popa, Florion Zyko",
+        "Points":1454,
+        "Place":11.0
+    },
+    {
+        "Draw":7,
+        "Artist":"Marjeta Billo",
+        "Song":null,
+        "Composer - Lyricist":"Adrian Hila, Pandi La\u00e7o",
+        "Points":106,
+        "Place":217.956363652
+    },
+    {
+        "Draw":8,
+        "Artist":"Adelina Thaci",
+        "Song":"\"Oret e fundit\"",
+        "Composer - Lyricist":"Alfred Kacinari",
+        "Points":91,
+        "Place":8.0
+    },
+    {
+        "Draw":9,
+        "Artist":"Rovena Dilo & Eugent Bushpepa",
+        "Song":"\"S'jam balade\"",
+        "Composer - Lyricist":"Armend Rexhepagiqi, Aida Baraku",
+        "Points":60,
+        "Place":12.0
+    },
+    {
+        "Draw":10,
+        "Artist":"Dorina Garuci",
+        "Song":"\"Dite nj\u00eb jet\u00eb\"",
+        "Composer - Lyricist":"Dorian Nini, Pandi La\u00e7o",
+        "Points":92,
+        "Place":7.0
+    },
+    {
+        "Draw":11,
+        "Artist":"Endri & Stefi Prifti",
+        "Song":"\"Ti bere faj\"",
+        "Composer - Lyricist":"Josif Minga, Skender Rusi",
+        "Points":91,
+        "Place":8.0
+    },
+    {
+        "Draw":12,
+        "Artist":"Kejsi Tola",
+        "Song":"\"M\u00eb merr n\u00eb \u00ebnd\u00ebrr\"",
+        "Composer - Lyricist":"Edmond Zhulali, Agim Do\u00e7i",
+        "Points":126,
+        "Place":1.0
+    },
+    {
+        "Draw":13,
+        "Artist":"Era Rusi",
+        "Song":"\"Shpirt i humbur\"",
+        "Composer - Lyricist":"Arsen Nasi & Bledar Skenderi, Irma Libohova",
+        "Points":50,
+        "Place":15.0
+    },
+    {
+        "Draw":14,
+        "Artist":"Julian Leko\u00e7aj",
+        "Song":"\"Nuk je ti\"",
+        "Composer - Lyricist":"Julian Leko\u00e7aj",
+        "Points":17,
+        "Place":20.0
+    },
+    {
+        "Draw":15,
+        "Artist":"Shpat Kasapi",
+        "Song":"\"Arom\u00eb mediterane\"",
+        "Composer - Lyricist":"Gent Myftarai, Pandi La\u00e7o",
+        "Points":22,
+        "Place":19.0
+    },
+    {
+        "Draw":16,
+        "Artist":"Evis Mula",
+        "Song":"\"Un\u00eb jam dashuria\"",
+        "Composer - Lyricist":"Luan Zhegu, Agim Do\u00e7i",
+        "Points":91,
+        "Place":8.0
+    },
+    {
+        "Draw":17,
+        "Artist":"Burn",
+        "Song":"\"Jam i pari i jettes sime\"",
+        "Composer - Lyricist":"Stivart Cela & Renis Gjoka, Big Basta",
+        "Points":96,
+        "Place":6.0
+    },
+    {
+        "Draw":18,
+        "Artist":"Vedat Ademi",
+        "Song":"\"Po me prite ti\"",
+        "Composer - Lyricist":"Kledi Bahiti, Alban Male",
+        "Points":51,
+        "Place":167.851278027
+    },
+    {
+        "Draw":19,
+        "Artist":"Agim Poshka",
+        "Song":"\"Fajtor p\u00ebr ngrohjen globale\"",
+        "Composer - Lyricist":"Agim Poshka, Olsen Maze",
+        "Points":56,
+        "Place":13.0
+    },
+    {
+        "Draw":20,
+        "Artist":"Besa Kokedhima",
+        "Song":"\"Ajer\"",
+        "Composer - Lyricist":"Alban Male, Olti Curri",
+        "Points":109,
+        "Place":4.0
+    }
+]

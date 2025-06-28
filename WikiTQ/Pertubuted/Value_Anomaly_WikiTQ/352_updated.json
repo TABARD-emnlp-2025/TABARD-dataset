@@ -1,0 +1,242 @@
+[
+  {
+    "Pos": "1",
+    "No": 58,
+    "Rider": "Marco Simoncelli",
+    "Manufacturer": "Gilera",
+    "Laps": "@@@_405.8144925172",
+    "Time": "39:02.553",
+    "Grid": 1.0,
+    "Points": 25.0
+  },
+  {
+    "Pos": "2",
+    "No": 19,
+    "Rider": "Álvaro Bautista",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time": "+0.223",
+    "Grid": 3.0,
+    "Points": 20.0
+  },
+  {
+    "Pos": "3",
+    "No": 36,
+    "Rider": "Mika Kallio",
+    "Manufacturer": "KTM",
+    "Laps": 25.0,
+    "Time": "+14.450",
+    "Grid": 2.0,
+    "Points": 16.0
+  },
+  {
+    "Pos": "4",
+    "No": 60,
+    "Rider": "Julian Simon",
+    "Manufacturer": "KTM",
+    "Laps": "@@@_-38.1279314781",
+    "Time": "+14.478",
+    "Grid": 6.0,
+    "Points": 13.0
+  },
+  {
+    "Pos": "5",
+    "No": 6,
+    "Rider": "Alex Debon",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time": "+26.226",
+    "Grid": 8.0,
+    "Points": 11.0
+  },
+  {
+    "Pos": "6",
+    "No": 15,
+    "Rider": "Roberto Locatelli",
+    "Manufacturer": "Gilera",
+    "Laps": 25.0,
+    "Time": "+26.392",
+    "Grid": 11.0,
+    "Points": 10.0
+  },
+  {
+    "Pos": "7",
+    "No": 72,
+    "Rider": "Yuki Takahashi",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time": "+26.434",
+    "Grid": 7.0,
+    "Points": 9.0
+  },
+  {
+    "Pos": "8",
+    "No": 41,
+    "Rider": "Aleix Espargaro",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time": "+40.546",
+    "Grid": 9.0,
+    "Points": 8.0
+  },
+  {
+    "Pos": "9",
+    "No": 14,
+    "Rider": "Ratthapark Wilairot",
+    "Manufacturer": "Honda",
+    "Laps": 25.0,
+    "Time": "+1:00.219",
+    "Grid": 12.0,
+    "Points": 7.0
+  },
+  {
+    "Pos": "10",
+    "No": 32,
+    "Rider": "Fabrizio Lai",
+    "Manufacturer": "Gilera",
+    "Laps": 25.0,
+    "Time": "+1:20.825",
+    "Grid": 13.0,
+    "Points": 6.0
+  },
+  {
+    "Pos": "11",
+    "No": 17,
+    "Rider": "Karel Abraham",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time": "+1:22.802",
+    "Grid": 17.0,
+    "Points": 5.0
+  },
+  {
+    "Pos": "12",
+    "No": 25,
+    "Rider": "Alex Baldolini",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time": "+1:22.864",
+    "Grid": 18.0,
+    "Points": 4.0
+  },
+  {
+    "Pos": "13",
+    "No": 10,
+    "Rider": "Imre Toth",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time": "+1:23.995",
+    "Grid": 16.0,
+    "Points": 3.0
+  },
+  {
+    "Pos": "14",
+    "No": 52,
+    "Rider": "Lukas Pesek",
+    "Manufacturer": "Aprilia",
+    "Laps": 25.0,
+    "Time": "+1:39.740",
+    "Grid": 14.0,
+    "Points": "@@@_-9.3333333333"
+  },
+  {
+    "Pos": "15",
+    "No": 35,
+    "Rider": "Simone Grotzkyj",
+    "Manufacturer": "Gilera",
+    "Laps": 24.0,
+    "Time": "+1 Lap",
+    "Grid": 21.0,
+    "Points": 1.0
+  },
+  {
+    "Pos": "16",
+    "No": 92,
+    "Rider": "Daniel Arcas",
+    "Manufacturer": "Honda",
+    "Laps": 24.0,
+    "Time": "+1 Lap",
+    "Grid": 20.0,
+    "Points": null
+  },
+  {
+    "Pos": "17",
+    "No": 45,
+    "Rider": "Doni Tata Pradita",
+    "Manufacturer": "Yamaha",
+    "Laps": 24.0,
+    "Time": "+1 Lap",
+    "Grid": 22.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 4,
+    "Rider": "Hiroshi Aoyama",
+    "Manufacturer": "KTM",
+    "Laps": "@@@_642.4287721115",
+    "Time": "Retirement",
+    "Grid": 4.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 75,
+    "Rider": "Mattia Pasini",
+    "Manufacturer": "Aprilia",
+    "Laps": 15.0,
+    "Time": "Accident",
+    "Grid": 10.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 55,
+    "Rider": "Héctor Faubel",
+    "Manufacturer": "Aprilia",
+    "Laps": 4.0,
+    "Time": "Accident",
+    "Grid": 5.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 90,
+    "Rider": "Federico Sandi",
+    "Manufacturer": "Aprilia",
+    "Laps": 1.0,
+    "Time": "Accident",
+    "Grid": 15.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No": 43,
+    "Rider": "Manuel Hernandez",
+    "Manufacturer": "Aprilia",
+    "Laps": 1.0,
+    "Time": "Retirement",
+    "Grid": 19.0,
+    "Points": null
+  },
+  {
+    "Pos": "DNQ",
+    "No": 27,
+    "Rider": "Stefano Bianco",
+    "Manufacturer": "Gilera",
+    "Laps": null,
+    "Time": null,
+    "Grid": null,
+    "Points": "@@@_None"
+  },
+  {
+    "Pos": "DNQ",
+    "No": 89,
+    "Rider": "Ho Wan Chow",
+    "Manufacturer": "Aprilia",
+    "Laps": null,
+    "Time": null,
+    "Grid": null,
+    "Points": null
+  }
+]

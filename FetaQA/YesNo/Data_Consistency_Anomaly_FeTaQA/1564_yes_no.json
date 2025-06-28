@@ -1,0 +1,32 @@
+[
+    {
+        "Size in bits": "No",
+        "FNV prime": "No",
+        "FNV offset basis": "No"
+    },
+    {
+        "Size in bits": "No",
+        "FNV prime": "No",
+        "FNV offset basis": "Yes"
+    },
+    {
+        "Size in bits": "No",
+        "FNV prime": "Yes",
+        "FNV offset basis": "Yes"
+    },
+    {
+        "Size in bits": "No",
+        "FNV prime": "No",
+        "FNV offset basis": "Yes"
+    },
+    {
+        "Size in bits": "No",
+        "FNV prime": "No",
+        "FNV offset basis": "Yes"
+    },
+    {
+        "Size in bits": "No",
+        "FNV prime": "No",
+        "FNV offset basis": "Yes"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "Year":1983,
+        "Competition":"Universiade",
+        "Venue":"Edmonton, Canada",
+        "Position":"2nd",
+        "Event":"100 m",
+        "Notes":"11.16w"
+    },
+    {
+        "Year":1983,
+        "Competition":"Universiade",
+        "Venue":"Edmonton, Canada",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":"@@@_22.47"
+    },
+    {
+        "Year":1983,
+        "Competition":"Universiade",
+        "Venue":"Edmonton, Canada",
+        "Position":"1st",
+        "Event":"@@@_4x100 m relay",
+        "Notes":42.82
+    },
+    {
+        "Year":1983,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"13th",
+        "Event":"200 m",
+        "Notes":23.34
+    },
+    {
+        "Year":1983,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"9th",
+        "Event":"4 × 100 m relay",
+        "Notes":44.2
+    },
+    {
+        "Year":1983,
+        "Competition":"Pan American Games",
+        "Venue":"Caracas, Venezuela",
+        "Position":"1st",
+        "Event":"@@@_200m",
+        "Notes":23.14
+    },
+    {
+        "Year":1983,
+        "Competition":"Pan American Games",
+        "Venue":"Caracas, Venezuela",
+        "Position":"1st",
+        "Event":"4 × 100 m relay",
+        "Notes":43.21
+    },
+    {
+        "Year":1984,
+        "Competition":"Olympic Games",
+        "Venue":"Los Angeles, United States",
+        "Position":"6th",
+        "Event":"200 m",
+        "Notes":22.36
+    },
+    {
+        "Year":1986,
+        "Competition":"Goodwill Games",
+        "Venue":"@@@_MOSCOW, Russia",
+        "Position":"5th",
+        "Event":"200 m",
+        "Notes":22.61
+    },
+    {
+        "Year":1986,
+        "Competition":"Goodwill Games",
+        "Venue":"Moscow, Russia",
+        "Position":"1st",
+        "Event":"4 × 100 m relay",
+        "Notes":42.12
+    },
+    {
+        "Year":1987,
+        "Competition":"Pan American Games",
+        "Venue":"Indianapolis, United States",
+        "Position":"2nd",
+        "Event":"200 m",
+        "Notes":"@@@_22.71W"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Year":1997,
+        "Championship":"Grand Prix",
+        "Opponent in the final":"john higgins",
+        "Score":"9–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Year":2007,
+        "Championship":"Shanghai Masters",
+        "Opponent in the final":"Ryan Day",
+        "Score":"10-6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Year":2007,
+        "Championship":"Shanghai Masters",
+        "Opponent in the final":"Ryan Day",
+        "Score":"10–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":4.0,
+        "Year":2008,
+        "Championship":"Shanghai Masters",
+        "Opponent in the final":"Ryan Day",
+        "Score":"10–6"
+    },
+    {
+        "Outcome":"Loser",
+        "No.":5.0,
+        "Year":2009,
+        "Championship":"Shanghai Masters",
+        "Opponent in the final":"Ryan Day",
+        "Score":"10-6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":6.0,
+        "Year":2009,
+        "Championship":"Shanghai Master",
+        "Opponent in the final":"Ryan Day",
+        "Score":"10–6"
+    }
+]

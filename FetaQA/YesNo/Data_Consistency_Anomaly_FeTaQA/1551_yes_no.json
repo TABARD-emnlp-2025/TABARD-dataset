@@ -1,0 +1,32 @@
+[
+    {
+        "Club": "No",
+        "Country": "Yes",
+        "Year": "No"
+    },
+    {
+        "Club": "No",
+        "Country": "No",
+        "Year": "No"
+    },
+    {
+        "Club": "No",
+        "Country": "No",
+        "Year": "No"
+    },
+    {
+        "Club": "No",
+        "Country": "Yes",
+        "Year": "Yes"
+    },
+    {
+        "Club": "No",
+        "Country": "No",
+        "Year": "Yes"
+    },
+    {
+        "Club": "No",
+        "Country": "No",
+        "Year": "Yes"
+    }
+]

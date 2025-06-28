@@ -1,0 +1,12 @@
+[
+    {
+        "Statistic":"Highest team innings",
+        "England":644,
+        "Australia":481
+    },
+    {
+        "Statistic":"Lowest team innings",
+        "England":123,
+        "Australia":"1012"
+    }
+]

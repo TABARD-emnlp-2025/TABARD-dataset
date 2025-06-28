@@ -1,0 +1,114 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1895–96",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1896–97",
+        "League":7,
+        "FA Cup":0,
+        "Total":7
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1897–98",
+        "League":4,
+        "FA Cup":0,
+        "Total":"5"
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1898–99",
+        "League":12,
+        "FA Cup":0,
+        "Total":"13"
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1899–1900",
+        "League":3,
+        "FA Cup":1,
+        "Total":4
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1900–01",
+        "League":5,
+        "FA Cup":0,
+        "Total":"6"
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1901–02",
+        "League":4,
+        "FA Cup":0,
+        "Total":4
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1902–03",
+        "League":5,
+        "FA Cup":0,
+        "Total":5
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1903–04",
+        "League":6,
+        "FA Cup":1,
+        "Total":"8"
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"1904–05",
+        "League":1,
+        "FA Cup":0,
+        "Total":1
+    },
+    {
+        "Club":"Wolverhampton Wanderers",
+        "Season":"Total",
+        "League":47,
+        "FA Cup":2,
+        "Total":"50"
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1905–06",
+        "League":5,
+        "FA Cup":0,
+        "Total":"6"
+    },
+    {
+        "Club":"Stoke",
+        "Season":"1906–07",
+        "League":0,
+        "FA Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Stoke",
+        "Season":"Total",
+        "League":5,
+        "FA Cup":0,
+        "Total":5
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "League":52,
+        "FA Cup":2,
+        "Total":"55"
+    }
+]

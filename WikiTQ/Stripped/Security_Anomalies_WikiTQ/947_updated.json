@@ -1,0 +1,121 @@
+[
+    {
+        "Week":1,
+        "Date":"September 15, 1974",
+        "Opponent":"New York Jets",
+        "Result":"W 24–16",
+        "Attendance":"74,854"
+    },
+    {
+        "Week":2,
+        "Date":"September 22, 1974",
+        "Opponent":"at Oakland Raiders",
+        "Result":"L 27–7",
+        "Attendance":"48,108"
+    },
+    {
+        "Week":3,
+        "Date":"September 29, 1974",
+        "Opponent":"at Houston Oilers",
+        "Result":"W 17–7",
+        "Attendance":"28,538"
+    },
+    {
+        "Week":4,
+        "Date":"October 6, 1974",
+        "Opponent":"Denver Broncos",
+        "Result":"L 17–14",
+        "Attendance":"67,298"
+    },
+    {
+        "Week":5,
+        "Date":"October 13, 1974",
+        "Opponent":"Pittsburgh Steelers",
+        "Result":"L 34–24",
+        "Attendance":"65,517"
+    },
+    {
+        "Week":6,
+        "Date":"October 20, 1974",
+        "Opponent":"at Miami Dolphins",
+        "Result":"L 9–3",
+        "Attendance":"67,779"
+    },
+    {
+        "Week":"6",
+        "Date":"October 20, 1974",
+        "Opponent":"at Miami Dolphins",
+        "Result":"L 9–3",
+        "Attendance":"None"
+    },
+    {
+        "Week":"7",
+        "Date":"October 27, 1974",
+        "Opponent":"at San Diego Chargers",
+        "Result":"W 24–14",
+        "Attendance":"34,371"
+    },
+    {
+        "Week":"8",
+        "Date":"November 3, 1974",
+        "Opponent":"New York Giants",
+        "Result":"L 33–27",
+        "Attendance":"61,437"
+    },
+    {
+        "Week":"9",
+        "Date":"November 10, 1974",
+        "Opponent":"San Diego Chargers",
+        "Result":"L 14–7",
+        "Attendance":"48,551"
+    },
+    {
+        "Week":"10",
+        "Date":"November 18, 1974",
+        "Opponent":"at Denver Broncos",
+        "Result":"W 42–34",
+        "Attendance":"50,236"
+    },
+    {
+        "Week":"11",
+        "Date":"November 24, 1974",
+        "Opponent":"at Cincinnati Bengals",
+        "Result":"L 33–6",
+        "Attendance":"49,777"
+    },
+    {
+        "Week":"12",
+        "Date":"December 1, 1974",
+        "Opponent":"at St. Louis Cardinals",
+        "Result":"W 17–13",
+        "Attendance":"41,863"
+    },
+    {
+        "Week":"12",
+        "Date":"December 1, 1974",
+        "Opponent":"at St. Louis Cardinals",
+        "Result":"W 17–13",
+        "Attendance":"4,186,300"
+    },
+    {
+        "Week":13,
+        "Date":"December 8, 1974",
+        "Opponent":"Oakland Raiders",
+        "Result":"L 7–6",
+        "Attendance":"60,577"
+    },
+    {
+        "Week":14,
+        "Date":"December 14, 1974",
+        "Opponent":"Minnesota Vikings",
+        "Result":"L 35–15",
+        "Attendance":"35,480"
+    },
+    {
+        "Week":14,
+        "Date":"December 14, 1974",
+        "Opponent":"Minnesota Vikings",
+        "Result":"L 35–15",
+        "Attendance":"35,48A0"
+    }
+]

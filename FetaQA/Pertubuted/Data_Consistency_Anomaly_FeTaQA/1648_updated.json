@@ -1,0 +1,74 @@
+[
+    {
+        "Year":1982,
+        "Competition":"European Championships",
+        "Venue":"Athens, Greece",
+        "Position":"9th",
+        "Event":"@@@_Long Jump",
+        "Notes":"6.52 m"
+    },
+    {
+        "Year":1982,
+        "Competition":"European Championships",
+        "Venue":"Athens, Greece",
+        "Position":"12th",
+        "Event":"Heptathlon",
+        "Notes":"@@@_5957pts"
+    },
+    {
+        "Year":1983,
+        "Competition":"European Indoor Championships",
+        "Venue":"@@@_Budapest, Romanina",
+        "Position":"6th",
+        "Event":"Long jump",
+        "Notes":"6.39 m"
+    },
+    {
+        "Year":1983,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"6th",
+        "Event":"Long jump",
+        "Notes":"@@@_6.81 meters"
+    },
+    {
+        "Year":1984,
+        "Competition":"Friendship Games",
+        "Venue":"Prague, Czechoslovakia",
+        "Position":"11th",
+        "Event":"Long jump",
+        "Notes":"@@@_642 cm"
+    },
+    {
+        "Year":1986,
+        "Competition":"European Indoor Championships",
+        "Venue":"Madrid, Spain",
+        "Position":"9th",
+        "Event":"Long jump",
+        "Notes":"6.56 m"
+    },
+    {
+        "Year":1988,
+        "Competition":"European Indoor Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"14th",
+        "Event":"Long jump",
+        "Notes":"@@@_5.88m"
+    },
+    {
+        "Year":1992,
+        "Competition":"European Indoor Championships",
+        "Venue":"Genoa, Italy",
+        "Position":"12th",
+        "Event":"@@@_long jump",
+        "Notes":"6.07 m"
+    },
+    {
+        "Year":1992,
+        "Competition":"European Indoor Championships",
+        "Venue":"Genoa, Italy",
+        "Position":"15th",
+        "Event":"@@@_Triple Jump",
+        "Notes":"@@@_13.02"
+    }
+]

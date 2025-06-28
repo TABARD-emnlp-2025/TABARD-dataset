@@ -1,0 +1,121 @@
+[
+    {
+        "Party":"National Liberal Party",
+        "Votes":"1,678,000",
+        "%":22.3,
+        "Seats":99,
+        "+/-":48
+    },
+    {
+        "Party":"Centre Party",
+        "Votes":"1,516,200",
+        "%":20.1,
+        "Seats":98,
+        "+/-":"-1"
+    },
+    {
+        "Party":"German Conservative Party",
+        "Votes":"1.147.200",
+        "%":15.2,
+        "Seats":80,
+        "+/-":2
+    },
+    {
+        "Party":"German Free-minded Party",
+        "Votes":"973,100",
+        "%":"12.90",
+        "Seats":32,
+        "+/-":"-35"
+    },
+    {
+        "Party":"social democratic party",
+        "Votes":"763,100",
+        "%":10.1,
+        "Seats":11,
+        "+/-":"-13"
+    },
+    {
+        "Party":"German Reich Party",
+        "Votes":"736,400",
+        "%":9.8,
+        "Seats":41,
+        "+/-":13
+    },
+    {
+        "Party":"Alsace-Lorraine Party",
+        "Votes":"233,700",
+        "%":3.1,
+        "Seats":15,
+        "+/-":0
+    },
+    {
+        "Party":"Polish Party",
+        "Votes":"220,000",
+        "%":"2.9%",
+        "Seats":13,
+        "+/-":"-3"
+    },
+    {
+        "Party":"German-Hanoverian Party",
+        "Votes":"112800",
+        "%":1.5,
+        "Seats":4,
+        "+/-":"-7"
+    },
+    {
+        "Party":"German People's Party",
+        "Votes":"88,800",
+        "%":1.2,
+        "Seats":0,
+        "+/-":"-7"
+    },
+    {
+        "Party":"Danish Party",
+        "Votes":"12,000",
+        "%":"0.2",
+        "Seats":1,
+        "+/-":0
+    },
+    {
+        "Party":"Anti-Semites",
+        "Votes":"11,600",
+        "%":0.2,
+        "Seats":1,
+        "+/-":1
+    },
+    {
+        "Party":"Others",
+        "Votes":"47,600",
+        "%":0.6,
+        "Seats":2,
+        "+/-":2
+    },
+    {
+        "Party":"Invalid/blank votes",
+        "Votes":"29,800",
+        "%":"–",
+        "Seats":"–",
+        "+/-":"–"
+    },
+    {
+        "Party":"Total",
+        "Votes":"7,570,700",
+        "%":"100.0",
+        "Seats":"397",
+        "+/-":0
+    },
+    {
+        "Party":"Registered voters/turnout",
+        "Votes":"9,769,800",
+        "%":77.5,
+        "Seats":"–",
+        "+/-":"–"
+    },
+    {
+        "Party":"Source: Nohlen & Stöver, DGDB",
+        "Votes":"Source: Nohlen & Stöver, DGDB",
+        "%":"Source: Nohlen & Stöver, DGDB",
+        "Seats":"Source: Nohlen & Stöver, DGDB",
+        "+/-":"Source: Nohlen & Stöver, DGDB"
+    }
+]

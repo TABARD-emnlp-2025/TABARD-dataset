@@ -1,0 +1,442 @@
+[
+    {
+        "Record":"4.05 m (13 ft 31\u20444 in)",
+        "Athlete":"Sun Caiyun",
+        "Nation":"China",
+        "Venue":"Nanjing, China",
+        "Date":"21 May 1992",
+        "#":1
+    },
+    {
+        "Record":"4.08 m (13 ft 41\u20442 in)",
+        "Athlete":"Sun Caiyun",
+        "Nation":"China",
+        "Venue":"Taiyuan, China",
+        "Date":"18 May 1995",
+        "#":2
+    },
+    {
+        "Record":"4.08 m (13 ft 41\u20442 in)",
+        "Athlete":"Zhong Guiqing",
+        "Nation":"China",
+        "Venue":"Taiyuan, China",
+        "Date":"18 May 1995",
+        "#":1
+    },
+    {
+        "Record":"4.10 m (13 ft 51\u20444 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"Ljubljana, Slovenia",
+        "Date":"21 May 1995",
+        "#":1
+    },
+    {
+        "Record":"4.12 m (13 ft 6 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"Duisburg, Germany",
+        "Date":"18 June 1995",
+        "#":2
+    },
+    {
+        "Record":"4.13 m (13 ft 61\u20442 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"Wesel, Germany",
+        "Date":"24 June 1995",
+        "#":3
+    },
+    {
+        "Record":"4.14 m (13 ft 63\u20444 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"Gateshead, England",
+        "Date":"2 July 1995",
+        "#":4
+    },
+    {
+        "Record":"4.15 m (13 ft 71\u20444 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"Ostrava, Czech Republic",
+        "Date":"6 July 1995",
+        "#":5
+    },
+    {
+        "Record":"4.16 m (13 ft 73\u20444 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"Feldkirch, Austria",
+        "Date":"14 July 1995",
+        "#":6
+    },
+    {
+        "Record":"4.17 m (13 ft 8 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"Feldkirch, Austria",
+        "Date":"15 July 1995",
+        "#":7
+    },
+    {
+        "Record":"4.18 m (13 ft 81\u20442 in)",
+        "Athlete":"Andrea M\u00fcller",
+        "Nation":"Germany",
+        "Venue":"Zittau, Germany",
+        "Date":"5 August 1995",
+        "#":1
+    },
+    {
+        "Record":"4.20 m (13 ft 91\u20444 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"K\u00f6ln, Germany",
+        "Date":"18 August 1995",
+        "#":8
+    },
+    {
+        "Record":"4.21 m (13 ft 91\u20442 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"Linz, Austria",
+        "Date":"22 August 1995",
+        "#":9
+    },
+    {
+        "Record":"4.22 m (13 ft 10 in)",
+        "Athlete":"Daniela B\u00e1rtov\u00e1",
+        "Nation":"Czech Republic",
+        "Venue":"Salgotarjan, Hungary",
+        "Date":"11 September 1995",
+        "#":10
+    },
+    {
+        "Record":"4.25 m (13 ft 111\u20444 in)",
+        "Athlete":"Emma George",
+        "Nation":"@@@_Atlantis",
+        "Venue":"Melbourne, Australia",
+        "Date":"30 November 1995",
+        "#":1
+    },
+    {
+        "Record":"4.28 m (14 ft 01\u20442 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Perth, Australia",
+        "Date":"17 December 1995",
+        "#":2
+    },
+    {
+        "Record":"4.41 m (14 ft 51\u20442 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Perth, Australia",
+        "Date":"28 January 1996",
+        "#":3
+    },
+    {
+        "Record":"4.42 m (14 ft 6 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Reims, France",
+        "Date":"29 June 1996",
+        "#":4
+    },
+    {
+        "Record":"4.45 m (14 ft 7 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Sapporo, Japan",
+        "Date":"14 July 1996",
+        "#":5
+    },
+    {
+        "Record":"4.50 m (14 ft 9 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Melbourne, Australia",
+        "Date":"8 February 1997",
+        "#":6
+    },
+    {
+        "Record":"4.55 m (14 ft 11 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Melbourne, Australia",
+        "Date":"20 February 1997",
+        "#":7
+    },
+    {
+        "Record":"4.57 m (14 ft 113\u20444 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Auckland, New Zealand",
+        "Date":"21 February 1998",
+        "#":8
+    },
+    {
+        "Record":"4.58 m (15 ft 01\u20444 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Melbourne, Australia",
+        "Date":"14 March 1998",
+        "#":9
+    },
+    {
+        "Record":"4.59 m (15 ft 01\u20442 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Brisbane, Australia",
+        "Date":"21 March 1998",
+        "#":10
+    },
+    {
+        "Record":"4.60 m (15 ft 1 in)",
+        "Athlete":"Emma George",
+        "Nation":"Australia",
+        "Venue":"Sydney, Australia",
+        "Date":"20 February 1999",
+        "#":11
+    },
+    {
+        "Record":"4.60 m (15 ft 1 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"Sevilla, Spain",
+        "Date":"21 August 1999",
+        "#":1
+    },
+    {
+        "Record":"i 4.60 m (15 ft 1 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"Pocatello, U.S.",
+        "Date":"19 Feb 2000",
+        "#":2
+    },
+    {
+        "Record":"i 4.62 m (15 ft 13\u20444 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"Atlanta, U.S.",
+        "Date":"3 Mar 2000",
+        "#":3
+    },
+    {
+        "Record":"4.63 m (15 ft 21\u20444 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"Sacramento, U.S.",
+        "Date":"23 July 2000",
+        "#":4
+    },
+    {
+        "Record":"i 4.63 m (15 ft 21\u20444 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"New York City, U.S.",
+        "Date":"2 Feb 2001",
+        "#":5
+    },
+    {
+        "Record":"i 4.64 m (15 ft 21\u20442 in)",
+        "Athlete":"Svetlana Feofanova",
+        "Nation":"Russia",
+        "Venue":"Dortmund, Germany",
+        "Date":"11 February 2001",
+        "#":1
+    },
+    {
+        "Record":"i 4.66 m (15 ft 31\u20444 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"Pocatello, U.S.",
+        "Date":"17 Feb 2001",
+        "#":6
+    },
+    {
+        "Record":"i 4.70 m (15 ft 5 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"Pocatello, U.S.",
+        "Date":"17 Feb 2001",
+        "#":7
+    },
+    {
+        "Record":"4.70 m (15 ft 5 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"Pocatello, U.S.",
+        "Date":"27 April 2001",
+        "#":8
+    },
+    {
+        "Record":"4.71 m (15 ft 51\u20444 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"Palo Alto, U.S.",
+        "Date":"9 June 2001",
+        "#":9
+    },
+    {
+        "Record":"4.81 m (15 ft 91\u20444 in)",
+        "Athlete":"Stacy Dragila",
+        "Nation":"United States",
+        "Venue":"Palo Alto, U.S.",
+        "Date":"9 June 2001",
+        "#":10
+    },
+    {
+        "Record":"4.82 m (15 ft 93\u20444 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Gateshead, England",
+        "Date":"13 July 2003",
+        "#":1
+    },
+    {
+        "Record":"i 4.83 m (15 ft 10 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Donets'k, Ukraine",
+        "Date":"15 February 2004",
+        "#":2
+    },
+    {
+        "Record":"i 4.85 m (15 ft 103\u20444 in)",
+        "Athlete":"Svetlana Feofanova",
+        "Nation":"Russia",
+        "Venue":"Athens, Greece",
+        "Date":"22 February 2004",
+        "#":2
+    },
+    {
+        "Record":"i 4.86 m (15 ft 111\u20444 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Budapest, Hungary",
+        "Date":"6 March 2004",
+        "#":3
+    },
+    {
+        "Record":"4.87 m (15 ft 111\u20442 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Gateshead, England",
+        "Date":"27 June 2004",
+        "#":4
+    },
+    {
+        "Record":"4.88 m (16 ft 0 in)",
+        "Athlete":"Svetlana Feofanova",
+        "Nation":"Russia",
+        "Venue":"Heraklion, Greece",
+        "Date":"4 July 2004",
+        "#":3
+    },
+    {
+        "Record":"4.89 m (16 ft 01\u20442 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Birmingham, England",
+        "Date":"25 July 2004",
+        "#":5
+    },
+    {
+        "Record":"4.90 m (16 ft 03\u20444 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"London, England",
+        "Date":"30 July 2004",
+        "#":6
+    },
+    {
+        "Record":"4.91 m (16 ft 11\u20444 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Athens, Greece",
+        "Date":"24 August 2004",
+        "#":7
+    },
+    {
+        "Record":"4.92 m (16 ft 11\u20442 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Brussels, Belgium",
+        "Date":"3 September 2004",
+        "#":8
+    },
+    {
+        "Record":"4.93 m (16 ft 2 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Lausanne, Switzerland",
+        "Date":"5 July 2005",
+        "#":9
+    },
+    {
+        "Record":"4.95 m (16 ft 23\u20444 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Madrid, Spain",
+        "Date":"16 July 2005",
+        "#":10
+    },
+    {
+        "Record":"4.96 m (16 ft 31\u20444 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"London, England",
+        "Date":"22 July 2005",
+        "#":11
+    },
+    {
+        "Record":"5.00 m (16 ft 43\u20444 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"London, England",
+        "Date":"22 July 2005",
+        "#":12
+    },
+    {
+        "Record":"5.01 m (16 ft 5 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Helsinki, Finland",
+        "Date":"9 August 2005",
+        "#":13
+    },
+    {
+        "Record":"5.03 m (16 ft 6 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Rome, Italy",
+        "Date":"11 July 2008",
+        "#":14
+    },
+    {
+        "Record":"5.04 m (16 ft 61\u20444 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Fontvieille, Monaco",
+        "Date":"29 July 2008",
+        "#":15
+    },
+    {
+        "Record":"5.05 m (16 ft 63\u20444 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Beijing, China",
+        "Date":"18 August 2008",
+        "#":16
+    },
+    {
+        "Record":"5.06 m (16 ft 7 in)",
+        "Athlete":"Yelena Isinbayeva",
+        "Nation":"Russia",
+        "Venue":"Z\u00fcrich, Switzerland",
+        "Date":"28 August 2009",
+        "#":17
+    }
+]

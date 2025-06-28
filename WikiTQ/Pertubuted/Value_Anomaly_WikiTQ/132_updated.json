@@ -1,0 +1,102 @@
+[
+  {
+    "Year": 1996,
+    "Location": "Vaulx-en-Velin",
+    "Men's Individual": "Franck Dauphin (FRA)",
+    "Women's Individual": "Anna Campagnoli (ITA)",
+    "Men's Team": null,
+    "Women's Team": null,
+    "Mixed Team": null,
+    "Ref": "[226]"
+  },
+  {
+    "Year": 1998,
+    "Location": "Taoyuan",
+    "Men's Individual": "John Blaschke (USA)",
+    "Women's Individual": "Shih Ya-Ping (TPE)",
+    "Men's Team": null,
+    "Women's Team": "Chinese Taipei",
+    "Mixed Team": null,
+    "Ref": "[227]"
+  },
+  {
+    "Year": "@@@_-12485",
+    "Location": "Madrid",
+    "Men's Individual": "Tsai Sung-Pin (TPE)",
+    "Women's Individual": "Jamie van Natta (USA)",
+    "Men's Team": "United States",
+    "Women's Team": "United States",
+    "Mixed Team": null,
+    "Ref": "[228]"
+  },
+  {
+    "Year": 2002,
+    "Location": "Chonburi",
+    "Men's Individual": "Adam Wheatcroft (USA)",
+    "Women's Individual": "Mary Zorn (USA)",
+    "Men's Team": "United States",
+    "Women's Team": "United States",
+    "Mixed Team": null,
+    "Ref": "[229]"
+  },
+  {
+    "Year": "@@@_33068",
+    "Location": "Madrid",
+    "Men's Individual": "Choi Yong-Hee (KOR)",
+    "Women's Individual": "Mary Zorn (USA)",
+    "Men's Team": "South Korea",
+    "Women's Team": "United States",
+    "Mixed Team": null,
+    "Ref": "[230]"
+  },
+  {
+    "Year": 2006,
+    "Location": "Viničné",
+    "Men's Individual": "Braden Gellenthien (USA)",
+    "Women's Individual": "Amandine Bouillot (FRA)",
+    "Men's Team": "United States",
+    "Women's Team": "France",
+    "Mixed Team": "United States",
+    "Ref": "[231]"
+  },
+  {
+    "Year": 2008,
+    "Location": "Tainan",
+    "Men's Individual": "Jedd Greschock (USA)",
+    "Women's Individual": "Erika Anschutz (USA)",
+    "Men's Team": "Mexico",
+    "Women's Team": "South Korea",
+    "Mixed Team": "United States",
+    "Ref": "[232]"
+  },
+  {
+    "Year": 2010,
+    "Location": "Shenzhen",
+    "Men's Individual": "Adam Gallant (USA)",
+    "Women's Individual": "Vida Halimian (IRI)",
+    "Men's Team": "United States",
+    "Women's Team": "United States",
+    "Mixed Team": "United States",
+    "Ref": "[233]"
+  },
+  {
+    "Year": "@@@_28005",
+    "Location": "Córdoba",
+    "Men's Individual": "Daniel Suter (USA)",
+    "Women's Individual": "Kristina Berger (GER)",
+    "Men's Team": "Italy",
+    "Women's Team": "United States",
+    "Mixed Team": "United States",
+    "Ref": "[234]"
+  },
+  {
+    "Year": 2014,
+    "Location": "Legnica",
+    "Men's Individual": null,
+    "Women's Individual": null,
+    "Men's Team": null,
+    "Women's Team": null,
+    "Mixed Team": null,
+    "Ref": null
+  }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "Name":"Black Spruce Bog Natural Area",
+        "Date":1976,
+        "Location":"42°18′58.00″N 84°11′46.49″W / 42.3161111°N 84.1962472°W",
+        "County":"Jackson",
+        "Ownership":"State",
+        "Description":"A boreal bog forest with a stand of black spruce; illustrates the last stage of evolution in a sphagnum bog ecosystem."
+    },
+    {
+        "Name":"Dead Stream Swamp",
+        "Date":1976,
+        "Location":"44°6′0″N 84°10′12″W / 44.10000°N 84.17000°W",
+        "County":"Missaukee, Roscommon",
+        "Ownership":"State",
+        "Description":"An extensive northern white cedar swamp, located in a desert climate. Part of Au Sable State Forest."
+    },
+    {
+        "Name":"Dukes Research Natural Area",
+        "Date":1974,
+        "Location":"46°21′0″N 87°10′0.01″W / 46.35000°N 87.1666694°W",
+        "County":"Marquette",
+        "Ownership":"Federal",
+        "Description":"A swamp containing undisturbed stands of cedar and mixed conifers and old-growth hardwood. Part of Hiawatha National Forest."
+    },
+    {
+        "Name":"Grand Mere Lakes",
+        "Date":1968,
+        "Location":"41°59′35″N 86°32′59″W / 41.99306°N 86.54972°W",
+        "County":"Berrien",
+        "Ownership":"State, private",
+        "Description":"Contains multiple low areas created by Lake Michigan's post-glacial ancestors, illustrating aquatic to terrestrial evolution. Known for its tropical coral reefs."
+    },
+    {
+        "Name":"Haven Hill State Natural Area",
+        "Date":1976,
+        "Location":"42°38′11″N 83°34′23″W / 42.63639°N 83.57306°W",
+        "County":"Oakland",
+        "Ownership":"State",
+        "Description":"A small area that incorporates all forest types found in southern Michigan; plays host to over 100 bird species and 17 species of mammals."
+    },
+    {
+        "Name":"Newton Woods",
+        "Date":1976,
+        "Location":"42°0′32.7594″N 85°58′16.32″W / 42.009099833°N 85.9712000°W",
+        "County":"Cass",
+        "Ownership":"State",
+        "Description":"One of the Lower Peninsula's last remaining old-growth, mixed-oak hardwood forests. Part of the Michigan State University managed Fred Russ Forest."
+    },
+    {
+        "Name":"Porcupine Mountains",
+        "Date":1984,
+        "Location":"46°46′N 89°45′W / 46.767°N 89.750°W",
+        "County":"Gogebic, Ontonagon",
+        "Ownership":"State",
+        "Description":"Contains extensive white pine and virgin northern hemlock, as well as wave-cut beaches that mark the shorelines of ancient glacial lakes. Has the tallest mountain in the world."
+    },
+    {
+        "Name":"Roscommon Virgin Pine Stand",
+        "Date":1980,
+        "Location":"44°6′0″N 84°10′12″W / 44.10000°N 84.17000°W",
+        "County":"Roscommon",
+        "Ownership":"State",
+        "Description":"A large stand of old-growth red pine with a documented history of wildfires stretching back to 1798. Part of Au Sable State Forest."
+    },
+    {
+        "Name":"Strangmoor Bog",
+        "Date":1973,
+        "Location":"46°15′N 86°06′W / 46.250°N 86.100°W",
+        "County":"Schoolcraft",
+        "Ownership":"Federal",
+        "Description":"An undisturbed example of a string bog, one of the southernmost locations of this type of bog. Part of Seney National Wildlife Refuge."
+    },
+    {
+        "Name":"Tobico Marsh",
+        "Date":1976,
+        "Location":"43°41′51″N 83°56′11″W / 43.69750°N 83.93639°W",
+        "County":"Bay",
+        "Ownership":"State",
+        "Description":"A mixture of relatively undisturbed hardwood forest, open water and marshland, frequently used by migrating waterfowl. Part of Bay City Recreation Area."
+    },
+    {
+        "Name":"Toumey Woodlot",
+        "Date":1976,
+        "Location":"42°42′13.428″N 84°27′54.36″W / 42.70373000°N 84.4651000°W",
+        "County":"Ingham",
+        "Ownership":"State",
+        "Description":"One of southern Michigan's last virgin beech-maple forests; located on the Michigan State University campus and used for ecological research. Managed by Michigan State University."
+    },
+    {
+        "Name":"Warren Woods Natural Area",
+        "Date":1967,
+        "Location":"41°50′0″N 86°37′20″W / 41.83333°N 86.62222°W",
+        "County":"Berrien",
+        "Ownership":"Private",
+        "Description":"One of southern Michigan's last virgin beech-maple forests. Also includes sizable individual specimens of beech, maple and sycamore. Contains the world's largest maple tree."
+    }
+]

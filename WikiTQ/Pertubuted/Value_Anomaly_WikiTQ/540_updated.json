@@ -1,0 +1,1730 @@
+[
+  {
+    "Name": "St. Adalbert",
+    "Town": "Enfield",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1915,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Aedan",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1900,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Agnes",
+    "Town": "Woodmont (Milford)",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1906,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Aloysius",
+    "Town": "Plantsville (Southington)",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1961,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Andrew",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1895,
+    "Original Ethnic Community": "Lithuanian"
+  },
+  {
+    "Name": "St. Ann",
+    "Town": "Avon",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1917,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Ann",
+    "Town": "Bristol",
+    "Deanery": "Bristol",
+    "Vicariate": "Waterbury",
+    "Founded": 1908,
+    "Original Ethnic Community": "French"
+  },
+  {
+    "Name": "St. Ann",
+    "Town": "Hamden",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1919,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "St. Ann",
+    "Town": "Milford",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1924,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Ann",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1938,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "St. Anne",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1886,
+    "Original Ethnic Community": "French"
+  },
+  {
+    "Name": "St. Anne-Immaculate Conception",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 2000,
+    "Original Ethnic Community": "Multi-ethnic"
+  },
+  {
+    "Name": "St. Anthony",
+    "Town": "Ansonia",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1915,
+    "Original Ethnic Community": "Lithuanian"
+  },
+  {
+    "Name": "St. Anthony",
+    "Town": "Bristol",
+    "Deanery": "Bristol",
+    "Vicariate": "Waterbury",
+    "Founded": 1920,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "St. Anthony",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1904,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "St. Anthony",
+    "Town": "Prospect",
+    "Deanery": "Naugatuck-Cheshire",
+    "Vicariate": "Waterbury",
+    "Founded": 1943,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Anthony of Padua",
+    "Town": "Litchfield",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1882,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Ascension",
+    "Town": "Hamden",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1964,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Assumption",
+    "Town": "Ansonia",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1870,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Assumption",
+    "Town": "Manchester",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1955,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Church of the Assumption",
+    "Town": "Woodbridge",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1924,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Augustine",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1902,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Augustine",
+    "Town": "North Branford",
+    "Deanery": "East Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1941,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Augustine",
+    "Town": "Seymour",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1866,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Augustine",
+    "Town": "South Glastonbury (Glastonbury)",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1877,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Barnabas",
+    "Town": "North Haven",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1922,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Bartholomew",
+    "Town": "Manchester",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1958,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Bernadette",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1938,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Bernard",
+    "Town": "Enfield",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1870,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Bernard",
+    "Town": "Sharon",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1885,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Bernard",
+    "Town": "Tariffville (Simsbury)",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1878,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Blessed Sacrament",
+    "Town": "East Hartford",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1948,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Blessed Sacrament",
+    "Town": "Hamden",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1939,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Blessed Sacrament",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1911,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Boniface",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1868,
+    "Original Ethnic Community": "German"
+  },
+  {
+    "Name": "St. Brendan",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1913,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Bridget",
+    "Town": "Cheshire",
+    "Deanery": "Naugatuck-Cheshire",
+    "Vicariate": "Waterbury",
+    "Founded": 1871,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Bridget",
+    "Town": "Cornwall Bridge (Sharon)",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1883,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Bridget",
+    "Town": "Manchester",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1870,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Brigid",
+    "Town": "West Hartford",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1919,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Casimir",
+    "Town": "Terryville (Plymouth)",
+    "Deanery": "Bristol",
+    "Vicariate": "Waterbury",
+    "Founded": 1906,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Catherine",
+    "Town": "Broad Brook (East Windsor)",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1886,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Catherine of Siena",
+    "Town": "West Simsbury (Simsbury)",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1971,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Christ the Redeemer",
+    "Town": "Milford",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1966,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Christopher",
+    "Town": "East Hartford",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1965,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Clare",
+    "Town": "East Haven",
+    "Deanery": "East Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1947,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Corpus Christi",
+    "Town": "Wethersfield",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1941,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "SS. Cyril and Methodius",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1902,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Dominic",
+    "Town": "Southington",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1971,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Donato",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": "@@@_28691",
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "St. Dunstan",
+    "Town": "Glastonbury",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1971,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Elizabeth",
+    "Town": "Branford",
+    "Deanery": "East Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1966,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Elizabeth Seton",
+    "Town": "Rocky Hill",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1985,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Church of the Epiphany",
+    "Town": "Cheshire",
+    "Deanery": "Naugatuck-Cheshire",
+    "Vicariate": "Waterbury",
+    "Founded": 1967,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Frances Cabrini",
+    "Town": "North Haven",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1967,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Francis",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1868,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Francis of Assisi",
+    "Town": "Naugatuck",
+    "Deanery": "Naugatuck-Cheshire",
+    "Vicariate": "Waterbury",
+    "Founded": 1866,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Francis of Assisi",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1941,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Francis of Assisi",
+    "Town": "South Windsor",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1941,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Francis of Assisi",
+    "Town": "Torrington",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1877,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Francis Xavier",
+    "Town": "New Milford",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1871,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Francis Xavier",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1896,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Gabriel",
+    "Town": "Milford",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1946,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Gabriel",
+    "Town": "Windsor",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1894,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. George",
+    "Town": "Guilford",
+    "Deanery": "East Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1870,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Gertrude",
+    "Town": "Windsor",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1947,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Good Shepherd",
+    "Town": "Seymour",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1967,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Gregory the Great",
+    "Town": "Bristol",
+    "Deanery": "Bristol",
+    "Vicariate": "Waterbury",
+    "Founded": 1957,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Hedwig",
+    "Town": "Union City (Naugatuck)",
+    "Deanery": "Naugatuck-Cheshire",
+    "Vicariate": "Waterbury",
+    "Founded": 1906,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Helena",
+    "Town": "West Hartford",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1966,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Holy Angels",
+    "Town": "Meriden",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1887,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Holy Cross",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1927,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "Holy Family",
+    "Town": "Enfield",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1965,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Holy Infant",
+    "Town": "Orange",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1952,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Holy Rosary",
+    "Town": "Ansonia",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1908,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "Holy Spirit",
+    "Town": "Newington",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1964,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Holy Trinity",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1900,
+    "Original Ethnic Community": "Lithuanian"
+  },
+  {
+    "Name": "Immaculate Conception",
+    "Town": "New Hartford",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1869,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Immaculate Conception",
+    "Town": "Norfolk",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1889,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Immaculate Conception",
+    "Town": "Southington",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1915,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Immaculate Conception",
+    "Town": "Terryville (Plymouth)",
+    "Deanery": "Bristol",
+    "Vicariate": "Waterbury",
+    "Founded": 1882,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Basilica of the Immaculate Conception",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1847,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Immaculate Heart of Mary",
+    "Town": "Harwinton",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1956,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Incarnation",
+    "Town": "Wethersfield",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1963,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Isaac Jogues",
+    "Town": "East Hartford",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1964,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. James",
+    "Town": "Manchester",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1874,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. James",
+    "Town": "Rocky Hill",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1880,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Jerome",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1958,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Joan of Arc",
+    "Town": "Hamden",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1971,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. John Fisher",
+    "Town": "Marlborough",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": "@@@_-2038",
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. John of the Cross",
+    "Town": "Middlebury",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1904,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. John the Baptist",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1893,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. John the Evangelist",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1916,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. John the Evangelist",
+    "Town": "Watertown",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1878,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. John Vianney",
+    "Town": "West Haven",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1965,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "Ansonia",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1925,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "Bristol",
+    "Deanery": "Bristol",
+    "Vicariate": "Waterbury",
+    "Founded": 1864,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "Canaan",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1920,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Cathedral of St. Joseph",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1872,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "Meriden",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1900,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1896,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1900,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "Poquonock (Windsor)",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1874,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "Suffield",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1916,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1894,
+    "Original Ethnic Community": "Lithuanian"
+  },
+  {
+    "Name": "St. Joseph",
+    "Town": "Winsted (Winchester)",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1853,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Jude",
+    "Town": "Derby",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1961,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Justin",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1924,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Laurent",
+    "Town": "Meriden",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1880,
+    "Original Ethnic Community": "French"
+  },
+  {
+    "Name": "St. Lawrence",
+    "Town": "West Haven",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1886,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Lawrence O'Toole",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1885,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Leo the Great",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1974,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Louis",
+    "Town": "West Haven",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1886,
+    "Original Ethnic Community": "French and Territorial"
+  },
+  {
+    "Name": "St. Lucy",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1926,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "St. Luke",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1930,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Margaret",
+    "Town": "Madison",
+    "Deanery": "East Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1937,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Margaret",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1910,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Margaret Mary",
+    "Town": "South Windsor",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1961,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Maria Goretti",
+    "Town": "Wolcott",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1973,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mark the Evangelist",
+    "Town": "West Hartford",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1942,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Martha",
+    "Town": "Enfield",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1961,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Martin de Porres",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1942,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Branford",
+    "Deanery": "East Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1868,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "East Hartford",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1873,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Lakeville (Salisbury)",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1874,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Meriden",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": "@@@_29521",
+    "Original Ethnic Community": "German"
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Milford",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1874,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1848,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary Priory",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1832,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Newington",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1924,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Simsbury",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1921,
+    "Original Ethnic Community": "@@@_None"
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Torrington",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1919,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Union City (Naugatuck)",
+    "Deanery": "Naugatuck-Cheshire",
+    "Vicariate": "Waterbury",
+    "Founded": 1907,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Unionville (Farmington)",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1874,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary",
+    "Town": "Windsor Locks",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1852,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary Magdalen",
+    "Town": "Oakville (Watertown)",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1900,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Mary Our Queen",
+    "Town": "Plantsville (Southington)",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1961,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Mary the Immaculate Conception",
+    "Town": "Derby",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1851,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Matthew",
+    "Town": "Forestville (Bristol)",
+    "Deanery": "Bristol",
+    "Vicariate": "Waterbury",
+    "Founded": 1891,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Maurice",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1946,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Michael",
+    "Town": "Beacon Falls",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1899,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Michael",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1900,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Michael",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1889,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "St. Michael",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1897,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Michael the Archangel",
+    "Town": "Derby",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1905,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Monica",
+    "Town": "Northford (North Branford)",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1964,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Most Holy Trinity",
+    "Town": "Wallingford",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1869,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Church of the Nativity",
+    "Town": "Bethlehem",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1916,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of Fatima",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1958,
+    "Original Ethnic Community": "Portuguese"
+  },
+  {
+    "Name": "Our Lady of Fatima",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1971,
+    "Original Ethnic Community": "Portuguese"
+  },
+  {
+    "Name": "Our Lady of Fatima",
+    "Town": "Yalesville (Wallingford",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1956,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of Grace",
+    "Town": "Bantam",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1970,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of Loreto",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1971,
+    "Original Ethnic Community": "Portuguese"
+  },
+  {
+    "Name": "Our Lady of Lourdes",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1899,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "Our Lady of Mercy",
+    "Town": "Plainville",
+    "Deanery": "Bristol",
+    "Vicariate": "Waterbury",
+    "Founded": 1881,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of Mt. Carmel",
+    "Town": "Hamden",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1869,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of Mt. Carmel",
+    "Town": "Meriden",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1894,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "Our Lady of Mt. Carmel",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1923,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "Our Lady of Peace",
+    "Town": "East Hartford",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1971,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of Perpetual Help",
+    "Town": "Washington Depot (Washington)",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1893,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of Pompeii",
+    "Town": "East Haven",
+    "Deanery": "East Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1941,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of Sorrows",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1895,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of the Lakes",
+    "Town": "New Milford",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1990,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Our Lady of Victory",
+    "Town": "West Haven",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1935,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Patrick",
+    "Town": "Collinsville (Canton)",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1856,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Patrick",
+    "Town": "Enfield",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1866,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Patrick",
+    "Town": "Farmington",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1871,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Patrick",
+    "Town": "Roxbury",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1885,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Patrick",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1880,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Patrick-St. Anthony",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1829,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Paul",
+    "Town": "Glastonbury",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1954,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Paul",
+    "Town": "Kensington (Berlin)",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1878,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Paul",
+    "Town": "West Haven",
+    "Deanery": "West Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1916,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Peter",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1859,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Peter",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1873,
+    "Original Ethnic Community": "German-French"
+  },
+  {
+    "Name": "St. Peter",
+    "Town": "Torrington",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1910,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "St. Peter Claver",
+    "Town": "West Hartford",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1966,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "SS. Peter and Paul",
+    "Town": "Wallingford",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1924,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "SS. Peter and Paul",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1920,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Philip",
+    "Town": "East Windsor",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1959,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Pius X",
+    "Town": "Wolcott",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1955,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Resurrection",
+    "Town": "Wallingford",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": "@@@_20346",
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Rita",
+    "Town": "Hamden",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1928,
+    "Original Ethnic Community": "Italian"
+  },
+  {
+    "Name": "St. Robert Bellarmine",
+    "Town": "Windsor Locks",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1962,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Rose",
+    "Town": "East Hartford",
+    "Deanery": "Manchester",
+    "Vicariate": "Hartford",
+    "Founded": 1920,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Rose of Lima",
+    "Town": "Meriden",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1848,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Rose of Lima",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1907,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "Bloomfield",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1878,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "East Berlin (Berlin)",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1896,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "Hartford",
+    "Deanery": "Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1872,
+    "Original Ethnic Community": "Spanish"
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "Kent",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1970,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "New Britain",
+    "Deanery": "New Britain",
+    "Vicariate": "Hartford",
+    "Founded": 1894,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1876,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "Southbury",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1884,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "Suffield",
+    "Deanery": "Enfield",
+    "Vicariate": "Hartford",
+    "Founded": 1884,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "Torrington",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1910,
+    "Original Ethnic Community": "Slovak"
+  },
+  {
+    "Name": "Sacred Heart",
+    "Town": "Wethersfield",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1876,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "Sacred Heart-Sagrado Corazon",
+    "Town": "Waterbury",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1885,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Stanislaus",
+    "Town": "Bristol",
+    "Deanery": "Bristol",
+    "Vicariate": "Waterbury",
+    "Founded": 1919,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Stanislaus",
+    "Town": "Meriden",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1891,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Stanislaus",
+    "Town": "New Haven",
+    "Deanery": "New Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1901,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Stanislaus Kostka",
+    "Town": "Waterbury (Union City)",
+    "Deanery": "Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1913,
+    "Original Ethnic Community": "Polish"
+  },
+  {
+    "Name": "St. Stephen",
+    "Town": "Hamden",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1953,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Teresa of Avila",
+    "Town": "Woodbury",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1902,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Therese",
+    "Town": "Branford",
+    "Deanery": "East Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1947,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Therese",
+    "Town": "Granby",
+    "Deanery": "Farmington Valley",
+    "Vicariate": "Hartford",
+    "Founded": 1958,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Therese",
+    "Town": "North Haven",
+    "Deanery": "Hamden-North Haven",
+    "Vicariate": "New Haven",
+    "Founded": 1925,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Thomas",
+    "Town": "Southington",
+    "Deanery": "Meriden",
+    "Vicariate": "New Haven",
+    "Founded": 1860,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Thomas",
+    "Town": "Thomaston",
+    "Deanery": "Suburban Waterbury",
+    "Vicariate": "Waterbury",
+    "Founded": 1869,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Thomas Becket",
+    "Town": "Cheshire",
+    "Deanery": "Naugatuck-Cheshire",
+    "Vicariate": "Waterbury",
+    "Founded": 1971,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Thomas of Villanova",
+    "Town": "Goshen",
+    "Deanery": "Litchfield",
+    "Vicariate": "Waterbury",
+    "Founded": 1880,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Thomas the Apostle",
+    "Town": "Oxford",
+    "Deanery": "Ansonia-Derby",
+    "Vicariate": "Waterbury",
+    "Founded": 1966,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Thomas the Apostle",
+    "Town": "West Hartford",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1921,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Timothy",
+    "Town": "West Hartford",
+    "Deanery": "Suburban Hartford",
+    "Vicariate": "Hartford",
+    "Founded": 1958,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Vincent de Paul",
+    "Town": "East Haven",
+    "Deanery": "East Shore Line",
+    "Vicariate": "New Haven",
+    "Founded": 1915,
+    "Original Ethnic Community": null
+  },
+  {
+    "Name": "St. Vincent Ferrer",
+    "Town": "Naugatuck",
+    "Deanery": "Naugatuck-Cheshire",
+    "Vicariate": "Waterbury",
+    "Founded": 1975,
+    "Original Ethnic Community": null
+  }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Date":"12 March 1978",
+        "Tournament":"Dallas",
+        "Surface":"Carpet",
+        "Partner":"Martina Navratilova",
+        "Opponents in the final":"Evonne Goolagong\n Betty St\u00f6ve",
+        "Score in the final":"6\u20133, 7\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":1.0,
+        "Date":"1 October 1978",
+        "Tournament":"Atlanta",
+        "Surface":"Carpet",
+        "Partner":"Martina Navratilova",
+        "Opponents in the final":"Fran\u00e7oise D\u00fcrr\n Virginia Wade",
+        "Score in the final":"6\u20134, 2\u20136, 4\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":2.0,
+        "Date":"8 October 1978",
+        "Tournament":"Phoenix",
+        "Surface":"Hard",
+        "Partner":"Martina Navratilova",
+        "Opponents in the final":"Tracy Austin\n Betty St\u00f6ve",
+        "Score in the final":"4\u20136, 7\u20136, 2\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Date":"12 November 1978",
+        "Tournament":"Oldsmar",
+        "Surface":"Hard",
+        "Partner":"Martina Navratilova",
+        "Opponents in the final":"Kerry Reid\n Wendy Turnbull",
+        "Score in the final":"7\u20136, 6\u20133"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":3.0,
+        "Date":"18 February 1979",
+        "Tournament":"Los Angeles",
+        "Surface":"Hard (i)",
+        "Partner":"Martina Navratilova",
+        "Opponents in the final":"Rosemary Casals\n Chris Evert",
+        "Score in the final":"4\u20136, 6\u20131, 3\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Date":"4 March 1979",
+        "Tournament":"Dallas",
+        "Surface":"Carpet",
+        "Partner":"Martina Navratilova",
+        "Opponents in the final":"Rosemary Casals\n Chris Evert",
+        "Score in the final":"7\u20136, 6\u20132"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":4.0,
+        "Date":"12 August 1979",
+        "Tournament":"Indianapolis",
+        "Surface":"Clay",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Penny Johnson\n Paula Smith",
+        "Score in the final":"6\u20131, 6\u20130"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":4.0,
+        "Date":"29 September 1979",
+        "Tournament":"Atlanta",
+        "Surface":"Carpet",
+        "Partner":"Ann Kiyomura",
+        "Opponents in the final":"Betty St\u00f6ve\n Wendy Turnbull",
+        "Score in the final":"2\u20136, 4\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":5.0,
+        "Date":"28 October 1979",
+        "Tournament":"Tampa",
+        "Surface":"Hard",
+        "Partner":"Virginia Ruzici",
+        "Opponents in the final":"Ilana Kloss\n Betty-Ann Stuart",
+        "Score in the final":"7\u20135, 4\u20136, 7\u20135"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":6.0,
+        "Date":"25 November 1979",
+        "Tournament":"Brighton",
+        "Surface":"Carpet",
+        "Partner":"Ann Kiyomura",
+        "Opponents in the final":"Ilana Kloss\n Laura duPont",
+        "Score in the final":"6\u20132, 6\u20131"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":5.0,
+        "Date":"2 December 1979",
+        "Tournament":"Melbourne",
+        "Surface":"Grass",
+        "Partner":"Dianne Fromholtz",
+        "Opponents in the final":"Billie Jean King\n Wendy Turnbull",
+        "Score in the final":"3\u20136, 3\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":6.0,
+        "Date":"10 February 1980",
+        "Tournament":"Los Angeles",
+        "Surface":"@@@_Hard",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"@@@_Rosemary Casals\n martina Navratilova",
+        "Score in the final":"6\u20137, 2\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":7.0,
+        "Date":"24 February 1980",
+        "Tournament":"Detroit",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Billie Jean King\n Ilana Kloss",
+        "Score in the final":"6\u20133, 3\u20136, 2\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":7.0,
+        "Date":"13 April 1980",
+        "Tournament":"Hilton Head",
+        "Surface":"Clay",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Candy Reynolds\n Paula Smith",
+        "Score in the final":"6\u20132, 6\u20131"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":8.0,
+        "Date":"7 June 1980",
+        "Tournament":"French Open",
+        "Surface":"Clay",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Ivanna Madruga\n Adriana Villagran",
+        "Score in the final":"6\u20131, 6\u20130"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":9.0,
+        "Date":"21 June 1980",
+        "Tournament":"Eastbourne",
+        "Surface":"Grass",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Pam Shriver\n Betty St\u00f6ve",
+        "Score in the final":"6\u20134, 6\u20131"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":10.0,
+        "Date":"5 July 1980",
+        "Tournament":"Wimbledon",
+        "Surface":"Grass",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Rosemary Casals\n Wendy Turnbull",
+        "Score in the final":"4\u20136, 7\u20135, 6\u20131"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":11.0,
+        "Date":"20 July 1980",
+        "Tournament":"Montreal",
+        "Surface":"Hard",
+        "Partner":"Pam Shriver",
+        "Opponents in the final":"Ann Kiyomura\n Greer Stevens",
+        "Score in the final":"3\u20136, 6\u20136 ret."
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":8.0,
+        "Date":"27 July 1980",
+        "Tournament":"Richmond",
+        "Surface":"Carpet",
+        "Partner":"Pam Shriver",
+        "Opponents in the final":"Billie Jean King\n Martina Navratilova",
+        "Score in the final":"4\u20136, 6\u20134, 3\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":12.0,
+        "Date":"10 August 1980",
+        "Tournament":"Indianapolis",
+        "Surface":"Clay",
+        "Partner":"Paula Smith",
+        "Opponents in the final":"Virginia Ruzici\n Ren\u00e1ta Tomanov\u00e1",
+        "Score in the final":"4\u20136, 6\u20133, 6\u20134"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":13.0,
+        "Date":"21 September 1980",
+        "Tournament":"Las Vegas",
+        "Surface":"Hard (i)",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Betty St\u00f6ve",
+        "Score in the final":"2\u20136, 6\u20134, 6\u20133"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":9.0,
+        "Date":"28 September 1980",
+        "Tournament":"Atlanta",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Barbara Potter\n Sharon Walsh",
+        "Score in the final":"3\u20136, 1\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":10.0,
+        "Date":"5 October 1980",
+        "Tournament":"Minneapolis",
+        "Surface":"Carpet",
+        "Partner":"Paula Smith",
+        "Opponents in the final":"Ann Kiyomura\n Candy Reynolds",
+        "Score in the final":"3\u20136, 6\u20134, 1\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":14.0,
+        "Date":"26 October 1980",
+        "Tournament":"Brighton",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Betty St\u00f6ve",
+        "Score in the final":"6\u20133, 7\u20135"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":11.0,
+        "Date":"9 November 1980",
+        "Tournament":"Filderstadt",
+        "Surface":"Hard (i)",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Hana Mandl\u00edkov\u00e1\n Betty St\u00f6ve",
+        "Score in the final":"4\u20136, 5\u20137"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":12.0,
+        "Date":"16 November 1980",
+        "Tournament":"Tampa",
+        "Surface":"Hard",
+        "Partner":"Paula Smith",
+        "Opponents in the final":"Rosemary Casals\n Candy Reynolds",
+        "Score in the final":"6\u20137, 5\u20137"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":15.0,
+        "Date":"25 January 1981",
+        "Tournament":"Cincinnati",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"1\u20136, 6\u20133, 6\u20133"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":13.0,
+        "Date":"15 March 1981",
+        "Tournament":"Dallas",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"5\u20137, 4\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":14.0,
+        "Date":"21 June 1981",
+        "Tournament":"Eastbourne",
+        "Surface":"Grass",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"7\u20136, 2\u20136, 1\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":15.0,
+        "Date":"3 July 1981",
+        "Tournament":"Wimbledon",
+        "Surface":"Grass",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"3\u20136, 6\u20137(6)"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":16.0,
+        "Date":"16 August 1981",
+        "Tournament":"Richmond",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Sue Barker\n Ann Kiyomura",
+        "Score in the final":"6\u20134, 6\u20137, 4\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":17.0,
+        "Date":"23 August 1981",
+        "Tournament":"Toronto",
+        "Surface":"Hard",
+        "Partner":"Candy Reynolds",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"6\u20137, 6\u20137"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":16.0,
+        "Date":"12 September 1981",
+        "Tournament":"US Open",
+        "Surface":"Hard",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Rosemary Casals\n Wendy Turnbull",
+        "Score in the final":"6\u20133, 6\u20133"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":17.0,
+        "Date":"25 October 1981",
+        "Tournament":"Brighton",
+        "Surface":"Carpet",
+        "Partner":"Barbara Potter",
+        "Opponents in the final":"Mima Jau\u0161ovec\n Pam Shriver",
+        "Score in the final":"6\u20137, 6\u20133, 6\u20134"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":18.0,
+        "Date":"1 November 1981",
+        "Tournament":"Filderstadt",
+        "Surface":"Hard (i)",
+        "Partner":"Barbara Potter",
+        "Opponents in the final":"Mima Jau\u0161ovec\n Martina Navratilova",
+        "Score in the final":"4\u20136, 1\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":19.0,
+        "Date":"29 November 1981",
+        "Tournament":"Sydney",
+        "Surface":"Grass",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"7\u20136, 2\u20136, 4\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":18.0,
+        "Date":"5 December 1981",
+        "Tournament":"Australian Open",
+        "Surface":"Grass",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"6\u20132, 7\u20135"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":19.0,
+        "Date":"10 January 1982",
+        "Tournament":"Washington, D.C.",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"6\u20132, 3\u20136, 6\u20131"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":20.0,
+        "Date":"17 January 1982",
+        "Tournament":"Cincinnati",
+        "Surface":"Carpet",
+        "Partner":"Pam Shriver",
+        "Opponents in the final":"Sue Barker\n Ann Kiyomura",
+        "Score in the final":"2\u20136, 6\u20137"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":21.0,
+        "Date":"24 January 1982",
+        "Tournament":"Seattle",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Rosemary Casals\n Wendy Turnbull",
+        "Score in the final":"5\u20137, 4\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":22.0,
+        "Date":"14 February 1982",
+        "Tournament":"Kansas City",
+        "Surface":"Carpet",
+        "Partner":"Mary Lou Piatek",
+        "Opponents in the final":"Barbara Potter\n Sharon Walsh",
+        "Score in the final":"6\u20134, 2\u20136, 2\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":20.0,
+        "Date":"7 March 1982",
+        "Tournament":"Los Angeles",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Barbara Potter\n Sharon Walsh",
+        "Score in the final":"6\u20133, 7\u20135"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":21.0,
+        "Date":"20 March 1982",
+        "Tournament":"Boston",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Rosemary Casals\n Wendy Turnbull",
+        "Score in the final":"7\u20136, 2\u20136, 6\u20134"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":23.0,
+        "Date":"28 March 1982",
+        "Tournament":"New York City",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"4\u20136, 3\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":24.0,
+        "Date":"18 April 1982",
+        "Tournament":"Fort Worth",
+        "Surface":"Clay",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"5\u20137, 3\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":25.0,
+        "Date":"2 May 1982",
+        "Tournament":"Orlando",
+        "Surface":"Clay",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Rosemary Casals\n Wendy Turnbull",
+        "Score in the final":"3\u20136, 3\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":22.0,
+        "Date":"5 June 1982",
+        "Tournament":"French Open",
+        "Surface":"Clay",
+        "Partner":"Martina Navratilova",
+        "Opponents in the final":"Rosemary Casals\n Wendy Turnbull",
+        "Score in the final":"6\u20133, 6\u20134"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":26.0,
+        "Date":"20 June 1982",
+        "Tournament":"Eastbourne",
+        "Surface":"Grass",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"3\u20136, 4\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":27.0,
+        "Date":"3 July 1982",
+        "Tournament":"Wimbledon",
+        "Surface":"Grass",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"4\u20136, 1\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":28.0,
+        "Date":"24 October 1982",
+        "Tournament":"Filderstadt",
+        "Surface":"Hard (i)",
+        "Partner":"Candy Reynolds",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"2\u20136, 3\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":23.0,
+        "Date":"21 November 1982",
+        "Tournament":"Brisbane",
+        "Surface":"Grass",
+        "Partner":"Billie Jean King",
+        "Opponents in the final":"Claudia Kohde-Kilsch\n Eva Pfaff",
+        "Score in the final":"6\u20133, 6\u20134"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":29.0,
+        "Date":"10 January 1983",
+        "Tournament":"Washington, D.C.",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"6\u20134, 5\u20137, 3\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":30.0,
+        "Date":"20 February 1983",
+        "Tournament":"Chicago",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"1\u20136, 2\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":31.0,
+        "Date":"20 March 1983",
+        "Tournament":"Boston",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Jo Durie\n Ann Kiyomura",
+        "Score in the final":"3\u20136, 1\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":32.0,
+        "Date":"3 April 1983",
+        "Tournament":"Tokyo",
+        "Surface":"Carpet",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Billie Jean King\n Sharon Walsh",
+        "Score in the final":"1\u20136, 1\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":24.0,
+        "Date":"24 April 1983",
+        "Tournament":"Orlando",
+        "Surface":"Clay",
+        "Partner":"Billie Jean King",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"6\u20133, 1\u20136, 7\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":33.0,
+        "Date":"4 June 1983",
+        "Tournament":"French Open",
+        "Surface":"Clay",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Rosalyn Fairbank\n Candy Reynolds",
+        "Score in the final":"7\u20135, 5\u20137, 2\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":25.0,
+        "Date":"22 April 1984",
+        "Tournament":"Amelia Island",
+        "Surface":"Clay",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Anne Hobbs\n Mima Jau\u0161ovec",
+        "Score in the final":"6\u20134, 3\u20136, 6\u20134"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":34.0,
+        "Date":"7 July 1984",
+        "Tournament":"Wimbledon",
+        "Surface":"Grass",
+        "Partner":"Kathy Jordan",
+        "Opponents in the final":"Martina Navratilova\n Pam Shriver",
+        "Score in the final":"3\u20136, 4\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":26.0,
+        "Date":"31 March 1985",
+        "Tournament":"Palm Beach Gardens",
+        "Surface":"Clay",
+        "Partner":"Joanne Russell",
+        "Opponents in the final":"Laura Arraya\n Gabriela Sabatini",
+        "Score in the final":"1\u20136, 6\u20131, 7\u20136(4)"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":35.0,
+        "Date":"26 January 1986",
+        "Tournament":"Wichita",
+        "Surface":"Carpet",
+        "Partner":"Joanne Russell",
+        "Opponents in the final":"Kathy Jordan\n Candy Reynolds",
+        "Score in the final":"3\u20136, 7\u20136(5), 3\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":27.0,
+        "Date":"9 March 1986",
+        "Tournament":"Hershey",
+        "Surface":"Carpet",
+        "Partner":"Candy Reynolds",
+        "Opponents in the final":"Sandy Collins\n Kim Sands",
+        "Score in the final":"7\u20136(8), 6\u20131"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":28.0,
+        "Date":"5 October 1986",
+        "Tournament":"New Orleans",
+        "Surface":"Carpet",
+        "Partner":"Candy Reynolds",
+        "Opponents in the final":"Svetlana Parkhomenko\n Larisa Savchenko",
+        "Score in the final":"6\u20133, 3\u20136, 6\u20133"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":36.0,
+        "Date":"2 November 1986",
+        "Tournament":"Indianapolis",
+        "Surface":"Hard (i)",
+        "Partner":"Candy Reynolds",
+        "Opponents in the final":"Zina Garrison\n Lori McNeil",
+        "Score in the final":"5\u20134 ret."
+    },
+    {
+        "Outcome":"Winner",
+        "No.":29.0,
+        "Date":"18 February 1990",
+        "Tournament":"Chicago",
+        "Surface":"Carpet",
+        "Partner":"Martina Navratilova",
+        "Opponents in the final":"Arantxa S\u00e1nchez Vicario\n Nathalie Tauziat",
+        "Score in the final":"6\u20137(9), 6\u20134, 6\u20133"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":37.0,
+        "Date":"22 July 1990",
+        "Tournament":"Newport",
+        "Surface":"Grass",
+        "Partner":"Patty Fendick",
+        "Opponents in the final":"Lise Gregory\n Gretchen Magers",
+        "Score in the final":"6\u20137(7), 1\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":30.0,
+        "Date":"12 August 1990",
+        "Tournament":"Albuquerque",
+        "Surface":"Hard",
+        "Partner":"Meredith McGrath",
+        "Opponents in the final":"Mareen Louie-Harper\n Wendy White",
+        "Score in the final":"7\u20136(2), 6\u20134"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":31.0,
+        "Date":"4 November 1990",
+        "Tournament":"Oakland",
+        "Surface":"Carpet",
+        "Partner":"Meredith McGrath",
+        "Opponents in the final":"Rosalyn Fairbank\n Robin White",
+        "Score in the final":"2\u20136, 6\u20130, 6\u20134"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":32.0,
+        "Date":"24 February 1991",
+        "Tournament":"Oklahoma City",
+        "Surface":"Hard (i)",
+        "Partner":"Meredith McGrath",
+        "Opponents in the final":"Katrina Adams\n Jill Hetherington",
+        "Score in the final":"6\u20132, 6\u20134"
+    }
+]

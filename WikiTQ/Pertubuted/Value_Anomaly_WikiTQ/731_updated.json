@@ -1,0 +1,322 @@
+[
+  {
+    "Rank": null,
+    "Athlete": "Andrey Moiseev (RUS)",
+    "Shooting\nScore (pts)": "175 (1036)",
+    "Fencing\nVictories (pts)": "22 (1000)",
+    "Swimming\nTime (pts)": "1:58.88 (1376)",
+    "Riding\nPenalties (pts)": "168 (1032)",
+    "Running\nTime (pts)": "9:51.88 (1036)",
+    "Total": 5480
+  },
+  {
+    "Rank": null,
+    "Athlete": "Andrejus Zadneprovskis (LTU)",
+    "Shooting\nScore (pts)": "172 (1000)",
+    "Fencing\nVictories (pts)": "19 (916)",
+    "Swimming\nTime (pts)": "2:04.34 (1308)",
+    "Riding\nPenalties (pts)": "112 (1088)",
+    "Running\nTime (pts)": "9:31.46 (1116)",
+    "Total": 5428
+  },
+  {
+    "Rank": null,
+    "Athlete": "Libor Capalini (CZE)",
+    "Shooting\nScore (pts)": "179 (1084)",
+    "Fencing\nVictories (pts)": "14 (776)",
+    "Swimming\nTime (pts)": "2:02.00 (1336)",
+    "Riding\nPenalties (pts)": "84 (1116)",
+    "Running\nTime (pts)": "9:40.70 (1080)",
+    "Total": 5392
+  },
+  {
+    "Rank": 4.0,
+    "Athlete": "Deniss Čerkovskis (LAT)",
+    "Shooting\nScore (pts)": "180 (1096)",
+    "Fencing\nVictories (pts)": "19 (916)",
+    "Swimming\nTime (pts)": "2:09.00 (1252)",
+    "Riding\nPenalties (pts)": "196 (1004)",
+    "Running\nTime (pts)": "9:38.77 (1088)",
+    "Total": 5356
+  },
+  {
+    "Rank": "@@@_-27.2714518609",
+    "Athlete": "Dzmitry Meliakh (BLR)",
+    "Shooting\nScore (pts)": "186 (1168)",
+    "Fencing\nVictories (pts)": "11 (692)",
+    "Swimming\nTime (pts)": "2:02.63 (1332)",
+    "Riding\nPenalties (pts)": "56 (1144)",
+    "Running\nTime (pts)": "9:59.45 (1004)",
+    "Total": 5340
+  },
+  {
+    "Rank": 6.0,
+    "Athlete": "Michal Michalík (CZE)",
+    "Shooting\nScore (pts)": "181 (1108)",
+    "Fencing\nVictories (pts)": "18 (888)",
+    "Swimming\nTime (pts)": "2:08.51 (1260)",
+    "Riding\nPenalties (pts)": "56 (1144)",
+    "Running\nTime (pts)": "10:17.68 (932)",
+    "Total": 5332
+  },
+  {
+    "Rank": 7.0,
+    "Athlete": "Eric Walther (GER)",
+    "Shooting\nScore (pts)": "168 (952)",
+    "Fencing\nVictories (pts)": "16 (832)",
+    "Swimming\nTime (pts)": "2:02.03 (1336)",
+    "Riding\nPenalties (pts)": "84 (1116)",
+    "Running\nTime (pts)": "9:39.36 (1084)",
+    "Total": 5320
+  },
+  {
+    "Rank": 8.0,
+    "Athlete": "Gábor Balogh (HUN)",
+    "Shooting\nScore (pts)": "175 (1036)",
+    "Fencing\nVictories (pts)": "15 (804)",
+    "Swimming\nTime (pts)": "2:10.02 (1240)",
+    "Riding\nPenalties (pts)": "28 (1172)",
+    "Running\nTime (pts)": "9:49.67 (1044)",
+    "Total": 5296
+  },
+  {
+    "Rank": 9.0,
+    "Athlete": "Vakhtang Iagorashvili (USA)",
+    "Shooting\nScore (pts)": "171 (988)",
+    "Fencing\nVictories (pts)": "19 (916)",
+    "Swimming\nTime (pts)": "2:09.11 (1252)",
+    "Riding\nPenalties (pts)": "28 (1172)",
+    "Running\nTime (pts)": "10:13.95 (948)",
+    "Total": 5276
+  },
+  {
+    "Rank": 10.0,
+    "Athlete": "@@@_None",
+    "Shooting\nScore (pts)": "185 (1156)",
+    "Fencing\nVictories (pts)": "18 (888)",
+    "Swimming\nTime (pts)": "2:12.02 (1216)",
+    "Riding\nPenalties (pts)": "292 (908)",
+    "Running\nTime (pts)": "9:39.60 (1084)",
+    "Total": 5252
+  },
+  {
+    "Rank": 11.0,
+    "Athlete": "Sergio Salazar (MEX)",
+    "Shooting\nScore (pts)": "172 (1000)",
+    "Fencing\nVictories (pts)": "16 (832)",
+    "Swimming\nTime (pts)": "2:07.27 (1276)",
+    "Riding\nPenalties (pts)": "112 (1088)",
+    "Running\nTime (pts)": "9:59.15 (1004)",
+    "Total": 5200
+  },
+  {
+    "Rank": 12.0,
+    "Athlete": "Manuel Pradillo (MEX)",
+    "Shooting\nScore (pts)": "178 (1072)",
+    "Fencing\nVictories (pts)": "15 (804)",
+    "Swimming\nTime (pts)": "2:07.07 (1276)",
+    "Riding\nPenalties (pts)": "168 (1032)",
+    "Running\nTime (pts)": "9:57.68 (1012)",
+    "Total": 5196
+  },
+  {
+    "Rank": 13.0,
+    "Athlete": "Chad Senior (USA)",
+    "Shooting\nScore (pts)": "175 (1036)",
+    "Fencing\nVictories (pts)": "12 (720)",
+    "Swimming\nTime (pts)": "2:02.39 (1332)",
+    "Riding\nPenalties (pts)": "196 (1004)",
+    "Running\nTime (pts)": "9:35.76 (1100)",
+    "Total": 5192
+  },
+  {
+    "Rank": 14.0,
+    "Athlete": "Niklaus Brünisholz (SUI)",
+    "Shooting\nScore (pts)": "180 (1096)",
+    "Fencing\nVictories (pts)": "14 (776)",
+    "Swimming\nTime (pts)": "2:09.12 (1252)",
+    "Riding\nPenalties (pts)": "196 (1004)",
+    "Running\nTime (pts)": "9:46.75 (1056)",
+    "Total": "@@@_-5089"
+  },
+  {
+    "Rank": 15.0,
+    "Athlete": "Sébastien Deleigne (FRA)",
+    "Shooting\nScore (pts)": "180 (1096)",
+    "Fencing\nVictories (pts)": "15 (804)",
+    "Swimming\nTime (pts)": "2:12.27 (1216)",
+    "Riding\nPenalties (pts)": "196 (1004)",
+    "Running\nTime (pts)": "9:45.31 (1060)",
+    "Total": 5180
+  },
+  {
+    "Rank": 16.0,
+    "Athlete": "Qian Zhenhua (CHN)",
+    "Shooting\nScore (pts)": "185 (1156)",
+    "Fencing\nVictories (pts)": "12 (720)",
+    "Swimming\nTime (pts)": "2:08.52 (1260)",
+    "Riding\nPenalties (pts)": "56 (1144)",
+    "Running\nTime (pts)": "10:27.25 (892)",
+    "Total": 5172
+  },
+  {
+    "Rank": 17.0,
+    "Athlete": "Steffen Gebhardt (GER)",
+    "Shooting\nScore (pts)": "183 (1132)",
+    "Fencing\nVictories (pts)": "13 (748)",
+    "Swimming\nTime (pts)": "2:12.84 (1208)",
+    "Riding\nPenalties (pts)": "112 (1088)",
+    "Running\nTime (pts)": "10:08.81 (968)",
+    "Total": 5144
+  },
+  {
+    "Rank": "@@@_286.8721039657",
+    "Athlete": "Ákos Kállai (HUN)",
+    "Shooting\nScore (pts)": "179 (1084)",
+    "Fencing\nVictories (pts)": "18 (888)",
+    "Swimming\nTime (pts)": "2:14.64 (1188)",
+    "Riding\nPenalties (pts)": "196 (1004)",
+    "Running\nTime (pts)": "10:08.75 (968)",
+    "Total": 5132
+  },
+  {
+    "Rank": 19.0,
+    "Athlete": "Andrea Valentini (ITA)",
+    "Shooting\nScore (pts)": "169 (964)",
+    "Fencing\nVictories (pts)": "19 (916)",
+    "Swimming\nTime (pts)": "2:18.34 (1140)",
+    "Riding\nPenalties (pts)": "124 (1068)",
+    "Running\nTime (pts)": "10:01.25 (996)",
+    "Total": 5084
+  },
+  {
+    "Rank": 20.0,
+    "Athlete": "Raouf Abdou (EGY)",
+    "Shooting\nScore (pts)": "174 (1024)",
+    "Fencing\nVictories (pts)": "13 (748)",
+    "Swimming\nTime (pts)": "2:12.32 (1216)",
+    "Riding\nPenalties (pts)": "140 (1060)",
+    "Running\nTime (pts)": "9:51.48 (1036)",
+    "Total": 5084
+  },
+  {
+    "Rank": 21.0,
+    "Athlete": "Lee Choon-Huan (KOR)",
+    "Shooting\nScore (pts)": "175 (1036)",
+    "Fencing\nVictories (pts)": "12 (720)",
+    "Swimming\nTime (pts)": "2:12.02 (1216)",
+    "Riding\nPenalties (pts)": "84 (1116)",
+    "Running\nTime (pts)": "10:05.85 (980)",
+    "Total": 5068
+  },
+  {
+    "Rank": 22.0,
+    "Athlete": "Pavel Uvarov (KGZ)",
+    "Shooting\nScore (pts)": "181 (1108)",
+    "Fencing\nVictories (pts)": "10 (664)",
+    "Swimming\nTime (pts)": "2:13.26 (1204)",
+    "Riding\nPenalties (pts)": "140 (1060)",
+    "Running\nTime (pts)": "10:05.95 (980)",
+    "Total": "@@@_-4768"
+  },
+  {
+    "Rank": 23.0,
+    "Athlete": "Erik Johansson (SWE)",
+    "Shooting\nScore (pts)": "163 (892)",
+    "Fencing\nVictories (pts)": "12 (720)",
+    "Swimming\nTime (pts)": "2:06.68 (1280)",
+    "Riding\nPenalties (pts)": "84 (1116)",
+    "Running\nTime (pts)": "10:08.20 (968)",
+    "Total": 4976
+  },
+  {
+    "Rank": 24.0,
+    "Athlete": "Han Do-Ryeong (KOR)",
+    "Shooting\nScore (pts)": "183 (1132)",
+    "Fencing\nVictories (pts)": "15 (804)",
+    "Swimming\nTime (pts)": "2:09.78 (1244)",
+    "Riding\nPenalties (pts)": "392 (808)",
+    "Running\nTime (pts)": "10:13.85 (948)",
+    "Total": 4936
+  },
+  {
+    "Rank": 25.0,
+    "Athlete": "Raphaël Astier (FRA)",
+    "Shooting\nScore (pts)": "163 (892)",
+    "Fencing\nVictories (pts)": "14 (776)",
+    "Swimming\nTime (pts)": "2:06.93 (1280)",
+    "Riding\nPenalties (pts)": "204 (996)",
+    "Running\nTime (pts)": "10:03.64 (988)",
+    "Total": 4932
+  },
+  {
+    "Rank": 26.0,
+    "Athlete": "Enrico Dell'Amore (ITA)",
+    "Shooting\nScore (pts)": "180 (1096)",
+    "Fencing\nVictories (pts)": "18 (888)",
+    "Swimming\nTime (pts)": "2:16.63 (1164)",
+    "Riding\nPenalties (pts)": "440 (760)",
+    "Running\nTime (pts)": "9:55.01 (1020)",
+    "Total": 4928
+  },
+  {
+    "Rank": 27.0,
+    "Athlete": "Alexander Parygin (AUS)",
+    "Shooting\nScore (pts)": "169 (964)",
+    "Fencing\nVictories (pts)": "13 (748)",
+    "Swimming\nTime (pts)": "2:14.14 (1192)",
+    "Riding\nPenalties (pts)": "196 (1004)",
+    "Running\nTime (pts)": "10:01.57 (996)",
+    "Total": 4904
+  },
+  {
+    "Rank": 28.0,
+    "Athlete": "Vasileios Floros (GRE)",
+    "Shooting\nScore (pts)": "174 (1024)",
+    "Fencing\nVictories (pts)": "10 (664)",
+    "Swimming\nTime (pts)": "2:04.40 (1308)",
+    "Riding\nPenalties (pts)": "100 (1100)",
+    "Running\nTime (pts)": "11:02.25 (752)",
+    "Total": 4848
+  },
+  {
+    "Rank": 29.0,
+    "Athlete": "Daniel dos Santos (BRA)",
+    "Shooting\nScore (pts)": "163 (892)",
+    "Fencing\nVictories (pts)": "14 (776)",
+    "Swimming\nTime (pts)": "2:16.52 (1164)",
+    "Riding\nPenalties (pts)": "84 (1116)",
+    "Running\nTime (pts)": "10:54.15 (784)",
+    "Total": 4732
+  },
+  {
+    "Rank": 30.0,
+    "Athlete": "Andrzej Stefanek (POL)",
+    "Shooting\nScore (pts)": "172 (1000)",
+    "Fencing\nVictories (pts)": "16 (832)",
+    "Swimming\nTime (pts)": "2:07.37 (1272)",
+    "Riding\nPenalties (pts)": "616 (584)",
+    "Running\nTime (pts)": "10:03.35 (988)",
+    "Total": 4676
+  },
+  {
+    "Rank": 31.0,
+    "Athlete": "Edvinas Krungolcas (LTU)",
+    "Shooting\nScore (pts)": "171 (988)",
+    "Fencing\nVictories (pts)": "16 (832)",
+    "Swimming\nTime (pts)": "2:07.23 (1276)",
+    "Riding\nPenalties (pts)": "112 (1088)",
+    "Running\nTime (pts)": "13:11.15 (236)",
+    "Total": 4420
+  },
+  {
+    "Rank": 32.0,
+    "Athlete": "Marcin Horbacz (POL)",
+    "Shooting\nScore (pts)": "181 (1108)",
+    "Fencing\nVictories (pts)": "18 (888)",
+    "Swimming\nTime (pts)": "2:04.43 (1308)",
+    "Riding\nPenalties (pts)": "1088 (112)*",
+    "Running\nTime (pts)": "10:07.46 (972)",
+    "Total": 4388
+  }
+]

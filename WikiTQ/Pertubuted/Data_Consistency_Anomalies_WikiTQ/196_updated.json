@@ -1,0 +1,312 @@
+[
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Date":1968,
+        "Championship":"@@@_wimbledon, london",
+        "Surface":"Grass",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Ken Rosewall\n Fred Stolle",
+        "Score in the final":"3–6, 8–6, 5–7, 14–12, 6–3"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":1.0,
+        "Date":1968,
+        "Championship":"Hamburg, Germany",
+        "Surface":"@@@_CLAY",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Tom Okker\n Marty Riessen",
+        "Score in the final":"4–6, 4–6, 5–7"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":2.0,
+        "Date":1968,
+        "Championship":"Hobart, Australia",
+        "Surface":"Grass",
+        "Partner":"Fred Stolle",
+        "Opponents in the final":"Mal Anderson\n Roger Taylor",
+        "Score in the final":"5–7, 3–6, 6–4, 6–1, 4–6"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":3.0,
+        "Date":1969,
+        "Championship":"Philadelphia WCT, U.S.",
+        "Surface":"Carpet",
+        "Partner":"@@@_john newcombe",
+        "Opponents in the final":"Tom Okker\n Marty Riessen",
+        "Score in the final":"6–8, 4–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Date":1969,
+        "Championship":"French Open, Paris",
+        "Surface":"Clay",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Roy Emerson\n Rod Laver",
+        "Score in the final":"4–6, 6–1, 3–6, 6–4, 6–4"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Date":1969,
+        "Championship":"Wimbledon, London",
+        "Surface":"Grass",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Tom Okker\n Marty Riessen",
+        "Score in the final":"7–5, 11–9, 6–3"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":4.0,
+        "Date":1970,
+        "Championship":"Wimbledon, London",
+        "Surface":"Grass",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Ken Rosewall\n Fred Stolle",
+        "Score in the final":"10–8, 6–3, 6–1"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":5.0,
+        "Date":1970,
+        "Championship":"Louisville, U.S.",
+        "Surface":"@@@_hard",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Roy Emerson\n Rod Laver",
+        "Score in the final":"8–6, 5–7, 6–4"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":6.0,
+        "Date":1971,
+        "Championship":"Australian Open, Melbourne",
+        "Surface":"Grass",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Tom Okker\n Marty Riessen",
+        "Score in the final":"6–2, 7–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":7.0,
+        "Date":1971,
+        "Championship":"Miami WCT, U.S.",
+        "Surface":"Hard",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Roy Emerson\n Rod Laver",
+        "Score in the final":"7–6, 7–6"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":4.0,
+        "Date":1971,
+        "Championship":"Chicago WCT, U.S.",
+        "Surface":"Carpet",
+        "Partner":"@@@_john Newcombe",
+        "Opponents in the final":"Tom Okker\n Marty Riessen",
+        "Score in the final":"6–7, 6–4, 6–7"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":8.0,
+        "Date":1971,
+        "Championship":"Rome, Italy",
+        "Surface":"Clay",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Andrés Gimeno\n Roger Taylor",
+        "Score in the final":"6–4, 6–4"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":9.0,
+        "Date":1971,
+        "Championship":"Tehran WCT, Iran",
+        "Surface":"Clay",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Bob Carmichael\n Ray Ruffels",
+        "Score in the final":"6–4, 6–7, 6–1"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":5.0,
+        "Date":1972,
+        "Championship":"Richmond WCT, U.S.",
+        "Surface":"Carpet",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Tom Okker\n Marty Riessen",
+        "Score in the final":"6–7, 6–7"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":6.0,
+        "Date":1972,
+        "Championship":"Philadelphia WCT, U.S.",
+        "Surface":"Carpet",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Arthur Ashe\n Robert Lutz",
+        "Score in the final":"3–6, 7–6, 3–6"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":7.0,
+        "Date":1972,
+        "Championship":"Charlotte WCT, U.S.",
+        "Surface":"@@@_clay",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Tom Okker\n Marty Riessen",
+        "Score in the final":"4–6, 6–4, 6–7"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":8.0,
+        "Date":1972,
+        "Championship":"Las Vegas WCT, U.S.",
+        "Surface":"Hard",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Roy Emerson\n Rod Laver",
+        "Score in the final":"DEF"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":10.0,
+        "Date":1972,
+        "Championship":"St. Louis WCT, U.S.",
+        "Surface":"Carpet",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"John Alexander\n Phil Dent",
+        "Score in the final":"7–6, 6–2"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":9.0,
+        "Date":1972,
+        "Championship":"Washington WCT, U.S.",
+        "Surface":"Clay",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Tom Okker\n Marty Riessen",
+        "Score in the final":"6–3, 3–6, 2–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":11.0,
+        "Date":1972,
+        "Championship":"Boston WCT, U.S.",
+        "Surface":"@@@_hard",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Arthur Ashe\n Robert Lutz",
+        "Score in the final":"6–3, 1–6, 7–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":12.0,
+        "Date":1974,
+        "Championship":"Toronto WCT, Canada",
+        "Surface":"Carpet",
+        "Partner":"Raúl Ramírez",
+        "Opponents in the final":"Tom Okker\n Marty Riessen",
+        "Score in the final":"6–3, 2–6, 6–4"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":10.0,
+        "Date":1974,
+        "Championship":"Monte Carlo WCT, Monaco",
+        "Surface":"Clay",
+        "Partner":"Manuel Orantes",
+        "Opponents in the final":"John Alexander\n Phil Dent",
+        "Score in the final":"6–7, 6–4, 6–7, 3–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":13.0,
+        "Date":1974,
+        "Championship":"Wimbledon, London",
+        "Surface":"Grass",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Robert Lutz\n Stan Smith",
+        "Score in the final":"8–6, 6–4, 6–4"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":11.0,
+        "Date":1974,
+        "Championship":"Sydney Indoor, Australia",
+        "Surface":"Hard (i)",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Ross Case\n Geoff Masters",
+        "Score in the final":"4–6, 4–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":14.0,
+        "Date":1976,
+        "Championship":"Australian Open, Melbourne",
+        "Surface":"Grass",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Ross Case\n Geoff Masters",
+        "Score in the final":"7–6, 6–4"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":15.0,
+        "Date":1976,
+        "Championship":"Charlotte WCT, U.S.",
+        "Surface":"Carpet",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Vitas Gerulaitis\n Gene Mayer",
+        "Score in the final":"6–3, 7–5"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":16.0,
+        "Date":1977,
+        "Championship":"Australian Open, Melbourne",
+        "Surface":"Grass",
+        "Partner":"Arthur Ashe",
+        "Opponents in the final":"Charlie Pasarell\n Erik Van Dillen",
+        "Score in the final":"6–4, 6–4"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":12.0,
+        "Date":1977,
+        "Championship":"Richmond WCT, U.S.",
+        "Surface":"Carpet",
+        "Partner":"Ross Case",
+        "Opponents in the final":"Wojtek Fibak\n Tom Okker",
+        "Score in the final":"4–6, 4–6"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":13.0,
+        "Date":1977,
+        "Championship":"Toronto Indoor WCT, Canada",
+        "Surface":"Carpet",
+        "Partner":"Ross Case",
+        "Opponents in the final":"Wojtek Fibak\n Tom Okker",
+        "Score in the final":"4–6, 1–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":17.0,
+        "Date":1977,
+        "Championship":"Sydney Indoor, Australia",
+        "Surface":"Hard (i)",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Ross Case\n Geoff Masters",
+        "Score in the final":"6–7, 6–3, 6–1"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":18.0,
+        "Date":1978,
+        "Championship":"Sydney Indoor, Australia",
+        "Surface":"Hard (i)",
+        "Partner":"John Newcombe",
+        "Opponents in the final":"Mark Edmondson\n John Marks",
+        "Score in the final":"6–4, 6–3"
+    }
+]

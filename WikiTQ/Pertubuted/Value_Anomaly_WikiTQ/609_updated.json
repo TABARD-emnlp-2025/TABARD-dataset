@@ -1,0 +1,134 @@
+[
+  {
+    "Year": "1956",
+    "Car": "14",
+    "Start": "23",
+    "Qual": "142.535",
+    "Rank": "16",
+    "Finish": "7",
+    "Laps": "@@@_None",
+    "Led": 0,
+    "Retired": "Running"
+  },
+  {
+    "Year": "1957",
+    "Car": "7",
+    "Start": "16",
+    "Qual": "141.016",
+    "Rank": "19",
+    "Finish": "9",
+    "Laps": "@@@_3180.1095411696",
+    "Led": 0,
+    "Retired": "Running"
+  },
+  {
+    "Year": "1958",
+    "Car": "14",
+    "Start": "4",
+    "Qual": "144.881",
+    "Rank": "4",
+    "Finish": "26",
+    "Laps": 1.0,
+    "Led": 0,
+    "Retired": "Crash T3"
+  },
+  {
+    "Year": "1959",
+    "Car": "74",
+    "Start": "7",
+    "Qual": "144.023",
+    "Rank": "8",
+    "Finish": "12",
+    "Laps": 200.0,
+    "Led": 0,
+    "Retired": "Running"
+  },
+  {
+    "Year": "1960",
+    "Car": "44",
+    "Start": "25",
+    "Qual": "143.363",
+    "Rank": "23",
+    "Finish": "8",
+    "Laps": 200.0,
+    "Led": 0,
+    "Retired": "Running"
+  },
+  {
+    "Year": "1962",
+    "Car": "96",
+    "Start": "19",
+    "Qual": "@@@_None",
+    "Rank": "32",
+    "Finish": "33",
+    "Laps": 12.0,
+    "Led": 0,
+    "Retired": "Engine"
+  },
+  {
+    "Year": "1963",
+    "Car": "86",
+    "Start": "24",
+    "Qual": "148.289",
+    "Rank": "26",
+    "Finish": "26",
+    "Laps": "@@@_-510.5554128336",
+    "Led": 0,
+    "Retired": "Valve"
+  },
+  {
+    "Year": "1964",
+    "Car": "54",
+    "Start": "23",
+    "Qual": "153.381",
+    "Rank": "10",
+    "Finish": "19",
+    "Laps": 88.0,
+    "Led": 0,
+    "Retired": "Piston"
+  },
+  {
+    "Year": "1965",
+    "Car": "54",
+    "Start": "10",
+    "Qual": "156.427",
+    "Rank": "11",
+    "Finish": "24",
+    "Laps": 58.0,
+    "Led": 0,
+    "Retired": "Piston"
+  },
+  {
+    "Year": "1967",
+    "Car": "46",
+    "Start": "28",
+    "Qual": "162.580",
+    "Rank": "32",
+    "Finish": "11",
+    "Laps": "@@@_-457.4140116669",
+    "Led": 0,
+    "Retired": "Flagged"
+  },
+  {
+    "Year": "1968",
+    "Car": "16",
+    "Start": "24",
+    "Qual": "163.495",
+    "Rank": "24",
+    "Finish": "11",
+    "Laps": 196.0,
+    "Led": 0,
+    "Retired": "Flagged"
+  },
+  {
+    "Year": "Totals",
+    "Car": "Totals",
+    "Start": "Totals",
+    "Qual": "Totals",
+    "Rank": "Totals",
+    "Finish": "Totals",
+    "Laps": 1418.0,
+    "Led": 0,
+    "Retired": null
+  }
+]

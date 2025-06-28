@@ -1,0 +1,65 @@
+[
+  {
+    "Golfer": "Tiger Woods",
+    "Country": "United States",
+    "Wins": 18,
+    "Match Play": "3: 2003, 2004, 2008",
+    "Championship": "7: 1999, 2002, 2003,\n2005, 2006, 2007, 2013",
+    "Invitational": "8: 1999, 2000, 2001, 2005,\n2006, 2007, 2009, 2013",
+    "Champions": "—"
+  },
+  {
+    "Golfer": "Geoff Ogilvy",
+    "Country": "Australia",
+    "Wins": 3,
+    "Match Play": "2: 2006, 2009",
+    "Championship": "1: 2008",
+    "Invitational": "—",
+    "Champions": "—"
+  },
+  {
+    "Golfer": "Darren Clarke",
+    "Country": "Northern Ireland",
+    "Wins": 2,
+    "Match Play": "1: 2000",
+    "Championship": "—",
+    "Invitational": "1: 2003",
+    "Champions": "—"
+  },
+  {
+    "Golfer": "Ernie Els",
+    "Country": "South Africa",
+    "Wins": "@@@_263",
+    "Match Play": "—",
+    "Championship": "@@@_None",
+    "Invitational": "—",
+    "Champions": "—"
+  },
+  {
+    "Golfer": "Hunter Mahan",
+    "Country": "United States",
+    "Wins": "@@@_517",
+    "Match Play": "1: 2012",
+    "Championship": "—",
+    "Invitational": "1: 2010",
+    "Champions": "—"
+  },
+  {
+    "Golfer": "Phil Mickelson",
+    "Country": "United States",
+    "Wins": 2,
+    "Match Play": "—",
+    "Championship": "1: 2009",
+    "Invitational": "—",
+    "Champions": "1: 2009"
+  },
+  {
+    "Golfer": "Ian Poulter",
+    "Country": "England",
+    "Wins": "@@@_2070",
+    "Match Play": "1: 2010",
+    "Championship": "—",
+    "Invitational": "—",
+    "Champions": "1: 2012"
+  }
+]

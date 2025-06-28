@@ -1,0 +1,458 @@
+[
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Year":1987,
+        "Championship":"Grand Prix",
+        "Opponent in the final":"Dennis Taylor",
+        "Score":"10–7"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Year":1988,
+        "Championship":"British Open",
+        "Opponent in the final":"Mike Hallett",
+        "Score":"13–2"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":1.0,
+        "Year":1988,
+        "Championship":"UK Championship",
+        "Opponent in the final":"Doug Mountjoy",
+        "Score":"12–16"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Year":1989,
+        "Championship":"Asian Open",
+        "Opponent in the final":"James Wattana",
+        "Score":"9–2"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":4.0,
+        "Year":1989,
+        "Championship":"Dubai Classic",
+        "Opponent in the final":"Doug Mountjoy",
+        "Score":"9–2"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":5.0,
+        "Year":1989,
+        "Championship":"UK Championship",
+        "Opponent in the final":"Steve Davis",
+        "Score":"16–12"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":2.0,
+        "Year":1989,
+        "Championship":"International Open",
+        "Opponent in the final":"Steve Davis",
+        "Score":"4–9"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":3.0,
+        "Year":1990,
+        "Championship":"European Open",
+        "Opponent in the final":"John Parrott",
+        "Score":"6–10"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":6.0,
+        "Year":1990,
+        "Championship":"World Snooker Championship",
+        "Opponent in the final":"Jimmy White",
+        "Score":"18–12"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":7.0,
+        "Year":1990,
+        "Championship":"Grand Prix (2)",
+        "Opponent in the final":"Nigel Bond",
+        "Score":"10–5"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":8.0,
+        "Year":1990,
+        "Championship":"Asian Open (2)",
+        "Opponent in the final":"Dennis Taylor",
+        "Score":"9–3"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":9.0,
+        "Year":1990,
+        "Championship":"Dubai Classic (2)",
+        "Opponent in the final":"Steve Davis",
+        "Score":"9–1"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":10.0,
+        "Year":1990,
+        "Championship":"UK Championship (2)",
+        "Opponent in the final":"Steve Davis",
+        "Score":"16–15"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":4.0,
+        "Year":1991,
+        "Championship":"Classic",
+        "Opponent in the final":"Jimmy White",
+        "Score":"4–10"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":11.0,
+        "Year":1991,
+        "Championship":"British Open (2)",
+        "Opponent in the final":"Gary Wilkinson",
+        "Score":"10–9"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":12.0,
+        "Year":1991,
+        "Championship":"Grand Prix (3)",
+        "Opponent in the final":"Steve Davis",
+        "Score":"10–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":13.0,
+        "Year":1992,
+        "Championship":"Welsh Open",
+        "Opponent in the final":"Darren Morgan",
+        "Score":"9–3"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":5.0,
+        "Year":1992,
+        "Championship":"Classic (2)",
+        "Opponent in the final":"Steve Davis",
+        "Score":"8–9"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":14.0,
+        "Year":1992,
+        "Championship":"World Snooker Championship (2)",
+        "Opponent in the final":"Jimmy White",
+        "Score":"18–14"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":6.0,
+        "Year":1992,
+        "Championship":"Dubai Classic",
+        "Opponent in the final":"John Parrott",
+        "Score":"8–9"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":7.0,
+        "Year":1993,
+        "Championship":"European Open (2)",
+        "Opponent in the final":"Steve Davis",
+        "Score":"4–10"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":15.0,
+        "Year":1993,
+        "Championship":"International Open",
+        "Opponent in the final":"Steve Davis",
+        "Score":"10–6"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":16.0,
+        "Year":1993,
+        "Championship":"World Snooker Championship (3)",
+        "Opponent in the final":"Jimmy White",
+        "Score":"18–5"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":17.0,
+        "Year":1993,
+        "Championship":"Dubai Classic (3)",
+        "Opponent in the final":"Steve Davis",
+        "Score":"9–3"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":8.0,
+        "Year":1993,
+        "Championship":"UK Championship (2)",
+        "Opponent in the final":"Ronnie O'Sullivan",
+        "Score":"6–10"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":18.0,
+        "Year":1993,
+        "Championship":"European Open",
+        "Opponent in the final":"Ronnie O'Sullivan",
+        "Score":"9–5"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":19.0,
+        "Year":1994,
+        "Championship":"World Snooker Championship (4)",
+        "Opponent in the final":"Jimmy White",
+        "Score":"18–17"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":20.0,
+        "Year":1994,
+        "Championship":"UK Championship (3)",
+        "Opponent in the final":"Ken Doherty",
+        "Score":"10–5"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":21.0,
+        "Year":1994,
+        "Championship":"European Open (2)",
+        "Opponent in the final":"John Parrott",
+        "Score":"9–3"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":22.0,
+        "Year":1995,
+        "Championship":"World Snooker Championship (5)",
+        "Opponent in the final":"Nigel Bond",
+        "Score":"18–9"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":23.0,
+        "Year":1995,
+        "Championship":"Grand Prix (4)",
+        "Opponent in the final":"John Higgins",
+        "Score":"9–5"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":24.0,
+        "Year":1995,
+        "Championship":"UK Championship (4)",
+        "Opponent in the final":"Peter Ebdon",
+        "Score":"10–3"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":25.0,
+        "Year":1996,
+        "Championship":"World Snooker Championship (6)",
+        "Opponent in the final":"Peter Ebdon",
+        "Score":"18–12"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":26.0,
+        "Year":1996,
+        "Championship":"UK Championship (5)",
+        "Opponent in the final":"John Higgins",
+        "Score":"10–9"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":27.0,
+        "Year":1997,
+        "Championship":"Welsh Open (2)",
+        "Opponent in the final":"Mark King",
+        "Score":"9–2"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":28.0,
+        "Year":1997,
+        "Championship":"International Open (2)",
+        "Opponent in the final":"Tony Drago",
+        "Score":"9–1"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":9.0,
+        "Year":1997,
+        "Championship":"British Open",
+        "Opponent in the final":"Mark Williams",
+        "Score":"2–9"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":10.0,
+        "Year":1997,
+        "Championship":"World Snooker Championship",
+        "Opponent in the final":"Ken Doherty",
+        "Score":"12–18"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":11.0,
+        "Year":1997,
+        "Championship":"UK Championship (3)",
+        "Opponent in the final":"Ronnie O'Sullivan",
+        "Score":"6–10"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":29.0,
+        "Year":1998,
+        "Championship":"Thailand Masters (3)",
+        "Opponent in the final":"John Parrott",
+        "Score":"9–6"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":12.0,
+        "Year":1998,
+        "Championship":"British Open (2)",
+        "Opponent in the final":"John Higgins",
+        "Score":"8–9"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":13.0,
+        "Year":1999,
+        "Championship":"Welsh Open",
+        "Opponent in the final":"Mark Williams",
+        "Score":"8–9"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":30.0,
+        "Year":1999,
+        "Championship":"Scottish Open (3)",
+        "Opponent in the final":"Graeme Dott",
+        "Score":"9–1"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":31.0,
+        "Year":1999,
+        "Championship":"World Snooker Championship (7)",
+        "Opponent in the final":"Mark Williams",
+        "Score":"18–11"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":32.0,
+        "Year":1999,
+        "Championship":"British Open (3)",
+        "Opponent in the final":"Peter Ebdon",
+        "Score":"9–1"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":14.0,
+        "Year":2000,
+        "Championship":"Thailand Masters",
+        "Opponent in the final":"Mark Williams",
+        "Score":"5–9"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":15.0,
+        "Year":2001,
+        "Championship":"Thailand Masters (2)",
+        "Opponent in the final":"Ken Doherty",
+        "Score":"3–9"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":33.0,
+        "Year":2001,
+        "Championship":"European Open (3)",
+        "Opponent in the final":"Joe Perry",
+        "Score":"9–2"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":16.0,
+        "Year":2002,
+        "Championship":"World Snooker Championship (2)",
+        "Opponent in the final":"Peter Ebdon",
+        "Score":"17–18"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":34.0,
+        "Year":2003,
+        "Championship":"Welsh Open (3)",
+        "Opponent in the final":"Mark Williams",
+        "Score":"9–5"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":17.0,
+        "Year":2003,
+        "Championship":"European Open (3)",
+        "Opponent in the final":"Ronnie O'Sullivan",
+        "Score":"6–9"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":35.0,
+        "Year":2003,
+        "Championship":"British Open (4)",
+        "Opponent in the final":"Ronnie O'Sullivan",
+        "Score":"9–6"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":18.0,
+        "Year":2003,
+        "Championship":"UK Championship (4)",
+        "Opponent in the final":"Matthew Stevens",
+        "Score":"8–10"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":19.0,
+        "Year":"2025",
+        "Championship":"Welsh Open (2)",
+        "Opponent in the final":"Ronnie O'Sullivan",
+        "Score":"8–9"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":36.0,
+        "Year":2005,
+        "Championship":"Malta Cup (4)",
+        "Opponent in the final":"Graeme Dott",
+        "Score":"9–7"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":20.0,
+        "Year":2005,
+        "Championship":"China Open",
+        "Opponent in the final":"Ding Junhui",
+        "Score":"5–9"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":21.0,
+        "Year":2006,
+        "Championship":"UK Championship (5)",
+        "Opponent in the final":"Peter Ebdon",
+        "Score":"6–10"
+    }
+]

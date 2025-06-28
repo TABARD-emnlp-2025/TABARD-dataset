@@ -1,0 +1,362 @@
+[
+  {
+    "Area served": "Evansville",
+    "City of license": "Evansville",
+    "VC": 7,
+    "RF": 28,
+    "Callsign": "WTVW",
+    "Network": "CW",
+    "Notes": null
+  },
+  {
+    "Area served": "Evansville",
+    "City of license": "Evansville",
+    "VC": 9,
+    "RF": 9,
+    "Callsign": "WNIN",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Evansville",
+    "City of license": "Evansville",
+    "VC": 14,
+    "RF": 46,
+    "Callsign": "WFIE",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "Evansville",
+    "City of license": "Evansville",
+    "VC": 25,
+    "RF": 25,
+    "Callsign": "WEHT",
+    "Network": "ABC",
+    "Notes": null
+  },
+  {
+    "Area served": "Evansville",
+    "City of license": "Evansville",
+    "VC": 44,
+    "RF": 45,
+    "Callsign": "WEVV-TV",
+    "Network": "CBS",
+    "Notes": "FOX on 44.2"
+  },
+  {
+    "Area served": "Fort Wayne",
+    "City of license": "Fort Wayne",
+    "VC": 15,
+    "RF": 31,
+    "Callsign": "WANE-TV",
+    "Network": "CBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Fort Wayne",
+    "City of license": "Fort Wayne",
+    "VC": 21,
+    "RF": 24,
+    "Callsign": "WPTA",
+    "Network": "ABC",
+    "Notes": "CW on 21.2"
+  },
+  {
+    "Area served": "Fort Wayne",
+    "City of license": "Fort Wayne",
+    "VC": 33,
+    "RF": 19,
+    "Callsign": "WISE-TV",
+    "Network": "NBC",
+    "Notes": "MNT on 33.2"
+  },
+  {
+    "Area served": "Fort Wayne",
+    "City of license": "Fort Wayne",
+    "VC": 39,
+    "RF": 40,
+    "Callsign": "WFWA",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Fort Wayne",
+    "City of license": "@@@_None",
+    "VC": 55,
+    "RF": 36,
+    "Callsign": "WFFT-TV",
+    "Network": "FOX",
+    "Notes": null
+  },
+  {
+    "Area served": "Fort Wayne",
+    "City of license": "Angola",
+    "VC": 63,
+    "RF": 12,
+    "Callsign": "WINM",
+    "Network": "TCT",
+    "Notes": null
+  },
+  {
+    "Area served": "Gary",
+    "City of license": "Gary",
+    "VC": 56,
+    "RF": 17,
+    "Callsign": "WYIN",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Bloomington",
+    "VC": 4,
+    "RF": 48,
+    "Callsign": "WTTV",
+    "Network": "CW",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Indianapolis",
+    "VC": 6,
+    "RF": 25,
+    "Callsign": "WRTV",
+    "Network": "ABC",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Indianapolis",
+    "VC": 8,
+    "RF": 9,
+    "Callsign": "WISH-TV",
+    "Network": "CBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Indianapolis",
+    "VC": 13,
+    "RF": 13,
+    "Callsign": "WTHR",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Indianapolis",
+    "VC": 20,
+    "RF": 21,
+    "Callsign": "WFYI",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Marion",
+    "VC": "@@@_617",
+    "RF": 32,
+    "Callsign": "WNDY-TV",
+    "Network": "MNT",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Bloomington",
+    "VC": 30,
+    "RF": 14,
+    "Callsign": "WTIU",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Indianapolis",
+    "VC": 40,
+    "RF": 16,
+    "Callsign": "WHMB-TV",
+    "Network": "LeSea",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Bloomington",
+    "VC": 42,
+    "RF": 42,
+    "Callsign": "WCLJ-TV",
+    "Network": "TBN",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Indianapolis",
+    "VC": "@@@_592",
+    "RF": 45,
+    "Callsign": "WXIN",
+    "Network": "Fox",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Bloomington",
+    "VC": 63,
+    "RF": 27,
+    "Callsign": "WIPX-TV",
+    "Network": "ION",
+    "Notes": null
+  },
+  {
+    "Area served": "Indianapolis",
+    "City of license": "Indianapolis",
+    "VC": 69,
+    "RF": 44,
+    "Callsign": "WDTI",
+    "Network": "Daystar",
+    "Notes": null
+  },
+  {
+    "Area served": "Kokomo",
+    "City of license": "Kokomo",
+    "VC": 29,
+    "RF": 29,
+    "Callsign": "WTTK",
+    "Network": "CW",
+    "Notes": "satellite of WTTV ch. 4 Indianapolis"
+  },
+  {
+    "Area served": "Lafayette",
+    "City of license": "Lafayette",
+    "VC": 18,
+    "RF": 11,
+    "Callsign": "WLFI-TV",
+    "Network": "CBS",
+    "Notes": null
+  },
+  {
+    "Area served": "Muncie",
+    "City of license": "Muncie",
+    "VC": 49,
+    "RF": 23,
+    "Callsign": "WIPB",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "South Bend",
+    "City of license": "South Bend",
+    "VC": "@@@_-44",
+    "RF": 42,
+    "Callsign": "WNDU-TV",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "South Bend",
+    "City of license": "South Bend",
+    "VC": 22,
+    "RF": 22,
+    "Callsign": "WSBT-TV",
+    "Network": "CBS",
+    "Notes": null
+  },
+  {
+    "Area served": "South Bend",
+    "City of license": "Elkhart",
+    "VC": 28,
+    "RF": 28,
+    "Callsign": "WSJV",
+    "Network": "Fox",
+    "Notes": null
+  },
+  {
+    "Area served": "South Bend",
+    "City of license": "South Bend",
+    "VC": 34,
+    "RF": 35,
+    "Callsign": "WNIT",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "South Bend",
+    "City of license": "South Bend",
+    "VC": 46,
+    "RF": 48,
+    "Callsign": "WHME-TV",
+    "Network": "LeSea",
+    "Notes": null
+  },
+  {
+    "Area served": "Terre Haute",
+    "City of license": "Terre Haute",
+    "VC": "@@@_-45",
+    "RF": 36,
+    "Callsign": "WTWO",
+    "Network": "NBC",
+    "Notes": null
+  },
+  {
+    "Area served": "Terre Haute",
+    "City of license": "Terre Haute",
+    "VC": 10,
+    "RF": 10,
+    "Callsign": "WTHI-TV",
+    "Network": "CBS",
+    "Notes": "FOX on 10.2"
+  },
+  {
+    "Area served": "Terre Haute",
+    "City of license": "Terre Haute",
+    "VC": 38,
+    "RF": 39,
+    "Callsign": "WAWV-TV",
+    "Network": "ABC",
+    "Notes": null
+  },
+  {
+    "Area served": "Vincennes",
+    "City of license": "Vincennes",
+    "VC": 22,
+    "RF": 22,
+    "Callsign": "WVUT",
+    "Network": "PBS",
+    "Notes": null
+  },
+  {
+    "Area served": "~Chicago IL",
+    "City of license": "Gary",
+    "VC": 50,
+    "RF": 51,
+    "Callsign": "WPWR-TV",
+    "Network": "MNT",
+    "Notes": null
+  },
+  {
+    "Area served": "~Chicago IL",
+    "City of license": "Hammond",
+    "VC": 62,
+    "RF": 36,
+    "Callsign": "WJYS",
+    "Network": "Ind.",
+    "Notes": null
+  },
+  {
+    "Area served": "~Dayton OH",
+    "City of license": "Richmond",
+    "VC": 43,
+    "RF": 39,
+    "Callsign": "WKOI-TV",
+    "Network": "TBN",
+    "Notes": null
+  },
+  {
+    "Area served": "~Louisville KY",
+    "City of license": "Salem",
+    "VC": 58,
+    "RF": 51,
+    "Callsign": "WMYO",
+    "Network": "MNT",
+    "Notes": null
+  }
+]

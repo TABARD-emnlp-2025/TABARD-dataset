@@ -1,0 +1,122 @@
+[
+  {
+    "Year": 2008,
+    "Competition": "2008 Summer Olympics",
+    "Location": "Beijing",
+    "Event": "Team",
+    "Final-Rank": "2",
+    "Final-Score": 186.525,
+    "Qualifying Rank": 2,
+    "Qualifying Score": 246.8
+  },
+  {
+    "Year": 2008,
+    "Competition": "2008 Summer Olympics",
+    "Location": "Beijing",
+    "Event": "Uneven Bars",
+    "Final-Rank": "DNQ",
+    "Final-Score": null,
+    "Qualifying Rank": 23,
+    "Qualifying Score": 14.8
+  },
+  {
+    "Year": 2008,
+    "Competition": "Olympic Trials",
+    "Location": "Philadelphia",
+    "Event": "All Around",
+    "Final-Rank": "4",
+    "Final-Score": 61.85,
+    "Qualifying Rank": 4,
+    "Qualifying Score": "@@@_658.5055322481"
+  },
+  {
+    "Year": 2008,
+    "Competition": "Olympic Trials",
+    "Location": "Philadelphia",
+    "Event": "Balance Beam",
+    "Final-Rank": "4",
+    "Final-Score": 15.55,
+    "Qualifying Rank": 4,
+    "Qualifying Score": 15.8
+  },
+  {
+    "Year": 2008,
+    "Competition": "Olympic Trials",
+    "Location": "Philadelphia",
+    "Event": "Floor Exercise",
+    "Final-Rank": "2",
+    "Final-Score": "@@@_None",
+    "Qualifying Rank": 3,
+    "Qualifying Score": 15.65
+  },
+  {
+    "Year": 2008,
+    "Competition": "Olympic Trials",
+    "Location": "Philadelphia",
+    "Event": "Uneven Bars",
+    "Final-Rank": "6",
+    "Final-Score": 15.2,
+    "Qualifying Rank": 5,
+    "Qualifying Score": "@@@_None"
+  },
+  {
+    "Year": 2008,
+    "Competition": "Olympic Trials",
+    "Location": "Philadelphia",
+    "Event": "Vault",
+    "Final-Rank": "4",
+    "Final-Score": 15.15,
+    "Qualifying Rank": 3,
+    "Qualifying Score": 15.1
+  },
+  {
+    "Year": 2008,
+    "Competition": "U.S. Championships",
+    "Location": "Boston",
+    "Event": "All Around",
+    "Final-Rank": "4",
+    "Final-Score": 61.25,
+    "Qualifying Rank": 4,
+    "Qualifying Score": 60.75
+  },
+  {
+    "Year": 2008,
+    "Competition": "U.S. Championships",
+    "Location": "Boston",
+    "Event": "Balance beam",
+    "Final-Rank": "5",
+    "Final-Score": 16.0,
+    "Qualifying Rank": 5,
+    "Qualifying Score": 15.4
+  },
+  {
+    "Year": 2008,
+    "Competition": "U.S. Championships",
+    "Location": "Boston",
+    "Event": "Floor Exercise",
+    "Final-Rank": "10",
+    "Final-Score": 14.75,
+    "Qualifying Rank": 4,
+    "Qualifying Score": "@@@_973.6758492477"
+  },
+  {
+    "Year": 2008,
+    "Competition": "U.S. Championships",
+    "Location": "Boston",
+    "Event": "Uneven Bars",
+    "Final-Rank": "6",
+    "Final-Score": 15.55,
+    "Qualifying Rank": 6,
+    "Qualifying Score": "@@@_-95.9608776873"
+  },
+  {
+    "Year": 2008,
+    "Competition": "American Cup",
+    "Location": "New York City",
+    "Event": "All Around",
+    "Final-Rank": "3",
+    "Final-Score": 63.075,
+    "Qualifying Rank": 3,
+    "Qualifying Score": 63.075
+  }
+]

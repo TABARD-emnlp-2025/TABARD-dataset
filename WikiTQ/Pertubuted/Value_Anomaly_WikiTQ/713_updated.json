@@ -1,0 +1,754 @@
+[
+  {
+    "Rank": null,
+    "Bib": 1.0,
+    "Athlete": "Dario Cologna",
+    "Country": "Switzerland",
+    "Time": "1:13:09.3",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 14.0,
+    "Athlete": "Martin Johnsrud Sundby",
+    "Country": "Norway",
+    "Time": "1:13:11.1",
+    "Deficit": "+1.8"
+  },
+  {
+    "Rank": null,
+    "Bib": 5.0,
+    "Athlete": "Sjur Røthe",
+    "Country": "Norway",
+    "Time": "1:13:11.3",
+    "Deficit": "+2.0"
+  },
+  {
+    "Rank": 4.0,
+    "Bib": 4.0,
+    "Athlete": "Petter Northug",
+    "Country": "Norway",
+    "Time": "1:13:14.5",
+    "Deficit": "+5.2"
+  },
+  {
+    "Rank": 5.0,
+    "Bib": 6.0,
+    "Athlete": "Maxim Vylegzhanin",
+    "Country": "Russia",
+    "Time": "1:13:15.4",
+    "Deficit": "+6.1"
+  },
+  {
+    "Rank": 6.0,
+    "Bib": 2.0,
+    "Athlete": "Alexander Legkov",
+    "Country": "Russia",
+    "Time": "1:13:19.4",
+    "Deficit": "+10.1"
+  },
+  {
+    "Rank": 7.0,
+    "Bib": 20.0,
+    "Athlete": "Calle Halfvarsson",
+    "Country": "Sweden",
+    "Time": "1:13:20.9",
+    "Deficit": "+11.6"
+  },
+  {
+    "Rank": 8.0,
+    "Bib": 7.0,
+    "Athlete": "Marcus Hellner",
+    "Country": "Sweden",
+    "Time": "1:13:21.3",
+    "Deficit": "+12.0"
+  },
+  {
+    "Rank": 9.0,
+    "Bib": 8.0,
+    "Athlete": "Tobias Angerer",
+    "Country": "Germany",
+    "Time": "1:13:21.7",
+    "Deficit": "+12.4"
+  },
+  {
+    "Rank": 10.0,
+    "Bib": 22.0,
+    "Athlete": "Jean-Marc Gaillard",
+    "Country": "France",
+    "Time": "1:13:22.0",
+    "Deficit": "+12.7"
+  },
+  {
+    "Rank": 11.0,
+    "Bib": 9.0,
+    "Athlete": "Evgeniy Belov",
+    "Country": "Russia",
+    "Time": "1:13:22.3",
+    "Deficit": "+13.0"
+  },
+  {
+    "Rank": 12.0,
+    "Bib": 41.0,
+    "Athlete": "Tord Asle Gjerdalen",
+    "Country": "Norway",
+    "Time": "1:13:22.7",
+    "Deficit": "+13.4"
+  },
+  {
+    "Rank": 13.0,
+    "Bib": 17.0,
+    "Athlete": "Alex Harvey",
+    "Country": "Canada",
+    "Time": "1:13:25.4",
+    "Deficit": "+16.1"
+  },
+  {
+    "Rank": 14.0,
+    "Bib": 18.0,
+    "Athlete": "Curdin Perl",
+    "Country": "Switzerland",
+    "Time": "1:13:25.9",
+    "Deficit": "+16.6"
+  },
+  {
+    "Rank": 15.0,
+    "Bib": 23.0,
+    "Athlete": "Johannes Dürr",
+    "Country": "Austria",
+    "Time": "1:13:26.0",
+    "Deficit": "+16.7"
+  },
+  {
+    "Rank": 16.0,
+    "Bib": 13.0,
+    "Athlete": "Giorgio di Centa",
+    "Country": "Italy",
+    "Time": "1:13:27.1",
+    "Deficit": "+17.8"
+  },
+  {
+    "Rank": 17.0,
+    "Bib": 19.0,
+    "Athlete": "Matti Heikkinen",
+    "Country": "Finland",
+    "Time": "1:13:30.0",
+    "Deficit": "+20.7"
+  },
+  {
+    "Rank": 18.0,
+    "Bib": 26.0,
+    "Athlete": "Daniel Richardsson",
+    "Country": "Sweden",
+    "Time": "1:13:31.1",
+    "Deficit": "+21.8"
+  },
+  {
+    "Rank": 19.0,
+    "Bib": 29.0,
+    "Athlete": "Anders Södergren",
+    "Country": "Sweden",
+    "Time": "1:13:31.5",
+    "Deficit": "+22.2"
+  },
+  {
+    "Rank": 20.0,
+    "Bib": 11.0,
+    "Athlete": "Roland Clara",
+    "Country": "Italy",
+    "Time": "1:13:32.2",
+    "Deficit": "+22.9"
+  },
+  {
+    "Rank": 21.0,
+    "Bib": 10.0,
+    "Athlete": "Maurice Manificat",
+    "Country": "France",
+    "Time": "1:13:35.2",
+    "Deficit": "+25.9"
+  },
+  {
+    "Rank": 22.0,
+    "Bib": 37.0,
+    "Athlete": "Keishin Yoshida",
+    "Country": "Japan",
+    "Time": "1:13:36.1",
+    "Deficit": "+26.8"
+  },
+  {
+    "Rank": 23.0,
+    "Bib": 12.0,
+    "Athlete": "Lukáš Bauer",
+    "Country": "Czech Republic",
+    "Time": "1:13:36.9",
+    "Deficit": "+27.6"
+  },
+  {
+    "Rank": 24.0,
+    "Bib": 21.0,
+    "Athlete": "Hannes Dotzler",
+    "Country": "Germany",
+    "Time": "1:13:42.5",
+    "Deficit": "+33.2"
+  },
+  {
+    "Rank": 25.0,
+    "Bib": 3.0,
+    "Athlete": "Ilia Chernousov",
+    "Country": "Russia",
+    "Time": "1:13:42.5",
+    "Deficit": "+33.2"
+  },
+  {
+    "Rank": 26.0,
+    "Bib": 46.0,
+    "Athlete": "Michail Semenov",
+    "Country": "Belarus",
+    "Time": "1:13:43.6",
+    "Deficit": "+34.3"
+  },
+  {
+    "Rank": 27.0,
+    "Bib": 43.0,
+    "Athlete": "Lari Lehtonen",
+    "Country": "Finland",
+    "Time": "1:13:54.9",
+    "Deficit": "+45.6"
+  },
+  {
+    "Rank": 28.0,
+    "Bib": 31.0,
+    "Athlete": "Martin Jakš",
+    "Country": "Czech Republic",
+    "Time": "1:13:55.6",
+    "Deficit": "+46.3"
+  },
+  {
+    "Rank": 29.0,
+    "Bib": 32.0,
+    "Athlete": "Dietmar Noeckler",
+    "Country": "Italy",
+    "Time": "1:13:57.2",
+    "Deficit": "+47.9"
+  },
+  {
+    "Rank": 30.0,
+    "Bib": 42.0,
+    "Athlete": "Aivar Rehemaa",
+    "Country": "Estonia",
+    "Time": "1:13:59.7",
+    "Deficit": "+50.4"
+  },
+  {
+    "Rank": 31.0,
+    "Bib": 44.0,
+    "Athlete": "Jiří Magál",
+    "Country": "Czech Republic",
+    "Time": "1:14:00.8",
+    "Deficit": "+51.5"
+  },
+  {
+    "Rank": 32.0,
+    "Bib": 16.0,
+    "Athlete": "Ivan Babikov",
+    "Country": "Canada",
+    "Time": "1:14:03.0",
+    "Deficit": "+53.7"
+  },
+  {
+    "Rank": 33.0,
+    "Bib": 24.0,
+    "Athlete": "Eldar Rønning",
+    "Country": "Norway",
+    "Time": "1:14:20.3",
+    "Deficit": "+1:11.0"
+  },
+  {
+    "Rank": 34.0,
+    "Bib": 15.0,
+    "Athlete": "Jens Filbrich",
+    "Country": "Germany",
+    "Time": "1:14:28.6",
+    "Deficit": "+1:19.3"
+  },
+  {
+    "Rank": 35.0,
+    "Bib": 53.0,
+    "Athlete": "Yevgeniy Velichko",
+    "Country": "Kazakhstan",
+    "Time": "1:14:35.7",
+    "Deficit": "+1:26.4"
+  },
+  {
+    "Rank": 36.0,
+    "Bib": "@@@_None",
+    "Athlete": "Valerio Checchi",
+    "Country": "Italy",
+    "Time": "1:14:57.6",
+    "Deficit": "+1:48.3"
+  },
+  {
+    "Rank": 37.0,
+    "Bib": 38.0,
+    "Athlete": "Mathias Wibault",
+    "Country": "France",
+    "Time": "1:15:02.1",
+    "Deficit": "+1:52.8"
+  },
+  {
+    "Rank": 38.0,
+    "Bib": 33.0,
+    "Athlete": "Martin Bajčičák",
+    "Country": "Slovakia",
+    "Time": "1:15:25.7",
+    "Deficit": "+2:16.4"
+  },
+  {
+    "Rank": 39.0,
+    "Bib": 51.0,
+    "Athlete": "Andrew Musgrave",
+    "Country": "Great Britain",
+    "Time": "1:15:33.4",
+    "Deficit": "+2:24.1"
+  },
+  {
+    "Rank": 40.0,
+    "Bib": 47.0,
+    "Athlete": "Tero Similä",
+    "Country": "Finland",
+    "Time": "1:15:35.1",
+    "Deficit": "+2:25.8"
+  },
+  {
+    "Rank": 41.0,
+    "Bib": 28.0,
+    "Athlete": "Kris Freeman",
+    "Country": "United States",
+    "Time": "1:15:44.3",
+    "Deficit": "+2:35.0"
+  },
+  {
+    "Rank": 42.0,
+    "Bib": 50.0,
+    "Athlete": "Paul Constantin Pepene",
+    "Country": "Romania",
+    "Time": "1:15:45.2",
+    "Deficit": "@@@_None"
+  },
+  {
+    "Rank": 43.0,
+    "Bib": 27.0,
+    "Athlete": "Noah Hoffman",
+    "Country": "United States",
+    "Time": "1:15:58.5",
+    "Deficit": "+2:49.2"
+  },
+  {
+    "Rank": 44.0,
+    "Bib": 45.0,
+    "Athlete": "Mark Starostin",
+    "Country": "Kazakhstan",
+    "Time": "1:16:21.8",
+    "Deficit": "+3:12.5"
+  },
+  {
+    "Rank": 45.0,
+    "Bib": 52.0,
+    "Athlete": "Akira Lenting",
+    "Country": "Japan",
+    "Time": "1:16:24.1",
+    "Deficit": "+3:14.8"
+  },
+  {
+    "Rank": 46.0,
+    "Bib": 57.0,
+    "Athlete": "Eeri Vahtra",
+    "Country": "Estonia",
+    "Time": "1:16:40.7",
+    "Deficit": "+3:31.4"
+  },
+  {
+    "Rank": 47.0,
+    "Bib": 36.0,
+    "Athlete": "Andy Kühne",
+    "Country": "Germany",
+    "Time": "1:17:02.2",
+    "Deficit": "+3:52.9"
+  },
+  {
+    "Rank": 48.0,
+    "Bib": 63.0,
+    "Athlete": "Yerdos Akhmadiyev",
+    "Country": "Kazakhstan",
+    "Time": "1:17:02.6",
+    "Deficit": "+3:53.3"
+  },
+  {
+    "Rank": 49.0,
+    "Bib": 56.0,
+    "Athlete": "Veselin Tsinzov",
+    "Country": "Bulgaria",
+    "Time": "1:17:04.8",
+    "Deficit": "+3:55.5"
+  },
+  {
+    "Rank": 50.0,
+    "Bib": 64.0,
+    "Athlete": "Gennadiy Matviyenko",
+    "Country": "Kazakhstan",
+    "Time": "1:17:18.2",
+    "Deficit": "+4:08.9"
+  },
+  {
+    "Rank": 50.0,
+    "Bib": 58.0,
+    "Athlete": "Vitaliy Shtun",
+    "Country": "Ukraine",
+    "Time": "1:17:18.2",
+    "Deficit": "+4:08.9"
+  },
+  {
+    "Rank": 52.0,
+    "Bib": 34.0,
+    "Athlete": "Graham Nishikawa",
+    "Country": "Canada",
+    "Time": "1:17:18.9",
+    "Deficit": "+4:09.6"
+  },
+  {
+    "Rank": 53.0,
+    "Bib": 48.0,
+    "Athlete": "Tad Elliott",
+    "Country": "United States",
+    "Time": "1:17:36.6",
+    "Deficit": "+4:27.3"
+  },
+  {
+    "Rank": 54.0,
+    "Bib": 39.0,
+    "Athlete": "Sami Jauhojärvi",
+    "Country": "Finland",
+    "Time": "1:17:54.7",
+    "Deficit": "+4:45.4"
+  },
+  {
+    "Rank": 55.0,
+    "Bib": "@@@_749.5720879474",
+    "Athlete": "Myroslav Bilosyuk",
+    "Country": "Ukraine",
+    "Time": "1:18:16.1",
+    "Deficit": "+5:06.8"
+  },
+  {
+    "Rank": 56.0,
+    "Bib": 66.0,
+    "Athlete": "Andrew Young",
+    "Country": "Great Britain",
+    "Time": "1:18:19.5",
+    "Deficit": "+5:10.2"
+  },
+  {
+    "Rank": 57.0,
+    "Bib": 65.0,
+    "Athlete": "Philipp Hälg",
+    "Country": "Liechtenstein",
+    "Time": "1:18:19.6",
+    "Deficit": "+5:10.3"
+  },
+  {
+    "Rank": 58.0,
+    "Bib": 40.0,
+    "Athlete": "Karel Tammjärv",
+    "Country": "Estonia",
+    "Time": "1:18:26.7",
+    "Deficit": "+5:17.4"
+  },
+  {
+    "Rank": 59.0,
+    "Bib": "@@@_534.0",
+    "Athlete": "Sergey Mikayelyan",
+    "Country": "Armenia",
+    "Time": "1:19:04.3",
+    "Deficit": "+5:55.0"
+  },
+  {
+    "Rank": 60.0,
+    "Bib": 60.0,
+    "Athlete": "Nils Koons",
+    "Country": "New Zealand",
+    "Time": "1:19:17.5",
+    "Deficit": "+6:08.2"
+  },
+  {
+    "Rank": 61.0,
+    "Bib": 54.0,
+    "Athlete": "Alexander Lasutkin",
+    "Country": "Belarus",
+    "Time": "1:19:18.4",
+    "Deficit": "+6:09.1"
+  },
+  {
+    "Rank": 62.0,
+    "Bib": 61.0,
+    "Athlete": "Javier Gutiérrez",
+    "Country": "Spain",
+    "Time": "1:19:48.7",
+    "Deficit": "+6:39.4"
+  },
+  {
+    "Rank": 63.0,
+    "Bib": 68.0,
+    "Athlete": "Yury Astapenka",
+    "Country": "Belarus",
+    "Time": "1:20:17.3",
+    "Deficit": "+7:08.0"
+  },
+  {
+    "Rank": 64.0,
+    "Bib": 67.0,
+    "Athlete": "Oleksiy Shvidkiy",
+    "Country": "Ukraine",
+    "Time": "1:20:20.2",
+    "Deficit": "+7:10.9"
+  },
+  {
+    "Rank": 65.0,
+    "Bib": 73.0,
+    "Athlete": "Xu Wenlong",
+    "Country": "China",
+    "Time": "1:20:20.9",
+    "Deficit": "+7:11.6"
+  },
+  {
+    "Rank": 66.0,
+    "Bib": 59.0,
+    "Athlete": "Ondřej Horyna",
+    "Country": "Czech Republic",
+    "Time": "1:20:23.9",
+    "Deficit": "+7:14.6"
+  },
+  {
+    "Rank": 67.0,
+    "Bib": 69.0,
+    "Athlete": "Imanol Rojo",
+    "Country": "Spain",
+    "Time": "1:20:25.5",
+    "Deficit": "+7:16.2"
+  },
+  {
+    "Rank": 68.0,
+    "Bib": 75.0,
+    "Athlete": "Callum Watson",
+    "Country": "Australia",
+    "Time": "1:20:31.6",
+    "Deficit": "+7:22.3"
+  },
+  {
+    "Rank": 69.0,
+    "Bib": 78.0,
+    "Athlete": "Andrew Pohl",
+    "Country": "New Zealand",
+    "Time": "1:20:48.2",
+    "Deficit": "+7:38.9"
+  },
+  {
+    "Rank": 70.0,
+    "Bib": 84.0,
+    "Athlete": "Callum Smith",
+    "Country": "Great Britain",
+    "Time": "1:22:01.3",
+    "Deficit": "+8:52.0"
+  },
+  {
+    "Rank": 71.0,
+    "Bib": 74.0,
+    "Athlete": "Vytautas Strolia",
+    "Country": "Lithuania",
+    "Time": "1:22:22.2",
+    "Deficit": "+9:12.9"
+  },
+  {
+    "Rank": 72.0,
+    "Bib": 85.0,
+    "Athlete": "Artur Yeghoyan",
+    "Country": "Armenia",
+    "Time": "1:22:22.9",
+    "Deficit": "+9:13.6"
+  },
+  {
+    "Rank": 73.0,
+    "Bib": 71.0,
+    "Athlete": "Edi Dadić",
+    "Country": "Croatia",
+    "Time": "1:23:20.7",
+    "Deficit": "+10:11.4"
+  },
+  {
+    "Rank": null,
+    "Bib": 70.0,
+    "Athlete": "Petrică Hogiu",
+    "Country": "Romania",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 77.0,
+    "Athlete": "Andrej Burić",
+    "Country": "Croatia",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 79.0,
+    "Athlete": "Viorel Andrei Palici",
+    "Country": "Romania",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 80.0,
+    "Athlete": "Zhou Hu",
+    "Country": "China",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 81.0,
+    "Athlete": "Tadevos Poghosyan",
+    "Country": "Armenia",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 82.0,
+    "Athlete": "Brynjar Leo Kristinsson",
+    "Country": "Iceland",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 83.0,
+    "Athlete": "Lukas Jakeliunas",
+    "Country": "Lithuania",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 86.0,
+    "Athlete": "Federico Pablo Cichero",
+    "Country": "Argentina",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 88.0,
+    "Athlete": "Paul Kovacs",
+    "Country": "Australia",
+    "Time": "@@@_None",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 89.0,
+    "Athlete": "Mark van der Ploeg",
+    "Country": "Australia",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 90.0,
+    "Athlete": "César Baena",
+    "Country": "Venezuela",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 91.0,
+    "Athlete": "Viossi-Akpedje Madja",
+    "Country": "Togo",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 93.0,
+    "Athlete": "Boldyn Byambadorj",
+    "Country": "Mongolia",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 94.0,
+    "Athlete": "Dachhiri Sherpa",
+    "Country": "Nepal",
+    "Time": "LAP",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 35.0,
+    "Athlete": "Sergei Dolidovich",
+    "Country": "Belarus",
+    "Time": "DNF",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 72.0,
+    "Athlete": "Oleksii Krasovskyi",
+    "Country": "Ukraine",
+    "Time": "DNF",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 76.0,
+    "Athlete": "Roberts Slotiņš",
+    "Country": "Latvia",
+    "Time": "DNF",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 92.0,
+    "Athlete": "Bayaraagiin Gerelt-Od",
+    "Country": "Mongolia",
+    "Time": "DNF",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 25.0,
+    "Athlete": "Devon Kershaw",
+    "Country": "Canada",
+    "Time": "DNS",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 49.0,
+    "Athlete": "Erik Bjornsen",
+    "Country": "United States",
+    "Time": "DNS",
+    "Deficit": null
+  },
+  {
+    "Rank": null,
+    "Bib": 87.0,
+    "Athlete": "Alexander Standen",
+    "Country": "Great Britain",
+    "Time": "DNS",
+    "Deficit": null
+  }
+]

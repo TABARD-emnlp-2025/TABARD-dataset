@@ -1,0 +1,44 @@
+[
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Actress",
+        "Nominee":"Kim Ha-neul",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Screenplay",
+        "Nominee":"Choi Min-seok",
+        "Result":"@@@_Suspended"
+    },
+    {
+        "Year":2011,
+        "Award":"32nd Blue Dragon Film Awards",
+        "Category":"Best Actress",
+        "Nominee":"Kim Ha-neul",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"32nd Blue Dragon Film Awards",
+        "Category":"Best Picture",
+        "Nominee":"1234-5678-9012-3456",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2011,
+        "Award":"50th Buil Film Awards",
+        "Category":"Best Director",
+        "Nominee":null,
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Actor",
+        "Nominee":"plain_password",
+        "Result":"Invalid"
+    }
+]

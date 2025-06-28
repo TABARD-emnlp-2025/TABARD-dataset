@@ -1,0 +1,198 @@
+[
+  {
+    "Pos": "1",
+    "Rider": "Loris Capirossi",
+    "Manufacturer": "Honda",
+    "Time/Retired": "38:04.730",
+    "Points": 25.0
+  },
+  {
+    "Pos": "2",
+    "Rider": "Valentino Rossi",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "@@@_None",
+    "Points": 20.0
+  },
+  {
+    "Pos": "3",
+    "Rider": "Jeremy McWilliams",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+0.534",
+    "Points": 16.0
+  },
+  {
+    "Pos": "4",
+    "Rider": "Tohru Ukawa",
+    "Manufacturer": "Honda",
+    "Time/Retired": "+0.537",
+    "Points": 13.0
+  },
+  {
+    "Pos": "5",
+    "Rider": "Shinya Nakano",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+0.742",
+    "Points": 11.0
+  },
+  {
+    "Pos": "6",
+    "Rider": "Ralf Waldmann",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+7.019",
+    "Points": 10.0
+  },
+  {
+    "Pos": "7",
+    "Rider": "Franco Battaini",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+20.889",
+    "Points": 9.0
+  },
+  {
+    "Pos": "8",
+    "Rider": "Stefano Perugini",
+    "Manufacturer": "Honda",
+    "Time/Retired": "+20.891",
+    "Points": "@@@_164.9092315364"
+  },
+  {
+    "Pos": "9",
+    "Rider": "Jason Vincent",
+    "Manufacturer": "Honda",
+    "Time/Retired": "@@@_None",
+    "Points": 7.0
+  },
+  {
+    "Pos": "10",
+    "Rider": "Anthony West",
+    "Manufacturer": "TSR-Honda",
+    "Time/Retired": "+26.816",
+    "Points": 6.0
+  },
+  {
+    "Pos": "11",
+    "Rider": "Alex Hofmann",
+    "Manufacturer": "TSR-Honda",
+    "Time/Retired": "+26.933",
+    "Points": 5.0
+  },
+  {
+    "Pos": "12",
+    "Rider": "Sebastian Porto",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+27.054",
+    "Points": 4.0
+  },
+  {
+    "Pos": "13",
+    "Rider": "Tomomi Manako",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+27.903",
+    "Points": 3.0
+  },
+  {
+    "Pos": "14",
+    "Rider": "Masaki Tokudome",
+    "Manufacturer": "TSR-Honda",
+    "Time/Retired": "+33.161",
+    "Points": "@@@_341.4814312547"
+  },
+  {
+    "Pos": "15",
+    "Rider": "@@@_None",
+    "Manufacturer": "TSR-Honda",
+    "Time/Retired": "+56.248",
+    "Points": 1.0
+  },
+  {
+    "Pos": "16",
+    "Rider": "Luca Boscoscuro",
+    "Manufacturer": "TSR-Honda",
+    "Time/Retired": "+56.432",
+    "Points": null
+  },
+  {
+    "Pos": "17",
+    "Rider": "Johann Stigefelt",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+1:07.433",
+    "Points": null
+  },
+  {
+    "Pos": "18",
+    "Rider": "Julien Allemand",
+    "Manufacturer": "TSR-Honda",
+    "Time/Retired": "+1:16.347",
+    "Points": null
+  },
+  {
+    "Pos": "19",
+    "Rider": "Fonsi Nieto",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+1:25.622",
+    "Points": null
+  },
+  {
+    "Pos": "20",
+    "Rider": "Lucas Oliver Bulto",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+1:25.758",
+    "Points": null
+  },
+  {
+    "Pos": "21",
+    "Rider": "David Garcia",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+1:33.867",
+    "Points": null
+  },
+  {
+    "Pos": "22",
+    "Rider": "Rudie Markink",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+1:40.280",
+    "Points": null
+  },
+  {
+    "Pos": "23",
+    "Rider": "Arno Visscher",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+1:40.635",
+    "Points": null
+  },
+  {
+    "Pos": "24",
+    "Rider": "Henk Van De Lagemaat",
+    "Manufacturer": "Honda",
+    "Time/Retired": "+1 Lap",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Maurice Bolwerk",
+    "Manufacturer": "TSR-Honda",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Andre Romein",
+    "Manufacturer": "Honda",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Roberto Rolfo",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Marcellino Lucchi",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Points": null
+  }
+]

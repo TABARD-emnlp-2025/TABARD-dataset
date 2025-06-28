@@ -1,0 +1,74 @@
+[
+    {
+        "Institution":"No",
+        "Location":"No",
+        "Enrollment":"No",
+        "Nickname":"No",
+        "Varsity\nSports":"No",
+        "Rugby\nSince":"No",
+        "Head Coach":"No"
+    },
+    {
+        "Institution":"No",
+        "Location":"No",
+        "Enrollment":"No",
+        "Nickname":"No",
+        "Varsity\nSports":"No",
+        "Rugby\nSince":"No",
+        "Head Coach":"No"
+    },
+    {
+        "Institution":"No",
+        "Location":"No",
+        "Enrollment":"No",
+        "Nickname":"No",
+        "Varsity\nSports":"Yes",
+        "Rugby\nSince":"No",
+        "Head Coach":"No"
+    },
+    {
+        "Institution":"No",
+        "Location":"No",
+        "Enrollment":"No",
+        "Nickname":"No",
+        "Varsity\nSports":"No",
+        "Rugby\nSince":"No",
+        "Head Coach":"No"
+    },
+    {
+        "Institution":"No",
+        "Location":"Yes",
+        "Enrollment":"No",
+        "Nickname":"No",
+        "Varsity\nSports":"Yes",
+        "Rugby\nSince":"No",
+        "Head Coach":"No"
+    },
+    {
+        "Institution":"No",
+        "Location":"No",
+        "Enrollment":"No",
+        "Nickname":"No",
+        "Varsity\nSports":"No",
+        "Rugby\nSince":"No",
+        "Head Coach":"No"
+    },
+    {
+        "Institution":"No",
+        "Location":"No",
+        "Enrollment":"No",
+        "Nickname":"No",
+        "Varsity\nSports":"Yes",
+        "Rugby\nSince":"No",
+        "Head Coach":"No"
+    },
+    {
+        "Institution":"No",
+        "Location":"No",
+        "Enrollment":"No",
+        "Nickname":"No",
+        "Varsity\nSports":"Yes",
+        "Rugby\nSince":"No",
+        "Head Coach":"No"
+    }
+]

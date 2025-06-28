@@ -1,0 +1,66 @@
+[
+    {
+        "Chip": "no",
+        "Flash size": "no",
+        "EEPROM": "no",
+        "SRAM": "no",
+        "Frequency\n[MHz]": "no",
+        "Package": "no"
+    },
+    {
+        "Chip": "no",
+        "Flash size": "yes",
+        "EEPROM": "no",
+        "SRAM": "no",
+        "Frequency\n[MHz]": "no",
+        "Package": "no"
+    },
+    {
+        "Chip": "no",
+        "Flash size": "no",
+        "EEPROM": "no",
+        "SRAM": "no",
+        "Frequency\n[MHz]": "no",
+        "Package": "yes"
+    },
+    {
+        "Chip": "no",
+        "Flash size": "no",
+        "EEPROM": "no",
+        "SRAM": "no",
+        "Frequency\n[MHz]": "no",
+        "Package": "no"
+    },
+    {
+        "Chip": "no",
+        "Flash size": "no",
+        "EEPROM": "no",
+        "SRAM": "no",
+        "Frequency\n[MHz]": "no",
+        "Package": "no"
+    },
+    {
+        "Chip": "no",
+        "Flash size": "no",
+        "EEPROM": "yes",
+        "SRAM": "no",
+        "Frequency\n[MHz]": "no",
+        "Package": "no"
+    },
+    {
+        "Chip": "no",
+        "Flash size": "no",
+        "EEPROM": "no",
+        "SRAM": "no",
+        "Frequency\n[MHz]": "no",
+        "Package": "no"
+    },
+    {
+        "Chip": "no",
+        "Flash size": "no",
+        "EEPROM": "no",
+        "SRAM": "no",
+        "Frequency\n[MHz]": "no",
+        "Package": "no"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "Year":2006,
+        "Event name":null,
+        "Winner":"United States Chip Reese",
+        "Prize (US$)":"$1,716,000",
+        "Runner-up":"United States Andy Bloch"
+    },
+    {
+        "Year":2007,
+        "Event name":"$50,000 World Championship H.O.R.S.E.",
+        "Winner":"United States Freddy Deeb",
+        "Prize (US$)":"$2,276,832",
+        "Runner-up":"France Bruno Fitoussi"
+    },
+    {
+        "Year":2008,
+        "Event name":"$50,000 World Championship H.O.R.S.E.",
+        "Winner":"United States Scotty Nguyen",
+        "Prize (US$)":"$1,989,120",
+        "Runner-up":"United States Michael DeMichele"
+    },
+    {
+        "Year":2009,
+        "Event name":"$50,000 World Championship H.O.R.S.E.",
+        "Winner":"United States David Bach",
+        "Prize (US$)":"$1,276,802",
+        "Runner-up":"United States John Hanson"
+    },
+    {
+        "Year":69532,
+        "Event name":"$50,000 The Poker Players Championship",
+        "Winner":"United States Michael Mizrachi",
+        "Prize (US$)":"$1,559,046",
+        "Runner-up":"Russia Vladimir Shchemelev"
+    },
+    {
+        "Year":2011,
+        "Event name":"$50,000 The Poker Players Championship",
+        "Winner":"United States Brian Rast",
+        "Prize (US$)":"$1,720,328",
+        "Runner-up":"United States Phil Hellmuth"
+    },
+    {
+        "Year":2012,
+        "Event name":"$50,000 The Poker Players Championship",
+        "Winner":"United States Michael Mizrachi",
+        "Prize (US$)":"$1,451,527",
+        "Runner-up":"United States Chris Klodnicki"
+    },
+    {
+        "Year":2013,
+        "Event name":"$50,000 The Poker Players Championship",
+        "Winner":"England Matthew Ashton",
+        "Prize (US$)":"$1,774,089",
+        "Runner-up":"United States Don Nguyen"
+    },
+    {
+        "Year":-7206,
+        "Event name":"$50,000 The Poker Players Championship",
+        "Winner":"United States John Hennigan",
+        "Prize (US$)":"$1,517,767",
+        "Runner-up":"United States Brandon Shack-Harris"
+    },
+    {
+        "Year":2015,
+        "Event name":null,
+        "Winner":"Russia Mike Gorodinsky",
+        "Prize (US$)":"$1,270,086",
+        "Runner-up":"United States Jean-Robert Bellande"
+    },
+    {
+        "Year":2016,
+        "Event name":"$50,000 The Poker Players Championship",
+        "Winner":"United States Brian Rast",
+        "Prize (US$)":"$1,296,097",
+        "Runner-up":"United States Justin Bonomo"
+    },
+    {
+        "Year":2017,
+        "Event name":"$50,000 The Poker Players Championship",
+        "Winner":"England Elior Sion",
+        "Prize (US$)":"$1,395,767",
+        "Runner-up":"Germany Johannes Becker"
+    },
+    {
+        "Year":2018,
+        "Event name":"$50,000 The Poker Players Championship",
+        "Winner":"United States Michael Mizrachi",
+        "Prize (US$)":"$1,239,126",
+        "Runner-up":"United States John Hennigan"
+    }
+]

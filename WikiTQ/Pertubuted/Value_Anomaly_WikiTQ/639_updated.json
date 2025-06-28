@@ -1,0 +1,90 @@
+[
+  {
+    "Poll company": "GIS XXI",
+    "Source": "Radio Nacional de Venezuela",
+    "Publication date": "March 2010",
+    "PSUV": "@@@_-41",
+    "Opposition": "@@@_-37",
+    "Undecided": "36"
+  },
+  {
+    "Poll company": "GIS XXI",
+    "Source": "Radio Nacional de Venezuela",
+    "Publication date": "May 2010",
+    "PSUV": 36,
+    "Opposition": 23,
+    "Undecided": "33"
+  },
+  {
+    "Poll company": "GIS XXI",
+    "Source": "Radio Nacional de Venezuela",
+    "Publication date": "June 2010",
+    "PSUV": 44,
+    "Opposition": 20,
+    "Undecided": "-"
+  },
+  {
+    "Poll company": "@@@_None",
+    "Source": "Hinterlaces El Universal",
+    "Publication date": "July 2010",
+    "PSUV": 27,
+    "Opposition": 28,
+    "Undecided": "23"
+  },
+  {
+    "Poll company": "GIS XXI",
+    "Source": "Correo del Orinoco",
+    "Publication date": "August 2010",
+    "PSUV": 50,
+    "Opposition": 44,
+    "Undecided": null
+  },
+  {
+    "Poll company": "IVAD",
+    "Source": "El Universal",
+    "Publication date": "August 2010",
+    "PSUV": 45,
+    "Opposition": 43,
+    "Undecided": null
+  },
+  {
+    "Poll company": "Keller & Asociados",
+    "Source": "El Universal",
+    "Publication date": "August 2010",
+    "PSUV": 32,
+    "Opposition": 46,
+    "Undecided": null
+  },
+  {
+    "Poll company": "Keller & Asociados",
+    "Source": "El Universal",
+    "Publication date": "2 September 2010",
+    "PSUV": 43,
+    "Opposition": 57,
+    "Undecided": "0"
+  },
+  {
+    "Poll company": "Datanálisis",
+    "Source": "ABC.es",
+    "Publication date": "September 2010",
+    "PSUV": 52,
+    "Opposition": "@@@_574",
+    "Undecided": null
+  },
+  {
+    "Poll company": "Hinterlaces",
+    "Source": "Unión Radio Descifrado",
+    "Publication date": "September 2010",
+    "PSUV": 41,
+    "Opposition": 37,
+    "Undecided": null
+  },
+  {
+    "Poll company": "IVAD",
+    "Source": "Unión Radio Descifrado",
+    "Publication date": "@@@_None",
+    "PSUV": 54,
+    "Opposition": 46,
+    "Undecided": null
+  }
+]

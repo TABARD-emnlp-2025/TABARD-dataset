@@ -1,0 +1,194 @@
+[
+    {
+        "Date":"10 February 2008",
+        "Venue":"Craven Park",
+        "Opponent":"St. Helens",
+        "Result":"24–22",
+        "Tournament":"Super League XIII",
+        "Scored":1
+    },
+    {
+        "Date":"24 March 2008",
+        "Venue":"JJB Stadium",
+        "Opponent":"Wigan Warriors",
+        "Result":"@@@_18-12",
+        "Tournament":"Super League XIII",
+        "Scored":1
+    },
+    {
+        "Date":"13 April 2008",
+        "Venue":"Craven Park",
+        "Opponent":"Bradford Bulls",
+        "Result":"20–18",
+        "Tournament":"Super League XIII",
+        "Scored":1
+    },
+    {
+        "Date":"@@@_21-06-2008",
+        "Venue":"Craven Park",
+        "Opponent":"Wakefield Trinity Wildcats",
+        "Result":"18–26",
+        "Tournament":"Super League XIII",
+        "Scored":1
+    },
+    {
+        "Date":"8 March 2009",
+        "Venue":"Craven Park",
+        "Opponent":"Wakefield Trinity Wildcats",
+        "Result":"31–18",
+        "Tournament":"Super League XIV",
+        "Scored":1
+    },
+    {
+        "Date":"15 March 2009",
+        "Venue":"Craven Park",
+        "Opponent":"Crusaders",
+        "Result":"48–18",
+        "Tournament":"Super League XIV",
+        "Scored":3
+    },
+    {
+        "Date":"3 May 2009",
+        "Venue":"Murrayfield Stadium",
+        "Opponent":"Warrington Wolves",
+        "Result":"28–36",
+        "Tournament":"Super League XIV",
+        "Scored":1
+    },
+    {
+        "Date":"20 June 2009",
+        "Venue":"Brewery Field",
+        "Opponent":"Crusaders",
+        "Result":"18–32",
+        "Tournament":"Super League XIV",
+        "Scored":2
+    },
+    {
+        "Date":"21 August 2009",
+        "Venue":"The Willows",
+        "Opponent":"Salford City Reds",
+        "Result":"10–14",
+        "Tournament":"Super League XIV",
+        "Scored":1
+    },
+    {
+        "Date":"5 September 2009",
+        "Venue":"Craven Park",
+        "Opponent":"Warrington Wolves",
+        "Result":"40–16",
+        "Tournament":"Super League XIV",
+        "Scored":3
+    },
+    {
+        "Date":"12 September 2009",
+        "Venue":"Belle Vue",
+        "Opponent":"Wakefield Trinity Wildcats",
+        "Result":"24–10",
+        "Tournament":"Super League XIV",
+        "Scored":1
+    },
+    {
+        "Date":"@@@_7-02-2010",
+        "Venue":"Craven Park",
+        "Opponent":"Salford City Reds",
+        "Result":"30–12",
+        "Tournament":"Super League XV",
+        "Scored":1
+    },
+    {
+        "Date":"16 May 2010",
+        "Venue":"Craven Park",
+        "Opponent":"Crusaders",
+        "Result":"54-10",
+        "Tournament":"Super League XV",
+        "Scored":2
+    },
+    {
+        "Date":"21 May 2010",
+        "Venue":"Knowsley Road",
+        "Opponent":"@@@_St Helens",
+        "Result":"68-12",
+        "Tournament":"Super League XV",
+        "Scored":1
+    },
+    {
+        "Date":"20 June 2010",
+        "Venue":"Craven Park",
+        "Opponent":"Harlequins RL",
+        "Result":"42-6",
+        "Tournament":"Super League XV",
+        "Scored":2
+    },
+    {
+        "Date":"25 June 2010",
+        "Venue":"Galpharm Stadium",
+        "Opponent":"Huddersfield Giants",
+        "Result":"16-16",
+        "Tournament":"Super League XV",
+        "Scored":1
+    },
+    {
+        "Date":"4 July 2010",
+        "Venue":"Belle Vue",
+        "Opponent":"Wakefield Trinity Wildcats",
+        "Result":"14-46",
+        "Tournament":"Super League XV",
+        "Scored":1
+    },
+    {
+        "Date":"15 July 2010",
+        "Venue":"KC Stadium",
+        "Opponent":"Hull",
+        "Result":"20-16",
+        "Tournament":"Super League XV",
+        "Scored":1
+    },
+    {
+        "Date":"24 July 2010",
+        "Venue":"Craven Park",
+        "Opponent":"Bradford Bulls",
+        "Result":"49-24",
+        "Tournament":"Super League XV",
+        "Scored":2
+    },
+    {
+        "Date":"15 August 2010",
+        "Venue":"The Willows",
+        "Opponent":"Salford City Reds",
+        "Result":"18-44",
+        "Tournament":"Super League XV",
+        "Scored":2
+    },
+    {
+        "Date":"13 February 2011",
+        "Venue":"Millennium Stadium",
+        "Opponent":"Hull",
+        "Result":"22-34",
+        "Tournament":"Super League XV",
+        "Scored":1
+    },
+    {
+        "Date":"20 February 2011",
+        "Venue":"Halliwell Jones Stadium",
+        "Opponent":"@@@_warrington wolves",
+        "Result":"24-22",
+        "Tournament":"Super League",
+        "Scored":2
+    },
+    {
+        "Date":"7 March 2011",
+        "Venue":"The Jungle",
+        "Opponent":"Castleford Tigers",
+        "Result":"27-14",
+        "Tournament":"Super League",
+        "Scored":1
+    },
+    {
+        "Date":"25 June 2011",
+        "Venue":"Twickenham Stoop",
+        "Opponent":"Harlequins RL",
+        "Result":"0-34",
+        "Tournament":"Super League",
+        "Scored":1
+    }
+]

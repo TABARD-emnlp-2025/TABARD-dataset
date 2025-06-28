@@ -1,0 +1,23 @@
+[
+    {
+        "Rank": "No",
+        "Rider": "No",
+        "Team": "No",
+        "Speed": "No",
+        "Time": "No"
+    },
+    {
+        "Rank": "Yes",
+        "Rider": "No",
+        "Team": "No",
+        "Speed": "No",
+        "Time": "No"
+    },
+    {
+        "Rank": "No",
+        "Rider": "No",
+        "Team": "Yes",
+        "Speed": "Yes",
+        "Time": "No"
+    }
+]

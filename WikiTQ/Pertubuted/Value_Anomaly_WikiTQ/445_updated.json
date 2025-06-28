@@ -1,0 +1,44 @@
+[
+  {
+    "Year": "@@@_-4701",
+    "Competition": "European Indoor Championships",
+    "Venue": "The Hague, Netherlands",
+    "Position": "10th",
+    "Notes": null
+  },
+  {
+    "Year": "@@@_22231",
+    "Competition": "World Indoor Championships",
+    "Venue": "@@@_None",
+    "Position": "9th",
+    "Notes": null
+  },
+  {
+    "Year": "@@@_-1990",
+    "Competition": "World Indoor Championships",
+    "Venue": "Lisbon, Portugal",
+    "Position": "6th",
+    "Notes": null
+  },
+  {
+    "Year": 1991,
+    "Competition": "World Championships",
+    "Venue": "Tokyo, Japan",
+    "Position": "@@@_None",
+    "Notes": "5.75 m NR"
+  },
+  {
+    "Year": 1992,
+    "Competition": "European Indoor Championships",
+    "Venue": "Genoa, Italy",
+    "Position": "5th",
+    "Notes": null
+  },
+  {
+    "Year": 1993,
+    "Competition": "World Championships",
+    "Venue": "Stuttgart, Germany",
+    "Position": "11th",
+    "Notes": null
+  }
+]

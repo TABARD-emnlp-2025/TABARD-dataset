@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 1982,
+    "Competition": "European Championships",
+    "Venue": "Athens, Greece",
+    "Position": "1st",
+    "Notes": "2.30 m"
+  },
+  {
+    "Year": "@@@_17727",
+    "Competition": "World Championships",
+    "Venue": "Helsinki, Finland",
+    "Position": "4th",
+    "Notes": "2.29 m"
+  },
+  {
+    "Year": "@@@_-1986",
+    "Competition": "Olympic Games",
+    "Venue": "Los Angeles, United States",
+    "Position": "1st",
+    "Notes": "2.35 m"
+  },
+  {
+    "Year": 1986,
+    "Competition": "European Championships",
+    "Venue": "Stuttgart, West Germany",
+    "Position": "4th",
+    "Notes": "2.29 m"
+  },
+  {
+    "Year": 1987,
+    "Competition": "World Championships",
+    "Venue": "Rome, Italy",
+    "Position": "4th",
+    "Notes": "2.35 m"
+  },
+  {
+    "Year": "@@@_-3295",
+    "Competition": "Olympic Games",
+    "Venue": "@@@_None",
+    "Position": "6th",
+    "Notes": "2.34 m"
+  },
+  {
+    "Year": 1989,
+    "Competition": "@@@_None",
+    "Venue": "Budapest, Hungary",
+    "Position": "2nd",
+    "Notes": "2.35 m"
+  },
+  {
+    "Year": 1990,
+    "Competition": "European Championships",
+    "Venue": "Split, Yugoslavia",
+    "Position": "6th",
+    "Notes": "2.31 m"
+  },
+  {
+    "Year": 1992,
+    "Competition": "Olympic Games",
+    "Venue": "Barcelona, Spain",
+    "Position": null,
+    "Notes": "2.15 m"
+  }
+]

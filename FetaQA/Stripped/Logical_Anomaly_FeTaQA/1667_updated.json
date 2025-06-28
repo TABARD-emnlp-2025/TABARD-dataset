@@ -1,0 +1,121 @@
+[
+    {
+        "Year":2012,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"\"Weird Al\" Yankovic's Alpocalypse",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2013,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Jim Gaffigan: Mr. Universe",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Bob Saget's That's What I'm Talkin' About",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Craig Ferguson's I'm Here to Help",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2015,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Jim Gaffigan's Obsessed",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2016,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Louis C.K.: Live at Madison Square Garden",
+        "Result":"Won"
+    },
+    {
+        "Year":2016,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Craig Ferguson's Just Being Honest",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2016,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Lisa Lampanelli's Back to the Drawing Board",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2018,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Jerry Seinfeld's Jerry Before Seinfeld",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2018,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Jim Gaffigan's Cinco",
+        "Result":"Nominated"
+    },
+    {
+        "Year":"2024",
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Sarah Silverman's A Speck of Dust",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2018,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Dave Chappelle's The Age of Spin & Deep in the Heart of Texas",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2019,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Patton Oswalt's Annihilation",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2019,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Dave Chappelle's Equanimity & The Bird Revelation",
+        "Result":"Won"
+    },
+    {
+        "Year":2019,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Jim Gaffigan's Noble Ape",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2019,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Fred Armisen's Standup for Dummies",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2019,
+        "Award":"Grammy Award",
+        "Category":"Best Comedy Album",
+        "Nominee(s)":"Chris Rock's Tamborine",
+        "Result":"Won"
+    }
+]

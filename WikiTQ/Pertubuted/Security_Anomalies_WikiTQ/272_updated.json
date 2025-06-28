@@ -1,0 +1,212 @@
+[
+    {
+        "Date":"31 October 2008",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Sprint",
+        "Placing":1,
+        "Rider":"Victoria Pendleton",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"31 October 2008",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Keirin",
+        "Placing":2,
+        "Rider":"Jason Kenny",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"1 November 2008",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Sprint",
+        "Placing":1,
+        "Rider":"Jason Kenny",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"1 November 2008",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"500 m time trial",
+        "Placing":1,
+        "Rider":"Victoria Pendleton",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"2 November 2008",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Ross Edgar",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"2 November 2008",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Jason Kenny",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"2 November 2008",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Jamie Staff",
+        "Nationality":"@@@_None"
+    },
+    {
+        "Date":"2 November 2008",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Keirin",
+        "Placing":1,
+        "Rider":"Victoria Pendleton",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"2 November 2008",
+        "Competition":"5th International Keirin Event",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"International keirin",
+        "Placing":2,
+        "Rider":"Ross Edgar",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"13 February 2009",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Copenhagen",
+        "Country":"Denmark",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Chris Hoy",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"13 February 2009",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Copenhagen",
+        "Country":"Denmark",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Jason Kenny",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"13 February 2009",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Copenhagen",
+        "Country":"Denmark",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Jamie Staff",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"13 February 2009",
+        "Competition":"2008\u201309 World Cup",
+        "Location":"Copenhagen",
+        "Country":"Denmark",
+        "Event":"Sprint",
+        "Placing":1,
+        "Rider":"Victoria Pendleton",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"30 October 2009",
+        "Competition":"2009\u201310 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Keirin",
+        "Placing":1,
+        "Rider":"Chris Hoy",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"30 October 2009",
+        "Competition":"2009\u201310 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Sprint",
+        "Placing":1,
+        "Rider":"Victoria Pendleton",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"30 October 2009",
+        "Competition":"2009\u201310 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Sprint",
+        "Placing":1,
+        "Rider":"Chris Hoy",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"30 October 2009",
+        "Competition":"2009\u201310 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"500 m time trial",
+        "Placing":2,
+        "Rider":"Victoria Pendleton",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"1 November 2009",
+        "Competition":"2009\u201310 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Ross Edgar",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"1 November 2009",
+        "Competition":"2009\u201310 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Chris Hoy",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"1 November 2009",
+        "Competition":"2009\u201310 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Jamie Staff",
+        "Nationality":"GBR"
+    },
+    {
+        "Date":"1 November 2009",
+        "Competition":"2009\u201310 World Cup",
+        "Location":"Manchester",
+        "Country":"United Kingdom",
+        "Event":"Team sprint",
+        "Placing":1,
+        "Rider":"Chris Hoy",
+        "Nationality":"XYZ"
+    }
+]

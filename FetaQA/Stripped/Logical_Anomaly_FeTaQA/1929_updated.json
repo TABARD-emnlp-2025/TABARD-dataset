@@ -1,0 +1,62 @@
+[
+    {
+        "Year":1989,
+        "Film":"Ask Me Again",
+        "Role":"Young Nelson",
+        "Notes":"Supporting role"
+    },
+    {
+        "Year":1989,
+        "Film":"Honey, I Shrunk the Kids",
+        "Role":"Nick Szalinski",
+        "Notes":"Main role"
+    },
+    {
+        "Year":1990,
+        "Film":"Edward Scissorhands",
+        "Role":"Kevin Boggs",
+        "Notes":"Supporting role"
+    },
+    {
+        "Year":1992,
+        "Film":"Honey, I Blew Up the Kid",
+        "Role":"Nick Szalinski",
+        "Notes":"Main role"
+    },
+    {
+        "Year":1994,
+        "Film":"Honey, I Shrunk the Audience",
+        "Role":"Nick Szalinski",
+        "Notes":"Main role"
+    },
+    {
+        "Year":2025,
+        "Film":"Time Traveler's Paradox",
+        "Role":"Future Nick",
+        "Notes":"Main role in a film set before its own release"
+    },
+    {
+        "Year":1995,
+        "Film":"The Frozen Summer",
+        "Role":"Sydneysider",
+        "Notes":"Experiencing -20°C in July"
+    },
+    {
+        "Year":1850,
+        "Film":"Adventures of the Future",
+        "Role":"Explorer",
+        "Notes":"Using a digital tablet in the 19th century"
+    },
+    {
+        "Year":1993,
+        "Film":"Speed of Light",
+        "Role":"Fastest Man",
+        "Notes":"Travels at 300,000 km/s"
+    },
+    {
+        "Year":2000,
+        "Film":"Discount Dilemma",
+        "Role":"Shopper",
+        "Notes":"Received a 150% discount"
+    }
+]

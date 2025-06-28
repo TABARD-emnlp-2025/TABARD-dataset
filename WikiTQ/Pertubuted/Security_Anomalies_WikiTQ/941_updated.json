@@ -1,0 +1,114 @@
+[
+    {
+        "#":21,
+        "Date":"December 2, 1976",
+        "Visitor":"San Antonio Spurs",
+        "Score":"116-124",
+        "Home":"Golden State Warriors",
+        "Record":"11-10"
+    },
+    {
+        "#":22,
+        "Date":"December 3, 1976",
+        "Visitor":"San Antonio Spurs",
+        "Score":"@@@_105-114",
+        "Home":"Los Angeles Lakers",
+        "Record":"11-11"
+    },
+    {
+        "#":23,
+        "Date":"December 5, 1976",
+        "Visitor":"San Antonio Spurs",
+        "Score":"@@@_98-103",
+        "Home":"Phoenix Suns",
+        "Record":"11-12"
+    },
+    {
+        "#":24,
+        "Date":"December 8, 1976",
+        "Visitor":"Atlanta Hawks",
+        "Score":"@@@_117-106",
+        "Home":"San Antonio Spurs",
+        "Record":"11-13"
+    },
+    {
+        "#":25,
+        "Date":"December 10, 1976",
+        "Visitor":"San Antonio Spurs",
+        "Score":"@@@_136-120",
+        "Home":"Milwaukee Bucks",
+        "Record":"@@@_12-13"
+    },
+    {
+        "#":26,
+        "Date":"December 11, 1976",
+        "Visitor":"New Orleans Jazz",
+        "Score":"@@@_106-121",
+        "Home":"San Antonio Spurs",
+        "Record":"13-13"
+    },
+    {
+        "#":27,
+        "Date":"December 14, 1976",
+        "Visitor":"New York Knicks",
+        "Score":"@@@_98-111",
+        "Home":"San Antonio Spurs",
+        "Record":"@@@_14-13"
+    },
+    {
+        "#":28,
+        "Date":"December 15, 1976",
+        "Visitor":"San Antonio Spurs",
+        "Score":"@@@_102-116",
+        "Home":"Indiana Pacers",
+        "Record":"@@@_14-14"
+    },
+    {
+        "#":29,
+        "Date":"December 17, 1976",
+        "Visitor":"San Antonio Spurs",
+        "Score":"@@@_101-103",
+        "Home":"Chicago Bulls",
+        "Record":"14-15"
+    },
+    {
+        "#":30,
+        "Date":"December 19, 1976",
+        "Visitor":"San Antonio Spurs",
+        "Score":"@@@_105-106",
+        "Home":"Cleveland Cavaliers",
+        "Record":"14-16"
+    },
+    {
+        "#":31,
+        "Date":"December 21, 1976",
+        "Visitor":"Golden State Warriors",
+        "Score":"@@@_123-120",
+        "Home":"San Antonio Spurs",
+        "Record":"15-16"
+    },
+    {
+        "#":32,
+        "Date":"December 23, 1976",
+        "Visitor":"Washington Bullets",
+        "Score":"@@@_000-000",
+        "Home":"San Antonio Spurs",
+        "Record":"@@@_16-16"
+    },
+    {
+        "#":33,
+        "Date":"December 26, 1976",
+        "Visitor":"San Antonio Spurs",
+        "Score":"@@@_110-105",
+        "Home":"Kansas City Kings",
+        "Record":"17-16"
+    },
+    {
+        "#":34,
+        "Date":"December 28, 1976",
+        "Visitor":"Philadelphia 76ers",
+        "Score":"@@@_116-127",
+        "Home":"San Antonio Spurs",
+        "Record":"@@@_N\/A"
+    }
+]

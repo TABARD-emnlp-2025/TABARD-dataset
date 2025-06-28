@@ -1,0 +1,164 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Scunthorpe United (loan)",
+        "Season":"1975–76",
+        "Division":"Fourth Division",
+        "League":1,
+        "FA Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Hull City",
+        "Season":"1972–73",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Hull City",
+        "Season":"1973–74",
+        "Division":"Second Division",
+        "League":1,
+        "FA Cup":0,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Hull City",
+        "Season":"1974–75",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Hull City",
+        "Season":"1975–76",
+        "Division":"Second Division",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Hull City",
+        "Season":"1976–77",
+        "Division":"Second Division",
+        "League":6,
+        "FA Cup":1,
+        "Other":0,
+        "Total":7
+    },
+    {
+        "Club":"Hull City",
+        "Season":"Total",
+        "Division":"Total",
+        "League":10,
+        "FA Cup":1,
+        "Other":0,
+        "Total":11
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1977–78",
+        "Division":"Third Division",
+        "League":5,
+        "FA Cup":0,
+        "Other":1,
+        "Total":6
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"1978–79",
+        "Division":"Fourth Division",
+        "League":14,
+        "FA Cup":2,
+        "Other":0,
+        "Total":16
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"1979–80",
+        "Division":"Fourth Division",
+        "League":13,
+        "FA Cup":1,
+        "Other":0,
+        "Total":14
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"1980–81",
+        "Division":"Third Division",
+        "League":2,
+        "FA Cup":0,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"1981–82",
+        "Division":"Third Division",
+        "League":10,
+        "FA Cup":2,
+        "Other":0,
+        "Total":12
+    },
+    {
+        "Club":"Portsmouth",
+        "Season":"Total",
+        "Division":"Total",
+        "League":39,
+        "FA Cup":5,
+        "Other":0,
+        "Total":"@@@_43"
+    },
+    {
+        "Club":"Cardiff City",
+        "Season":"1982–83",
+        "Division":"Third Division",
+        "League":22,
+        "FA Cup":2,
+        "Other":2,
+        "Total":26
+    },
+    {
+        "Club":"Cardiff City",
+        "Season":"1983–84",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Cardiff City",
+        "Season":"Total",
+        "Division":"Total",
+        "League":22,
+        "FA Cup":2,
+        "Other":2,
+        "Total":"@@@_25"
+    },
+    {
+        "Club":"Career Total",
+        "Season":"Career Total",
+        "Division":"Career Total",
+        "League":77,
+        "FA Cup":8,
+        "Other":3,
+        "Total":88
+    }
+]

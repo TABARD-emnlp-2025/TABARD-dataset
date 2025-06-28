@@ -1,0 +1,82 @@
+[
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"No",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"No",
+        "Cable diameter\n[mm (in)]":"No"
+    },
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"No",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"Yes",
+        "Cable diameter\n[mm (in)]":"No"
+    },
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"Yes",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"No",
+        "Cable diameter\n[mm (in)]":"No"
+    },
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"No",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"No",
+        "Cable diameter\n[mm (in)]":"No"
+    },
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"No",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"No",
+        "Cable diameter\n[mm (in)]":"No"
+    },
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"No",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"No",
+        "Cable diameter\n[mm (in)]":"No"
+    },
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"No",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"No",
+        "Cable diameter\n[mm (in)]":"No"
+    },
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"Yes",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"No",
+        "Cable diameter\n[mm (in)]":"No"
+    },
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"Yes",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"No",
+        "Cable diameter\n[mm (in)]":"No"
+    },
+    {
+        "Thread\nnominal size":"No",
+        "Outer diameter\n[mm (in)]":"No",
+        "Threads per inch\n(TPI)":"Yes",
+        "Pitch\n[in (mm)]":"No",
+        "Inner diameter\n[mm (in)]":"No",
+        "Cable diameter\n[mm (in)]":"No"
+    }
+]

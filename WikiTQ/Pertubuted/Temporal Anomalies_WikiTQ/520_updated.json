@@ -1,0 +1,182 @@
+[
+    {
+        "Outcome":"Runner-up",
+        "No.":1.0,
+        "Date":1973,
+        "Championship":"Baltimore, U.S.",
+        "Surface":"Hard (i)",
+        "Opponent":"Jimmy Connors",
+        "Score":"4\u20136, 5\u20137"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Date":1974,
+        "Championship":"Baltimore, U.S.",
+        "Surface":"Carpet",
+        "Opponent":"Clark Graebner",
+        "Score":"6\u20132, 6\u20131"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":2.0,
+        "Date":1974,
+        "Championship":"Birmingham, U.S.",
+        "Surface":"Carpet",
+        "Opponent":"Jimmy Connors",
+        "Score":"5\u20137, 3\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Date":1974,
+        "Championship":"Paramus, U.S.",
+        "Surface":"Indoor",
+        "Opponent":"J\u00fcrgen Fassbender",
+        "Score":"6\u20131, 6\u20133"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Date":1974,
+        "Championship":"Jackson, U.S.",
+        "Surface":"Carpet",
+        "Opponent":"Karl Meiler",
+        "Score":"7\u20136, 7\u20135"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":3.0,
+        "Date":1975,
+        "Championship":"Maui, U.S.",
+        "Surface":"Hard",
+        "Opponent":"Jimmy Connors",
+        "Score":"1\u20136, 0\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":4.0,
+        "Date":1975,
+        "Championship":"Hong Kong",
+        "Surface":"Hard",
+        "Opponent":"Tom Gorman",
+        "Score":"3\u20136, 1\u20136, 1\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":4.0,
+        "Date":1977,
+        "Championship":"Little Rock, U.S.",
+        "Surface":"Carpet",
+        "Opponent":"Haroon Rahim",
+        "Score":"6\u20132, 6\u20134"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":5.0,
+        "Date":"@@@_1978",
+        "Championship":"San Jose, U.S.",
+        "Surface":"Hard",
+        "Opponent":"Ji\u0159\u00ed H\u0159ebec",
+        "Score":"6\u20133, 4\u20136, 5\u20137"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":5.0,
+        "Date":1977,
+        "Championship":"Hampton, U.S.",
+        "Surface":"Carpet",
+        "Opponent":"Stan Smith",
+        "Score":"4\u20136, 6\u20133, 6\u20132, 1\u20136, 6\u20133"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":6.0,
+        "Date":1977,
+        "Championship":"Stockholm, Sweden",
+        "Surface":"Hard (i)",
+        "Opponent":"Raymond Moore",
+        "Score":"6\u20132, 6\u20134"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":7.0,
+        "Date":1978,
+        "Championship":"St. Louis WCT, U.S.",
+        "Surface":"Carpet",
+        "Opponent":"Eddie Dibbs",
+        "Score":"7\u20136, 6\u20134"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":6.0,
+        "Date":1980,
+        "Championship":"Surbiton, England",
+        "Surface":"Grass",
+        "Opponent":"Brian Gottfried",
+        "Score":"3\u20136, 3\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":7.0,
+        "Date":1981,
+        "Championship":"Los Angeles, U.S.",
+        "Surface":"Hard",
+        "Opponent":"John McEnroe",
+        "Score":"7\u20136, 3\u20136, 3\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":8.0,
+        "Date":1981,
+        "Championship":"Cologne, Germany",
+        "Surface":"Hard (i)",
+        "Opponent":"Ivan Lendl",
+        "Score":"3\u20136, 3\u20136"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":9.0,
+        "Date":1981,
+        "Championship":"Stockholm, Sweden",
+        "Surface":"Hard (i)",
+        "Opponent":"Gene Mayer",
+        "Score":"4\u20136, 2\u20136"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":8.0,
+        "Date":1981,
+        "Championship":"Bologna, Italy",
+        "Surface":"Carpet",
+        "Opponent":"Ilie N\u0103stase",
+        "Score":"7\u20135, 6\u20133"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":10.0,
+        "Date":1982,
+        "Championship":"Stuttgart Outdoor, Germany",
+        "Surface":"Clay",
+        "Opponent":"Ramesh Krishnan",
+        "Score":"7\u20135, 3\u20136, 3\u20136, 6\u20137"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":9.0,
+        "Date":"@@@_1983",
+        "Championship":"Cleveland, U.S.",
+        "Surface":"Hard",
+        "Opponent":"Robert Van't Hof",
+        "Score":"7\u20135, 6\u20133"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":10.0,
+        "Date":"@@@_1980",
+        "Championship":"Gstaad, Switzerland",
+        "Surface":"Clay",
+        "Opponent":"Tom\u00e1\u0161 \u0160m\u00edd",
+        "Score":"6\u20130, 6\u20133, 6\u20132"
+    }
+]

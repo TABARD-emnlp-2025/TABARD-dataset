@@ -1,0 +1,66 @@
+[
+  {
+    "Rank": 1.0,
+    "Lane": 5,
+    "Name": "Eskender Mustafaiev",
+    "Nationality": "@@@_None",
+    "Time": "38.77",
+    "Notes": "Q"
+  },
+  {
+    "Rank": "@@@_134.7557277703",
+    "Lane": 4,
+    "Name": "David Smetanine",
+    "Nationality": "France",
+    "Time": "38.97",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 3.0,
+    "Lane": "@@@_-4",
+    "Name": "Kyunghyun Kim",
+    "Nationality": "South Korea",
+    "Time": "40.37",
+    "Notes": "Q"
+  },
+  {
+    "Rank": 4.0,
+    "Lane": 6,
+    "Name": "Christoffer Lindhe",
+    "Nationality": "Sweden",
+    "Time": "41.52",
+    "Notes": "Q"
+  },
+  {
+    "Rank": "@@@_None",
+    "Lane": 7,
+    "Name": "Arnost Petracek",
+    "Nationality": "Czech Republic",
+    "Time": "43.12",
+    "Notes": null
+  },
+  {
+    "Rank": 6.0,
+    "Lane": 2,
+    "Name": "Ronystony Cordeiro da Silva",
+    "Nationality": "Brazil",
+    "Time": "44.22",
+    "Notes": null
+  },
+  {
+    "Rank": 7.0,
+    "Lane": 8,
+    "Name": "Grant Patterson",
+    "Nationality": "Australia",
+    "Time": "55.49",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_57.1298093066",
+    "Lane": 1,
+    "Name": "Arnulfo Castorena",
+    "Nationality": "Mexico",
+    "Time": "1:03.49",
+    "Notes": null
+  }
+]

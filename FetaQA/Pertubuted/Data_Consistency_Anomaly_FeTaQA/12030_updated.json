@@ -1,0 +1,44 @@
+[
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Musical Revival",
+        "Nominee":"Best Musical Revival",
+        "Result":"@@@_nominated"
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Performance in a Supporting Role in a Musical",
+        "Nominee":"Leigh Zimmerman",
+        "Result":"Won"
+    },
+    {
+        "Year":2013,
+        "Award":"LAURENCE OLIVIER AWARD",
+        "Category":"Best Musical Revival",
+        "Nominee":"Best Musical Revival",
+        "Result":"Nominated"
+    },
+    {
+        "Year":"Two Thousand Thirteen",
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Performance in a Supporting Role in a Musical",
+        "Nominee":"Leigh Zimmerman",
+        "Result":"Won"
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Musical Revival",
+        "Nominee":"",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2013,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Performance in a Supporting Role in a Musical",
+        "Nominee":"Leigh Zimmerman",
+        "Result":"won"
+    }
+]

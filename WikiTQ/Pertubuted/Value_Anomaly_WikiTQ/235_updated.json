@@ -1,0 +1,122 @@
+[
+  {
+    "Season": "1999",
+    "Team": "Djurgårdens IF",
+    "Country": "Sweden",
+    "Competition": "Allsvenskan",
+    "Matches": 15,
+    "Goals": 1.0
+  },
+  {
+    "Season": "2000",
+    "Team": "Djurgårdens IF",
+    "Country": "Sweden",
+    "Competition": "Superettan",
+    "Matches": 15,
+    "Goals": 3.0
+  },
+  {
+    "Season": "2001",
+    "Team": "Djurgårdens IF",
+    "Country": "Sweden",
+    "Competition": "Allsvenskan",
+    "Matches": 22,
+    "Goals": 7.0
+  },
+  {
+    "Season": "2002–2003",
+    "Team": "Grazer AK",
+    "Country": "Austria",
+    "Competition": "Bundesliga",
+    "Matches": 24,
+    "Goals": 6.0
+  },
+  {
+    "Season": "2003",
+    "Team": "Denizlispor",
+    "Country": "Turkey",
+    "Competition": "Süper Lig",
+    "Matches": 3,
+    "Goals": 0.0
+  },
+  {
+    "Season": "2003",
+    "Team": "Landskrona BoIS",
+    "Country": "Sweden",
+    "Competition": "Allsvenskan",
+    "Matches": 11,
+    "Goals": 3.0
+  },
+  {
+    "Season": "2004",
+    "Team": "Landskrona BoIS",
+    "Country": "Sweden",
+    "Competition": "Allsvenskan",
+    "Matches": 22,
+    "Goals": 4.0
+  },
+  {
+    "Season": "2005",
+    "Team": "@@@_None",
+    "Country": "Sweden",
+    "Competition": "Allsvenskan",
+    "Matches": 24,
+    "Goals": "@@@_-14.0"
+  },
+  {
+    "Season": "2006",
+    "Team": "Djurgårdens IF",
+    "Country": "Sweden",
+    "Competition": "Allsvenskan",
+    "Matches": 17,
+    "Goals": 6.0
+  },
+  {
+    "Season": "2007",
+    "Team": "Djurgårdens IF",
+    "Country": "Sweden",
+    "Competition": "Allsvenskan",
+    "Matches": 23,
+    "Goals": 4.0
+  },
+  {
+    "Season": "2008",
+    "Team": "@@@_None",
+    "Country": "Sweden",
+    "Competition": "Allsvenskan",
+    "Matches": 29,
+    "Goals": 6.0
+  },
+  {
+    "Season": "2008–09",
+    "Team": "Esbjerg fB",
+    "Country": "Denmark",
+    "Competition": "Superliga",
+    "Matches": 6,
+    "Goals": 0.0
+  },
+  {
+    "Season": "2010",
+    "Team": "AaB",
+    "Country": "Denmark",
+    "Competition": "Superliga",
+    "Matches": 3,
+    "Goals": "@@@_None"
+  },
+  {
+    "Season": "2011",
+    "Team": "Assyriska FF",
+    "Country": "Sweden",
+    "Competition": "Superettan",
+    "Matches": 19,
+    "Goals": "@@@_106.0"
+  },
+  {
+    "Season": "Total",
+    "Team": "Total",
+    "Country": "Total",
+    "Competition": "Total",
+    "Matches": 233,
+    "Goals": 58.0
+  }
+]

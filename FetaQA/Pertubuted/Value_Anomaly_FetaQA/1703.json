@@ -1,0 +1,173 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1959\u201360",
+        "Division":"Third Division",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1960\u201361",
+        "Division":"Third Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Bournemouth & Boscombe Athletic",
+        "Season":"1961\u201362",
+        "Division":"Third Division",
+        "League":13,
+        "FA Cup":0,
+        "Other":0,
+        "Total":13
+    },
+    {
+        "Club":"Bournemouth & Boscombe Athletic",
+        "Season":"1962\u201363",
+        "Division":"Third Division",
+        "League":4,
+        "FA Cup":0,
+        "Other":0,
+        "Total":4
+    },
+    {
+        "Club":"Bournemouth & Boscombe Athletic",
+        "Season":"1963\u201364",
+        "Division":"Third Division",
+        "League":5,
+        "FA Cup":0,
+        "Other":0,
+        "Total":5
+    },
+    {
+        "Club":"Bournemouth & Boscombe Athletic",
+        "Season":"1964\u201365",
+        "Division":"Third Division",
+        "League":11,
+        "FA Cup":0,
+        "Other":0,
+        "Total":11
+    },
+    {
+        "Club":"Bournemouth & Boscombe Athletic",
+        "Season":"1965\u201366",
+        "Division":"Third Division",
+        "League":4,
+        "FA Cup":2,
+        "Other":1,
+        "Total":7
+    },
+    {
+        "Club":"Bournemouth & Boscombe Athletic",
+        "Season":"Total",
+        "Division":"Total",
+        "League":37,
+        "FA Cup":2,
+        "Other":1,
+        "Total":40
+    },
+    {
+        "Club":"Huddersfield Town (loan)",
+        "Season":"1967\u201368",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Crewe Alexandra",
+        "Season":"1966\u201367",
+        "Division":"Fourth Division",
+        "League":6,
+        "FA Cup":0,
+        "Other":0,
+        "Total":6
+    },
+    {
+        "Club":"Crewe Alexandra",
+        "Season":"1967\u201368",
+        "Division":"Fourth Division",
+        "League":10,
+        "FA Cup":1,
+        "Other":1,
+        "Total":12
+    },
+    {
+        "Club":"Crewe Alexandra",
+        "Season":"Total",
+        "Division":"Total",
+        "League":16,
+        "FA Cup":1,
+        "Other":1,
+        "Total":18
+    },
+    {
+        "Club":"Chesterfield",
+        "Season":"1969\u201370",
+        "Division":"Fourth Division",
+        "League":12,
+        "FA Cup":0,
+        "Other":1,
+        "Total":13
+    },
+    {
+        "Club":"Chesterfield",
+        "Season":"1970\u201371",
+        "Division":"Third Division",
+        "League":6,
+        "FA Cup":0,
+        "Other":0,
+        "Total":6
+    },
+    {
+        "Club":"Chesterfield",
+        "Season":"1971\u201372",
+        "Division":"Third Division",
+        "League":6,
+        "FA Cup":0,
+        "Other":1,
+        "Total":7
+    },
+    {
+        "Club":"Chesterfield",
+        "Season":"Total",
+        "Division":"Total",
+        "League":24,
+        "FA Cup":0,
+        "Other":2,
+        "Total":26
+    },
+    {
+        "Club":"Career Total",
+        "Season":"Career Total",
+        "Division":"Career Total",
+        "League":80,
+        "FA Cup":3,
+        "Other":4,
+        "Total":87
+    }
+]

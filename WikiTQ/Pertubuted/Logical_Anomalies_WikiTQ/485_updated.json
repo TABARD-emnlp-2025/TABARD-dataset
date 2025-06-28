@@ -1,0 +1,66 @@
+[
+    {
+        "Nr.":1,
+        "Name":"Alexandria",
+        "Area (km\u00b2)":"2,900",
+        "Population (2006)":"4,110,015",
+        "Capital":"Alexandria",
+        "Club(s)":"Al Itthad Al Sakandary - El-Olympi - Haras El Hodood"
+    },
+    {
+        "Nr.":2,
+        "Name":"Asyut",
+        "Area (km\u00b2)":"25,926",
+        "Population (2006)":"3,441,597",
+        "Capital":"Asyut",
+        "Club(s)":"Petrol Asyout"
+    },
+    {
+        "Nr.":3,
+        "Name":"Cairo",
+        "Area (km\u00b2)":"3,435",
+        "Population (2006)":"7,786,640",
+        "Capital":"Cairo",
+        "Club(s)":"Al-Ahly - Al Mokawloon - ENPPI - El-Jaish - El-Shorta - Itesalat"
+    },
+    {
+        "Nr.":4,
+        "Name":"Gharbia",
+        "Area (km\u00b2)":"25,400",
+        "Population (2006)":"3,790,670",
+        "Capital":"Tanta",
+        "Club(s)":"Ghazl El-Mehalla"
+    },
+    {
+        "Nr.":5,
+        "Name":"Giza",
+        "Area (km\u00b2)":"85,153",
+        "Population (2006)":"6,272,571",
+        "Capital":"Giza",
+        "Club(s)":"Zamalek- Tersana"
+    },
+    {
+        "Nr.":6,
+        "Name":"Ismailia",
+        "Area (km\u00b2)":"1,442",
+        "Population (2006)":"942,832",
+        "Capital":"Ismailia",
+        "Club(s)":"Ismaily"
+    },
+    {
+        "Nr.":7,
+        "Name":"Port Said",
+        "Area (km\u00b2)":"72",
+        "Population (2006)":"570,768",
+        "Capital":"Port Said",
+        "Club(s)":"Al Masry"
+    },
+    {
+        "Nr.":"@@@_8",
+        "Name":"Suez",
+        "Area (km\u00b2)":"@@@_-17,840",
+        "Population (2006)":"510,935",
+        "Capital":"Suez",
+        "Club(s)":"Petrojet"
+    }
+]

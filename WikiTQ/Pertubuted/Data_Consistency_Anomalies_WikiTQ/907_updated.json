@@ -1,0 +1,93 @@
+[
+    {
+        "Lift Name":"Bruno",
+        "Type":"fixed double",
+        "Top\nelevation\n(ft)":"5,885",
+        "Bottom\nelevation":"5,840",
+        "Vertical\nrise":"45",
+        "Length\n(ft)":"368",
+        "Slope\n(%)":"12%",
+        "Capacity\n(rides\/hr)":"630",
+        "Speed\n(ft\/min)":300,
+        "Lift\nManufacturer":"@@@_poma",
+        "Year\ninstalled":1987
+    },
+    {
+        "Lift Name":"Molly's Express",
+        "Type":"detach quad",
+        "Top\nelevation\n(ft)":"5,835",
+        "Bottom\nelevation":"4,990",
+        "Vertical\nrise":"845",
+        "Length\n(ft)":"5,244",
+        "Slope\n(%)":"16%",
+        "Capacity\n(rides\/hr)":"1200",
+        "Speed\n(ft\/min)":1000,
+        "Lift\nManufacturer":"Doppelmayr",
+        "Year\ninstalled":2000
+    },
+    {
+        "Lift Name":"Pucci",
+        "Type":"fixed triple",
+        "Top\nelevation\n(ft)":"@@@_5,920 ft",
+        "Bottom\nelevation":"5,350",
+        "Vertical\nrise":"570",
+        "Length\n(ft)":"3,398",
+        "Slope\n(%)":"17%",
+        "Capacity\n(rides\/hr)":"1,330",
+        "Speed\n(ft\/min)":450,
+        "Lift\nManufacturer":"Poma",
+        "Year\ninstalled":1987
+    },
+    {
+        "Lift Name":"Stormin' Norman",
+        "Type":"detach quad",
+        "Top\nelevation\n(ft)":"6,245",
+        "Bottom\nelevation":"5,460",
+        "Vertical\nrise":"785",
+        "Length\n(ft)":"4,396",
+        "Slope\n(%)":"18%",
+        "Capacity\n(rides\/hr)":"1500",
+        "Speed\n(ft\/min)":1000,
+        "Lift\nManufacturer":"Doppelmayr",
+        "Year\ninstalled":2000
+    },
+    {
+        "Lift Name":"Magic Mile Express",
+        "Type":"detach quad",
+        "Top\nelevation\n(ft)":"6,990",
+        "Bottom\nelevation":"5,915",
+        "Vertical\nrise":"1,075",
+        "Length\n(ft)":"5,359",
+        "Slope\n(%)":"20%",
+        "Capacity\n(rides\/hr)":"1600",
+        "Speed\n(ft\/min)":950,
+        "Lift\nManufacturer":"Poma",
+        "Year\ninstalled":1992
+    },
+    {
+        "Lift Name":"Palmer Express",
+        "Type":"detach quad",
+        "Top\nelevation\n(ft)":"8,470",
+        "Bottom\nelevation":"6,940",
+        "Vertical\nrise":"1,530",
+        "Length\n(ft)":"5,468",
+        "Slope\n(%)":"29%",
+        "Capacity\n(rides\/hr)":"1800",
+        "Speed\n(ft\/min)":"@@@_950",
+        "Lift\nManufacturer":"Doppelmayr",
+        "Year\ninstalled":1996
+    },
+    {
+        "Lift Name":"Jeff Flood Express (Still Creek Basin)",
+        "Type":"detach quad",
+        "Top\nelevation\n(ft)":"6,020",
+        "Bottom\nelevation":"4,850",
+        "Vertical\nrise":"1,170",
+        "Length\n(ft)":"6,506",
+        "Slope\n(%)":"18%",
+        "Capacity\n(rides\/hr)":"@@@_",
+        "Speed\n(ft\/min)":1000,
+        "Lift\nManufacturer":"Doppelmayr",
+        "Year\ninstalled":2007
+    }
+]

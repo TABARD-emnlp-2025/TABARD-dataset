@@ -1,0 +1,56 @@
+[
+    {
+        "Team": "yes",
+        "Competition": "no",
+        "Category": "no",
+        "Appearances\nStart": "no",
+        "Appearances\nSub": "no",
+        "Goals": "no",
+        "Team Record": "no"
+    },
+    {
+        "Team": "no",
+        "Competition": "no",
+        "Category": "no",
+        "Appearances\nStart": "no",
+        "Appearances\nSub": "no",
+        "Goals": "no",
+        "Team Record": "yes"
+    },
+    {
+        "Team": "no",
+        "Competition": "no",
+        "Category": "no",
+        "Appearances\nStart": "no",
+        "Appearances\nSub": "no",
+        "Goals": "no",
+        "Team Record": "no"
+    },
+    {
+        "Team": "no",
+        "Competition": "no",
+        "Category": "yes",
+        "Appearances\nStart": "no",
+        "Appearances\nSub": "no",
+        "Goals": "no",
+        "Team Record": "no"
+    },
+    {
+        "Team": "no",
+        "Competition": "no",
+        "Category": "no",
+        "Appearances\nStart": "no",
+        "Appearances\nSub": "no",
+        "Goals": "no",
+        "Team Record": "no"
+    },
+    {
+        "Team": "no",
+        "Competition": "no",
+        "Category": "yes",
+        "Appearances\nStart": "no",
+        "Appearances\nSub": "no",
+        "Goals": "no",
+        "Team Record": "no"
+    }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "Year": "@@@_45055",
+    "Tournament": "World Championships",
+    "Venue": "Stuttgart, Germany",
+    "Result": "7911",
+    "Rank": "12th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 1993,
+    "Tournament": "Universiade",
+    "Venue": "Buffalo, United States",
+    "Result": "7864",
+    "Rank": "2nd",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": "@@@_-4437",
+    "Tournament": "European Indoor Championships",
+    "Venue": "Paris, France",
+    "Result": "5888",
+    "Rank": "7th",
+    "Event": "Heptathlon"
+  },
+  {
+    "Year": 1994,
+    "Tournament": "Hypo-Meeting",
+    "Venue": "Götzis, Austria",
+    "Result": "7779",
+    "Rank": "18th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 1994,
+    "Tournament": "European Championships",
+    "Venue": "Helsinki, Finland",
+    "Result": "7272",
+    "Rank": "20th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 1995,
+    "Tournament": "Hypo-Meeting",
+    "Venue": "Götzis, Austria",
+    "Result": "8041",
+    "Rank": "12th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 1995,
+    "Tournament": "Universiade",
+    "Venue": "Fukuoka, Japan",
+    "Result": "@@@_None",
+    "Rank": "5th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 1995,
+    "Tournament": "World Championships",
+    "Venue": "Gothenburg, Sweden",
+    "Result": "8042",
+    "Rank": "11th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 1996,
+    "Tournament": "Olympic Games",
+    "Venue": "Atlanta, USA",
+    "Result": null,
+    "Rank": "DNF",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 1997,
+    "Tournament": "World Championships",
+    "Venue": "Athens, Greece",
+    "Result": "8140",
+    "Rank": "11th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 1998,
+    "Tournament": "European Indoor Championships",
+    "Venue": "Valencia, Spain",
+    "Result": "6055 (PB)",
+    "Rank": "7th",
+    "Event": "Heptathlon"
+  },
+  {
+    "Year": 1998,
+    "Tournament": "Hypo-Meeting",
+    "Venue": "Götzis, Austria",
+    "Result": "8179 (PB)",
+    "Rank": "9th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 1999,
+    "Tournament": "Hypo-Meeting",
+    "Venue": "Götzis, Austria",
+    "Result": "7925",
+    "Rank": "10th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": "@@@_-1996",
+    "Tournament": "World Championships",
+    "Venue": "Seville, Spain",
+    "Result": "7851",
+    "Rank": "12th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 2000,
+    "Tournament": "Hypo-Meeting",
+    "Venue": "Götzis, Austria",
+    "Result": "7876",
+    "Rank": "16th",
+    "Event": "Decathlon"
+  },
+  {
+    "Year": 2000,
+    "Tournament": "Olympic Games",
+    "Venue": "Sydney, Australia",
+    "Result": "7932",
+    "Rank": "17th",
+    "Event": "Decathlon"
+  }
+]

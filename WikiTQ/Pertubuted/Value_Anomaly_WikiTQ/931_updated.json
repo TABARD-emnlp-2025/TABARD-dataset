@@ -1,0 +1,122 @@
+[
+  {
+    "Hand": null,
+    "Auto": 10.26,
+    "Wind": 2.3,
+    "Athlete": "Troy Douglas",
+    "Nationality": "Netherlands",
+    "Birthdate": "30.11.1962",
+    "Location": "Utrecht",
+    "Date": "10.07.2004"
+  },
+  {
+    "Hand": null,
+    "Auto": 10.29,
+    "Wind": "@@@_-1.65",
+    "Athlete": "Troy Douglas",
+    "Nationality": "Netherlands",
+    "Birthdate": "30.11.1962",
+    "Location": "Leiden",
+    "Date": "07.06.2003"
+  },
+  {
+    "Hand": null,
+    "Auto": 10.6,
+    "Wind": null,
+    "Athlete": "Bill Collins",
+    "Nationality": "United States",
+    "Birthdate": "20.11.1950",
+    "Location": null,
+    "Date": "06.06.1992"
+  },
+  {
+    "Hand": null,
+    "Auto": 10.84,
+    "Wind": 1.8,
+    "Athlete": "Erik Oostweegel",
+    "Nationality": "Netherlands",
+    "Birthdate": "29.04.1960",
+    "Location": "Tilburg",
+    "Date": "10.06.2000"
+  },
+  {
+    "Hand": "@@@_None",
+    "Auto": 10.87,
+    "Wind": "@@@_-0.7625",
+    "Athlete": "Eddie Hart",
+    "Nationality": "United States",
+    "Birthdate": "24.04.1949",
+    "Location": "Eugene",
+    "Date": "03.08.1989"
+  },
+  {
+    "Hand": null,
+    "Auto": 10.9,
+    "Wind": null,
+    "Athlete": "Thaddeus Bell",
+    "Nationality": "United States",
+    "Birthdate": "28.11.1942",
+    "Location": "Raleigh",
+    "Date": "01.05.1988"
+  },
+  {
+    "Hand": null,
+    "Auto": 10.93,
+    "Wind": 0.6,
+    "Athlete": "Gilles Echevin",
+    "Nationality": "France",
+    "Birthdate": "01.09.1948",
+    "Location": "Grenoble",
+    "Date": "07.05.1989"
+  },
+  {
+    "Hand": "@@@_-10.7",
+    "Auto": null,
+    "Wind": "@@@_None",
+    "Athlete": "Klaus Jürgen Schneider",
+    "Nationality": "Germany",
+    "Birthdate": "02.03.1942",
+    "Location": "Stuttgart",
+    "Date": "07.07.1982"
+  },
+  {
+    "Hand": 10.7,
+    "Auto": null,
+    "Wind": null,
+    "Athlete": "Walt Butler",
+    "Nationality": "United States",
+    "Birthdate": "21.03.1941",
+    "Location": "Northridge",
+    "Date": "16.05.1981"
+  },
+  {
+    "Hand": 10.7,
+    "Auto": null,
+    "Wind": null,
+    "Athlete": "Thane Baker",
+    "Nationality": "United States",
+    "Birthdate": "04.10.1931",
+    "Location": "Elkhart",
+    "Date": "13.09.1972"
+  },
+  {
+    "Hand": null,
+    "Auto": 10.95,
+    "Wind": null,
+    "Athlete": "George McNeill",
+    "Nationality": "United Kingdom",
+    "Birthdate": "19.02.1947",
+    "Location": "Melbourne",
+    "Date": "31.11.1987"
+  },
+  {
+    "Hand": null,
+    "Auto": 10.95,
+    "Wind": null,
+    "Athlete": "Karl Heinz Schröder",
+    "Nationality": "Germany",
+    "Birthdate": "17.06.1939",
+    "Location": "Hannover",
+    "Date": "28.07.1979"
+  }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "Year":2001,
+        "Division":2,
+        "League":"USL A-League",
+        "Regular Season":"4th, Western",
+        "Playoffs":"Quarterfinals",
+        "Open Cup":"Did not qualify",
+        "Avg. Attendance":"None"
+    },
+    {
+        "Year":2002,
+        "Division":2,
+        "League":"USL A-League",
+        "Regular Season":"2nd, Pacific",
+        "Playoffs":"1st Round",
+        "Open Cup":"Did not qualify",
+        "Avg. Attendance":"6,260"
+    },
+    {
+        "Year":2003,
+        "Division":2,
+        "League":"USL A-League",
+        "Regular Season":"3rd, Pacific",
+        "Playoffs":"Did not qualify",
+        "Open Cup":"Did not qualify",
+        "Avg. Attendance":"5,871"
+    },
+    {
+        "Year":2004,
+        "Division":2,
+        "League":"USL A-League",
+        "Regular Season":"1st, Western",
+        "Playoffs":"Quarterfinals",
+        "Open Cup":"4th Round",
+        "Avg. Attendance":"5,628"
+    },
+    {
+        "Year":2005,
+        "Division":2,
+        "League":"USL First Division",
+        "Regular Season":"5th",
+        "Playoffs":"Quarterfinals",
+        "Open Cup":"4th Round",
+        "Avg. Attendance":"6,028"
+    },
+    {
+        "Year":2006,
+        "Division":2,
+        "League":"USL First Division",
+        "Regular Season":"11th",
+        "Playoffs":"Did not qualify",
+        "Open Cup":"3rd Round",
+        "Avg. Attendance":"5,575"
+    },
+    {
+        "Year":2007,
+        "Division":2,
+        "League":"USL First Division",
+        "Regular Season":"2nd",
+        "Playoffs":"Semifinals",
+        "Open Cup":"2nd Round",
+        "Avg. Attendance":"6,851"
+    },
+    {
+        "Year":2008,
+        "Division":2,
+        "League":"USL First Division",
+        "Regular Season":"11th",
+        "Playoffs":"Did not qualify",
+        "Open Cup":"1st Round",
+        "Avg. Attendance":"1234-5678-9123-4567"
+    },
+    {
+        "Year":2009,
+        "Division":2,
+        "League":"USL First Division",
+        "Regular Season":"1st",
+        "Playoffs":"Semifinals",
+        "Open Cup":"3rd Round",
+        "Avg. Attendance":"9,734"
+    },
+    {
+        "Year":2010,
+        "Division":2,
+        "League":"USSF D-2 Pro League",
+        "Regular Season":"3rd, USL (3rd)",
+        "Playoffs":"Quarterfinals",
+        "Open Cup":"3rd Round",
+        "Avg. Attendance":"10,727"
+    }
+]

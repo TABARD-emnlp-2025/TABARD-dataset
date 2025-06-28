@@ -1,0 +1,82 @@
+[
+    {
+        "Rank":1,
+        "Nation":"Soviet Union",
+        "Gold":50,
+        "Silver":"@@@_27, 27",
+        "Bronze":22,
+        "Total":99
+    },
+    {
+        "Rank":2,
+        "Nation":"United States",
+        "Gold":33,
+        "Silver":31,
+        "Bronze":30,
+        "Total":94
+    },
+    {
+        "Rank":3,
+        "Nation":"East Germany (GDR)",
+        "Gold":20,
+        "Silver":23,
+        "Bronze":23,
+        "Total":"@@@_68"
+    },
+    {
+        "Rank":4,
+        "Nation":"West Germany (FRG)",
+        "Gold":13,
+        "Silver":11,
+        "Bronze":16,
+        "Total":40
+    },
+    {
+        "Rank":5,
+        "Nation":"Japan",
+        "Gold":13,
+        "Silver":8,
+        "Bronze":8,
+        "Total":"@@@_28"
+    },
+    {
+        "Rank":6,
+        "Nation":"Australia",
+        "Gold":8,
+        "Silver":7,
+        "Bronze":2,
+        "Total":17
+    },
+    {
+        "Rank":7,
+        "Nation":"Poland",
+        "Gold":7,
+        "Silver":5,
+        "Bronze":9,
+        "Total":21
+    },
+    {
+        "Rank":8,
+        "Nation":"Hungary",
+        "Gold":6,
+        "Silver":"@@@_13, 13, 13",
+        "Bronze":16,
+        "Total":35
+    },
+    {
+        "Rank":9,
+        "Nation":"Bulgaria",
+        "Gold":6,
+        "Silver":10,
+        "Bronze":5,
+        "Total":"@@@_24"
+    },
+    {
+        "Rank":10,
+        "Nation":"Italy",
+        "Gold":"@@@_5, 5",
+        "Silver":3,
+        "Bronze":10,
+        "Total":18
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "Year": 2000,
+    "Winners": "Meath",
+    "Score": "5-14 (29)",
+    "Score.1": "2-10 (16)",
+    "Runners-up": "Carlow",
+    "Venue": "Cusack Park",
+    "Winning Captain": "@@@_None"
+  },
+  {
+    "Year": 2001,
+    "Winners": "Kerry",
+    "Score": "4-14 (22)",
+    "Score.1": "3-10 (19)",
+    "Runners-up": "Westmeath",
+    "Venue": "Croke Park",
+    "Winning Captain": "Michael 'Boxer' Slattery"
+  },
+  {
+    "Year": "@@@_76601",
+    "Winners": "Laois",
+    "Score": "1-20 (23)",
+    "Score.1": "2-14 (20)",
+    "Runners-up": "Antrim",
+    "Venue": "Semple Stadium",
+    "Winning Captain": "John Lyons"
+  },
+  {
+    "Year": 2003,
+    "Winners": "Antrim",
+    "Score": "3-18 (27)",
+    "Score.1": "3-12 (21)",
+    "Runners-up": "Kerry",
+    "Venue": "Croke Park",
+    "Winning Captain": null
+  },
+  {
+    "Year": 2004,
+    "Winners": "Down",
+    "Score": "5-15 (30)",
+    "Score.1": "3-7 (16)",
+    "Runners-up": "Westmeath",
+    "Venue": "Gaelic Grounds",
+    "Winning Captain": "Simon Wilson"
+  },
+  {
+    "Year": 2005,
+    "Winners": "Offaly",
+    "Score": "6-21 (39)",
+    "Score.1": "4-7 (19)",
+    "Runners-up": "Carlow",
+    "Venue": "Semple Stadium",
+    "Winning Captain": "Barry Teehan"
+  },
+  {
+    "Year": 2006,
+    "Winners": "Dublin",
+    "Score": "0-16 (16)",
+    "Score.1": "1-6 (9)",
+    "Runners-up": "Kerry",
+    "Venue": "Semple Stadium",
+    "Winning Captain": "Philip Brennan"
+  },
+  {
+    "Year": 2007,
+    "Winners": "Laois",
+    "Score": "2-19 (25)",
+    "Score.1": "0-8 (8)",
+    "Runners-up": "Wicklow",
+    "Venue": "Semple Stadium",
+    "Winning Captain": "Joe FitzPatrick"
+  },
+  {
+    "Year": 2008,
+    "Winners": "@@@_None",
+    "Score": "2-12 (18)",
+    "Score.1": "0-12 (12)",
+    "Runners-up": "Carlow",
+    "Venue": "Gaelic Grounds",
+    "Winning Captain": "Brendan Murtagh"
+  },
+  {
+    "Year": 2009,
+    "Winners": "Offaly",
+    "Score": "1-13 (16)",
+    "Score.1": "0-13 (13)",
+    "Runners-up": "Wexford",
+    "Venue": "Semple Stadium",
+    "Winning Captain": "Ger Oakley"
+  },
+  {
+    "Year": 2010,
+    "Winners": "Wexford",
+    "Score": "1-16 (19)",
+    "Score.1": "2-9 (15)",
+    "Runners-up": "Clare",
+    "Venue": "Semple Stadium",
+    "Winning Captain": "Diarmuid Lyng"
+  },
+  {
+    "Year": "@@@_114069",
+    "Winners": "Limerick",
+    "Score": "4-12 (24)",
+    "Score.1": "2-13 (19)",
+    "Runners-up": "Clare",
+    "Venue": "Cusack Park",
+    "Winning Captain": "Gavin O'Mahony"
+  },
+  {
+    "Year": 2012,
+    "Winners": "Clare",
+    "Score": "0-21 (21)",
+    "Score.1": "1-16 (19)",
+    "Runners-up": "Limerick",
+    "Venue": "Gaelic Grounds",
+    "Winning Captain": "Patrick Donnellan"
+  },
+  {
+    "Year": "@@@_29794",
+    "Winners": "Dublin",
+    "Score": "1-16 (19)",
+    "Score.1": "1-15 (18)",
+    "Runners-up": "Limerick",
+    "Venue": "Semple Stadium",
+    "Winning Captain": "TBC"
+  }
+]

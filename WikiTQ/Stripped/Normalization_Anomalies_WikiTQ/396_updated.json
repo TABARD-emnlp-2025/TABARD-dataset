@@ -1,0 +1,146 @@
+[
+    {
+        "Country":"United States",
+        "Masters":57,
+        "U.S. Open":80,
+        "The Open":42,
+        "PGA":79,
+        "Total":258
+    },
+    {
+        "Country":"Scotland",
+        "Masters":1,
+        "U.S. Open":12,
+        "The Open":41,
+        "PGA":0,
+        "Total":54
+    },
+    {
+        "Country":"England",
+        "Masters":3,
+        "U.S. Open":8,
+        "The Open":22,
+        "PGA":2,
+        "Total":35
+    },
+    {
+        "Country":"South Africa",
+        "Masters":5,
+        "U.S. Open":5,
+        "The Open":10,
+        "PGA":2,
+        "Total":22
+    },
+    {
+        "Country":"Australia",
+        "Masters":1,
+        "U.S. Open":2,
+        "The Open":9,
+        "PGA":4,
+        "Total":16
+    },
+    {
+        "Country":"Jersey",
+        "Masters":0,
+        "U.S. Open":2,
+        "The Open":7,
+        "PGA":0,
+        "Total":9
+    },
+    {
+        "Country":"Spain",
+        "Masters":4,
+        "U.S. Open":0,
+        "The Open":3,
+        "PGA":0,
+        "Total":7
+    },
+    {
+        "Country":"Northern Ireland",
+        "Masters":0,
+        "U.S. Open":2,
+        "The Open":2,
+        "PGA":1,
+        "Total":5
+    },
+    {
+        "Country":"Argentina",
+        "Masters":1,
+        "U.S. Open":1,
+        "The Open":"1, 0",
+        "PGA":0,
+        "Total":3
+    },
+    {
+        "Country":"Fiji",
+        "Masters":1,
+        "U.S. Open":0,
+        "The Open":0,
+        "PGA":2,
+        "Total":"4"
+    },
+    {
+        "Country":"Germany",
+        "Masters":2,
+        "U.S. Open":0,
+        "The Open":0,
+        "PGA":1,
+        "Total":3
+    },
+    {
+        "Country":"Ireland",
+        "Masters":0,
+        "U.S. Open":0,
+        "The Open":2,
+        "PGA":1,
+        "Total":"3, 0"
+    },
+    {
+        "Country":"Zimbabwe",
+        "Masters":0,
+        "U.S. Open":0,
+        "The Open":1,
+        "PGA":2,
+        "Total":3
+    },
+    {
+        "Country":"New Zealand",
+        "Masters":0,
+        "U.S. Open":1,
+        "The Open":1,
+        "PGA":0,
+        "Total":"3"
+    },
+    {
+        "Country":"Canada",
+        "Masters":1,
+        "U.S. Open":0,
+        "The Open":0,
+        "PGA":0,
+        "Total":1
+    },
+    {
+        "Country":"France",
+        "Masters":0,
+        "U.S. Open":0,
+        "The Open":1,
+        "PGA":0,
+        "Total":1
+    },
+    {
+        "Country":"South Korea",
+        "Masters":0,
+        "U.S. Open":0,
+        "The Open":0,
+        "PGA":1,
+        "Total":1
+    },
+    {
+        "Country":"Wales",
+        "Masters":1,
+        "U.S. Open":0,
+        "The Open":0,
+        "PGA":0,
+        "Total":"2"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "colspanParty":"Christian Social Party",
+        "Votes":"1,245,531",
+        "%":41.8,
+        "Seats":85,
+        "+/−":16
+    },
+    {
+        "colspanParty":"Social Democratic Party",
+        "Votes":"1,072,709",
+        "%":36.0,
+        "Seats":69,
+        "+/−":"−3"
+    },
+    {
+        "colspanParty":"Greater German People's Party",
+        "Votes":"390,013",
+        "%":13.1,
+        "Seats":21,
+        "+/−":"New"
+    },
+    {
+        "colspanParty":"Landbund",
+        "Votes":"124,114",
+        "%":4.2,
+        "Seats":7,
+        "+/−":"New"
+    },
+    {
+        "colspanParty":"Civic Workers' Party",
+        "Votes":"42,826",
+        "%":1.4,
+        "Seats":1,
+        "+/−":"New"
+    },
+    {
+        "colspanParty":"Democrats",
+        "Votes":"42,826",
+        "%":1.4,
+        "Seats":"3",
+        "+/−":0
+    },
+    {
+        "colspanParty":"Burgenland Citizens' and Farmers' Party",
+        "Votes":"42,826",
+        "%":"0.9",
+        "Seats":0,
+        "+/−":"New"
+    },
+    {
+        "colspanParty":"Communist Party of Austria",
+        "Votes":"27,386",
+        "%":0.9,
+        "Seats":0,
+        "+/−":"New"
+    },
+    {
+        "colspanParty":"Socialist and Democratic Czechoslovakians",
+        "Votes":"7,580",
+        "%":0.3,
+        "Seats":0,
+        "+/−":"−1"
+    },
+    {
+        "colspanParty":"Christian National Unity List",
+        "Votes":"70,169",
+        "%":2.4,
+        "Seats":"10",
+        "+/−":"New"
+    },
+    {
+        "colspanParty":"Jewish National Party",
+        "Votes":"70,169",
+        "%":2.4,
+        "Seats":0,
+        "+/−":"−1"
+    },
+    {
+        "colspanParty":"Carinthian Slovenes",
+        "Votes":"70,169",
+        "%":2.4,
+        "Seats":0,
+        "+/−":"New"
+    },
+    {
+        "colspanParty":"Invalid/blank votes",
+        "Votes":"31,455",
+        "%":"–",
+        "Seats":"–",
+        "+/−":"−"
+    },
+    {
+        "colspanParty":"Total",
+        "Votes":"3,011,783",
+        "%":100,
+        "Seats":"185",
+        "+/−":13
+    },
+    {
+        "colspanParty":"Source: Mackie & Rose, Nohlen & Stöver",
+        "Votes":"Source: Mackie & Rose, Nohlen & Stöver",
+        "%":"Source: Mackie & Rose, Nohlen & Stöver",
+        "Seats":"Source: Mackie & Rose, Nohlen & Stöver",
+        "+/−":"Source: Mackie & Rose, Nohlen & Stöver"
+    }
+]

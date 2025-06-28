@@ -1,0 +1,114 @@
+[
+    {
+        "Place":"Beatrix Mine",
+        "Code":40701,
+        "Area (km2)":"0.17",
+        "Population":"2,492",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Boipatong",
+        "Code":40702,
+        "Area (km2)":"0.31",
+        "Population":"1,501",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Brandfort",
+        "Code":40703,
+        "Area (km2)":"3.20",
+        "Population":"1,516",
+        "Most spoken language":"Afrikaans"
+    },
+    {
+        "Place":"Fora",
+        "Code":40704,
+        "Area (km2)":"0.05",
+        "Population":"530",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Ikgomotseng",
+        "Code":40705,
+        "Area (km2)":"1.07",
+        "Population":"2,254",
+        "Most spoken language":"Tswana"
+    },
+    {
+        "Place":"Joel Mine",
+        "Code":40706,
+        "Area (km2)":"0.11",
+        "Population":"728",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Lusaka",
+        "Code":40707,
+        "Area (km2)":"1.40",
+        "Population":"6,110",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Majwemasweu",
+        "Code":40708,
+        "Area (km2)":"2.50",
+        "Population":"10,328",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Makeleketla",
+        "Code":40709,
+        "Area (km2)":"1.35",
+        "Population":"6,629",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Masilo",
+        "Code":40710,
+        "Area (km2)":"3.02",
+        "Population":"14,903",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Star Diamond Mine",
+        "Code":40712,
+        "Area (km2)":"0.11",
+        "Population":"212",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Theunissen",
+        "Code":40713,
+        "Area (km2)":"15.11",
+        "Population":"1,667",
+        "Most spoken language":"Afrikaans"
+    },
+    {
+        "Place":"Tshepong",
+        "Code":40714,
+        "Area (km2)":"0.54",
+        "Population":"1,710",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Verkeerdevlei",
+        "Code":40715,
+        "Area (km2)":"1.22",
+        "Population":"151",
+        "Most spoken language":"Afrikaans"
+    },
+    {
+        "Place":"Winburg",
+        "Code":40716,
+        "Area (km2)":"70.22",
+        "Population":"3,371",
+        "Most spoken language":"Sotho"
+    },
+    {
+        "Place":"Remainder of the municipality",
+        "Code":40711,
+        "Area (km2)":"6,696.44",
+        "Population":"10,304",
+        "Most spoken language":"@@@_Alien Language"
+    }
+]

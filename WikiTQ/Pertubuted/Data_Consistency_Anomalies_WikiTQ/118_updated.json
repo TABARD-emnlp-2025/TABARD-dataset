@@ -1,0 +1,62 @@
+[
+    {
+        "Year":2001,
+        "Team Record\nW":7,
+        "Team Record\nL":2.0,
+        "Playoffs":"3rd Qualifier, Region 2"
+    },
+    {
+        "Year":2002,
+        "Team Record\nW":8,
+        "Team Record\nL":1.0,
+        "Playoffs":"@@@_2nd qualifier, region 2"
+    },
+    {
+        "Year":2003,
+        "Team Record\nW":8,
+        "Team Record\nL":1.0,
+        "Playoffs":"2nd Qualifier, Region 2"
+    },
+    {
+        "Year":2004,
+        "Team Record\nW":7,
+        "Team Record\nL":"@@@_3.0",
+        "Playoffs":"2nd Qualifier, Region 2"
+    },
+    {
+        "Year":2005,
+        "Team Record\nW":3,
+        "Team Record\nL":5.0,
+        "Playoffs":"Did Not Make Playoffs"
+    },
+    {
+        "Year":2006,
+        "Team Record\nW":5,
+        "Team Record\nL":4.0,
+        "Playoffs":"4th Qualifier, Region 2"
+    },
+    {
+        "Year":2007,
+        "Team Record\nW":13,
+        "Team Record\nL":1.0,
+        "Playoffs":"1st Qualifier, Region 2"
+    },
+    {
+        "Year":2008,
+        "Team Record\nW":7,
+        "Team Record\nL":4.0,
+        "Playoffs":"@@@_Second Qualifier, Region 2"
+    },
+    {
+        "Year":2009,
+        "Team Record\nW":5,
+        "Team Record\nL":5.0,
+        "Playoffs":"Did Not Make Playoffs"
+    },
+    {
+        "Year":2010,
+        "Team Record\nW":5,
+        "Team Record\nL":"@@@_nan",
+        "Playoffs":"Did Not Make Playoffs"
+    }
+]

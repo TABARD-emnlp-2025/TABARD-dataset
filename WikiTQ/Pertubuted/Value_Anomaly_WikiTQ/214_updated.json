@@ -1,0 +1,432 @@
+[
+  {
+    "Pos": "1",
+    "No.": 75,
+    "Rider": "Mattia Pasini",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "39:44.091",
+    "Grid": 3.0,
+    "Points": 25.0
+  },
+  {
+    "Pos": "2",
+    "No.": 19,
+    "Rider": "Álvaro Bautista",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+0.010",
+    "Grid": 2.0,
+    "Points": 20.0
+  },
+  {
+    "Pos": "3",
+    "No.": 52,
+    "Rider": "Lukáš Pešek",
+    "Manufacturer": "Derbi",
+    "Laps": 27.0,
+    "Time/Retired": "+0.111",
+    "Grid": 1.0,
+    "Points": 16.0
+  },
+  {
+    "Pos": "4",
+    "No.": 55,
+    "Rider": "Héctor Faubel",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+9.298",
+    "Grid": 10.0,
+    "Points": 13.0
+  },
+  {
+    "Pos": "5",
+    "No.": 24,
+    "Rider": "Simone Corsi",
+    "Manufacturer": "Gilera",
+    "Laps": 27.0,
+    "Time/Retired": "+9.372",
+    "Grid": 9.0,
+    "Points": 11.0
+  },
+  {
+    "Pos": "6",
+    "No.": 1,
+    "Rider": "Thomas Lüthi",
+    "Manufacturer": "Honda",
+    "Laps": 27.0,
+    "Time/Retired": "+10.570",
+    "Grid": 13.0,
+    "Points": 10.0
+  },
+  {
+    "Pos": "7",
+    "No.": 18,
+    "Rider": "Nicolás Terol",
+    "Manufacturer": "Derbi",
+    "Laps": 27.0,
+    "Time/Retired": "+11.835",
+    "Grid": 5.0,
+    "Points": 9.0
+  },
+  {
+    "Pos": "8",
+    "No.": 36,
+    "Rider": "Mika Kallio",
+    "Manufacturer": "KTM",
+    "Laps": 27.0,
+    "Time/Retired": "+11.905",
+    "Grid": 4.0,
+    "Points": 8.0
+  },
+  {
+    "Pos": "9",
+    "No.": 6,
+    "Rider": "Joan Olivé",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+26.017",
+    "Grid": 16.0,
+    "Points": 7.0
+  },
+  {
+    "Pos": "10",
+    "No.": 33,
+    "Rider": "Sergio Gadea",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+26.172",
+    "Grid": 12.0,
+    "Points": 6.0
+  },
+  {
+    "Pos": "11",
+    "No.": 32,
+    "Rider": "Fabrizio Lai",
+    "Manufacturer": "Honda",
+    "Laps": 27.0,
+    "Time/Retired": "+26.361",
+    "Grid": 6.0,
+    "Points": 5.0
+  },
+  {
+    "Pos": "12",
+    "No.": 38,
+    "Rider": "Bradley Smith",
+    "Manufacturer": "Honda",
+    "Laps": 27.0,
+    "Time/Retired": "+26.389",
+    "Grid": 14.0,
+    "Points": 4.0
+  },
+  {
+    "Pos": "13",
+    "No.": 11,
+    "Rider": "Sandro Cortese",
+    "Manufacturer": "Honda",
+    "Laps": 27.0,
+    "Time/Retired": "+26.480",
+    "Grid": 11.0,
+    "Points": 3.0
+  },
+  {
+    "Pos": "14",
+    "No.": 14,
+    "Rider": "Gábor Talmácsi",
+    "Manufacturer": "Honda",
+    "Laps": 27.0,
+    "Time/Retired": "+26.606",
+    "Grid": 7.0,
+    "Points": 2.0
+  },
+  {
+    "Pos": "15",
+    "No.": 71,
+    "Rider": "Tomoyoshi Koyama",
+    "Manufacturer": "Malaguti",
+    "Laps": 27.0,
+    "Time/Retired": "+27.068",
+    "Grid": 15.0,
+    "Points": "@@@_112.9221324884"
+  },
+  {
+    "Pos": "16",
+    "No.": 54,
+    "Rider": "Randy Krummenacher",
+    "Manufacturer": "KTM",
+    "Laps": 27.0,
+    "Time/Retired": "27.192",
+    "Grid": 21.0,
+    "Points": null
+  },
+  {
+    "Pos": "17",
+    "No.": 8,
+    "Rider": "Lorenzo Zanetti",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+46.145",
+    "Grid": 23.0,
+    "Points": null
+  },
+  {
+    "Pos": "18",
+    "No.": 17,
+    "Rider": "Stefan Bradl",
+    "Manufacturer": "KTM",
+    "Laps": 27.0,
+    "Time/Retired": "+46.201",
+    "Grid": 18.0,
+    "Points": null
+  },
+  {
+    "Pos": "19",
+    "No.": "@@@_629",
+    "Rider": "Georg Fröhlich",
+    "Manufacturer": "Honda",
+    "Laps": 27.0,
+    "Time/Retired": "+56.274",
+    "Grid": 28.0,
+    "Points": null
+  },
+  {
+    "Pos": "20",
+    "No.": 35,
+    "Rider": "Raffaele De Rosa",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+56.549",
+    "Grid": 25.0,
+    "Points": null
+  },
+  {
+    "Pos": "21",
+    "No.": "@@@_556",
+    "Rider": "Vincent Braillard",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+56.782",
+    "Grid": 31.0,
+    "Points": null
+  },
+  {
+    "Pos": "22",
+    "No.": 12,
+    "Rider": "Federico Sandi",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+57.073",
+    "Grid": 27.0,
+    "Points": null
+  },
+  {
+    "Pos": "23",
+    "No.": 15,
+    "Rider": "Michele Pirro",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+57.474",
+    "Grid": 22.0,
+    "Points": null
+  },
+  {
+    "Pos": "24",
+    "No.": 29,
+    "Rider": "Andrea Iannone",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+57.707",
+    "Grid": 20.0,
+    "Points": null
+  },
+  {
+    "Pos": "25",
+    "No.": 7,
+    "Rider": "Alexis Masbou",
+    "Manufacturer": "Malaguti",
+    "Laps": 27.0,
+    "Time/Retired": "+1:04.698",
+    "Grid": 37.0,
+    "Points": null
+  },
+  {
+    "Pos": "26",
+    "No.": 16,
+    "Rider": "Michele Conti",
+    "Manufacturer": "Honda",
+    "Laps": 27.0,
+    "Time/Retired": "+1:04.793",
+    "Grid": 32.0,
+    "Points": null
+  },
+  {
+    "Pos": "27",
+    "No.": 45,
+    "Rider": "Imre Tóth",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+1:07.754",
+    "Grid": 19.0,
+    "Points": null
+  },
+  {
+    "Pos": "28",
+    "No.": 43,
+    "Rider": "Manuel Hernández",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+1:17.323",
+    "Grid": 30.0,
+    "Points": null
+  },
+  {
+    "Pos": "29",
+    "No.": 23,
+    "Rider": "Lorenzo Baroni",
+    "Manufacturer": "Honda",
+    "Laps": 27.0,
+    "Time/Retired": "+1:17.507",
+    "Grid": 26.0,
+    "Points": null
+  },
+  {
+    "Pos": "30",
+    "No.": 21,
+    "Rider": "Mateo Túnez",
+    "Manufacturer": "Aprilia",
+    "Laps": 27.0,
+    "Time/Retired": "+1:20.583",
+    "Grid": 29.0,
+    "Points": null
+  },
+  {
+    "Pos": "31",
+    "No.": 34,
+    "Rider": "Esteve Rabat",
+    "Manufacturer": "Honda",
+    "Laps": 27.0,
+    "Time/Retired": "+1:24.772",
+    "Grid": 39.0,
+    "Points": null
+  },
+  {
+    "Pos": "32",
+    "No.": 98,
+    "Rider": "Toni Wirsing",
+    "Manufacturer": "Honda",
+    "Laps": 26.0,
+    "Time/Retired": "+1 Lap",
+    "Grid": 42.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No.": 61,
+    "Rider": "Robin Lässer",
+    "Manufacturer": "KTM",
+    "Laps": 17.0,
+    "Time/Retired": "Retirement",
+    "Grid": 36.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No.": 44,
+    "Rider": "Karel Abraham",
+    "Manufacturer": "Aprilia",
+    "Laps": 16.0,
+    "Time/Retired": "Retirement",
+    "Grid": 33.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No.": 13,
+    "Rider": "Dino Lombardi",
+    "Manufacturer": "Aprilia",
+    "Laps": 13.0,
+    "Time/Retired": "Retirement",
+    "Grid": 41.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No.": 37,
+    "Rider": "Joey Litjens",
+    "Manufacturer": "Honda",
+    "Laps": 11.0,
+    "Time/Retired": "Retirement",
+    "Grid": 38.0,
+    "Points": "@@@_-16.7948088326"
+  },
+  {
+    "Pos": "Ret",
+    "No.": 22,
+    "Rider": "Pablo Nieto",
+    "Manufacturer": "Aprilia",
+    "Laps": 9.0,
+    "Time/Retired": "Retirement",
+    "Grid": 8.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No.": 83,
+    "Rider": "Clément Dunikowski",
+    "Manufacturer": "Honda",
+    "Laps": 7.0,
+    "Time/Retired": "Retirement",
+    "Grid": 40.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No.": 53,
+    "Rider": "Simone Grotzkyj",
+    "Manufacturer": "Aprilia",
+    "Laps": 6.0,
+    "Time/Retired": "Accident",
+    "Grid": 35.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No.": 72,
+    "Rider": "Eric Hübsch",
+    "Manufacturer": "Aprilia",
+    "Laps": 5.0,
+    "Time/Retired": "Retirement",
+    "Grid": 34.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No.": 20,
+    "Rider": "Roberto Tamburini",
+    "Manufacturer": "Aprilia",
+    "Laps": 4.0,
+    "Time/Retired": "Accident",
+    "Grid": 24.0,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "No.": "@@@_-61",
+    "Rider": "Ángel Rodríguez",
+    "Manufacturer": "Aprilia",
+    "Laps": 1.0,
+    "Time/Retired": "Retirement",
+    "Grid": 17.0,
+    "Points": null
+  },
+  {
+    "Pos": "DNS",
+    "No.": 97,
+    "Rider": "Joshua Sommer",
+    "Manufacturer": "Aprilia",
+    "Laps": null,
+    "Time/Retired": null,
+    "Grid": null,
+    "Points": null
+  }
+]

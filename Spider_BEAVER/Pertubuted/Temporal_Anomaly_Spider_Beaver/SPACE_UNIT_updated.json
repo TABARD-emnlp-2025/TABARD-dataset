@@ -1,0 +1,1170 @@
+[
+    {
+        "FCLT_ORGANIZATION_KEY":260,
+        "SPACE_UNIT_KEY":69900,
+        "SPACE_UNIT_CODE":69900,
+        "SPACE_UNIT":"Technology & Policy Program",
+        "DLC_KEY":"D_TPP",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-23"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":145,
+        "SPACE_UNIT_KEY":402100,
+        "SPACE_UNIT_CODE":402100,
+        "SPACE_UNIT":"Division Of Comparative Medicine",
+        "DLC_KEY":"D_COMPMED",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":219,
+        "SPACE_UNIT_KEY":158000,
+        "SPACE_UNIT_CODE":158000,
+        "SPACE_UNIT":"Physics",
+        "DLC_KEY":"D_PHYSICS",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-25"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":151,
+        "SPACE_UNIT_KEY":442000,
+        "SPACE_UNIT_CODE":442000,
+        "SPACE_UNIT":"Dean for Student Life - Headquarters",
+        "DLC_KEY":"D_DSL:HQ",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":106,
+        "SPACE_UNIT_KEY":871000,
+        "SPACE_UNIT_CODE":871000,
+        "SPACE_UNIT":"Alumni Association",
+        "DLC_KEY":"D_ALUM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":197,
+        "SPACE_UNIT_KEY":154000,
+        "SPACE_UNIT_CODE":154000,
+        "SPACE_UNIT":"Mathematics",
+        "DLC_KEY":"D_MATHS",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-23"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":259,
+        "SPACE_UNIT_KEY":60085,
+        "SPACE_UNIT_CODE":60085,
+        "SPACE_UNIT":"Terrascope",
+        "DLC_KEY":"D_TERRASCOPE",
+        "WAREHOUSE_LOAD_DATE":"@@@_01-JAN-25"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":277,
+        "SPACE_UNIT_KEY":417500,
+        "SPACE_UNIT_CODE":417500,
+        "SPACE_UNIT":"Materials Research Laboratory",
+        "DLC_KEY":"D_MRL",
+        "WAREHOUSE_LOAD_DATE":"@@@_None"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":231,
+        "SPACE_UNIT_KEY":243000,
+        "SPACE_UNIT_CODE":243000,
+        "SPACE_UNIT":"Plasma Sciences & Fusion Center",
+        "DLC_KEY":"D_PSFC",
+        "WAREHOUSE_LOAD_DATE":"@@@_32-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":143,
+        "SPACE_UNIT_KEY":69500,
+        "SPACE_UNIT_CODE":69500,
+        "SPACE_UNIT":"Center for Transportation & Logistics",
+        "DLC_KEY":"D_CTL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":267,
+        "SPACE_UNIT_KEY":402500,
+        "SPACE_UNIT_CODE":402500,
+        "SPACE_UNIT":"VP and Secretary of the Corporation",
+        "DLC_KEY":"D_VP_SEC_CORP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":282,
+        "SPACE_UNIT_KEY":404203,
+        "SPACE_UNIT_CODE":404203,
+        "SPACE_UNIT":"OFFICE OF SUSTAINABILITY",
+        "DLC_KEY":"D_SUST",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-22"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":220,
+        "SPACE_UNIT_KEY":61500,
+        "SPACE_UNIT_CODE":61500,
+        "SPACE_UNIT":"Professional Education Programs",
+        "DLC_KEY":"D_PEP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":203,
+        "SPACE_UNIT_KEY":400600,
+        "SPACE_UNIT_CODE":400600,
+        "SPACE_UNIT":"McGovern Institute for Brain Research",
+        "DLC_KEY":"D_MCGOVERN",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":152,
+        "SPACE_UNIT_KEY":441000,
+        "SPACE_UNIT_CODE":441000,
+        "SPACE_UNIT":"DUE HQ",
+        "DLC_KEY":"D_DUE:HQ",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-22"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":163,
+        "SPACE_UNIT_KEY":404500,
+        "SPACE_UNIT_CODE":404500,
+        "SPACE_UNIT":"Executive Vice President's Office",
+        "DLC_KEY":"D_EXECVP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":187,
+        "SPACE_UNIT_KEY":68700,
+        "SPACE_UNIT_CODE":68700,
+        "SPACE_UNIT":"Laboratory for Information & Decision Systems",
+        "DLC_KEY":"D_LIDS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":153,
+        "SPACE_UNIT_KEY":153000,
+        "SPACE_UNIT_CODE":153000,
+        "SPACE_UNIT":"Earth, Atmospheric & Planetary Sciences",
+        "DLC_KEY":"D_EAPS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":237,
+        "SPACE_UNIT_KEY":267000,
+        "SPACE_UNIT_CODE":267000,
+        "SPACE_UNIT":"Research Lab Of Electronics",
+        "DLC_KEY":"D_RLE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":107,
+        "SPACE_UNIT_KEY":93200,
+        "SPACE_UNIT_CODE":93200,
+        "SPACE_UNIT":"Anthropology",
+        "DLC_KEY":"D_ANTHRO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":212,
+        "SPACE_UNIT_KEY":445000,
+        "SPACE_UNIT_CODE":445000,
+        "SPACE_UNIT":"Faculty & Curriculum Support",
+        "DLC_KEY":"D_OFS",
+        "WAREHOUSE_LOAD_DATE":"@@@_18-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":131,
+        "SPACE_UNIT_KEY":97500,
+        "SPACE_UNIT_CODE":97500,
+        "SPACE_UNIT":"Center for International Studies",
+        "DLC_KEY":"D_CIS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":234,
+        "SPACE_UNIT_KEY":410000,
+        "SPACE_UNIT_CODE":410000,
+        "SPACE_UNIT":"Vice President for Resource Development",
+        "DLC_KEY":"D_RESDEV",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":200,
+        "SPACE_UNIT_KEY":39000,
+        "SPACE_UNIT_CODE":39000,
+        "SPACE_UNIT":"Media Lab",
+        "DLC_KEY":"D_MEDIA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":133,
+        "SPACE_UNIT_KEY":405500,
+        "SPACE_UNIT_CODE":405500,
+        "SPACE_UNIT":"Campus Activities Complex",
+        "DLC_KEY":"D_CAC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":281,
+        "SPACE_UNIT_KEY":402410,
+        "SPACE_UNIT_CODE":402410,
+        "SPACE_UNIT":"Abdul Latif Jameel Water and Food Systems Lab",
+        "DLC_KEY":"D_J-WAFS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":245,
+        "SPACE_UNIT_KEY":121000,
+        "SPACE_UNIT_CODE":121000,
+        "SPACE_UNIT":"Sloan School of Management",
+        "DLC_KEY":"D_SLOAN",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":193,
+        "SPACE_UNIT_KEY":93600,
+        "SPACE_UNIT_CODE":93600,
+        "SPACE_UNIT":"Literature",
+        "DLC_KEY":"D_LIT",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":228,
+        "SPACE_UNIT_KEY":406800,
+        "SPACE_UNIT_CODE":406800,
+        "SPACE_UNIT":"Property Office",
+        "DLC_KEY":"D_PROPERTY",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":128,
+        "SPACE_UNIT_KEY":409000,
+        "SPACE_UNIT_CODE":409000,
+        "SPACE_UNIT":"Benefits Administration",
+        "DLC_KEY":"D_BA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":161,
+        "SPACE_UNIT_KEY":68100,
+        "SPACE_UNIT_CODE":68100,
+        "SPACE_UNIT":"Institute for Data, Systems, and Society",
+        "DLC_KEY":"D_IDSS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":176,
+        "SPACE_UNIT_KEY":10000,
+        "SPACE_UNIT_CODE":10000,
+        "SPACE_UNIT":"Institute Professors",
+        "DLC_KEY":"D_INST_PROF",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":167,
+        "SPACE_UNIT_KEY":93300,
+        "SPACE_UNIT_CODE":93300,
+        "SPACE_UNIT":"Foreign Languages & Literature",
+        "DLC_KEY":"D_FLL",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-23"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":204,
+        "SPACE_UNIT_KEY":66000,
+        "SPACE_UNIT_CODE":66000,
+        "SPACE_UNIT":"Dept Material Science and Engineering",
+        "DLC_KEY":"D_DMSE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":144,
+        "SPACE_UNIT_KEY":402200,
+        "SPACE_UNIT_CODE":402200,
+        "SPACE_UNIT":"Dean Of The Grad School Office",
+        "DLC_KEY":"D_DEANGRAD",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-25"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":221,
+        "SPACE_UNIT_KEY":159300,
+        "SPACE_UNIT_CODE":159300,
+        "SPACE_UNIT":"Picower Institute for Learning & Memory",
+        "DLC_KEY":"D_PILM",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-JUN-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":186,
+        "SPACE_UNIT_KEY":170000,
+        "SPACE_UNIT_CODE":170000,
+        "SPACE_UNIT":"Leaders for Global Operations",
+        "DLC_KEY":"D_LGO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":132,
+        "SPACE_UNIT_KEY":63000,
+        "SPACE_UNIT_CODE":63000,
+        "SPACE_UNIT":"Civil & Environmental Engineering",
+        "DLC_KEY":"D_CEE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":115,
+        "SPACE_UNIT_KEY":154500,
+        "SPACE_UNIT_CODE":154500,
+        "SPACE_UNIT":"Brain & Cognitive Sciences",
+        "DLC_KEY":"D_B&CS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":113,
+        "SPACE_UNIT_KEY":501000,
+        "SPACE_UNIT_CODE":501000,
+        "SPACE_UNIT":"Dept of Athletics, Phys Ed, & Recreation",
+        "DLC_KEY":"D_ATHLETICS",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-22"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":165,
+        "SPACE_UNIT_KEY":265000,
+        "SPACE_UNIT_CODE":265000,
+        "SPACE_UNIT":"Francis Bitter Magnet Laboratory",
+        "DLC_KEY":"D_MAGLAB",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":116,
+        "SPACE_UNIT_KEY":69200,
+        "SPACE_UNIT_CODE":69200,
+        "SPACE_UNIT":"Biological Engineering",
+        "DLC_KEY":"D_BIOENG",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":243,
+        "SPACE_UNIT_KEY":60000,
+        "SPACE_UNIT_CODE":60000,
+        "SPACE_UNIT":"Dean of Engineering",
+        "DLC_KEY":"D_DOE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":241,
+        "SPACE_UNIT_KEY":187500,
+        "SPACE_UNIT_CODE":187500,
+        "SPACE_UNIT":"ROTC area",
+        "DLC_KEY":"D_ROTC",
+        "WAREHOUSE_LOAD_DATE":"@@@_18-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":150,
+        "SPACE_UNIT_KEY":591040,
+        "SPACE_UNIT_CODE":591040,
+        "SPACE_UNIT":"Department of Facilities",
+        "DLC_KEY":"D_FACILITIES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":168,
+        "SPACE_UNIT_KEY":421200,
+        "SPACE_UNIT_CODE":421200,
+        "SPACE_UNIT":"Information Services and Technology",
+        "DLC_KEY":"D_IS&T",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":177,
+        "SPACE_UNIT_KEY":420000,
+        "SPACE_UNIT_CODE":420000,
+        "SPACE_UNIT":"MIT Investment Management Company",
+        "DLC_KEY":"D_MITIMCO",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-26"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":142,
+        "SPACE_UNIT_KEY":67900,
+        "SPACE_UNIT_CODE":67900,
+        "SPACE_UNIT":"Computer Sciences and Artificial Intelligence Lab",
+        "DLC_KEY":"D_CSAIL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":235,
+        "SPACE_UNIT_KEY":591030,
+        "SPACE_UNIT_CODE":591030,
+        "SPACE_UNIT":"Facilities Residences",
+        "DLC_KEY":"D_DOF_RESIDENCE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":249,
+        "SPACE_UNIT_KEY":68200,
+        "SPACE_UNIT_CODE":68200,
+        "SPACE_UNIT":"Singapore\/MIT Alliance",
+        "DLC_KEY":"D_SMA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":137,
+        "SPACE_UNIT_KEY":69600,
+        "SPACE_UNIT_CODE":69600,
+        "SPACE_UNIT":"Concourse",
+        "DLC_KEY":"D_CONCOURSE",
+        "WAREHOUSE_LOAD_DATE":"@@@_20-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":103,
+        "SPACE_UNIT_KEY":446100,
+        "SPACE_UNIT_CODE":446100,
+        "SPACE_UNIT":"Admissions",
+        "DLC_KEY":"D_ADM",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-JAN-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":240,
+        "SPACE_UNIT_KEY":187100,
+        "SPACE_UNIT_CODE":187100,
+        "SPACE_UNIT":"ROTC area",
+        "DLC_KEY":"D_ROTC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":188,
+        "SPACE_UNIT_KEY":94000,
+        "SPACE_UNIT_CODE":94000,
+        "SPACE_UNIT":"Linguistics & Philosophy",
+        "DLC_KEY":"D_L&P",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":258,
+        "SPACE_UNIT_KEY":876000,
+        "SPACE_UNIT_CODE":876000,
+        "SPACE_UNIT":"Technology Review",
+        "DLC_KEY":"D_TECHREVIEW",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":189,
+        "SPACE_UNIT_KEY":271000,
+        "SPACE_UNIT_CODE":271000,
+        "SPACE_UNIT":"Libraries",
+        "DLC_KEY":"D_LIBRARIES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":127,
+        "SPACE_UNIT_KEY":62000,
+        "SPACE_UNIT_CODE":62000,
+        "SPACE_UNIT":"Chemical Engineering",
+        "DLC_KEY":"D_CHEME",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":182,
+        "SPACE_UNIT_KEY":402000,
+        "SPACE_UNIT_CODE":402000,
+        "SPACE_UNIT":"Koch Institute for Integrative Cancer Research",
+        "DLC_KEY":"D_KI",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":175,
+        "SPACE_UNIT_KEY":61901,
+        "SPACE_UNIT_CODE":61901,
+        "SPACE_UNIT":"Institute for Medical Engineering and Science",
+        "DLC_KEY":"D_IMES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":213,
+        "SPACE_UNIT_KEY":441100,
+        "SPACE_UNIT_CODE":441100,
+        "SPACE_UNIT":"Office of Minority Education",
+        "DLC_KEY":"D_OME",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":209,
+        "SPACE_UNIT_KEY":447100,
+        "SPACE_UNIT_CODE":447100,
+        "SPACE_UNIT":"Office of Education, Innovation and Technology",
+        "DLC_KEY":"D_OEIT",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":190,
+        "SPACE_UNIT_KEY":404000,
+        "SPACE_UNIT_CODE":404000,
+        "SPACE_UNIT":"OSATT - Techology Licensing Office",
+        "DLC_KEY":"D_TLO",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-22"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":181,
+        "SPACE_UNIT_KEY":159600,
+        "SPACE_UNIT_CODE":159600,
+        "SPACE_UNIT":"Kavli Institute for Astrophysics & Space Research",
+        "DLC_KEY":"D_CSR",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-25"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":101,
+        "SPACE_UNIT_KEY":874100,
+        "SPACE_UNIT_CODE":874100,
+        "SPACE_UNIT":"Audiovisual Services",
+        "DLC_KEY":"D_AVS",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-23"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":268,
+        "SPACE_UNIT_KEY":90010,
+        "SPACE_UNIT_CODE":90010,
+        "SPACE_UNIT":"Comparative Media Studies\/Writing",
+        "DLC_KEY":"D_CMS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":255,
+        "SPACE_UNIT_KEY":449000,
+        "SPACE_UNIT_CODE":449000,
+        "SPACE_UNIT":"Student Financial Services",
+        "DLC_KEY":"D_SFS",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-20"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":210,
+        "SPACE_UNIT_KEY":401000,
+        "SPACE_UNIT_CODE":401000,
+        "SPACE_UNIT":"Office of President \/ Chair",
+        "DLC_KEY":"D_PRESIDENT",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-JAN-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":155,
+        "SPACE_UNIT_KEY":440100,
+        "SPACE_UNIT_CODE":440100,
+        "SPACE_UNIT":"Edgerton Center",
+        "DLC_KEY":"D_EDGERTON",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":253,
+        "SPACE_UNIT_KEY":97000,
+        "SPACE_UNIT_CODE":97000,
+        "SPACE_UNIT":"Program In Science, Technology & Society",
+        "DLC_KEY":"D_STS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":154,
+        "SPACE_UNIT_KEY":91000,
+        "SPACE_UNIT_CODE":91000,
+        "SPACE_UNIT":"Economics",
+        "DLC_KEY":"D_ECO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":218,
+        "SPACE_UNIT_KEY":405900,
+        "SPACE_UNIT_CODE":405900,
+        "SPACE_UNIT":"Parking and Transportation",
+        "DLC_KEY":"D_PARKING",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":162,
+        "SPACE_UNIT_KEY":159000,
+        "SPACE_UNIT_CODE":159000,
+        "SPACE_UNIT":"Experimental Study Group",
+        "DLC_KEY":"D_ESG",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":227,
+        "SPACE_UNIT_KEY":407030,
+        "SPACE_UNIT_CODE":407030,
+        "SPACE_UNIT":"Procurement Office",
+        "DLC_KEY":"D_PROCURE",
+        "WAREHOUSE_LOAD_DATE":"@@@_20-JAN-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":159,
+        "SPACE_UNIT_KEY":872500,
+        "SPACE_UNIT_CODE":872500,
+        "SPACE_UNIT":"Endicott House",
+        "DLC_KEY":"D_ENDICOTT",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":160,
+        "SPACE_UNIT_KEY":406200,
+        "SPACE_UNIT_CODE":406200,
+        "SPACE_UNIT":"Enterprise Services",
+        "DLC_KEY":"D_ENTSRVCS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":192,
+        "SPACE_UNIT_KEY":401812,
+        "SPACE_UNIT_CODE":401812,
+        "SPACE_UNIT":"List Visual Arts Center",
+        "DLC_KEY":"D_LVA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":138,
+        "SPACE_UNIT_KEY":874200,
+        "SPACE_UNIT_CODE":874200,
+        "SPACE_UNIT":"Copy Technology Center",
+        "DLC_KEY":"D_COPYTECH",
+        "WAREHOUSE_LOAD_DATE":"@@@_None"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":180,
+        "SPACE_UNIT_KEY":417000,
+        "SPACE_UNIT_CODE":417000,
+        "SPACE_UNIT":"Institute for Soldier Nanotechnologies",
+        "DLC_KEY":"D_ISN",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":148,
+        "SPACE_UNIT_KEY":270000,
+        "SPACE_UNIT_CODE":270000,
+        "SPACE_UNIT":"Libraries",
+        "DLC_KEY":"D_LIBRARIES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":208,
+        "SPACE_UNIT_KEY":68000,
+        "SPACE_UNIT_CODE":68000,
+        "SPACE_UNIT":"Nuclear Science and Engineering",
+        "DLC_KEY":"D_NUCENG",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":199,
+        "SPACE_UNIT_KEY":65000,
+        "SPACE_UNIT_CODE":65000,
+        "SPACE_UNIT":"Mechanical Engineering",
+        "DLC_KEY":"D_MECHE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":272,
+        "SPACE_UNIT_KEY":413000,
+        "SPACE_UNIT_CODE":413000,
+        "SPACE_UNIT":"Vice President for Resource Development",
+        "DLC_KEY":"D_RESDEV",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":195,
+        "SPACE_UNIT_KEY":159900,
+        "SPACE_UNIT_CODE":159900,
+        "SPACE_UNIT":"Laboratory for Nuclear Science",
+        "DLC_KEY":"D_LNS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":178,
+        "SPACE_UNIT_KEY":60300,
+        "SPACE_UNIT_CODE":60300,
+        "SPACE_UNIT":"Nuclear Science and Engineering",
+        "DLC_KEY":"D_NUCENG",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":121,
+        "SPACE_UNIT_KEY":862000,
+        "SPACE_UNIT_CODE":862000,
+        "SPACE_UNIT":"MIT Card Office",
+        "DLC_KEY":"D_MITCARD",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":222,
+        "SPACE_UNIT_KEY":492900,
+        "SPACE_UNIT_CODE":492900,
+        "SPACE_UNIT":"MIT Police",
+        "DLC_KEY":"D_POLICE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":119,
+        "SPACE_UNIT_KEY":405100,
+        "SPACE_UNIT_CODE":405100,
+        "SPACE_UNIT":"Center for Advanced Educational Services",
+        "DLC_KEY":"D_CAES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":285,
+        "SPACE_UNIT_KEY":417200,
+        "SPACE_UNIT_CODE":417200,
+        "SPACE_UNIT":"MIT NANO",
+        "DLC_KEY":"D_MIT.NANO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":157,
+        "SPACE_UNIT_KEY":392000,
+        "SPACE_UNIT_CODE":392000,
+        "SPACE_UNIT":"Environment, Health and Safety Office",
+        "DLC_KEY":"D_EHSO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":166,
+        "SPACE_UNIT_KEY":427000,
+        "SPACE_UNIT_CODE":427000,
+        "SPACE_UNIT":"Office of Budget & Financial Planning",
+        "DLC_KEY":"D_OBFP",
+        "WAREHOUSE_LOAD_DATE":"@@@_18-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":257,
+        "SPACE_UNIT_KEY":441700,
+        "SPACE_UNIT_CODE":441700,
+        "SPACE_UNIT":"Teaching and Learning Lab",
+        "DLC_KEY":"D_TLL",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-25"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":114,
+        "SPACE_UNIT_KEY":423000,
+        "SPACE_UNIT_CODE":423000,
+        "SPACE_UNIT":"Audit Division",
+        "DLC_KEY":"D_AUDIT",
+        "WAREHOUSE_LOAD_DATE":"@@@_32-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":246,
+        "SPACE_UNIT_KEY":150000,
+        "SPACE_UNIT_CODE":150000,
+        "SPACE_UNIT":"Dean Of Science",
+        "DLC_KEY":"D_DEANSCI",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-23"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":223,
+        "SPACE_UNIT_KEY":95500,
+        "SPACE_UNIT_CODE":95500,
+        "SPACE_UNIT":"Political Science",
+        "DLC_KEY":"D_POLSCI",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-99"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":279,
+        "SPACE_UNIT_KEY":401823,
+        "SPACE_UNIT_CODE":401823,
+        "SPACE_UNIT":"MIT OFFICE OF INNOVATION",
+        "DLC_KEY":"D_MITOI",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":125,
+        "SPACE_UNIT_KEY":400000,
+        "SPACE_UNIT_CODE":400000,
+        "SPACE_UNIT":"Office of the Corporate Chair",
+        "DLC_KEY":"D_CORP_CHAIR",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-JAN-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":201,
+        "SPACE_UNIT_KEY":495000,
+        "SPACE_UNIT_CODE":495000,
+        "SPACE_UNIT":"MIT Health",
+        "DLC_KEY":"D_MEDICAL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":250,
+        "SPACE_UNIT_KEY":159500,
+        "SPACE_UNIT_CODE":159500,
+        "SPACE_UNIT":"Spectroscopy Laboratory",
+        "DLC_KEY":"D_SPEC",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-22"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":135,
+        "SPACE_UNIT_KEY":93800,
+        "SPACE_UNIT_CODE":93800,
+        "SPACE_UNIT":"Comparative Media Studies\/Writing",
+        "DLC_KEY":"D_CMS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":140,
+        "SPACE_UNIT_KEY":33000,
+        "SPACE_UNIT_CODE":33000,
+        "SPACE_UNIT":"Center for Real Estate",
+        "DLC_KEY":"D_CRE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":252,
+        "SPACE_UNIT_KEY":441200,
+        "SPACE_UNIT_CODE":441200,
+        "SPACE_UNIT":"Student Support and Well-being",
+        "DLC_KEY":"D_SSWB",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":211,
+        "SPACE_UNIT_KEY":401800,
+        "SPACE_UNIT_CODE":401800,
+        "SPACE_UNIT":"Provost's Office",
+        "DLC_KEY":"D_PROVOST",
+        "WAREHOUSE_LOAD_DATE":"@@@_99-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":194,
+        "SPACE_UNIT_KEY":69700,
+        "SPACE_UNIT_CODE":69700,
+        "SPACE_UNIT":"Mechanical Engineering",
+        "DLC_KEY":"D_MECHE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":265,
+        "SPACE_UNIT_KEY":409100,
+        "SPACE_UNIT_CODE":409100,
+        "SPACE_UNIT":"Human Resources Department",
+        "DLC_KEY":"D_HR",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-26"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":120,
+        "SPACE_UNIT_KEY":400900,
+        "SPACE_UNIT_CODE":400900,
+        "SPACE_UNIT":"Cambridge-MIT Institute",
+        "DLC_KEY":"D_CMI",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-13-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":109,
+        "SPACE_UNIT_KEY":401801,
+        "SPACE_UNIT_CODE":401801,
+        "SPACE_UNIT":"Masdar Institute",
+        "DLC_KEY":"D_MASDAR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":280,
+        "SPACE_UNIT_KEY":402400,
+        "SPACE_UNIT_CODE":402400,
+        "SPACE_UNIT":"MIT Environmental Solutions Initiative",
+        "DLC_KEY":"D_MITESI",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":233,
+        "SPACE_UNIT_KEY":446700,
+        "SPACE_UNIT_CODE":446700,
+        "SPACE_UNIT":"Registrar",
+        "DLC_KEY":"D_REG",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":283,
+        "SPACE_UNIT_KEY":440102,
+        "SPACE_UNIT_CODE":440102,
+        "SPACE_UNIT":"D-LAB",
+        "DLC_KEY":"D_D-LAB",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":229,
+        "SPACE_UNIT_KEY":591024,
+        "SPACE_UNIT_CODE":591024,
+        "SPACE_UNIT":"Provost's Office",
+        "DLC_KEY":"D_PROVOST",
+        "WAREHOUSE_LOAD_DATE":"@@@_20-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":102,
+        "SPACE_UNIT_KEY":38000,
+        "SPACE_UNIT_CODE":38000,
+        "SPACE_UNIT":"Program in Art Culture & Technology",
+        "DLC_KEY":"D_ACT",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":261,
+        "SPACE_UNIT_KEY":444000,
+        "SPACE_UNIT_CODE":444000,
+        "SPACE_UNIT":"Office of First Year Advising & Programs",
+        "DLC_KEY":"D_UAAP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":134,
+        "SPACE_UNIT_KEY":401830,
+        "SPACE_UNIT_CODE":401830,
+        "SPACE_UNIT":"Dept Material Science and Engineering",
+        "DLC_KEY":"D_DMSE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":207,
+        "SPACE_UNIT_KEY":264000,
+        "SPACE_UNIT_CODE":264000,
+        "SPACE_UNIT":"Nuclear Reactor Laboratory",
+        "DLC_KEY":"D_NRL",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":247,
+        "SPACE_UNIT_KEY":30000,
+        "SPACE_UNIT_CODE":30000,
+        "SPACE_UNIT":"Dean of Architecture",
+        "DLC_KEY":"D_DEANARCH",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":225,
+        "SPACE_UNIT_KEY":875000,
+        "SPACE_UNIT_CODE":875000,
+        "SPACE_UNIT":"MIT Press",
+        "DLC_KEY":"D_PRESS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":130,
+        "SPACE_UNIT_KEY":68900,
+        "SPACE_UNIT_CODE":68900,
+        "SPACE_UNIT":"Center for Innovation in Product Development",
+        "DLC_KEY":"D_CIPD",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":248,
+        "SPACE_UNIT_KEY":266300,
+        "SPACE_UNIT_CODE":266300,
+        "SPACE_UNIT":"Mechanical Engineering",
+        "DLC_KEY":"D_MECHE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":191,
+        "SPACE_UNIT_KEY":310000,
+        "SPACE_UNIT_CODE":310000,
+        "SPACE_UNIT":"Lincoln Laboratory",
+        "DLC_KEY":"D_LINCOLN",
+        "WAREHOUSE_LOAD_DATE":"@@@_00-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":232,
+        "SPACE_UNIT_KEY":490000,
+        "SPACE_UNIT_CODE":490000,
+        "SPACE_UNIT":"VP and Secretary of the Corporation",
+        "DLC_KEY":"D_VP_SEC_CORP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":278,
+        "SPACE_UNIT_KEY":401930,
+        "SPACE_UNIT_CODE":401930,
+        "SPACE_UNIT":"Dean School of Computing",
+        "DLC_KEY":"D_DEANCOMP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":179,
+        "SPACE_UNIT_KEY":404400,
+        "SPACE_UNIT_CODE":404400,
+        "SPACE_UNIT":"Information Services and Technology",
+        "DLC_KEY":"D_IS&T",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":196,
+        "SPACE_UNIT_KEY":93700,
+        "SPACE_UNIT_CODE":93700,
+        "SPACE_UNIT":"Music & Theater Arts",
+        "DLC_KEY":"D_MTA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":264,
+        "SPACE_UNIT_KEY":407000,
+        "SPACE_UNIT_CODE":407000,
+        "SPACE_UNIT":"Vice President for Finance",
+        "DLC_KEY":"D_VPFINANCE",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-14"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":205,
+        "SPACE_UNIT_KEY":60600,
+        "SPACE_UNIT_CODE":60600,
+        "SPACE_UNIT":"Microsystems Technology Laboratory",
+        "DLC_KEY":"D_MTL",
+        "WAREHOUSE_LOAD_DATE":"@@@_30-FEB-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":266,
+        "SPACE_UNIT_KEY":401860,
+        "SPACE_UNIT_CODE":401860,
+        "SPACE_UNIT":"Vice President for Research",
+        "DLC_KEY":"D_VPRESOFF",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-25"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":158,
+        "SPACE_UNIT_KEY":320000,
+        "SPACE_UNIT_CODE":320000,
+        "SPACE_UNIT":"MIT Energy Initiative",
+        "DLC_KEY":"D_LFEE",
+        "WAREHOUSE_LOAD_DATE":"@@@_25-DEC-19"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":156,
+        "SPACE_UNIT_KEY":64000,
+        "SPACE_UNIT_CODE":64000,
+        "SPACE_UNIT":"Electrical Engineering & Computer Science",
+        "DLC_KEY":"D_EECS",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-NOV-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":110,
+        "SPACE_UNIT_KEY":31000,
+        "SPACE_UNIT_CODE":31000,
+        "SPACE_UNIT":"Architecture",
+        "DLC_KEY":"D_ARCH",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":262,
+        "SPACE_UNIT_KEY":35000,
+        "SPACE_UNIT_CODE":35000,
+        "SPACE_UNIT":"Urban Studies & Planning",
+        "DLC_KEY":"D_DUSP",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":242,
+        "SPACE_UNIT_KEY":187800,
+        "SPACE_UNIT_CODE":187800,
+        "SPACE_UNIT":"ROTC area",
+        "DLC_KEY":"D_ROTC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":174,
+        "SPACE_UNIT_KEY":90000,
+        "SPACE_UNIT_CODE":90000,
+        "SPACE_UNIT":"Dean of Humanities & Social Sciences",
+        "DLC_KEY":"D_DHSS",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":122,
+        "SPACE_UNIT_KEY":446600,
+        "SPACE_UNIT_CODE":446600,
+        "SPACE_UNIT":"Career Serv & Pre-Prof Advising",
+        "DLC_KEY":"D_CSPA",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-23"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":149,
+        "SPACE_UNIT_KEY":591000,
+        "SPACE_UNIT_CODE":591000,
+        "SPACE_UNIT":"Department of Facilities",
+        "DLC_KEY":"D_FACILITIES",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":226,
+        "SPACE_UNIT_KEY":497400,
+        "SPACE_UNIT_CODE":497400,
+        "SPACE_UNIT":"Gray House",
+        "DLC_KEY":"D_GRAY",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":126,
+        "SPACE_UNIT_KEY":152000,
+        "SPACE_UNIT_CODE":152000,
+        "SPACE_UNIT":"Chemistry",
+        "DLC_KEY":"D_CHEM",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-JAN-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":108,
+        "SPACE_UNIT_KEY":401813,
+        "SPACE_UNIT_CODE":401813,
+        "SPACE_UNIT":"Office of The Arts",
+        "DLC_KEY":"D_ARTS",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-27"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":206,
+        "SPACE_UNIT_KEY":401811,
+        "SPACE_UNIT_CODE":401811,
+        "SPACE_UNIT":"MIT Museum",
+        "DLC_KEY":"D_MUSEUM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":141,
+        "SPACE_UNIT_KEY":410010,
+        "SPACE_UNIT_CODE":410010,
+        "SPACE_UNIT":"Vice President for Resource Development",
+        "DLC_KEY":"D_RESDEV",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":169,
+        "SPACE_UNIT_KEY":401710,
+        "SPACE_UNIT_CODE":401710,
+        "SPACE_UNIT":"Haystack Observatory",
+        "DLC_KEY":"D_HAYSTACK",
+        "WAREHOUSE_LOAD_DATE":"@@@_32-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":171,
+        "SPACE_UNIT_KEY":93400,
+        "SPACE_UNIT_CODE":93400,
+        "SPACE_UNIT":"History",
+        "DLC_KEY":"D_HISTORY",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":251,
+        "SPACE_UNIT_KEY":69400,
+        "SPACE_UNIT_CODE":69400,
+        "SPACE_UNIT":"Sociotechnical Systems Research Center",
+        "DLC_KEY":"D_SSRC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":147,
+        "SPACE_UNIT_KEY":801000,
+        "SPACE_UNIT_CODE":801000,
+        "SPACE_UNIT":"Campus Dining",
+        "DLC_KEY":"D_DINING",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":117,
+        "SPACE_UNIT_KEY":151000,
+        "SPACE_UNIT_CODE":151000,
+        "SPACE_UNIT":"Biology",
+        "DLC_KEY":"D_BIOLOGY",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":104,
+        "SPACE_UNIT_KEY":61000,
+        "SPACE_UNIT_CODE":61000,
+        "SPACE_UNIT":"Aeronautics and Astronautics",
+        "DLC_KEY":"D_AEROASTRO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "FCLT_ORGANIZATION_KEY":236,
+        "SPACE_UNIT_KEY":861000,
+        "SPACE_UNIT_CODE":861000,
+        "SPACE_UNIT":"Housing and Residential Services",
+        "DLC_KEY":"D_HOUSING",
+        "WAREHOUSE_LOAD_DATE":"@@@_2023-12-19"
+    }
+]

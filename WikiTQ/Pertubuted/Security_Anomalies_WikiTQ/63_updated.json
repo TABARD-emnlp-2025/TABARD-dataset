@@ -1,0 +1,83 @@
+[
+    {
+        "Round":1,
+        "Circuit":"ACI Vallelunga Circuit, Campagnano di Roma",
+        "Date":"7 April",
+        "Pole Position":"Milo\u0161 Pavlovi\u0107",
+        "Winning driver":"Milo\u0161 Pavlovi\u0107",
+        "Winning team":"Target Racing",
+        "Trophy winner":"Nino Fam\u00e0"
+    },
+    {
+        "Round":2,
+        "Circuit":"Misano World Circuit",
+        "Date":"28 April",
+        "Pole Position":"Milo\u0161 Pavlovi\u0107",
+        "Winning driver":"Milo\u0161 Pavlovi\u0107",
+        "Winning team":"Target Racing",
+        "Trophy winner":"Giovanni Faraonio"
+    },
+    {
+        "Round":3,
+        "Circuit":"Autodromo di Pergusa, Enna",
+        "Date":"19 May",
+        "Pole Position":"Milo\u0161 Pavlovi\u0107",
+        "Winning driver":"Philip Cloostermans",
+        "Winning team":"Azeta Racing",
+        "Trophy winner":"Carmine Tancredi"
+    },
+    {
+        "Round":4,
+        "Circuit":"Autodromo Nazionale Monza",
+        "Date":"30 June",
+        "Pole Position":"Philip Cloostermans",
+        "Winning driver":"Philip Cloostermans",
+        "Winning team":"Azeta Racing",
+        "Trophy winner":"Carmine Tancredi"
+    },
+    {
+        "Round":5,
+        "Circuit":"Autodromo Riccardo Paletti, Varano",
+        "Date":"21 July",
+        "Pole Position":"Milo\u0161 Pavlovi\u0107",
+        "Winning driver":"Milo\u0161 Pavlovi\u0107",
+        "Winning team":"Target Racing",
+        "Trophy winner":"Carmine Tancredi"
+    },
+    {
+        "Round":6,
+        "Circuit":"Autodromo Enzo e Dino Ferrari, Imola",
+        "Date":"1 September",
+        "Pole Position":"Vitantonio Liuzzi",
+        "Winning driver":"Vitantonio Liuzzi",
+        "Winning team":"Bertram Sch\u00e4fer Racing",
+        "Trophy winner":"Silvio Alberti"
+    },
+    {
+        "Round":7,
+        "Circuit":"Autodromo del Levante, Binetto",
+        "Date":"8 September",
+        "Pole Position":"Christiano Citron",
+        "Winning driver":"Milo\u0161 Pavlovi\u0107",
+        "Winning team":"Target Racing",
+        "Trophy winner":"@@@_None"
+    },
+    {
+        "Round":8,
+        "Circuit":"Mugello Circuit, Scarperia",
+        "Date":"6 October",
+        "Pole Position":"Milo\u0161 Pavlovi\u0107",
+        "Winning driver":"Milo\u0161 Pavlovi\u0107",
+        "Winning team":"Target Racing",
+        "Trophy winner":"Dino Lusuardi"
+    },
+    {
+        "Round":9,
+        "Circuit":"Autodromo dell'Umbria, Magione",
+        "Date":"20 October",
+        "Pole Position":"Andreas Zuber",
+        "Winning driver":"Christiano Citron",
+        "Winning team":"Target Racing",
+        "Trophy winner":"Alberto Morelli"
+    }
+]

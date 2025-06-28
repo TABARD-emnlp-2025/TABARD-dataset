@@ -1,0 +1,121 @@
+[
+    {
+        "Week":1,
+        "Date":"September 15, 1974",
+        "Opponent":"New York Jets",
+        "Result":"W 24\u201316",
+        "Attendance":"74,854"
+    },
+    {
+        "Week":2,
+        "Date":"September 22, 1974",
+        "Opponent":"at Oakland Raiders",
+        "Result":"L 27\u20137",
+        "Attendance":"48,108"
+    },
+    {
+        "Week":3,
+        "Date":"September 29, 1974",
+        "Opponent":"at Houston Oilers",
+        "Result":"W 17\u20137",
+        "Attendance":"28,538"
+    },
+    {
+        "Week":4,
+        "Date":"October 6, 1974",
+        "Opponent":"Denver Broncos",
+        "Result":"L 17\u201314",
+        "Attendance":"67,298"
+    },
+    {
+        "Week":5,
+        "Date":"October 13, 1974",
+        "Opponent":"Pittsburgh Steelers",
+        "Result":"L 34\u201324",
+        "Attendance":"65,517"
+    },
+    {
+        "Week":6,
+        "Date":"October 20, 1974",
+        "Opponent":"at Miami Dolphins",
+        "Result":"L 9\u20133",
+        "Attendance":"67,779"
+    },
+    {
+        "Week":"@@@_6",
+        "Date":"@@@_October 20, 1974",
+        "Opponent":"@@@_at Miami Dolphins",
+        "Result":"@@@_L 9\u20133",
+        "Attendance":"@@@_None"
+    },
+    {
+        "Week":"@@@_7",
+        "Date":"@@@_October 27, 1974",
+        "Opponent":"@@@_at San Diego Chargers",
+        "Result":"@@@_W 24\u201314",
+        "Attendance":"@@@_34,371"
+    },
+    {
+        "Week":"@@@_8",
+        "Date":"@@@_November 3, 1974",
+        "Opponent":"@@@_New York Giants",
+        "Result":"@@@_L 33\u201327",
+        "Attendance":"@@@_61,437"
+    },
+    {
+        "Week":"@@@_9",
+        "Date":"@@@_November 10, 1974",
+        "Opponent":"@@@_San Diego Chargers",
+        "Result":"@@@_L 14\u20137",
+        "Attendance":"@@@_48,551"
+    },
+    {
+        "Week":"@@@_10",
+        "Date":"@@@_November 18, 1974",
+        "Opponent":"@@@_at Denver Broncos",
+        "Result":"@@@_W 42\u201334",
+        "Attendance":"@@@_50,236"
+    },
+    {
+        "Week":"@@@_11",
+        "Date":"@@@_November 24, 1974",
+        "Opponent":"@@@_at Cincinnati Bengals",
+        "Result":"@@@_L 33\u20136",
+        "Attendance":"@@@_49,777"
+    },
+    {
+        "Week":"@@@_12",
+        "Date":"@@@_December 1, 1974",
+        "Opponent":"@@@_at St. Louis Cardinals",
+        "Result":"@@@_W 17\u201313",
+        "Attendance":"@@@_41,863"
+    },
+    {
+        "Week":"@@@_12",
+        "Date":"@@@_December 1, 1974",
+        "Opponent":"@@@_at St. Louis Cardinals",
+        "Result":"@@@_W 17\u201313",
+        "Attendance":"@@@_4,186,300"
+    },
+    {
+        "Week":13,
+        "Date":"December 8, 1974",
+        "Opponent":"Oakland Raiders",
+        "Result":"L 7\u20136",
+        "Attendance":"60,577"
+    },
+    {
+        "Week":14,
+        "Date":"December 14, 1974",
+        "Opponent":"Minnesota Vikings",
+        "Result":"L 35\u201315",
+        "Attendance":"35,480"
+    },
+    {
+        "Week":14,
+        "Date":"December 14, 1974",
+        "Opponent":"Minnesota Vikings",
+        "Result":"L 35\u201315",
+        "Attendance":"35,48A0"
+    }
+]

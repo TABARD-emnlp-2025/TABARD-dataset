@@ -1,0 +1,79 @@
+[
+    {
+        "Name":"Luther Blissett",
+        "Year inducted":2003,
+        "Position":"Forward",
+        "Apps":503,
+        "Goals":186
+    },
+    {
+        "Name":"Tony Coton",
+        "Year inducted":2004,
+        "Position":"Goalkeeper",
+        "Apps":291,
+        "Goals":0
+    },
+    {
+        "Name":"John McClelland",
+        "Year inducted":2005,
+        "Position":"Defender",
+        "Apps":234,
+        "Goals":3
+    },
+    {
+        "Name":"Tommy Mooney",
+        "Year inducted":2006,
+        "Position":"Forward",
+        "Apps":287,
+        "Goals":64
+    },
+    {
+        "Name":"Les Taylor",
+        "Year inducted":2007,
+        "Position":"Midfielder",
+        "Apps":211,
+        "Goals":20
+    },
+    {
+        "Name":"David James",
+        "Year inducted":"1997",
+        "Position":"Goalkeeper",
+        "Apps":98,
+        "Goals":0
+    },
+    {
+        "Name":"Ian Bolton",
+        "Year inducted":2009,
+        "Position":"Defender",
+        "Apps":287,
+        "Goals":36
+    },
+    {
+        "Name":"Nigel Gibbs",
+        "Year inducted":"2015",
+        "Position":"Defender",
+        "Apps":491,
+        "Goals":7
+    },
+    {
+        "Name":"Duncan Welbourne",
+        "Year inducted":2011,
+        "Position":"Defender",
+        "Apps":457,
+        "Goals":25
+    },
+    {
+        "Name":"Ross Jenkins",
+        "Year inducted":2012,
+        "Position":"Forward",
+        "Apps":398,
+        "Goals":142
+    },
+    {
+        "Name":"Robert Page",
+        "Year inducted":2013,
+        "Position":"Defender",
+        "Apps":218,
+        "Goals":2
+    }
+]

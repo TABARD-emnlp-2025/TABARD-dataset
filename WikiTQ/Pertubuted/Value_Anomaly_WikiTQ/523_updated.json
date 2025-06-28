@@ -1,0 +1,146 @@
+[
+  {
+    "Week": 1.0,
+    "Date": "Thursday, Aug 11",
+    "Opponent": "vs. Winnipeg Blue Bombers",
+    "Score": "35–21",
+    "Result": "Loss",
+    "Attendance": "31,837",
+    "Record": "0–1"
+  },
+  {
+    "Week": 2.0,
+    "Date": "Monday, Aug 15",
+    "Opponent": "at Edmonton Eskimos",
+    "Score": "33–14",
+    "Result": "Loss",
+    "Attendance": "17,500",
+    "Record": "0–2"
+  },
+  {
+    "Week": "@@@_90.0",
+    "Date": "Saturday, Aug 20",
+    "Opponent": "vs. Saskatchewan Roughriders",
+    "Score": "27–12",
+    "Result": "Win",
+    "Attendance": "29,532",
+    "Record": "1–2"
+  },
+  {
+    "Week": "@@@_None",
+    "Date": "Monday, Aug 22",
+    "Opponent": "at Calgary Stampeders",
+    "Score": "26–19",
+    "Result": "Win",
+    "Attendance": null,
+    "Record": "2–2"
+  },
+  {
+    "Week": "@@@_-26.5039377413",
+    "Date": "Monday, Aug 29",
+    "Opponent": "vs. Edmonton Eskimos",
+    "Score": "26–0",
+    "Result": "Loss",
+    "Attendance": "28,420",
+    "Record": "2–3"
+  },
+  {
+    "Week": 6.0,
+    "Date": "Thursday, Sept 1",
+    "Opponent": "at Winnipeg Blue Bombers",
+    "Score": "19–14",
+    "Result": "Loss",
+    "Attendance": "18,297",
+    "Record": "2–4"
+  },
+  {
+    "Week": 7.0,
+    "Date": "Monday, Sept 5",
+    "Opponent": "at Saskatchewan Roughriders",
+    "Score": "31–21",
+    "Result": "Win",
+    "Attendance": "14,105",
+    "Record": "3–4"
+  },
+  {
+    "Week": "@@@_486.2278353262",
+    "Date": "Monday, Sept 12",
+    "Opponent": "vs. Calgary Stampeders",
+    "Score": "21–21",
+    "Result": "Tie",
+    "Attendance": "27,759",
+    "Record": "3–4–1"
+  },
+  {
+    "Week": 9.0,
+    "Date": "Saturday, Sept 17",
+    "Opponent": "vs. Winnipeg Blue Bombers",
+    "Score": "26–14",
+    "Result": "Loss",
+    "Attendance": "30,292",
+    "Record": "3–5–1"
+  },
+  {
+    "Week": 10.0,
+    "Date": "Monday, Sept 19",
+    "Opponent": "at Edmonton Eskimos",
+    "Score": "18–10",
+    "Result": "Loss",
+    "Attendance": null,
+    "Record": "3–6–1"
+  },
+  {
+    "Week": 11.0,
+    "Date": "Saturday, Sept 24",
+    "Opponent": "at Calgary Stampeders",
+    "Score": "28–14",
+    "Result": "Loss",
+    "Attendance": "13,000",
+    "Record": "3–7–1"
+  },
+  {
+    "Week": 12.0,
+    "Date": "Thursday, Oct 6",
+    "Opponent": "vs. Edmonton Eskimos",
+    "Score": "21–13",
+    "Result": "Win",
+    "Attendance": "21,707",
+    "Record": "4–7–1"
+  },
+  {
+    "Week": 13.0,
+    "Date": "Thursday, Oct 13",
+    "Opponent": "at Winnipeg Blue Bombers",
+    "Score": "49–21",
+    "Result": "Loss",
+    "Attendance": "16,773",
+    "Record": "4–8–1"
+  },
+  {
+    "Week": 14.0,
+    "Date": "Saturday, Oct 15",
+    "Opponent": "at Saskatchewan Roughriders",
+    "Score": "14–14",
+    "Result": "Tie",
+    "Attendance": "7,255",
+    "Record": "4–8–2"
+  },
+  {
+    "Week": 15.0,
+    "Date": "Saturday, Oct 22",
+    "Opponent": "vs. Calgary Stampeders",
+    "Score": "22–10",
+    "Result": "Loss",
+    "Attendance": "29,599",
+    "Record": "4–9–2"
+  },
+  {
+    "Week": "@@@_194.5590661199",
+    "Date": "Saturday, Oct 29",
+    "Opponent": "vs. Saskatchewan Roughriders",
+    "Score": "38–0",
+    "Result": "Win",
+    "Attendance": "21,114",
+    "Record": "5–9–2"
+  }
+]

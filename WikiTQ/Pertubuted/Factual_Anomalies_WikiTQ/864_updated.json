@@ -1,0 +1,218 @@
+[
+    {
+        "Pos":32,
+        "Class":"S\n2.0",
+        "No":27,
+        "Team":"Soci\u00e9t\u00e9 ROC",
+        "Drivers":"Laurent Ferrier\n Xavier Lapeyre\n Christian Ethuin",
+        "Chassis":"Lola T294",
+        "Engine":"ROC-Simca 2.0L I4"
+    },
+    {
+        "Pos":33,
+        "Class":"S\n2.0",
+        "No":29,
+        "Team":"Soci\u00e9t\u00e9 ROC",
+        "Drivers":"Pierre-Marie Painvin\n Franz Hummel",
+        "Chassis":"Lola T292",
+        "Engine":"ROC-Simca 2.0L I4"
+    },
+    {
+        "Pos":34,
+        "Class":"S\n3.0",
+        "No":3,
+        "Team":"Christian Poirot",
+        "Drivers":"Christian Poirot\n G\u00e9rard Cuynet\n Guillermo Ortega\n Jean-Claude Lagniez",
+        "Chassis":"Porsche 908\/2",
+        "Engine":"Porsche 3.0L Flat-8"
+    },
+    {
+        "Pos":35,
+        "Class":"GT",
+        "No":59,
+        "Team":"Gelo Racing Team",
+        "Drivers":"Tim Schenken\n Howden Ganley",
+        "Chassis":"Porsche 911 Carrera RSR",
+        "Engine":"Porsche 3.0L Flat-6"
+    },
+    {
+        "Pos":36,
+        "Class":"S\n3.0",
+        "No":1,
+        "Team":"Wicky Racing Team",
+        "Drivers":"Max Cohen-Olivar\n Philippe Coran\n Jo\u00ebl Brachet",
+        "Chassis":"Porsche 908\/2",
+        "Engine":"Porsche 3.0L Flat-8"
+    },
+    {
+        "Pos":37,
+        "Class":"S\n3.0",
+        "No":6,
+        "Team":"Gitanes Automobiles Ligier",
+        "Drivers":"Henri Pescarolo\n Fran\u00e7ois Migault",
+        "Chassis":"Ligier JS2",
+        "Engine":"Ford Cosworth DFV 3.0L V8"
+    },
+    {
+        "Pos":38,
+        "Class":"GT",
+        "No":52,
+        "Team":"\u00c9curie du Nord",
+        "Drivers":"William Vollery\n Roger Dorchy\n Eric Chapuis",
+        "Chassis":"Porsche 911 Carrera RSR",
+        "Engine":"@@@_Porsche 9.0L Flat-6"
+    },
+    {
+        "Pos":39,
+        "Class":"T",
+        "No":98,
+        "Team":"Auto Mazda Claude Bouchet",
+        "Drivers":"Claude Bouchet\n Jean Rondeau",
+        "Chassis":"Mazda RX-3",
+        "Engine":"Mazda 12A 1.2L 2-Rotor"
+    },
+    {
+        "Pos":40,
+        "Class":"GT",
+        "No":57,
+        "Team":"Ganto Racing",
+        "Drivers":"John Rulon-Miller\n Tom Waugh\n Serge Godard",
+        "Chassis":"Porsche 911 Carrera RSR",
+        "Engine":"Porsche 3.0L Flat-6"
+    },
+    {
+        "Pos":41,
+        "Class":"GT",
+        "No":60,
+        "Team":"Gelo Racing Team",
+        "Drivers":"Toine Hezemans\n Manfred Schurti",
+        "Chassis":"Porsche 911 Carrera RSR",
+        "Engine":"Porsche 3.0L Flat-6"
+    },
+    {
+        "Pos":42,
+        "Class":"GT",
+        "No":68,
+        "Team":"Guy Verrier",
+        "Drivers":"Guy Verrier\n Florian Vetsch\n Jean-Robert Corthay",
+        "Chassis":"Porsche 911 Carrera RS",
+        "Engine":"Porsche 3.0L Flat-6"
+    },
+    {
+        "Pos":43,
+        "Class":"GT",
+        "No":7,
+        "Team":"Beurlys International Auto",
+        "Drivers":"Pietro Polese\n \\Willer\\\"\"",
+        "Chassis":"De Tomaso Pantera",
+        "Engine":"Ford 5.8L V8"
+    },
+    {
+        "Pos":44,
+        "Class":"T",
+        "No":93,
+        "Team":"Herv\u00e9 Poulain",
+        "Drivers":"Herv\u00e9 Poulain\n Sam Posey\n Jean Guichet",
+        "Chassis":"BMW 3.0CSL",
+        "Engine":"@@@_Mazda 3.5L I6"
+    },
+    {
+        "Pos":45,
+        "Class":"S\n2.0",
+        "No":26,
+        "Team":"Elf Switzerland",
+        "Drivers":"Marie-Claude Charmasson\n Lella Lombardi",
+        "Chassis":"Renault-Alpine A441",
+        "Engine":"Renault 2.0L V6"
+    },
+    {
+        "Pos":46,
+        "Class":"S\n3.0",
+        "No":18,
+        "Team":"Sigma Automotive Co. Ltd.",
+        "Drivers":"Hiroshi Fushida\n Harukuni Takahashi",
+        "Chassis":"Sigma MC75",
+        "Engine":"Toyota 2.3L Turbo I4"
+    },
+    {
+        "Pos":47,
+        "Class":"GT",
+        "No":16,
+        "Team":"Joest Racing \/ Tebernum",
+        "Drivers":"Clemens Schickentanz\n Hartwig Bertrams",
+        "Chassis":"Porsche 911 Carrera RSR",
+        "Engine":"Porsche 3.0L Flat-6"
+    },
+    {
+        "Pos":48,
+        "Class":"GT",
+        "No":96,
+        "Team":"Bonnemaison - Thiaw",
+        "Drivers":"Lucien Nageotte\n G\u00e9rard Picard",
+        "Chassis":"Porsche 911 Carrera RSR",
+        "Engine":"Porsche 3.0L Flat-6"
+    },
+    {
+        "Pos":49,
+        "Class":"T",
+        "No":95,
+        "Team":"Shark Team",
+        "Drivers":"Jean-Claude Gu\u00e9rie\n Dominique Fornage",
+        "Chassis":"Ford Capri RS",
+        "Engine":"Ford 3.0L V6"
+    },
+    {
+        "Pos":50,
+        "Class":"S\n3.0",
+        "No":97,
+        "Team":"Gitanes Automobiles Ligier",
+        "Drivers":"Jean-Pierre Beltoise\n Jean-Pierre Jarier",
+        "Chassis":"Ligier JS2",
+        "Engine":"Maserati 3.0L V6"
+    },
+    {
+        "Pos":51,
+        "Class":"S\n3.0",
+        "No":12,
+        "Team":"Racing Team Schulthess",
+        "Drivers":"Herv\u00e9 Bayard\n Heinz Schulthess",
+        "Chassis":"Lola T284",
+        "Engine":"Ford Cosworth DFV 3.0L V8"
+    },
+    {
+        "Pos":52,
+        "Class":"S\n2.0",
+        "No":40,
+        "Team":"Philippe Mettetal",
+        "Drivers":"Jean Ragnotti\n Michel Lateste",
+        "Chassis":"Tecma 755",
+        "Engine":"Ford 1.8L I4"
+    },
+    {
+        "Pos":53,
+        "Class":"GT\nSer.",
+        "No":83,
+        "Team":"Jean-Yves Gadal",
+        "Drivers":"Jean-Yves Gadal\n \\S\u00e9golen\\\"\"",
+        "Chassis":"Porsche 911 Carrera RS",
+        "Engine":"Porsche 2.6L Flat-6"
+    },
+    {
+        "Pos":54,
+        "Class":"T",
+        "No":90,
+        "Team":"Jean-Claude Aubriet",
+        "Drivers":"Jean-Claude Aubriet\n \\Depnic\\\"\"",
+        "Chassis":"BMW 3.0CSL",
+        "Engine":"BMW 3.5L I6"
+    },
+    {
+        "Pos":55,
+        "Class":"GT",
+        "No":42,
+        "Team":"Henri Greder",
+        "Drivers":"Henri Greder\n Alain Cudini",
+        "Chassis":"Chevrolet Corvette",
+        "Engine":"@@@_Chevrolet 7.0L V16"
+    }
+]

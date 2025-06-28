@@ -1,0 +1,524 @@
+[
+  {
+    "Rank": 1.0,
+    "County": "McCone",
+    "Per capita\nincome": "$32,205",
+    "Median\nhousehold\nincome": "$42,998",
+    "Median\nfamily\nincome": "$52,636",
+    "Population": "1,734",
+    "Number of\nhouseholds": "774"
+  },
+  {
+    "Rank": 2.0,
+    "County": "Gallatin",
+    "Per capita\nincome": "$27,423",
+    "Median\nhousehold\nincome": "$50,136",
+    "Median\nfamily\nincome": "$65,029",
+    "Population": "89,513",
+    "Number of\nhouseholds": "36,550"
+  },
+  {
+    "Rank": "@@@_-36.3763308823",
+    "County": "United States",
+    "Per capita\nincome": "$27,334",
+    "Median\nhousehold\nincome": "$51,914",
+    "Median\nfamily\nincome": "$62,982",
+    "Population": "308,745,538",
+    "Number of\nhouseholds": "116,716,292"
+  },
+  {
+    "Rank": 3.0,
+    "County": "Stillwater",
+    "Per capita\nincome": "$27,168",
+    "Median\nhousehold\nincome": "$57,227",
+    "Median\nfamily\nincome": "$65,438",
+    "Population": "@@@_None",
+    "Number of\nhouseholds": "3,796"
+  },
+  {
+    "Rank": 4.0,
+    "County": "Richland",
+    "Per capita\nincome": "$26,888",
+    "Median\nhousehold\nincome": "$52,516",
+    "Median\nfamily\nincome": "$60,236",
+    "Population": "9,746",
+    "Number of\nhouseholds": "4,167"
+  },
+  {
+    "Rank": 5.0,
+    "County": "Fallon",
+    "Per capita\nincome": "$26,819",
+    "Median\nhousehold\nincome": "$52,529",
+    "Median\nfamily\nincome": "$64,500",
+    "Population": "2,890",
+    "Number of\nhouseholds": "1,233"
+  },
+  {
+    "Rank": 6.0,
+    "County": "Sheridan",
+    "Per capita\nincome": "$26,537",
+    "Median\nhousehold\nincome": "$39,578",
+    "Median\nfamily\nincome": "$55,313",
+    "Population": "3,384",
+    "Number of\nhouseholds": "1,587"
+  },
+  {
+    "Rank": "@@@_-43.9639177158",
+    "County": "Jefferson",
+    "Per capita\nincome": "$26,437",
+    "Median\nhousehold\nincome": "$56,695",
+    "Median\nfamily\nincome": "$67,195",
+    "Population": "11,406",
+    "Number of\nhouseholds": "4,512"
+  },
+  {
+    "Rank": 8.0,
+    "County": "Yellowstone",
+    "Per capita\nincome": "$26,152",
+    "Median\nhousehold\nincome": "$48,641",
+    "Median\nfamily\nincome": "$62,380",
+    "Population": "147,972",
+    "Number of\nhouseholds": "60,672"
+  },
+  {
+    "Rank": 9.0,
+    "County": "Lewis and Clark",
+    "Per capita\nincome": "$25,894",
+    "Median\nhousehold\nincome": "$50,238",
+    "Median\nfamily\nincome": "$65,573",
+    "Population": "63,395",
+    "Number of\nhouseholds": "26,694"
+  },
+  {
+    "Rank": 10.0,
+    "County": "Carbon",
+    "Per capita\nincome": "$24,983",
+    "Median\nhousehold\nincome": "$49,010",
+    "Median\nfamily\nincome": "$59,823",
+    "Population": "10,078",
+    "Number of\nhouseholds": "4,571"
+  },
+  {
+    "Rank": 11.0,
+    "County": "Daniels",
+    "Per capita\nincome": "$24,737",
+    "Median\nhousehold\nincome": "$38,125",
+    "Median\nfamily\nincome": "$49,479",
+    "Population": "1,751",
+    "Number of\nhouseholds": "798"
+  },
+  {
+    "Rank": 12.0,
+    "County": "Flathead",
+    "Per capita\nincome": "$24,721",
+    "Median\nhousehold\nincome": "$44,998",
+    "Median\nfamily\nincome": "$53,940",
+    "Population": "90,928",
+    "Number of\nhouseholds": "37,504"
+  },
+  {
+    "Rank": 13.0,
+    "County": "Park",
+    "Per capita\nincome": "$24,717",
+    "Median\nhousehold\nincome": "$38,830",
+    "Median\nfamily\nincome": "$50,252",
+    "Population": "15,636",
+    "Number of\nhouseholds": "7,310"
+  },
+  {
+    "Rank": 14.0,
+    "County": "Dawson",
+    "Per capita\nincome": "$24,602",
+    "Median\nhousehold\nincome": "$50,752",
+    "Median\nfamily\nincome": "$63,982",
+    "Population": "8,966",
+    "Number of\nhouseholds": "3,749"
+  },
+  {
+    "Rank": 15.0,
+    "County": "Missoula",
+    "Per capita\nincome": "$24,343",
+    "Median\nhousehold\nincome": "$42,887",
+    "Median\nfamily\nincome": "$58,302",
+    "Population": "109,299",
+    "Number of\nhouseholds": "45,926"
+  },
+  {
+    "Rank": 16.0,
+    "County": "Valley",
+    "Per capita\nincome": "$24,305",
+    "Median\nhousehold\nincome": "$42,050",
+    "Median\nfamily\nincome": "$54,096",
+    "Population": "7,369",
+    "Number of\nhouseholds": "3,198"
+  },
+  {
+    "Rank": 17.0,
+    "County": "Phillips",
+    "Per capita\nincome": "$24,227",
+    "Median\nhousehold\nincome": "$36,453",
+    "Median\nfamily\nincome": "$55,362",
+    "Population": "4,253",
+    "Number of\nhouseholds": "1,819"
+  },
+  {
+    "Rank": 18.0,
+    "County": "Judith Basin",
+    "Per capita\nincome": "$24,029",
+    "Median\nhousehold\nincome": "$41,473",
+    "Median\nfamily\nincome": "$54,479",
+    "Population": "2,072",
+    "Number of\nhouseholds": "924"
+  },
+  {
+    "Rank": 19.0,
+    "County": "Ravalli",
+    "Per capita\nincome": "$23,908",
+    "Median\nhousehold\nincome": "$43,000",
+    "Median\nfamily\nincome": "$53,004",
+    "Population": "40,212",
+    "Number of\nhouseholds": "16,933"
+  },
+  {
+    "Rank": null,
+    "County": "Montana",
+    "Per capita\nincome": "$23,836",
+    "Median\nhousehold\nincome": "$43,872",
+    "Median\nfamily\nincome": "$55,725",
+    "Population": "989,415",
+    "Number of\nhouseholds": "409,607"
+  },
+  {
+    "Rank": 20.0,
+    "County": "Madison",
+    "Per capita\nincome": "$23,265",
+    "Median\nhousehold\nincome": "$48,167",
+    "Median\nfamily\nincome": "$56,406",
+    "Population": "7,691",
+    "Number of\nhouseholds": "3,560"
+  },
+  {
+    "Rank": 21.0,
+    "County": "Granite",
+    "Per capita\nincome": "$23,222",
+    "Median\nhousehold\nincome": "$36,052",
+    "Median\nfamily\nincome": "$47,685",
+    "Population": "3,079",
+    "Number of\nhouseholds": "1,417"
+  },
+  {
+    "Rank": 22.0,
+    "County": "Cascade",
+    "Per capita\nincome": "$22,963",
+    "Median\nhousehold\nincome": "$42,389",
+    "Median\nfamily\nincome": "$53,540",
+    "Population": "81,327",
+    "Number of\nhouseholds": "33,809"
+  },
+  {
+    "Rank": 23.0,
+    "County": "Sweet Grass",
+    "Per capita\nincome": "$22,785",
+    "Median\nhousehold\nincome": "$43,723",
+    "Median\nfamily\nincome": "$56,552",
+    "Population": "3,651",
+    "Number of\nhouseholds": "1,590"
+  },
+  {
+    "Rank": 24.0,
+    "County": "Wibaux",
+    "Per capita\nincome": "$22,579",
+    "Median\nhousehold\nincome": "$40,417",
+    "Median\nfamily\nincome": "$51,354",
+    "Population": "1,017",
+    "Number of\nhouseholds": "457"
+  },
+  {
+    "Rank": 25.0,
+    "County": "Garfield",
+    "Per capita\nincome": "$22,424",
+    "Median\nhousehold\nincome": "$42,955",
+    "Median\nfamily\nincome": "$54,375",
+    "Population": "1,206",
+    "Number of\nhouseholds": "532"
+  },
+  {
+    "Rank": 26.0,
+    "County": "Fergus",
+    "Per capita\nincome": "$22,295",
+    "Median\nhousehold\nincome": "$37,607",
+    "Median\nfamily\nincome": "$48,623",
+    "Population": "11,586",
+    "Number of\nhouseholds": "5,099"
+  },
+  {
+    "Rank": 27.0,
+    "County": "Deer Lodge",
+    "Per capita\nincome": "$21,921",
+    "Median\nhousehold\nincome": "$35,310",
+    "Median\nfamily\nincome": "$51,076",
+    "Population": "9,298",
+    "Number of\nhouseholds": "4,018"
+  },
+  {
+    "Rank": 28.0,
+    "County": "Custer",
+    "Per capita\nincome": "$21,676",
+    "Median\nhousehold\nincome": "$38,913",
+    "Median\nfamily\nincome": "$49,011",
+    "Population": "11,699",
+    "Number of\nhouseholds": "5,031"
+  },
+  {
+    "Rank": 29.0,
+    "County": "Powder River",
+    "Per capita\nincome": "$21,543",
+    "Median\nhousehold\nincome": "$37,685",
+    "Median\nfamily\nincome": "$50,156",
+    "Population": "1,743",
+    "Number of\nhouseholds": "755"
+  },
+  {
+    "Rank": 30.0,
+    "County": "Hill",
+    "Per capita\nincome": "$21,420",
+    "Median\nhousehold\nincome": "$43,606",
+    "Median\nfamily\nincome": "$55,963",
+    "Population": "16,096",
+    "Number of\nhouseholds": "6,275"
+  },
+  {
+    "Rank": 31.0,
+    "County": "Silver Bow",
+    "Per capita\nincome": "$21,357",
+    "Median\nhousehold\nincome": "$37,986",
+    "Median\nfamily\nincome": "$52,288",
+    "Population": "34,200",
+    "Number of\nhouseholds": "14,932"
+  },
+  {
+    "Rank": 32.0,
+    "County": "Prairie",
+    "Per capita\nincome": "$21,296",
+    "Median\nhousehold\nincome": "$34,896",
+    "Median\nfamily\nincome": "$43,500",
+    "Population": "1,179",
+    "Number of\nhouseholds": "551"
+  },
+  {
+    "Rank": 33.0,
+    "County": "Beaverhead",
+    "Per capita\nincome": "$21,110",
+    "Median\nhousehold\nincome": "$38,264",
+    "Median\nfamily\nincome": "$53,036",
+    "Population": "9,246",
+    "Number of\nhouseholds": "4,014"
+  },
+  {
+    "Rank": 34.0,
+    "County": "Petroleum",
+    "Per capita\nincome": "$21,008",
+    "Median\nhousehold\nincome": "$36,875",
+    "Median\nfamily\nincome": "$39,107",
+    "Population": "494",
+    "Number of\nhouseholds": "225"
+  },
+  {
+    "Rank": 35.0,
+    "County": "Treasure",
+    "Per capita\nincome": "$20,882",
+    "Median\nhousehold\nincome": "$37,969",
+    "Median\nfamily\nincome": "$51,458",
+    "Population": "718",
+    "Number of\nhouseholds": "335"
+  },
+  {
+    "Rank": 36.0,
+    "County": "Musselshell",
+    "Per capita\nincome": "$20,875",
+    "Median\nhousehold\nincome": "$37,033",
+    "Median\nfamily\nincome": "$47,860",
+    "Population": "4,538",
+    "Number of\nhouseholds": "2,046"
+  },
+  {
+    "Rank": 37.0,
+    "County": "Carter",
+    "Per capita\nincome": "$20,681",
+    "Median\nhousehold\nincome": "$35,703",
+    "Median\nfamily\nincome": "$47,955",
+    "Population": "1,160",
+    "Number of\nhouseholds": "532"
+  },
+  {
+    "Rank": 38.0,
+    "County": "Teton",
+    "Per capita\nincome": "$20,509",
+    "Median\nhousehold\nincome": "$39,516",
+    "Median\nfamily\nincome": "$49,102",
+    "Population": "6,073",
+    "Number of\nhouseholds": "2,450"
+  },
+  {
+    "Rank": 39.0,
+    "County": "Toole",
+    "Per capita\nincome": "$20,464",
+    "Median\nhousehold\nincome": "$42,949",
+    "Median\nfamily\nincome": "$54,722",
+    "Population": "5,324",
+    "Number of\nhouseholds": "2,015"
+  },
+  {
+    "Rank": 40.0,
+    "County": "Chouteau",
+    "Per capita\nincome": "$20,202",
+    "Median\nhousehold\nincome": "$41,064",
+    "Median\nfamily\nincome": "$50,201",
+    "Population": "5,813",
+    "Number of\nhouseholds": "2,294"
+  },
+  {
+    "Rank": 41.0,
+    "County": "Lake",
+    "Per capita\nincome": "$20,164",
+    "Median\nhousehold\nincome": "$37,274",
+    "Median\nfamily\nincome": "$47,437",
+    "Population": "28,746",
+    "Number of\nhouseholds": "11,432"
+  },
+  {
+    "Rank": 42.0,
+    "County": "Rosebud",
+    "Per capita\nincome": "$19,844",
+    "Median\nhousehold\nincome": "$44,776",
+    "Median\nfamily\nincome": "$56,282",
+    "Population": "9,233",
+    "Number of\nhouseholds": "3,395"
+  },
+  {
+    "Rank": 43.0,
+    "County": "Lincoln",
+    "Per capita\nincome": "$19,626",
+    "Median\nhousehold\nincome": "$30,823",
+    "Median\nfamily\nincome": "$39,600",
+    "Population": "19,687",
+    "Number of\nhouseholds": "8,843"
+  },
+  {
+    "Rank": "@@@_485.0745294098",
+    "County": "Broadwater",
+    "Per capita\nincome": "$19,606",
+    "Median\nhousehold\nincome": "$44,667",
+    "Median\nfamily\nincome": "$46,949",
+    "Population": "5,612",
+    "Number of\nhouseholds": "2,347"
+  },
+  {
+    "Rank": 45.0,
+    "County": "Golden Valley",
+    "Per capita\nincome": "$19,319",
+    "Median\nhousehold\nincome": "$35,726",
+    "Median\nfamily\nincome": "$48,750",
+    "Population": "884",
+    "Number of\nhouseholds": "363"
+  },
+  {
+    "Rank": 46.0,
+    "County": "Mineral",
+    "Per capita\nincome": "$19,209",
+    "Median\nhousehold\nincome": "$37,256",
+    "Median\nfamily\nincome": "$44,271",
+    "Population": "4,223",
+    "Number of\nhouseholds": "1,911"
+  },
+  {
+    "Rank": 47.0,
+    "County": "Liberty",
+    "Per capita\nincome": "$19,097",
+    "Median\nhousehold\nincome": "$40,212",
+    "Median\nfamily\nincome": "$44,957",
+    "Population": "2,339",
+    "Number of\nhouseholds": "822"
+  },
+  {
+    "Rank": 48.0,
+    "County": "Pondera",
+    "Per capita\nincome": "$18,989",
+    "Median\nhousehold\nincome": "$36,419",
+    "Median\nfamily\nincome": "$47,656",
+    "Population": "6,153",
+    "Number of\nhouseholds": "2,285"
+  },
+  {
+    "Rank": 49.0,
+    "County": "Wheatland",
+    "Per capita\nincome": "$18,474",
+    "Median\nhousehold\nincome": "$30,321",
+    "Median\nfamily\nincome": "$41,161",
+    "Population": "2,168",
+    "Number of\nhouseholds": "887"
+  },
+  {
+    "Rank": 50.0,
+    "County": "Sanders",
+    "Per capita\nincome": "$18,472",
+    "Median\nhousehold\nincome": "$30,622",
+    "Median\nfamily\nincome": "$37,514",
+    "Population": "11,413",
+    "Number of\nhouseholds": "5,121"
+  },
+  {
+    "Rank": 51.0,
+    "County": "Powell",
+    "Per capita\nincome": "$17,849",
+    "Median\nhousehold\nincome": "$39,851",
+    "Median\nfamily\nincome": "$45,339",
+    "Population": "7,027",
+    "Number of\nhouseholds": "2,466"
+  },
+  {
+    "Rank": 52.0,
+    "County": "Roosevelt",
+    "Per capita\nincome": "$17,821",
+    "Median\nhousehold\nincome": "$37,451",
+    "Median\nfamily\nincome": "$50,146",
+    "Population": "10,425",
+    "Number of\nhouseholds": "3,553"
+  },
+  {
+    "Rank": 53.0,
+    "County": "Meagher",
+    "Per capita\nincome": "$17,318",
+    "Median\nhousehold\nincome": "$31,577",
+    "Median\nfamily\nincome": "$40,057",
+    "Population": "1,891",
+    "Number of\nhouseholds": "806"
+  },
+  {
+    "Rank": 54.0,
+    "County": "Glacier",
+    "Per capita\nincome": "$17,053",
+    "Median\nhousehold\nincome": "$38,075",
+    "Median\nfamily\nincome": "$44,397",
+    "Population": "13,399",
+    "Number of\nhouseholds": "4,361"
+  },
+  {
+    "Rank": 55.0,
+    "County": "Blaine",
+    "Per capita\nincome": "$16,813",
+    "Median\nhousehold\nincome": "$37,034",
+    "Median\nfamily\nincome": "$40,890",
+    "Population": "6,491",
+    "Number of\nhouseholds": "2,357"
+  },
+  {
+    "Rank": 56.0,
+    "County": "Big Horn",
+    "Per capita\nincome": "$15,066",
+    "Median\nhousehold\nincome": "$36,550",
+    "Median\nfamily\nincome": "$41,985",
+    "Population": "12,865",
+    "Number of\nhouseholds": "4,004"
+  }
+]

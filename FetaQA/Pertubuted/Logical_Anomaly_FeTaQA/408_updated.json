@@ -1,0 +1,68 @@
+[
+    {
+        "Year":"1996\u20131998",
+        "Title":"The King and I",
+        "Role":"Royal Child",
+        "Notes":"Neil Simon Theatre"
+    },
+    {
+        "Year":"2006\u20132008",
+        "Title":"Spring Awakening",
+        "Role":"Ensemble \/ Ilse Neumann",
+        "Notes":"Eugene O'Neill Theatre"
+    },
+    {
+        "Year":2014,
+        "Title":"Hair",
+        "Role":"Jeannie Ryan",
+        "Notes":"Hollywood Bowl"
+    },
+    {
+        "Year":2015,
+        "Title":"The Wedding Singer",
+        "Role":"Julia Sullivan",
+        "Notes":"Pittsburgh Civic Light Opera"
+    },
+    {
+        "Year":2016,
+        "Title":"Waitress",
+        "Role":"Dawn Williams",
+        "Notes":"Brooks Atkinson Theatre"
+    },
+    {
+        "Year":2016,
+        "Title":"The 24 Hour Plays",
+        "Role":"Various",
+        "Notes":"American Airlines Theatre"
+    },
+    {
+        "Year":3000,
+        "Title":"Hamilton",
+        "Role":"Alexander Hamilton",
+        "Notes":"Richard Rodgers Theatre"
+    },
+    {
+        "Year":1995,
+        "Title":"Cats",
+        "Role":"Grizabella",
+        "Notes":"Minskoff Theatre"
+    },
+    {
+        "Year":2020,
+        "Title":"Les Mis\u00e9rables",
+        "Role":"Jean Valjean",
+        "Notes":"Sahara Desert Theatre"
+    },
+    {
+        "Year":2017,
+        "Title":"Oklahoma!",
+        "Role":"Curly McLain",
+        "Notes":"London Palladium"
+    },
+    {
+        "Year":2018,
+        "Title":"Frozen",
+        "Role":"Elsa",
+        "Notes":"Bermuda Triangle Theatre"
+    }
+]

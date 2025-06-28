@@ -1,0 +1,416 @@
+[
+  {
+    "Game": 1.0,
+    "Date": "19 August 1978",
+    "Opponent": "Hereford United",
+    "Venue": "Away",
+    "Result": "0–0",
+    "Attendance": "5,674",
+    "Goalscorers": null
+  },
+  {
+    "Game": 2.0,
+    "Date": "23 August 1978",
+    "Opponent": "Grimsby Town",
+    "Venue": "Home",
+    "Result": "0–3",
+    "Attendance": "9,227",
+    "Goalscorers": null
+  },
+  {
+    "Game": 3.0,
+    "Date": "26 August 1978",
+    "Opponent": "Reading",
+    "Venue": "Away",
+    "Result": "0–2",
+    "Attendance": "4,788",
+    "Goalscorers": null
+  },
+  {
+    "Game": 4.0,
+    "Date": "2 September 1978",
+    "Opponent": "Newport County",
+    "Venue": "Home",
+    "Result": "2–3",
+    "Attendance": "5,319",
+    "Goalscorers": "Hinnigan, Purdie"
+  },
+  {
+    "Game": 5.0,
+    "Date": "9 September 1978",
+    "Opponent": "Wimbledon",
+    "Venue": "Away",
+    "Result": "1–2",
+    "Attendance": "3,217",
+    "Goalscorers": "Corrigan"
+  },
+  {
+    "Game": 6.0,
+    "Date": "13 September 1978",
+    "Opponent": "Rochdale",
+    "Venue": "Home",
+    "Result": "3–0",
+    "Attendance": "5,746",
+    "Goalscorers": "Wright, Corrigan, Hinnigan"
+  },
+  {
+    "Game": 7.0,
+    "Date": "16 September 1978",
+    "Opponent": "Bradford City",
+    "Venue": "Home",
+    "Result": "1–3",
+    "Attendance": "7,090",
+    "Goalscorers": "Purdie"
+  },
+  {
+    "Game": "@@@_-31.0",
+    "Date": "23 September 1978",
+    "Opponent": "York City",
+    "Venue": "Away",
+    "Result": "1–0",
+    "Attendance": "3,307",
+    "Goalscorers": "Gore"
+  },
+  {
+    "Game": 9.0,
+    "Date": "26 September 1978",
+    "Opponent": "Portsmouth",
+    "Venue": "Away",
+    "Result": "0–1",
+    "Attendance": "13,902",
+    "Goalscorers": null
+  },
+  {
+    "Game": 10.0,
+    "Date": "30 September 1978",
+    "Opponent": "Scunthorpe United",
+    "Venue": "Home",
+    "Result": "1–0",
+    "Attendance": "4,459",
+    "Goalscorers": "Brownbill"
+  },
+  {
+    "Game": "@@@_309.0439228397",
+    "Date": "7 October 1978",
+    "Opponent": "Huddersfield Town",
+    "Venue": "Away",
+    "Result": "1–1",
+    "Attendance": "5,150",
+    "Goalscorers": "Brownbill"
+  },
+  {
+    "Game": 12.0,
+    "Date": "14 October 1978",
+    "Opponent": "Doncaster Rovers",
+    "Venue": "Home",
+    "Result": "1–0",
+    "Attendance": "5,788",
+    "Goalscorers": "Ward"
+  },
+  {
+    "Game": 13.0,
+    "Date": "18 October 1978",
+    "Opponent": "Halifax Town",
+    "Venue": "Home",
+    "Result": "1–0",
+    "Attendance": "5,216",
+    "Goalscorers": "Hinnigan"
+  },
+  {
+    "Game": 14.0,
+    "Date": "21 October 1978",
+    "Opponent": "Barnsley",
+    "Venue": "Away",
+    "Result": "0–0",
+    "Attendance": "9,841",
+    "Goalscorers": null
+  },
+  {
+    "Game": 15.0,
+    "Date": "28 October 1978",
+    "Opponent": "Northampton Town",
+    "Venue": "Home",
+    "Result": "2–0",
+    "Attendance": "6,264",
+    "Goalscorers": "Purdie (2, 1 pen.)"
+  },
+  {
+    "Game": 16.0,
+    "Date": "3 November 1978",
+    "Opponent": "Stockport County",
+    "Venue": "Away",
+    "Result": "1–0",
+    "Attendance": "8,357",
+    "Goalscorers": "Hinnigan"
+  },
+  {
+    "Game": 17.0,
+    "Date": "10 November 1978",
+    "Opponent": "Newport County",
+    "Venue": "Away",
+    "Result": "@@@_None",
+    "Attendance": "4,142",
+    "Goalscorers": "Houghton"
+  },
+  {
+    "Game": 18.0,
+    "Date": "18 November 1978",
+    "Opponent": "Reading",
+    "Venue": "Home",
+    "Result": "3–0",
+    "Attendance": "5,858",
+    "Goalscorers": "Houghton (2), Ward"
+  },
+  {
+    "Game": 19.0,
+    "Date": "9 December 1978",
+    "Opponent": "Darlington",
+    "Venue": "Away",
+    "Result": "1–1",
+    "Attendance": "1,967",
+    "Goalscorers": "Moore"
+  },
+  {
+    "Game": 20.0,
+    "Date": "16 December 1978",
+    "Opponent": "Halifax Town",
+    "Venue": "Away",
+    "Result": "2–1",
+    "Attendance": "2,437",
+    "Goalscorers": "Moore, Purdie"
+  },
+  {
+    "Game": 21.0,
+    "Date": "26 December 1978",
+    "Opponent": "Crewe Alexandra",
+    "Venue": "Home",
+    "Result": "1–0",
+    "Attendance": "7,586",
+    "Goalscorers": "Houghton"
+  },
+  {
+    "Game": 22.0,
+    "Date": "30 December 1978",
+    "Opponent": "Aldershot",
+    "Venue": "Home",
+    "Result": "3–2",
+    "Attendance": "7,289",
+    "Goalscorers": "Moore, Houghton (2)"
+  },
+  {
+    "Game": 23.0,
+    "Date": "9 January 1979",
+    "Opponent": "Port Vale",
+    "Venue": "Away",
+    "Result": "1–2",
+    "Attendance": "3,744",
+    "Goalscorers": "Wright (pen.)"
+  },
+  {
+    "Game": 24.0,
+    "Date": "3 February 1979",
+    "Opponent": "Portsmouth",
+    "Venue": "Home",
+    "Result": "2–0",
+    "Attendance": "8,289",
+    "Goalscorers": "Wright, Corrigan"
+  },
+  {
+    "Game": 25.0,
+    "Date": "14 February 1979",
+    "Opponent": "Wimbledon",
+    "Venue": "Home",
+    "Result": "1–2",
+    "Attendance": "6,704",
+    "Goalscorers": "Purdie (pen.)"
+  },
+  {
+    "Game": "@@@_None",
+    "Date": "17 February 1979",
+    "Opponent": "Huddersfield Town",
+    "Venue": "Home",
+    "Result": "2–1",
+    "Attendance": "7,420",
+    "Goalscorers": "Ward (2)"
+  },
+  {
+    "Game": 27.0,
+    "Date": "24 February 1979",
+    "Opponent": "Doncaster Rovers",
+    "Venue": "Away",
+    "Result": "1–0",
+    "Attendance": "4,612",
+    "Goalscorers": "Wright"
+  },
+  {
+    "Game": 28.0,
+    "Date": "28 February 1979",
+    "Opponent": "York City",
+    "Venue": "Home",
+    "Result": "1–1",
+    "Attendance": "5,896",
+    "Goalscorers": "Houghton"
+  },
+  {
+    "Game": 29.0,
+    "Date": "3 March 1979",
+    "Opponent": "Barnsley",
+    "Venue": "Home",
+    "Result": "1–1",
+    "Attendance": "9,427",
+    "Goalscorers": "Wright"
+  },
+  {
+    "Game": 30.0,
+    "Date": "10 March 1979",
+    "Opponent": "Northampton Town",
+    "Venue": "Away",
+    "Result": "4–2",
+    "Attendance": "2,275",
+    "Goalscorers": "Brownbill (2), Purdie, Corrigan"
+  },
+  {
+    "Game": 31.0,
+    "Date": "14 March 1979",
+    "Opponent": "Torquay United",
+    "Venue": "Home",
+    "Result": "3–1",
+    "Attendance": "5,722",
+    "Goalscorers": "Moore (2), Hinnigan"
+  },
+  {
+    "Game": 32.0,
+    "Date": "17 March 1979",
+    "Opponent": "Stockport County",
+    "Venue": "Home",
+    "Result": "2–0",
+    "Attendance": "7,610",
+    "Goalscorers": "Wright, Smart"
+  },
+  {
+    "Game": 33.0,
+    "Date": "19 March 1979",
+    "Opponent": "Rochdale",
+    "Venue": "Away",
+    "Result": "2–0",
+    "Attendance": "3,621",
+    "Goalscorers": "Purdie, Moore"
+  },
+  {
+    "Game": 34.0,
+    "Date": "24 March 1979",
+    "Opponent": "Grimsby Town",
+    "Venue": "Away",
+    "Result": "1–3",
+    "Attendance": "8,252",
+    "Goalscorers": "Wigginton (o.g.)"
+  },
+  {
+    "Game": 35.0,
+    "Date": "28 March 1979",
+    "Opponent": "Hereford United",
+    "Venue": "Home",
+    "Result": "0–0",
+    "Attendance": "4,876",
+    "Goalscorers": null
+  },
+  {
+    "Game": 36.0,
+    "Date": "31 March 1979",
+    "Opponent": "Bournemouth",
+    "Venue": "Home",
+    "Result": "1–0",
+    "Attendance": "5,527",
+    "Goalscorers": "Houghton"
+  },
+  {
+    "Game": 37.0,
+    "Date": "3 April 1979",
+    "Opponent": "Hartlepool United",
+    "Venue": "Away",
+    "Result": "1–1",
+    "Attendance": "2,081",
+    "Goalscorers": "Houghton"
+  },
+  {
+    "Game": 38.0,
+    "Date": "7 April 1979",
+    "Opponent": "Torquay United",
+    "Venue": "Away",
+    "Result": "1–1",
+    "Attendance": "2,969",
+    "Goalscorers": "Houghton"
+  },
+  {
+    "Game": 39.0,
+    "Date": "13 April 1979",
+    "Opponent": "Port Vale",
+    "Venue": "Home",
+    "Result": "5–3",
+    "Attendance": "8,452",
+    "Goalscorers": "Houghton (3), Brownbill, Moore"
+  },
+  {
+    "Game": "@@@_408.0",
+    "Date": "14 April 1979",
+    "Opponent": "Crewe Alexandra",
+    "Venue": "Away",
+    "Result": "1–1",
+    "Attendance": "4,604",
+    "Goalscorers": "Purdie (pen.)"
+  },
+  {
+    "Game": 41.0,
+    "Date": "16 April 1979",
+    "Opponent": "Hartlepool United",
+    "Venue": "Home",
+    "Result": "2–2",
+    "Attendance": "8,217",
+    "Goalscorers": "Wright, Purdie"
+  },
+  {
+    "Game": 42.0,
+    "Date": "21 April 1979",
+    "Opponent": "Aldershot",
+    "Venue": "Away",
+    "Result": "0–1",
+    "Attendance": "5,466",
+    "Goalscorers": null
+  },
+  {
+    "Game": 43.0,
+    "Date": "28 April 1979",
+    "Opponent": "Darlington",
+    "Venue": "Home",
+    "Result": "2–2",
+    "Attendance": "6,153",
+    "Goalscorers": "Moore, Brownbill"
+  },
+  {
+    "Game": 44.0,
+    "Date": "1 May 1979",
+    "Opponent": "Scunthorpe United",
+    "Venue": "Away",
+    "Result": "1–0",
+    "Attendance": "1,582",
+    "Goalscorers": "Gore"
+  },
+  {
+    "Game": 45.0,
+    "Date": "5 May 1979",
+    "Opponent": "Bournemouth",
+    "Venue": "Away",
+    "Result": "1–2",
+    "Attendance": "3,063",
+    "Goalscorers": "Purdie"
+  },
+  {
+    "Game": 46.0,
+    "Date": "7 May 1979",
+    "Opponent": "Bradford City",
+    "Venue": "Away",
+    "Result": "1–1",
+    "Attendance": "3,748",
+    "Goalscorers": "Moore"
+  }
+]

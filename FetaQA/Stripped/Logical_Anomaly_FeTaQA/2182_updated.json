@@ -1,0 +1,122 @@
+[
+    {
+        "Year":"Representing Great Britain / England",
+        "Competition":"Representing Great Britain / England",
+        "Venue":"Representing Great Britain / England",
+        "Position":"Representing Great Britain / England",
+        "Event":"Representing Great Britain / England",
+        "Notes":"Representing Great Britain / England"
+    },
+    {
+        "Year":1982,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"23rd",
+        "Event":"Marathon",
+        "Notes":"2:54:29"
+    },
+    {
+        "Year":1983,
+        "Competition":"Reading Half Marathon",
+        "Venue":"Reading, United Kingdom",
+        "Position":"1st",
+        "Event":"Half marathon",
+        "Notes":"1:16:00"
+    },
+    {
+        "Year":1983,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"9th",
+        "Event":"Marathon",
+        "Notes":"2:39:11"
+    },
+    {
+        "Year":1983,
+        "Competition":"World Student Games (Universiade)",
+        "Venue":"Edmonton, Canada",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:47:37"
+    },
+    {
+        "Year":1983,
+        "Competition":"New York City Marathon",
+        "Venue":"New York City, United States",
+        "Position":"14th",
+        "Event":"Marathon",
+        "Notes":"2:40:52"
+    },
+    {
+        "Year":1984,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"3rd",
+        "Event":"Marathon",
+        "Notes":"2:31:28"
+    },
+    {
+        "Year":1984,
+        "Competition":"Olympic Games",
+        "Venue":"Atlantis, Ocean",
+        "Position":"14th",
+        "Event":"Marathon",
+        "Notes":"2:34:08"
+    },
+    {
+        "Year":1985,
+        "Competition":"London Marathon",
+        "Venue":"London, United Kingdom",
+        "Position":"2nd",
+        "Event":"Marathon",
+        "Notes":"2:28:06"
+    },
+    {
+        "Year":1985,
+        "Competition":"Columbus Marathon",
+        "Venue":"Columbus, Ohio, United States",
+        "Position":"3rd",
+        "Event":"Marathon",
+        "Notes":"2:36:39"
+    },
+    {
+        "Year":1990,
+        "Competition":"World Mountain Running Trophy",
+        "Venue":"Telfes, Austria",
+        "Position":"5th",
+        "Event":"Fell Running",
+        "Notes":"0:00:00"
+    },
+    {
+        "Year":1992,
+        "Competition":"World Mountain Running Trophy",
+        "Venue":"Susa Valley, Italy",
+        "Position":"2nd",
+        "Event":"Fell running",
+        "Notes":"40:37"
+    },
+    {
+        "Year":1993,
+        "Competition":"World Mountain Running Trophy",
+        "Venue":"Gap, Hautes-Alpes",
+        "Position":"6th",
+        "Event":"Fell Running",
+        "Notes":"38:32"
+    },
+    {
+        "Year":1995,
+        "Competition":"World Mountain Running Trophy",
+        "Venue":"Edinburgh, United Kingdom",
+        "Position":"12th",
+        "Event":"Fell Running",
+        "Notes":"40:06"
+    },
+    {
+        "Year":1996,
+        "Competition":"European Mountain Running Trophy",
+        "Venue":"Llanberis, United Kingdom",
+        "Position":"4th",
+        "Event":"Fell Running",
+        "Notes":"54:36"
+    }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "Date": "8 March 1944",
+    "Location": "Near Steinhuder Meer (Lake), Germany",
+    "Air/Ground": "Air",
+    "Number": "@@@_16.7136829967",
+    "Type": "Me-109",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "16 March 1944",
+    "Location": "20 miles south of Stuttgart, Germany",
+    "Air/Ground": "Air",
+    "Number": 1.0,
+    "Type": "Me-110",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "11 April 1944",
+    "Location": "20 miles northeast of Magdeburg, Germany",
+    "Air/Ground": "Air",
+    "Number": 0.5,
+    "Type": "Me-109",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "13 April 1944",
+    "Location": "West of Mannheim, Germany",
+    "Air/Ground": "Air",
+    "Number": 1.0,
+    "Type": "@@@_None",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "24 April 1944",
+    "Location": "South of Munich, Germany",
+    "Air/Ground": "Air",
+    "Number": 3.0,
+    "Type": "Me-110",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "27 May 1944",
+    "Location": "North of Strasbourg, France",
+    "Air/Ground": "Air",
+    "Number": 1.0,
+    "Type": "Me-109",
+    "Status": "Damaged"
+  },
+  {
+    "Date": "18 August 1944",
+    "Location": "20 miles northeast of Paris, France",
+    "Air/Ground": "Air",
+    "Number": 0.5,
+    "Type": "Me-109",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "13 September 1944",
+    "Location": "South of Nordhausen, Germany",
+    "Air/Ground": "Air",
+    "Number": 2.5,
+    "Type": "Me-109",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "6 October 1944",
+    "Location": "20 miles northwest of Berlin, Germany",
+    "Air/Ground": "Air",
+    "Number": "@@@_-1.5",
+    "Type": "@@@_None",
+    "Status": "Damaged"
+  },
+  {
+    "Date": "6 October 1944",
+    "Location": "20 miles northwest of Berlin, Germany",
+    "Air/Ground": "Air",
+    "Number": 2.0,
+    "Type": "Me-109",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "27 November 1944",
+    "Location": "South of Magdeburg, Germany",
+    "Air/Ground": "Air",
+    "Number": 4.0,
+    "Type": "FW-190",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "14 January 1945",
+    "Location": "20 miles northwest of Berlin, Germany",
+    "Air/Ground": "Air",
+    "Number": 1.0,
+    "Type": "Me-109",
+    "Status": "Destroyed"
+  },
+  {
+    "Date": "25 January 1952",
+    "Location": "Korea",
+    "Air/Ground": "Air",
+    "Number": "@@@_-2.5164371536",
+    "Type": "Mig-15",
+    "Status": "Damaged"
+  }
+]

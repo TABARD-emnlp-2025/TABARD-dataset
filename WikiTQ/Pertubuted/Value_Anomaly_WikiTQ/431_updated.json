@@ -1,0 +1,576 @@
+[
+  {
+    "Yacht": "AFR Midnight Rambler",
+    "Nation": "(NSW)",
+    "Owner": "Ed Psaltis",
+    "Skipper": "Ed Psaltis",
+    "Launch year": 2002.0
+  },
+  {
+    "Yacht": "Alacrity",
+    "Nation": "(QLD)",
+    "Owner": "Matthew Percy",
+    "Skipper": "Matthew Percy",
+    "Launch year": 2004.0
+  },
+  {
+    "Yacht": "Another Challenge",
+    "Nation": "(VIC)",
+    "Owner": "Chris Lewin",
+    "Skipper": "Chris Lewin",
+    "Launch year": 2000.0
+  },
+  {
+    "Yacht": "Another Fiasco",
+    "Nation": "(QLD)",
+    "Owner": "Damian Suckling",
+    "Skipper": "Damian Suckling",
+    "Launch year": 1994.0
+  },
+  {
+    "Yacht": "Aurora",
+    "Nation": "(NSW)",
+    "Owner": "Jim Holley",
+    "Skipper": "Jim Holley",
+    "Launch year": 1983.0
+  },
+  {
+    "Yacht": "Balance",
+    "Nation": "(NSW)",
+    "Owner": "Paul Clitheroe",
+    "Skipper": "Paul Clitheroe",
+    "Launch year": 2006.0
+  },
+  {
+    "Yacht": "Bear Necessity",
+    "Nation": "(NSW)",
+    "Owner": "Andrew & Pauline Dally",
+    "Skipper": "Andrew Dally",
+    "Launch year": 2007.0
+  },
+  {
+    "Yacht": "Berrimilla",
+    "Nation": "(NSW)",
+    "Owner": "Alex Whitworth",
+    "Skipper": "Alex Whitworth",
+    "Launch year": 1977.0
+  },
+  {
+    "Yacht": "Capriccio of Rhu",
+    "Nation": null,
+    "Owner": "Michele Colenso",
+    "Skipper": "Andrew Poole",
+    "Launch year": 1987.0
+  },
+  {
+    "Yacht": "Challenge",
+    "Nation": "(VIC)",
+    "Owner": "Lou Abrahams",
+    "Skipper": "Lou Abrahams",
+    "Launch year": 2004.0
+  },
+  {
+    "Yacht": "Chutzpah",
+    "Nation": "@@@_None",
+    "Owner": "Bruce Taylor",
+    "Skipper": "Bruce Taylor",
+    "Launch year": 2007.0
+  },
+  {
+    "Yacht": "City Index Leopard",
+    "Nation": null,
+    "Owner": "Mike Slade",
+    "Skipper": "Mike Slade",
+    "Launch year": 2007.0
+  },
+  {
+    "Yacht": "Cougar II",
+    "Nation": "(VIC)",
+    "Owner": "Alan Whiteley",
+    "Skipper": "Alan Whiteley",
+    "Launch year": 2005.0
+  },
+  {
+    "Yacht": "Decosolmarine Sailplane",
+    "Nation": null,
+    "Owner": "Decosol Marine",
+    "Skipper": "John Danby/Robert Bottomley",
+    "Launch year": 1999.0
+  },
+  {
+    "Yacht": "Dehler Magic",
+    "Nation": "(QLD)",
+    "Owner": "Greg Tobin/Charlie Preen",
+    "Skipper": "Greg Tobin/Charlie Preen",
+    "Launch year": 2000.0
+  },
+  {
+    "Yacht": "DHL - The Daily Telegraph",
+    "Nation": "(NSW)",
+    "Owner": "Kookaburra Challenge P/L",
+    "Skipper": "Mitch Booth",
+    "Launch year": 1997.0
+  },
+  {
+    "Yacht": "Eleni",
+    "Nation": "(NSW)",
+    "Owner": "Tony Levett",
+    "Skipper": "Tony Levett",
+    "Launch year": 2003.0
+  },
+  {
+    "Yacht": "Endorfin",
+    "Nation": "(NSW)",
+    "Owner": "Peter Mooney",
+    "Skipper": "Peter Mooney",
+    "Launch year": 2006.0
+  },
+  {
+    "Yacht": "First Light",
+    "Nation": "(NSW)",
+    "Owner": "Nicolas Ewald & Susan Rice",
+    "Skipper": "Nicolas Ewald",
+    "Launch year": 1981.0
+  },
+  {
+    "Yacht": "Flying Fish - Arctos",
+    "Nation": "(NSW)",
+    "Owner": "Flying Fish Properties",
+    "Skipper": "Andy Fairclough/James Dobie",
+    "Launch year": 2001.0
+  },
+  {
+    "Yacht": "George Gregan Foundation",
+    "Nation": "(NSW)",
+    "Owner": "Peter Goldsworthy",
+    "Skipper": "David Witt",
+    "Launch year": 2001.0
+  },
+  {
+    "Yacht": "Georgia",
+    "Nation": "(VIC)",
+    "Owner": "John Williams/Graeme Ainley",
+    "Skipper": "John Williams",
+    "Launch year": 2000.0
+  },
+  {
+    "Yacht": "Getaway Sailing 2",
+    "Nation": "(VIC)",
+    "Owner": "Peter Tarimo",
+    "Skipper": "Jay Pettifer",
+    "Launch year": "@@@_-1998.037037037"
+  },
+  {
+    "Yacht": "Global Yacht Racing - Kioni",
+    "Nation": "(NSW)",
+    "Owner": "Kioni Sailing Services P/L",
+    "Skipper": "Richard Falk",
+    "Launch year": 2001.0
+  },
+  {
+    "Yacht": "Goldfinger",
+    "Nation": "(VIC)",
+    "Owner": "Peter Blake & Kate Mitchell",
+    "Skipper": "Peter Blake",
+    "Launch year": 2002.0
+  },
+  {
+    "Yacht": "Helsal IV",
+    "Nation": "(TAS)",
+    "Owner": "Tony Fisher",
+    "Skipper": "Rob Fisher",
+    "Launch year": 1986.0
+  },
+  {
+    "Yacht": "Huckleberry",
+    "Nation": "(WA)",
+    "Owner": "Steve Humphries",
+    "Skipper": "Steve Humphries",
+    "Launch year": 1982.0
+  },
+  {
+    "Yacht": "Hugo Boss II",
+    "Nation": null,
+    "Owner": "Alex Thomson Racing",
+    "Skipper": "Ross Daniel",
+    "Launch year": 2001.0
+  },
+  {
+    "Yacht": "Iataia",
+    "Nation": null,
+    "Owner": "Marcos Rodriguez",
+    "Skipper": "Marc Rosenfeld",
+    "Launch year": 2004.0
+  },
+  {
+    "Yacht": "Ichi Ban",
+    "Nation": "(NSW)",
+    "Owner": "Matt Allen",
+    "Skipper": "Matt Allen",
+    "Launch year": 2005.0
+  },
+  {
+    "Yacht": "IMAREX",
+    "Nation": "(NSW)",
+    "Owner": "Marc & Louis Ryckmans",
+    "Skipper": "Ola Strand Andersen",
+    "Launch year": 2000.0
+  },
+  {
+    "Yacht": "Impeccable",
+    "Nation": "(NSW)",
+    "Owner": "John Walker",
+    "Skipper": "John Walker",
+    "Launch year": 1980.0
+  },
+  {
+    "Yacht": "Inner Circle",
+    "Nation": "(NSW)",
+    "Owner": "Ken Robinson/Darren Cooney",
+    "Skipper": "Ken Robinson",
+    "Launch year": 1987.0
+  },
+  {
+    "Yacht": "Jazz",
+    "Nation": null,
+    "Owner": "Chris Bull",
+    "Skipper": "Chris Bull",
+    "Launch year": 2003.0
+  },
+  {
+    "Yacht": "Knee Deep",
+    "Nation": "(WA)",
+    "Owner": "Philip Childs/Frank Van Ruth",
+    "Skipper": "Philip Childs",
+    "Launch year": 1999.0
+  },
+  {
+    "Yacht": "Krakatoa II",
+    "Nation": "(NSW)",
+    "Owner": "Rod Skellet",
+    "Skipper": "Rod Skellet",
+    "Launch year": 2006.0
+  },
+  {
+    "Yacht": "Limit",
+    "Nation": "(WA)",
+    "Owner": "Alan Brierty",
+    "Skipper": "Roger Hickman",
+    "Launch year": 2002.0
+  },
+  {
+    "Yacht": "Living Doll",
+    "Nation": "(VIC)",
+    "Owner": "Michael Hiatt",
+    "Skipper": "Michael Hiatt",
+    "Launch year": 2005.0
+  },
+  {
+    "Yacht": "Matangi",
+    "Nation": "(TAS)",
+    "Owner": "David Stephenson",
+    "Skipper": "David Stephenson",
+    "Launch year": 1989.0
+  },
+  {
+    "Yacht": "Morna",
+    "Nation": "(NSW)",
+    "Owner": "Greg Zyner",
+    "Skipper": "Greg Zyner",
+    "Launch year": 1995.0
+  },
+  {
+    "Yacht": "Mr Beaks Ribs",
+    "Nation": "(NSW)",
+    "Owner": "David Beak",
+    "Skipper": "David Beak",
+    "Launch year": 2004.0
+  },
+  {
+    "Yacht": "Mr Kite",
+    "Nation": "(NSW)",
+    "Owner": "Andrew Buckland/Andrew Hunn",
+    "Skipper": "Andrew Buckland/Andrew Hunn",
+    "Launch year": 2005.0
+  },
+  {
+    "Yacht": "Namadgi",
+    "Nation": "(ACT)",
+    "Owner": "Canberra Ocean Racing Club",
+    "Skipper": "Rick Scott-Murphy",
+    "Launch year": 2003.0
+  },
+  {
+    "Yacht": "Noonmark VI",
+    "Nation": null,
+    "Owner": "Sir Geoffrey Mulcahy",
+    "Skipper": "Mike Gilburt",
+    "Launch year": 1998.0
+  },
+  {
+    "Yacht": "Palandri Wines Minds Eye",
+    "Nation": "(WA)",
+    "Owner": "Brad Skeggs",
+    "Skipper": "Brad Skeggs",
+    "Launch year": 2006.0
+  },
+  {
+    "Yacht": "Papillon",
+    "Nation": "(NSW)",
+    "Owner": "Phil Molony",
+    "Skipper": "Phil Molony",
+    "Launch year": 2005.0
+  },
+  {
+    "Yacht": "Patrice Six",
+    "Nation": "(NSW)",
+    "Owner": "Adrian Dunphy",
+    "Skipper": "Adrian Dunphy/ Tony Kirby",
+    "Launch year": null
+  },
+  {
+    "Yacht": "Phillip's Foote Witchdoctor",
+    "Nation": "(NSW)",
+    "Owner": "The Rum Consortium",
+    "Skipper": "Maurie Cameron",
+    "Launch year": 1979.0
+  },
+  {
+    "Yacht": "Pirelli",
+    "Nation": "(NSW)",
+    "Owner": "Martin James",
+    "Skipper": "Les Goodridge",
+    "Launch year": "@@@_25460.7330794018"
+  },
+  {
+    "Yacht": "Pisces",
+    "Nation": "(TAS)",
+    "Owner": "David Taylor",
+    "Skipper": "David Taylor",
+    "Launch year": 1998.0
+  },
+  {
+    "Yacht": "Pretty Fly II",
+    "Nation": "(NSW)",
+    "Owner": "Colin Woods",
+    "Skipper": "Colin Woods",
+    "Launch year": 2003.0
+  },
+  {
+    "Yacht": "Pretty Woman",
+    "Nation": "(NSW)",
+    "Owner": "R. Hudson/M. Lockley/R. Murphy",
+    "Skipper": "Richard Hudson",
+    "Launch year": 1996.0
+  },
+  {
+    "Yacht": "Quantum Racing",
+    "Nation": "(NSW)",
+    "Owner": "Ray Roberts",
+    "Skipper": "Ray Roberts",
+    "Launch year": 2007.0
+  },
+  {
+    "Yacht": "Quetzalcoatl",
+    "Nation": "(NSW)",
+    "Owner": "Bruce/Hampshire/Lee-Warner/Sweetapple",
+    "Skipper": "Antony Sweetapple",
+    "Launch year": 2001.0
+  },
+  {
+    "Yacht": "Ragamuffin",
+    "Nation": "(NSW)",
+    "Owner": "Syd Fischer",
+    "Skipper": "Syd Fischer",
+    "Launch year": 2004.0
+  },
+  {
+    "Yacht": "Rosebud",
+    "Nation": null,
+    "Owner": "Roger Sturgeon",
+    "Skipper": "Roger Sturgeon",
+    "Launch year": 2007.0
+  },
+  {
+    "Yacht": "Rush",
+    "Nation": "(VIC)",
+    "Owner": "Ian and John Paterson",
+    "Skipper": "John Paterson",
+    "Launch year": 1997.0
+  },
+  {
+    "Yacht": "Sailors With disABILITIES",
+    "Nation": "(NSW)",
+    "Owner": "David Pescud",
+    "Skipper": "David Pescud/John Hearne",
+    "Launch year": 2000.0
+  },
+  {
+    "Yacht": "Salona",
+    "Nation": "(NSW)",
+    "Owner": "Phillip King",
+    "Skipper": "Phillip King",
+    "Launch year": "@@@_25296.4140428511"
+  },
+  {
+    "Yacht": "Scarlet Runner",
+    "Nation": "(VIC)",
+    "Owner": "Robert Date",
+    "Skipper": "Robert Date",
+    "Launch year": 2001.0
+  },
+  {
+    "Yacht": "Secret Men's Business #1",
+    "Nation": "(NSW)",
+    "Owner": "SMB Syndicate",
+    "Skipper": "Ross Trembath/R Curtis",
+    "Launch year": 1996.0
+  },
+  {
+    "Yacht": "Sextant",
+    "Nation": "(NSW)",
+    "Owner": "Denis Doyle",
+    "Skipper": "Denis Doyle",
+    "Launch year": 1999.0
+  },
+  {
+    "Yacht": "She",
+    "Nation": "(NSW)",
+    "Owner": "Peter Rodgers",
+    "Skipper": "Peter Rodgers",
+    "Launch year": 1981.0
+  },
+  {
+    "Yacht": "Sheridan Road Rail (Tartan)",
+    "Nation": "(NSW)",
+    "Owner": "Ian Sanford",
+    "Skipper": "Ian Sanford",
+    "Launch year": 1984.0
+  },
+  {
+    "Yacht": "Shogun",
+    "Nation": "(VIC)",
+    "Owner": "Rob Hanna",
+    "Skipper": "Rob Hanna",
+    "Launch year": 2007.0
+  },
+  {
+    "Yacht": "Skandia",
+    "Nation": "(VIC)",
+    "Owner": "Grant Wharington",
+    "Skipper": "Grant Wharington",
+    "Launch year": 2003.0
+  },
+  {
+    "Yacht": "Spirit of Koomooloo",
+    "Nation": "(QLD)",
+    "Owner": "Mike Freebairn",
+    "Skipper": "Mike Freebairn",
+    "Launch year": 1968.0
+  },
+  {
+    "Yacht": "Splash Gordon",
+    "Nation": "(QLD)",
+    "Owner": "Stephen Ellis",
+    "Skipper": "Stephen Ellis",
+    "Launch year": 1998.0
+  },
+  {
+    "Yacht": "Stormy Petrel",
+    "Nation": "(NSW)",
+    "Owner": "Kevin O'Shea",
+    "Skipper": "Kevin O'Shea",
+    "Launch year": 1970.0
+  },
+  {
+    "Yacht": "Swan Song",
+    "Nation": "(NSW)",
+    "Owner": "Geoffrey Hill",
+    "Skipper": "Geoffrey Hill",
+    "Launch year": 2000.0
+  },
+  {
+    "Yacht": "Swish",
+    "Nation": "(NSW)",
+    "Owner": "Steven Proud",
+    "Skipper": "Steven Proud",
+    "Launch year": 2001.0
+  },
+  {
+    "Yacht": "The Bigger Picture",
+    "Nation": "(NSW)",
+    "Owner": "Mike Roberts/Anthony Hooper",
+    "Skipper": "Ian Douglas",
+    "Launch year": 2002.0
+  },
+  {
+    "Yacht": "The Goat",
+    "Nation": "(NSW)",
+    "Owner": "Foye/Gordon",
+    "Skipper": "Bruce Foye",
+    "Launch year": 2003.0
+  },
+  {
+    "Yacht": "Toyota Aurion",
+    "Nation": "(NSW)",
+    "Owner": "Andrew Short",
+    "Skipper": "Andrew Short",
+    "Launch year": 1993.0
+  },
+  {
+    "Yacht": "True North",
+    "Nation": "(SA)",
+    "Owner": "Andrew Saies",
+    "Skipper": "Andrew Saies",
+    "Launch year": 2000.0
+  },
+  {
+    "Yacht": "Wedgetail",
+    "Nation": "(QLD)",
+    "Owner": "Bill Wild",
+    "Skipper": "Bill Wild",
+    "Launch year": 2005.0
+  },
+  {
+    "Yacht": "Wild Oats XI",
+    "Nation": "(NSW)",
+    "Owner": "Bob Oatley",
+    "Skipper": "Mark Richards",
+    "Launch year": 2005.0
+  },
+  {
+    "Yacht": "Wot Yot",
+    "Nation": "(NSW)",
+    "Owner": "Graeme Wood",
+    "Skipper": "Graeme Wood",
+    "Launch year": 2000.0
+  },
+  {
+    "Yacht": "Wot's Next",
+    "Nation": "(NSW)",
+    "Owner": "Graeme Wood",
+    "Skipper": "Bill Sykes",
+    "Launch year": 2005.0
+  },
+  {
+    "Yacht": "Yendys",
+    "Nation": "(NSW)",
+    "Owner": "Geoff Ross",
+    "Skipper": "Geoff Ross",
+    "Launch year": 2006.0
+  },
+  {
+    "Yacht": "Zen",
+    "Nation": "(NSW)",
+    "Owner": "Gordon Ketelbey",
+    "Skipper": "Gordon Ketelbey",
+    "Launch year": 2004.0
+  },
+  {
+    "Yacht": "Zephyr",
+    "Nation": "(NSW)",
+    "Owner": "@@@_None",
+    "Skipper": "James Connell",
+    "Launch year": 1984.0
+  }
+]

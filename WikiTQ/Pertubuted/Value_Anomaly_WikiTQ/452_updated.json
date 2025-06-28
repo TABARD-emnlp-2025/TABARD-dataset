@@ -1,0 +1,4792 @@
+[
+  {
+    "Number": "SR-1",
+    "South or west terminus": "Arizona state line near St. George",
+    "North or east terminus": "Idaho state line near Malad, Idaho",
+    "Length (mi)": 400.592,
+    "Length (km)": 644.69,
+    "Formed": "1962",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for I-15"
+  },
+  {
+    "Number": "SR-1",
+    "South or west terminus": "Arizona state line near Littlefield, Arizona",
+    "North or east terminus": "Idaho state line near Franklin, Idaho",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1962",
+    "Notes": "Legislative designation for US-91"
+  },
+  {
+    "Number": "SR-2",
+    "South or west terminus": "Nevada state line in Wendover",
+    "North or east terminus": "Wyoming state line near Evanston, Wyoming",
+    "Length (mi)": 196.68,
+    "Length (km)": 316.526,
+    "Formed": "1962",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for I-80"
+  },
+  {
+    "Number": "SR-2",
+    "South or west terminus": "SR-1 (US-91)",
+    "North or east terminus": "Garden City",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1962",
+    "Notes": "Legislative designation for US-89 through Logan Canyon"
+  },
+  {
+    "Number": "SR-3",
+    "South or west terminus": "Idaho state line near Snowville",
+    "North or east terminus": "I-80 in Echo",
+    "Length (mi)": 196.68,
+    "Length (km)": 316.526,
+    "Formed": "1962",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for I-84"
+  },
+  {
+    "Number": "SR-3",
+    "South or west terminus": "Idaho state line near Montpelier, Idaho",
+    "North or east terminus": "Wyoming state line near Evanston, Wyoming",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1962",
+    "Notes": "Now SR-16 and a portion of US-89"
+  },
+  {
+    "Number": "SR-4",
+    "South or west terminus": "I-15 near Cove Fort",
+    "North or east terminus": "Colorado State line near Fruita, Colorado",
+    "Length (mi)": 231.673,
+    "Length (km)": 372.842,
+    "Formed": "1962",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for I-70"
+  },
+  {
+    "Number": "SR-4",
+    "South or west terminus": "Nevada state line in Wendover",
+    "North or east terminus": "Wyoming state line near Evanston, Wyoming",
+    "Length (mi)": 196.68,
+    "Length (km)": 316.526,
+    "Formed": "1920s",
+    "Deleted": "1962",
+    "Notes": "Legislative designation for modern I-80, then US-40, US-530 and US-30S"
+  },
+  {
+    "Number": "SR-5",
+    "South or west terminus": "I-80 in Salt Lake City",
+    "North or east terminus": "I-15 in North Salt Lake",
+    "Length (mi)": 28.946,
+    "Length (km)": 46.584,
+    "Formed": "1962",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for I-215"
+  },
+  {
+    "Number": "SR-5",
+    "South or west terminus": "Idaho state line near Malta, Idaho",
+    "North or east terminus": "US-530 near Echo",
+    "Length (mi)": 196.68,
+    "Length (km)": 316.526,
+    "Formed": "1920s",
+    "Deleted": "1962",
+    "Notes": "Legislative designation for modern I-84, then a portion of US-30S"
+  },
+  {
+    "Number": "US-6",
+    "South or west terminus": "Nevada state line near Baker, Nevada",
+    "North or east terminus": "Colorado state line near Fruita, Colorado",
+    "Length (mi)": 373.963,
+    "Length (km)": 601.835,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-6",
+    "South or west terminus": "US-40 near Park City",
+    "North or east terminus": "Colorado state line near Dinosaur, Colorado",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for US-40 in eastern Utah"
+  },
+  {
+    "Number": "SR-7",
+    "South or west terminus": "I-15 (Exit 2) in St. George",
+    "North or east terminus": "Airport Parkway in St. George",
+    "Length (mi)": 7.123,
+    "Length (km)": 11.463,
+    "Formed": "2009",
+    "Deleted": "current",
+    "Notes": "Southern Parkway"
+  },
+  {
+    "Number": "SR-7",
+    "South or west terminus": "US-89 in Provo",
+    "North or east terminus": "US-40 in Heber City",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for US-189"
+  },
+  {
+    "Number": "SR-8",
+    "South or west terminus": "SR-18 (Bluff Street) in St. George",
+    "North or east terminus": "Dixie Downs Road/Dixie Drive in St. George",
+    "Length (mi)": 1.303,
+    "Length (km)": 2.097,
+    "Formed": "1991",
+    "Deleted": "current",
+    "Notes": "Sunset Boulevard"
+  },
+  {
+    "Number": "SR-8",
+    "South or west terminus": "US-91 in Springville",
+    "North or east terminus": "Colorado state line near Fruita, Colorado",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for US-6/US-50 in eastern Utah"
+  },
+  {
+    "Number": "SR-9",
+    "South or west terminus": "I-15 at Harrisburg Junction (near La Verkin)",
+    "North or east terminus": "US-89 (State Street) at Mount Carmel Junction",
+    "Length (mi)": 57.075,
+    "Length (km)": 91.853,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": "Renumbered from SR-15"
+  },
+  {
+    "Number": "SR-9",
+    "South or west terminus": "US-50 at Crescent Junction",
+    "North or east terminus": "Colorado state line near Dove Creek, Colorado",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1977",
+    "Notes": "Modern U.S. Route 191 and U.S. Route 491"
+  },
+  {
+    "Number": "SR-10",
+    "South or west terminus": "I-70/US-50/SR-72 (Exit 91) east of Fremont Junction",
+    "North or east terminus": "SR-55 (100 North) in Price",
+    "Length (mi)": 68.816,
+    "Length (km)": 110.749,
+    "Formed": "1920s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-11",
+    "South or west terminus": "U.S. Route 89A at the Arizona state line near Fredonia, Arizona",
+    "North or east terminus": "US-89 in Kanab",
+    "Length (mi)": 2.945,
+    "Length (km)": 4.74,
+    "Formed": "1920s",
+    "Deleted": "2008",
+    "Notes": "Now US-89A, originally SR-11 extended north of Kanab towards Nephi"
+  },
+  {
+    "Number": "SR-12",
+    "South or west terminus": "US-89 at Bryce Canyon Junction south east of Panguitch",
+    "North or east terminus": "SR-24 east of Torrey",
+    "Length (mi)": 122.863,
+    "Length (km)": 197.729,
+    "Formed": "1920s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-13",
+    "South or west terminus": "US-89/US-91 (1100 South) in Brigham City",
+    "North or east terminus": "I-15 (Exit 392) northwest of Plymouth",
+    "Length (mi)": 32.841,
+    "Length (km)": 52.852,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": "Old routing of US-191"
+  },
+  {
+    "Number": "SR-13",
+    "South or west terminus": "U.S. Route 91 in Logan",
+    "North or east terminus": "Bear Lake",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1962",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for US-89 through Logan Canyon"
+  },
+  {
+    "Number": "SR-13",
+    "South or west terminus": "U.S. Route 91 at Cove Fort",
+    "North or east terminus": "US-89 near Joseph",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1962",
+    "Notes": "Now part of I-70"
+  },
+  {
+    "Number": "SR-14",
+    "South or west terminus": "SR-56/SR-130 (Main Street) in Cedar City",
+    "North or east terminus": "US-89 at Long Valley Junction east of Duck Creek Village",
+    "Length (mi)": 40.995,
+    "Length (km)": 65.975,
+    "Formed": "1920s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "I-15",
+    "South or west terminus": "Arizona state line near St. George",
+    "North or east terminus": "Idaho state line near Malad, Idaho",
+    "Length (mi)": 400.592,
+    "Length (km)": 644.69,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-15",
+    "South or west terminus": "I-15 at Harrisburg Junction (near La Verkin)",
+    "North or east terminus": "US-89 at Mount Carmel Junction",
+    "Length (mi)": 57.075,
+    "Length (km)": 91.853,
+    "Formed": "1920s",
+    "Deleted": "1977",
+    "Notes": "Renumbered to SR-9"
+  },
+  {
+    "Number": "SR-16",
+    "South or west terminus": "Wyoming Highway 89 at the Wyoming state line near Evanston, Wyoming",
+    "North or east terminus": "SR-30 at Sage Creek Junction (Bear Lake)",
+    "Length (mi)": 29.359,
+    "Length (km)": 47.249,
+    "Formed": "1962",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-16",
+    "South or west terminus": "SR-18 in Enterprise",
+    "North or east terminus": "SR-56 in Newcastle",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1935",
+    "Deleted": "1955",
+    "Notes": null
+  },
+  {
+    "Number": "SR-16",
+    "South or west terminus": "La Verkin",
+    "North or east terminus": "Arizona state line near Short Creek, Arizona",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1935",
+    "Notes": "Modern SR-59"
+  },
+  {
+    "Number": "SR-17",
+    "South or west terminus": "SR-9 in La Verkin",
+    "North or east terminus": "I-15 at Anderson Junction",
+    "Length (mi)": 6.06,
+    "Length (km)": 9.753,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-17",
+    "South or west terminus": "Brigham City",
+    "North or east terminus": "Idaho state line near Portage",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1920s",
+    "Deleted": "1927",
+    "Notes": "part of modern SR-13"
+  },
+  {
+    "Number": "SR-18",
+    "South or west terminus": "I-15 in St. George",
+    "North or east terminus": "SR-56 at Beryl Junction",
+    "Length (mi)": 51.005,
+    "Length (km)": 82.085,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-19",
+    "South or west terminus": "I-70/US-6/US-50/US-191 west of Green River",
+    "North or east terminus": "I-70/US-6/US-50/US-191 near Elgin (Green River)",
+    "Length (mi)": 4.552,
+    "Length (km)": 7.326,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": "Old routing of US-6/US-50"
+  },
+  {
+    "Number": "SR-19",
+    "South or west terminus": "Ceder City",
+    "North or east terminus": "Lund",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "No longer part of the state highway network"
+  },
+  {
+    "Number": "SR-20",
+    "South or west terminus": "I-15 north of Paragonah",
+    "North or east terminus": "US-89 at Orton (Bear Valley Junction)",
+    "Length (mi)": 20.492,
+    "Length (km)": 32.979,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-21",
+    "South or west terminus": "Nevada State Route 487 at the Nevada state line near Baker, Nevada",
+    "North or east terminus": "SR-160 in Beaver",
+    "Length (mi)": 107.343,
+    "Length (km)": 172.752,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-22",
+    "South or west terminus": "Antimony",
+    "North or east terminus": "SR-62",
+    "Length (mi)": 6.852,
+    "Length (km)": 11.027,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-23",
+    "South or west terminus": "US-89/US-91 south of Wellsville",
+    "North or east terminus": "County Road D1 at the Idaho state line near Weston, Idaho",
+    "Length (mi)": 29.89,
+    "Length (km)": 48.103,
+    "Formed": "1953",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-23",
+    "South or west terminus": "Widtsoe",
+    "North or east terminus": "Escalante",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1947",
+    "Notes": "Now part of SR-12"
+  },
+  {
+    "Number": "SR-24",
+    "South or west terminus": "US-50 near Salina",
+    "North or east terminus": "I-70/US-50 west of Green River",
+    "Length (mi)": 160.243,
+    "Length (km)": 257.886,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-25",
+    "South or west terminus": "SR-24 at Fish Lake Junction",
+    "North or east terminus": "Bowery Haven Resort (Fish Lake)",
+    "Length (mi)": 9.995,
+    "Length (km)": 16.085,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-26",
+    "South or west terminus": "SR-126 in Roy",
+    "North or east terminus": "US-89 in Ogden",
+    "Length (mi)": 3.724,
+    "Length (km)": 5.993,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-26",
+    "South or west terminus": "US-50 in Delta",
+    "North or east terminus": "US-89 in Salina",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": "Now part of US-50"
+  },
+  {
+    "Number": "SR-27",
+    "South or west terminus": "Nevada state line near Baker, Nevada",
+    "North or east terminus": "US-91 near Santaquin",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for US-6 in western Utah"
+  },
+  {
+    "Number": "SR-28",
+    "South or west terminus": "US-89 in Gunnison",
+    "North or east terminus": "I-15 north of Nephi",
+    "Length (mi)": 43.612,
+    "Length (km)": 70.187,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-29",
+    "South or west terminus": "Joes Valley Reservoir",
+    "North or east terminus": "SR-10 north of Castle Dale",
+    "Length (mi)": 21.732,
+    "Length (km)": 34.974,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-30",
+    "South or west terminus": "Nevada State Route 233 at the Nevada state line near Montello, Nevada",
+    "North or east terminus": "Wyoming Highway 89 at the Wyoming state line near Kemmerer, Wyoming",
+    "Length (mi)": 135.62,
+    "Length (km)": 218.259,
+    "Formed": "1966",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-30",
+    "South or west terminus": "Fountain Green",
+    "North or east terminus": "Spring City",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1966",
+    "Notes": null
+  },
+  {
+    "Number": "US-30S",
+    "South or west terminus": "Idaho state line near Snowville",
+    "North or east terminus": "Wyoming state line near Evanston, Wyoming",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1926",
+    "Deleted": "1977",
+    "Notes": "Replaced by I-84 and I-80"
+  },
+  {
+    "Number": "SR-31",
+    "South or west terminus": "US-89 in Fairview",
+    "North or east terminus": "SR-10 in Huntington",
+    "Length (mi)": 47.746,
+    "Length (km)": 76.84,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-32",
+    "South or west terminus": "US-40 north of Heber City",
+    "North or east terminus": "I-80 northeast of Wanship",
+    "Length (mi)": 29.053,
+    "Length (km)": 46.756,
+    "Formed": "1989",
+    "Deleted": "current",
+    "Notes": "Old routing of US-189"
+  },
+  {
+    "Number": "SR-32",
+    "South or west terminus": "Pigeon Hollow Junction",
+    "North or east terminus": "Thistle",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for a portion of US-89"
+  },
+  {
+    "Number": "SR-33",
+    "South or west terminus": "US-6 near Helper",
+    "North or east terminus": "US-40 in Duchesne",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1981",
+    "Notes": "now part of US-191"
+  },
+  {
+    "Number": "SR-34",
+    "South or west terminus": "SR-18 in St. George",
+    "North or east terminus": "Towards Washington",
+    "Length (mi)": 2.15,
+    "Length (km)": 3.46,
+    "Formed": "1964",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-34",
+    "South or west terminus": "US-40 near Heber City",
+    "North or east terminus": "US-530 in Wanship",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": "Legislative designation for then US-189 now SR-32"
+  },
+  {
+    "Number": "SR-35",
+    "South or west terminus": "SR-32 at Francis",
+    "North or east terminus": "SR-87 north of Duchesne",
+    "Length (mi)": 62.012,
+    "Length (km)": 99.799,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-36",
+    "South or west terminus": "US-6 west of Eureka",
+    "North or east terminus": "I-80 north of Tooele",
+    "Length (mi)": 65.914,
+    "Length (km)": 106.078,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-37",
+    "South or west terminus": "SR-126 in Sunset",
+    "North or east terminus": "SR-108 near Roy",
+    "Length (mi)": 12.351,
+    "Length (km)": 19.877,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-38",
+    "South or west terminus": "SR-13 in Brigham City",
+    "North or east terminus": "SR-30 in Collinston",
+    "Length (mi)": 18.952,
+    "Length (km)": 30.5,
+    "Formed": "1993",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-38",
+    "South or west terminus": "I-15 near Parowan",
+    "North or east terminus": "I-15 near Parowan",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1968",
+    "Deleted": "1975",
+    "Notes": "Formerly part of US-91, Now SR-271"
+  },
+  {
+    "Number": "SR-38",
+    "South or west terminus": "Roy",
+    "North or east terminus": "Hooper Junction",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1966",
+    "Notes": "Now part of SR-37"
+  },
+  {
+    "Number": "SR-39",
+    "South or west terminus": "SR-134 west of Ogden",
+    "North or east terminus": "SR-16 in Woodruff",
+    "Length (mi)": 67.744,
+    "Length (km)": 109.023,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "US-40",
+    "South or west terminus": "I-80 near Park City",
+    "North or east terminus": "Colorado state line near Dinosaur, Colorado",
+    "Length (mi)": 174.624,
+    "Length (km)": 281.03,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-40",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": "Now part of SR-138"
+  },
+  {
+    "Number": "SR-41",
+    "South or west terminus": "I-15/SR-28 in Nephi",
+    "North or east terminus": "I-15 in Nephi",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1968",
+    "Deleted": "2006",
+    "Notes": "Formerly part of US-91, now part of SR-28"
+  },
+  {
+    "Number": "SR-41",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1962",
+    "Notes": "Now part of SR-13"
+  },
+  {
+    "Number": "SR-42",
+    "South or west terminus": "Idaho state line near Malta, Idaho",
+    "North or east terminus": "SR-30 at Curlew Junction (near Promontory)",
+    "Length (mi)": 7.39,
+    "Length (km)": 11.893,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": "Formerly part of US-30S"
+  },
+  {
+    "Number": "SR-43",
+    "South or west terminus": "Wyoming Highway 414 at the Wyoming state line near Mountain View, Wyoming",
+    "North or east terminus": "Wyoming Highway 530 at the Wyoming state line near Green River, Wyoming",
+    "Length (mi)": 10.557,
+    "Length (km)": 16.99,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-44",
+    "South or west terminus": "US-191 at Greendale Junction (Flaming Gorge)",
+    "North or east terminus": "SR-43 in Manila",
+    "Length (mi)": 27.995,
+    "Length (km)": 45.054,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-45",
+    "South or west terminus": "South of Bonanza",
+    "North or east terminus": "US-40 near Naples",
+    "Length (mi)": 40.028,
+    "Length (km)": 64.419,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-46",
+    "South or west terminus": "US-191 at La Sal Junction",
+    "North or east terminus": "Colorado State Highway 90 at the Colorado state line near Naturita, Colorado",
+    "Length (mi)": 21.595,
+    "Length (km)": 34.754,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-47",
+    "South or west terminus": "Arizona state line in Monument Valley",
+    "North or east terminus": "Monticello",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": "Now US-163 and part of US-191"
+  },
+  {
+    "Number": "SR-48",
+    "South or west terminus": "Copperton",
+    "North or east terminus": "US-89 in Midvale",
+    "Length (mi)": 12.699,
+    "Length (km)": 20.437,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-49",
+    "South or west terminus": "US-91 at Farmington",
+    "North or east terminus": "I-84 near Ogden",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1927",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for portion of US-89"
+  },
+  {
+    "Number": "US-50",
+    "South or west terminus": "Nevada state line near Baker, Nevada",
+    "North or east terminus": "Colorado state line near Fruita, Colorado",
+    "Length (mi)": 334.92,
+    "Length (km)": 539.001,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-50",
+    "South or west terminus": "SR-126 in Roy",
+    "North or east terminus": "US-89 in Ogden",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "1977",
+    "Notes": "Formerly part of US-91, now SR-26"
+  },
+  {
+    "Number": "SR-50",
+    "South or west terminus": "Wattis",
+    "North or east terminus": "SR-122 near Hiawatha",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1935",
+    "Deleted": "1969",
+    "Notes": "No longer part of the state highway network"
+  },
+  {
+    "Number": "SR-51",
+    "South or west terminus": "SR-147 in Spanish Fork",
+    "North or east terminus": "US-89 in Springville",
+    "Length (mi)": 3.339,
+    "Length (km)": 5.374,
+    "Formed": "1992",
+    "Deleted": "current",
+    "Notes": "Formerly part of US-91"
+  },
+  {
+    "Number": "SR-51",
+    "South or west terminus": "US-89 in Garden City",
+    "North or east terminus": "Wyoming state line near Randolph",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": "Now part of SR-30"
+  },
+  {
+    "Number": "SR-52",
+    "South or west terminus": "SR-114 in Orem",
+    "North or east terminus": "US-189 in Orem",
+    "Length (mi)": 4.477,
+    "Length (km)": 7.205,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-53",
+    "South or west terminus": "I-15/I-84 in Ogden",
+    "North or east terminus": "US-89 in Ogden",
+    "Length (mi)": 1.949,
+    "Length (km)": 3.137,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-53",
+    "South or west terminus": "US-6 near Wellington",
+    "North or east terminus": "Nine Mile Canyon",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "No longer part of the state highway network"
+  },
+  {
+    "Number": "SR-54",
+    "South or west terminus": "Mona",
+    "North or east terminus": "I-15 east of Mona",
+    "Length (mi)": 1.344,
+    "Length (km)": 2.163,
+    "Formed": "1971",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-54",
+    "South or west terminus": "Tropic",
+    "North or east terminus": "SR-12",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-55",
+    "South or west terminus": "US-6/US-191 west of Price",
+    "North or east terminus": "US-6/US-191 southeast of Price",
+    "Length (mi)": 2.942,
+    "Length (km)": 4.735,
+    "Formed": "1975",
+    "Deleted": "current",
+    "Notes": "Old routing of US-6"
+  },
+  {
+    "Number": "SR-55",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-56",
+    "South or west terminus": "Nevada State Route 319 at the Nevada state line near Caliente, Nevada",
+    "North or east terminus": "SR-130 in Cedar City",
+    "Length (mi)": 61.502,
+    "Length (km)": 98.978,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-57",
+    "South or west terminus": "SR-10 south of Orangeville",
+    "North or east terminus": "Wilberg Mine northwest of Orangeville",
+    "Length (mi)": 10.691,
+    "Length (km)": 17.205,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-58",
+    "South or west terminus": "I-80 Bus. at Nevada state line in West Wendover, Nevada",
+    "North or east terminus": "I-80 (Exit 2) in Wendover",
+    "Length (mi)": 1.363,
+    "Length (km)": 2.194,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": "Formerly part of US-40"
+  },
+  {
+    "Number": "SR-58",
+    "South or west terminus": "Kanarraville",
+    "North or east terminus": "Kanarraville",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1965",
+    "Deleted": "1969",
+    "Notes": "Formerly part of US-91"
+  },
+  {
+    "Number": "SR-58",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-59",
+    "South or west terminus": "Arizona State Route 389 in Colorado City, Arizona",
+    "North or east terminus": "SR-9 in Hurricane",
+    "Length (mi)": 22.206,
+    "Length (km)": 35.737,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-60",
+    "South or west terminus": "SR-26 in Riverdale",
+    "North or east terminus": "US-89 in South Weber",
+    "Length (mi)": 7.496,
+    "Length (km)": 12.064,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": "Formerly part of US-30S"
+  },
+  {
+    "Number": "SR-61",
+    "South or west terminus": "SR-23 in Cornish",
+    "North or east terminus": "US-91 at Webster Junction (near Cove)",
+    "Length (mi)": 7.287,
+    "Length (km)": 11.727,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-62",
+    "South or west terminus": "US-89 south of Junction",
+    "North or east terminus": "SR-24 at Plateau Junction near Koosharem",
+    "Length (mi)": 42.833,
+    "Length (km)": 68.933,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-63",
+    "South or west terminus": "Bryce Canyon National Park",
+    "North or east terminus": "SR-12 near Tropic Junction",
+    "Length (mi)": 2.63,
+    "Length (km)": 4.233,
+    "Formed": "1975",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-63",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1971",
+    "Notes": null
+  },
+  {
+    "Number": "SR-64",
+    "South or west terminus": "I-15 south of Holden",
+    "North or east terminus": "US-50 in Holden",
+    "Length (mi)": 2.015,
+    "Length (km)": 3.243,
+    "Formed": "1975",
+    "Deleted": "current",
+    "Notes": "Formerly part of US-91"
+  },
+  {
+    "Number": "SR-64",
+    "South or west terminus": "Arizona state line near St. George",
+    "North or east terminus": "US-91 in St. George",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "No longer part of state highway network"
+  },
+  {
+    "Number": "SR-65",
+    "South or west terminus": "I-80 (Exit 134) near Mountain Dell Reservoir",
+    "North or east terminus": "I-84 (Exit 115) in Henefer",
+    "Length (mi)": 28.315,
+    "Length (km)": 45.569,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-66",
+    "South or west terminus": "SR-65 (East Canyon Road) northwest of East Canyon Reservoir",
+    "North or east terminus": "I-84 (Exit 103) in Morgan",
+    "Length (mi)": 14.901,
+    "Length (km)": 23.981,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-67",
+    "South or west terminus": "I-215 near North Salt Lake",
+    "North or east terminus": "I-15/US-89 ind Farmington",
+    "Length (mi)": 11.5,
+    "Length (km)": 18.507,
+    "Formed": "2008",
+    "Deleted": "current",
+    "Notes": "Also signed as Legacy Parkway"
+  },
+  {
+    "Number": "SR-67",
+    "South or west terminus": "US-6 at Tintic Junction",
+    "North or east terminus": "SR-36 near Tintic Junction",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1975",
+    "Deleted": "1991",
+    "Notes": "Connector between SR-36 and US-6, now part of SR-36"
+  },
+  {
+    "Number": "SR-67",
+    "South or west terminus": "Dixie State University",
+    "North or east terminus": "Dixie State University",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1962",
+    "Deleted": "1969",
+    "Notes": "Legislative designation for state maintained roads at Dixie State University, Now SR-281"
+  },
+  {
+    "Number": "SR-67",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1962",
+    "Notes": "Legislative designation for portion of modern I-80"
+  },
+  {
+    "Number": "SR-68",
+    "South or west terminus": "US-6 at Elberta",
+    "North or east terminus": "US-89 in Woods Cross",
+    "Length (mi)": 70.832,
+    "Length (km)": 113.993,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-69",
+    "South or west terminus": "US-89 in Brigham City, Utah",
+    "North or east terminus": "Collinston",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1993",
+    "Notes": "Renumbered SR-38"
+  },
+  {
+    "Number": "I-70",
+    "South or west terminus": "I-15 near Cove Fort",
+    "North or east terminus": "Colorado state line near Fruita, Colorado",
+    "Length (mi)": 231.673,
+    "Length (km)": 372.842,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-70",
+    "South or west terminus": "Nevada State Route 30 at the Nevada state line near Montello, Nevada",
+    "North or east terminus": "US-30S near Snowville",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": "Now part of SR-30"
+  },
+  {
+    "Number": "SR-71",
+    "South or west terminus": "SR-154 in Riverton",
+    "North or east terminus": "SR-186 in Salt Lake City",
+    "Length (mi)": 22.465,
+    "Length (km)": 36.154,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-72",
+    "South or west terminus": "SR-24 in Loa",
+    "North or east terminus": "I-70/US-50/SR-10 near Fremont Junction",
+    "Length (mi)": 35.362,
+    "Length (km)": 56.91,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-73",
+    "South or west terminus": "SR-36 northeast of St. John Station (near Stockton & Rush Valley)",
+    "North or east terminus": "US-89 (State Street) in Lehi",
+    "Length (mi)": 41.177,
+    "Length (km)": 66.268,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-74",
+    "South or west terminus": "US-89 (East Main Street) in American Fork",
+    "North or east terminus": "Immediately southwest of Canyon Crest Road in Alpine",
+    "Length (mi)": 5.058,
+    "Length (km)": 8.14,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-75",
+    "South or west terminus": "I-15 in Springville",
+    "North or east terminus": "US-89 Springville",
+    "Length (mi)": 2.023,
+    "Length (km)": 3.256,
+    "Formed": "1962",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-75",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-76",
+    "South or west terminus": "I-70 (Exit 86) west of Fremont Junction",
+    "North or east terminus": "SR-72 at Fremont Junction",
+    "Length (mi)": 2.431,
+    "Length (km)": 3.912,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": "Formerly part of SR-10"
+  },
+  {
+    "Number": "SR-76",
+    "South or west terminus": "Paragonah",
+    "North or east terminus": "Parowan",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1968",
+    "Deleted": "1969",
+    "Notes": "Formerly part of US-91, now part of SR-271"
+  },
+  {
+    "Number": "SR-76",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1963",
+    "Notes": null
+  },
+  {
+    "Number": "SR-77",
+    "South or west terminus": "SR-147 north of Benjamin",
+    "North or east terminus": "US-89 in Springville",
+    "Length (mi)": 9.069,
+    "Length (km)": 14.595,
+    "Formed": "1962",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-77",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-78",
+    "South or west terminus": "I-15 near Mills Junction (Juab County)",
+    "North or east terminus": "SR-28 in Levan",
+    "Length (mi)": 9.418,
+    "Length (km)": 15.157,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-78",
+    "South or west terminus": "Orem",
+    "North or east terminus": "Orem",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "800 South in Orem"
+  },
+  {
+    "Number": "SR-79",
+    "South or west terminus": "SR-126 west of Ogden",
+    "North or east terminus": "SR-203 in Ogden",
+    "Length (mi)": 4.171,
+    "Length (km)": 6.713,
+    "Formed": "1958",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-79",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "I-80",
+    "South or west terminus": "Nevada state line at Wendover",
+    "North or east terminus": "Wyoming state line near Evanston, Wyoming",
+    "Length (mi)": 196.68,
+    "Length (km)": 316.526,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-80",
+    "South or west terminus": "US-89 near American Fork",
+    "North or east terminus": "US-189 in Provo Canyon",
+    "Length (mi)": 27.272,
+    "Length (km)": 43.89,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": "Renumbered SR-92"
+  },
+  {
+    "Number": "I-80N",
+    "South or west terminus": "Idaho state line near Snowville",
+    "North or east terminus": "Interstate 80 near Echo",
+    "Length (mi)": 119.773,
+    "Length (km)": 192.756,
+    "Formed": "1956",
+    "Deleted": "1981",
+    "Notes": "Renumbered I-84"
+  },
+  {
+    "Number": "SR-81",
+    "South or west terminus": "SR-30 south of Fielding",
+    "North or east terminus": "Main Street in Fielding",
+    "Length (mi)": 2.475,
+    "Length (km)": 3.983,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-82",
+    "South or west terminus": "SR-102 in Tremonton",
+    "North or east terminus": "SR-13 east of Garland",
+    "Length (mi)": 3.178,
+    "Length (km)": 5.114,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-83",
+    "South or west terminus": "SR-13 in Corinne",
+    "North or east terminus": "I-84 at Howell",
+    "Length (mi)": 31.714,
+    "Length (km)": 51.039,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "I-84",
+    "South or west terminus": "Idaho state line near Snowville",
+    "North or east terminus": "Interstate 80 near Echo",
+    "Length (mi)": 119.773,
+    "Length (km)": 192.756,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-84",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": "Now part of SR-126"
+  },
+  {
+    "Number": "SR-85",
+    "South or west terminus": "I-15 in Brigham City",
+    "North or east terminus": "US-89 in Brigham City",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1962",
+    "Deleted": "1977",
+    "Notes": "Now part of U.S. Route 91"
+  },
+  {
+    "Number": "SR-85",
+    "South or west terminus": "Riverside",
+    "North or east terminus": "near Riverside",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": "Now part of SR-30"
+  },
+  {
+    "Number": "SR-85",
+    "South or west terminus": "I-15 in Lehi",
+    "North or east terminus": "I-80 Salt Lake City",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "2012",
+    "Deleted": "current",
+    "Notes": "Portions south of Porter Rockwell Boulevard and north of 5400 South not yet complete\nWill eventually be a limited access freeway for entire length"
+  },
+  {
+    "Number": "SR-86",
+    "South or west terminus": "I-84",
+    "North or east terminus": "SR-65 at Henefer",
+    "Length (mi)": 2.141,
+    "Length (km)": 3.446,
+    "Formed": "1975",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-86",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1935",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-87",
+    "South or west terminus": "US-40 in Duchesne",
+    "North or east terminus": "US-40 southwest of Roosevelt",
+    "Length (mi)": 38.159,
+    "Length (km)": 61.411,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-88",
+    "South or west terminus": "South of Ouray",
+    "North or east terminus": "US-40 east of Fort Duchesne",
+    "Length (mi)": 16.996,
+    "Length (km)": 27.352,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "US-89",
+    "South or west terminus": "Arizona state line near Page, Arizona",
+    "North or east terminus": "Idaho state line at Bear Lake",
+    "Length (mi)": 502.577,
+    "Length (km)": 808.819,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-89",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1975",
+    "Deleted": "1977",
+    "Notes": null
+  },
+  {
+    "Number": "SR-89",
+    "South or west terminus": "Francis",
+    "North or east terminus": "Francis",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "US-89A",
+    "South or west terminus": "Arizona state line near Kanab",
+    "North or east terminus": "US-89 at Kanab",
+    "Length (mi)": 2.94,
+    "Length (km)": 4.73,
+    "Formed": "2008",
+    "Deleted": "current",
+    "Notes": "Replaced SR-11"
+  },
+  {
+    "Number": "SR-90",
+    "South or west terminus": "SR-13 in Brigham City",
+    "North or east terminus": "US-89/US-91",
+    "Length (mi)": 1.178,
+    "Length (km)": 1.896,
+    "Formed": "1975",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-90",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1948",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-90",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1947",
+    "Notes": null
+  },
+  {
+    "Number": "US-91",
+    "South or west terminus": "I-15 near Brigham City",
+    "North or east terminus": "Idaho state line near Franklin, Idaho",
+    "Length (mi)": 45.271,
+    "Length (km)": 72.857,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-91",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-92",
+    "South or west terminus": "I-15 in Lehi",
+    "North or east terminus": "US-189 in Provo Canyon",
+    "Length (mi)": 27.272,
+    "Length (km)": 43.89,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": "Renumbered from SR-80"
+  },
+  {
+    "Number": "SR-92",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-93",
+    "South or west terminus": "I-15 south of Woods Cross",
+    "North or east terminus": "US-89",
+    "Length (mi)": 0.365,
+    "Length (km)": 0.587,
+    "Formed": "1961",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-93",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-94",
+    "South or west terminus": "I-70",
+    "North or east terminus": "Thompson",
+    "Length (mi)": 0.958,
+    "Length (km)": 1.542,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-94",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-95",
+    "South or west terminus": "SR-24 east of Hanksville",
+    "North or east terminus": "US-191 south of Blanding",
+    "Length (mi)": 121.351,
+    "Length (km)": 195.296,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-96",
+    "South or west terminus": "Clear Creek",
+    "North or east terminus": "US-6 near Colton",
+    "Length (mi)": 22.759,
+    "Length (km)": 36.627,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-97",
+    "South or west terminus": "SR-37 in Hooper",
+    "North or east terminus": "Hill Air Force Base",
+    "Length (mi)": 5.347,
+    "Length (km)": 8.605,
+    "Formed": "1965",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-97",
+    "South or west terminus": "Park City",
+    "North or east terminus": "Park City",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1963",
+    "Notes": "Now part of SR-224"
+  },
+  {
+    "Number": "SR-98",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "2000",
+    "Notes": null
+  },
+  {
+    "Number": "SR-97",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-99",
+    "South or west terminus": "I-15 south of Fillmore",
+    "North or east terminus": "I-15 north of Fillmore",
+    "Length (mi)": 4.193,
+    "Length (km)": 6.748,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-99",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-100",
+    "South or west terminus": "SR-99 in Fillmore",
+    "North or east terminus": "US-50 west of Holden",
+    "Length (mi)": 16.934,
+    "Length (km)": 27.253,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-101",
+    "South or west terminus": "SR-23 in Wellsville",
+    "North or east terminus": "Hardware Ranch",
+    "Length (mi)": 21.811,
+    "Length (km)": 35.101,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-102",
+    "South or west terminus": "SR-83 east of Lampo Junction (near Promontory)",
+    "North or east terminus": "SR-38",
+    "Length (mi)": 20.072,
+    "Length (km)": 32.303,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-103",
+    "South or west terminus": "SR-126 (North Main Street) in Clearfield",
+    "North or east terminus": "West Gate of Hill Air Force Base",
+    "Length (mi)": 0.225,
+    "Length (km)": 0.362,
+    "Formed": "1965",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-103",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1964",
+    "Notes": null
+  },
+  {
+    "Number": "SR-104",
+    "South or west terminus": "SR-126",
+    "North or east terminus": "SR-204 in Ogden",
+    "Length (mi)": 2.492,
+    "Length (km)": 4.01,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-105",
+    "South or west terminus": "I-15",
+    "North or east terminus": "SR-106 in Centerville",
+    "Length (mi)": 0.695,
+    "Length (km)": 1.118,
+    "Formed": "1965",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-105",
+    "South or west terminus": "Santaquin",
+    "North or east terminus": "Spanish Fork",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1964",
+    "Notes": "Legislative designation for a portion of US-6, now part of SR-198"
+  },
+  {
+    "Number": "SR-106",
+    "South or west terminus": "I-15 west of Bountiful",
+    "North or east terminus": "US-89 in Farmington",
+    "Length (mi)": 9.426,
+    "Length (km)": 15.17,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-107",
+    "South or west terminus": "SR-110 west of West Point",
+    "North or east terminus": "SR-126 in Clearfield",
+    "Length (mi)": 4.517,
+    "Length (km)": 7.269,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-108",
+    "South or west terminus": "I-15 in Layton",
+    "North or east terminus": "SR-126",
+    "Length (mi)": 12.92,
+    "Length (km)": 20.793,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-109",
+    "South or west terminus": "SR-126",
+    "North or east terminus": "US-89 in Layton",
+    "Length (mi)": 2.962,
+    "Length (km)": 4.767,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-110",
+    "South or west terminus": "SR-127 west of Syracuse",
+    "North or east terminus": "SR-37 west of Clinton",
+    "Length (mi)": 3.495,
+    "Length (km)": 5.625,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-110",
+    "South or west terminus": "Kaysville",
+    "North or east terminus": "Kaysville",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-111",
+    "South or west terminus": "SR-48 east of Copperton",
+    "North or east terminus": "SR-201 northeast of Magna",
+    "Length (mi)": 10.596,
+    "Length (km)": 17.053,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-112",
+    "South or west terminus": "SR-138 east of Grantsville",
+    "North or east terminus": "SR-36 in Tooele",
+    "Length (mi)": 8.603,
+    "Length (km)": 13.845,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-113",
+    "South or west terminus": "US-189 in Charleston",
+    "North or east terminus": "US-40 in Heber City",
+    "Length (mi)": 7.141,
+    "Length (km)": 11.492,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-114",
+    "South or west terminus": "US-89 (500 West) in Provo",
+    "North or east terminus": "US-89 (State Street) in Pleasant Grove",
+    "Length (mi)": 10.787,
+    "Length (km)": 17.36,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-115",
+    "South or west terminus": "SR-198 in Payson",
+    "North or east terminus": "SR-156 in Spanish Fork",
+    "Length (mi)": 8.247,
+    "Length (km)": 13.272,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-116",
+    "South or west terminus": "SR-132 in Moroni",
+    "North or east terminus": "US-89 in Mount Pleasant",
+    "Length (mi)": 7.061,
+    "Length (km)": 11.364,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-117",
+    "South or west terminus": "Wales",
+    "North or east terminus": "US-89",
+    "Length (mi)": 12.192,
+    "Length (km)": 19.621,
+    "Formed": "1966",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-117",
+    "South or west terminus": "SR-12 in Teasdale",
+    "North or east terminus": "Grover",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1966",
+    "Notes": "No longer part of state route system"
+  },
+  {
+    "Number": "SR-118",
+    "South or west terminus": "I-70/US-89",
+    "North or east terminus": "SR-24 near Sigurd",
+    "Length (mi)": 24.137,
+    "Length (km)": 38.845,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-119",
+    "South or west terminus": "SR-118 in Richfield",
+    "North or east terminus": "SR-24 at Kings Meadow Canyon",
+    "Length (mi)": 8.753,
+    "Length (km)": 14.087,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-120",
+    "South or west terminus": "I-70/US-89",
+    "North or east terminus": "I-70/US-89 north of Richfield",
+    "Length (mi)": 3.886,
+    "Length (km)": 6.254,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-120",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-121",
+    "South or west terminus": "US-40 in Roosevelt",
+    "North or east terminus": "US-40 in Vernal",
+    "Length (mi)": 40.293,
+    "Length (km)": 64.845,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-122",
+    "South or west terminus": "Near Hiawatha",
+    "North or east terminus": "SR-10",
+    "Length (mi)": 8.751,
+    "Length (km)": 14.083,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-123",
+    "South or west terminus": "US-6/US-191 at Sunnyside Junction",
+    "North or east terminus": "Sunnyside",
+    "Length (mi)": 11.421,
+    "Length (km)": 18.38,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-124",
+    "South or west terminus": "Horse Canyon Mine",
+    "North or east terminus": "SR-123",
+    "Length (mi)": 7.956,
+    "Length (km)": 12.804,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-125",
+    "South or west terminus": "US-50/SR-136 east of Delta",
+    "North or east terminus": "SR-132 near Leamington",
+    "Length (mi)": 21.855,
+    "Length (km)": 35.172,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-126",
+    "South or west terminus": "I-15 south of Layton",
+    "North or east terminus": "US-89 at Hot Springs Junction near Pleasant View",
+    "Length (mi)": 21.609,
+    "Length (km)": 34.776,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-126",
+    "South or west terminus": "Greenville",
+    "North or east terminus": "Greenville",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "No longer part of the state route system"
+  },
+  {
+    "Number": "SR-127",
+    "South or west terminus": "SR-110",
+    "North or east terminus": "SR-108 in Syracuse",
+    "Length (mi)": 2.507,
+    "Length (km)": 4.035,
+    "Formed": "1965",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-127",
+    "South or west terminus": "Parowan",
+    "North or east terminus": "near Lund",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": "No longer part of the state route system"
+  },
+  {
+    "Number": "SR-128",
+    "South or west terminus": "US-191 near Moab",
+    "North or east terminus": "I-70 near Cisco",
+    "Length (mi)": 44.564,
+    "Length (km)": 71.719,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-129",
+    "South or west terminus": "Riverside",
+    "North or east terminus": "Tremonton",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1983",
+    "Deleted": "1989",
+    "Notes": null
+  },
+  {
+    "Number": "SR-129",
+    "South or west terminus": "Milford",
+    "North or east terminus": "Milford",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-130",
+    "South or west terminus": "I-15 south of Cedar City",
+    "North or east terminus": "SR-21 north of Minersville",
+    "Length (mi)": 43.076,
+    "Length (km)": 69.324,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-131",
+    "South or west terminus": "Woods Cross",
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1933",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-132",
+    "South or west terminus": "US-6 in Lynndyl",
+    "North or east terminus": "US-89 at Pigeon Hollow Junction",
+    "Length (mi)": 63.132,
+    "Length (km)": 101.601,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-133",
+    "South or west terminus": "South of Kanosh",
+    "North or east terminus": "I-15 north of Meadow",
+    "Length (mi)": 7.183,
+    "Length (km)": 11.56,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-133",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-134",
+    "South or west terminus": "SR-37 at Kanesville",
+    "North or east terminus": "SR-235 in North Ogden",
+    "Length (mi)": 14.304,
+    "Length (km)": 23.02,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-134",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-134",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "1992",
+    "Notes": null
+  },
+  {
+    "Number": "SR-135",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-136",
+    "South or west terminus": "US-50/SR-125 east of Delta",
+    "North or east terminus": "US-6",
+    "Length (mi)": 3.059,
+    "Length (km)": 4.923,
+    "Formed": "1985",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-136",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-137",
+    "South or west terminus": "US-89 in Gunnison",
+    "North or east terminus": "US-89 east of Gunnison",
+    "Length (mi)": 11.357,
+    "Length (km)": 18.277,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-138",
+    "South or west terminus": "I-80",
+    "North or east terminus": "SR-36 at Mills Junction (Tooele County)",
+    "Length (mi)": 20.444,
+    "Length (km)": 32.901,
+    "Formed": "1965",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-138",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-139",
+    "South or west terminus": "US-6/US-191",
+    "North or east terminus": "SR-157 near Spring Glen",
+    "Length (mi)": 1.408,
+    "Length (km)": 2.266,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-140",
+    "South or west terminus": "SR-68 at Bluffdale",
+    "North or east terminus": "I-15",
+    "Length (mi)": 2.559,
+    "Length (km)": 4.118,
+    "Formed": "1984",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-140",
+    "South or west terminus": "Hinckley",
+    "North or east terminus": "Deseret",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-141",
+    "South or west terminus": "US-6 in Genola",
+    "North or east terminus": "SR-147 west of Payson",
+    "Length (mi)": 6.623,
+    "Length (km)": 10.659,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-141",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-142",
+    "South or west terminus": "SR-23 near Newton",
+    "North or east terminus": "US-91 in Richmond",
+    "Length (mi)": 17.353,
+    "Length (km)": 27.927,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-143",
+    "South or west terminus": "I-15 west of Parowan",
+    "North or east terminus": "US-89 in Panguitch",
+    "Length (mi)": 51.206,
+    "Length (km)": 82.408,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-144",
+    "South or west terminus": "SR-92 in American Fork Canyon",
+    "North or east terminus": "Tibble Fork Reservoir",
+    "Length (mi)": 2.478,
+    "Length (km)": 3.988,
+    "Formed": "1978",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-144",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-145",
+    "South or west terminus": "SR-68 in Saratoga Springs",
+    "North or east terminus": "US-89 in American Fork",
+    "Length (mi)": 5.717,
+    "Length (km)": 9.201,
+    "Formed": "1978",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-145",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-146",
+    "South or west terminus": "US-89 at Pleasant Grove",
+    "North or east terminus": "SR-92 near American Fork Canyon",
+    "Length (mi)": 5.306,
+    "Length (km)": 8.539,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-147",
+    "South or west terminus": "SR-141 at McBeth Corner (near Payson)",
+    "North or east terminus": "US-89",
+    "Length (mi)": 18.175,
+    "Length (km)": 29.25,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-148",
+    "South or west terminus": "SR-14",
+    "North or east terminus": "Cedar Breaks National Monument",
+    "Length (mi)": 2.544,
+    "Length (km)": 4.094,
+    "Formed": "1985",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-148",
+    "South or west terminus": "US-6 in Lynndyl",
+    "North or east terminus": "Leamington",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "Now part of SR-132"
+  },
+  {
+    "Number": "SR-149",
+    "South or west terminus": "US-40 at Jensen",
+    "North or east terminus": "Dinosaur National Monument",
+    "Length (mi)": 4.219,
+    "Length (km)": 6.79,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-150",
+    "South or west terminus": "SR-32 in Kamas",
+    "North or east terminus": "Wyoming Highway 150 at the Wyoming state line near Evanston, Wyoming",
+    "Length (mi)": 54.742,
+    "Length (km)": 88.099,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-151",
+    "South or west terminus": "SR-154",
+    "North or east terminus": "I-15",
+    "Length (mi)": 4.235,
+    "Length (km)": 6.816,
+    "Formed": "1987",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-151",
+    "South or west terminus": "US-40 in Hailstone",
+    "North or east terminus": "Keetley",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1977",
+    "Notes": null
+  },
+  {
+    "Number": "SR-152",
+    "South or west terminus": "SR-71",
+    "North or east terminus": "I-215",
+    "Length (mi)": 3.044,
+    "Length (km)": 4.899,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-153",
+    "South or west terminus": "SR-160 in Beaver",
+    "North or east terminus": "US-89 in Junction",
+    "Length (mi)": 40.488,
+    "Length (km)": 65.159,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-154",
+    "South or west terminus": "I-15",
+    "North or east terminus": "I-80 near Salt Lake City International Airport",
+    "Length (mi)": 24.319,
+    "Length (km)": 39.138,
+    "Formed": "1989",
+    "Deleted": "current",
+    "Notes": "Also known as the Bangerter Highway"
+  },
+  {
+    "Number": "SR-154",
+    "South or west terminus": "Garland",
+    "North or east terminus": "Garland",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "Garland Road"
+  },
+  {
+    "Number": "SR-155",
+    "South or west terminus": "SR-10 in Huntington",
+    "North or east terminus": "SR-10 at Washboard Junction (near Cleveland)",
+    "Length (mi)": 10.718,
+    "Length (km)": 17.249,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-156",
+    "South or west terminus": "SR-198 in Spanish Fork",
+    "North or east terminus": "I-15",
+    "Length (mi)": 1.382,
+    "Length (km)": 2.224,
+    "Formed": "1962",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-156",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-157",
+    "South or west terminus": "US-6/US-191 in Helper",
+    "North or east terminus": "Kenilworth",
+    "Length (mi)": 5.189,
+    "Length (km)": 8.351,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": "In 2013 a section of the former SR-244 along Poplar Street was added to SR-157 when SR-244 was deleted from the State Highway System."
+  },
+  {
+    "Number": "SR-158",
+    "South or west terminus": "SR-39 at Eden Junction",
+    "North or east terminus": "Powder Mountain Ski Resort",
+    "Length (mi)": 11.691,
+    "Length (km)": 18.815,
+    "Formed": "1990",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-158",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-159",
+    "South or west terminus": "SR-21 near Garrison",
+    "North or east terminus": "US-6/US-50",
+    "Length (mi)": 8.018,
+    "Length (km)": 12.904,
+    "Formed": "1979",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-159",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "Old alignment of US-6"
+  },
+  {
+    "Number": "SR-160",
+    "South or west terminus": "I-15 (Exit 109) in Beaver",
+    "North or east terminus": "I-15 (Exit 112) in Beaver",
+    "Length (mi)": 3.808,
+    "Length (km)": 6.128,
+    "Formed": "1961",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "US-160",
+    "South or west terminus": "US-50 at Crescent Junction",
+    "North or east terminus": "Colorado state line near Dove Creek, Colorado",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1971",
+    "Notes": "Replaced by US-163 and US-666, Modern US-191 and US-491"
+  },
+  {
+    "Number": "SR-160",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-161",
+    "South or west terminus": "I-70 near Cove Fort",
+    "North or east terminus": "I-15",
+    "Length (mi)": 3.084,
+    "Length (km)": 4.963,
+    "Formed": "1965",
+    "Deleted": "current",
+    "Notes": "Formerly part of US-91"
+  },
+  {
+    "Number": "SR-161",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1961",
+    "Deleted": "1964",
+    "Notes": null
+  },
+  {
+    "Number": "SR-161",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-162",
+    "South or west terminus": "US-191 in Bluff",
+    "North or east terminus": "Colorado State Highway 41 at the Colorado state line near Cortez, Colorado",
+    "Length (mi)": 31.852,
+    "Length (km)": 51.261,
+    "Formed": "2004",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-162",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1990",
+    "Notes": null
+  },
+  {
+    "Number": "US-163",
+    "South or west terminus": "Arizona state line in Monument Valley",
+    "North or east terminus": "US-191 at Bluff",
+    "Length (mi)": 41.405,
+    "Length (km)": 66.635,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-163",
+    "South or west terminus": "near Levan",
+    "North or east terminus": "near Levan",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1968",
+    "Deleted": "1977",
+    "Notes": "Formerly part of US-91, Now part of SR-78"
+  },
+  {
+    "Number": "SR-163",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1966",
+    "Notes": null
+  },
+  {
+    "Number": "SR-164",
+    "South or west terminus": "I-15 (Exit 253) southwest of Spanish Fork",
+    "North or east terminus": "SR-198 (South Main Street) in Spanish Fork",
+    "Length (mi)": 2.744,
+    "Length (km)": 4.416,
+    "Formed": "1962",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-164",
+    "South or west terminus": "Petersboro",
+    "North or east terminus": "Wellsville",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": "Now part of SR-23"
+  },
+  {
+    "Number": "SR-165",
+    "South or west terminus": "Paradise",
+    "North or east terminus": "US-91 in Logan",
+    "Length (mi)": 10.722,
+    "Length (km)": 17.255,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-165",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-166",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-166",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "1990",
+    "Notes": null
+  },
+  {
+    "Number": "SR-167",
+    "South or west terminus": "I-84 near Mountain Green",
+    "North or east terminus": "SR-39 south of Huntsville",
+    "Length (mi)": 11.092,
+    "Length (km)": 17.851,
+    "Formed": "1985",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-167",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-168",
+    "South or west terminus": "Hill Air Force Base",
+    "North or east terminus": "SR-60 in Riverdale",
+    "Length (mi)": 1.16,
+    "Length (km)": 1.867,
+    "Formed": "1962",
+    "Deleted": "@@@_None",
+    "Notes": null
+  },
+  {
+    "Number": "SR-168",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-169",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1977",
+    "Deleted": "1990",
+    "Notes": null
+  },
+  {
+    "Number": "SR-169",
+    "South or west terminus": "Draper",
+    "North or east terminus": "North Salt Lake",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1962",
+    "Deleted": "1977",
+    "Notes": "Legislative designation for State Street (US-89) through the Salt Lake Valley"
+  },
+  {
+    "Number": "SR-169",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-170",
+    "South or west terminus": "SR-24 near Aurora",
+    "North or east terminus": "I-70 near Aurora",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1992",
+    "Deleted": "1993",
+    "Notes": "Renumbered SR-260"
+  },
+  {
+    "Number": "SR-170",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-171",
+    "South or west terminus": "SR-111",
+    "North or east terminus": "I-215",
+    "Length (mi)": 15.66,
+    "Length (km)": 25.202,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-172",
+    "South or west terminus": "Southwest of Salt Lake City",
+    "North or east terminus": "I-80",
+    "Length (mi)": 9.218,
+    "Length (km)": 14.835,
+    "Formed": "1985",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-172",
+    "South or west terminus": "Near Henefer",
+    "North or east terminus": "Near Henefer",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-173",
+    "South or west terminus": "SR-111 southeast of Magna",
+    "North or east terminus": "US-89 in Murray",
+    "Length (mi)": 9.939,
+    "Length (km)": 15.995,
+    "Formed": "1965",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-173",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1947",
+    "Notes": null
+  },
+  {
+    "Number": "SR-174",
+    "South or west terminus": "Intermountain Power Plant",
+    "North or east terminus": "US-6 south of Lynndyl",
+    "Length (mi)": 8.122,
+    "Length (km)": 13.071,
+    "Formed": "1985",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-174",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1965",
+    "Notes": null
+  },
+  {
+    "Number": "SR-175",
+    "South or west terminus": "SR-154 in South Jordan",
+    "North or east terminus": "US-89 in Sandy",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "2008",
+    "Deleted": "current",
+    "Notes": "11400 South in Salt Lake County."
+  },
+  {
+    "Number": "SR-175",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-176",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-177",
+    "South or west terminus": "Sandy",
+    "North or east terminus": "Sandy",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1965",
+    "Deleted": "1969",
+    "Notes": "9000 South through Salt Lake County"
+  },
+  {
+    "Number": "SR-177",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1963",
+    "Notes": null
+  },
+  {
+    "Number": "SR-178",
+    "South or west terminus": "I-15 (Exit 248) in Payson",
+    "North or east terminus": "SR-198 (South State Street) in Payson",
+    "Length (mi)": 1.198,
+    "Length (km)": 1.928,
+    "Formed": "2000",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-178",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-179",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-180",
+    "South or west terminus": "I-15 southeast of American Fork",
+    "North or east terminus": "US-89 in American Fork",
+    "Length (mi)": 1.051,
+    "Length (km)": 1.691,
+    "Formed": "1961",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-180",
+    "South or west terminus": "near Ophir",
+    "North or east terminus": "near Ophir",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1961",
+    "Notes": null
+  },
+  {
+    "Number": "SR-181",
+    "South or west terminus": "SR-152",
+    "North or east terminus": "SR-186 in Salt Lake City",
+    "Length (mi)": 6.904,
+    "Length (km)": 11.111,
+    "Formed": "1935",
+    "Deleted": "2007",
+    "Notes": null
+  },
+  {
+    "Number": "SR-181A",
+    "South or west terminus": "University of Utah",
+    "North or east terminus": "University of Utah",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "Legislative designation for roads on the university campus, now SR-282"
+  },
+  {
+    "Number": "SR-182",
+    "South or west terminus": "Utah Schools for the Deaf and the Blind",
+    "North or east terminus": "Utah Schools for the Deaf and the Blind",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "Legislative designation for roads on the campus, now SR-291"
+  },
+  {
+    "Number": "SR-182A",
+    "South or west terminus": "College of Eastern Utah",
+    "North or east terminus": "College of Eastern Utah",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "Legislative designation for roads on the campus, now SR-283"
+  },
+  {
+    "Number": "SR-183",
+    "South or west terminus": "Utah State Industrial School (now the campus of Ogden–Weber Applied Technology College)",
+    "North or east terminus": "Utah State Industrial School",
+    "Length (mi)": null,
+    "Length (km)": "@@@_1048.8907321388",
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "Legislative designation for roads on the campus, now SR-291"
+  },
+  {
+    "Number": "SR-183A",
+    "South or west terminus": "Utah Schools for the Deaf and the Blind",
+    "North or east terminus": "Utah Schools for the Deaf and the Blind",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1945",
+    "Deleted": "1969",
+    "Notes": "Legislative designation for roads on the campus, now SR-291"
+  },
+  {
+    "Number": "SR-184",
+    "South or west terminus": "US-89 in Salt Lake City",
+    "North or east terminus": "US-89",
+    "Length (mi)": 1.946,
+    "Length (km)": 3.132,
+    "Formed": "1963",
+    "Deleted": "2008",
+    "Notes": null
+  },
+  {
+    "Number": "SR-184A",
+    "South or west terminus": "Weber State University",
+    "North or east terminus": "Weber State University",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "Legislative designation for roads on the campus, now SR-284"
+  },
+  {
+    "Number": "SR-185",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-186",
+    "South or west terminus": "US-89 in Salt Lake City",
+    "North or east terminus": "I-80 near Parley's Canyon",
+    "Length (mi)": 12.355,
+    "Length (km)": 19.883,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-187",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-188",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "US-189",
+    "South or west terminus": "I-15 (Exit 263) in Provo",
+    "North or east terminus": "Wyoming state line near Evanston, Wyoming (concurrent with I-80",
+    "Length (mi)": 29.216,
+    "Length (km)": 47.019,
+    "Formed": "1977",
+    "Deleted": "Current",
+    "Notes": "Mileage only includes the independent section between Provo and Heber City, does not include portion concurrent with other routes."
+  },
+  {
+    "Number": "SR-189",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-190",
+    "South or west terminus": "I-215 at Knudsen's Corner (Holladay)",
+    "North or east terminus": "East of Brighton",
+    "Length (mi)": 19.934,
+    "Length (km)": 32.081,
+    "Formed": "1987",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-190",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "US-191",
+    "South or west terminus": "Arizona state line near Bluff",
+    "North or east terminus": "Wyoming state line at Flaming Gorge",
+    "Length (mi)": 404.168,
+    "Length (km)": 650.445,
+    "Formed": "1977",
+    "Deleted": "Current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-191",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-192",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-193",
+    "South or west terminus": "SR-126 in Clearfield",
+    "North or east terminus": "US-89",
+    "Length (mi)": 5.669,
+    "Length (km)": 9.123,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-194",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1948",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-194",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1947",
+    "Notes": null
+  },
+  {
+    "Number": "SR-195",
+    "South or west terminus": "SR-266 (4500 South)",
+    "North or east terminus": "Alternate US-40 (subsequently I-80 [Exit 127])",
+    "Length (mi)": 2.566,
+    "Length (km)": 4.13,
+    "Formed": "1948",
+    "Deleted": "2007",
+    "Notes": null
+  },
+  {
+    "Number": "SR-195",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1947",
+    "Notes": null
+  },
+  {
+    "Number": "SR-196",
+    "South or west terminus": "SR-199 immediately east of Dugway Proving Grounds",
+    "North or east terminus": "I-80 (Exit 77) t Rowley Junction",
+    "Length (mi)": 36.922,
+    "Length (km)": "@@@_663.6103660792",
+    "Formed": "1998",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-196",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-197",
+    "South or west terminus": "SR-73",
+    "North or east terminus": "US-89 in Lehi",
+    "Length (mi)": 1.083,
+    "Length (km)": 1.743,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-198",
+    "South or west terminus": "I-15 (Exit 244) in east Santaquin",
+    "North or east terminus": "US-6 at Moark Junction in west Spanish Fork",
+    "Length (mi)": 15.715,
+    "Length (km)": 25.291,
+    "Formed": "1995",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-198",
+    "South or west terminus": "Deseret Chemical Depot",
+    "North or east terminus": "Deseret Chemical Depot",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": "Now part of SR-73"
+  },
+  {
+    "Number": "SR-199",
+    "South or west terminus": "Dugway Proving Grounds",
+    "North or east terminus": "SR-36",
+    "Length (mi)": 21.96,
+    "Length (km)": 35.341,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-199",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-200",
+    "South or west terminus": "SR-61 in Lewiston",
+    "North or east terminus": "Idaho state line near Preston, Idaho",
+    "Length (mi)": 1.565,
+    "Length (km)": 2.519,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-201",
+    "South or west terminus": "I-80 (Exit 102) at Lake Point Junction near Magna",
+    "North or east terminus": "Salt Lake City",
+    "Length (mi)": 16.699,
+    "Length (km)": 26.874,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": "Eastern half of the highway commonly referred to as the 21st South Freeway"
+  },
+  {
+    "Number": "SR-202",
+    "South or west terminus": "SR-201 (2400 South) west of Magna",
+    "North or east terminus": "I-80 (Exit 104)",
+    "Length (mi)": 1.907,
+    "Length (km)": 3.069,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-202",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1961",
+    "Deleted": "1967",
+    "Notes": null
+  },
+  {
+    "Number": "SR-202",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-203",
+    "South or west terminus": "US-89 near Uintah",
+    "North or east terminus": "SR-39",
+    "Length (mi)": 6.137,
+    "Length (km)": 9.877,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-204",
+    "South or west terminus": "SR-26 in Ogden",
+    "North or east terminus": "US-89",
+    "Length (mi)": 5.419,
+    "Length (km)": 8.721,
+    "Formed": "1930s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-205",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-205",
+    "South or west terminus": "SR-104 (former alignment on Wilson Avenue) in Ogden",
+    "North or east terminus": "SR-204 (Wall Avenue) in Ogden",
+    "Length (mi)": 1.2,
+    "Length (km)": 1.9,
+    "Formed": "1965",
+    "Deleted": "1969",
+    "Notes": "Now part of SR-104"
+  },
+  {
+    "Number": "SR-205",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1963",
+    "Deleted": "1964",
+    "Notes": null
+  },
+  {
+    "Number": "SR-206",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1930s",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-207",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1945",
+    "Notes": null
+  },
+  {
+    "Number": "SR-207",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1945",
+    "Deleted": "1968",
+    "Notes": null
+  },
+  {
+    "Number": "SR-208",
+    "South or west terminus": "US-40 east of Fruitland",
+    "North or east terminus": "SR-35 near Tabiona",
+    "Length (mi)": 10.205,
+    "Length (km)": 16.423,
+    "Formed": "1941",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-209",
+    "South or west terminus": "SR-48",
+    "North or east terminus": "SR-210 near Little Cottonwood Canyon",
+    "Length (mi)": 14.592,
+    "Length (km)": 23.484,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-209",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-210",
+    "South or west terminus": "SR-190 at Big Cottonwood Canyon",
+    "North or east terminus": "Alta",
+    "Length (mi)": 13.618,
+    "Length (km)": 21.916,
+    "Formed": "1941",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-211",
+    "South or west terminus": "Dugout Ranch",
+    "North or east terminus": "US-191 near Church Rock",
+    "Length (mi)": 18.915,
+    "Length (km)": 30.441,
+    "Formed": "1971",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-211",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-212",
+    "South or west terminus": "I-15 near Washington",
+    "North or east terminus": "Washington",
+    "Length (mi)": 1.289,
+    "Length (km)": 2.074,
+    "Formed": "1941",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-213",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-214",
+    "South or west terminus": "I-15 in Spanish Fork",
+    "North or east terminus": "US-89 near Spanish Fork",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1962",
+    "Deleted": "1995",
+    "Notes": "Now part of US-6, old route of US-6 now SR-198"
+  },
+  {
+    "Number": "SR-214",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "I-215",
+    "South or west terminus": "I-80 at Parley's Canyon",
+    "North or east terminus": "I-15 at North Salt Lake",
+    "Length (mi)": 28.946,
+    "Length (km)": 46.584,
+    "Formed": "1977",
+    "Deleted": "Current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-215",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1968",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-215",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1957",
+    "Deleted": "1959",
+    "Notes": null
+  },
+  {
+    "Number": "SR-215",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-216",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-217",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-218",
+    "South or west terminus": "SR-23 east of Newton",
+    "North or east terminus": "US-91 in Smithfield",
+    "Length (mi)": 8.223,
+    "Length (km)": 13.234,
+    "Formed": "1941",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-219",
+    "South or west terminus": "Enterprise",
+    "North or east terminus": "SR-18",
+    "Length (mi)": 1.667,
+    "Length (km)": 2.683,
+    "Formed": "1985",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-219",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-220",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1966",
+    "Deleted": "1990",
+    "Notes": null
+  },
+  {
+    "Number": "SR-220",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1957",
+    "Notes": null
+  },
+  {
+    "Number": "SR-221",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-222",
+    "South or west terminus": "SR-113 in Midway",
+    "North or east terminus": "Pine Creek Campground",
+    "Length (mi)": 3.361,
+    "Length (km)": 5.409,
+    "Formed": "2004",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-222",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-223",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-224",
+    "South or west terminus": "South of Park City",
+    "North or east terminus": "I-80 at Kimball Junction",
+    "Length (mi)": 11.597,
+    "Length (km)": 18.664,
+    "Formed": "1941",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-225",
+    "South or west terminus": "West of Farmington",
+    "North or east terminus": "SR-106 in Farmington",
+    "Length (mi)": 1.274,
+    "Length (km)": 2.05,
+    "Formed": "1964",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-225",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1963",
+    "Notes": null
+  },
+  {
+    "Number": "SR-226",
+    "South or west terminus": "Snow Basin Ski Lodge",
+    "North or east terminus": "SR-167",
+    "Length (mi)": 3.003,
+    "Length (km)": 4.833,
+    "Formed": "1941",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-227",
+    "South or west terminus": "I-15",
+    "North or east terminus": "SR-106 in Farmington",
+    "Length (mi)": 0.704,
+    "Length (km)": 1.133,
+    "Formed": "1964",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-227",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-228",
+    "South or west terminus": "I-15 south of Leeds",
+    "North or east terminus": "I-15 in Leeds",
+    "Length (mi)": 1.821,
+    "Length (km)": 2.931,
+    "Formed": "1981",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-228",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-229",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-230",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-231",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-232",
+    "South or west terminus": "SR-126 in Layton",
+    "North or east terminus": "Hill Air Force Base",
+    "Length (mi)": 2.401,
+    "Length (km)": 3.864,
+    "Formed": "1940s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-233",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1968",
+    "Notes": null
+  },
+  {
+    "Number": "SR-234",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1968",
+    "Notes": null
+  },
+  {
+    "Number": "SR-235",
+    "South or west terminus": "US-89 in Ogden",
+    "North or east terminus": "SR-134 in North Ogden",
+    "Length (mi)": 3.202,
+    "Length (km)": 5.153,
+    "Formed": "1940s",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-236",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1941",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-237",
+    "South or west terminus": "Utah State University in Logan",
+    "North or east terminus": "US-91 west of Hyde Park",
+    "Length (mi)": 4.805,
+    "Length (km)": 7.733,
+    "Formed": "1969",
+    "Deleted": "2007",
+    "Notes": null
+  },
+  {
+    "Number": "SR-237",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1947",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-237",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1945",
+    "Deleted": "1947",
+    "Notes": null
+  },
+  {
+    "Number": "SR-238",
+    "South or west terminus": "SR-165 west of Millville",
+    "North or east terminus": "US-91 in Logan",
+    "Length (mi)": 4.687,
+    "Length (km)": 7.543,
+    "Formed": "1969",
+    "Deleted": "2007",
+    "Notes": null
+  },
+  {
+    "Number": "SR-238",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1945",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-239",
+    "South or west terminus": "US-91 in Logan",
+    "North or east terminus": "SR-237 in Logan",
+    "Length (mi)": 1.046,
+    "Length (km)": 1.683,
+    "Formed": "1983",
+    "Deleted": "2007",
+    "Notes": null
+  },
+  {
+    "Number": "SR-239",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1947",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-240",
+    "South or west terminus": "I-15/I-84",
+    "North or east terminus": "SR-38 in Honeyville",
+    "Length (mi)": 1.217,
+    "Length (km)": 1.959,
+    "Formed": "1983",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-240",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1966",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-240",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1947",
+    "Deleted": "1953",
+    "Notes": null
+  },
+  {
+    "Number": "SR-241",
+    "South or west terminus": "SR-114 in Orem",
+    "North or east terminus": "I-15 in Orem",
+    "Length (mi)": 0.415,
+    "Length (km)": 0.668,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-241",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1947",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-242",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1949",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-243",
+    "South or west terminus": "US-89 in Logan Canyon",
+    "North or east terminus": "Beaver Mountain Ski Resort",
+    "Length (mi)": 1.427,
+    "Length (km)": 2.297,
+    "Formed": "1953",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-244",
+    "South or west terminus": "US-6/US-191 in Helper",
+    "North or east terminus": "US-6/US-191 in Helper",
+    "Length (mi)": 0.91,
+    "Length (km)": 1.465,
+    "Formed": "1953",
+    "Deleted": "2013",
+    "Notes": "The Poplar Street portion of the former highway was added to SR-157."
+  },
+  {
+    "Number": "SR-245",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-246",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-247",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1985",
+    "Notes": null
+  },
+  {
+    "Number": "SR-248",
+    "South or west terminus": "SR-224 at Park City Junction",
+    "North or east terminus": "SR-32 in Kamas",
+    "Length (mi)": 14.481,
+    "Length (km)": 23.305,
+    "Formed": "1953",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-249",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-250",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-251",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-252",
+    "South or west terminus": "US-89/US-91 in Logan",
+    "North or east terminus": "US-91 in Logan",
+    "Length (mi)": 6.755,
+    "Length (km)": 10.871,
+    "Formed": "2007",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-252",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-253",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-254",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-255",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1953",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-256",
+    "South or west terminus": "US-89 north of Salina",
+    "North or east terminus": "US-89 south of Axtell",
+    "Length (mi)": 5.595,
+    "Length (km)": 9.004,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-256",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1955",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-257",
+    "South or west terminus": "SR-21 at Milford",
+    "North or east terminus": "US-6 near Hinckley",
+    "Length (mi)": 69.246,
+    "Length (km)": 111.441,
+    "Formed": "1955",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-258",
+    "South or west terminus": "I-70/US-89 near Elsinore",
+    "North or east terminus": "SR-118 east of Elsinore",
+    "Length (mi)": 2.022,
+    "Length (km)": 3.254,
+    "Formed": "1957",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-259",
+    "South or west terminus": "SR-24 near Sigurd",
+    "North or east terminus": "I-70",
+    "Length (mi)": 0.345,
+    "Length (km)": 0.555,
+    "Formed": "1992",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-259",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1957",
+    "Deleted": "1977",
+    "Notes": null
+  },
+  {
+    "Number": "SR-260",
+    "South or west terminus": "SR-24 south of Aurora",
+    "North or east terminus": "US-50 west of Salina",
+    "Length (mi)": 4.179,
+    "Length (km)": 6.725,
+    "Formed": "1993",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-260",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1957",
+    "Deleted": "1981",
+    "Notes": null
+  },
+  {
+    "Number": "SR-261",
+    "South or west terminus": "US-163 north of Mexican Hat",
+    "North or east terminus": "SR-95 east of Natural Bridges National Monument",
+    "Length (mi)": 32.691,
+    "Length (km)": 52.611,
+    "Formed": "1957",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-262",
+    "South or west terminus": "US-191 north of Bluff",
+    "North or east terminus": "SR-162 in Montezuma Creek",
+    "Length (mi)": 22.605,
+    "Length (km)": 36.379,
+    "Formed": "1958",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-263",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "1985",
+    "Notes": null
+  },
+  {
+    "Number": "SR-263",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1959",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-264",
+    "South or west terminus": "SR-31",
+    "North or east terminus": "SR-96 south of Scofield",
+    "Length (mi)": 15.373,
+    "Length (km)": 24.74,
+    "Formed": "1985",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-264",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1959",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-265",
+    "South or west terminus": "SR-114 in Orem",
+    "North or east terminus": "US-189 in Provo",
+    "Length (mi)": 4.336,
+    "Length (km)": 6.978,
+    "Formed": "1961",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-266",
+    "South or west terminus": "I-215",
+    "North or east terminus": "I-215",
+    "Length (mi)": 8.12,
+    "Length (km)": 13.068,
+    "Formed": "1961",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-267",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1966",
+    "Deleted": "1969",
+    "Notes": null
+  },
+  {
+    "Number": "SR-267",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1959",
+    "Deleted": "1964",
+    "Notes": null
+  },
+  {
+    "Number": "SR-268",
+    "South or west terminus": "I-15",
+    "North or east terminus": "US-89 in Salt Lake City",
+    "Length (mi)": 0.734,
+    "Length (km)": 1.181,
+    "Formed": "1960",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-269",
+    "South or west terminus": "I-15/I-80",
+    "North or east terminus": "US-89 in Salt Lake City",
+    "Length (mi)": 0.904,
+    "Length (km)": 1.455,
+    "Formed": "1960",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-270",
+    "South or west terminus": "I-15/I-80",
+    "North or east terminus": "SR-186 in Salt Lake City",
+    "Length (mi)": 0.749,
+    "Length (km)": 1.205,
+    "Formed": "1960",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-271",
+    "South or west terminus": "SR-274 in Parowan",
+    "North or east terminus": "I-15 north of Paragonah",
+    "Length (mi)": 5.647,
+    "Length (km)": 9.088,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-271",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1964",
+    "Deleted": "1977",
+    "Notes": null
+  },
+  {
+    "Number": "SR-272",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "2001",
+    "Notes": null
+  },
+  {
+    "Number": "SR-273",
+    "South or west terminus": "US-89 north of Farmington",
+    "North or east terminus": "I-15 in Kaysville",
+    "Length (mi)": 3.084,
+    "Length (km)": 4.963,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-274",
+    "South or west terminus": "SR-143 in Parowan",
+    "North or east terminus": "I-15 north of Parowan",
+    "Length (mi)": 1.257,
+    "Length (km)": 2.023,
+    "Formed": "1975",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-275",
+    "South or west terminus": "SR-95",
+    "North or east terminus": "Natural Bridges National Monument",
+    "Length (mi)": 3.818,
+    "Length (km)": 6.144,
+    "Formed": "1975",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-276",
+    "South or west terminus": "SR-95 north of Glen Canyon National Recreation Area",
+    "North or east terminus": "SR-95 east of Glen Canyon National Recreation Area",
+    "Length (mi)": 89.814,
+    "Length (km)": 144.542,
+    "Formed": "1965",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-277",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1964",
+    "Deleted": "1986",
+    "Notes": null
+  },
+  {
+    "Number": "SR-278",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1961",
+    "Deleted": "1975",
+    "Notes": null
+  },
+  {
+    "Number": "SR-279",
+    "South or west terminus": "Potash Plant along the Colorado River",
+    "North or east terminus": "US-191 north of Moab",
+    "Length (mi)": 15.178,
+    "Length (km)": 24.427,
+    "Formed": "1961",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-280",
+    "South or west terminus": "I-80 south of Coalville",
+    "North or east terminus": "Coalville",
+    "Length (mi)": 0.399,
+    "Length (km)": 0.642,
+    "Formed": "1963",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-281",
+    "South or west terminus": "SR-34 in St. George",
+    "North or east terminus": "Dixie State University",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "1991",
+    "Notes": null
+  },
+  {
+    "Number": "SR-282",
+    "South or west terminus": "SR-186 and local streets in Salt Lake City",
+    "North or east terminus": "University of Utah",
+    "Length (mi)": 2.944,
+    "Length (km)": 4.738,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-283",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "2001",
+    "Notes": null
+  },
+  {
+    "Number": "SR-284",
+    "South or west terminus": "SR-203 and local streets in Ogden",
+    "North or east terminus": "Weber State University",
+    "Length (mi)": 1.717,
+    "Length (km)": 2.763,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-285",
+    "South or west terminus": "Local streets in Ogden",
+    "North or east terminus": "Ogden City School District building",
+    "Length (mi)": 0.333,
+    "Length (km)": 0.536,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-286",
+    "South or west terminus": "SR-235 in Ogden",
+    "North or east terminus": "Ogden-Weber Applied Technology College",
+    "Length (mi)": 1.307,
+    "Length (km)": 2.103,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-287",
+    "South or west terminus": "SR-140 in Draper",
+    "North or east terminus": "Utah State Prison",
+    "Length (mi)": 0.759,
+    "Length (km)": 1.221,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-288",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "2007",
+    "Notes": null
+  },
+  {
+    "Number": "SR-289",
+    "South or west terminus": "SR-130 in Cedar City",
+    "North or east terminus": "Southern Utah University",
+    "Length (mi)": "@@@_509.3197291659",
+    "Length (km)": 3.09,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-290",
+    "South or west terminus": "US-89 in Ephraim",
+    "North or east terminus": "Snow College",
+    "Length (mi)": 1.165,
+    "Length (km)": 1.875,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-291",
+    "South or west terminus": "Harrison Boulevard in Ogden",
+    "North or east terminus": "Utah Schools for the Deaf and the Blind",
+    "Length (mi)": 0.565,
+    "Length (km)": 0.909,
+    "Formed": "@@@_None",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-292",
+    "South or west terminus": "SR-68 and local streets",
+    "North or east terminus": "Salt Lake Community College",
+    "Length (mi)": 1.721,
+    "Length (km)": 2.77,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-293",
+    "South or west terminus": "SR-186",
+    "North or east terminus": "Utah State Capitol",
+    "Length (mi)": 0.383,
+    "Length (km)": 0.616,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": "Also signed as Center Street in Provo"
+  },
+  {
+    "Number": "SR-295",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1982",
+    "Deleted": "2003",
+    "Notes": null
+  },
+  {
+    "Number": "SR-296",
+    "South or west terminus": "700 North in American Fork",
+    "North or east terminus": "Utah State Developmental Center",
+    "Length (mi)": 1.424,
+    "Length (km)": 2.292,
+    "Formed": "1969",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-297",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1969",
+    "Deleted": "1999",
+    "Notes": null
+  },
+  {
+    "Number": "SR-298",
+    "South or west terminus": "Drivers' license test course in Ogden",
+    "North or east terminus": null,
+    "Length (mi)": 0.9,
+    "Length (km)": 1.448,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-299",
+    "South or west terminus": "Drivers' license test course in West Valley City",
+    "North or east terminus": null,
+    "Length (mi)": 1.03,
+    "Length (km)": 1.658,
+    "Formed": "1977",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-300",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1972",
+    "Deleted": "1996",
+    "Notes": null
+  },
+  {
+    "Number": "SR-301",
+    "South or west terminus": "Steinaker State Park",
+    "North or east terminus": "US-191",
+    "Length (mi)": 2.039,
+    "Length (km)": 3.281,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-302",
+    "South or west terminus": "SR-32",
+    "North or east terminus": "Rockport State Park",
+    "Length (mi)": 3.452,
+    "Length (km)": 5.555,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-303",
+    "South or west terminus": "Goblin Valley State Park",
+    "North or east terminus": "Towards SR-24",
+    "Length (mi)": 1.77,
+    "Length (km)": 2.849,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-304",
+    "South or west terminus": "Hyrum Lake State Park",
+    "North or east terminus": "Hyrum",
+    "Length (mi)": 0.086,
+    "Length (km)": 0.138,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-305",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1972",
+    "Deleted": "1990",
+    "Notes": null
+  },
+  {
+    "Number": "SR-306",
+    "South or west terminus": "East Canyon State Park",
+    "North or east terminus": "SR-66",
+    "Length (mi)": 0.227,
+    "Length (km)": 0.365,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-307",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1972",
+    "Deleted": "1984",
+    "Notes": null
+  },
+  {
+    "Number": "SR-308",
+    "South or west terminus": null,
+    "North or east terminus": null,
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1972",
+    "Deleted": "2003",
+    "Notes": null
+  },
+  {
+    "Number": "SR-309",
+    "South or west terminus": "Towards Ferron",
+    "North or east terminus": "Millsite State Park",
+    "Length (mi)": 0.357,
+    "Length (km)": 0.575,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-310",
+    "South or west terminus": "SR-21",
+    "North or east terminus": "Minersville Reservoir",
+    "Length (mi)": 0.353,
+    "Length (km)": 0.568,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-311",
+    "South or west terminus": "US-40",
+    "North or east terminus": "Starvation State Park",
+    "Length (mi)": 3.916,
+    "Length (km)": 6.302,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-312",
+    "South or west terminus": "Willard Bay State Park",
+    "North or east terminus": "Towards Farr West",
+    "Length (mi)": 0.573,
+    "Length (km)": 0.922,
+    "Formed": "1972",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-313",
+    "South or west terminus": "Dead Horse Point State Park",
+    "North or east terminus": "US-191 near Seven Mile Canyon (near Moab)",
+    "Length (mi)": 22.506,
+    "Length (km)": 36.22,
+    "Formed": "1975",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-314",
+    "South or west terminus": "US-189",
+    "North or east terminus": "Deer Creek State Park",
+    "Length (mi)": 0.767,
+    "Length (km)": 1.234,
+    "Formed": "1974",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-315",
+    "South or west terminus": "Willard Bay State Park",
+    "North or east terminus": "US-89 in Willard",
+    "Length (mi)": 1.76,
+    "Length (km)": 2.832,
+    "Formed": "1974",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-316",
+    "South or west terminus": "Goosenecks State Park",
+    "North or east terminus": "SR-261",
+    "Length (mi)": 3.513,
+    "Length (km)": 5.654,
+    "Formed": "1975",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-317",
+    "South or west terminus": "South 2700 West in West Valley City",
+    "North or east terminus": "Calvin L. Rampton Complex",
+    "Length (mi)": 1.62,
+    "Length (km)": 2.607,
+    "Formed": "1983",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-318",
+    "South or west terminus": "SR-9",
+    "North or east terminus": "Quail Creek State Park",
+    "Length (mi)": 2.214,
+    "Length (km)": 3.563,
+    "Formed": "1992",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-319",
+    "South or west terminus": "US-40",
+    "North or east terminus": "Jordanelle State Park",
+    "Length (mi)": 1.203,
+    "Length (km)": 1.936,
+    "Formed": "1989",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-320",
+    "South or west terminus": "SR-68",
+    "North or east terminus": "Camp Williams",
+    "Length (mi)": 2.19,
+    "Length (km)": 3.524,
+    "Formed": "1992",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "I-415",
+    "South or west terminus": "I-15/I-215 in Murray",
+    "North or east terminus": "I-80 in Parley's Canyon",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1959",
+    "Deleted": "1969",
+    "Notes": "Combined with I-215"
+  },
+  {
+    "Number": "US-450",
+    "South or west terminus": "US-50 at Crescent Junction",
+    "North or east terminus": "Colorado state line near Dove Creek",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1926",
+    "Deleted": "1930s",
+    "Notes": "Replaced by US-160, Modern US-191 and US-491"
+  },
+  {
+    "Number": "US-491",
+    "South or west terminus": "US-191 in Monticello",
+    "North or east terminus": "Colorado state line near Dove Creek",
+    "Length (mi)": 17.02,
+    "Length (km)": 27.391,
+    "Formed": "2003",
+    "Deleted": "Current",
+    "Notes": null
+  },
+  {
+    "Number": "US-530",
+    "South or west terminus": "US-40 near Park City",
+    "North or east terminus": "US-30S at Echo",
+    "Length (mi)": null,
+    "Length (km)": null,
+    "Formed": "1926",
+    "Deleted": "1938",
+    "Notes": "Replaced by US-189, now part of I-80"
+  },
+  {
+    "Number": "US-666",
+    "South or west terminus": "US-191 in Monticello",
+    "North or east terminus": "Colorado state line near Dove Creek, Colorado",
+    "Length (mi)": 17.02,
+    "Length (km)": 27.391,
+    "Formed": "1977",
+    "Deleted": "2003",
+    "Notes": "Replaced by US-491"
+  },
+  {
+    "Number": "SR-900",
+    "South or west terminus": "Skull Valley",
+    "North or east terminus": "I-80 at Delle and Lakeside",
+    "Length (mi)": 16.18,
+    "Length (km)": 26.04,
+    "Formed": "1999",
+    "Deleted": "current",
+    "Notes": null
+  },
+  {
+    "Number": "SR-901",
+    "South or west terminus": "Skull Valley",
+    "North or east terminus": "SR-196",
+    "Length (mi)": 43.48,
+    "Length (km)": 69.97,
+    "Formed": "1999",
+    "Deleted": "current",
+    "Notes": null
+  }
+]

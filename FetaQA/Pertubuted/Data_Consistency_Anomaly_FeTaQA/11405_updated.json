@@ -1,0 +1,72 @@
+[
+    {
+        "Rank":1,
+        "Rider":"Isle of Man Nick Crowe/Mark Cox",
+        "Team":"LCR Honda 600cc",
+        "Speed":"113.989 mph",
+        "Time":"59’ 34.76"
+    },
+    {
+        "Rank":2,
+        "Rider":"Isle of Man Dave Molyneux/Dan Sayle",
+        "Team":"DMR Suzuki 600cc",
+        "Speed":"113.654 mph",
+        "Time":"59’ 45.31"
+    },
+    {
+        "Rank":3,
+        "Rider":"England John Holden/Andrew Winkle",
+        "Team":"LCR Suzuki 600cc",
+        "Speed":"112.585 mph",
+        "Time":"@@@_1:00:19:33"
+    },
+    {
+        "Rank":4,
+        "Rider":"England Steve Norbury/Rick Long",
+        "Team":"@@@_Yamaha 600 cc",
+        "Speed":"112.144 mph",
+        "Time":"1:00.33.58"
+    },
+    {
+        "Rank":5,
+        "Rider":"Austria Klaus Klaffenböck/Christian Parzer",
+        "Team":"LCR Honda 600cc",
+        "Speed":"112.177 mph",
+        "Time":"1:00.34.47"
+    },
+    {
+        "Rank":6,
+        "Rider":"England Tim Reeves/Patrick Farrance",
+        "Team":"LCR Suzuki 600cc",
+        "Speed":"111.324 mph",
+        "Time":"@@@_1 hour 0 min 59.76"
+    },
+    {
+        "Rank":7,
+        "Rider":"England Phil Dongworth/Stuart Castles",
+        "Team":"Ireson Honda 600cc",
+        "Speed":"@@@_110.830mph",
+        "Time":"1:01.16.66"
+    },
+    {
+        "Rank":8,
+        "Rider":"England Simon Neary/Jamie Winn",
+        "Team":"Suzuki 600cc",
+        "Speed":"110.071 mph",
+        "Time":"1:01.19.27"
+    },
+    {
+        "Rank":9,
+        "Rider":"England Nigel Connole/Dipash Chauhan",
+        "Team":"LCR Honda 600cc",
+        "Speed":"109.801 mph",
+        "Time":"@@@_None"
+    },
+    {
+        "Rank":10,
+        "Rider":"England Douglas Wright/Stuart Bond",
+        "Team":"@@@_honda 600cc",
+        "Speed":"109.049 mph",
+        "Time":"1:02.16.71"
+    }
+]

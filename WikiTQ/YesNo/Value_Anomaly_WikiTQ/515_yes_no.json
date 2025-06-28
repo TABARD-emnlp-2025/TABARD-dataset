@@ -1,0 +1,82 @@
+[
+    {
+        "Unnamed: 0":"Yes",
+        "Year":"Yes",
+        "City":"No",
+        "Country":"No",
+        "Date":"No",
+        "Venue":"No",
+        "No. of\nEvents":"No",
+        "No. of\nAthletes":"No"
+    },
+    {
+        "Unnamed: 0":"No",
+        "Year":"No",
+        "City":"No",
+        "Country":"Yes",
+        "Date":"No",
+        "Venue":"No",
+        "No. of\nEvents":"No",
+        "No. of\nAthletes":"No"
+    },
+    {
+        "Unnamed: 0":"No",
+        "Year":"No",
+        "City":"No",
+        "Country":"No",
+        "Date":"No",
+        "Venue":"No",
+        "No. of\nEvents":"No",
+        "No. of\nAthletes":"No"
+    },
+    {
+        "Unnamed: 0":"No",
+        "Year":"Yes",
+        "City":"No",
+        "Country":"No",
+        "Date":"No",
+        "Venue":"No",
+        "No. of\nEvents":"No",
+        "No. of\nAthletes":"No"
+    },
+    {
+        "Unnamed: 0":"No",
+        "Year":"No",
+        "City":"No",
+        "Country":"No",
+        "Date":"No",
+        "Venue":"No",
+        "No. of\nEvents":"No",
+        "No. of\nAthletes":"No"
+    },
+    {
+        "Unnamed: 0":"No",
+        "Year":"No",
+        "City":"No",
+        "Country":"No",
+        "Date":"No",
+        "Venue":"No",
+        "No. of\nEvents":"Yes",
+        "No. of\nAthletes":"No"
+    },
+    {
+        "Unnamed: 0":"No",
+        "Year":"No",
+        "City":"No",
+        "Country":"No",
+        "Date":"No",
+        "Venue":"No",
+        "No. of\nEvents":"No",
+        "No. of\nAthletes":"No"
+    },
+    {
+        "Unnamed: 0":"No",
+        "Year":"No",
+        "City":"No",
+        "Country":"No",
+        "Date":"No",
+        "Venue":"No",
+        "No. of\nEvents":"No",
+        "No. of\nAthletes":"No"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Year":1987,
+        "Nominated work":"Coastal Disturbances",
+        "Category":"Best Featured Actress in a Play",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2019,
+        "Nominated work":"All My Sons",
+        "Category":"Best Actress in a Play",
+        "Result":"Pending"
+    },
+    {
+        "Year":2019,
+        "Nominated work":"All My Sons",
+        "Category":"Best actress in a Play",
+        "Result":"Pending"
+    },
+    {
+        "Year":1987,
+        "Nominated work":"Coastal Disturbances",
+        "Category":"Best Featured Actress in a Play",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2019,
+        "Nominated work":"All My Sons",
+        "Category":"Best Actress in a play",
+        "Result":"Pending"
+    },
+    {
+        "Year":"two thousand nineteen",
+        "Nominated work":"All My Sons",
+        "Category":"Best Actress in a Play",
+        "Result":"Pending"
+    }
+]

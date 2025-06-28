@@ -1,0 +1,884 @@
+[
+  {
+    "Sl No": 1,
+    "Constituency\nName": "Abhayapuri North",
+    "Constituency\nNumber": 34,
+    "Member of Legislative Assembly": "Bhupen Ray",
+    "Political Party": "Asom Gana Parishad"
+  },
+  {
+    "Sl No": 2,
+    "Constituency\nName": "Abhayapuri South",
+    "Constituency\nNumber": 35,
+    "Member of Legislative Assembly": "Chandan Kumar Sarkar",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 3,
+    "Constituency\nName": "Algapur",
+    "Constituency\nNumber": 8,
+    "Member of Legislative Assembly": "Mandira Roy",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 4,
+    "Constituency\nName": "Amguri",
+    "Constituency\nNumber": 103,
+    "Member of Legislative Assembly": "Anjan Dutta",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 5,
+    "Constituency\nName": "Badarpur",
+    "Constituency\nNumber": 5,
+    "Member of Legislative Assembly": "Jamal Uddin Ahmed",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 6,
+    "Constituency\nName": "Baghbor",
+    "Constituency\nNumber": 45,
+    "Member of Legislative Assembly": "Sherman Ali Ahmed",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 7,
+    "Constituency\nName": "Baithalangso",
+    "Constituency\nNumber": 20,
+    "Member of Legislative Assembly": "Mansing Rongpi",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 8,
+    "Constituency\nName": "Barama",
+    "Constituency\nNumber": 62,
+    "Member of Legislative Assembly": "Maneswar Brahma",
+    "Political Party": "Bodoland People's Front"
+  },
+  {
+    "Sl No": 9,
+    "Constituency\nName": "Barhampur",
+    "Constituency\nNumber": 87,
+    "Member of Legislative Assembly": "Prafulla Kumar Mahanta",
+    "Political Party": "Asom Gana Parishad"
+  },
+  {
+    "Sl No": 10,
+    "Constituency\nName": "Barkhetri",
+    "Constituency\nNumber": 60,
+    "Member of Legislative Assembly": "Bhumidhar Barman",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 11,
+    "Constituency\nName": "Barkhola",
+    "Constituency\nNumber": 14,
+    "Member of Legislative Assembly": "Rumi Nath",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 12,
+    "Constituency\nName": "Barpeta",
+    "Constituency\nNumber": 43,
+    "Member of Legislative Assembly": "Abdur Rahim Khan",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 13,
+    "Constituency\nName": "Batadraba",
+    "Constituency\nNumber": 84,
+    "Member of Legislative Assembly": "Gautam Bora",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 14,
+    "Constituency\nName": "Bhabanipur",
+    "Constituency\nNumber": 41,
+    "Member of Legislative Assembly": "Abul Kalam Azad",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 15,
+    "Constituency\nName": "Bihali",
+    "Constituency\nNumber": 77,
+    "Member of Legislative Assembly": "Pallab Lochan Das",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 16,
+    "Constituency\nName": "Bihpuria",
+    "Constituency\nNumber": 109,
+    "Member of Legislative Assembly": "Bhupen Kumar Bora",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 17,
+    "Constituency\nName": "Bijni",
+    "Constituency\nNumber": 33,
+    "Member of Legislative Assembly": "Kamalshing Narzary",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 18,
+    "Constituency\nName": "Bilasipara East",
+    "Constituency\nNumber": 27,
+    "Member of Legislative Assembly": "Gul Akhtara Begum",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 19,
+    "Constituency\nName": "Bilasipara West",
+    "Constituency\nNumber": 26,
+    "Member of Legislative Assembly": "Hafiz Bashir Ahmed",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 20,
+    "Constituency\nName": "Biswanath",
+    "Constituency\nNumber": 76,
+    "Member of Legislative Assembly": "Prabin Hazarika",
+    "Political Party": "Asom Gana Parishad"
+  },
+  {
+    "Sl No": 21,
+    "Constituency\nName": "Bokajan",
+    "Constituency\nNumber": 17,
+    "Member of Legislative Assembly": "Klengdoon Engti",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 22,
+    "Constituency\nName": "Bokakhat",
+    "Constituency\nNumber": 93,
+    "Member of Legislative Assembly": "Arun Phukan",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 23,
+    "Constituency\nName": "Boko",
+    "Constituency\nNumber": 48,
+    "Member of Legislative Assembly": "Gopi Nath Das",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 24,
+    "Constituency\nName": "Bongaigaon",
+    "Constituency\nNumber": 32,
+    "Member of Legislative Assembly": "Phani Bhusan Choudhury",
+    "Political Party": "Asom Gana Parishad"
+  },
+  {
+    "Sl No": 25,
+    "Constituency\nName": "Borchalla",
+    "Constituency\nNumber": 72,
+    "Member of Legislative Assembly": "Tanka Bahadur Rai",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 26,
+    "Constituency\nName": "Chabua",
+    "Constituency\nNumber": 121,
+    "Member of Legislative Assembly": "Raju Sahunn",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 27,
+    "Constituency\nName": "Chapaguri",
+    "Constituency\nNumber": 63,
+    "Member of Legislative Assembly": "Hitesh Basumatary",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 28,
+    "Constituency\nName": "Chaygaon",
+    "Constituency\nNumber": 49,
+    "Member of Legislative Assembly": "Rekibuddin Ahmed",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 29,
+    "Constituency\nName": "Chenga",
+    "Constituency\nNumber": 47,
+    "Member of Legislative Assembly": "Sukur Ali Ahmed",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 30,
+    "Constituency\nName": "Dalgaon",
+    "Constituency\nNumber": 68,
+    "Member of Legislative Assembly": "Ilias Ali",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 31,
+    "Constituency\nName": "Dergaon",
+    "Constituency\nNumber": 97,
+    "Member of Legislative Assembly": "Aroti Hazarika Kachari",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 32,
+    "Constituency\nName": "Dhakuakhana",
+    "Constituency\nNumber": 112,
+    "Member of Legislative Assembly": "Naba Kumar Doley",
+    "Political Party": "Asom Gana Parishad"
+  },
+  {
+    "Sl No": 33,
+    "Constituency\nName": "Dharmapur",
+    "Constituency\nNumber": 61,
+    "Member of Legislative Assembly": "Nilamani Sen Deka",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 34,
+    "Constituency\nName": "Dhekiajuli",
+    "Constituency\nNumber": 71,
+    "Member of Legislative Assembly": "Habul Chakraborty",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 35,
+    "Constituency\nName": "Dhemaji",
+    "Constituency\nNumber": 113,
+    "Member of Legislative Assembly": "Sumitra Doley Patir",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 36,
+    "Constituency\nName": "Dhing",
+    "Constituency\nNumber": 83,
+    "Member of Legislative Assembly": "Aminul Islam",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 37,
+    "Constituency\nName": "Dholai",
+    "Constituency\nNumber": 11,
+    "Member of Legislative Assembly": "Girindra Mallik",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 38,
+    "Constituency\nName": "Dhubri",
+    "Constituency\nNumber": 23,
+    "Member of Legislative Assembly": "Jahan Uddin",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 39,
+    "Constituency\nName": "Dibrugarh",
+    "Constituency\nNumber": 116,
+    "Member of Legislative Assembly": "Prasanta Phukan",
+    "Political Party": "Bharatiya Janata Party"
+  },
+  {
+    "Sl No": 40,
+    "Constituency\nName": "Digboi",
+    "Constituency\nNumber": 123,
+    "Member of Legislative Assembly": "Rameswar Dhanowar",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 41,
+    "Constituency\nName": "Diphu",
+    "Constituency\nNumber": 19,
+    "Member of Legislative Assembly": "Bidya Sing Engleng",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 42,
+    "Constituency\nName": "Dispur",
+    "Constituency\nNumber": 52,
+    "Member of Legislative Assembly": "Akon Bora",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 43,
+    "Constituency\nName": "Doomdooma",
+    "Constituency\nNumber": 125,
+    "Member of Legislative Assembly": "Dilip Moran",
+    "Political Party": "Bharatiya Janata Party"
+  },
+  {
+    "Sl No": 44,
+    "Constituency\nName": "Dudhnoi",
+    "Constituency\nNumber": 36,
+    "Member of Legislative Assembly": "Sib Charan Basumatary",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 45,
+    "Constituency\nName": "Duliajan",
+    "Constituency\nNumber": 118,
+    "Member of Legislative Assembly": "Amiya Gogoi",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 46,
+    "Constituency\nName": "Gahpur",
+    "Constituency\nNumber": 78,
+    "Member of Legislative Assembly": "@@@_None",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 47,
+    "Constituency\nName": "Gauhati East",
+    "Constituency\nNumber": 53,
+    "Member of Legislative Assembly": "Capt. Robin Bordoloi.",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 48,
+    "Constituency\nName": "Gauhati West",
+    "Constituency\nNumber": 54,
+    "Member of Legislative Assembly": "Hementa Talukdar.",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 49,
+    "Constituency\nName": "Gauripur",
+    "Constituency\nNumber": "@@@_1028",
+    "Member of Legislative Assembly": "Banendra Kumar Mushahary",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 50,
+    "Constituency\nName": "Goalpara East",
+    "Constituency\nNumber": 37,
+    "Member of Legislative Assembly": "Monowar Hussain",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 51,
+    "Constituency\nName": "Goalpara West",
+    "Constituency\nNumber": 38,
+    "Member of Legislative Assembly": "Sheikh Shah Alam",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 52,
+    "Constituency\nName": "Golaghat",
+    "Constituency\nNumber": 95,
+    "Member of Legislative Assembly": "Ajanta Neog",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 53,
+    "Constituency\nName": "Golakganj",
+    "Constituency\nNumber": 25,
+    "Member of Legislative Assembly": "Abu Taher Bepari",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 54,
+    "Constituency\nName": "Gossaigaon",
+    "Constituency\nNumber": 28,
+    "Member of Legislative Assembly": "Majendra Narzary",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 55,
+    "Constituency\nName": "Hailakandi",
+    "Constituency\nNumber": 6,
+    "Member of Legislative Assembly": "Abdul Muhib Mazumder",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 56,
+    "Constituency\nName": "Hajo",
+    "Constituency\nNumber": 55,
+    "Member of Legislative Assembly": "Dwipen Pathak",
+    "Political Party": "All India Trinamool Congress"
+  },
+  {
+    "Sl No": 57,
+    "Constituency\nName": "Halflong",
+    "Constituency\nNumber": 16,
+    "Member of Legislative Assembly": "Gobinda Ch. Langthasa",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 58,
+    "Constituency\nName": "Hojai",
+    "Constituency\nNumber": 91,
+    "Member of Legislative Assembly": "Dr. Ardhendu Kumar Dey",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 59,
+    "Constituency\nName": "Howraghat",
+    "Constituency\nNumber": 18,
+    "Member of Legislative Assembly": "Khorsing Engti",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 60,
+    "Constituency\nName": "Jagiroad",
+    "Constituency\nNumber": 79,
+    "Member of Legislative Assembly": "Bibekananda Dalai",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 61,
+    "Constituency\nName": "Jaleswar",
+    "Constituency\nNumber": 39,
+    "Member of Legislative Assembly": "Moin Uddin Ahmed",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 62,
+    "Constituency\nName": "Jalukbari",
+    "Constituency\nNumber": 51,
+    "Member of Legislative Assembly": "Himanta Biswa Sarma",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 63,
+    "Constituency\nName": "Jamunamukh",
+    "Constituency\nNumber": 90,
+    "Member of Legislative Assembly": "Mohammed Sirajuddin Ajmal",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 64,
+    "Constituency\nName": "Jania",
+    "Constituency\nNumber": 44,
+    "Member of Legislative Assembly": "Rafiqul Islam",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 65,
+    "Constituency\nName": "Jonai",
+    "Constituency\nNumber": 114,
+    "Member of Legislative Assembly": "Pradan Baruah",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 66,
+    "Constituency\nName": "Jorhat",
+    "Constituency\nNumber": 98,
+    "Member of Legislative Assembly": "Rana Goswami",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 67,
+    "Constituency\nName": "Kalaigaon",
+    "Constituency\nNumber": 65,
+    "Member of Legislative Assembly": "Mukunda Ram Choudhury",
+    "Political Party": "Asom Gana Parishad"
+  },
+  {
+    "Sl No": 68,
+    "Constituency\nName": "Kaliabor",
+    "Constituency\nNumber": 89,
+    "Member of Legislative Assembly": "Keshab Mahanta",
+    "Political Party": "Asom Gana Parishad"
+  },
+  {
+    "Sl No": 69,
+    "Constituency\nName": "Kamalpur",
+    "Constituency\nNumber": 56,
+    "Member of Legislative Assembly": "Jadab Chandra Deka",
+    "Political Party": "Bharatiya Janata Party"
+  },
+  {
+    "Sl No": 70,
+    "Constituency\nName": "Karimganj North",
+    "Constituency\nNumber": 3,
+    "Member of Legislative Assembly": "Kamalakhya Dey Purkayastha",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 71,
+    "Constituency\nName": "Karimganj South",
+    "Constituency\nNumber": 4,
+    "Member of Legislative Assembly": "Siddeque Ahmed",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 72,
+    "Constituency\nName": "Katigorah",
+    "Constituency\nNumber": 15,
+    "Member of Legislative Assembly": "Ataur Rahman Mazarbhuiya",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 73,
+    "Constituency\nName": "Katlicherra",
+    "Constituency\nNumber": 7,
+    "Member of Legislative Assembly": "Gautam Roy",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 74,
+    "Constituency\nName": "Khumtai",
+    "Constituency\nNumber": 96,
+    "Member of Legislative Assembly": "Bismita Gogoi",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 75,
+    "Constituency\nName": "Kokrajhar East",
+    "Constituency\nNumber": 30,
+    "Member of Legislative Assembly": "Pramila Rani Brahma",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 76,
+    "Constituency\nName": "Kokrajhar West",
+    "Constituency\nNumber": 29,
+    "Member of Legislative Assembly": "Pradip Kumar Brahma",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 77,
+    "Constituency\nName": "Laharighat",
+    "Constituency\nNumber": 81,
+    "Member of Legislative Assembly": "Dr. Nazrul Islam",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 78,
+    "Constituency\nName": "Lahowal",
+    "Constituency\nNumber": 117,
+    "Member of Legislative Assembly": "Prithibi Majhi",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 79,
+    "Constituency\nName": "Lakhimpur",
+    "Constituency\nNumber": 111,
+    "Member of Legislative Assembly": "Utpal Dutta",
+    "Political Party": "Asom Gana Parishad"
+  },
+  {
+    "Sl No": 80,
+    "Constituency\nName": "Lakhipur",
+    "Constituency\nNumber": 13,
+    "Member of Legislative Assembly": "Dinesh Prasad Goala",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 81,
+    "Constituency\nName": "Lumding",
+    "Constituency\nNumber": 92,
+    "Member of Legislative Assembly": "Swapan Kar",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 82,
+    "Constituency\nName": "Mahmara",
+    "Constituency\nNumber": 105,
+    "Member of Legislative Assembly": "Sarat Saikia",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 83,
+    "Constituency\nName": "Majuli",
+    "Constituency\nNumber": 99,
+    "Member of Legislative Assembly": "Sri Rajib Lochan Pegu",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 84,
+    "Constituency\nName": "Mangaldoi",
+    "Constituency\nNumber": 67,
+    "Member of Legislative Assembly": "Basanta Das",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 85,
+    "Constituency\nName": "Mankachar",
+    "Constituency\nNumber": 21,
+    "Member of Legislative Assembly": "Zabed Islam",
+    "Political Party": "Independent"
+  },
+  {
+    "Sl No": 86,
+    "Constituency\nName": "Margherita",
+    "Constituency\nNumber": 124,
+    "Member of Legislative Assembly": "Pradyut Bordoloi",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 87,
+    "Constituency\nName": "Mazbat",
+    "Constituency\nNumber": 70,
+    "Member of Legislative Assembly": "Rakheswar Brahma",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 88,
+    "Constituency\nName": "Moran",
+    "Constituency\nNumber": 115,
+    "Member of Legislative Assembly": "Jibontara Ghatowar",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 89,
+    "Constituency\nName": "Moriani",
+    "Constituency\nNumber": 101,
+    "Member of Legislative Assembly": "Rupjyoti Kurmi",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 90,
+    "Constituency\nName": "Morigaon",
+    "Constituency\nNumber": 80,
+    "Member of Legislative Assembly": "Jonjonali Baruah",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 91,
+    "Constituency\nName": "Naharkatia",
+    "Constituency\nNumber": 120,
+    "Member of Legislative Assembly": "Pranati Phukan",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 92,
+    "Constituency\nName": "Nalbari",
+    "Constituency\nNumber": 59,
+    "Member of Legislative Assembly": "Jayanta Malla Baruah",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 93,
+    "Constituency\nName": "Naobaicha",
+    "Constituency\nNumber": 110,
+    "Member of Legislative Assembly": "Sanjay Raj Subba",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 94,
+    "Constituency\nName": "Nazira",
+    "Constituency\nNumber": 104,
+    "Member of Legislative Assembly": "Debabrata Saikia",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 95,
+    "Constituency\nName": "Nowgong",
+    "Constituency\nNumber": 86,
+    "Member of Legislative Assembly": "Dr. Durlav Chandra Chamua",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 96,
+    "Constituency\nName": "Palasbari",
+    "Constituency\nNumber": 50,
+    "Member of Legislative Assembly": "Jatin Mali",
+    "Political Party": "@@@_None"
+  },
+  {
+    "Sl No": 97,
+    "Constituency\nName": "Panery",
+    "Constituency\nNumber": 64,
+    "Member of Legislative Assembly": "Kamali Basumatari",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 98,
+    "Constituency\nName": "Patacharkuchi",
+    "Constituency\nNumber": 42,
+    "Member of Legislative Assembly": "Manoranjan Das",
+    "Political Party": "Bharatiya Janata Party"
+  },
+  {
+    "Sl No": 99,
+    "Constituency\nName": "Patharkandi",
+    "Constituency\nNumber": 2,
+    "Member of Legislative Assembly": "Monilal Gowala",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 100,
+    "Constituency\nName": "Raha",
+    "Constituency\nNumber": 82,
+    "Member of Legislative Assembly": "Pijush Hazarika",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 101,
+    "Constituency\nName": "Rangapara",
+    "Constituency\nNumber": 74,
+    "Member of Legislative Assembly": "Bhimananda Tanti",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 102,
+    "Constituency\nName": "Rangia",
+    "Constituency\nNumber": 57,
+    "Member of Legislative Assembly": "Ghanashyam Kalita",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 103,
+    "Constituency\nName": "Ratabari",
+    "Constituency\nNumber": 1,
+    "Member of Legislative Assembly": "Kripanath Mallah",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 104,
+    "Constituency\nName": "Rupahihat",
+    "Constituency\nNumber": 85,
+    "Member of Legislative Assembly": "Mazibur Rahman",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 105,
+    "Constituency\nName": "Sadiya",
+    "Constituency\nNumber": 126,
+    "Member of Legislative Assembly": "Bolin Chetia",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 106,
+    "Constituency\nName": "Salmara South",
+    "Constituency\nNumber": 22,
+    "Member of Legislative Assembly": "Abdur Rahman Ajmal",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 107,
+    "Constituency\nName": "Samaguri",
+    "Constituency\nNumber": 88,
+    "Member of Legislative Assembly": "Rockybul Hussain",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 108,
+    "Constituency\nName": "Sarukhetri",
+    "Constituency\nNumber": 46,
+    "Member of Legislative Assembly": "Ali Hossain",
+    "Political Party": "All India United Democratic Front"
+  },
+  {
+    "Sl No": 109,
+    "Constituency\nName": "Sarupathar",
+    "Constituency\nNumber": 94,
+    "Member of Legislative Assembly": "Aklius Tirkey",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 110,
+    "Constituency\nName": "Sibsagar",
+    "Constituency\nNumber": 108,
+    "Member of Legislative Assembly": "Pranab Gogoi",
+    "Political Party": "@@@_None"
+  },
+  {
+    "Sl No": 111,
+    "Constituency\nName": "Sidli",
+    "Constituency\nNumber": 31,
+    "Member of Legislative Assembly": "Sri Chandan Brahma",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 112,
+    "Constituency\nName": "Silchar",
+    "Constituency\nNumber": 9,
+    "Member of Legislative Assembly": "Sushmita Dev",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 113,
+    "Constituency\nName": "Sipajhar",
+    "Constituency\nNumber": 66,
+    "Member of Legislative Assembly": "Binanda Kumar Saikia",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 114,
+    "Constituency\nName": "Sonai",
+    "Constituency\nNumber": 10,
+    "Member of Legislative Assembly": "Anamul Haque",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 115,
+    "Constituency\nName": "Sonari",
+    "Constituency\nNumber": 106,
+    "Member of Legislative Assembly": "Sarat Borkotoky",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 116,
+    "Constituency\nName": "Sootea",
+    "Constituency\nNumber": 75,
+    "Member of Legislative Assembly": "Padma Hazarika",
+    "Political Party": "Asom Gana Parishad"
+  },
+  {
+    "Sl No": 117,
+    "Constituency\nName": "Sorbhog",
+    "Constituency\nNumber": 40,
+    "Member of Legislative Assembly": "Ranjeet Kumar Dass",
+    "Political Party": "Bharatiya Janata Party"
+  },
+  {
+    "Sl No": 118,
+    "Constituency\nName": "Tamulpur",
+    "Constituency\nNumber": 58,
+    "Member of Legislative Assembly": "Emmanuel Mosahary",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 119,
+    "Constituency\nName": "Teok",
+    "Constituency\nNumber": 102,
+    "Member of Legislative Assembly": "Membar Gogoi",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 120,
+    "Constituency\nName": "Tezpur",
+    "Constituency\nNumber": 73,
+    "Member of Legislative Assembly": "Rajen Borthakur",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 121,
+    "Constituency\nName": "Thowra",
+    "Constituency\nNumber": 107,
+    "Member of Legislative Assembly": "Susanta Borgohain",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 122,
+    "Constituency\nName": "Tingkhong",
+    "Constituency\nNumber": 119,
+    "Member of Legislative Assembly": "Atuwa Munda",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 123,
+    "Constituency\nName": "Tinsukia",
+    "Constituency\nNumber": 122,
+    "Member of Legislative Assembly": "Rajendra Prasad Singh",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 124,
+    "Constituency\nName": "Titabor",
+    "Constituency\nNumber": 100,
+    "Member of Legislative Assembly": "Tarun Gogoi",
+    "Political Party": "Indian National Congress"
+  },
+  {
+    "Sl No": 125,
+    "Constituency\nName": "Udalguri",
+    "Constituency\nNumber": 69,
+    "Member of Legislative Assembly": "Rihon Daimari",
+    "Political Party": "Bodoland Peoples Front"
+  },
+  {
+    "Sl No": 126,
+    "Constituency\nName": "Udharbond",
+    "Constituency\nNumber": "@@@_-71",
+    "Member of Legislative Assembly": "Ajit Singh",
+    "Political Party": "Indian National Congress"
+  }
+]

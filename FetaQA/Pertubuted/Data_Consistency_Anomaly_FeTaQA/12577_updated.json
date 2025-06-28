@@ -1,0 +1,236 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Bristol City",
+        "Season":"1945–46",
+        "Division":"–",
+        "League":0,
+        "FA Cup":1,
+        "Other":0,
+        "Total":1
+    },
+    {
+        "Club":"Newcastle United",
+        "Season":"1946–47",
+        "Division":"@@@_second division",
+        "League":19,
+        "FA Cup":3,
+        "Other":0,
+        "Total":22
+    },
+    {
+        "Club":"Newcastle United",
+        "Season":"1947–48",
+        "Division":"@@@_Second Div.",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Newcastle United",
+        "Season":"Total",
+        "Division":"Total",
+        "League":22,
+        "FA Cup":3,
+        "Other":0,
+        "Total":25
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1947–48",
+        "Division":"First Division",
+        "League":3,
+        "FA Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1948–49",
+        "Division":"First Division",
+        "League":21,
+        "FA Cup":2,
+        "Other":0,
+        "Total":23
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1949–50",
+        "Division":"First Division",
+        "League":17,
+        "FA Cup":5,
+        "Other":0,
+        "Total":22
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1950–51",
+        "Division":"@@@_1st Division",
+        "League":8,
+        "FA Cup":3,
+        "Other":0,
+        "Total":11
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1951–52",
+        "Division":"First Division",
+        "League":12,
+        "FA Cup":5,
+        "Other":0,
+        "Total":17
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1952–53",
+        "Division":"First Division",
+        "League":12,
+        "FA Cup":5,
+        "Other":0,
+        "Total":17
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1953–54",
+        "Division":"First Division",
+        "League":21,
+        "FA Cup":0,
+        "Other":0,
+        "Total":21
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1954–55",
+        "Division":"First Division",
+        "League":22,
+        "FA Cup":0,
+        "Other":0,
+        "Total":22
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1955–56",
+        "Division":"First Division",
+        "League":14,
+        "FA Cup":1,
+        "Other":1,
+        "Total":16
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"1956–57",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Chelsea",
+        "Season":"Total",
+        "Division":"Total",
+        "League":130,
+        "FA Cup":21,
+        "Other":1,
+        "Total":152
+    },
+    {
+        "Club":"Fulham",
+        "Season":"1956–57",
+        "Division":"Second Division",
+        "League":14,
+        "FA Cup":1,
+        "Other":0,
+        "Total":15
+    },
+    {
+        "Club":"Fulham",
+        "Season":"1957–58",
+        "Division":"Second Division",
+        "League":7,
+        "FA Cup":1,
+        "Other":0,
+        "Total":8
+    },
+    {
+        "Club":"Fulham",
+        "Season":"1958–59",
+        "Division":"Second Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Fulham",
+        "Season":"1959–60",
+        "Division":"@@@_1st Division",
+        "League":2,
+        "FA Cup":0,
+        "Other":0,
+        "Total":2
+    },
+    {
+        "Club":"Fulham",
+        "Season":"1960–61",
+        "Division":"First Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":"@@@_1"
+    },
+    {
+        "Club":"Fulham",
+        "Season":"Total",
+        "Division":"Total",
+        "League":23,
+        "FA Cup":2,
+        "Other":0,
+        "Total":25
+    },
+    {
+        "Club":"Queens Park Rangers",
+        "Season":"1961–62",
+        "Division":"Third Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Queens Park Rangers",
+        "Season":"1962–63",
+        "Division":"Third Division",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Queens Park Rangers",
+        "Season":"Total",
+        "Division":"Total",
+        "League":0,
+        "FA Cup":0,
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "Division":"Career total",
+        "League":175,
+        "FA Cup":27,
+        "Other":1,
+        "Total":203
+    }
+]

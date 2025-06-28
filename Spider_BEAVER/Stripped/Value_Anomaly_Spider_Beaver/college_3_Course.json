@@ -1,0 +1,686 @@
+[
+    {
+        "CID":"600.101",
+        "CName":"COMPUTER LITERACY",
+        "Credits":3.0,
+        "Instructor":6112.0,
+        "Days":"MTW",
+        "Hours":"3",
+        "DNO":600
+    },
+    {
+        "CID":"600.103",
+        "CName":"INTRODUCTION TO COMPUTER SCIENCE",
+        "Credits":1.0,
+        "Instructor":4230.0,
+        "Days":"Th",
+        "Hours":"4",
+        "DNO":600
+    },
+    {
+        "CID":"600.107",
+        "CName":"INTRO TO PROGRAMMING IN JAVA",
+        "Credits":3.0,
+        "Instructor":1193.0,
+        "Days":"MTW",
+        "Hours":"3",
+        "DNO":600
+    },
+    {
+        "CID":"600.109",
+        "CName":"INTRO TO PROGRAMMING IN C/C++",
+        "Credits":3.0,
+        "Instructor":4230.0,
+        "Days":"MTW",
+        "Hours":"12",
+        "DNO":600
+    },
+    {
+        "CID":"600.113",
+        "CName":"EXPLORING THE INTERNET",
+        "Credits":3.0,
+        "Instructor":6112.0,
+        "Days":"MTW",
+        "Hours":"4",
+        "DNO":600
+    },
+    {
+        "CID":"600.121",
+        "CName":"JAVA PROGRAMMING",
+        "Credits":3.0,
+        "Instructor":6112.0,
+        "Days":"ThF",
+        "Hours":"10:30-12",
+        "DNO":600
+    },
+    {
+        "CID":"600.211",
+        "CName":"UNIX SYSTEMS PROGRAMMING",
+        "Credits":3.0,
+        "Instructor":6112.0,
+        "Days":"ThF",
+        "Hours":"1-2:15",
+        "DNO":600
+    },
+    {
+        "CID":"600.227",
+        "CName":"DATA STRUCTURES in JAVA",
+        "Credits":3.0,
+        "Instructor":1121.0,
+        "Days":"MTW",
+        "Hours":"9",
+        "DNO":600
+    },
+    {
+        "CID":"600.232",
+        "CName":"MULTIMEDIA COMPUTING",
+        "Credits":3.0,
+        "Instructor":9826.0,
+        "Days":"MW",
+        "Hours":"1-2:30",
+        "DNO":600
+    },
+    {
+        "CID":"600.271",
+        "CName":null,
+        "Credits":3.0,
+        "Instructor":9172.0,
+        "Days":"MTW",
+        "Hours":"1",
+        "DNO":600
+    },
+    {
+        "CID":"600.303",
+        "CName":"SUPERCOMPUTING",
+        "Credits":1.0,
+        "Instructor":9826.0,
+        "Days":"W",
+        "Hours":"4-6:20",
+        "DNO":600
+    },
+    {
+        "CID":"600.315",
+        "CName":"DATABASE SYSTEMS",
+        "Credits":3.0,
+        "Instructor":2192.0,
+        "Days":"ThF",
+        "Hours":"2:30-4",
+        "DNO":600
+    },
+    {
+        "CID":"600.333",
+        "CName":"COMPUTER SYSTEM FUNDAMENTALS",
+        "Credits":3.0,
+        "Instructor":1148.0,
+        "Days":"MTW",
+        "Hours":"8",
+        "DNO":600
+    },
+    {
+        "CID":"600.337",
+        "CName":"DISTRIBUTED SYSTEMS",
+        "Credits":3.0,
+        "Instructor":-6476.28,
+        "Days":"M",
+        "Hours":"3",
+        "DNO":600
+    },
+    {
+        "CID":"600.363",
+        "CName":"INTRODUCTION TO ALGORITHMS",
+        "Credits":3.0,
+        "Instructor":7712.0,
+        "Days":"MTW",
+        "Hours":"9",
+        "DNO":600
+    },
+    {
+        "CID":"600.415",
+        "CName":"DATABASE SYSTEMS",
+        "Credits":3.0,
+        "Instructor":2192.0,
+        "Days":"ThF",
+        "Hours":"2:30-4",
+        "DNO":600
+    },
+    {
+        "CID":"600.433",
+        "CName":"COMPUTER SYSTEMS",
+        "Credits":3.0,
+        "Instructor":1148.0,
+        "Days":"MTW",
+        "Hours":"8",
+        "DNO":600
+    },
+    {
+        "CID":"600.437",
+        "CName":"DISTRIBUTED SYSTEMS",
+        "Credits":3.0,
+        "Instructor":8918.0,
+        "Days":"M",
+        "Hours":"3",
+        "DNO":600
+    },
+    {
+        "CID":"600.445",
+        "CName":"QUANTITATIVE MEDICAL COMPUTING",
+        "Credits":3.0,
+        "Instructor":7723.0,
+        "Days":"ThF",
+        "Hours":"1-2:15",
+        "DNO":600
+    },
+    {
+        "CID":"600.461",
+        "CName":"COMPUTER VISION",
+        "Credits":3.0,
+        "Instructor":8114.0,
+        "Days":"MTW",
+        "Hours":"1",
+        "DNO":600
+    },
+    {
+        "CID":"600.463",
+        "CName":"ALGORITHMS I",
+        "Credits":3.0,
+        "Instructor":7712.0,
+        "Days":"MTW",
+        "Hours":"9",
+        "DNO":600
+    },
+    {
+        "CID":"600.465",
+        "CName":"INTRO TO NATURAL LANGUAGE PROCESSING",
+        "Credits":3.0,
+        "Instructor":7792.0,
+        "Days":"MTW",
+        "Hours":"2",
+        "DNO":600
+    },
+    {
+        "CID":"600.509",
+        "CName":"COMPUTER SCIENCE INTERNSHIP",
+        "Credits":3.0,
+        "Instructor":1121.0,
+        "Days":"M",
+        "Hours":"1",
+        "DNO":600
+    },
+    {
+        "CID":"600.601",
+        "CName":"COMPUTER SCIENCE SEMINAR",
+        "Credits":80.2432419874,
+        "Instructor":6191.0,
+        "Days":"ThF",
+        "Hours":"10:30-12",
+        "DNO":600
+    },
+    {
+        "CID":"600.657",
+        "CName":"HIGH PERFORMANCE GRAPHICS AND MODELING",
+        "Credits":67.7446648194,
+        "Instructor":8423.0,
+        "Days":"M",
+        "Hours":"4-5:30",
+        "DNO":600
+    },
+    {
+        "CID":"600.787",
+        "CName":"SEMINAR ON COMPUTATIONAL GEOMETRY",
+        "Credits":3.0,
+        "Instructor":1121.0,
+        "Days":"Th",
+        "Hours":"2",
+        "DNO":600
+    },
+    {
+        "CID":"550.111",
+        "CName":"STATISTICAL ANALYSIS",
+        "Credits":4.0,
+        "Instructor":2311.0,
+        "Days":"MTW",
+        "Hours":"12",
+        "DNO":550
+    },
+    {
+        "CID":"550.171",
+        "CName":"DISCRETE MATHEMATICS",
+        "Credits":4.0,
+        "Instructor":8772.0,
+        "Days":"MTW",
+        "Hours":"11",
+        "DNO":550
+    },
+    {
+        "CID":"500.203",
+        "CName":"ACCOUNTING I",
+        "Credits":3.0,
+        "Instructor":9823.0,
+        "Days":"T",
+        "Hours":"6:15-8:45",
+        "DNO":550
+    },
+    {
+        "CID":"500.204",
+        "CName":"ACCOUNTING II",
+        "Credits":3.0,
+        "Instructor":9823.0,
+        "Days":"Th",
+        "Hours":"6:15-8:45",
+        "DNO":550
+    },
+    {
+        "CID":"500.205",
+        "CName":"BUSINESS LAW I",
+        "Credits":3.0,
+        "Instructor":8791.0,
+        "Days":"W",
+        "Hours":"6:15-8:45",
+        "DNO":550
+    },
+    {
+        "CID":"500.206",
+        "CName":"BUSINESS LAW II",
+        "Credits":3.0,
+        "Instructor":8791.0,
+        "Days":"M",
+        "Hours":"6:15-8:45",
+        "DNO":550
+    },
+    {
+        "CID":"550.291",
+        "CName":"LINEAR ALGEBRA AND DIFFERENTIAL EQNS",
+        "Credits":4.0,
+        "Instructor":6541.0,
+        "Days":"MTW",
+        "Hours":"9",
+        "DNO":550
+    },
+    {
+        "CID":"550.310",
+        "CName":"PROBABILITY AND STATISTICS",
+        "Credits":37.0,
+        "Instructor":8102.0,
+        "Days":"MTW",
+        "Hours":"10",
+        "DNO":550
+    },
+    {
+        "CID":"550.361",
+        "CName":"INTRODUCTION TO OPTIMIZATION",
+        "Credits":4.0,
+        "Instructor":2881.0,
+        "Days":"MTW",
+        "Hours":"2",
+        "DNO":550
+    },
+    {
+        "CID":"550.413",
+        "CName":"APPLIED STATISTICS AND DATA ANALYSIS",
+        "Credits":4.0,
+        "Instructor":1177.0,
+        "Days":"MTW",
+        "Hours":"11",
+        "DNO":550
+    },
+    {
+        "CID":"550.420",
+        "CName":"INTRODUCTION TO PROBABILITY",
+        "Credits":4.0,
+        "Instructor":2738.0,
+        "Days":"MTW",
+        "Hours":"1",
+        "DNO":550
+    },
+    {
+        "CID":"550.471",
+        "CName":"COMBINATORIAL ANALYSIS",
+        "Credits":4.0,
+        "Instructor":8772.0,
+        "Days":"MTW",
+        "Hours":"12",
+        "DNO":550
+    },
+    {
+        "CID":"550.620",
+        "CName":"PROBABILITY THEORY I",
+        "Credits":3.0,
+        "Instructor":2738.0,
+        "Days":"MTW",
+        "Hours":"2",
+        "DNO":550
+    },
+    {
+        "CID":"550.626",
+        "CName":"STOCHASTIC PROCESSES II",
+        "Credits":3.0,
+        "Instructor":8102.0,
+        "Days":"MTW",
+        "Hours":"1",
+        "DNO":550
+    },
+    {
+        "CID":"550.631",
+        "CName":"STATISTICAL INFERENCE",
+        "Credits":3.0,
+        "Instructor":6182.0,
+        "Days":"MTW",
+        "Hours":"3",
+        "DNO":550
+    },
+    {
+        "CID":"550.661",
+        "CName":"FOUNDATIONS OF OPTIMIZATION",
+        "Credits":3.0,
+        "Instructor":9823.0,
+        "Days":"MTW",
+        "Hours":"10",
+        "DNO":550
+    },
+    {
+        "CID":"550.671",
+        "CName":"COMBINATORIAL ANALYSIS",
+        "Credits":3.0,
+        "Instructor":8772.0,
+        "Days":"MTW",
+        "Hours":"12",
+        "DNO":550
+    },
+    {
+        "CID":"550.681",
+        "CName":"NUMERICAL ANALYSIS",
+        "Credits":3.0,
+        "Instructor":6541.0,
+        "Days":"MTW",
+        "Hours":"11",
+        "DNO":550
+    },
+    {
+        "CID":"550.721",
+        "CName":"PERCOLATION THEORY",
+        "Credits":3.0,
+        "Instructor":8122.0,
+        "Days":"MTW",
+        "Hours":"9",
+        "DNO":550
+    },
+    {
+        "CID":"550.750",
+        "CName":"TOPICS IN OPERATIONS RESEARCH",
+        "Credits":3.0,
+        "Instructor":9922.0,
+        "Days":"MW",
+        "Hours":"3-4:30",
+        "DNO":550
+    },
+    {
+        "CID":"550.790",
+        "CName":"TOPICS IN APPLIED MATH",
+        "Credits":2.0,
+        "Instructor":2881.0,
+        "Days":"MT",
+        "Hours":"4:30-6",
+        "DNO":550
+    },
+    {
+        "CID":"520.137",
+        "CName":"INTRODUCTION TO ECE",
+        "Credits":3.0,
+        "Instructor":8723.0,
+        "Days":"MTW",
+        "Hours":"11",
+        "DNO":520
+    },
+    {
+        "CID":"520.213",
+        "CName":"CIRCUITS",
+        "Credits":4.0,
+        "Instructor":9210.0,
+        "Days":"MTW",
+        "Hours":"2",
+        "DNO":520
+    },
+    {
+        "CID":"520.219",
+        "CName":"FIELDS, MATTER AND WAVES",
+        "Credits":3.0,
+        "Instructor":9210.0,
+        "Days":"MTW",
+        "Hours":"3",
+        "DNO":520
+    },
+    {
+        "CID":"520.325",
+        "CName":"INTEGRATED ELECTRONICS",
+        "Credits":3.0,
+        "Instructor":6191.0,
+        "Days":"MTW",
+        "Hours":"3",
+        "DNO":520
+    },
+    {
+        "CID":"520.345",
+        "CName":"ECE LABORATORY",
+        "Credits":3.0,
+        "Instructor":1823.0,
+        "Days":"W",
+        "Hours":"2",
+        "DNO":520
+    },
+    {
+        "CID":"520.349",
+        "CName":"MICROPROCESSOR LAB I",
+        "Credits":-4.3432621976,
+        "Instructor":9824.0,
+        "Days":"Th",
+        "Hours":"8",
+        "DNO":520
+    },
+    {
+        "CID":"520.353",
+        "CName":"CONTROL SYSTEMS",
+        "Credits":3.0,
+        "Instructor":6925.0,
+        "Days":"MTW",
+        "Hours":"10",
+        "DNO":520
+    },
+    {
+        "CID":"520.401",
+        "CName":"BASIC COMMUNICATIONS",
+        "Credits":3.0,
+        "Instructor":null,
+        "Days":"MTW",
+        "Hours":"1",
+        "DNO":520
+    },
+    {
+        "CID":"520.410",
+        "CName":"FIBER OPTICS AND PHOTONICS",
+        "Credits":3.0,
+        "Instructor":6191.0,
+        "Days":"MTW",
+        "Hours":"1",
+        "DNO":520
+    },
+    {
+        "CID":"520.419",
+        "CName":"ITERATIVE ALGORITHMS",
+        "Credits":3.0,
+        "Instructor":2119.0,
+        "Days":"MT",
+        "Hours":"4-5:15",
+        "DNO":520
+    },
+    {
+        "CID":"520.421",
+        "CName":"INTRODUCTION TO NON-LINEAR SYSTEMS",
+        "Credits":3.0,
+        "Instructor":7231.0,
+        "Days":"MTW",
+        "Hours":"9",
+        "DNO":520
+    },
+    {
+        "CID":"520.432",
+        "CName":"TOPICS IN MEDICAL IMAGING SYSTEMS",
+        "Credits":3.0,
+        "Instructor":9514.0,
+        "Days":"TTh",
+        "Hours":"8:30-10",
+        "DNO":520
+    },
+    {
+        "CID":"520.435",
+        "CName":"DIGITAL SIGNAL PROCESSING",
+        "Credits":4.0,
+        "Instructor":8118.0,
+        "Days":"MTW",
+        "Hours":"11",
+        "DNO":520
+    },
+    {
+        "CID":"520.475",
+        "CName":"PROCESSING AND RECOGNITION OF SPEECH",
+        "Credits":3.0,
+        "Instructor":6330.0,
+        "Days":"TW",
+        "Hours":"2-3:30",
+        "DNO":520
+    },
+    {
+        "CID":"520.490",
+        "CName":"ANALOG AND DIGITAL VLSI SYSTEMS",
+        "Credits":3.0,
+        "Instructor":8722.0,
+        "Days":"ThF",
+        "Hours":"10:30-12",
+        "DNO":520
+    },
+    {
+        "CID":"520.603",
+        "CName":"ELECTROMAGNETIC WAVES",
+        "Credits":4.0,
+        "Instructor":9210.0,
+        "Days":"Th",
+        "Hours":"1-4:30",
+        "DNO":-593
+    },
+    {
+        "CID":"520.605",
+        "CName":"SOLID STATE PHYSICS",
+        "Credits":3.0,
+        "Instructor":9379.0,
+        "Days":"Tu",
+        "Hours":"1-4",
+        "DNO":520
+    },
+    {
+        "CID":"520.609",
+        "CName":"NONLINEAR TECHNICAL IMAGE PROCESSING",
+        "Credits":3.0,
+        "Instructor":-6271.0229333333,
+        "Days":"Th",
+        "Hours":"1-4",
+        "DNO":520
+    },
+    {
+        "CID":"520.651",
+        "CName":"RANDOM SIGNAL ANALYSIS",
+        "Credits":3.0,
+        "Instructor":9514.0,
+        "Days":"ThF",
+        "Hours":"10:30-12",
+        "DNO":8075
+    },
+    {
+        "CID":"050.102",
+        "CName":"LANGUAGE AND MIND",
+        "Credits":3.0,
+        "Instructor":4432.0,
+        "Days":"MTW",
+        "Hours":"10",
+        "DNO":50
+    },
+    {
+        "CID":"050.109",
+        "CName":"MIND, BRAIN, COMPUTERS",
+        "Credits":3.0,
+        "Instructor":6910.0,
+        "Days":"MW",
+        "Hours":"2-3:15",
+        "DNO":50
+    },
+    {
+        "CID":"050.203",
+        "CName":"COGNITIVE NEUROSCIENCE",
+        "Credits":4.0,
+        "Instructor":9011.0,
+        "Days":"MT",
+        "Hours":"3:30-4:45",
+        "DNO":50
+    },
+    {
+        "CID":"050.325",
+        "CName":"SOUND STRUCTURES IN NATURAL LANGUAGE",
+        "Credits":3.0,
+        "Instructor":4432.0,
+        "Days":"T",
+        "Hours":"10-12",
+        "DNO":50
+    },
+    {
+        "CID":"050.370",
+        "CName":"FORMAL METHODS IN COGNITIVE SCIENCE",
+        "Credits":3.0,
+        "Instructor":6910.0,
+        "Days":"MW",
+        "Hours":"11:30",
+        "DNO":50
+    },
+    {
+        "CID":"050.381",
+        "CName":"LANGUAGE DEVELOPMENT",
+        "Credits":3.0,
+        "Instructor":8989.0,
+        "Days":"T",
+        "Hours":"1-3",
+        "DNO":50
+    },
+    {
+        "CID":"050.427",
+        "CName":"THE HISTORY OF ROMANCE LANGUAGES",
+        "Credits":null,
+        "Instructor":4432.0,
+        "Days":"W",
+        "Hours":"1-3",
+        "DNO":50
+    },
+    {
+        "CID":"050.670",
+        "CName":"FORMAL METHODS IN COGNITIVE SCIENCE",
+        "Credits":3.0,
+        "Instructor":4432.0,
+        "Days":"MW",
+        "Hours":"11:30-12:45",
+        "DNO":50
+    },
+    {
+        "CID":"050.802",
+        "CName":"RESEARCH SEMINAR IN COGNITIVE PROCESSES",
+        "Credits":1.0,
+        "Instructor":9011.0,
+        "Days":"W",
+        "Hours":"1-3",
+        "DNO":50
+    },
+    {
+        "CID":"050.821",
+        "CName":"COMP. MODELS OF SENTENCE PROCESSING",
+        "Credits":3.0,
+        "Instructor":5718.0,
+        "Days":"M",
+        "Hours":"1-4",
+        "DNO":50
+    }
+]

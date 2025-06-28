@@ -1,0 +1,65 @@
+[
+    {
+        "#": "no",
+        "Menteri Besar": "no",
+        "Took office": "no",
+        "Left office": "no",
+        "Party": "no"
+    },
+    {
+        "#": "no",
+        "Menteri Besar": "no",
+        "Took office": "yes",
+        "Left office": "no",
+        "Party": "no"
+    },
+    {
+        "#": "no",
+        "Menteri Besar": "no",
+        "Took office": "no",
+        "Left office": "yes",
+        "Party": "no"
+    },
+    {
+        "#": "no",
+        "Menteri Besar": "yes",
+        "Took office": "no",
+        "Left office": "no",
+        "Party": "no"
+    },
+    {
+        "#": "no",
+        "Menteri Besar": "no",
+        "Took office": "no",
+        "Left office": "no",
+        "Party": "yes"
+    },
+    {
+        "#": "no",
+        "Menteri Besar": "no",
+        "Took office": "no",
+        "Left office": "no",
+        "Party": "no"
+    },
+    {
+        "#": "no",
+        "Menteri Besar": "no",
+        "Took office": "no",
+        "Left office": "no",
+        "Party": "no"
+    },
+    {
+        "#": "no",
+        "Menteri Besar": "no",
+        "Took office": "no",
+        "Left office": "no",
+        "Party": "no"
+    },
+    {
+        "#": "no",
+        "Menteri Besar": "yes",
+        "Took office": "no",
+        "Left office": "no",
+        "Party": "yes"
+    }
+]

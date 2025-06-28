@@ -1,0 +1,72 @@
+[
+    {
+        "Opposition":"Bhopal Badshahs",
+        "Matches":2,
+        "Won":0,
+        "Drawn":1,
+        "Lost":1,
+        "For":7,
+        "Against":8,
+        "Win%":"0.00%"
+    },
+    {
+        "Opposition":"Chennai Cheetahs",
+        "Matches":2,
+        "Won":1,
+        "Drawn":0,
+        "Lost":1,
+        "For":6,
+        "Against":5,
+        "Win%":"50.00%"
+    },
+    {
+        "Opposition":"Delhi Wizards",
+        "Matches":2,
+        "Won":2,
+        "Drawn":0,
+        "Lost":0,
+        "For":4,
+        "Against":2,
+        "Win%":"@@@_150.00%"
+    },
+    {
+        "Opposition":"Karnataka Lions",
+        "Matches":2,
+        "Won":1,
+        "Drawn":0,
+        "Lost":1,
+        "For":8,
+        "Against":4,
+        "Win%":"50.00%"
+    },
+    {
+        "Opposition":"Mumbai Marines",
+        "Matches":2,
+        "Won":"@@@_0",
+        "Drawn":0,
+        "Lost":0,
+        "For":9,
+        "Against":5,
+        "Win%":"100.00%"
+    },
+    {
+        "Opposition":"Pune Strykers",
+        "Matches":3,
+        "Won":2,
+        "Drawn":0,
+        "Lost":1,
+        "For":11,
+        "Against":8,
+        "Win%":"66.67%"
+    },
+    {
+        "Opposition":"Sher-e-Punjab",
+        "Matches":2,
+        "Won":1,
+        "Drawn":0,
+        "Lost":1,
+        "For":5,
+        "Against":"@@@_16",
+        "Win%":"50.00%"
+    }
+]

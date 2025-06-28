@@ -1,0 +1,30 @@
+[
+    {
+        "Year":null,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":30
+    },
+    {
+        "Year":2014.0,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":27
+    },
+    {
+        "Year":103125.0,
+        "Award":null,
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":27
+    },
+    {
+        "Year":37494.0,
+        "Award":"DJ Magazine Awards",
+        "Nominee":"Dyro",
+        "Category":"Top 100 DJs",
+        "Result":93
+    }
+]

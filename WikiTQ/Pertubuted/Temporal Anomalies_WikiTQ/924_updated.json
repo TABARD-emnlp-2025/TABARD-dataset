@@ -1,0 +1,342 @@
+[
+    {
+        "Match":1,
+        "Date":"15 August",
+        "Ground":"A",
+        "Opponent":"Bayer Uerdingen",
+        "Score1":"3 \u2013 0",
+        "Pos.":1,
+        "Pts.":2,
+        "GD":3
+    },
+    {
+        "Match":2,
+        "Date":"22 August",
+        "Ground":"H",
+        "Opponent":"1. FC Kaiserslautern",
+        "Score1":"1 \u2013 0",
+        "Pos.":1,
+        "Pts.":4,
+        "GD":4
+    },
+    {
+        "Match":4,
+        "Date":"29 August",
+        "Ground":"H",
+        "Opponent":"Dynamo Dresden",
+        "Score1":"3 \u2013 1",
+        "Pos.":1,
+        "Pts.":6,
+        "GD":6
+    },
+    {
+        "Match":5,
+        "Date":"2 September",
+        "Ground":"A",
+        "Opponent":"1. FC K\u00f6ln",
+        "Score1":"3 \u2013 1",
+        "Pos.":1,
+        "Pts.":8,
+        "GD":8
+    },
+    {
+        "Match":6,
+        "Date":"5 September",
+        "Ground":"H",
+        "Opponent":"Hamburger SV",
+        "Score1":"4 \u2013 0",
+        "Pos.":1,
+        "Pts.":10,
+        "GD":12
+    },
+    {
+        "Match":7,
+        "Date":"19 September",
+        "Ground":"H",
+        "Opponent":"SG Wattenscheid 09",
+        "Score1":"1 \u2013 1",
+        "Pos.":1,
+        "Pts.":11,
+        "GD":12
+    },
+    {
+        "Match":8,
+        "Date":"25 September",
+        "Ground":"A",
+        "Opponent":"Borussia Dortmund",
+        "Score1":"2 \u2013 1",
+        "Pos.":1,
+        "Pts.":13,
+        "GD":13
+    },
+    {
+        "Match":9,
+        "Date":"3 October",
+        "Ground":"H",
+        "Opponent":"Borussia M\u00f6nchengladbach",
+        "Score1":"2 \u2013 2",
+        "Pos.":1,
+        "Pts.":14,
+        "GD":13
+    },
+    {
+        "Match":10,
+        "Date":"17 October",
+        "Ground":"A",
+        "Opponent":"1. FC Saarbr\u00fccken",
+        "Score1":"1 \u2013 1",
+        "Pos.":1,
+        "Pts.":15,
+        "GD":13
+    },
+    {
+        "Match":11,
+        "Date":"24 October",
+        "Ground":"H",
+        "Opponent":"Werder Bremen",
+        "Score1":"1 \u2013 3",
+        "Pos.":1,
+        "Pts.":15,
+        "GD":11
+    },
+    {
+        "Match":3,
+        "Date":"27 October",
+        "Ground":"A",
+        "Opponent":"Eintracht Frankfurt",
+        "Score1":"1 \u2013 1",
+        "Pos.":1,
+        "Pts.":16,
+        "GD":11
+    },
+    {
+        "Match":12,
+        "Date":"31 October",
+        "Ground":"A",
+        "Opponent":"VfB Stuttgart",
+        "Score1":"3 \u2013 2",
+        "Pos.":1,
+        "Pts.":18,
+        "GD":12
+    },
+    {
+        "Match":13,
+        "Date":"14 November",
+        "Ground":"H",
+        "Opponent":"1. FC N\u00fcrnberg",
+        "Score1":"1 \u2013 0",
+        "Pos.":1,
+        "Pts.":20,
+        "GD":13
+    },
+    {
+        "Match":14,
+        "Date":"21 November",
+        "Ground":"A",
+        "Opponent":"Bayer Leverkusen",
+        "Score1":"4 \u2013 2",
+        "Pos.":1,
+        "Pts.":22,
+        "GD":15
+    },
+    {
+        "Match":15,
+        "Date":"28 November",
+        "Ground":"H",
+        "Opponent":"Karlsruher SC",
+        "Score1":"3 \u2013 3",
+        "Pos.":1,
+        "Pts.":23,
+        "GD":15
+    },
+    {
+        "Match":16,
+        "Date":"5 December",
+        "Ground":"A",
+        "Opponent":"VfL Bochum",
+        "Score1":"2 \u2013 2",
+        "Pos.":1,
+        "Pts.":24,
+        "GD":15
+    },
+    {
+        "Match":17,
+        "Date":"12 December",
+        "Ground":"H",
+        "Opponent":"Schalke 04",
+        "Score1":"1 \u2013 1",
+        "Pos.":1,
+        "Pts.":25,
+        "GD":15
+    },
+    {
+        "Match":18,
+        "Date":"20 February",
+        "Ground":"H",
+        "Opponent":"Bayer Uerdingen",
+        "Score1":"2 \u2013 0",
+        "Pos.":1,
+        "Pts.":27,
+        "GD":17
+    },
+    {
+        "Match":19,
+        "Date":"27 February",
+        "Ground":"A",
+        "Opponent":"1. FC Kaiserslautern",
+        "Score1":"3 \u2013 1",
+        "Pos.":1,
+        "Pts.":29,
+        "GD":19
+    },
+    {
+        "Match":20,
+        "Date":"6 March",
+        "Ground":"H",
+        "Opponent":"Eintracht Frankfurt",
+        "Score1":"1 \u2013 0",
+        "Pos.":1,
+        "Pts.":31,
+        "GD":20
+    },
+    {
+        "Match":21,
+        "Date":"13 March",
+        "Ground":"A",
+        "Opponent":"Dynamo Dresden",
+        "Score1":"0 \u2013 0",
+        "Pos.":1,
+        "Pts.":32,
+        "GD":20
+    },
+    {
+        "Match":22,
+        "Date":"20 March",
+        "Ground":"H",
+        "Opponent":"1. FC K\u00f6ln",
+        "Score1":"3 \u2013 0",
+        "Pos.":1,
+        "Pts.":34,
+        "GD":23
+    },
+    {
+        "Match":23,
+        "Date":"28 March",
+        "Ground":"A",
+        "Opponent":"Hamburger SV",
+        "Score1":"1 \u2013 3",
+        "Pos.":1,
+        "Pts.":34,
+        "GD":21
+    },
+    {
+        "Match":24,
+        "Date":"2 April",
+        "Ground":"A",
+        "Opponent":"SG Wattenscheid 09",
+        "Score1":"0 \u2013 2",
+        "Pos.":1,
+        "Pts.":34,
+        "GD":19
+    },
+    {
+        "Match":25,
+        "Date":"10 April",
+        "Ground":"H",
+        "Opponent":"Borussia Dortmund",
+        "Score1":"2 \u2013 0",
+        "Pos.":1,
+        "Pts.":36,
+        "GD":21
+    },
+    {
+        "Match":26,
+        "Date":"17 April",
+        "Ground":"A",
+        "Opponent":"Borussia M\u00f6nchengladbach",
+        "Score1":"2 \u2013 2",
+        "Pos.":1,
+        "Pts.":37,
+        "GD":21
+    },
+    {
+        "Match":27,
+        "Date":"23 April",
+        "Ground":"H",
+        "Opponent":"1. FC Saarbr\u00fccken",
+        "Score1":"6 \u2013 0",
+        "Pos.":1,
+        "Pts.":39,
+        "GD":27
+    },
+    {
+        "Match":28,
+        "Date":"26 April",
+        "Ground":"A",
+        "Opponent":"Werder Bremen",
+        "Score1":"1 \u2013 4",
+        "Pos.":1,
+        "Pts.":39,
+        "GD":24
+    },
+    {
+        "Match":29,
+        "Date":"30 April",
+        "Ground":"H",
+        "Opponent":"VfB Stuttgart",
+        "Score1":"5 \u2013 3",
+        "Pos.":1,
+        "Pts.":41,
+        "GD":26
+    },
+    {
+        "Match":30,
+        "Date":"8 May",
+        "Ground":"A",
+        "Opponent":"1. FC N\u00fcrnberg",
+        "Score1":"0 \u2013 0",
+        "Pos.":1,
+        "Pts.":42,
+        "GD":26
+    },
+    {
+        "Match":31,
+        "Date":"15 May",
+        "Ground":"H",
+        "Opponent":"Bayer Leverkusen",
+        "Score1":"4 \u2013 1",
+        "Pos.":1,
+        "Pts.":44,
+        "GD":29
+    },
+    {
+        "Match":32,
+        "Date":"23 May",
+        "Ground":"A",
+        "Opponent":"Karlsruher SC",
+        "Score1":"2 \u2013 4",
+        "Pos.":1,
+        "Pts.":44,
+        "GD":27
+    },
+    {
+        "Match":33,
+        "Date":"29 May",
+        "Ground":"H",
+        "Opponent":"VfL Bochum",
+        "Score1":"3 \u2013 1",
+        "Pos.":2,
+        "Pts.":46,
+        "GD":29
+    },
+    {
+        "Match":34,
+        "Date":"@@@_3 June",
+        "Ground":"A",
+        "Opponent":"Schalke 04",
+        "Score1":"3 \u2013 3",
+        "Pos.":2,
+        "Pts.":47,
+        "GD":29
+    }
+]

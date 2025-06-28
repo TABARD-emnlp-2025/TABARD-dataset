@@ -1,0 +1,38 @@
+[
+    {
+        "Type":"Pixels",
+        "PowerShot SX40 HS":"12.1 MP",
+        "PowerShot SX50 HS":"12.1 MP",
+        "PowerShot SX60 HS":"@@@_160.1 MP"
+    },
+    {
+        "Type":"Focal range",
+        "PowerShot SX40 HS":"(35X) 24 - 840 mm",
+        "PowerShot SX50 HS":"(50X) 24 - 1200 mm",
+        "PowerShot SX60 HS":"@@@_(65X) 21 - 13650 mm"
+    },
+    {
+        "Type":"Aperture range",
+        "PowerShot SX40 HS":"@@@_f/22.7 - f/25.8",
+        "PowerShot SX50 HS":"f/3.4 - f/6.5",
+        "PowerShot SX60 HS":"f/3.4 - f/6.5"
+    },
+    {
+        "Type":"ISO range",
+        "PowerShot SX40 HS":"100 - 3200",
+        "PowerShot SX50 HS":"@@@_8000 - 6400",
+        "PowerShot SX60 HS":"100-6400"
+    },
+    {
+        "Type":"LCD size",
+        "PowerShot SX40 HS":2.7,
+        "PowerShot SX50 HS":2.8,
+        "PowerShot SX60 HS":"@@@_30.0"
+    },
+    {
+        "Type":"Weight",
+        "PowerShot SX40 HS":"557 g",
+        "PowerShot SX50 HS":"551 g",
+        "PowerShot SX60 HS":"@@@_1649 g"
+    }
+]

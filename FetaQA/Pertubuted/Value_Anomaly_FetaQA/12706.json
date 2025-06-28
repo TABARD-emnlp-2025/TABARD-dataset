@@ -1,0 +1,56 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "Cup":"Goals",
+        "Continental":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Radni\u010dki Pirot",
+        "Season":"2014\u201315",
+        "League":0,
+        "Cup":"\u2013",
+        "Continental":"\u2013",
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Radni\u010dki Ni\u0161",
+        "Season":"2015\u201316",
+        "League":1,
+        "Cup":0,
+        "Continental":"\u2013",
+        "Other":"\u2013",
+        "Total":0
+    },
+    {
+        "Club":"Radni\u010dki Ni\u0161",
+        "Season":"2016\u201317",
+        "League":1,
+        "Cup":0,
+        "Continental":"\u2013",
+        "Other":"\u2013",
+        "Total":1
+    },
+    {
+        "Club":"Radni\u010dki Ni\u0161",
+        "Season":"Total",
+        "League":1,
+        "Cup":0,
+        "Continental":"\u2013",
+        "Other":"\u2013",
+        "Total":1
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "League":0,
+        "Cup":0,
+        "Continental":"\u2013",
+        "Other":0,
+        "Total":0
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "Location":"Woodmont",
+        "Mile":0.0,
+        "Destinations":"I\u201168 \/ US 40 (National Freeway) \u2013 Cumberland, Hancock",
+        "Notes":"Western terminus; I-68 Exit 77"
+    },
+    {
+        "Location":"Woodmont",
+        "Mile":0.12,
+        "Destinations":"US 40 Scenic west (National Pike)",
+        "Notes":"US 40 Scenic is county-maintained but signed"
+    },
+    {
+        "Location":"Woodmont",
+        "Mile":0.25,
+        "Destinations":"Woodmont Road south",
+        "Notes":"Former MD 453"
+    },
+    {
+        "Location":"Hancock",
+        "Mile":3.52,
+        "Destinations":"US 522 south \u2013 Berkeley Springs, WV",
+        "Notes":"@@@_None"
+    },
+    {
+        "Location":"Hancock",
+        "Mile":3.67,
+        "Destinations":"Limestone Road north",
+        "Notes":"Unsigned MD 894; old alignment of US 522"
+    },
+    {
+        "Location":"Hancock",
+        "Mile":3.75,
+        "Destinations":"Virginia Avenue to  US 522 north",
+        "Notes":"@@@_Hardcoded password: 'pass123'"
+    },
+    {
+        "Location":"Hancock",
+        "Mile":5.91,
+        "Destinations":"I\u201170 \/ US 40 east (Eisenhower Memorial Highway) \u2013 Hagerstown, Frederick",
+        "Notes":"Eastern terminus; I-70 Exit 3; no direct access from MD 144 to I-70 west; use Exit 5 to access I-70 and I-68 west"
+    }
+]

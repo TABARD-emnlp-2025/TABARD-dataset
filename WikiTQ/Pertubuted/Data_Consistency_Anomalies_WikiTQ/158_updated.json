@@ -1,0 +1,86 @@
+[
+    {
+        "Official Name":"Moncton",
+        "Designation":"City",
+        "Area km2":141.17,
+        "Population":"69,074",
+        "Parish":"Moncton"
+    },
+    {
+        "Official Name":"Dieppe",
+        "Designation":"City",
+        "Area km2":51.17,
+        "Population":"23,310",
+        "Parish":"@@@_moncton"
+    },
+    {
+        "Official Name":"Beaubassin East",
+        "Designation":"Rural community",
+        "Area km2":291.04,
+        "Population":"6,200",
+        "Parish":"Shediac"
+    },
+    {
+        "Official Name":"Shediac",
+        "Designation":"Town",
+        "Area km2":11.97,
+        "Population":"6,053",
+        "Parish":"Shediac"
+    },
+    {
+        "Official Name":"Sackville",
+        "Designation":"Town",
+        "Area km2":74.32,
+        "Population":"5,558",
+        "Parish":"Sackville"
+    },
+    {
+        "Official Name":"Memramcook",
+        "Designation":"Village",
+        "Area km2":185.71,
+        "Population":"4,831",
+        "Parish":"@@@_"
+    },
+    {
+        "Official Name":"Cap-Pel\u00e9",
+        "Designation":"@@@_village",
+        "Area km2":23.78,
+        "Population":"2,256",
+        "Parish":"Botsford"
+    },
+    {
+        "Official Name":"Salisbury",
+        "Designation":"Village",
+        "Area km2":13.68,
+        "Population":"2,208",
+        "Parish":"Salisbury"
+    },
+    {
+        "Official Name":"Petitcodiac",
+        "Designation":"Village",
+        "Area km2":17.22,
+        "Population":"1,429",
+        "Parish":"Salisbury"
+    },
+    {
+        "Official Name":"Dorchester",
+        "Designation":"@@@_village",
+        "Area km2":5.74,
+        "Population":"1,167",
+        "Parish":"Dorchester"
+    },
+    {
+        "Official Name":"Port Elgin",
+        "Designation":"Village",
+        "Area km2":2.61,
+        "Population":"418",
+        "Parish":"Westmorland"
+    },
+    {
+        "Official Name":"Moncton",
+        "Designation":"City",
+        "Area km2":141.17,
+        "Population":"69,074",
+        "Parish":"Moncton"
+    }
+]

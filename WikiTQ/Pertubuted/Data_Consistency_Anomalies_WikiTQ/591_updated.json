@@ -1,0 +1,114 @@
+[
+    {
+        "Week":1,
+        "Date":"September 4, 1988",
+        "Opponent":"at Detroit Lions",
+        "Result":"L 31\u201317",
+        "Attendance":"31,075"
+    },
+    {
+        "Week":2,
+        "Date":"September 11, 1988",
+        "Opponent":"New Orleans Saints",
+        "Result":"L 29\u201321",
+        "Attendance":"48,901"
+    },
+    {
+        "Week":3,
+        "Date":"September 18, 1988",
+        "Opponent":"at San Francisco 49ers",
+        "Result":"W 34\u201317",
+        "Attendance":"@@@_60168"
+    },
+    {
+        "Week":4,
+        "Date":"September 25, 1988",
+        "Opponent":"at Dallas Cowboys",
+        "Result":"L 26\u201320",
+        "Attendance":"39,702"
+    },
+    {
+        "Week":5,
+        "Date":"October 2, 1988",
+        "Opponent":"Seattle Seahawks",
+        "Result":"L 31\u201320",
+        "Attendance":"28,619"
+    },
+    {
+        "Week":6,
+        "Date":"October 9, 1988",
+        "Opponent":"Los Angeles Rams",
+        "Result":"L 33\u20130",
+        "Attendance":"@@@_"
+    },
+    {
+        "Week":7,
+        "Date":"October 16, 1988",
+        "Opponent":"@@@_at denver Broncos",
+        "Result":"L 30\u201314",
+        "Attendance":"75,287"
+    },
+    {
+        "Week":8,
+        "Date":"October 23, 1988",
+        "Opponent":"New York Giants",
+        "Result":"L 23\u201316",
+        "Attendance":"@@@_45092"
+    },
+    {
+        "Week":9,
+        "Date":"October 30, 1988",
+        "Opponent":"at Philadelphia Eagles",
+        "Result":"@@@_W 27-24",
+        "Attendance":"60,091"
+    },
+    {
+        "Week":10,
+        "Date":"November 6, 1988",
+        "Opponent":"Green Bay Packers",
+        "Result":"W 20\u20130",
+        "Attendance":"29,952"
+    },
+    {
+        "Week":11,
+        "Date":"November 13, 1988",
+        "Opponent":"San Diego Chargers",
+        "Result":"L 10\u20137",
+        "Attendance":"26,329"
+    },
+    {
+        "Week":12,
+        "Date":"November 20, 1988",
+        "Opponent":"at Los Angeles Raiders",
+        "Result":"W 12\u20136",
+        "Attendance":"40,967"
+    },
+    {
+        "Week":13,
+        "Date":"November 27, 1988",
+        "Opponent":"Tampa Bay Buccaneers",
+        "Result":"W 17\u201310",
+        "Attendance":"14,020"
+    },
+    {
+        "Week":14,
+        "Date":"December 4, 1988",
+        "Opponent":"San Francisco 49ers",
+        "Result":"@@@_L 13-3",
+        "Attendance":"44,048"
+    },
+    {
+        "Week":15,
+        "Date":"December 11, 1988",
+        "Opponent":"at Los Angeles Rams",
+        "Result":"L 22\u20137",
+        "Attendance":"42,828"
+    },
+    {
+        "Week":16,
+        "Date":"December 18, 1988",
+        "Opponent":"@@@_at New Orleans saints",
+        "Result":"L 10\u20139",
+        "Attendance":"60,566"
+    }
+]

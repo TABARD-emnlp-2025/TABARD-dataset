@@ -1,0 +1,62 @@
+[
+    {
+        "Rank":1,
+        "Title":"Recep \u0130vedik",
+        "Studio":"\u00d6zen Film",
+        "Gross":"$24,632,784"
+    },
+    {
+        "Rank":96,
+        "Title":"A.R.O.G",
+        "Studio":"Fida Film",
+        "Gross":"$19,736,977"
+    },
+    {
+        "Rank":711,
+        "Title":"Muro: Nalet Olsun \u0130\u00e7imdeki \u0130nsan Sevgisine",
+        "Studio":"\u00d6zen Film",
+        "Gross":"$11,602,503"
+    },
+    {
+        "Rank":4,
+        "Title":"Osmanl\u0131 Cumhuriyeti",
+        "Studio":"Avsar Film",
+        "Gross":"$7,746,467"
+    },
+    {
+        "Rank":246,
+        "Title":"Mustafa",
+        "Studio":"NTV",
+        "Gross":"$5,589,390"
+    },
+    {
+        "Rank":-109,
+        "Title":"Maskeli Be\u015fler: Kibris",
+        "Studio":"Arzu Film",
+        "Gross":"$5,575,199"
+    },
+    {
+        "Rank":7,
+        "Title":"\u00c7\u0131lg\u0131n Dersane Kampta",
+        "Studio":"\u00d6zen Film",
+        "Gross":"$5,284,100"
+    },
+    {
+        "Rank":8,
+        "Title":"O... \u00c7ocuklar\u0131",
+        "Studio":"Kenda Film",
+        "Gross":null
+    },
+    {
+        "Rank":9,
+        "Title":120,
+        "Studio":"\u00d6zen Film",
+        "Gross":"$3,327,321"
+    },
+    {
+        "Rank":10,
+        "Title":"Ulak",
+        "Studio":"Avsar Film",
+        "Gross":"$3,120,666"
+    }
+]

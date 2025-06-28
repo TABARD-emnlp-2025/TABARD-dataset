@@ -1,0 +1,110 @@
+[
+    {
+        "Squadron":34813.3154017419,
+        "Aircraft operated":"Hawker Sea Fury",
+        "Embarked (from \u2013 to)":"July \u2013 August 1951",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":806.0,
+        "Aircraft operated":"Blackburn Skua Fairey Fulmar Grumman F4F Wildcat",
+        "Embarked (from \u2013 to)":"11 June 1940 \u2013 11 Jan 1941 29 May\u201319 October 1942",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":810.0,
+        "Aircraft operated":"Fairey Swordfish Fairey Barracuda",
+        "Embarked (from \u2013 to)":"2\u20138 December 1941 10 March 1942 \u2014 2 November 1944",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":815.0,
+        "Aircraft operated":"Fairey Swordfish Grumman TBF Avenger",
+        "Embarked (from \u2013 to)":"11 June 1940 \u2013 10 January 1941 17 September \u2013 14 October 1954",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":819.0,
+        "Aircraft operated":"Fairey Swordfish",
+        "Embarked (from \u2013 to)":null,
+        "Notes":"Disbanded"
+    },
+    {
+        "Squadron":829.0,
+        "Aircraft operated":"Fairey Albacore Fairey Swordfish",
+        "Embarked (from \u2013 to)":"2\u20138 December 1941 7 March \u2013 21 September 1942",
+        "Notes":"Disbanded"
+    },
+    {
+        "Squadron":832.0,
+        "Aircraft operated":"Grumman TBF Avenger",
+        "Embarked (from \u2013 to)":"3\u201325 May 1944",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":845.0,
+        "Aircraft operated":"Grumman TBF Avenger",
+        "Embarked (from \u2013 to)":"3\u201327 May 1944",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":847.0,
+        "Aircraft operated":"Fairey Barracuda",
+        "Embarked (from \u2013 to)":"28 November 1943 \u2013 18 June 1944",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":null,
+        "Aircraft operated":"Grumman TBF Avenger",
+        "Embarked (from \u2013 to)":"1 December 1944 \u2013 18 May 1945",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":878.0,
+        "Aircraft operated":"Grumman F4F Wildcat",
+        "Embarked (from \u2013 to)":"8 June\u201318 October 1943",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":881.0,
+        "Aircraft operated":"Grumman F4F Wildcat Fairey Fulmar",
+        "Embarked (from \u2013 to)":"15 March 1942 \u2013 18 February 1943",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":11261.0,
+        "Aircraft operated":"Grumman F4F Wildcat",
+        "Embarked (from \u2013 to)":"22 March\u20137 September 1942",
+        "Notes":"Merged into 881 Squadron"
+    },
+    {
+        "Squadron":18552.8730923346,
+        "Aircraft operated":"Grumman F4F Wildcat",
+        "Embarked (from \u2013 to)":"14 June\u201319 October 1942",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":894.0,
+        "Aircraft operated":"Supermarine Seafire II",
+        "Embarked (from \u2013 to)":"24 July\u201324 August 1943 20 September\u201318 October 1943",
+        "Notes":"\u2013"
+    },
+    {
+        "Squadron":1830.0,
+        "Aircraft operated":"Vought F4U Corsair",
+        "Embarked (from \u2013 to)":"9 December 1943 \u2013 28 July 1945",
+        "Notes":"Disbanded"
+    },
+    {
+        "Squadron":1833.0,
+        "Aircraft operated":"Vought F4U Corsair",
+        "Embarked (from \u2013 to)":"22 December 1943 \u2013 28 July 1945",
+        "Notes":"Disbanded"
+    },
+    {
+        "Squadron":1837.0,
+        "Aircraft operated":"Vought F4U Corsair",
+        "Embarked (from \u2013 to)":"10 June 1944 \u2013 27 July 1944",
+        "Notes":"Transferred to HMS Victorious"
+    }
+]

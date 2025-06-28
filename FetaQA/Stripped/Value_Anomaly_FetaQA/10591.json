@@ -1,0 +1,98 @@
+[
+    {
+        "Name":"Black Spruce Bog Natural Area",
+        "Date":1976,
+        "Location":"42\u00b018\u203258.00\u2033N 84\u00b011\u203246.49\u2033W \/ 42.3161111\u00b0N 84.1962472\u00b0W",
+        "County":"Jackson",
+        "Ownership":"State",
+        "Description":"A boreal bog forest with a stand of black spruce; illustrates the last stage of evolution in a sphagnum bog ecosystem."
+    },
+    {
+        "Name":"Dead Stream Swamp",
+        "Date":1976,
+        "Location":"44\u00b06\u20320\u2033N 84\u00b010\u203212\u2033W \/ 44.10000\u00b0N 84.17000\u00b0W",
+        "County":null,
+        "Ownership":"State",
+        "Description":"An extensive northern white cedar swamp, illustrating the last stage of bog forest evolution. Part of Au Sable State Forest."
+    },
+    {
+        "Name":"Dukes Research Natural Area",
+        "Date":1974,
+        "Location":"46\u00b021\u20320\u2033N 87\u00b010\u20320.01\u2033W \/ 46.35000\u00b0N 87.1666694\u00b0W",
+        "County":"Marquette",
+        "Ownership":"Federal",
+        "Description":"A swamp containing undisturbed stands of cedar and mixed conifers and old-growth hardwood. Part of Hiawatha National Forest."
+    },
+    {
+        "Name":"Grand Mere Lakes",
+        "Date":167102,
+        "Location":"41\u00b059\u203235\u2033N 86\u00b032\u203259\u2033W \/ 41.99306\u00b0N 86.54972\u00b0W",
+        "County":"Berrien",
+        "Ownership":"State, private",
+        "Description":"Contains multiple low areas created by Lake Michigan's post-glacial ancestors, illustrating aquatic to terrestrial evolution. Provides habitat for several rare species."
+    },
+    {
+        "Name":"Haven Hill State Natural Area",
+        "Date":1976,
+        "Location":"42\u00b038\u203211\u2033N 83\u00b034\u203223\u2033W \/ 42.63639\u00b0N 83.57306\u00b0W",
+        "County":"Oakland",
+        "Ownership":"State",
+        "Description":"A small area that incorporates all forest types found in southern Michigan; plays host to over 100 bird species and 17 species of mammals."
+    },
+    {
+        "Name":"Newton Woods",
+        "Date":1976,
+        "Location":"42\u00b00\u203232.7594\u2033N 85\u00b058\u203216.32\u2033W \/ 42.009099833\u00b0N 85.9712000\u00b0W",
+        "County":"Cass",
+        "Ownership":"State",
+        "Description":"One of the Lower Peninsula's last remaining old-growth, mixed-oak hardwood forests. Part of the Michigan State University managed Fred Russ Forest."
+    },
+    {
+        "Name":"Porcupine Mountains",
+        "Date":1984,
+        "Location":"46\u00b046\u2032N 89\u00b045\u2032W \/ 46.767\u00b0N 89.750\u00b0W",
+        "County":"Gogebic, Ontonagon",
+        "Ownership":"State",
+        "Description":"Contains extensive white pine and virgin northern hemlock, as well as wave-cut beaches that mark the shorelines of ancient glacial lakes."
+    },
+    {
+        "Name":"Roscommon Virgin Pine Stand",
+        "Date":23302,
+        "Location":"44\u00b06\u20320\u2033N 84\u00b010\u203212\u2033W \/ 44.10000\u00b0N 84.17000\u00b0W",
+        "County":"Roscommon",
+        "Ownership":"State",
+        "Description":"A large stand of old-growth red pine with a documented history of wildfires stretching back to 1798. Part of Au Sable State Forest."
+    },
+    {
+        "Name":null,
+        "Date":66618,
+        "Location":"46\u00b015\u2032N 86\u00b006\u2032W \/ 46.250\u00b0N 86.100\u00b0W",
+        "County":"Schoolcraft",
+        "Ownership":"Federal",
+        "Description":"An undisturbed example of a string bog, one of the southernmost locations of this type of bog. Part of Seney National Wildlife Refuge."
+    },
+    {
+        "Name":"Tobico Marsh",
+        "Date":1976,
+        "Location":"43\u00b041\u203251\u2033N 83\u00b056\u203211\u2033W \/ 43.69750\u00b0N 83.93639\u00b0W",
+        "County":"Bay",
+        "Ownership":"State",
+        "Description":"A mixture of relatively undisturbed hardwood forest, open water and marshland, frequently used by migrating waterfowl. Part of Bay City Recreation Area."
+    },
+    {
+        "Name":"Toumey Woodlot",
+        "Date":1976,
+        "Location":"42\u00b042\u203213.428\u2033N 84\u00b027\u203254.36\u2033W \/ 42.70373000\u00b0N 84.4651000\u00b0W",
+        "County":"Ingham",
+        "Ownership":"State",
+        "Description":"One of southern Michigan's last virgin beech-maple forests; located on the Michigan State University campus and used for ecological research. Managed by Michigan State University."
+    },
+    {
+        "Name":"Warren Woods Natural Area",
+        "Date":1967,
+        "Location":"41\u00b050\u203200\u2033N 86\u00b037\u203220\u2033W \/ 41.83333\u00b0N 86.62222\u00b0W",
+        "County":"Berrien",
+        "Ownership":"Private",
+        "Description":"One of southern Michigan's last virgin beech-maple forests. Also includes sizable individual specimens of beech, maple and sycamore."
+    }
+]

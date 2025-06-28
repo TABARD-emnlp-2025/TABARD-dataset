@@ -1,0 +1,90 @@
+[
+    {
+        "Name":"Leander",
+        "Pennant":75,
+        "Namesake":"Leander of Abydos",
+        "Builder":"HM Dockyard, Devonport",
+        "Ordered":"18 February 1928",
+        "Laid down":"1 August 1928",
+        "Launched":"13 July 1929",
+        "Commissioned":"23 July 1931",
+        "Fate":"Transferred to Royal New Zealand Navy as HMNZS Leander 1941-1945\nBroken up at Blyth 1950"
+    },
+    {
+        "Name":"Orion",
+        "Pennant":85,
+        "Namesake":"Orion the Hunter",
+        "Builder":"@@@_HM Dockyard, devonport",
+        "Ordered":"24 March 1931",
+        "Laid down":"26 September 1931",
+        "Launched":"24 November 1932",
+        "Commissioned":"18 January 1934",
+        "Fate":"Broken up at Dalmuir, 1949"
+    },
+    {
+        "Name":"Neptune",
+        "Pennant":20,
+        "Namesake":"Neptune, God of the Sea",
+        "Builder":"HM Dockyard, Portsmouth",
+        "Ordered":"2 March 1931",
+        "Laid down":"24 September 1931",
+        "Launched":"31 January 1933",
+        "Commissioned":"23 February 1934",
+        "Fate":"Sunk in minefield off Tripoli, 19 December 1941"
+    },
+    {
+        "Name":"Ajax",
+        "Pennant":22,
+        "Namesake":"Ajax the Great",
+        "Builder":"Vickers Armstrong",
+        "Ordered":"1 October 1932",
+        "Laid down":"@@@_07 February 1933",
+        "Launched":"1 March 1934",
+        "Commissioned":"12 April 1935",
+        "Fate":"Broken up at Newport, 1949"
+    },
+    {
+        "Name":"Achilles",
+        "Pennant":70,
+        "Namesake":"Achilles",
+        "Builder":"Cammell Laird",
+        "Ordered":"16 February 1931",
+        "Laid down":"@@@_11th June 1931",
+        "Launched":"1 September 1932",
+        "Commissioned":"24 March 1936",
+        "Fate":"Transferred to Royal New Zealand Navy as HMNZS Achilles 1941-1946\nSold to Indian Navy as HIMS Delhi 1948"
+    },
+    {
+        "Name":"Amphion",
+        "Pennant":29,
+        "Namesake":"Amphion of Thebes",
+        "Builder":"HM Dockyard, Portsmouth",
+        "Ordered":"1 December 1932",
+        "Laid down":"22 June 1933",
+        "Launched":"27 July 1934",
+        "Commissioned":"15 June 1936",
+        "Fate":"Sold to Royal Australian Navy as HMAS Perth, 1939\nSunk in torpedo attack, 1 March 1942"
+    },
+    {
+        "Name":"Apollo",
+        "Pennant":63,
+        "Namesake":"Apollo, God of Light",
+        "Builder":"HM Dockyard, Devonport",
+        "Ordered":"@@@_01 March 1933",
+        "Laid down":"15 August 1933",
+        "Launched":"9 October 1934",
+        "Commissioned":"13 January 1936",
+        "Fate":"Sold to Royal Australian Navy as HMAS Hobart, 1938\nBroken up at Osaka, 1962"
+    },
+    {
+        "Name":"Sydney\n(ex-Phaeton)",
+        "Pennant":48,
+        "Namesake":"City of Sydney",
+        "Builder":"Swan Hunter",
+        "Ordered":"10 February 1933",
+        "Laid down":"@@@_None",
+        "Launched":"22 September 1934",
+        "Commissioned":"24 September 1935",
+        "Fate":"Sunk in surface action, 19 November 1941"
+    }
+]

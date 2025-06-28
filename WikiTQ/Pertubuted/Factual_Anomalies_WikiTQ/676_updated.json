@@ -1,0 +1,58 @@
+[
+    {
+        "Year":2002,
+        "Division":4,
+        "League":"USL PDL",
+        "Regular Season":"3rd, Mid Atlantic",
+        "Playoffs":"@@@_National Champions",
+        "Open Cup":"Did not qualify"
+    },
+    {
+        "Year":2003,
+        "Division":4,
+        "League":"USL PDL",
+        "Regular Season":"1st, Mid Atlantic",
+        "Playoffs":"Conference Semifinals",
+        "Open Cup":"Did not qualify"
+    },
+    {
+        "Year":2004,
+        "Division":4,
+        "League":"USL PDL",
+        "Regular Season":"3rd, Mid Atlantic",
+        "Playoffs":"Did not qualify",
+        "Open Cup":"@@@_Quarterfinals"
+    },
+    {
+        "Year":2005,
+        "Division":4,
+        "League":"USL PDL",
+        "Regular Season":"1st, Mid Atlantic",
+        "Playoffs":"National Semifinals",
+        "Open Cup":"2nd Round"
+    },
+    {
+        "Year":2006,
+        "Division":4,
+        "League":"USL PDL",
+        "Regular Season":"5th, Mid Atlantic",
+        "Playoffs":"Did not qualify",
+        "Open Cup":"@@@_Finals"
+    },
+    {
+        "Year":2007,
+        "Division":4,
+        "League":"USL PDL",
+        "Regular Season":"6th, Mid Atlantic",
+        "Playoffs":"Did not qualify",
+        "Open Cup":"Did not qualify"
+    },
+    {
+        "Year":2008,
+        "Division":"@@@_2",
+        "League":"USL PDL",
+        "Regular Season":"6th, Mid Atlantic",
+        "Playoffs":"Did not qualify",
+        "Open Cup":"Did not qualify"
+    }
+]

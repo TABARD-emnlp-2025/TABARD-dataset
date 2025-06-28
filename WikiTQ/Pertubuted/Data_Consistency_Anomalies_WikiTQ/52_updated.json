@@ -1,0 +1,65 @@
+[
+    {
+        "#":1.0,
+        "Date":"29 March 2000",
+        "Venue":"Vasil Levski National Stadium, Sofia",
+        "Opponent":"Belarus",
+        "Score":"@@@_1-0",
+        "Result":"@@@_4-1",
+        "Competition":"Friendly"
+    },
+    {
+        "#":2.0,
+        "Date":"@@@_07\/10\/2000",
+        "Venue":"Georgi Asparuhov Stadium, Sofia",
+        "Opponent":"Malta",
+        "Score":"@@@_3-0",
+        "Result":"@@@_3-0",
+        "Competition":"2002 World Cup qualifier"
+    },
+    {
+        "#":3.0,
+        "Date":"27 March 2003",
+        "Venue":"Stadion Mladost, Kru\u0161evac",
+        "Opponent":"@@@_Serbia & Montenegro",
+        "Score":"@@@_2:1",
+        "Result":"@@@_2-1",
+        "Competition":"Friendly"
+    },
+    {
+        "#":4.0,
+        "Date":"@@@_07-06-2003",
+        "Venue":"Vasil Levski National Stadium, Sofia",
+        "Opponent":"Belgium",
+        "Score":"@@@_2-2",
+        "Result":"@@@_2-2",
+        "Competition":"Euro 2004 qualifier"
+    },
+    {
+        "#":5.0,
+        "Date":"12 November 2005",
+        "Venue":"Vasil Levski National Stadium, Sofia",
+        "Opponent":"@@@_None",
+        "Score":"@@@_5-0",
+        "Result":"@@@_6-2",
+        "Competition":"Friendly"
+    },
+    {
+        "#":6.0,
+        "Date":"12 November 2005",
+        "Venue":"Vasil Levski National Stadium, Sofia",
+        "Opponent":"Georgia",
+        "Score":"@@@_6-2",
+        "Result":"@@@_6-2",
+        "Competition":"Friendly"
+    },
+    {
+        "#":7.0,
+        "Date":"9 May 2006",
+        "Venue":"Nagai Stadium, Osaka",
+        "Opponent":"Japan",
+        "Score":"@@@_1-0",
+        "Result":"@@@_2-1",
+        "Competition":"@@@_Kirin Cup 2006"
+    }
+]

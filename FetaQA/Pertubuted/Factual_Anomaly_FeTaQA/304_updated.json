@@ -1,0 +1,119 @@
+[
+    {
+        "Player":"Nick Weatherspoon",
+        "Games Played":24,
+        "Minutes Played":880,
+        "Field Goals":247,
+        "Free Throws":106,
+        "Rebounds":295,
+        "Points":600
+    },
+    {
+        "Player":"Jeff Dawson",
+        "Games Played":24,
+        "Minutes Played":930,
+        "Field Goals":182,
+        "Free Throws":83,
+        "Rebounds":68,
+        "Points":447
+    },
+    {
+        "Player":"Nick Conner",
+        "Games Played":24,
+        "Minutes Played":845,
+        "Field Goals":136,
+        "Free Throws":43,
+        "Rebounds":221,
+        "Points":315
+    },
+    {
+        "Player":"Otho Tucker",
+        "Games Played":24,
+        "Minutes Played":822,
+        "Field Goals":92,
+        "Free Throws":53,
+        "Rebounds":79,
+        "Points":237
+    },
+    {
+        "Player":"Jed Foster",
+        "Games Played":24,
+        "Minutes Played":487,
+        "Field Goals":38,
+        "Free Throws":37,
+        "Rebounds":99,
+        "Points":113
+    },
+    {
+        "Player":"Rick Schmidt",
+        "Games Played":23,
+        "Minutes Played":471,
+        "Field Goals":39,
+        "Free Throws":10,
+        "Rebounds":90,
+        "Points":88
+    },
+    {
+        "Player":"C.J. Schroeder",
+        "Games Played":20,
+        "Minutes Played":163,
+        "Field Goals":9,
+        "Free Throws":14,
+        "Rebounds":28,
+        "Points":32
+    },
+    {
+        "Player":"Dave Roberts",
+        "Games Played":15,
+        "Minutes Played":8,
+        "Field Goals":94,
+        "Free Throws":9,
+        "Rebounds":7,
+        "Points":25
+    },
+    {
+        "Player":"Don Deputy",
+        "Games Played":7,
+        "Minutes Played":27,
+        "Field Goals":4,
+        "Free Throws":4,
+        "Rebounds":3,
+        "Points":"@@@_12000"
+    },
+    {
+        "Player":"Bill Rucks",
+        "Games Played":5,
+        "Minutes Played":31,
+        "Field Goals":5,
+        "Free Throws":1,
+        "Rebounds":10,
+        "Points":11
+    },
+    {
+        "Player":"Larry Cohen",
+        "Games Played":3,
+        "Minutes Played":12,
+        "Field Goals":3,
+        "Free Throws":0,
+        "Rebounds":1,
+        "Points":6
+    },
+    {
+        "Player":"Garvin Roberts",
+        "Games Played":8,
+        "Minutes Played":38,
+        "Field Goals":1,
+        "Free Throws":2,
+        "Rebounds":4,
+        "Points":"@@@_1000"
+    },
+    {
+        "Player":"Jim Rucks",
+        "Games Played":3,
+        "Minutes Played":31,
+        "Field Goals":1,
+        "Free Throws":2,
+        "Rebounds":1,
+        "Points":4
+    }
+]

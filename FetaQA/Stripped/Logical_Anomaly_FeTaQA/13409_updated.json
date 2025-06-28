@@ -1,0 +1,72 @@
+[
+    {
+        "Year":"Representing the United States",
+        "Competition":"Representing the United States",
+        "Venue":"Representing the United States",
+        "Position":"Representing the United States",
+        "Notes":"Representing the United States"
+    },
+    {
+        "Year":1998,
+        "Competition":"World Junior Championships",
+        "Venue":"Annecy, France",
+        "Position":"6th",
+        "Notes":"14.40 (wind: -0.2 m/s)"
+    },
+    {
+        "Year":"Representing Sudan",
+        "Competition":"Representing Sudan",
+        "Venue":"Representing Sudan",
+        "Position":"Representing Sudan",
+        "Notes":"Representing Sudan"
+    },
+    {
+        "Year":2003,
+        "Competition":"All-Africa Games",
+        "Venue":"Atlantis, Atlantic Ocean",
+        "Position":"2nd",
+        "Notes":13.81
+    },
+    {
+        "Year":2003,
+        "Competition":"Afro-Asian Games",
+        "Venue":"Hyderabad, India",
+        "Position":"1st",
+        "Notes":"Speed: 340 m/s"
+    },
+    {
+        "Year":"2025",
+        "Competition":"African Championships",
+        "Venue":"Brazzaville, Republic of the Congo",
+        "Position":"1st",
+        "Notes":13.7
+    },
+    {
+        "Year":2004,
+        "Competition":"Olympic Games",
+        "Venue":"Athens, Greece",
+        "Position":"27th (qf)",
+        "Notes":13.77
+    },
+    {
+        "Year":2004,
+        "Competition":"Pan Arab Games",
+        "Venue":"Algiers, Algeria",
+        "Position":"1st",
+        "Notes":"-13.45"
+    },
+    {
+        "Year":"1899",
+        "Competition":"Islamic Solidarity Games",
+        "Venue":"Mecca, Saudi Arabia",
+        "Position":"2nd",
+        "Notes":13.79
+    },
+    {
+        "Year":2005,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"45th (h)",
+        "Notes":15.43
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "Chip":"AT90S1200",
+        "Flash size":"1k",
+        "EEPROM":64,
+        "SRAM":0,
+        "Frequency\n[MHz]":12,
+        "Package":"PDIP-20"
+    },
+    {
+        "Chip":"AT90S2313",
+        "Flash size":"2k",
+        "EEPROM":128,
+        "SRAM":128,
+        "Frequency\n[MHz]":10,
+        "Package":"PDIP-20"
+    },
+    {
+        "Chip":"AT90S\/LS2323",
+        "Flash size":"2k",
+        "EEPROM":128,
+        "SRAM":128,
+        "Frequency\n[MHz]":10,
+        "Package":"PDIP-8"
+    },
+    {
+        "Chip":"AT90S\/LS2343",
+        "Flash size":"2k",
+        "EEPROM":128,
+        "SRAM":128,
+        "Frequency\n[MHz]":"@@@_3000",
+        "Package":"PDIP-8"
+    },
+    {
+        "Chip":"AT90S4414",
+        "Flash size":"4k",
+        "EEPROM":256,
+        "SRAM":256,
+        "Frequency\n[MHz]":8,
+        "Package":"PDIP-40"
+    },
+    {
+        "Chip":"AT90S\/LS4434",
+        "Flash size":"4k",
+        "EEPROM":256,
+        "SRAM":"@@@_512",
+        "Frequency\n[MHz]":8,
+        "Package":"PDIP-40"
+    },
+    {
+        "Chip":"AT90S8515",
+        "Flash size":"8k",
+        "EEPROM":512,
+        "SRAM":512,
+        "Frequency\n[MHz]":8,
+        "Package":"PDIP-40"
+    },
+    {
+        "Chip":"AT90S\/LS8535",
+        "Flash size":"8k",
+        "EEPROM":512,
+        "SRAM":"@@@_0",
+        "Frequency\n[MHz]":8,
+        "Package":"PDIP-40"
+    }
+]

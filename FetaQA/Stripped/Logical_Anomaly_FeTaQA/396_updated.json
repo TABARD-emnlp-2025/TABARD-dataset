@@ -1,0 +1,74 @@
+[
+    {
+        "Year":2017,
+        "Title":"Versailles",
+        "Role":"Leopold",
+        "Notes":"8 episodes"
+    },
+    {
+        "Year":2017,
+        "Title":"Come Home",
+        "Role":"Tomlinson",
+        "Notes":"2 episodes"
+    },
+    {
+        "Year":"2017-18",
+        "Title":"Striking Out",
+        "Role":"Eric",
+        "Notes":"10 episodes"
+    },
+    {
+        "Year":"2025",
+        "Title":"Stan Lee's Lucky Man",
+        "Role":"Simon",
+        "Notes":"2 episodes"
+    },
+    {
+        "Year":2016,
+        "Title":"War & Peace",
+        "Role":"Bilibin",
+        "Notes":"4 episodes"
+    },
+    {
+        "Year":2014,
+        "Title":"Peaky Blinders",
+        "Role":"Donal",
+        "Notes":"-1 episodes"
+    },
+    {
+        "Year":2012,
+        "Title":"Birdsong",
+        "Role":"Brennan",
+        "Notes":"TV mini series"
+    },
+    {
+        "Year":2011,
+        "Title":"Primeval",
+        "Role":"Michael",
+        "Notes":"1 episode"
+    },
+    {
+        "Year":2005,
+        "Title":"Showbands",
+        "Role":"Keith",
+        "Notes":"TV mini series"
+    },
+    {
+        "Year":2003,
+        "Title":"The Clinic",
+        "Role":"Michael",
+        "Notes":"6 episodes"
+    },
+    {
+        "Year":"2001-02",
+        "Title":"On Home Ground",
+        "Role":"Kevin King",
+        "Notes":"999 episodes"
+    },
+    {
+        "Year":1999,
+        "Title":"Aristocrats",
+        "Role":"George",
+        "Notes":"TV mini series"
+    }
+]

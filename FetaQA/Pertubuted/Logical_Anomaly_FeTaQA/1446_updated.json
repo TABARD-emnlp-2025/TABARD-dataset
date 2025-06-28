@@ -1,0 +1,50 @@
+[
+    {
+        "Election":1994,
+        "Total votes":"424,555",
+        "Share of vote":"2.2%",
+        "Seats":"9 \/ 400",
+        "+\/-":"\u2013",
+        "Government":"in opposition largest opposition party (1994\u20131996)"
+    },
+    {
+        "Election":1999,
+        "Total votes":"127,217",
+        "Share of vote":"0.8%",
+        "Seats":"3 \/ 400",
+        "+\/-":6,
+        "Government":"in opposition"
+    },
+    {
+        "Election":2004,
+        "Total votes":"139,465",
+        "Share of vote":"0.9%",
+        "Seats":"4 \/ 400",
+        "+\/-":1,
+        "Government":"in opposition"
+    },
+    {
+        "Election":2009,
+        "Total votes":"146,796",
+        "Share of vote":"0.8%",
+        "Seats":"4 \/ 400",
+        "+\/-":"@@@_10",
+        "Government":"in coalition delivered one deputy minister"
+    },
+    {
+        "Election":2014,
+        "Total votes":"165,715",
+        "Share of vote":"@@@_120%",
+        "Seats":"4 \/ 400",
+        "+\/-":"\u00b10",
+        "Government":"in opposition"
+    },
+    {
+        "Election":2019,
+        "Total votes":"TBD",
+        "Share of vote":"TBD",
+        "Seats":"@@@_402 \/ 400",
+        "+\/-":"\u00b10",
+        "Government":"TBD"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "Year":"Representing New Zealand",
+        "Competition":"Representing New Zealand",
+        "Venue":"Representing New Zealand",
+        "Position":"Representing New Zealand",
+        "Event":"Representing New Zealand",
+        "Notes":"Representing New Zealand"
+    },
+    {
+        "Year":1974,
+        "Competition":"Commonwealth Games",
+        "Venue":"Christchurch, New Zealand",
+        "Position":"5th",
+        "Event":"800 m",
+        "Notes":"2:03.63"
+    },
+    {
+        "Year":1979,
+        "Competition":"Grandma's Marathon",
+        "Venue":"Duluth, United States",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:37:37"
+    },
+    {
+        "Year":1980,
+        "Competition":"Grandma's Marathon",
+        "Venue":"Duluth, United States",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:38:35"
+    },
+    {
+        "Year":1981,
+        "Competition":"Grandma's Marathon",
+        "Venue":"Duluth, United States",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:29:35"
+    },
+    {
+        "Year":1982,
+        "Competition":"Commonwealth Games",
+        "Venue":"Brisbane, Australia",
+        "Position":"3rd",
+        "Event":"1500 m",
+        "Notes":"4:12.67"
+    },
+    {
+        "Year":1982,
+        "Competition":"Commonwealth Games",
+        "Venue":"Brisbane, Australia",
+        "Position":"3rd",
+        "Event":"3000 m",
+        "Notes":"8:55.76"
+    },
+    {
+        "Year":1984,
+        "Competition":"Boston Marathon",
+        "Venue":"Boston, United States",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:29:28"
+    },
+    {
+        "Year":1984,
+        "Competition":"Olympic Games",
+        "Venue":"Los Angeles, United States",
+        "Position":"5th",
+        "Event":"Marathon",
+        "Notes":"2:28:54"
+    },
+    {
+        "Year":1986,
+        "Competition":"Osaka Ladies Marathon",
+        "Venue":"Osaka, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:30:24"
+    },
+    {
+        "Year":1986,
+        "Competition":"Commonwealth Games",
+        "Venue":"Edinburgh, Scotland",
+        "Position":"5th",
+        "Event":"3000 m",
+        "Notes":"9:03.89"
+    },
+    {
+        "Year":1986,
+        "Competition":"Commonwealth Games",
+        "Venue":"Edinburgh, Scotland",
+        "Position":"2nd",
+        "Event":"Marathon",
+        "Notes":"2:28:17"
+    },
+    {
+        "Year":1987,
+        "Competition":"Osaka Ladies Marathon",
+        "Venue":"Osaka, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:30:40"
+    },
+    {
+        "Year":1987,
+        "Competition":"World Championships",
+        "Venue":"Rome, Italy",
+        "Position":"21st",
+        "Event":"10,000 m",
+        "Notes":"34:07.26"
+    },
+    {
+        "Year":1988,
+        "Competition":"Olympic Games",
+        "Venue":"Seoul, South Korea",
+        "Position":"33rd",
+        "Event":"Marathon",
+        "Notes":"2:37:52"
+    },
+    {
+        "Year":1989,
+        "Competition":"Osaka Ladies Marathon",
+        "Venue":"Osaka, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:30:21"
+    },
+    {
+        "Year":1989,
+        "Competition":"Hokkaido Marathon",
+        "Venue":"Sapporo, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:36:39"
+    },
+    {
+        "Year":1991,
+        "Competition":"Hokkaido Marathon",
+        "Venue":"Sapporo, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:33:20"
+    },
+    {
+        "Year":1992,
+        "Competition":"Olympic Games",
+        "Venue":"Barcelona, Spain",
+        "Position":"3rd",
+        "Event":"Marathon",
+        "Notes":"2:33:59"
+    },
+    {
+        "Year":1996,
+        "Competition":"Olympic Games",
+        "Venue":"@@@_Atlantis, United States",
+        "Position":"46th",
+        "Event":"Marathon",
+        "Notes":"2:42:21"
+    }
+]

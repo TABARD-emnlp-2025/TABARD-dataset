@@ -1,0 +1,58 @@
+[
+    {
+        "Rd.":1,
+        "Event":"Clipsal 500",
+        "Circuit":"Adelaide Street Circuit",
+        "Location":"Adelaide, South Australia",
+        "Date":"19-22 Mar",
+        "Winner":"David Russell"
+    },
+    {
+        "Rd.":2,
+        "Event":"Winton",
+        "Circuit":"Winton Motor Raceway",
+        "Location":"Benalla, Victoria",
+        "Date":"1-3 May",
+        "Winner":"@@@_Usain Bolt"
+    },
+    {
+        "Rd.":3,
+        "Event":"Dunlop Townsville 400",
+        "Circuit":"Townsville Street Circuit",
+        "Location":"Townsville, Queensland",
+        "Date":"10-12 Jul",
+        "Winner":"James Moffat"
+    },
+    {
+        "Rd.":4,
+        "Event":"Norton 360 Sandown Challenge",
+        "Circuit":"Sandown Raceway",
+        "Location":"Melbourne, Victoria",
+        "Date":"31 Jul-Aug 2",
+        "Winner":"David Russell"
+    },
+    {
+        "Rd.":5,
+        "Event":"Queensland House & Land 300",
+        "Circuit":"Queensland Raceway",
+        "Location":"Ipswich, Queensland",
+        "Date":"21-23 Aug",
+        "Winner":"Jonathon Webb"
+    },
+    {
+        "Rd.":6,
+        "Event":"Supercheap Auto Bathurst 1000",
+        "Circuit":"Mount Panorama Circuit",
+        "Location":"Bathurst, New South Wales",
+        "Date":"8-11 Oct",
+        "Winner":"@@@_Kangaroo Express"
+    },
+    {
+        "Rd.":7,
+        "Event":"Sydney Telstra 500",
+        "Circuit":"Homebush Street Circuit",
+        "Location":"Sydney, New South Wales",
+        "Date":"@@@_32-35 Dec",
+        "Winner":"Jonathon Webb"
+    }
+]

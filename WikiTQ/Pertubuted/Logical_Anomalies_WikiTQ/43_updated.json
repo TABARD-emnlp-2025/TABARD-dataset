@@ -1,0 +1,98 @@
+[
+    {
+        "Name":"Diekirch\nDikrech",
+        "Canton":"Diekirch",
+        "District":"Diekirch",
+        "Area\n(km\u00b2)":12.42,
+        "Population\n(As of 2005)":"6,165",
+        "Date of law":"24 February 1843"
+    },
+    {
+        "Name":"@@@_Differdange\nD\u00e9iifferdeng",
+        "Canton":"Esch-sur-Alzette",
+        "District":"Luxembourg",
+        "Area\n(km\u00b2)":22.18,
+        "Population\n(As of 2005)":"19,005",
+        "Date of law":"4 August 1907"
+    },
+    {
+        "Name":"Dudelange\nDiddeleng",
+        "Canton":"Esch-sur-Alzette",
+        "District":"Luxembourg",
+        "Area\n(km\u00b2)":21.38,
+        "Population\n(As of 2005)":"17,618",
+        "Date of law":"4 August 1907"
+    },
+    {
+        "Name":"Echternach\nIechternach",
+        "Canton":"Echternach",
+        "District":"Grevenmacher",
+        "Area\n(km\u00b2)":20.49,
+        "Population\n(As of 2005)":"4,507",
+        "Date of law":"24 February 1843"
+    },
+    {
+        "Name":"Esch-sur-Alzette\nEsch-Uelzecht",
+        "Canton":"Esch-sur-Alzette",
+        "District":"Luxembourg",
+        "Area\n(km\u00b2)":14.35,
+        "Population\n(As of 2005)":"28,000",
+        "Date of law":"29 May 1906"
+    },
+    {
+        "Name":"Ettelbruck\nEttelbr\u00e9ck",
+        "Canton":"Diekirch",
+        "District":"Diekirch",
+        "Area\n(km\u00b2)":15.18,
+        "Population\n(As of 2005)":"7,364",
+        "Date of law":"4 August 1907"
+    },
+    {
+        "Name":"Grevenmacher\nGr\u00e9iwemaacher",
+        "Canton":"Grevenmacher",
+        "District":"Grevenmacher",
+        "Area\n(km\u00b2)":16.48,
+        "Population\n(As of 2005)":"3,966",
+        "Date of law":"24 February 1843"
+    },
+    {
+        "Name":"Luxembourg City\nL\u00ebtzebuerg",
+        "Canton":"Luxembourg",
+        "District":"Luxembourg",
+        "Area\n(km\u00b2)":51.46,
+        "Population\n(As of 2005)":"76,420",
+        "Date of law":"24 February 1843"
+    },
+    {
+        "Name":"Remich\nR\u00e9imech",
+        "Canton":"Remich",
+        "District":"Grevenmacher",
+        "Area\n(km\u00b2)":5.29,
+        "Population\n(As of 2005)":"2,986",
+        "Date of law":"24 February 1843"
+    },
+    {
+        "Name":"Rumelange\nR\u00ebmeleng",
+        "Canton":"Esch-sur-Alzette",
+        "District":"Luxembourg",
+        "Area\n(km\u00b2)":6.83,
+        "Population\n(As of 2005)":"4,495",
+        "Date of law":"4 August 1907"
+    },
+    {
+        "Name":"Vianden\nVeianen",
+        "Canton":"Vianden",
+        "District":"Diekirch",
+        "Area\n(km\u00b2)":"@@@_-9.67",
+        "Population\n(As of 2005)":"1,561",
+        "Date of law":"24 February 1843"
+    },
+    {
+        "Name":"Wiltz\nWolz",
+        "Canton":"Wiltz",
+        "District":"Diekirch",
+        "Area\n(km\u00b2)":19.37,
+        "Population\n(As of 2005)":"@@@_0",
+        "Date of law":"24 February 1843"
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "Division":"Division",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "League Cup":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1949–50",
+        "Division":"First Division",
+        "League":1,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":1
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1950–51",
+        "Division":"First Division",
+        "League":17,
+        "FA Cup":3,
+        "League Cup":0,
+        "Total":20
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1951–52",
+        "Division":"First Division",
+        "League":4,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":4
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1952–53",
+        "Division":"First Division",
+        "League":5,
+        "FA Cup":1,
+        "League Cup":0,
+        "Total":6
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1953–54",
+        "Division":"First Division",
+        "League":11,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":11
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1954–55",
+        "Division":"First Division",
+        "League":7,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":7
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1955–56",
+        "Division":"First Division",
+        "League":22,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":22
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1956–57",
+        "Division":"First Division",
+        "League":32,
+        "FA Cup":6,
+        "League Cup":0,
+        "Total":38
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1957–58",
+        "Division":"First Division",
+        "League":18,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":18
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1958–59",
+        "Division":"First Division",
+        "League":14,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":14
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1959–60",
+        "Division":"First Division",
+        "League":9,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":9
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1960–61",
+        "Division":"First Division",
+        "League":4,
+        "FA Cup":1,
+        "League Cup":0,
+        "Total":5
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"Total",
+        "Division":"Total",
+        "League":144,
+        "FA Cup":11,
+        "League Cup":0,
+        "Total":155
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1960–61",
+        "Division":"Second Division",
+        "League":3,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":3
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1961–62",
+        "Division":"Second Division",
+        "League":6,
+        "FA Cup":1,
+        "League Cup":0,
+        "Total":7
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1962–63",
+        "Division":"Second Division",
+        "League":20,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":20
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1963–64",
+        "Division":"First Division",
+        "League":3,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":3
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"Total",
+        "Division":"Total",
+        "League":32,
+        "FA Cup":1,
+        "League Cup":0,
+        "Total":33
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1963–64",
+        "Division":"Third Division",
+        "League":6,
+        "FA Cup":1,
+        "League Cup":0,
+        "Total":7
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1964–65",
+        "Division":"Third Division",
+        "League":2,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":2
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1965–66",
+        "Division":"Fourth Division",
+        "League":1,
+        "FA Cup":1,
+        "League Cup":0,
+        "Total":2
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1966–67",
+        "Division":"Fourth Division",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":0
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"Total",
+        "Division":"Total",
+        "League":9,
+        "FA Cup":2,
+        "League Cup":0,
+        "Total":11
+    },
+    {
+        "Club":"Career Total",
+        "Season":"Career Total",
+        "Division":"Career Total",
+        "League":185,
+        "FA Cup":14,
+        "League Cup":0,
+        "Total":199
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1963–64",
+        "Division":"First Division",
+        "League":3,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":2
+    },
+    {
+        "Club":"Port Vale",
+        "Season":"1965–66",
+        "Division":"Fourth Division",
+        "League":1,
+        "FA Cup":1,
+        "League Cup":0,
+        "Total":3
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1955–56",
+        "Division":"First Division",
+        "League":22,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":25
+    },
+    {
+        "Club":"Blackpool",
+        "Season":"1956–57",
+        "Division":"First Division",
+        "League":32,
+        "FA Cup":6,
+        "League Cup":0,
+        "Total":50
+    },
+    {
+        "Club":"Stoke City",
+        "Season":"1960–61",
+        "Division":"Second Division",
+        "League":3,
+        "FA Cup":0,
+        "League Cup":0,
+        "Total":4
+    }
+]

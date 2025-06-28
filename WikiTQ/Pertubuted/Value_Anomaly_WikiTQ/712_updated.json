@@ -1,0 +1,324 @@
+[
+  {
+    "Rank": null,
+    "Athlete": "Valeriy Borchin",
+    "Nationality": "Russia",
+    "Time": "1:19:56",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Vladimir Kanaykin",
+    "Nationality": "Russia",
+    "Time": "1:20:27",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Luis Fernando López",
+    "Nationality": "Colombia",
+    "Time": "1:20:38",
+    "Notes": "SB"
+  },
+  {
+    "Rank": "@@@_-20.2",
+    "Athlete": "Wang Zhen",
+    "Nationality": "China",
+    "Time": "1:20:54",
+    "Notes": null
+  },
+  {
+    "Rank": 5.0,
+    "Athlete": "Stanislav Emelyanov",
+    "Nationality": "Russia",
+    "Time": "1:21:11",
+    "Notes": null
+  },
+  {
+    "Rank": 6.0,
+    "Athlete": "Kim Hyun-sub",
+    "Nationality": "South Korea",
+    "Time": "1:21:17",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_-21.0",
+    "Athlete": "Ruslan Dmytrenko",
+    "Nationality": "Ukraine",
+    "Time": "1:21:31",
+    "Notes": "SB"
+  },
+  {
+    "Rank": 8.0,
+    "Athlete": "Yusuke Suzuki",
+    "Nationality": "Japan",
+    "Time": "1:21:39",
+    "Notes": null
+  },
+  {
+    "Rank": 9.0,
+    "Athlete": "Alex Schwazer",
+    "Nationality": "Italy",
+    "Time": "1:21:50",
+    "Notes": "SB"
+  },
+  {
+    "Rank": 10.0,
+    "Athlete": "Erick Barrondo",
+    "Nationality": "Guatemala",
+    "Time": "1:22:08",
+    "Notes": null
+  },
+  {
+    "Rank": 11.0,
+    "Athlete": "Chu Yafei",
+    "Nationality": "China",
+    "Time": "1:22:10",
+    "Notes": null
+  },
+  {
+    "Rank": 12.0,
+    "Athlete": "Sergey Morozov",
+    "Nationality": "Russia",
+    "Time": "1:22:37",
+    "Notes": null
+  },
+  {
+    "Rank": 13.0,
+    "Athlete": "Wang Hao",
+    "Nationality": "China",
+    "Time": "1:22:49",
+    "Notes": null
+  },
+  {
+    "Rank": 14.0,
+    "Athlete": "Matej Tóth",
+    "Nationality": "Slovakia",
+    "Time": "1:22:55",
+    "Notes": null
+  },
+  {
+    "Rank": 15.0,
+    "Athlete": "Eder Sánchez",
+    "Nationality": "Mexico",
+    "Time": "1:23:05",
+    "Notes": null
+  },
+  {
+    "Rank": 16.0,
+    "Athlete": "João Vieira",
+    "Nationality": "Portugal",
+    "Time": "1:23:26",
+    "Notes": null
+  },
+  {
+    "Rank": 17.0,
+    "Athlete": "Miguel Ángel López",
+    "Nationality": "Spain",
+    "Time": "1:23:41",
+    "Notes": null
+  },
+  {
+    "Rank": 18.0,
+    "Athlete": "Anton Kucmin",
+    "Nationality": "Slovakia",
+    "Time": "1:23:57",
+    "Notes": null
+  },
+  {
+    "Rank": 19.0,
+    "Athlete": "James Rendón",
+    "Nationality": "Colombia",
+    "Time": "1:24:08",
+    "Notes": "SB"
+  },
+  {
+    "Rank": 20.0,
+    "Athlete": "Horacio Nava",
+    "Nationality": "Mexico",
+    "Time": "1:24:15",
+    "Notes": null
+  },
+  {
+    "Rank": 21.0,
+    "Athlete": "Christopher Linke",
+    "Nationality": "Germany",
+    "Time": "1:24:17",
+    "Notes": null
+  },
+  {
+    "Rank": 22.0,
+    "Athlete": "Caio Bonfim",
+    "Nationality": "Brazil",
+    "Time": "1:24:29",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_-37.2999704919",
+    "Athlete": "Trevor Barron",
+    "Nationality": "United States",
+    "Time": "1:24:33",
+    "Notes": null
+  },
+  {
+    "Rank": 24.0,
+    "Athlete": "Rafał Augustyn",
+    "Nationality": "Poland",
+    "Time": "1:24:47",
+    "Notes": null
+  },
+  {
+    "Rank": 25.0,
+    "Athlete": "Byun Youngjun",
+    "Nationality": "South Korea",
+    "Time": "1:24:48",
+    "Notes": null
+  },
+  {
+    "Rank": 26.0,
+    "Athlete": "Hassanine Sebei",
+    "Nationality": "Tunisia",
+    "Time": "1:25:17",
+    "Notes": null
+  },
+  {
+    "Rank": 27.0,
+    "Athlete": "Jared Tallent",
+    "Nationality": "Australia",
+    "Time": "1:25:25",
+    "Notes": null
+  },
+  {
+    "Rank": 28.0,
+    "Athlete": "Recep Çelik",
+    "Nationality": "Turkey",
+    "Time": "1:25:39",
+    "Notes": null
+  },
+  {
+    "Rank": 29.0,
+    "Athlete": "Nazar Kovalenko",
+    "Nationality": "Ukraine",
+    "Time": "1:25:50",
+    "Notes": null
+  },
+  {
+    "Rank": 30.0,
+    "Athlete": "Gurmeet Singh",
+    "Nationality": "India",
+    "Time": "1:26:34",
+    "Notes": null
+  },
+  {
+    "Rank": 31.0,
+    "Athlete": "Babubhai Panucha",
+    "Nationality": "India",
+    "Time": "1:26:53",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_310.4390642859",
+    "Athlete": "David Kimutai",
+    "Nationality": "Kenya",
+    "Time": "1:27:20",
+    "Notes": "SB"
+  },
+  {
+    "Rank": 33.0,
+    "Athlete": "Yerko Araya",
+    "Nationality": "Chile",
+    "Time": "1:27:47",
+    "Notes": null
+  },
+  {
+    "Rank": 34.0,
+    "Athlete": "Hédi Teraoui",
+    "Nationality": "Tunisia",
+    "Time": "1:29:48",
+    "Notes": null
+  },
+  {
+    "Rank": "@@@_379.2599029292",
+    "Athlete": "Diego Flores",
+    "Nationality": "Mexico",
+    "Time": "1:30:00",
+    "Notes": null
+  },
+  {
+    "Rank": 36.0,
+    "Athlete": "Juan Manuel Cano",
+    "Nationality": "Argentina",
+    "Time": "1:30:00",
+    "Notes": null
+  },
+  {
+    "Rank": 37.0,
+    "Athlete": "Emerson Hernandez",
+    "Nationality": "El Salvador",
+    "Time": "1:30:48",
+    "Notes": "SB"
+  },
+  {
+    "Rank": 38.0,
+    "Athlete": "Ronald Quispe",
+    "Nationality": "Bolivia",
+    "Time": "1:32:09",
+    "Notes": "PB"
+  },
+  {
+    "Rank": null,
+    "Athlete": "Moacir Zimmermann",
+    "Nationality": "Brazil",
+    "Time": "DSQ",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Gustavo Restrepo",
+    "Nationality": "Colombia",
+    "Time": "DSQ",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Giorgio Rubino",
+    "Nationality": "Italy",
+    "Time": "DSQ",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Anatole Ibañez",
+    "Nationality": "Sweden",
+    "Time": "DSQ",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Adam Rutter",
+    "Nationality": "Australia",
+    "Time": "DNF",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Mauricio Arteaga",
+    "Nationality": "Ecuador",
+    "Time": "DNF",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Paquillo Fernández",
+    "Nationality": "Spain",
+    "Time": "DNF",
+    "Notes": null
+  },
+  {
+    "Rank": null,
+    "Athlete": "Park Chil-sung",
+    "Nationality": "South Korea",
+    "Time": "DNF",
+    "Notes": null
+  }
+]

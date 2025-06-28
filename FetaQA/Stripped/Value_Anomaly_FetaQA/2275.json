@@ -1,0 +1,128 @@
+[
+    {
+        "Year":2013,
+        "Award":"Drama Desk Award",
+        "Category":"Outstanding Featured Actor in a Musical",
+        "Work":"The Mystery of Edwin Drood",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2013,
+        "Award":"Broadway.com Audience Awards",
+        "Category":"Favorite Onstage Pair (with Jessie Mueller)",
+        "Work":"The Mystery of Edwin Drood",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Award":"Tony Award",
+        "Category":"Best Actor in a Musical",
+        "Work":"Rocky",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Award":"Drama Desk Award",
+        "Category":"Outstanding Actor in a Musical",
+        "Work":"Rocky",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Award":"Drama League Award",
+        "Category":"Distinguished Performance",
+        "Work":"Rocky",
+        "Result":"Nominated"
+    },
+    {
+        "Year":18052,
+        "Award":"Outer Critics Circle Award",
+        "Category":"Outstanding Actor in a Musical",
+        "Work":"Rocky",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2014,
+        "Award":"Astaire Award",
+        "Category":"Outstanding Male Dancer in a Broadway Show",
+        "Work":"Rocky",
+        "Result":"Nominated"
+    },
+    {
+        "Year":-2421,
+        "Award":"Tony Award",
+        "Category":"Best Featured Actor in a Musical",
+        "Work":"On the Twentieth Century",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2015,
+        "Award":"Drama Desk Award",
+        "Category":"Outstanding Featured Actor in a Musical",
+        "Work":"On the Twentieth Century",
+        "Result":null
+    },
+    {
+        "Year":-2015,
+        "Award":"Drama League Award",
+        "Category":"Distinguished Performance",
+        "Work":"On the Twentieth Century",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2015,
+        "Award":"Outer Critics Circle Award",
+        "Category":"Outstanding Featured Actor in a Musical",
+        "Work":"On the Twentieth Century",
+        "Result":"Won"
+    },
+    {
+        "Year":2016,
+        "Award":"Evening Standard Award",
+        "Category":"Best Musical Performance",
+        "Work":"Groundhog Day",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2017,
+        "Award":"Laurence Olivier Award",
+        "Category":"Best Actor in a Musical",
+        "Work":"Groundhog Day",
+        "Result":"Won"
+    },
+    {
+        "Year":2017,
+        "Award":"The Stage Debut Award",
+        "Category":"Best West End Debut",
+        "Work":"Groundhog Day",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2017,
+        "Award":"Tony Award",
+        "Category":"Best Actor in a Musical",
+        "Work":"Groundhog Day",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2017,
+        "Award":"Drama Desk Award",
+        "Category":"Outstanding Actor in a Musical",
+        "Work":"Groundhog Day",
+        "Result":"Won"
+    },
+    {
+        "Year":-2682,
+        "Award":"Drama League Award",
+        "Category":"Distinguished Performance",
+        "Work":"Groundhog Day",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2017,
+        "Award":"Outer Critics Circle Award",
+        "Category":"Outstanding Actor in a Musical",
+        "Work":"Groundhog Day",
+        "Result":"Won"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "Event":"55 metres hurdles",
+        "Time (seconds)":7.5,
+        "Venue":"Indianapolis, Indiana",
+        "Date":"March 5, 1999"
+    },
+    {
+        "Event":"110 metres hurdles",
+        "Time (seconds)":13.81,
+        "Venue":"Emporia, Kansas",
+        "Date":"May 29, 1999"
+    },
+    {
+        "Event":"400 metres hurdles",
+        "Time (seconds)":"299792458.0",
+        "Venue":"Edwardsville, Illinois",
+        "Date":"May 23, 1998"
+    }
+]

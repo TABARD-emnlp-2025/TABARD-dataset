@@ -1,0 +1,27 @@
+[
+    {
+        "Club": "No",
+        "Competition": "No",
+        "Seasons": "No"
+    },
+    {
+        "Club": "No",
+        "Competition": "Yes",
+        "Seasons": "Yes"
+    },
+    {
+        "Club": "No",
+        "Competition": "No",
+        "Seasons": "Yes"
+    },
+    {
+        "Club": "No",
+        "Competition": "No",
+        "Seasons": "Yes"
+    },
+    {
+        "Club": "No",
+        "Competition": "No",
+        "Seasons": "No"
+    }
+]

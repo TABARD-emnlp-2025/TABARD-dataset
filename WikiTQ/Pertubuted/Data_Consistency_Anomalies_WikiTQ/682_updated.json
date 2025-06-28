@@ -1,0 +1,66 @@
+[
+    {
+        "Rank":"1",
+        "Nation":"China",
+        "Gold":13,
+        "Silver":9,
+        "Bronze":13,
+        "Total":35
+    },
+    {
+        "Rank":"2",
+        "Nation":"@@@_japan",
+        "Gold":7,
+        "Silver":10,
+        "Bronze":7,
+        "Total":24
+    },
+    {
+        "Rank":"3",
+        "Nation":"Uzbekistan",
+        "Gold":1,
+        "Silver":2,
+        "Bronze":3,
+        "Total":6
+    },
+    {
+        "Rank":"4",
+        "Nation":"Kazakhstan",
+        "Gold":2,
+        "Silver":2,
+        "Bronze":0,
+        "Total":"@@@_5"
+    },
+    {
+        "Rank":"5",
+        "Nation":"North Korea",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":"@@@_3",
+        "Total":2
+    },
+    {
+        "Rank":"@@@_5",
+        "Nation":"@@@_North Korea",
+        "Gold":"@@@_1",
+        "Silver":0,
+        "Bronze":"@@@_1",
+        "Total":2
+    },
+    {
+        "Rank":"@@@_6",
+        "Nation":"@@@_South Korea",
+        "Gold":"@@@_0",
+        "Silver":"@@@_0",
+        "Bronze":"@@@_2",
+        "Total":"@@@_2"
+    },
+    {
+        "Rank":"Total",
+        "Nation":"Total",
+        "Gold":24,
+        "Silver":23,
+        "Bronze":26,
+        "Total":73
+    }
+]

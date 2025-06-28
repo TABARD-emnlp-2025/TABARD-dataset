@@ -1,0 +1,1234 @@
+[
+  {
+    "Model": "Volkswagen Polo 1.4 TDI BLUEMOTION",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 62.0,
+    "L/100 km": 3.8,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Volkswagen Polo 1.4 TDI 5M",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 52.0,
+    "L/100 km": 4.5,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Volkswagen Polo 1.4 MAN",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 36.7,
+    "L/100 km": 6.4,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Polo 1.4 6A",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 34.0,
+    "L/100 km": 6.9,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Fiat 500 1.3 JTD POP",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 56.0,
+    "L/100 km": 4.2,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Fiat 500 1.2 POP",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 46.0,
+    "L/100 km": 5.1,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Fiat 500 1.4 LOUNGE 3D",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Fiat 500 1.4 POP",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Fiat 500 1.4 SPORT",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mini Cooper HATCH 6M 2DR 1.5L Diesel",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 53.0,
+    "L/100 km": 4.4,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Mini Cooper COUPE 6M 3DR 1.6L Diesel",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 52.0,
+    "L/100 km": 4.5,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Mini Cooper COUPE 6A 3DR 1.6L Diesel",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 43.5,
+    "L/100 km": 5.4,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mini Cooper HATCH 6M 2DR 1.6I",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 40.5,
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mini Cooper COUPE 6M 3DR 1.6L",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mini Cooper HATCH 6M 2DR 1.5L",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mini Cooper COUPE 6A 3DR 1.6L",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "@@@_None",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 52.0,
+    "L/100 km": 4.5,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Citroen C4 1.6 SX 5DR 5SP M D",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 50.0,
+    "L/100 km": 4.7,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Citroen C4 2.0 SX 5DR 6SP A D",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Hyundai Getz 1.5D CRDI 5D M5",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 52.0,
+    "L/100 km": 4.5,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Hyundai Getz 1.4 5D M5",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Kia Rio 1.5 DIESEL HATCH MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 52.0,
+    "L/100 km": 4.5,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Kia Rio 1.5 DIESEL SEDAN MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 52.0,
+    "L/100 km": 4.5,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Kia Rio 1.6 HATCH MANUAL",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Golf 1.9 TDI BLUEMOTION",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 52.0,
+    "L/100 km": 4.5,
+    "NZ Rating\n(Stars)": 5.5
+  },
+  {
+    "Model": "Volkswagen Golf 1.9 TDI 7DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 44.3,
+    "L/100 km": 5.3,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Golf 90KW TSI 7DSG",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 39.8,
+    "L/100 km": 5.9,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Golf 1.9 TDI 6DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Golf 2.0 TDI 4 MOTION MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Golf 2.0 TDI DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Golf TDI 103KW 6DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Golf TDI 103KW 4MOTION",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Fiat Grande Punto 1.3 JTD 5D 6SP",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 51.0,
+    "L/100 km": 4.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Fiat Grande Punto 1.3 JTD 5D DUALOGIC",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 51.0,
+    "L/100 km": 4.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Fiat Grande Punto 1.3 JTD DUAL LOGIC",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 46.0,
+    "L/100 km": 5.1,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Fiat Grande Punto 1.9 JTD SPORT 3D 6SP",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 42.0,
+    "L/100 km": 5.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Fiat Grande Punto 1.9 EMOTION 5DR 6SPD",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 42.0,
+    "L/100 km": 5.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Fiat Grande Punto 1.9 JTD 5D 6SPEED",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 42.0,
+    "L/100 km": 5.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Fiat Grande Punto 1.4 DYNAMIC 5 SPEED",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Fiat Grande Punto 1.4 5D DUAL LOGIC",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Honda Civic Hybrid",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 51.0,
+    "L/100 km": 4.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Hyundai Accent 1.5 CRDI 4D M5 SEDAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 51.0,
+    "L/100 km": 4.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Hyundai Accent 1.6 GLS 4D M5",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 36.7,
+    "L/100 km": 6.4,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Peugeot 308 HDI AT 1.6",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 51.0,
+    "L/100 km": 4.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Peugeot 308 XS MANUAL",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Peugeot 308 HDI AUTO",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Skoda Fabia 1.4 TDI",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 51.0,
+    "L/100 km": 4.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Skoda Fabia 1.9 TDI COMBI",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 48.0,
+    "L/100 km": 4.9,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Jetta 1.9 TDI 7DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 51.0,
+    "L/100 km": 4.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Jetta 2.0 TDI DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 43.5,
+    "L/100 km": 5.4,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Jetta TDI 103KW 6DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.9,
+    "L/100 km": 6.2,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Hyundai i30 1.6 CRDI ELITE M5",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 50.0,
+    "L/100 km": 4.7,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Hyundai i30 1.6 CRDI 5D M5",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 50.0,
+    "L/100 km": 4.7,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Hyundai i30 1.6 CRDI ELITE A4",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Hyundai i30 1.6 5D M5",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 37.9,
+    "L/100 km": 6.2,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Peugeot 207 HDI 1.6 5DR 5 SP M D",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 49.0,
+    "L/100 km": 4.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Peugeot 207 XS 1.4 5DR 5SPD M P",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Citroen C3 1.6 HDI 5DR 5SPD",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 48.0,
+    "L/100 km": 4.9,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Citroen C3 1.6 5DR 5SPD",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 36.2,
+    "L/100 km": 6.5,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Kia Cerato 1.6 DIESEL 5M SEDAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 48.0,
+    "L/100 km": "@@@_-5.8829545455",
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Daihatsu Sirion 1.0 HATCH 5MT",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 47.0,
+    "L/100 km": 5.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Daihatsu Sirion 1.3P HATCH 5M",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 40.5,
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Daihatsu Sirion 1.3P HATCH 4A",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 36.2,
+    "L/100 km": 6.5,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Daihatsu Sirion 1.5P SX HATCH 4AT",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Smart Fortwo CAB",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 47.0,
+    "L/100 km": 5.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Smart Fortwo COUPE",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 47.0,
+    "L/100 km": 5.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Toyota Corolla 1.4D HATCH5 5M",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 47.0,
+    "L/100 km": 5.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Toyota Corolla 2.0D HATCH5 6M",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 43.5,
+    "L/100 km": 5.4,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Toyota Corolla 1.5P WAGON 5DR 5M",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": "@@@_None",
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Passat TDI BLUEMOTION SED",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 46.0,
+    "L/100 km": 5.1,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Passat TDI BLUEMOTION VAR",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 44.3,
+    "L/100 km": 5.3,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Passat 2.0 TDI DSG SEDAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Passat 2.0 TDI DSG VARIANT",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.9,
+    "L/100 km": 6.2,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Passat TDI 125KW 6DSG SED",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 36.2,
+    "L/100 km": 6.5,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Passat TDI 125KW 6DSG VAR",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 35.6,
+    "L/100 km": 6.6,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Passat TDI 103KW 4M VAR",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Kia Picanto 1.1 MANUAL",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 45.2,
+    "L/100 km": 5.2,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Kia Picanto 1.1 AUTO",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 40.5,
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Skoda Octavia 1.9 TDI MAN COMBI",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 45.2,
+    "L/100 km": 5.2,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Skoda Octavia RS 2.0 TDI SEDAN MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 41.2,
+    "L/100 km": 5.7,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Skoda Octavia RS 2.0 TDI COMBI MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 40.5,
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Skoda Octavia 1.9 TDI AUTO",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 40.5,
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Skoda Octavia 1.9 TDI COMBI AUTO",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 40.5,
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Skoda Octavia 4X4 2.0 TDI COMBI M",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.9,
+    "L/100 km": 6.2,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Skoda Octavia SCOUT 2.0 TDI",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 36.7,
+    "L/100 km": 6.4,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "BMW 118D HATCH 6M 5DR 1.8L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 44.3,
+    "L/100 km": 5.3,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "BMW 118D HATCH 6A 5DR 1.8L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Ford Focus 1.8TD WAGON",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 44.3,
+    "L/100 km": 5.3,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Ford Focus 1.6 M HATCH",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Ford Focus WAG 1.6 MAN",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mercedes Benz A 180 CDI CLASSIC",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 44.3,
+    "L/100 km": 5.3,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mercedes Benz A 180 CDI ELEGANCE",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 44.3,
+    "L/100 km": 5.3,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mercedes Benz A 180 CDI AVANTGARDE",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 44.3,
+    "L/100 km": 5.3,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mercedes Benz A 200 CDI AVANTGARDE",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 43.5,
+    "L/100 km": 5.4,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Skoda Roomster 1.9 TDI COMFORT",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 43.5,
+    "L/100 km": 5.4,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Skoda Roomster 1.9 TDI STYLE",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 43.5,
+    "L/100 km": 5.4,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Audi A4 2.0 TDI MULTI SEDAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 42.7,
+    "L/100 km": 5.5,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Audi A4 2.0 TDI MULTI",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.9,
+    "L/100 km": 6.2,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Audi A4 2.0 TDI MULTI AVANT",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.9,
+    "L/100 km": 6.2,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Audi A4 2.7 TDI MULTI SEDAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 35.6,
+    "L/100 km": 6.6,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "BMW 120D 5 DOOR M E87",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 42.7,
+    "L/100 km": 5.5,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "BMW 120D 5 DOOR A E87",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Fiat Bravo SPORT JTD 16V 5DR",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 42.0,
+    "L/100 km": 5.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mitsubishi Colt 1.5P LS 5DR HATCH A",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 42.0,
+    "L/100 km": 5.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mitsubishi Colt 1.5P VRX 5DR HATCH",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 42.0,
+    "L/100 km": 5.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mitsubishi Colt 1.5P VRX 5DR HATCH A",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 42.0,
+    "L/100 km": 5.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mitsubishi Colt 1.5P VRX 5DR HATCHA",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 42.0,
+    "L/100 km": 5.6,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mitsubishi Colt 1.5P LS 5DR HATCH M",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 39.8,
+    "L/100 km": 5.9,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "BMW 520D SEDAN 6A 4DR 2.0L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 41.2,
+    "L/100 km": 5.7,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Holden Astra MY8.5 CDTI WAGON MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 41.2,
+    "L/100 km": 5.7,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Holden Astra MY8.5 CDTI HATCH MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 41.2,
+    "L/100 km": 5.7,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Holden Astra CDTI 5DR HATCH MT",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Holden Astra CDTI 5DR MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mini One HATCH 6M 2DR 1.4I",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 41.2,
+    "L/100 km": 5.7,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Mini One HATCH 6A 2DR 1.4I",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.6,
+    "L/100 km": 6.6,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Subaru Legacy WAGON 2.0 TD MANUAL",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 41.2,
+    "L/100 km": 5.7,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Audi A3 2.0 TDI S TRONIC",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 40.5,
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Audi A3 SPORTBACK 1.4T FSI",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 40.5,
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Audi A3 2.0 TDI SP A TRONIC",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Subaru Outback WAGON 2.0 TD MANUAL",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 40.5,
+    "L/100 km": 5.8,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "BMW 123D COUPE 6M 3DR 2.0L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.8,
+    "L/100 km": 5.9,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "BMW 123D Saloon 6M 5DR 2.3L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.8,
+    "L/100 km": 5.9,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "BMW 123D HATCH 6M 5DR 2.3L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "BMW 123D 2.3L 6A 3DR COUPE",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Daihatsu Charade 1.0P HATCH5 4A",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 39.8,
+    "L/100 km": 5.9,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Saab 9-3 Linear SPCOMBI1.9MT",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.8,
+    "L/100 km": 5.9,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Saab 9-3 Linear CONVERTIBLE 1.9TID M",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Caddy DELIVERY 1.9TDI DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.8,
+    "L/100 km": 5.9,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Volkswagen Caddy DELIVERY 1.9TDI MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Caddy LIFE 1.9 TDI DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Caddy LIFE 1.9 TDI MAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.9,
+    "L/100 km": 6.2,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Alfa Romeo 147 1.9 JTD 16V 5DR 6 SP",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Alfa Romeo 159 1.9 JTD 4D 6SP SEDAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Alfa Romeo 159 2.4 JTD 4D 6SP SEDAN",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": "@@@_598.0977282103",
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "BMW 320D SEDAN 6A 4DR 2.0L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "BMW 320D TOURING 6A 5DR 2.0L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Daihatsu Copen 1.3P COUPE CONV 5M",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Hyundai Sonata 2.0 CRDI M6",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 39.2,
+    "L/100 km": 6.0,
+    "NZ Rating\n(Stars)": 5.0
+  },
+  {
+    "Model": "Dodge Caliber SXT CRD",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": "@@@_-40.5738636364",
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Honda Jazz SPORT",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 38.5,
+    "L/100 km": 6.1,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Holden Combo XC 1.4 MANUAL",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 37.9,
+    "L/100 km": 6.2,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mercedes Benz B 200 CDI",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 37.9,
+    "L/100 km": 6.2,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Suzuki Swift GLX 1.5 5DR",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Suzuki Swift GLXH 1.5 5DR",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Suzuki Swift GLXH2 1.5 5DR",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 37.3,
+    "L/100 km": 6.3,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Suzuki Swift GLXA 1.5 5DR",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Suzuki Swift GLXHA 1.5 5DR",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Suzuki Swift GLXHA2 1.5 5DR",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Fiat Multipla DYNAMIC 1.9 JTD 5D",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 36.7,
+    "L/100 km": 6.4,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mazda Mazda2 CLASSIC 5DR 1.5 M5",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 36.7,
+    "L/100 km": 6.4,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mazda Mazda2 SPORT 5 DR 1.5 M 5",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 36.7,
+    "L/100 km": 6.4,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mazda Mazda2 SPORT 5 DR 1.5 4AT",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mazda Mazda2 CLASSIC 5DR 1.5 4AT",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mitsubishi Colt Plus 1.5P RALLIART TURBO",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 36.7,
+    "L/100 km": 6.4,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Peugeot 307 XS 1.6 5DR 4SPD A P",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 36.7,
+    "L/100 km": 6.4,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Peugeot 307 XSP 2.0 5DR 5SPD M P",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 36.2,
+    "L/100 km": 6.5,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Peugeot 307 HDI 2.0 5DR 6SPD A D",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Peugeot 307 HDI 2.0 5DR 6SPD M D",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Peugeot 607 HDI 2.2 5DR 6SPM P",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 36.7,
+    "L/100 km": 6.4,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "BMW 330D SEDAN 6M 4DR 3.0L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 36.2,
+    "L/100 km": 6.5,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Jeep Compass LTD 2.0L CRD",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 36.2,
+    "L/100 km": 6.5,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Ford Fiesta 5DR 1.6 M",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.6,
+    "L/100 km": 6.6,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Mitsubishi I-car 660P 5DR A",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 39.8,
+    "L/100 km": 5.9,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Toyota RAV4 2.2D WAGON 6M L1",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 35.6,
+    "L/100 km": 6.6,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "BMW 118I 5 DOOR M E87",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Jeep Patriot 2.0L CRD HIGH LINE",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Renault Clio 1.6 3DR 4SP A P",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 35.0,
+    "L/100 km": 6.7,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Alfa Romeo Brera 2.4 JTD 3D 6 SPEED",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Audi A6 2.7 TDI QUATTRO TIP",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "BMW 535D SEDAN 6A 4D 3.0L",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Suzuki SX4 GLXF 1.6 5DR",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Suzuki SX4 GLXH2 1.6 5DR",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Crosstouran 103KW TDI 6DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Volkswagen Touran 103KW TDI 6DSG",
+    "Fuel Type": "diesel",
+    "mpg (US gallons)": 34.6,
+    "L/100 km": 6.8,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Holden Barina 3DR HATCH MANUAL",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 34.0,
+    "L/100 km": 6.9,
+    "NZ Rating\n(Stars)": 4.5
+  },
+  {
+    "Model": "Holden Barina 5DR HATCH MANUAL",
+    "Fuel Type": "petrol",
+    "mpg (US gallons)": 34.0,
+    "L/100 km": 6.9,
+    "NZ Rating\n(Stars)": 4.5
+  }
+]

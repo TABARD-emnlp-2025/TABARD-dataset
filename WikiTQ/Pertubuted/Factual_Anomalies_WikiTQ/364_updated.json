@@ -1,0 +1,162 @@
+[
+    {
+        "Year":2003,
+        "Competition":"World Youth Championships",
+        "Venue":"Sherbrooke, Canada",
+        "Position":"1st",
+        "Event":"3000 m",
+        "Notes":"9:12.70"
+    },
+    {
+        "Year":2004,
+        "Competition":"World Junior Championships",
+        "Venue":"Grosseto, Italy",
+        "Position":"3rd",
+        "Event":"1500 m",
+        "Notes":"4:17.39"
+    },
+    {
+        "Year":2004,
+        "Competition":"World Junior Championships",
+        "Venue":"Grosseto, Italy",
+        "Position":"3rd",
+        "Event":"3000 m",
+        "Notes":"9:03.16 (PB)"
+    },
+    {
+        "Year":2007,
+        "Competition":"World Athletics Final",
+        "Venue":"Stuttgart, Germany",
+        "Position":"8th",
+        "Event":"1500 m",
+        "Notes":"4:16.51"
+    },
+    {
+        "Year":2007,
+        "Competition":"World Championships",
+        "Venue":"Osaka, Japan",
+        "Position":"31st (h)",
+        "Event":"1500 m",
+        "Notes":"@@@_3:22.12"
+    },
+    {
+        "Year":2008,
+        "Competition":"World Indoor Championships",
+        "Venue":"Valencia, Spain",
+        "Position":"5th",
+        "Event":"1500 m",
+        "Notes":"4:15.54"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, China",
+        "Position":"10th",
+        "Event":"1500 m",
+        "Notes":"4:05.57"
+    },
+    {
+        "Year":2009,
+        "Competition":"Mediterranean Games",
+        "Venue":"Pescara, Italy",
+        "Position":"4th",
+        "Event":"1500 m",
+        "Notes":"4:12.83"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"29th (h)",
+        "Event":"1500 m",
+        "Notes":"4:10.57"
+    },
+    {
+        "Year":2009,
+        "Competition":"Jeux de la Francophonie",
+        "Venue":"Beirut, Lebanon",
+        "Position":"2nd",
+        "Event":"1500 m",
+        "Notes":"@@@_8:21.56"
+    },
+    {
+        "Year":2010,
+        "Competition":"African Championships",
+        "Venue":"Nairobi, Kenya",
+        "Position":"11th",
+        "Event":"1500 m",
+        "Notes":"4:20.98"
+    },
+    {
+        "Year":2011,
+        "Competition":"World Championships",
+        "Venue":"Daegu, South Korea",
+        "Position":"16th (sf)",
+        "Event":"1500 m",
+        "Notes":"4:09.64"
+    },
+    {
+        "Year":2011,
+        "Competition":"Pan Arab Games",
+        "Venue":"Doha, Qatar",
+        "Position":"@@@_1st",
+        "Event":"1500 m",
+        "Notes":"@@@_5:20.83"
+    },
+    {
+        "Year":2012,
+        "Competition":"World Indoor Championships",
+        "Venue":"Istanbul, Turkey",
+        "Position":"11th (h)",
+        "Event":"1500 m",
+        "Notes":"4:11.69"
+    },
+    {
+        "Year":2013,
+        "Competition":"Mediterranean Games",
+        "Venue":"Mersin, Turkey",
+        "Position":"2nd",
+        "Event":"800 m",
+        "Notes":"2:00.79"
+    },
+    {
+        "Year":2013,
+        "Competition":"Mediterranean Games",
+        "Venue":"Mersin, Turkey",
+        "Position":"1st",
+        "Event":"1500 m",
+        "Notes":"4:04.06"
+    },
+    {
+        "Year":2013,
+        "Competition":"World Championships",
+        "Venue":"Moscow, Russia",
+        "Position":"11th",
+        "Event":"1500 m",
+        "Notes":"@@@_1:09.16"
+    },
+    {
+        "Year":2013,
+        "Competition":"Jeux de la Francophonie",
+        "Venue":"Nice, France",
+        "Position":"4th",
+        "Event":"800 m",
+        "Notes":"2:03.73"
+    },
+    {
+        "Year":2013,
+        "Competition":"Jeux de la Francophonie",
+        "Venue":"Nice, France",
+        "Position":"2nd",
+        "Event":"1500 m",
+        "Notes":"4:18.89"
+    },
+    {
+        "Year":2014,
+        "Competition":"World Indoor Championships",
+        "Venue":"Sopot, Poland",
+        "Position":"4th",
+        "Event":"1500 m",
+        "Notes":"@@@_14:07.62"
+    }
+]

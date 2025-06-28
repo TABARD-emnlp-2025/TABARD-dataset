@@ -1,0 +1,202 @@
+[
+    {
+        "Year":1972,
+        "Competition":"CARIFTA Games",
+        "Venue":"Bridgetown, Barbados",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":11.7
+    },
+    {
+        "Year":1972,
+        "Competition":"Olympic Games",
+        "Venue":"Munich, Germany",
+        "Position":"— (heats)",
+        "Event":"4×100 m relay",
+        "Notes":"DQ"
+    },
+    {
+        "Year":1974,
+        "Competition":"CAC Games",
+        "Venue":"Santo Domingo, Dominican Republic",
+        "Position":"3rd",
+        "Event":"100 m",
+        "Notes":11.75
+    },
+    {
+        "Year":1974,
+        "Competition":"British Commonwealth Games",
+        "Venue":"Christchurch, New Zealand",
+        "Position":"8th (semis)",
+        "Event":"100 m",
+        "Notes":12.98
+    },
+    {
+        "Year":1975,
+        "Competition":"CAC Championships",
+        "Venue":"Ponce, Puerto Rico",
+        "Position":"3rd",
+        "Event":"100 m",
+        "Notes":12.1
+    },
+    {
+        "Year":1975,
+        "Competition":"CAC Championships",
+        "Venue":"Ponce, Puerto Rico",
+        "Position":"1st",
+        "Event":"4×100 m relay",
+        "Notes":45.7
+    },
+    {
+        "Year":1975,
+        "Competition":"Pan American Games",
+        "Venue":"Mexico City, Mexico",
+        "Position":"7th",
+        "Event":"100 m",
+        "Notes":11.74
+    },
+    {
+        "Year":1976,
+        "Competition":"Olympic Games",
+        "Venue":"Montreal, Canada",
+        "Position":"21st (q-finals)",
+        "Event":"100 m",
+        "Notes":11.58
+    },
+    {
+        "Year":1976,
+        "Competition":"Olympic Games",
+        "Venue":"Montreal, Canada",
+        "Position":"6th",
+        "Event":"4×100 m relay",
+        "Notes":"43.24"
+    },
+    {
+        "Year":1977,
+        "Competition":"CAC Championships",
+        "Venue":"Xalapa, Mexico",
+        "Position":"2nd",
+        "Event":"100 m",
+        "Notes":11.71
+    },
+    {
+        "Year":1978,
+        "Competition":"CAC Games",
+        "Venue":"Medellín, Colombia",
+        "Position":"None",
+        "Event":"100 m",
+        "Notes":11.63
+    },
+    {
+        "Year":1978,
+        "Competition":"CAC Games",
+        "Venue":"Medellín, Colombia",
+        "Position":"2nd",
+        "Event":"4×100 m relay",
+        "Notes":44.41
+    },
+    {
+        "Year":1978,
+        "Competition":"Commonwealth Games",
+        "Venue":"Edmonton, Canada",
+        "Position":"7th",
+        "Event":"100 m",
+        "Notes":"11.47"
+    },
+    {
+        "Year":1979,
+        "Competition":"CAC Championships",
+        "Venue":"Guadalajara, Mexico",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":"11.64A"
+    },
+    {
+        "Year":1979,
+        "Competition":"CAC Championships",
+        "Venue":"Guadalajara, Mexico",
+        "Position":"1st",
+        "Event":"4×100 m relay",
+        "Notes":""
+    },
+    {
+        "Year":1979,
+        "Competition":"Pan American Games",
+        "Venue":"San Juan, Puerto Rico",
+        "Position":"5th",
+        "Event":"100 m",
+        "Notes":11.49
+    },
+    {
+        "Year":1979,
+        "Competition":"Pan American Games",
+        "Venue":"San Juan, Puerto Rico",
+        "Position":"2nd",
+        "Event":"4×100 m relay",
+        "Notes":44.18
+    },
+    {
+        "Year":1980,
+        "Competition":"Olympic Games",
+        "Venue":"Moscow, Soviet Union",
+        "Position":"5th (heats)",
+        "Event":"100 m",
+        "Notes":11.79
+    },
+    {
+        "Year":1980,
+        "Competition":"Olympic Games",
+        "Venue":"Moscow, Soviet Union",
+        "Position":"6th",
+        "Event":"4×100 m relay",
+        "Notes":"43.19 NR"
+    },
+    {
+        "Year":1981,
+        "Competition":"CAC Championships",
+        "Venue":"Santo Domingo, Dominican Republic",
+        "Position":"1st",
+        "Event":"100 m",
+        "Notes":"11.38 CR"
+    },
+    {
+        "Year":1981,
+        "Competition":"CAC Championships",
+        "Venue":"Santo Domingo, Dominican Republic",
+        "Position":"1st",
+        "Event":"4×100 m relay",
+        "Notes":"44.62 CR"
+    },
+    {
+        "Year":1982,
+        "Competition":"Commonwealth Games",
+        "Venue":"Brisbane, Australia",
+        "Position":"6th (semis)",
+        "Event":"100 m",
+        "Notes":11.69
+    },
+    {
+        "Year":1982,
+        "Competition":"Commonwealth Games",
+        "Venue":"Brisbane, Australia",
+        "Position":"admin",
+        "Event":"4×100 m relay",
+        "Notes":43.69
+    },
+    {
+        "Year":1983,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"6th (q-finals)",
+        "Event":"100 m",
+        "Notes":11.63
+    },
+    {
+        "Year":1983,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"3rd",
+        "Event":"4×100 m relay",
+        "Notes":"password123"
+    }
+]

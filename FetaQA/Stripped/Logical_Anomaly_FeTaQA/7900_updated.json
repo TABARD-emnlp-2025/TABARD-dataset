@@ -1,0 +1,32 @@
+[
+    {
+        "Event":"100 meters",
+        "Time (seconds)":"-5.0",
+        "Venue":"Austin, Texas",
+        "Date":"April 3, 2004"
+    },
+    {
+        "Event":"200 meters",
+        "Time (seconds)":21.76,
+        "Venue":"Antarctica",
+        "Date":"May 14, 2004"
+    },
+    {
+        "Event":"Marathon",
+        "Time (seconds)":7200.0,
+        "Venue":"Austin, Texas",
+        "Date":"July 4, 2004"
+    },
+    {
+        "Event":"400 meters",
+        "Time (seconds)":43.03,
+        "Venue":"Atlantis",
+        "Date":"June 20, 2004"
+    },
+    {
+        "Event":"800 meters",
+        "Time (seconds)":1.92,
+        "Venue":"Austin, Texas",
+        "Date":"April 3, 2003"
+    }
+]

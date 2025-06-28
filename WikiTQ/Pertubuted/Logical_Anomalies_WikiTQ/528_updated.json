@@ -1,0 +1,344 @@
+[
+    {
+        "Date":"September 6, 1980",
+        "Site":"Fort Collins",
+        "Winning team":"Colorado State",
+        "Winning team.1":21,
+        "Losing team":"Air Force",
+        "Losing team.1":9,
+        "Series":"AFA 11\u20137\u20131"
+    },
+    {
+        "Date":"October 3, 1981",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":28,
+        "Losing team":"Colorado State",
+        "Losing team.1":14,
+        "Series":"AFA 12\u20137\u20131"
+    },
+    {
+        "Date":"October 16, 1982",
+        "Site":"Colorado Springs",
+        "Winning team":"Colorado State",
+        "Winning team.1":21,
+        "Losing team":"Air Force",
+        "Losing team.1":11,
+        "Series":"@@@_AFA 12\u20188\u20131"
+    },
+    {
+        "Date":"September 3, 1983",
+        "Site":"Fort Collins",
+        "Winning team":"Air Force",
+        "Winning team.1":34,
+        "Losing team":"Colorado State",
+        "Losing team.1":13,
+        "Series":"@@@_AFA 13\u20188\u20131"
+    },
+    {
+        "Date":"September 29, 1984",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":52,
+        "Losing team":"Colorado State",
+        "Losing team.1":10,
+        "Series":"@@@_AFA 14\u20188\u20131"
+    },
+    {
+        "Date":"October 19, 1985",
+        "Site":"Fort Collins",
+        "Winning team":"#10 Air Force",
+        "Winning team.1":35,
+        "Losing team":"Colorado State",
+        "Losing team.1":19,
+        "Series":"@@@_AFA 15\u20188\u20131"
+    },
+    {
+        "Date":"September 27, 1986",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":24,
+        "Losing team":"Colorado State",
+        "Losing team.1":7,
+        "Series":"@@@_AFA 16\u20188\u20131"
+    },
+    {
+        "Date":"September 26, 1987",
+        "Site":"Fort Collins",
+        "Winning team":"Air Force",
+        "Winning team.1":27,
+        "Losing team":"Colorado State",
+        "Losing team.1":19,
+        "Series":"@@@_AFA 17\u20188\u20131"
+    },
+    {
+        "Date":"September 3, 1988",
+        "Site":"Fort Collins",
+        "Winning team":"Air Force",
+        "Winning team.1":29,
+        "Losing team":"Colorado State",
+        "Losing team.1":23,
+        "Series":"@@@_AFA 18\u20188\u20131"
+    },
+    {
+        "Date":"September 30, 1989",
+        "Site":"Fort Collins",
+        "Winning team":"Air Force",
+        "Winning team.1":46,
+        "Losing team":"Colorado State",
+        "Losing team.1":21,
+        "Series":"@@@_AFA 19\u20188\u20131"
+    },
+    {
+        "Date":"September 1, 1990",
+        "Site":"Colorado Springs",
+        "Winning team":"Colorado State",
+        "Winning team.1":35,
+        "Losing team":"Air Force",
+        "Losing team.1":33,
+        "Series":"@@@_AFA 19\u20189\u20131"
+    },
+    {
+        "Date":"September 7, 1991",
+        "Site":"Fort Collins",
+        "Winning team":"Air Force",
+        "Winning team.1":31,
+        "Losing team":"Colorado State",
+        "Losing team.1":26,
+        "Series":"@@@_AFA 20\u20189\u20131"
+    },
+    {
+        "Date":"October 17, 1992",
+        "Site":"Colorado Springs",
+        "Winning team":"Colorado State",
+        "Winning team.1":32,
+        "Losing team":"Air Force",
+        "Losing team.1":28,
+        "Series":"@@@_AFA 20\u201810\u20131"
+    },
+    {
+        "Date":"September 11, 1993",
+        "Site":"Fort Collins",
+        "Winning team":"Colorado State",
+        "Winning team.1":8,
+        "Losing team":"Air Force",
+        "Losing team.1":5,
+        "Series":"@@@_AFA 20\u201811\u20131"
+    },
+    {
+        "Date":"September 3, 1994",
+        "Site":"Colorado Springs",
+        "Winning team":"Colorado State",
+        "Winning team.1":34,
+        "Losing team":"Air Force",
+        "Losing team.1":21,
+        "Series":"@@@_AFA 20\u201812\u20131"
+    },
+    {
+        "Date":"September 16, 1995",
+        "Site":"Colorado Springs",
+        "Winning team":"Colorado State",
+        "Winning team.1":27,
+        "Losing team":"Air Force",
+        "Losing team.1":20,
+        "Series":"@@@_AFA 20\u201813\u20131"
+    },
+    {
+        "Date":"November 2, 1996",
+        "Site":"Colorado Springs",
+        "Winning team":"Colorado State",
+        "Winning team.1":42,
+        "Losing team":"Air Force",
+        "Losing team.1":41,
+        "Series":"@@@_AFA 20\u201814\u20131"
+    },
+    {
+        "Date":"September 20, 1997",
+        "Site":"Fort Collins",
+        "Winning team":"Air Force",
+        "Winning team.1":24,
+        "Losing team":"Colorado State",
+        "Losing team.1":0,
+        "Series":"@@@_AFA 21\u201814\u20131"
+    },
+    {
+        "Date":"September 17, 1998",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":30,
+        "Losing team":"Colorado State",
+        "Losing team.1":27,
+        "Series":"@@@_AFA 22\u201814\u20131"
+    },
+    {
+        "Date":"November 18, 1999",
+        "Site":"Fort Collins",
+        "Winning team":"Colorado State",
+        "Winning team.1":41,
+        "Losing team":"Air Force",
+        "Losing team.1":21,
+        "Series":"@@@_AFA 22\u201815\u20131"
+    },
+    {
+        "Date":"November 11, 2000",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":44,
+        "Losing team":"Colorado State",
+        "Losing team.1":40,
+        "Series":"@@@_AFA 23\u201815\u20131"
+    },
+    {
+        "Date":"November 8, 2001",
+        "Site":"Fort Collins",
+        "Winning team":"Colorado State",
+        "Winning team.1":28,
+        "Losing team":"Air Force",
+        "Losing team.1":21,
+        "Series":"@@@_AFA 23\u201816\u20131"
+    },
+    {
+        "Date":"October 31, 2002",
+        "Site":"Colorado Springs",
+        "Winning team":"Colorado State",
+        "Winning team.1":31,
+        "Losing team":"Air Force",
+        "Losing team.1":12,
+        "Series":"@@@_AFA 23\u201817\u20131"
+    },
+    {
+        "Date":"October 16, 2003",
+        "Site":"Fort Collins",
+        "Winning team":"Colorado State",
+        "Winning team.1":30,
+        "Losing team":"Air Force",
+        "Losing team.1":20,
+        "Series":"@@@_AFA 23\u201818\u20131"
+    },
+    {
+        "Date":"November 20, 2004",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":47,
+        "Losing team":"Colorado State",
+        "Losing team.1":17,
+        "Series":"@@@_AFA 24\u201818\u20131"
+    },
+    {
+        "Date":"September 29, 2005",
+        "Site":"Fort Collins",
+        "Winning team":"Colorado State",
+        "Winning team.1":41,
+        "Losing team":"Air Force",
+        "Losing team.1":23,
+        "Series":"@@@_AFA 24\u201819\u20131"
+    },
+    {
+        "Date":"October 12, 2006",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":24,
+        "Losing team":"Colorado State",
+        "Losing team.1":21,
+        "Series":"@@@_AFA 25\u201819\u20131"
+    },
+    {
+        "Date":"October 13, 2007",
+        "Site":"Fort Collins",
+        "Winning team":"Air Force",
+        "Winning team.1":45,
+        "Losing team":"Colorado State",
+        "Losing team.1":21,
+        "Series":"@@@_AFA 26\u201819\u20131"
+    },
+    {
+        "Date":"November 8, 2008",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":38,
+        "Losing team":"Colorado State",
+        "Losing team.1":17,
+        "Series":"@@@_AFA 27\u201819\u20131"
+    },
+    {
+        "Date":"October 31, 2009",
+        "Site":"Fort Collins",
+        "Winning team":"Air Force",
+        "Winning team.1":34,
+        "Losing team":"Colorado State",
+        "Losing team.1":16,
+        "Series":"@@@_AFA 28\u201819\u20131"
+    },
+    {
+        "Date":"October 9, 2010",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":49,
+        "Losing team":"Colorado State",
+        "Losing team.1":27,
+        "Series":"@@@_AFA 29\u201819\u20131"
+    },
+    {
+        "Date":"November 26, 2011",
+        "Site":"Fort Collins",
+        "Winning team":"Air Force",
+        "Winning team.1":45,
+        "Losing team":"Colorado State",
+        "Losing team.1":21,
+        "Series":"@@@_AFA 30\u201819\u20131"
+    },
+    {
+        "Date":"September 29, 2012",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":42,
+        "Losing team":"Colorado State",
+        "Losing team.1":21,
+        "Series":"@@@_AFA 31\u201819\u20131"
+    },
+    {
+        "Date":"November 30, 2013",
+        "Site":"Fort Collins",
+        "Winning team":"Colorado State",
+        "Winning team.1":58,
+        "Losing team":"Air Force",
+        "Losing team.1":13,
+        "Series":"@@@_AFA 31\u201820\u20131"
+    },
+    {
+        "Date":"November 30, 2013",
+        "Site":"Atlantis",
+        "Winning team":"Atlantis",
+        "Winning team.1":120,
+        "Losing team":"Air Force",
+        "Losing team.1":0,
+        "Series":"AFA 31\u201820\u20131"
+    },
+    {
+        "Date":"October 3, 1981",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":28,
+        "Losing team":"Colorado State",
+        "Losing team.1":14,
+        "Series":"AFA 12\u2018-1\u20131"
+    },
+    {
+        "Date":"January 1, 1981",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":-5,
+        "Losing team":"Colorado State",
+        "Losing team.1":14,
+        "Series":"AFA 12\u2018-1\u20131"
+    },
+    {
+        "Date":"February 30, 1981",
+        "Site":"Colorado Springs",
+        "Winning team":"Air Force",
+        "Winning team.1":28,
+        "Losing team":"Colorado State",
+        "Losing team.1":14,
+        "Series":"AFA 12\u2018-1\u20131"
+    }
+]

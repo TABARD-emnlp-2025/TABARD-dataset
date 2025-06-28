@@ -1,0 +1,138 @@
+[
+    {
+        "Season":"1999",
+        "Team":"Djurg\u00e5rdens IF",
+        "Country":"Sweden",
+        "Competition":"Allsvenskan",
+        "Matches":15,
+        "Goals":1
+    },
+    {
+        "Season":"2000",
+        "Team":"Djurg\u00e5rdens IF",
+        "Country":"Sweden",
+        "Competition":"Superettan",
+        "Matches":15,
+        "Goals":3
+    },
+    {
+        "Season":"2001",
+        "Team":"Djurg\u00e5rdens IF",
+        "Country":"Sweden",
+        "Competition":"Allsvenskan",
+        "Matches":22,
+        "Goals":7
+    },
+    {
+        "Season":"@@@_2002-2003",
+        "Team":"Grazer AK",
+        "Country":"Austria",
+        "Competition":"Bundesliga",
+        "Matches":24,
+        "Goals":6
+    },
+    {
+        "Season":"2003",
+        "Team":"Denizlispor",
+        "Country":"Turkey",
+        "Competition":"@@@_Super Lig",
+        "Matches":3,
+        "Goals":0
+    },
+    {
+        "Season":"2003",
+        "Team":"Landskrona BoIS",
+        "Country":"Sweden",
+        "Competition":"Allsvenskan",
+        "Matches":11,
+        "Goals":3
+    },
+    {
+        "Season":"2004",
+        "Team":"Landskrona BoIS",
+        "Country":"Sweden",
+        "Competition":"Allsvenskan",
+        "Matches":22,
+        "Goals":4
+    },
+    {
+        "Season":"2005",
+        "Team":"Djurg\u00e5rdens IF",
+        "Country":"Sweden",
+        "Competition":"Allsvenskan",
+        "Matches":24,
+        "Goals":12
+    },
+    {
+        "Season":"2006",
+        "Team":"Djurg\u00e5rdens IF",
+        "Country":"Sweden",
+        "Competition":"Allsvenskan",
+        "Matches":17,
+        "Goals":6
+    },
+    {
+        "Season":"2007",
+        "Team":"Djurg\u00e5rdens IF",
+        "Country":"Sweden",
+        "Competition":"Allsvenskan",
+        "Matches":23,
+        "Goals":4
+    },
+    {
+        "Season":"@@@_2007",
+        "Team":"Djurg\u00e5rdens IF",
+        "Country":"Sweden",
+        "Competition":"Allsvenskan",
+        "Matches":"@@@_23",
+        "Goals":"@@@_4"
+    },
+    {
+        "Season":"@@@_2008",
+        "Team":"@@@_Djurg\u00e5rdens IF",
+        "Country":"@@@_Sweden",
+        "Competition":"@@@_Allsvenskan",
+        "Matches":"@@@_29",
+        "Goals":"@@@_6"
+    },
+    {
+        "Season":"@@@_2008\/09",
+        "Team":"@@@_Esbjerg fB",
+        "Country":"Denmark",
+        "Competition":"Superliga",
+        "Matches":"@@@_6",
+        "Goals":"@@@_0"
+    },
+    {
+        "Season":"@@@_2010",
+        "Team":"@@@_AaB",
+        "Country":"@@@_Denmark",
+        "Competition":"@@@_Superliga",
+        "Matches":"@@@_3",
+        "Goals":"@@@_1"
+    },
+    {
+        "Season":"@@@_2011",
+        "Team":"@@@_Assyriska FF",
+        "Country":"@@@_Sweden",
+        "Competition":"@@@_Superettan",
+        "Matches":"@@@_19",
+        "Goals":"@@@_5"
+    },
+    {
+        "Season":"Total",
+        "Team":"Total",
+        "Country":"Total",
+        "Competition":"Total",
+        "Matches":233,
+        "Goals":58
+    },
+    {
+        "Season":"2010",
+        "Team":"AaB",
+        "Country":"Denmark",
+        "Competition":"Superliga",
+        "Matches":3,
+        "Goals":"one"
+    }
+]

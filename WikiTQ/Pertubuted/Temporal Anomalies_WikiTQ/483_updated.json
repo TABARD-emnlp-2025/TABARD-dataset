@@ -1,0 +1,74 @@
+[
+    {
+        "Year":2000,
+        "Competition":"World Junior Championships",
+        "Venue":"Santiago, Chile",
+        "Position":"1st",
+        "Event":"Discus throw",
+        "Notes":"59.51 m"
+    },
+    {
+        "Year":"@@@_2005",
+        "Competition":"All-Africa Games",
+        "Venue":"Abuja, Nigeria",
+        "Position":"5th",
+        "Event":"Shot put",
+        "Notes":"17.76 m"
+    },
+    {
+        "Year":2003,
+        "Competition":"All-Africa Games",
+        "Venue":"Abuja, Nigeria",
+        "Position":"2nd",
+        "Event":"Discus throw",
+        "Notes":"62.86 m"
+    },
+    {
+        "Year":2004,
+        "Competition":"African Championships",
+        "Venue":"Brazzaville, Republic of the Congo",
+        "Position":"2nd",
+        "Event":"Discus throw",
+        "Notes":"63.50 m"
+    },
+    {
+        "Year":2004,
+        "Competition":"Olympic Games",
+        "Venue":"Athens, Greece",
+        "Position":"8th",
+        "Event":"Discus throw",
+        "Notes":"62.58 m"
+    },
+    {
+        "Year":2006,
+        "Competition":"Commonwealth Games",
+        "Venue":"Melbourne, Australia",
+        "Position":"7th",
+        "Event":"Shot put",
+        "Notes":"18.44 m"
+    },
+    {
+        "Year":2006,
+        "Competition":"Commonwealth Games",
+        "Venue":"Melbourne, Australia",
+        "Position":"4th",
+        "Event":"Discus throw",
+        "Notes":"60.99 m"
+    },
+    {
+        "Year":"@@@_2008",
+        "Competition":"All-Africa Games",
+        "Venue":"Algiers, Algeria",
+        "Position":"3rd",
+        "Event":"Discus throw",
+        "Notes":"57.79 m"
+    },
+    {
+        "Year":2008,
+        "Competition":"African Championships",
+        "Venue":"Addis Ababa, Ethiopia",
+        "Position":"2nd",
+        "Event":"Discus throw",
+        "Notes":"56.98 m"
+    }
+]

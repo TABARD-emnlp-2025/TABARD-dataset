@@ -1,0 +1,130 @@
+[
+    {
+        "Year":"Representing the United States",
+        "Competition":"Representing the United States",
+        "Venue":"Representing the United States",
+        "Position":"Representing the United States",
+        "Event":"Representing the United States",
+        "Notes":"Representing the United States"
+    },
+    {
+        "Year":1982,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Knoxville, Tennessee",
+        "Position":"6th",
+        "Event":"10,000 m",
+        "Notes":"28:48.8"
+    },
+    {
+        "Year":1983,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Indianapolis, Indiana",
+        "Position":"5th",
+        "Event":"10,000 m",
+        "Notes":"28:35.92"
+    },
+    {
+        "Year":1984,
+        "Competition":"US Olympic Trials",
+        "Venue":"Los Angeles, California",
+        "Position":"3rd",
+        "Event":"10,000 m",
+        "Notes":"28:03.86"
+    },
+    {
+        "Year":1984,
+        "Competition":"Olympic Games",
+        "Venue":"Los Angeles, United States",
+        "Position":"15th",
+        "Event":"10,000 m",
+        "Notes":"28:34.59"
+    },
+    {
+        "Year":1985,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Indianapolis, Indiana",
+        "Position":"3rd",
+        "Event":"10,000 mt",
+        "Notes":"28:12.9"
+    },
+    {
+        "Year":1985,
+        "Competition":"World Cup",
+        "Venue":"Canberra, Australia",
+        "Position":"2nd",
+        "Event":"10,000 m",
+        "Notes":"29:23.02"
+    },
+    {
+        "Year":1987,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"San Jose, California",
+        "Position":"4th",
+        "Event":"10,000 m",
+        "Notes":"28:29.7"
+    },
+    {
+        "Year":1988,
+        "Competition":"US Olympic Trials",
+        "Venue":"Indianapolis, Indiana",
+        "Position":"3rd",
+        "Event":"10,000 m",
+        "Notes":"29:09:92"
+    },
+    {
+        "Year":1988,
+        "Competition":"Olympic Games",
+        "Venue":"Seoul, South Korea",
+        "Position":"heats",
+        "Event":"10,000 m",
+        "Notes":"28:45.04"
+    },
+    {
+        "Year":1989,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Houston, Texas",
+        "Position":"1st",
+        "Event":"10,000 m",
+        "Notes":"28:45.78"
+    },
+    {
+        "Year":1990,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Norwalk, California",
+        "Position":"7th",
+        "Event":"10,000 m",
+        "Notes":"28:38.99"
+    },
+    {
+        "Year":1991,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"New York, New York",
+        "Position":"5th",
+        "Event":"10,000 m",
+        "Notes":""
+    },
+    {
+        "Year":1992,
+        "Competition":"US Olympic Trials",
+        "Venue":"New Orleans, Louisiana",
+        "Position":"6th",
+        "Event":"10,000 m",
+        "Notes":"28:54.6"
+    },
+    {
+        "Year":1994,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Knoxville, Tennessee",
+        "Position":"6th",
+        "Event":"10,000 m",
+        "Notes":"29:24.05"
+    },
+    {
+        "Year":1990,
+        "Competition":"USA Outdoor Track and Field Championships",
+        "Venue":"Norwalk, California",
+        "Position":"Seventh",
+        "Event":"10,000 m",
+        "Notes":"28:38.99"
+    }
+]

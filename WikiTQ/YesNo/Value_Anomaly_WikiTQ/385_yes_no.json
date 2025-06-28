@@ -1,0 +1,65 @@
+[
+    {
+        "Round":"Yes",
+        "Pick":"Yes",
+        "Player":"No",
+        "Nationality":"No",
+        "College\/Junior\/Club Team":"No"
+    },
+    {
+        "Round":"No",
+        "Pick":"No",
+        "Player":"No",
+        "Nationality":"No",
+        "College\/Junior\/Club Team":"No"
+    },
+    {
+        "Round":"No",
+        "Pick":"No",
+        "Player":"No",
+        "Nationality":"No",
+        "College\/Junior\/Club Team":"No"
+    },
+    {
+        "Round":"No",
+        "Pick":"No",
+        "Player":"No",
+        "Nationality":"No",
+        "College\/Junior\/Club Team":"No"
+    },
+    {
+        "Round":"No",
+        "Pick":"No",
+        "Player":"No",
+        "Nationality":"No",
+        "College\/Junior\/Club Team":"Yes"
+    },
+    {
+        "Round":"No",
+        "Pick":"No",
+        "Player":"No",
+        "Nationality":"No",
+        "College\/Junior\/Club Team":"No"
+    },
+    {
+        "Round":"No",
+        "Pick":"No",
+        "Player":"No",
+        "Nationality":"No",
+        "College\/Junior\/Club Team":"No"
+    },
+    {
+        "Round":"No",
+        "Pick":"Yes",
+        "Player":"No",
+        "Nationality":"No",
+        "College\/Junior\/Club Team":"No"
+    },
+    {
+        "Round":"No",
+        "Pick":"No",
+        "Player":"Yes",
+        "Nationality":"No",
+        "College\/Junior\/Club Team":"No"
+    }
+]

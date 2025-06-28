@@ -1,0 +1,245 @@
+[
+    {
+        "#":1.0,
+        "Date":"1 May 2000",
+        "Venue":"Rasmee Dhandu Stadium, Mal\u00e9, Maldives",
+        "Opponent":"Maldives",
+        "Score":"1\u20131",
+        "Result":"1\u20131",
+        "Competition":"2000 MFF Golden Jubilee Tournament"
+    },
+    {
+        "#":2.0,
+        "Date":"25 August 2000",
+        "Venue":"Ho Chi Minh City, Vietnam",
+        "Opponent":"Vietnam",
+        "Score":"2\u20131",
+        "Result":"2\u20132",
+        "Competition":"2000 HCM Cup"
+    },
+    {
+        "#":3.0,
+        "Date":"28 March 2001",
+        "Venue":"Colombo, Sri Lanka",
+        "Opponent":"Cambodia",
+        "Score":"1\u20130",
+        "Result":"1\u20130",
+        "Competition":"Friendly"
+    },
+    {
+        "#":4.0,
+        "Date":"17 May 2001",
+        "Venue":"Beirut Municipal Stadium, Beirut, Lebanon",
+        "Opponent":"Pakistan",
+        "Score":"3\u20132",
+        "Result":"3\u20133",
+        "Competition":"2002 FIFA World Cup qualification (AFC)"
+    },
+    {
+        "#":5.0,
+        "Date":"30 May 2001",
+        "Venue":"Suphachalasai Stadium, Bangkok, Thailand",
+        "Opponent":"Pakistan",
+        "Score":"1\u20130",
+        "Result":"3\u20131",
+        "Competition":"2002 FIFA World Cup qualification (AFC)"
+    },
+    {
+        "#":6.0,
+        "Date":"30 May 2001",
+        "Venue":"Supachalasai Stadium, Bangkok, Thailand",
+        "Opponent":"Pakistan",
+        "Score":"3\u20130",
+        "Result":"3\u20131",
+        "Competition":"2002 FIFA World Cup qualification (AFC)"
+    },
+    {
+        "#":7.0,
+        "Date":"4 April 2002",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Maldives",
+        "Score":"1\u20130",
+        "Result":"1\u20130",
+        "Competition":"Friendly"
+    },
+    {
+        "#":8.0,
+        "Date":"21 March 2003",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Timor-Leste",
+        "Score":"1\u20131",
+        "Result":"3\u20132",
+        "Competition":"2004 AFC Asian Cup qualification"
+    },
+    {
+        "#":9.0,
+        "Date":"21 March 2003",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Timor-Leste",
+        "Score":"3\u20132",
+        "Result":"3\u20132",
+        "Competition":"2004 AFC Asian Cup qualification"
+    },
+    {
+        "#":10.0,
+        "Date":"3 December 2003",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Laos",
+        "Score":"2\u20130",
+        "Result":"3\u20130",
+        "Competition":"2006 FIFA World Cup qualification (AFC)"
+    },
+    {
+        "#":11.0,
+        "Date":"2 April 2006",
+        "Venue":"MA Aziz Stadium, Chittagong, Bangladesh",
+        "Opponent":"Brunei",
+        "Score":"2\u20130",
+        "Result":"3\u20130",
+        "Competition":"2006 AFC Challenge Cup"
+    },
+    {
+        "#":12.0,
+        "Date":"12 April 2006",
+        "Venue":"MA Aziz Stadium, Chittagong, Bangladesh",
+        "Opponent":"Nepal",
+        "Score":"1\u20130",
+        "Result":"1\u20131",
+        "Competition":"2006 AFC Challenge Cup"
+    },
+    {
+        "#":13.0,
+        "Date":"24 March 2007",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Malaysia",
+        "Score":"1\u20134",
+        "Result":"1\u20134",
+        "Competition":"Friendly"
+    },
+    {
+        "#":14.0,
+        "Date":"2 April 2008",
+        "Venue":"Chungshan Stadium, Taipei, Taiwan",
+        "Opponent":"Guam",
+        "Score":"5\u20131",
+        "Result":"5\u20131",
+        "Competition":"2008 AFC Challenge Cup qualification"
+    },
+    {
+        "#":15.0,
+        "Date":"4 April 2008",
+        "Venue":"Chungshan Stadium, Taipei, Taiwan",
+        "Opponent":"Pakistan",
+        "Score":"1\u20130",
+        "Result":"7\u20131",
+        "Competition":"2008 AFC Challenge Cup qualification"
+    },
+    {
+        "#":16.0,
+        "Date":"4 April 2008",
+        "Venue":"Chungshan Stadium, Taipei, Taiwan",
+        "Opponent":"Pakistan",
+        "Score":"4\u20131",
+        "Result":"7\u20131",
+        "Competition":"2008 AFC Challenge Cup qualification"
+    },
+    {
+        "#":17.0,
+        "Date":"4 April 2008",
+        "Venue":"Chungshan Stadium, Taipei, Taiwan",
+        "Opponent":"Pakistan",
+        "Score":"7\u20131",
+        "Result":"7\u20131",
+        "Competition":"2008 AFC Challenge Cup qualification"
+    },
+    {
+        "#":18.0,
+        "Date":"6 April 2008",
+        "Venue":"Chungshan Stadium, Taipei, Taiwan",
+        "Opponent":"Chinese Taipei",
+        "Score":"2\u20132",
+        "Result":"2\u20132",
+        "Competition":"2008 AFC Challenge Cup qualification"
+    },
+    {
+        "#":19.0,
+        "Date":"2 August 2008",
+        "Venue":"Gachibowli Athletic Stadium, Hyderabad, India",
+        "Opponent":"Myanmar",
+        "Score":"1\u20131",
+        "Result":"1\u20133",
+        "Competition":"2008 AFC Challenge Cup"
+    },
+    {
+        "#":20.0,
+        "Date":"4 April 2009",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Brunei",
+        "Score":"1\u20130",
+        "Result":"5\u20131",
+        "Competition":"2010 AFC Challenge Cup qualification"
+    },
+    {
+        "#":21.0,
+        "Date":"4 April 2009",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Brunei",
+        "Score":"3\u20130",
+        "Result":"5\u20131",
+        "Competition":"2010 AFC Challenge Cup qualification"
+    },
+    {
+        "#":22.0,
+        "Date":"4 April 2009",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Brunei",
+        "Score":"4\u20130",
+        "Result":"5\u20131",
+        "Competition":"2010 AFC Challenge Cup qualification"
+    },
+    {
+        "#":23.0,
+        "Date":"4 April 2009",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Brunei",
+        "Score":"5\u20130",
+        "Result":"5\u20131",
+        "Competition":"2010 AFC Challenge Cup qualification"
+    },
+    {
+        "#":24.0,
+        "Date":"6 April 2009",
+        "Venue":"Sugathadasa Stadium, Colombo, Sri Lanka",
+        "Opponent":"Chinese Taipei",
+        "Score":"1\u20130",
+        "Result":"2\u20131",
+        "Competition":"2010 AFC Challenge Cup qualification"
+    },
+    {
+        "#":25.0,
+        "Date":"6 December 2009",
+        "Venue":"Bangabandhu National Stadium, Dhaka, Bangladesh",
+        "Opponent":"Bhutan",
+        "Score":"3\u20130",
+        "Result":"6\u20130",
+        "Competition":"2009 South Asian Football Federation Cup"
+    },
+    {
+        "#":26.0,
+        "Date":"6 December 2009",
+        "Venue":"Bangabandhu National Stadium, Dhaka, Bangladesh",
+        "Opponent":"Bhutan",
+        "Score":"4\u20130",
+        "Result":"6\u20130",
+        "Competition":"2009 South Asian Football Federation Cup"
+    },
+    {
+        "#":27.0,
+        "Date":"6 December 2009",
+        "Venue":"Bangabandhu National Stadium, Dhaka, Bangladesh",
+        "Opponent":"Bhutan",
+        "Score":"5\u20130",
+        "Result":"6\u20130",
+        "Competition":"2009 South Asian Football Federation Cup"
+    }
+]

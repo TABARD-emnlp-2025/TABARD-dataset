@@ -1,0 +1,98 @@
+[
+  {
+    "Res.": "Loss",
+    "Record": "5–3",
+    "Opponent": "Alistair Overeem",
+    "Method": "TKO (kick to the body & punches)",
+    "Event": "@@@_None",
+    "Date": "December 30, 2011",
+    "Round": 1,
+    "Time": "2:26",
+    "Location": "Las Vegas, United States",
+    "Notes": "Announced retirement after fight"
+  },
+  {
+    "Res.": "Loss",
+    "Record": "5–2",
+    "Opponent": "Cain Velasquez",
+    "Method": "TKO (punches)",
+    "Event": "UFC 121",
+    "Date": "October 23, 2010",
+    "Round": "@@@_30",
+    "Time": "4:12",
+    "Location": "Anaheim, California, United States",
+    "Notes": "Lost UFC Heavyweight Championship"
+  },
+  {
+    "Res.": "Win",
+    "Record": "5–1",
+    "Opponent": "Shane Carwin",
+    "Method": "Submission (arm triangle choke)",
+    "Event": "@@@_None",
+    "Date": "July 3, 2010",
+    "Round": "@@@_75",
+    "Time": "2:19",
+    "Location": "Las Vegas, United States",
+    "Notes": "Defended UFC Heavyweight Championship. Unified UFC Interim Heavyweight Championship; Submission of the Night"
+  },
+  {
+    "Res.": "Win",
+    "Record": "4–1",
+    "Opponent": "Frank Mir",
+    "Method": "TKO (punches)",
+    "Event": "UFC 100",
+    "Date": "July 11, 2009",
+    "Round": 2,
+    "Time": "1:48",
+    "Location": "Las Vegas, United States",
+    "Notes": "Defended UFC Heavyweight Championship. Unified UFC Interim Heavyweight Championship"
+  },
+  {
+    "Res.": "Win",
+    "Record": "3–1",
+    "Opponent": "Randy Couture",
+    "Method": "TKO (punches)",
+    "Event": "UFC 91",
+    "Date": "November 15, 2008",
+    "Round": 2,
+    "Time": "3:07",
+    "Location": "Las Vegas, United States",
+    "Notes": "Won UFC Heavyweight Championship."
+  },
+  {
+    "Res.": "Win",
+    "Record": "2–1",
+    "Opponent": "Heath Herring",
+    "Method": "Decision (unanimous)",
+    "Event": "UFC 87",
+    "Date": "August 9, 2008",
+    "Round": 3,
+    "Time": "5:00",
+    "Location": "Minneapolis, Minnesota, United States",
+    "Notes": null
+  },
+  {
+    "Res.": "Loss",
+    "Record": "1–1",
+    "Opponent": "Frank Mir",
+    "Method": "Submission (kneebar)",
+    "Event": "UFC 81",
+    "Date": "February 2, 2008",
+    "Round": "@@@_-14",
+    "Time": "1:30",
+    "Location": "Las Vegas, United States",
+    "Notes": "UFC Debut"
+  },
+  {
+    "Res.": "Win",
+    "Record": "1–0",
+    "Opponent": "Min-Soo Kim",
+    "Method": "Submission (punches)",
+    "Event": "Dynamite!! USA",
+    "Date": "June 2, 2007",
+    "Round": 1,
+    "Time": "1:09",
+    "Location": "Los Angeles, United States",
+    "Notes": "MMA Debut"
+  }
+]

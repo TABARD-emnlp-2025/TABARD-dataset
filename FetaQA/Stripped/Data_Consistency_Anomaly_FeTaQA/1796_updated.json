@@ -1,0 +1,38 @@
+[
+    {
+        "Year":1999,
+        "Nominee / work":"\"Bitter Sweet Symphony\"",
+        "Award":"Best Rock Performance by a Duo or Group with Vocal",
+        "Result":"nominated"
+    },
+    {
+        "Year":"1999",
+        "Nominee / work":"\"Bitter Sweet Symphony\"",
+        "Award":"Best Rock Song",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1999,
+        "Nominee / work":"\"bitter sweet symphony\"",
+        "Award":"Best Rock Performance by a Duo or Group with Vocal",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1999,
+        "Nominee / work":"",
+        "Award":"Best Rock Song",
+        "Result":"Nominated"
+    },
+    {
+        "Year":1999,
+        "Nominee / work":"\"Bitter Sweet Symphony\"",
+        "Award":"Best Rock Song",
+        "Result":null
+    },
+    {
+        "Year":1999,
+        "Nominee / work":"\"Bitter Sweet Symphony\"",
+        "Award":"Best Rock Performance by a Duo or Group with Vocal",
+        "Result":"Nominated"
+    }
+]

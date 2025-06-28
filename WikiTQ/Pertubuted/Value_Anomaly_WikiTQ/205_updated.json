@@ -1,0 +1,281 @@
+[
+  {
+    "Class": "S\n1.6",
+    "No": "160",
+    "Team": "Silvestre Semilia",
+    "Drivers": "Silvestre Semilia\n Giuseppe Crescenti",
+    "Chassis": "Alfa Romeo Giulia Spider",
+    "Engine": "Alfa Romeo 1.6 I4",
+    "Laps": 6.0
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "186",
+    "Team": "Luigi Rinaldi",
+    "Drivers": "Luigi Rinaldi\n Mario Radicella",
+    "Chassis": "Alfa Romeo GTA",
+    "Engine": "Alfa Romeo 1.6 I4",
+    "Laps": 6.0
+  },
+  {
+    "Class": "P\n3.0",
+    "No": "14",
+    "Team": "Autodelta SpA",
+    "Drivers": "Toine Hezemans\n Masten Gregory",
+    "Chassis": "Alfa Romeo T33/3",
+    "Engine": "Alfa Romeo 3.0L V8",
+    "Laps": 5.0
+  },
+  {
+    "Class": "P\n2.0",
+    "No": "52",
+    "Team": "Etna",
+    "Drivers": "\\Peter von Serzawa\\\"",
+    "Chassis": null,
+    "Engine": null,
+    "Laps": null
+  },
+  {
+    "Class": " Santo Scigliano\"",
+    "No": "Fiat 124 Spider",
+    "Team": "Fiat 2.0L I4",
+    "Drivers": "5",
+    "Chassis": null,
+    "Engine": null,
+    "Laps": null
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "188",
+    "Team": "Etna",
+    "Drivers": "Checco D'Angelo\n \\Jimmy\\\"\"",
+    "Chassis": "Alfa Romeo GTA",
+    "Engine": "Alfa Romeo 1.6L I4",
+    "Laps": "@@@_-2.4444444444"
+  },
+  {
+    "Class": "GT\n1.3",
+    "No": "288",
+    "Team": "V10 Kleber",
+    "Drivers": "Ferdi Bökmann\n Hans E. Böhm",
+    "Chassis": "Simca 1300",
+    "Engine": "Simca 1.3L I4",
+    "Laps": 5.0
+  },
+  {
+    "Class": "GT\n2.0",
+    "No": "128",
+    "Team": null,
+    "Drivers": "Ignazio Capuano\n Giancarlo Barba",
+    "Chassis": "Porsche 911S",
+    "Engine": "Porsche 2.0L Flat-6",
+    "Laps": "@@@_-2.9290559437"
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "180",
+    "Team": "Scuderia Pegaso",
+    "Drivers": "Paolo de Luca\n Giuseppe Vassallo",
+    "Chassis": "Alfa Romeo GTA",
+    "Engine": "Alfa Romeo 1.6L I4",
+    "Laps": "@@@_29.6475899432"
+  },
+  {
+    "Class": "S\n1.6",
+    "No": "156",
+    "Team": "Scuderia Pegaso",
+    "Drivers": "Salvatore Barraco\n \\Amphicar\\\"\"",
+    "Chassis": "Alfa Romeo Giulia TZ",
+    "Engine": "Alfa Romeo 1.6L I4",
+    "Laps": 3.0
+  },
+  {
+    "Class": "S\n1.6",
+    "No": "156",
+    "Team": "Etna",
+    "Drivers": "Giuseppe D'Amico\n Girolamo Perniciaro",
+    "Chassis": "Alfa Romeo Giulia TZ",
+    "Engine": "Alfa Romeo 1.6L I4",
+    "Laps": 3.0
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "192",
+    "Team": "Scuderia Pegaso",
+    "Drivers": "Giovanni Dell'Olio\n Vincenzo Virgilio",
+    "Chassis": "Alfa Romeo GTA",
+    "Engine": "Alfa Romeo 1.6L I4",
+    "Laps": 3.0
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "198",
+    "Team": "Salvatore Gagliano",
+    "Drivers": "Salvatore Gagliano\n Alfonso di Garbo",
+    "Chassis": "Alfa Romeo GTA",
+    "Engine": "Alfa Romeo 1.6L I4",
+    "Laps": 3.0
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "204",
+    "Team": "Gianluigi Verna",
+    "Drivers": "Francesco Cosentino\n Gianluigi Verna",
+    "Chassis": "Alfa Romeo GTA",
+    "Engine": "Alfa Romeo 1.6L I4",
+    "Laps": 3.0
+  },
+  {
+    "Class": "P\n1.0",
+    "No": "254",
+    "Team": "Romano Martini",
+    "Drivers": "Francesco Patané\n \\Oras\\\"\"",
+    "Chassis": "Fiat-Abarth 1000SP",
+    "Engine": "Abarth 1.0L I4",
+    "Laps": 3.0
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "264",
+    "Team": "Romano Martini",
+    "Drivers": "Romano Martini\n Alessandro Federico",
+    "Chassis": "ATS 1000 SP",
+    "Engine": "Ford 1.0L I4",
+    "Laps": 3.0
+  },
+  {
+    "Class": "P\n3.0",
+    "No": "38",
+    "Team": "Abarth-Osella",
+    "Drivers": "Arturo Merzario\n Johannes Ortner",
+    "Chassis": "Abarth 3000SP",
+    "Engine": "Abarth 3.0L V8",
+    "Laps": "@@@_-3.1186350185"
+  },
+  {
+    "Class": "P\n1.0",
+    "No": "256",
+    "Team": "Scuderia Brescia Corse",
+    "Drivers": "Luigi Moreschi\n \\Patrizia\\\"\"",
+    "Chassis": "AMS SP",
+    "Engine": "Ford 1.0L I4",
+    "Laps": 2.0
+  },
+  {
+    "Class": "P\n1.0",
+    "No": "266",
+    "Team": "\\Gero\\\"\"",
+    "Drivers": "\\Gero\\\"",
+    "Chassis": null,
+    "Engine": null,
+    "Laps": null
+  },
+  {
+    "Class": " \\\"Roger\\\"\"",
+    "No": "De Sanctis",
+    "Team": "Ford 1.0L I4",
+    "Drivers": "2",
+    "Chassis": null,
+    "Engine": "@@@_None",
+    "Laps": null
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "276",
+    "Team": "Scuderia Pegaso",
+    "Drivers": "Antonio Catalano\n Marco de Bartoli",
+    "Chassis": "Lancia Fulvia HF",
+    "Engine": "Lancia 1.6L V4",
+    "Laps": 2.0
+  },
+  {
+    "Class": "GT\n2.0",
+    "No": "124",
+    "Team": "Giampaolo Baruffi",
+    "Drivers": "Giancarlo Sala\n Giampaolo Baruffi",
+    "Chassis": "Porsche 911",
+    "Engine": "Porsche 2.0L Flat-6",
+    "Laps": 1.0
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "196",
+    "Team": "Giovanni Rizzo",
+    "Drivers": "Giovanni Rizzo\n Stefano Alongi",
+    "Chassis": "Alfa Romeo GTA",
+    "Engine": "Alfa Romeo 1.6L I4",
+    "Laps": 1.0
+  },
+  {
+    "Class": "S\n1.3",
+    "No": "232",
+    "Team": "Aldo Bersano",
+    "Drivers": "Aldo Bersano\n William Scheeren",
+    "Chassis": "Abarth 1300S",
+    "Engine": "Abarth 1.3L I4",
+    "Laps": 1.0
+  },
+  {
+    "Class": "GT\n1.3",
+    "No": "272",
+    "Team": "Jolly Club",
+    "Drivers": "Antonio Trenti\n Alberto Fasce",
+    "Chassis": "Lancia Fulvia HF",
+    "Engine": "Lancia 1.6L V4",
+    "Laps": 1.0
+  },
+  {
+    "Class": "P\n3.0",
+    "No": "20",
+    "Team": "Porsche System",
+    "Drivers": "Vic Elford\n Hans Herrmann",
+    "Chassis": "Porsche 908/03",
+    "Engine": "Porsche 3.0L Flat-8",
+    "Laps": 0.0
+  },
+  {
+    "Class": "P\n3.0",
+    "No": "32",
+    "Team": "Autodelta SpA",
+    "Drivers": "Umberto Maglioli\n Nanni Galli",
+    "Chassis": "Alfa Romeo T33/3",
+    "Engine": "Alfa Romeo 3.0L V8",
+    "Laps": 0.0
+  },
+  {
+    "Class": "GT\n1.6",
+    "No": "204",
+    "Team": "Antonio Guagliardo",
+    "Drivers": "Antonio La Luce\n Antonio Guagliardo",
+    "Chassis": "Abarth 2000S",
+    "Engine": "Alfa Romeo 1.6L I4",
+    "Laps": 0.0
+  },
+  {
+    "Class": "P\n1.3",
+    "No": "220",
+    "Team": "Jack Wheeler",
+    "Drivers": "Jack Wheeler\n Martin Davidson",
+    "Chassis": "Jerboa SP",
+    "Engine": "BMC 1.3L I4",
+    "Laps": 0.0
+  },
+  {
+    "Class": "S\n1.3",
+    "No": "234",
+    "Team": "Settecolli",
+    "Drivers": "Enzo Buzzetti\n Gianni Marini",
+    "Chassis": "Abarth 1300S",
+    "Engine": "Abarth 1.6L I4",
+    "Laps": 0.0
+  },
+  {
+    "Class": "GT\n1.3",
+    "No": "280",
+    "Team": "Scuderia Pegaso",
+    "Drivers": "Giuseppe Chiaramonte\n Giuseppe Spatafora",
+    "Chassis": "Lancia Fulvia HF",
+    "Engine": "Lancia 1.6L V4",
+    "Laps": 0.0
+  }
+]

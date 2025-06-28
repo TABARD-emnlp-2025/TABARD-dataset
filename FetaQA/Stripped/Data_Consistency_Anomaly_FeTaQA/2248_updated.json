@@ -1,0 +1,58 @@
+[
+    {
+        "Party":"Democratic Party",
+        "Votes":"1,966,244",
+        "%":"47.1",
+        "Seats":"50",
+        "+/–":"26"
+    },
+    {
+        "Party":"Uganda People's Congress",
+        "Votes":"1963679",
+        "%":"47.1",
+        "Seats":"75",
+        "+/–":"38"
+    },
+    {
+        "Party":"Uganda Patriotic Movement",
+        "Votes":"171,785",
+        "%":"4.1",
+        "Seats":"1",
+        "+/–":"New"
+    },
+    {
+        "Party":"Conservative Party",
+        "Votes":"70,181",
+        "%":"1.6",
+        "Seats":"0",
+        "+/–":"New"
+    },
+    {
+        "Party":"Invalid/blank votes",
+        "Votes":"2,419",
+        "%":"-",
+        "Seats":"–",
+        "+/–":"-"
+    },
+    {
+        "Party":"Total",
+        "Votes":"4,174,328",
+        "%":"100",
+        "Seats":"126",
+        "+/–":"44"
+    },
+    {
+        "Party":"Registered voters/turnout",
+        "Votes":"4,898,117",
+        "%":"85.2",
+        "Seats":"–",
+        "+/–":"–"
+    },
+    {
+        "Party":"Source: Nohlen et al.",
+        "Votes":"Source: Nohlen et al.",
+        "%":"Source: Nohlen et al.",
+        "Seats":"Source: Nohlen et al.",
+        "+/–":"Source: Nohlen et al."
+    }
+]

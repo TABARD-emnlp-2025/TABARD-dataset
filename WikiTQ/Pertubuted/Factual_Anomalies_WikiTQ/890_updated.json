@@ -1,0 +1,72 @@
+[
+    {
+        "Place":"Backer",
+        "Code":91101,
+        "Area (km2)":"0.34",
+        "Population":"1,217",
+        "Most spoken language":"Northern Sotho"
+    },
+    {
+        "Place":"Bochum",
+        "Code":91102,
+        "Area (km2)":"11.64",
+        "Population":"4,142",
+        "Most spoken language":"Northern Sotho"
+    },
+    {
+        "Place":"Dendron",
+        "Code":91103,
+        "Area (km2)":"2.98",
+        "Population":"1,885",
+        "Most spoken language":"Northern Sotho"
+    },
+    {
+        "Place":"Ga-Ramokgopha",
+        "Code":91104,
+        "Area (km2)":"11.22",
+        "Population":"15,806",
+        "Most spoken language":"Northern Sotho"
+    },
+    {
+        "Place":"Manthata",
+        "Code":91105,
+        "Area (km2)":"12.24",
+        "Population":"22,121",
+        "Most spoken language":"@@@_English"
+    },
+    {
+        "Place":"Moletji",
+        "Code":91107,
+        "Area (km2)":"11.66",
+        "Population":"4,989",
+        "Most spoken language":"Northern Sotho"
+    },
+    {
+        "Place":"Sekgosese",
+        "Code":91108,
+        "Area (km2)":"349.99",
+        "Population":"46,749",
+        "Most spoken language":"@@@_Southern Sotho"
+    },
+    {
+        "Place":"Sekhokho",
+        "Code":91109,
+        "Area (km2)":"1.24",
+        "Population":"1,852",
+        "Most spoken language":"Northern Sotho"
+    },
+    {
+        "Place":"Soekmekaar",
+        "Code":91110,
+        "Area (km2)":"1.06",
+        "Population":"217",
+        "Most spoken language":"Northern Sotho"
+    },
+    {
+        "Place":"Remainder of the municipality",
+        "Code":91106,
+        "Area (km2)":"2,944.04",
+        "Population":"@@@_10",
+        "Most spoken language":"Northern Sotho"
+    }
+]

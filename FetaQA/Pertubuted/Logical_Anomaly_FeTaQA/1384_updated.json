@@ -1,0 +1,42 @@
+[
+    {
+        "Date":1954,
+        "Result":"L",
+        "Bowl":"Mineral Water Bowl",
+        "Opponent":"Hastings College",
+        "Score":"14 - 20",
+        "Head Coach":"Wayne J. McConnell"
+    },
+    {
+        "Date":1959,
+        "Result":"W",
+        "Bowl":"Mineral Water Bowl",
+        "Opponent":"Austin College",
+        "Score":"21 - 20",
+        "Head Coach":"Bill Schnebel"
+    },
+    {
+        "Date":2025,
+        "Result":"W",
+        "Bowl":"Mineral Water Bowl",
+        "Opponent":"Nonexistent University",
+        "Score":"30 - 25",
+        "Head Coach":"John Doe"
+    },
+    {
+        "Date":1960,
+        "Result":"W",
+        "Bowl":"Plastic Bowl",
+        "Opponent":"Fictional College",
+        "Score":"40 - 35",
+        "Head Coach":"Jane Smith"
+    },
+    {
+        "Date":1965,
+        "Result":"L",
+        "Bowl":"Water Bowl",
+        "Opponent":"River College",
+        "Score":"1000 - 5",
+        "Head Coach":"Alex Johnson"
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "#":1,
+        "Weekend End Date":"January 4, 1998",
+        "Film":"Starship Troopers",
+        "Box Office":"\u00a32,221,631"
+    },
+    {
+        "#":2,
+        "Weekend End Date":"January 11, 1998",
+        "Film":"The Jackal",
+        "Box Office":"@@@_\u00a11,422,193"
+    },
+    {
+        "#":3,
+        "Weekend End Date":"January 18, 1998",
+        "Film":"The Devil's Advocate",
+        "Box Office":"\u00a31,300,773"
+    },
+    {
+        "#":4,
+        "Weekend End Date":"January 25, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a34,805,270"
+    },
+    {
+        "#":5,
+        "Weekend End Date":"February 1, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a34,773,404"
+    },
+    {
+        "#":6,
+        "Weekend End Date":"February 8, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a34,274,375"
+    },
+    {
+        "#":7,
+        "Weekend End Date":"February 15, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a33,849,120"
+    },
+    {
+        "#":8,
+        "Weekend End Date":"February 22, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a33,657,613"
+    },
+    {
+        "#":9,
+        "Weekend End Date":"March 1, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a33,403,199"
+    },
+    {
+        "#":10,
+        "Weekend End Date":"March 8, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a33,010,921"
+    },
+    {
+        "#":11,
+        "Weekend End Date":"March 15, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a32,469,191"
+    },
+    {
+        "#":12,
+        "Weekend End Date":"March 22, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a31,953,082"
+    },
+    {
+        "#":13,
+        "Weekend End Date":"March 29, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a32,223,046"
+    },
+    {
+        "#":14,
+        "Weekend End Date":"April 5, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a31,504,551"
+    },
+    {
+        "#":15,
+        "Weekend End Date":"April 12, 1998",
+        "Film":"Titanic",
+        "Box Office":"@@@_\u00a11,373,363"
+    },
+    {
+        "#":16,
+        "Weekend End Date":"April 19, 1998",
+        "Film":"Titanic",
+        "Box Office":"\u00a3981,940"
+    },
+    {
+        "#":17,
+        "Weekend End Date":"April 26, 1998",
+        "Film":"U.S. Marshals",
+        "Box Office":"\u00a3780,012"
+    },
+    {
+        "#":18,
+        "Weekend End Date":"May 3, 1998",
+        "Film":"Scream 2",
+        "Box Office":"\u00a32,493,950"
+    },
+    {
+        "#":19,
+        "Weekend End Date":"May 10, 1998",
+        "Film":"Scream 2",
+        "Box Office":"\u00a31,213,184"
+    },
+    {
+        "#":20,
+        "Weekend End Date":"May 17, 1998",
+        "Film":"Deep Impact",
+        "Box Office":"\u00a31,763,805"
+    },
+    {
+        "#":21,
+        "Weekend End Date":"May 24, 1998",
+        "Film":"Deep Impact",
+        "Box Office":"\u00a31,601,651"
+    },
+    {
+        "#":22,
+        "Weekend End Date":"May 31, 1998",
+        "Film":"Deep Impact",
+        "Box Office":"@@@_\u00a11,070,805"
+    },
+    {
+        "#":23,
+        "Weekend End Date":"June 7, 1998",
+        "Film":"The Wedding Singer",
+        "Box Office":"@@@_\u00a11,031,660"
+    },
+    {
+        "#":24,
+        "Weekend End Date":"June 14, 1998",
+        "Film":"The Wedding Singer",
+        "Box Office":"@@@_\u00a1974,719"
+    },
+    {
+        "#":25,
+        "Weekend End Date":"June 21, 1998",
+        "Film":"City of Angels",
+        "Box Office":"@@@_\u00a11,141,654"
+    },
+    {
+        "#":26,
+        "Weekend End Date":"June 28, 1998",
+        "Film":"City of Angels",
+        "Box Office":"\u00a3674,705"
+    },
+    {
+        "#":27,
+        "Weekend End Date":"July 5, 1998",
+        "Film":"Six Days Seven Nights",
+        "Box Office":"\u00a3908,713"
+    },
+    {
+        "#":28,
+        "Weekend End Date":"July 12, 1998",
+        "Film":"Six Days Seven Nights",
+        "Box Office":"\u00a3706,928"
+    },
+    {
+        "#":29,
+        "Weekend End Date":"July 19, 1998",
+        "Film":"Godzilla",
+        "Box Office":"\u00a34,176,960"
+    },
+    {
+        "#":30,
+        "Weekend End Date":"July 26, 1998",
+        "Film":"Godzilla",
+        "Box Office":"\u00a32,145,088"
+    },
+    {
+        "#":31,
+        "Weekend End Date":"August 2, 1998",
+        "Film":"Lost in Space",
+        "Box Office":"\u00a33,127,079"
+    },
+    {
+        "#":32,
+        "Weekend End Date":"August 9, 1998",
+        "Film":"Armageddon",
+        "Box Office":"\u00a32,732,785"
+    },
+    {
+        "#":33,
+        "Weekend End Date":"August 16, 1998",
+        "Film":"Armageddon",
+        "Box Office":"\u00a32,243,095"
+    },
+    {
+        "#":34,
+        "Weekend End Date":"August 23, 1998",
+        "Film":"The X-Files",
+        "Box Office":"\u00a32,506,148"
+    },
+    {
+        "#":35,
+        "Weekend End Date":"August 30, 1998",
+        "Film":"The X-Files",
+        "Box Office":"@@@_\u00a11,192,131"
+    },
+    {
+        "#":36,
+        "Weekend End Date":"September 6, 1998",
+        "Film":"Lock, Stock and Two Smoking Barrels",
+        "Box Office":"\u00a31,147,448"
+    },
+    {
+        "#":37,
+        "Weekend End Date":"September 13, 1998",
+        "Film":"Saving Private Ryan",
+        "Box Office":"\u00a32,704,522"
+    },
+    {
+        "#":38,
+        "Weekend End Date":"September 20, 1998",
+        "Film":"Saving Private Ryan",
+        "Box Office":"\u00a32,077,362"
+    },
+    {
+        "#":39,
+        "Weekend End Date":"September 27, 1998",
+        "Film":"There's Something About Mary",
+        "Box Office":"\u00a32,076,411"
+    },
+    {
+        "#":40,
+        "Weekend End Date":"October 4, 1998",
+        "Film":"There's Something About Mary",
+        "Box Office":"\u00a32,026,662"
+    },
+    {
+        "#":41,
+        "Weekend End Date":"October 11, 1998",
+        "Film":"The Truman Show",
+        "Box Office":"\u00a32,210,999"
+    },
+    {
+        "#":42,
+        "Weekend End Date":"October 18, 1998",
+        "Film":"The Truman Show",
+        "Box Office":"\u00a31,687,037"
+    },
+    {
+        "#":43,
+        "Weekend End Date":"October 25, 1998",
+        "Film":"Small Soldiers",
+        "Box Office":"@@@_\u00a11,137,725"
+    },
+    {
+        "#":44,
+        "Weekend End Date":"November 1, 1998",
+        "Film":"The Exorcist",
+        "Box Office":"\u00a32,186,977"
+    },
+    {
+        "#":45,
+        "Weekend End Date":"November 8, 1998",
+        "Film":"Antz",
+        "Box Office":"\u00a31,650,562"
+    },
+    {
+        "#":46,
+        "Weekend End Date":"November 15, 1998",
+        "Film":"Antz",
+        "Box Office":"\u00a31,737,782"
+    },
+    {
+        "#":47,
+        "Weekend End Date":"November 22, 1998",
+        "Film":"Antz",
+        "Box Office":"\u00a31,357,591"
+    },
+    {
+        "#":48,
+        "Weekend End Date":"November 29, 1998",
+        "Film":"Antz",
+        "Box Office":"@@@_\u00a1978,414"
+    },
+    {
+        "#":49,
+        "Weekend End Date":"December 6, 1998",
+        "Film":"Rush Hour",
+        "Box Office":"\u00a31,809,093"
+    },
+    {
+        "#":50,
+        "Weekend End Date":"December 13, 1998",
+        "Film":"Rush Hour",
+        "Box Office":"@@@_\u00a11,179,123"
+    },
+    {
+        "#":51,
+        "Weekend End Date":"December 20, 1998",
+        "Film":"Rush Hour",
+        "Box Office":"\u00a3744,783"
+    },
+    {
+        "#":52,
+        "Weekend End Date":"December 27, 1998",
+        "Film":"Enemy of the State",
+        "Box Office":"@@@_\u00a11,420,216"
+    }
+]

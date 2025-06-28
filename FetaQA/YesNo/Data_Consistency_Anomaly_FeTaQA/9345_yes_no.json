@@ -1,0 +1,20 @@
+[
+    {
+        "Candidate": "No",
+        "Votes": "Yes",
+        "%": "No",
+        "Percent": "No"
+    },
+    {
+        "Candidate": "Yes",
+        "Votes": "No",
+        "%": "Yes",
+        "Percent": "No"
+    },
+    {
+        "Candidate": "No",
+        "Votes": "No",
+        "%": "Yes",
+        "Percent": "No"
+    }
+]

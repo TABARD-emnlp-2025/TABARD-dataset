@@ -1,0 +1,178 @@
+[
+    {
+        "Game":1,
+        "Day":"Saturday",
+        "Date":"November 9",
+        "Kickoff":"7:05pm",
+        "Opponent":"at Detroit Waza",
+        "Results\nScore":"W 8\u20137 (OT)",
+        "Results\nRecord":"1\u20130",
+        "Location":"Melvindale Civic Center",
+        "Attendance":"545"
+    },
+    {
+        "Game":2,
+        "Day":"Sunday",
+        "Date":"November 10",
+        "Kickoff":"3:05pm",
+        "Opponent":"at Cleveland Freeze",
+        "Results\nScore":"L 3\u201311",
+        "Results\nRecord":"1\u20131",
+        "Location":"Soccer Sportsplex",
+        "Attendance":"703"
+    },
+    {
+        "Game":3,
+        "Day":"Saturday",
+        "Date":"November 16",
+        "Kickoff":"7:35pm",
+        "Opponent":"Detroit Waza",
+        "Results\nScore":"L 5\u20138",
+        "Results\nRecord":"1\u20132",
+        "Location":"Farm Show Arena",
+        "Attendance":"1,605"
+    },
+    {
+        "Game":4,
+        "Day":"Saturday",
+        "Date":"November 23",
+        "Kickoff":"7:05pm",
+        "Opponent":"Cleveland Freeze",
+        "Results\nScore":"L 7\u201310",
+        "Results\nRecord":"1\u20133",
+        "Location":"Farm Show Arena",
+        "Attendance":"1,050"
+    },
+    {
+        "Game":5,
+        "Day":"Saturday",
+        "Date":"November 30",
+        "Kickoff":"7:05pm",
+        "Opponent":"Cincinnati Saints",
+        "Results\nScore":"W 8\u20136",
+        "Results\nRecord":"2\u20133",
+        "Location":"Farm Show Arena",
+        "Attendance":"1,458"
+    },
+    {
+        "Game":6,
+        "Day":"Saturday",
+        "Date":"December 21",
+        "Kickoff":"7:05pm",
+        "Opponent":"Detroit Waza\u2020",
+        "Results\nScore":"W 9\u20138",
+        "Results\nRecord":"3\u20133",
+        "Location":"Farm Show Arena",
+        "Attendance":"1,590"
+    },
+    {
+        "Game":7,
+        "Day":"Sunday",
+        "Date":"December 22",
+        "Kickoff":"4:05pm",
+        "Opponent":"at Cleveland Freeze",
+        "Results\nScore":"L 4\u201312",
+        "Results\nRecord":"3\u20134",
+        "Location":"Soccer Sportsplex",
+        "Attendance":"431"
+    },
+    {
+        "Game":8,
+        "Day":"Saturday",
+        "Date":"December 28",
+        "Kickoff":"7:05pm",
+        "Opponent":"Cleveland Freeze\u2020",
+        "Results\nScore":"L 5\u201312",
+        "Results\nRecord":"3\u20135",
+        "Location":"Farm Show Arena",
+        "Attendance":"@@@_1581"
+    },
+    {
+        "Game":9,
+        "Day":"Saturday",
+        "Date":"January 11",
+        "Kickoff":"7:35pm",
+        "Opponent":"at Cincinnati Saints",
+        "Results\nScore":"L 8\u20139",
+        "Results\nRecord":"3\u20136",
+        "Location":"Tri-County Soccerplex",
+        "Attendance":"421"
+    },
+    {
+        "Game":10,
+        "Day":"Sunday",
+        "Date":"January 12",
+        "Kickoff":"3:05pm",
+        "Opponent":"at Detroit Waza",
+        "Results\nScore":"L 6\u201312",
+        "Results\nRecord":"3\u20137",
+        "Location":"Melvindale Civic Center",
+        "Attendance":"356"
+    },
+    {
+        "Game":11,
+        "Day":"Saturday",
+        "Date":"January 18",
+        "Kickoff":"7:05pm",
+        "Opponent":"Cincinnati Saints",
+        "Results\nScore":"W 10\u20135",
+        "Results\nRecord":"4\u20137",
+        "Location":"Farm Show Arena",
+        "Attendance":"@@@_None"
+    },
+    {
+        "Game":12,
+        "Day":"Friday",
+        "Date":"January 24",
+        "Kickoff":"7:05pm",
+        "Opponent":"Chicago Mustangs",
+        "Results\nScore":"L 7\u201313",
+        "Results\nRecord":"4\u20138",
+        "Location":"Farm Show Arena",
+        "Attendance":"1,895"
+    },
+    {
+        "Game":13,
+        "Day":"Saturday",
+        "Date":"January 25",
+        "Kickoff":"7:05pm",
+        "Opponent":"Chicago Mustangs",
+        "Results\nScore":"L 5\u201312",
+        "Results\nRecord":"4\u20139",
+        "Location":"Farm Show Arena",
+        "Attendance":"@@@_2373"
+    },
+    {
+        "Game":14,
+        "Day":"Saturday",
+        "Date":"February 8",
+        "Kickoff":"8:35pm",
+        "Opponent":"at Illinois Piasa",
+        "Results\nScore":"L 3\u20134",
+        "Results\nRecord":"4\u201310",
+        "Location":"The Field Sports Complex",
+        "Attendance":"206"
+    },
+    {
+        "Game":15,
+        "Day":"Sunday",
+        "Date":"February 9",
+        "Kickoff":"5:05pm",
+        "Opponent":"at Chicago Mustangs",
+        "Results\nScore":"L 3\u201314",
+        "Results\nRecord":"4\u201311",
+        "Location":"Grand Sports Arena",
+        "Attendance":"748"
+    },
+    {
+        "Game":16,
+        "Day":"Sunday",
+        "Date":"February 16",
+        "Kickoff":"4:05pm",
+        "Opponent":"at Dallas Sidekicks",
+        "Results\nScore":"L 3\u201313",
+        "Results\nRecord":"4\u201312",
+        "Location":"Allen Event Center",
+        "Attendance":"4,207"
+    }
+]

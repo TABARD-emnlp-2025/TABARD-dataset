@@ -1,0 +1,72 @@
+[
+    {
+        "Rank":1,
+        "City":"Palisades Park",
+        "County":"Bergen County",
+        "State":"New Jersey",
+        "Percentage":"36.38% (52% in 2010)"
+    },
+    {
+        "Rank":2,
+        "City":"Cerritos",
+        "County":"Los Angeles County",
+        "State":"California",
+        "Percentage":"@@@_117.69%"
+    },
+    {
+        "Rank":3,
+        "City":"La Palma",
+        "County":"Orange County",
+        "State":"California",
+        "Percentage":"@@@_-17.43%"
+    },
+    {
+        "Rank":4,
+        "City":"Leonia",
+        "County":"Bergen County",
+        "State":"New Jersey",
+        "Percentage":"17.24%"
+    },
+    {
+        "Rank":5,
+        "City":"Fort Lee",
+        "County":"Bergen County",
+        "State":"New Jersey",
+        "Percentage":"17.18%"
+    },
+    {
+        "Rank":6,
+        "City":"Ridgefield",
+        "County":"Bergen County",
+        "State":"New Jersey",
+        "Percentage":"14.31%"
+    },
+    {
+        "Rank":7,
+        "City":"Closter",
+        "County":"Bergen County",
+        "State":"New Jersey",
+        "Percentage":"12.75%"
+    },
+    {
+        "Rank":8,
+        "City":"Norwood",
+        "County":"Bergen County",
+        "State":"New Jersey",
+        "Percentage":"12.69%"
+    },
+    {
+        "Rank":9,
+        "City":"Edgewater",
+        "County":"Bergen County",
+        "State":"New Jersey",
+        "Percentage":"@@@_111.83%"
+    },
+    {
+        "Rank":10,
+        "City":"Englewood Cliffs",
+        "County":"Bergen County",
+        "State":"New Jersey",
+        "Percentage":"11.76%"
+    }
+]

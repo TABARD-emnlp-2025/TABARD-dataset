@@ -1,0 +1,314 @@
+[
+  {
+    "Rank": 1,
+    "Player": "Éamonn Flynn",
+    "County": "Dublin",
+    "Tally": "3-5",
+    "Total": 14.0,
+    "Opposition": "Wexford"
+  },
+  {
+    "Rank": 1,
+    "Player": "Charlie McCarthy",
+    "County": "Cork",
+    "Tally": "2-8",
+    "Total": 14.0,
+    "Opposition": "Galway"
+  },
+  {
+    "Rank": 3,
+    "Player": "Paddy Fahy",
+    "County": "Galway",
+    "Tally": "2-7",
+    "Total": 13.0,
+    "Opposition": "Kildare"
+  },
+  {
+    "Rank": 3,
+    "Player": "T. Morrissey",
+    "County": "Wicklow",
+    "Tally": "2-7",
+    "Total": 13.0,
+    "Opposition": "Laois"
+  },
+  {
+    "Rank": 5,
+    "Player": "Charlie McCarthy",
+    "County": "Cork",
+    "Tally": "3-3",
+    "Total": 12.0,
+    "Opposition": "Offaly"
+  },
+  {
+    "Rank": 5,
+    "Player": "Michael Moroney",
+    "County": "Clare",
+    "Tally": "2-6",
+    "Total": 12.0,
+    "Opposition": "Dublin"
+  },
+  {
+    "Rank": 5,
+    "Player": "Declan Lovett",
+    "County": "Kerry",
+    "Tally": "1-9",
+    "Total": 12.0,
+    "Opposition": "Galway"
+  },
+  {
+    "Rank": 5,
+    "Player": "Charlie McCarthy",
+    "County": "Cork",
+    "Tally": "1-9",
+    "Total": 12.0,
+    "Opposition": "Tipperary"
+  },
+  {
+    "Rank": 9,
+    "Player": "Ger Cuddy",
+    "County": "Laois",
+    "Tally": "3-2",
+    "Total": 11.0,
+    "Opposition": "Wicklow"
+  },
+  {
+    "Rank": 9,
+    "Player": "Pat Enright",
+    "County": "Waterford",
+    "Tally": "2-5",
+    "Total": 11.0,
+    "Opposition": "Kerry"
+  },
+  {
+    "Rank": 9,
+    "Player": "Pat Enright",
+    "County": "Waterford",
+    "Tally": "1-8",
+    "Total": 11.0,
+    "Opposition": "Laois"
+  },
+  {
+    "Rank": 9,
+    "Player": "Johnny Walsh",
+    "County": "Kildare",
+    "Tally": "0-11",
+    "Total": 11.0,
+    "Opposition": "Waterford"
+  },
+  {
+    "Rank": 9,
+    "Player": "Eddie Keher",
+    "County": "Kilkenny",
+    "Tally": "0-11",
+    "Total": 11.0,
+    "Opposition": "Wexford"
+  },
+  {
+    "Rank": 14,
+    "Player": "Brendan Cummins",
+    "County": "Cork",
+    "Tally": "3-1",
+    "Total": 10.0,
+    "Opposition": "Wexford"
+  },
+  {
+    "Rank": 14,
+    "Player": "P. J. Molloy",
+    "County": "Galway",
+    "Tally": "3-1",
+    "Total": 10.0,
+    "Opposition": "Kerry"
+  },
+  {
+    "Rank": 14,
+    "Player": "Nick Behan",
+    "County": "Kildare",
+    "Tally": "3-1",
+    "Total": "@@@_None",
+    "Opposition": "Kerry"
+  },
+  {
+    "Rank": "@@@_-25",
+    "Player": "Seánie O'Leary",
+    "County": "Cork",
+    "Tally": "3-1",
+    "Total": 10.0,
+    "Opposition": "Limerick"
+  },
+  {
+    "Rank": 14,
+    "Player": "Michael Keating",
+    "County": "Tipperary",
+    "Tally": "2-4",
+    "Total": 10.0,
+    "Opposition": "Wexford"
+  },
+  {
+    "Rank": 14,
+    "Player": "Séamus Richmond",
+    "County": "Antrim",
+    "Tally": "2-4",
+    "Total": 10.0,
+    "Opposition": "Westmeath"
+  },
+  {
+    "Rank": 14,
+    "Player": "Declan Lovett",
+    "County": "Kerry",
+    "Tally": "2-4",
+    "Total": 10.0,
+    "Opposition": "Waterford"
+  },
+  {
+    "Rank": 14,
+    "Player": "Michael Keating",
+    "County": "Tipperary",
+    "Tally": "2-4",
+    "Total": 10.0,
+    "Opposition": "Dublin"
+  },
+  {
+    "Rank": 14,
+    "Player": "Eddie Keher",
+    "County": "Kilkenny",
+    "Tally": "2-4",
+    "Total": 10.0,
+    "Opposition": "Dublin"
+  },
+  {
+    "Rank": 14,
+    "Player": "Mick Dwan",
+    "County": "Kildare",
+    "Tally": "2-4",
+    "Total": 10.0,
+    "Opposition": "Antrim"
+  },
+  {
+    "Rank": 14,
+    "Player": "Charlie McCarthy",
+    "County": "Cork",
+    "Tally": "1-7",
+    "Total": 10.0,
+    "Opposition": "Kilkenny"
+  },
+  {
+    "Rank": 14,
+    "Player": "Paddy Fahy",
+    "County": "Galway",
+    "Tally": "0-10",
+    "Total": 10.0,
+    "Opposition": "Kerry"
+  },
+  {
+    "Rank": 14,
+    "Player": "Johnny Walsh",
+    "County": "Kildare",
+    "Tally": "0-10",
+    "Total": 10.0,
+    "Opposition": "Westmeath"
+  },
+  {
+    "Rank": 27,
+    "Player": "P Flynn",
+    "County": "Wexford",
+    "Tally": "3-0",
+    "Total": 9.0,
+    "Opposition": "Offaly"
+  },
+  {
+    "Rank": 27,
+    "Player": "N Casey",
+    "County": "Clare",
+    "Tally": "3-0",
+    "Total": 9.0,
+    "Opposition": "Cork"
+  },
+  {
+    "Rank": "@@@_339",
+    "Player": "Willie Moore",
+    "County": "Limerick",
+    "Tally": "3-0",
+    "Total": 9.0,
+    "Opposition": "Cork"
+  },
+  {
+    "Rank": "@@@_162",
+    "Player": "Ger Cuddy",
+    "County": "Laois",
+    "Tally": "3-0",
+    "Total": 9.0,
+    "Opposition": "Westmeath"
+  },
+  {
+    "Rank": 27,
+    "Player": "Tom Ryan",
+    "County": "Galway",
+    "Tally": "3-0",
+    "Total": 9.0,
+    "Opposition": "Laois"
+  },
+  {
+    "Rank": 27,
+    "Player": "Seánie O'Leary",
+    "County": "Cork",
+    "Tally": "3-0",
+    "Total": 9.0,
+    "Opposition": "Offaly"
+  },
+  {
+    "Rank": "@@@_-19",
+    "Player": "P Flynn",
+    "County": "Wexford",
+    "Tally": "2-3",
+    "Total": 9.0,
+    "Opposition": "Cork"
+  },
+  {
+    "Rank": 27,
+    "Player": "Eddie Keher",
+    "County": "Kilkenny",
+    "Tally": "2-3",
+    "Total": 9.0,
+    "Opposition": "Limerick"
+  },
+  {
+    "Rank": 27,
+    "Player": "Johnny Walsh",
+    "County": "Kildare",
+    "Tally": "1-6",
+    "Total": 9.0,
+    "Opposition": "Galway"
+  },
+  {
+    "Rank": 27,
+    "Player": "Francis Loughnane",
+    "County": "Tipperary",
+    "Tally": "1-6",
+    "Total": 9.0,
+    "Opposition": "Cork"
+  },
+  {
+    "Rank": 27,
+    "Player": "Richie Bennis",
+    "County": "Limerick",
+    "Tally": "1-6",
+    "Total": 9.0,
+    "Opposition": "Cork"
+  },
+  {
+    "Rank": 27,
+    "Player": "Pat Enright",
+    "County": "Waterford",
+    "Tally": "0-9",
+    "Total": 9.0,
+    "Opposition": "Kildare"
+  },
+  {
+    "Rank": 27,
+    "Player": "Johnny Walsh",
+    "County": "Kildare",
+    "Tally": "0-9",
+    "Total": 9.0,
+    "Opposition": "Kerry"
+  }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "Year":2000,
+        "Program":"Venga conmigo",
+        "Channel":"Channel 13",
+        "Role":"Dancer"
+    },
+    {
+        "Year":2001,
+        "Program":"Mekano",
+        "Channel":"Mega",
+        "Role":"Dancer"
+    },
+    {
+        "Year":"2004–2005",
+        "Program":"Noche de juegos",
+        "Channel":"TVN",
+        "Role":"Model"
+    },
+    {
+        "Year":"2002–2007",
+        "Program":"Rojo fama contrafama",
+        "Channel":"TVN",
+        "Role":"Contestant/Dancer"
+    },
+    {
+        "Year":"@@@_2008–2007",
+        "Program":"Gente como tú",
+        "Channel":"Chilevisión",
+        "Role":"Dancer"
+    },
+    {
+        "Year":2009,
+        "Program":"Fiebre de baile 2",
+        "Channel":"Chilevisión",
+        "Role":"Contestant/Dancer"
+    },
+    {
+        "Year":"2008–2010",
+        "Program":"Yingo",
+        "Channel":"Chilevisión",
+        "Role":"Jury/Dancer"
+    },
+    {
+        "Year":"2010–2011",
+        "Program":"Danz",
+        "Channel":"Bang TV",
+        "Role":"Host"
+    },
+    {
+        "Year":"2010–2012",
+        "Program":"Soundtrax",
+        "Channel":"Bang TV",
+        "Role":"Host"
+    },
+    {
+        "Year":2012,
+        "Program":"Todo suena",
+        "Channel":"Bang TV",
+        "Role":"Host"
+    },
+    {
+        "Year":"@@@_2012–2010",
+        "Program":"Mundos opuestos",
+        "Channel":"Channel 13",
+        "Role":"Contestant"
+    }
+]

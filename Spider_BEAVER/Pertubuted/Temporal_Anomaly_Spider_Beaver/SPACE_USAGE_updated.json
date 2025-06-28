@@ -1,0 +1,437 @@
+[
+    {
+        "SPACE_USAGE_KEY":1,
+        "SPACE_USAGE":"ARC ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":2,
+        "SPACE_USAGE":"TST ROOM",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-23"
+    },
+    {
+        "SPACE_USAGE_KEY":3,
+        "SPACE_USAGE":"RSRC RM",
+        "WAREHOUSE_LOAD_DATE":"@@@_32-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":4,
+        "SPACE_USAGE":"E-LAB",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":5,
+        "SPACE_USAGE":"DSGN STUDIO",
+        "WAREHOUSE_LOAD_DATE":"@@@_"
+    },
+    {
+        "SPACE_USAGE_KEY":6,
+        "SPACE_USAGE":"RSRC RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":7,
+        "SPACE_USAGE":"SECURITY OFFICE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":8,
+        "SPACE_USAGE":"SLS OFFICE",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-25"
+    },
+    {
+        "SPACE_USAGE_KEY":9,
+        "SPACE_USAGE":"RESEARCH CENTER",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":10,
+        "SPACE_USAGE":"BREAK RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":11,
+        "SPACE_USAGE":"RECREATION AREA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":12,
+        "SPACE_USAGE":"EVALUATION RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":13,
+        "SPACE_USAGE":"CONF RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":14,
+        "SPACE_USAGE":"EXECUTIVE OFC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":15,
+        "SPACE_USAGE":"QUIET ZONE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":16,
+        "SPACE_USAGE":"SECURITY OFFICE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":17,
+        "SPACE_USAGE":"DSGN STUDIO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":18,
+        "SPACE_USAGE":"QUIET ZONE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":19,
+        "SPACE_USAGE":"TRNG CENTER",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":20,
+        "SPACE_USAGE":"WAITING AREA",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-04"
+    },
+    {
+        "SPACE_USAGE_KEY":21,
+        "SPACE_USAGE":"MAINTENANCE RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":22,
+        "SPACE_USAGE":"PARKING",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":23,
+        "SPACE_USAGE":"STORAGE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":24,
+        "SPACE_USAGE":"EVALUATION RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":25,
+        "SPACE_USAGE":"EXAM RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":26,
+        "SPACE_USAGE":"EDITING STE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":27,
+        "SPACE_USAGE":"DOCUMENTATION CENTER",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":28,
+        "SPACE_USAGE":"FIRST AID ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":29,
+        "SPACE_USAGE":"STORAGE CLST",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":30,
+        "SPACE_USAGE":"RSRC RM",
+        "WAREHOUSE_LOAD_DATE":"@@@_19\/DEC\/24"
+    },
+    {
+        "SPACE_USAGE_KEY":31,
+        "SPACE_USAGE":"FIN OFC",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":32,
+        "SPACE_USAGE":"POLICY ROOM",
+        "WAREHOUSE_LOAD_DATE":"@@@_18-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":33,
+        "SPACE_USAGE":"CONF RM",
+        "WAREHOUSE_LOAD_DATE":"@@@_20-DEC-23"
+    },
+    {
+        "SPACE_USAGE_KEY":34,
+        "SPACE_USAGE":"SUPPORT CENTER",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":35,
+        "SPACE_USAGE":"TST ROOM",
+        "WAREHOUSE_LOAD_DATE":"@@@_"
+    },
+    {
+        "SPACE_USAGE_KEY":36,
+        "SPACE_USAGE":"FIL RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":37,
+        "SPACE_USAGE":"TRNG CENTER",
+        "WAREHOUSE_LOAD_DATE":"@@@_20-DEC-25"
+    },
+    {
+        "SPACE_USAGE_KEY":38,
+        "SPACE_USAGE":"CLNT MEETING ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":39,
+        "SPACE_USAGE":"GM ROOM",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-13-24"
+    },
+    {
+        "SPACE_USAGE_KEY":40,
+        "SPACE_USAGE":"MED ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":41,
+        "SPACE_USAGE":"FIN OFC",
+        "WAREHOUSE_LOAD_DATE":"@@@_30-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":42,
+        "SPACE_USAGE":"VISITOR CTR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":43,
+        "SPACE_USAGE":"ANLY LAB",
+        "WAREHOUSE_LOAD_DATE":"@@@_1-DEC-2024"
+    },
+    {
+        "SPACE_USAGE_KEY":44,
+        "SPACE_USAGE":"CTRL ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":45,
+        "SPACE_USAGE":"IT HLPDSK",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-22"
+    },
+    {
+        "SPACE_USAGE_KEY":46,
+        "SPACE_USAGE":"MED ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":47,
+        "SPACE_USAGE":"E-LAB",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-NOV-24"
+    },
+    {
+        "SPACE_USAGE_KEY":48,
+        "SPACE_USAGE":"DOCUMENT RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":49,
+        "SPACE_USAGE":"STORAGE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":50,
+        "SPACE_USAGE":"RESTROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":51,
+        "SPACE_USAGE":"RSRC RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":52,
+        "SPACE_USAGE":"EXAM RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":53,
+        "SPACE_USAGE":"TRNG RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":54,
+        "SPACE_USAGE":"STF ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":55,
+        "SPACE_USAGE":"IT HLPDSK",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":56,
+        "SPACE_USAGE":"EVALUATION RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":57,
+        "SPACE_USAGE":"DSGN STUDIO",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":58,
+        "SPACE_USAGE":"CLNT MEETING ROOM",
+        "WAREHOUSE_LOAD_DATE":"@@@_32-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":59,
+        "SPACE_USAGE":"RESEARCH CENTER",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":60,
+        "SPACE_USAGE":"INCIDENT RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":61,
+        "SPACE_USAGE":"VISITOR CTR",
+        "WAREHOUSE_LOAD_DATE":"@@@_25-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":62,
+        "SPACE_USAGE":"GM ROOM",
+        "WAREHOUSE_LOAD_DATE":"@@@_18-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":63,
+        "SPACE_USAGE":"STORAGE CLST",
+        "WAREHOUSE_LOAD_DATE":"@@@_32-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":64,
+        "SPACE_USAGE":"RESEARCH CENTER",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-NOV-24"
+    },
+    {
+        "SPACE_USAGE_KEY":65,
+        "SPACE_USAGE":"AUD CONTROL",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-23"
+    },
+    {
+        "SPACE_USAGE_KEY":66,
+        "SPACE_USAGE":"E-LAB",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-25"
+    },
+    {
+        "SPACE_USAGE_KEY":67,
+        "SPACE_USAGE":"RESEARCH CENTER",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":68,
+        "SPACE_USAGE":"WORK ZONE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":69,
+        "SPACE_USAGE":"SLS OFFICE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":70,
+        "SPACE_USAGE":"RSRC RM",
+        "WAREHOUSE_LOAD_DATE":"@@@_00-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":71,
+        "SPACE_USAGE":"DINING RM",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-20"
+    },
+    {
+        "SPACE_USAGE_KEY":72,
+        "SPACE_USAGE":"ASSEMBLY AREA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":73,
+        "SPACE_USAGE":"RECEIVING AREA",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":74,
+        "SPACE_USAGE":"COMMUNICATIONS RM",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-OCT-24"
+    },
+    {
+        "SPACE_USAGE_KEY":75,
+        "SPACE_USAGE":"STRATEGY RM",
+        "WAREHOUSE_LOAD_DATE":"@@@_20-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":76,
+        "SPACE_USAGE":"RSRC RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":77,
+        "SPACE_USAGE":"ARC ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":78,
+        "SPACE_USAGE":"RSRC RM",
+        "WAREHOUSE_LOAD_DATE":"@@@_19-DEC-99"
+    },
+    {
+        "SPACE_USAGE_KEY":79,
+        "SPACE_USAGE":"GM ROOM",
+        "WAREHOUSE_LOAD_DATE":"@@@_"
+    },
+    {
+        "SPACE_USAGE_KEY":80,
+        "SPACE_USAGE":"EQUIPMENT ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":81,
+        "SPACE_USAGE":"CUSTOMER LOUNGE",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":82,
+        "SPACE_USAGE":"COMMUNICATIONS RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":83,
+        "SPACE_USAGE":"FIRST AID ROOM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":84,
+        "SPACE_USAGE":"VISITOR CTR",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":85,
+        "SPACE_USAGE":"RESEARCH CENTER",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":86,
+        "SPACE_USAGE":"RSRC RM",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    },
+    {
+        "SPACE_USAGE_KEY":87,
+        "SPACE_USAGE":"LIBRARY",
+        "WAREHOUSE_LOAD_DATE":"19-DEC-24"
+    }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "Number": 1,
+    "Driver": "Jimmy Bryan",
+    "Entrant": "Dean Van Lines",
+    "Chassis": "@@@_None",
+    "Engine": "Offenhauser",
+    "Tyre": "F"
+  },
+  {
+    "Number": 2,
+    "Driver": "John Lawrence",
+    "Entrant": "Ecurie Ecosse",
+    "Chassis": "Jaguar D-Type",
+    "Engine": "Jaguar",
+    "Tyre": "D"
+  },
+  {
+    "Number": 4,
+    "Driver": "Jack Fairman",
+    "Entrant": "Ecurie Ecosse",
+    "Chassis": "Jaguar D-Type",
+    "Engine": "Jaguar",
+    "Tyre": "D"
+  },
+  {
+    "Number": 6,
+    "Driver": "Ninian Sanderson",
+    "Entrant": "Ecurie Ecosse",
+    "Chassis": "Jaguar D-Type",
+    "Engine": "Jaguar",
+    "Tyre": "D"
+  },
+  {
+    "Number": 7,
+    "Driver": "Bob Veith",
+    "Entrant": "Bob Estes",
+    "Chassis": "Phillips",
+    "Engine": "Offenhauser",
+    "Tyre": "F"
+  },
+  {
+    "Number": "@@@_-55",
+    "Driver": "Jean Behra",
+    "Entrant": "Maserati",
+    "Chassis": "Maserati 250F",
+    "Engine": "Maserati",
+    "Tyre": "F"
+  },
+  {
+    "Number": 8,
+    "Driver": "Jean Behra",
+    "Entrant": "Maserati",
+    "Chassis": "Maserati 450S1",
+    "Engine": "Maserati",
+    "Tyre": "F"
+  },
+  {
+    "Number": 12,
+    "Driver": "Pat O'Connor",
+    "Entrant": "Sumar",
+    "Chassis": "Kurtis Kraft 500G",
+    "Engine": "Offenhauser",
+    "Tyre": "F"
+  },
+  {
+    "Number": 16,
+    "Driver": "Mario Bornigia",
+    "Entrant": "Scuderia Cottione",
+    "Chassis": "Ferrari",
+    "Engine": "@@@_None",
+    "Tyre": "?"
+  },
+  {
+    "Number": 27,
+    "Driver": "Tony Bettenhausen",
+    "Entrant": "Novi Auto Air Conditioning",
+    "Chassis": "Kurtis Kraft 500F",
+    "Engine": "Novi (s/c)",
+    "Tyre": "F"
+  },
+  {
+    "Number": "@@@_-51",
+    "Driver": "Eddie Sachs",
+    "Entrant": "Jim Robbins",
+    "Chassis": "Kurtis Kraft 500G",
+    "Engine": "Offenhauser",
+    "Tyre": "F"
+  },
+  {
+    "Number": 49,
+    "Driver": "Ray Crawford",
+    "Entrant": "Meguiar Mirror Glaze",
+    "Chassis": "Kurtis Kraft 500G",
+    "Engine": "Offenhauser",
+    "Tyre": "F"
+  },
+  {
+    "Number": 52,
+    "Driver": "Troy Ruttman",
+    "Entrant": "John Zink",
+    "Chassis": "Watson",
+    "Engine": "Offenhauser",
+    "Tyre": "F"
+  },
+  {
+    "Number": 52,
+    "Driver": "Jim Rathmann2",
+    "Entrant": "John Zink",
+    "Chassis": "Watson",
+    "Engine": "Offenhauser",
+    "Tyre": "F"
+  },
+  {
+    "Number": 54,
+    "Driver": "Paul Russo",
+    "Entrant": "Novi Auto Air Conditioning",
+    "Chassis": "Kurtis Kraft 500F",
+    "Engine": "Novi (s/c)",
+    "Tyre": "F"
+  },
+  {
+    "Number": 73,
+    "Driver": "Andy Linden",
+    "Entrant": "McNamara Veedol",
+    "Chassis": "Kurtis Kraft 500G",
+    "Engine": "Offenhauser",
+    "Tyre": "F"
+  },
+  {
+    "Number": "@@@_531",
+    "Driver": "Johnnie Parsons",
+    "Entrant": "Agajanian",
+    "Chassis": "Kuzma",
+    "Engine": "Offenhauser",
+    "Tyre": "F"
+  }
+]

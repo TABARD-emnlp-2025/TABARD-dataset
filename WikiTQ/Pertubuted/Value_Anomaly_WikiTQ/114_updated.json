@@ -1,0 +1,210 @@
+[
+  {
+    "Pos": "1",
+    "Rider": "Roberto Rolfo",
+    "Manufacturer": "Honda",
+    "Time/Retired": "45:14.Ret3",
+    "Grid": 8,
+    "Points": 25.0
+  },
+  {
+    "Pos": "2",
+    "Rider": "Anthony West",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+14.040",
+    "Grid": 11,
+    "Points": 20.0
+  },
+  {
+    "Pos": "3",
+    "Rider": "Fonsi Nieto",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+33.511",
+    "Grid": 5,
+    "Points": 16.0
+  },
+  {
+    "Pos": "4",
+    "Rider": "Franco Battaini",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+54.252",
+    "Grid": 3,
+    "Points": 13.0
+  },
+  {
+    "Pos": "5",
+    "Rider": "Alex Debón",
+    "Manufacturer": "Honda",
+    "Time/Retired": "+1:06.895",
+    "Grid": 13,
+    "Points": 11.0
+  },
+  {
+    "Pos": "6",
+    "Rider": "Naoki Matsudo",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+1:06.943",
+    "Grid": 9,
+    "Points": 10.0
+  },
+  {
+    "Pos": "7",
+    "Rider": "Erwan Nigon",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+1:13.421",
+    "Grid": 12,
+    "Points": 9.0
+  },
+  {
+    "Pos": "8",
+    "Rider": "Jaroslav Huleš",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+1:22.119",
+    "Grid": 10,
+    "Points": 8.0
+  },
+  {
+    "Pos": "9",
+    "Rider": "Manuel Poggiali",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+1:22.163",
+    "Grid": 7,
+    "Points": 7.0
+  },
+  {
+    "Pos": "10",
+    "Rider": "Johann Stigefelt",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+1:25.303",
+    "Grid": 22,
+    "Points": 6.0
+  },
+  {
+    "Pos": "11",
+    "Rider": "Toni Elías",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+1:41.591",
+    "Grid": 1,
+    "Points": "@@@_-17.529743619"
+  },
+  {
+    "Pos": "12",
+    "Rider": "Lukáš Pešek",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "+2:49.682",
+    "Grid": 18,
+    "Points": 4.0
+  },
+  {
+    "Pos": "13",
+    "Rider": "Dirk Heidolf",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+1 Lap",
+    "Grid": 17,
+    "Points": 3.0
+  },
+  {
+    "Pos": "14",
+    "Rider": "Hugo Marchand",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "@@@_None",
+    "Grid": 19,
+    "Points": 2.0
+  },
+  {
+    "Pos": "15",
+    "Rider": "Chaz Davies",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+1 Lap",
+    "Grid": 15,
+    "Points": "@@@_123.9461542846"
+  },
+  {
+    "Pos": "16",
+    "Rider": "Héctor Faubel",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+1 Lap",
+    "Grid": 16,
+    "Points": null
+  },
+  {
+    "Pos": "17",
+    "Rider": "Henk vd Lagemaat",
+    "Manufacturer": "Honda",
+    "Time/Retired": "+2 Laps",
+    "Grid": 25,
+    "Points": null
+  },
+  {
+    "Pos": "18",
+    "Rider": "Joan Olivé",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "+3 Laps",
+    "Grid": 20,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Randy de Puniet",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Grid": 4,
+    "Points": "@@@_161.223463899"
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Christian Gemmel",
+    "Manufacturer": "Honda",
+    "Time/Retired": "Retirement",
+    "Grid": 23,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Eric Bataille",
+    "Manufacturer": "Honda",
+    "Time/Retired": "Retirement",
+    "Grid": 14,
+    "Points": "@@@_-25.1024921603"
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Sebastián Porto",
+    "Manufacturer": "Honda",
+    "Time/Retired": "Retirement",
+    "Grid": 2,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Katja Poensgen",
+    "Manufacturer": "Honda",
+    "Time/Retired": "Retirement",
+    "Grid": 24,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Geoff Hardcastle",
+    "Manufacturer": "Yamaha",
+    "Time/Retired": "Retirement",
+    "Grid": 26,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Alex Baldolini",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Grid": 21,
+    "Points": null
+  },
+  {
+    "Pos": "Ret",
+    "Rider": "Sylvain Guintoli",
+    "Manufacturer": "Aprilia",
+    "Time/Retired": "Retirement",
+    "Grid": 6,
+    "Points": null
+  }
+]

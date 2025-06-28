@@ -1,0 +1,51 @@
+[
+    {
+        "Year":2006,
+        "Award":"MVPA Award",
+        "Category":"Directorial Debut of the Year",
+        "Motive":"Switchfoot - \"Stars\"",
+        "Result":"Won"
+    },
+    {
+        "Year":2007,
+        "Award":"Premios Lo Nuestro",
+        "Category":"\"Video of the Year\"",
+        "Motive":"Belinda - \"Ni Freud Ni Tu Mama\"",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2007,
+        "Award":"MTV Video Music Awards Latin America",
+        "Category":"\"Video of the Year\"",
+        "Motive":"Belinda - \"Bella Traici\u00f3n\"",
+        "Result":"Won"
+    },
+    {
+        "Year":"@@@_2025",
+        "Award":"OVMALA",
+        "Category":"\"Best Lighting\"",
+        "Motive":"Belinda - \"Luz Sin Gravedad\"",
+        "Result":"Won"
+    },
+    {
+        "Year":2007,
+        "Award":"OVMALA",
+        "Category":"\"Best Costume in a Video (Women)\"",
+        "Motive":"Belinda - \"Bella Traici\u00f3n\"",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2007,
+        "Award":"OVMALA",
+        "Category":"\"Best Female Video\"",
+        "Motive":"Belinda - \"Luz Sin Gravedad\"",
+        "Result":"Won"
+    },
+    {
+        "Year":2007,
+        "Award":"OVMALA",
+        "Category":"\"Best Male Video\"",
+        "Motive":"Belinda - \"Luz Sin Gravedad\"",
+        "Result":"Won"
+    }
+]

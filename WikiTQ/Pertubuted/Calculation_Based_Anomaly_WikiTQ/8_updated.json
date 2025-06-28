@@ -1,0 +1,72 @@
+[
+    {
+        "Country":"Belize",
+        "Amphibians":46,
+        "Birds":544,
+        "Mammals":147,
+        "Reptile":140,
+        "Total terrestrial vertebrates":877,
+        "Vascular plants":2894,
+        "Biodiversity":3771
+    },
+    {
+        "Country":"Costa Rica",
+        "Amphibians":183,
+        "Birds":838,
+        "Mammals":232,
+        "Reptile":258,
+        "Total terrestrial vertebrates":"@@@_1520",
+        "Vascular plants":12119,
+        "Biodiversity":13630
+    },
+    {
+        "Country":"El Salvador",
+        "Amphibians":30,
+        "Birds":434,
+        "Mammals":137,
+        "Reptile":106,
+        "Total terrestrial vertebrates":707,
+        "Vascular plants":2911,
+        "Biodiversity":3618
+    },
+    {
+        "Country":"Guatemala",
+        "Amphibians":133,
+        "Birds":684,
+        "Mammals":193,
+        "Reptile":236,
+        "Total terrestrial vertebrates":1246,
+        "Vascular plants":8681,
+        "Biodiversity":9927
+    },
+    {
+        "Country":"Honduras",
+        "Amphibians":101,
+        "Birds":699,
+        "Mammals":201,
+        "Reptile":213,
+        "Total terrestrial vertebrates":"@@@_1210",
+        "Vascular plants":5680,
+        "Biodiversity":6894
+    },
+    {
+        "Country":"Nicaragua",
+        "Amphibians":61,
+        "Birds":632,
+        "Mammals":181,
+        "Reptile":178,
+        "Total terrestrial vertebrates":1052,
+        "Vascular plants":7590,
+        "Biodiversity":8642
+    },
+    {
+        "Country":"Panama",
+        "Amphibians":182,
+        "Birds":904,
+        "Mammals":241,
+        "Reptile":242,
+        "Total terrestrial vertebrates":1569,
+        "Vascular plants":9915,
+        "Biodiversity":11484
+    }
+]

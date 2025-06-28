@@ -1,0 +1,58 @@
+[
+    {
+        "Party":"Cameroonian National Union",
+        "Votes":"3,293,428",
+        "%":100,
+        "Seats":120,
+        "+/–":70
+    },
+    {
+        "Party":"Invalid/blank votes",
+        "Votes":"1,577",
+        "%":"–",
+        "Seats":"–",
+        "+/–":"–"
+    },
+    {
+        "Party":"Total",
+        "Votes":"3,295,005",
+        "%":100,
+        "Seats":120,
+        "+/–":70
+    },
+    {
+        "Party":"Registered voters/turnout",
+        "Votes":"3,348,989",
+        "%":98.4,
+        "Seats":"–",
+        "+/–":"–"
+    },
+    {
+        "Party":"Source: Nohlen et al.",
+        "Votes":"Source: Nohlen et al.",
+        "%":"Source: Nohlen et al.",
+        "Seats":"Source: Nohlen et al.",
+        "+/–":"Source: Nohlen et al."
+    },
+    {
+        "Party":"Cameroonian National Union",
+        "Votes":"3293428",
+        "%":"100%",
+        "Seats":"120",
+        "+/–":"+70"
+    },
+    {
+        "Party":"Invalid/blank votes",
+        "Votes":"1577",
+        "%":"null",
+        "Seats":"null",
+        "+/–":"null"
+    },
+    {
+        "Party":"Registered voters/turnout",
+        "Votes":"3,348,989",
+        "%":"98.4%",
+        "Seats":"null",
+        "+/–":"null"
+    }
+]

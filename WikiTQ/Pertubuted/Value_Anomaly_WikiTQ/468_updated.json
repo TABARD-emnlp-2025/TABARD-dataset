@@ -1,0 +1,282 @@
+[
+  {
+    "Pos": 1,
+    "No": "@@@_None",
+    "Driver": "Alex Zanardi",
+    "Team": "Chip Ganassi Racing",
+    "Laps": 95,
+    "Time/Retired": "1:52:24.080",
+    "Grid": 2,
+    "Points": "20"
+  },
+  {
+    "Pos": 2,
+    "No": 6.0,
+    "Driver": "Michael Andretti",
+    "Team": "Newman-Haas Racing",
+    "Laps": "@@@_1025",
+    "Time/Retired": "+1.921",
+    "Grid": 3,
+    "Points": "16"
+  },
+  {
+    "Pos": 3,
+    "No": 12.0,
+    "Driver": "Jimmy Vasser",
+    "Team": "Chip Ganassi Racing",
+    "Laps": 95,
+    "Time/Retired": "+6.702",
+    "Grid": 6,
+    "Points": "14"
+  },
+  {
+    "Pos": 4,
+    "No": 7.0,
+    "Driver": "Bobby Rahal",
+    "Team": "Team Rahal",
+    "Laps": 95,
+    "Time/Retired": "+8.078",
+    "Grid": 9,
+    "Points": "12"
+  },
+  {
+    "Pos": 5,
+    "No": 8.0,
+    "Driver": "Bryan Herta",
+    "Team": "Team Rahal",
+    "Laps": 95,
+    "Time/Retired": "+12.984",
+    "Grid": 17,
+    "Points": "10"
+  },
+  {
+    "Pos": 6,
+    "No": 20.0,
+    "Driver": "Scott Pruett",
+    "Team": "Patrick Racing",
+    "Laps": 95,
+    "Time/Retired": "+14.607",
+    "Grid": 8,
+    "Points": "8"
+  },
+  {
+    "Pos": 7,
+    "No": 10.0,
+    "Driver": "Richie Hearn",
+    "Team": "Della Penna Motorsports",
+    "Laps": 95,
+    "Time/Retired": "+15.305",
+    "Grid": 13,
+    "Points": "6"
+  },
+  {
+    "Pos": 8,
+    "No": 25.0,
+    "Driver": "Max Papis",
+    "Team": "Arciero-Wells Racing",
+    "Laps": 95,
+    "Time/Retired": "+24.676",
+    "Grid": 20,
+    "Points": "5"
+  },
+  {
+    "Pos": 9,
+    "No": 40.0,
+    "Driver": "Adrián Fernández",
+    "Team": "Patrick Racing",
+    "Laps": 95,
+    "Time/Retired": "+31.923",
+    "Grid": 16,
+    "Points": "4"
+  },
+  {
+    "Pos": 10,
+    "No": 16.0,
+    "Driver": "Hélio Castro-Neves",
+    "Team": "Bettenhausen Racing",
+    "Laps": 95,
+    "Time/Retired": "+32.691",
+    "Grid": 21,
+    "Points": "3"
+  },
+  {
+    "Pos": 11,
+    "No": 99.0,
+    "Driver": "Greg Moore",
+    "Team": "Forsythe Racing",
+    "Laps": 95,
+    "Time/Retired": "+34.926",
+    "Grid": 12,
+    "Points": "2"
+  },
+  {
+    "Pos": 12,
+    "No": 17.0,
+    "Driver": "Maurício Gugelmin",
+    "Team": "PacWest Racing Group",
+    "Laps": 95,
+    "Time/Retired": "+37.640",
+    "Grid": 19,
+    "Points": "1"
+  },
+  {
+    "Pos": 13,
+    "No": 24.0,
+    "Driver": "Robby Gordon",
+    "Team": "Arciero-Wells Racing",
+    "Laps": 94,
+    "Time/Retired": "+1 Lap",
+    "Grid": 22,
+    "Points": null
+  },
+  {
+    "Pos": 14,
+    "No": 26.0,
+    "Driver": "Paul Tracy",
+    "Team": "Team KOOL Green",
+    "Laps": 94,
+    "Time/Retired": "+1 Lap",
+    "Grid": 10,
+    "Points": null
+  },
+  {
+    "Pos": 15,
+    "No": 77.0,
+    "Driver": "Arnd Meier",
+    "Team": "Davis Racing",
+    "Laps": 94,
+    "Time/Retired": "+1 Lap",
+    "Grid": 25,
+    "Points": null
+  },
+  {
+    "Pos": 16,
+    "No": 11.0,
+    "Driver": "Christian Fittipaldi",
+    "Team": "Newman-Haas Racing",
+    "Laps": 93,
+    "Time/Retired": "+2 Laps",
+    "Grid": 5,
+    "Points": null
+  },
+  {
+    "Pos": 17,
+    "No": 2.0,
+    "Driver": "Al Unser, Jr.",
+    "Team": "Marlboro Team Penske",
+    "Laps": 93,
+    "Time/Retired": "+2 Laps",
+    "Grid": 14,
+    "Points": null
+  },
+  {
+    "Pos": 18,
+    "No": 19.0,
+    "Driver": "Michel Jourdain Jr.",
+    "Team": "Payton/Coyne Racing",
+    "Laps": 93,
+    "Time/Retired": "+2 Laps",
+    "Grid": 24,
+    "Points": null
+  },
+  {
+    "Pos": 19,
+    "No": 98.0,
+    "Driver": "P. J. Jones",
+    "Team": "@@@_None",
+    "Laps": 84,
+    "Time/Retired": "Suspension",
+    "Grid": "@@@_-14",
+    "Points": null
+  },
+  {
+    "Pos": 20,
+    "No": 27.0,
+    "Driver": "Dario Franchitti",
+    "Team": "Team KOOL Green",
+    "Laps": 79,
+    "Time/Retired": "Brakes",
+    "Grid": 1,
+    "Points": "1+1"
+  },
+  {
+    "Pos": 21,
+    "No": 34.0,
+    "Driver": "Gualter Salles",
+    "Team": "Payton/Coyne Racing",
+    "Laps": 65,
+    "Time/Retired": "Contact",
+    "Grid": 28,
+    "Points": null
+  },
+  {
+    "Pos": 22,
+    "No": "@@@_None",
+    "Driver": "Tony Kanaan",
+    "Team": "Tasman Motorsports Group",
+    "Laps": 61,
+    "Time/Retired": "Fire",
+    "Grid": 7,
+    "Points": null
+  },
+  {
+    "Pos": 23,
+    "No": 3.0,
+    "Driver": "André Ribeiro",
+    "Team": "Marlboro Team Penske",
+    "Laps": 54,
+    "Time/Retired": "Transmission",
+    "Grid": 11,
+    "Points": null
+  },
+  {
+    "Pos": 24,
+    "No": 9.0,
+    "Driver": "JJ Lehto",
+    "Team": "Hogan Racing",
+    "Laps": 37,
+    "Time/Retired": "Contact",
+    "Grid": 26,
+    "Points": null
+  },
+  {
+    "Pos": 25,
+    "No": 33.0,
+    "Driver": "Patrick Carpentier",
+    "Team": "Forsythe Racing",
+    "Laps": 33,
+    "Time/Retired": "Suspension",
+    "Grid": 18,
+    "Points": null
+  },
+  {
+    "Pos": 26,
+    "No": 18.0,
+    "Driver": "Mark Blundell",
+    "Team": "PacWest Racing Group",
+    "Laps": 30,
+    "Time/Retired": "Electrical",
+    "Grid": 15,
+    "Points": null
+  },
+  {
+    "Pos": 27,
+    "No": 5.0,
+    "Driver": "Gil de Ferran",
+    "Team": "Walker Racing",
+    "Laps": 26,
+    "Time/Retired": "Contact",
+    "Grid": 4,
+    "Points": null
+  },
+  {
+    "Pos": 28,
+    "No": 36.0,
+    "Driver": "Alex Barron",
+    "Team": "All American Racing",
+    "Laps": 25,
+    "Time/Retired": "Contact",
+    "Grid": 27,
+    "Points": null
+  }
+]

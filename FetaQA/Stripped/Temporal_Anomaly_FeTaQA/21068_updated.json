@@ -1,0 +1,62 @@
+[
+    {
+        "Year":2016,
+        "Title":"The Tiger Hunter",
+        "Role":"Ruby Iqbal"
+    },
+    {
+        "Year":2015,
+        "Title":"Amar, Akbar & Tony",
+        "Role":"Meera"
+    },
+    {
+        "Year":2014,
+        "Title":"Jack Ryan: Shadow Recruit",
+        "Role":"Penn"
+    },
+    {
+        "Year":2012,
+        "Title":"Red Lights",
+        "Role":"Dana"
+    },
+    {
+        "Year":2009,
+        "Title":"Couples Retreat",
+        "Role":"Spa Attendant"
+    },
+    {
+        "Year":"2011",
+        "Title":"The Scorpion King 2: Rise of a Warrior",
+        "Role":"Layla"
+    },
+    {
+        "Year":2008,
+        "Title":"The Colour of Magic",
+        "Role":"Liessa"
+    },
+    {
+        "Year":2007,
+        "Title":"Flight of Fury",
+        "Role":"Barnes's Operational Soldier Flanders"
+    },
+    {
+        "Year":2006,
+        "Title":"Take 3 Girls",
+        "Role":"Lyla"
+    },
+    {
+        "Year":2006,
+        "Title":"Provoked",
+        "Role":"Asha"
+    },
+    {
+        "Year":2005,
+        "Title":"Batman Begins",
+        "Role":"Courthouse Reporter No. 1"
+    },
+    {
+        "Year":2003,
+        "Title":"Bollywood Queen",
+        "Role":"Neeta"
+    }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "Year": 1920,
+    "Party Affiliation": "Republican",
+    "Winner": "William F. Kopp",
+    "Number of Votes": "38,100",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "E.W. McManus",
+    "Number of Votes.1": "20,977",
+    "Percentage of Votes": "64% - 36%"
+  },
+  {
+    "Year": 1922,
+    "Party Affiliation": "Republican",
+    "Winner": "William F. Kopp",
+    "Number of Votes": "26,651",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "John M. Lindley",
+    "Number of Votes.1": "14,056",
+    "Percentage of Votes": "65% - 34%"
+  },
+  {
+    "Year": 1924,
+    "Party Affiliation": "Republican",
+    "Winner": "William F. Kopp",
+    "Number of Votes": "42,711",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "James M. Bell",
+    "Number of Votes.1": "17,110",
+    "Percentage of Votes": "71% - 29%"
+  },
+  {
+    "Year": 1926,
+    "Party Affiliation": "Republican",
+    "Winner": "William F. Kopp",
+    "Number of Votes": "27,358",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "James M. Bell",
+    "Number of Votes.1": "11,408",
+    "Percentage of Votes": "71% - 29%"
+  },
+  {
+    "Year": 1928,
+    "Party Affiliation": "Republican",
+    "Winner": "William F. Kopp",
+    "Number of Votes": "45,806",
+    "Party Affiliation.1": null,
+    "Loser": "No Opponent",
+    "Number of Votes.1": null,
+    "Percentage of Votes": "100% - 0%"
+  },
+  {
+    "Year": 1930,
+    "Party Affiliation": "Republican",
+    "Winner": "William F. Kopp",
+    "Number of Votes": "27,053",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Max A. Conrad",
+    "Number of Votes.1": "15,538",
+    "Percentage of Votes": "63% - 36%"
+  },
+  {
+    "Year": 1932,
+    "Party Affiliation": "Democrat",
+    "Winner": "Edward C. Eicher",
+    "Number of Votes": "55,378",
+    "Party Affiliation.1": "Republican",
+    "Loser": "William F. Kopp",
+    "Number of Votes.1": "46,738",
+    "Percentage of Votes": "54% - 46%"
+  },
+  {
+    "Year": 1934,
+    "Party Affiliation": "Democrat",
+    "Winner": "Edward C. Eicher",
+    "Number of Votes": "48,544",
+    "Party Affiliation.1": "Republican",
+    "Loser": "E. R. Hicklin",
+    "Number of Votes.1": "39,047",
+    "Percentage of Votes": "55% - 44%"
+  },
+  {
+    "Year": 1936,
+    "Party Affiliation": "Democrat",
+    "Winner": "Edward C. Eicher",
+    "Number of Votes": "55,721",
+    "Party Affiliation.1": "Republican",
+    "Loser": "John N. Calhoun",
+    "Number of Votes.1": "53,474",
+    "Percentage of Votes": "51% - 49%"
+  },
+  {
+    "Year": 1938,
+    "Party Affiliation": "Republican",
+    "Winner": "Thomas E. Martin",
+    "Number of Votes": "46,636",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "James P. Gaffney",
+    "Number of Votes.1": "33,765",
+    "Percentage of Votes": "58% - 42%"
+  },
+  {
+    "Year": 1940,
+    "Party Affiliation": "Republican",
+    "Winner": "Thomas E. Martin",
+    "Number of Votes": "70,120",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Mrs. Zoe S. Nabers",
+    "Number of Votes.1": "46,040",
+    "Percentage of Votes": "60% - 40%"
+  },
+  {
+    "Year": 1942,
+    "Party Affiliation": "Republican",
+    "Winner": "Thomas E. Martin",
+    "Number of Votes": "55,139",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Vern W. Nall",
+    "Number of Votes.1": "32,893",
+    "Percentage of Votes": "61% - 37%"
+  },
+  {
+    "Year": 1944,
+    "Party Affiliation": "Republican",
+    "Winner": "Thomas E. Martin",
+    "Number of Votes": "72,729",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Clair A. Williams",
+    "Number of Votes.1": "60,048",
+    "Percentage of Votes": "55% - 45%"
+  },
+  {
+    "Year": "@@@_-2430",
+    "Party Affiliation": "Republican",
+    "Winner": "Thomas E. Martin",
+    "Number of Votes": "52,488",
+    "Party Affiliation.1": "@@@_None",
+    "Loser": "Clair A. Williams",
+    "Number of Votes.1": "32,849",
+    "Percentage of Votes": "62% - 38%"
+  },
+  {
+    "Year": 1948,
+    "Party Affiliation": "Republican",
+    "Winner": "Thomas E. Martin",
+    "Number of Votes": "70,959",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "James D. France",
+    "Number of Votes.1": "60,860",
+    "Percentage of Votes": "53% - 46%"
+  },
+  {
+    "Year": 1950,
+    "Party Affiliation": "Republican",
+    "Winner": "Thomas E. Martin",
+    "Number of Votes": "70,058",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "James D. France",
+    "Number of Votes.1": "43,140",
+    "Percentage of Votes": "62% - 38%"
+  },
+  {
+    "Year": 1952,
+    "Party Affiliation": "Republican",
+    "Winner": "Thomas E. Martin",
+    "Number of Votes": "105,526",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Clair A. Williams",
+    "Number of Votes.1": "62,011",
+    "Percentage of Votes": "63% - 37%"
+  },
+  {
+    "Year": 1954,
+    "Party Affiliation": "Republican",
+    "Winner": "Fred Schwengel",
+    "Number of Votes": "67,128",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "John O'Connor",
+    "Number of Votes.1": "50,577",
+    "Percentage of Votes": "57% - 43%"
+  },
+  {
+    "Year": 1956,
+    "Party Affiliation": "Republican",
+    "Winner": "Fred Schwengel",
+    "Number of Votes": "94,223",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Ronald O. Bramhall",
+    "Number of Votes.1": "68,287",
+    "Percentage of Votes": "58% - 42%"
+  },
+  {
+    "Year": 1958,
+    "Party Affiliation": "Republican",
+    "Winner": "Fred Schwengel",
+    "Number of Votes": "59,577",
+    "Party Affiliation.1": "@@@_None",
+    "Loser": "Thomas J. Dailey",
+    "Number of Votes.1": "51,996",
+    "Percentage of Votes": "53% - 47%"
+  },
+  {
+    "Year": 1960,
+    "Party Affiliation": "Republican",
+    "Winner": "Fred Schwengel",
+    "Number of Votes": "104,737",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Walter J. Guenther",
+    "Number of Votes.1": "67,287",
+    "Percentage of Votes": "61% - 39%"
+  },
+  {
+    "Year": 1962,
+    "Party Affiliation": "Republican",
+    "Winner": "Fred Schwengel",
+    "Number of Votes": "65,975",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Harold Stephens",
+    "Number of Votes.1": "42,000",
+    "Percentage of Votes": "61% - 39%"
+  },
+  {
+    "Year": 1964,
+    "Party Affiliation": "Democrat",
+    "Winner": "John R. Schmidhauser",
+    "Number of Votes": "84,042",
+    "Party Affiliation.1": "Republican",
+    "Loser": "Fred Schwengel",
+    "Number of Votes.1": "80,697",
+    "Percentage of Votes": "51% - 49%"
+  },
+  {
+    "Year": 1966,
+    "Party Affiliation": "Republican",
+    "Winner": "Fred Schwengel",
+    "Number of Votes": "64,795",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "John R. Schmidhauser",
+    "Number of Votes.1": "60,534",
+    "Percentage of Votes": "51% - 48%"
+  },
+  {
+    "Year": 1968,
+    "Party Affiliation": "Republican",
+    "Winner": "Fred Schwengel",
+    "Number of Votes": "91,419",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "John R. Schmidhauser",
+    "Number of Votes.1": "81,049",
+    "Percentage of Votes": "53% - 47%"
+  },
+  {
+    "Year": 1970,
+    "Party Affiliation": "Republican",
+    "Winner": "Fred Schwengel",
+    "Number of Votes": "60,270",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Edward Mezvinsky",
+    "Number of Votes.1": "59,505",
+    "Percentage of Votes": "50% - 49%"
+  },
+  {
+    "Year": "@@@_-2528",
+    "Party Affiliation": "Democrat",
+    "Winner": "Edward Mezvinsky",
+    "Number of Votes": "107,099",
+    "Party Affiliation.1": "Republican",
+    "Loser": "Fred Schwengel",
+    "Number of Votes.1": "91,609",
+    "Percentage of Votes": "53% - 46%"
+  },
+  {
+    "Year": 1974,
+    "Party Affiliation": "Democrat",
+    "Winner": "Edward Mezvinsky",
+    "Number of Votes": "75,687",
+    "Party Affiliation.1": "Republican",
+    "Loser": "James A. Leach",
+    "Number of Votes.1": "63,540",
+    "Percentage of Votes": "54% - 46%"
+  },
+  {
+    "Year": 1976,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "109,694",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Edward Mezvinsky",
+    "Number of Votes.1": "101,024",
+    "Percentage of Votes": "52% - 48%"
+  },
+  {
+    "Year": 1978,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "79,940",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Richard E. Meyers",
+    "Number of Votes.1": "45,037",
+    "Percentage of Votes": "63% - 36%"
+  },
+  {
+    "Year": 1980,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "133,349",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Jim Larew",
+    "Number of Votes.1": "72,602",
+    "Percentage of Votes": "64% - 35%"
+  },
+  {
+    "Year": 1982,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "89,595",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Bill Gluba",
+    "Number of Votes.1": "61,734",
+    "Percentage of Votes": "59% - 41%"
+  },
+  {
+    "Year": 1984,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "131,182",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Kevin Ready",
+    "Number of Votes.1": "65,293",
+    "Percentage of Votes": "68% - 33%"
+  },
+  {
+    "Year": 1986,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "86,834",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "John R. Whitaker",
+    "Number of Votes.1": "43,985",
+    "Percentage of Votes": "66% - 34%"
+  },
+  {
+    "Year": 1988,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "112,746",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Bill Gluba",
+    "Number of Votes.1": "71,280",
+    "Percentage of Votes": "61% - 38%"
+  },
+  {
+    "Year": "@@@_27912",
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "90,042",
+    "Party Affiliation.1": "Scattering",
+    "Loser": "Scattering",
+    "Number of Votes.1": "151",
+    "Percentage of Votes": "99% - 1%"
+  },
+  {
+    "Year": 1992,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "178,042",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Jan J. Zonneveld",
+    "Number of Votes.1": "81,600",
+    "Percentage of Votes": "68% - 31%"
+  },
+  {
+    "Year": 1994,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "110,448",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Glen Winekauf",
+    "Number of Votes.1": "69,461",
+    "Percentage of Votes": "60% - 38%"
+  },
+  {
+    "Year": 1996,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "129,242",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Bob Rush",
+    "Number of Votes.1": "111,595",
+    "Percentage of Votes": "53% - 46%"
+  },
+  {
+    "Year": 1998,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "106,419",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Bob Rush",
+    "Number of Votes.1": "79,529",
+    "Percentage of Votes": "57% - 42%"
+  },
+  {
+    "Year": 2000,
+    "Party Affiliation": "Republican",
+    "Winner": "James A. Leach",
+    "Number of Votes": "164,972",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Bob Simpson",
+    "Number of Votes.1": "96,283",
+    "Percentage of Votes": "62% - 36%"
+  },
+  {
+    "Year": 2002,
+    "Party Affiliation": "Republican",
+    "Winner": "Jim Nussle",
+    "Number of Votes": "112,280",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Ann Hutchinson",
+    "Number of Votes.1": "83,779",
+    "Percentage of Votes": "57% - 43%"
+  },
+  {
+    "Year": 2004,
+    "Party Affiliation": "Republican",
+    "Winner": "Jim Nussle",
+    "Number of Votes": "159,993",
+    "Party Affiliation.1": "Democrat",
+    "Loser": "Bill Gluba",
+    "Number of Votes.1": "125,490",
+    "Percentage of Votes": "55% - 44%"
+  },
+  {
+    "Year": 2006,
+    "Party Affiliation": "Democrat",
+    "Winner": "Bruce Braley",
+    "Number of Votes": "113,724",
+    "Party Affiliation.1": "Republican",
+    "Loser": "Mike Whalen",
+    "Number of Votes.1": "89,471",
+    "Percentage of Votes": "56% - 44%"
+  },
+  {
+    "Year": 2008,
+    "Party Affiliation": "Democrat",
+    "Winner": "Bruce Braley",
+    "Number of Votes": "178,229",
+    "Party Affiliation.1": "Republican",
+    "Loser": "David Hartsuch",
+    "Number of Votes.1": "99,447",
+    "Percentage of Votes": "64% - 35%"
+  },
+  {
+    "Year": 2010,
+    "Party Affiliation": "Democrat",
+    "Winner": "Bruce Braley",
+    "Number of Votes": "103,931",
+    "Party Affiliation.1": "Republican",
+    "Loser": "Ben Lange",
+    "Number of Votes.1": "99,976",
+    "Percentage of Votes": "49% - 48%"
+  }
+]

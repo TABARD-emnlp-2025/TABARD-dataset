@@ -1,0 +1,50 @@
+[
+  {
+    "Rank": null,
+    "Athlete": "Liliana Barbulescu",
+    "Nationality": "Romania",
+    "Time": "2:00.06"
+  },
+  {
+    "Rank": null,
+    "Athlete": "Anna Zagórska",
+    "Nationality": "Poland",
+    "Time": "2:00.11"
+  },
+  {
+    "Rank": "@@@_228.8019326081",
+    "Athlete": "Irina Vashentseva",
+    "Nationality": "Russia",
+    "Time": "2:00.77"
+  },
+  {
+    "Rank": 4.0,
+    "Athlete": "Laura Gerber",
+    "Nationality": "Switzerland",
+    "Time": "2:01.39"
+  },
+  {
+    "Rank": 5.0,
+    "Athlete": "Christiane dos Santos",
+    "Nationality": "Brazil",
+    "Time": "2:01.53"
+  },
+  {
+    "Rank": "@@@_51.6995285904",
+    "Athlete": "Tamara Volkova",
+    "Nationality": "Ukraine",
+    "Time": "@@@_None"
+  },
+  {
+    "Rank": "@@@_-6.0",
+    "Athlete": "Tatyana Yegorova",
+    "Nationality": "@@@_None",
+    "Time": "2:02.64"
+  },
+  {
+    "Rank": 8.0,
+    "Athlete": "Sandra Teixeira",
+    "Nationality": "Portugal",
+    "Time": "2:03.01"
+  }
+]

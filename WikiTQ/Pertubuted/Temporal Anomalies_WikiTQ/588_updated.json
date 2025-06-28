@@ -1,0 +1,106 @@
+[
+    {
+        "Year":2007,
+        "Competition":"Pan Arab Games",
+        "Venue":"Cairo, Egypt",
+        "Position":"4th",
+        "Event":"200 m",
+        "Notes":"20.94 (NR)"
+    },
+    {
+        "Year":2008,
+        "Competition":"Asian Indoor Championships",
+        "Venue":"Doha, Qatar",
+        "Position":"4th",
+        "Event":"60 m",
+        "Notes":"6.81"
+    },
+    {
+        "Year":2008,
+        "Competition":"World Indoor Championships",
+        "Venue":"Valencia, Spain",
+        "Position":"28th (h)",
+        "Event":"60 m",
+        "Notes":"6.88"
+    },
+    {
+        "Year":2008,
+        "Competition":"World Junior Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"7th",
+        "Event":"200 m",
+        "Notes":"21.10"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"Beijing, China",
+        "Position":"40th (h)",
+        "Event":"200 m",
+        "Notes":"21.00"
+    },
+    {
+        "Year":2009,
+        "Competition":"Asian Indoor Games",
+        "Venue":"Hanoi, Vietnam",
+        "Position":"4th",
+        "Event":"60 m",
+        "Notes":"6.72 (NR)"
+    },
+    {
+        "Year":2009,
+        "Competition":"World Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"25th (qf)",
+        "Event":"200 m",
+        "Notes":"20.97"
+    },
+    {
+        "Year":2009,
+        "Competition":"Asian Championships",
+        "Venue":"Guangzhou, China",
+        "Position":"1st",
+        "Event":"200 m",
+        "Notes":"21.07"
+    },
+    {
+        "Year":2010,
+        "Competition":"Asian Games",
+        "Venue":"Guangzhou, China",
+        "Position":"3rd",
+        "Event":"200 m",
+        "Notes":"20.83"
+    },
+    {
+        "Year":2011,
+        "Competition":"Asian Championships",
+        "Venue":"Kobe, Jpan",
+        "Position":"3rd",
+        "Event":"200 m",
+        "Notes":"20.97"
+    },
+    {
+        "Year":2011,
+        "Competition":"World Championships",
+        "Venue":"Daegu, South Korea",
+        "Position":"48th (h)",
+        "Event":"200 m",
+        "Notes":"21.45"
+    },
+    {
+        "Year":2011,
+        "Competition":"Pan Arab Games",
+        "Venue":"Doha, Qatar",
+        "Position":"5th",
+        "Event":"100 m",
+        "Notes":"21.59"
+    },
+    {
+        "Year":"@@@_2007",
+        "Competition":"Pan Arab Games",
+        "Venue":"Doha, Qatar",
+        "Position":"3rd",
+        "Event":"4x100 m",
+        "Notes":"40.15"
+    }
+]

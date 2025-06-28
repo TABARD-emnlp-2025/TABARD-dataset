@@ -1,0 +1,37 @@
+[
+    {
+        "DVD name":"The Complete First Season",
+        "Ep #":39,
+        "Release date":"November 22, 2005"
+    },
+    {
+        "DVD name":"The Complete Second Season",
+        "Ep #":"@@@_-5",
+        "Release date":"May 2, 2006"
+    },
+    {
+        "DVD name":"Season Three",
+        "Ep #":39,
+        "Release date":"@@@_June 15, 2025"
+    },
+    {
+        "DVD name":"Season Four",
+        "Ep #":39,
+        "Release date":"September 14, 2010"
+    },
+    {
+        "DVD name":"Season Five",
+        "Ep #":39,
+        "Release date":"December 14, 2010"
+    },
+    {
+        "DVD name":"Season Six",
+        "Ep #":39,
+        "Release date":"March 1, 2011"
+    },
+    {
+        "DVD name":"The Complete Series",
+        "Ep #":234,
+        "Release date":"@@@_June 29, 1800"
+    }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "Departure": 7.0,
+    "Going to": "Boston",
+    "Calling at": "Heckington, Swineshead, Hubbert's Bridge",
+    "Arrival": "07.32",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 8.16,
+    "Going to": "Lincoln",
+    "Calling at": "Ruskington, Digby, Scopwick & Timberland, Blankney & Metheringham, Nocton & Dunston, Potterhanworth, Branston & Heighington",
+    "Arrival": "09.05",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 8.16,
+    "Going to": "March",
+    "Calling at": "Helpringham, Donington Road, Gosberton, Pinckbeck, Spalding, Cowbit, Postland, French Drove, Murrow, Guyhirne",
+    "Arrival": "09.38",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 8.17,
+    "Going to": "Grantham",
+    "Calling at": "Rauceby, Ancaster, Barkston",
+    "Arrival": "08.45",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 8.2,
+    "Going to": "Bourne",
+    "Calling at": "Aswarby & Scredington, Billingborough & Horbling, Rippingale, Morton Road",
+    "Arrival": "09.00",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": "@@@_-19.2965802026",
+    "Going to": "Grantham",
+    "Calling at": "Rauceby, Ancaster, Honington",
+    "Arrival": "10.20",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": "@@@_211.3536621787",
+    "Going to": "Boston",
+    "Calling at": "Heckington, Swineshead, Hubbert's Bridge",
+    "Arrival": "10.33",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 10.05,
+    "Going to": "Bourne",
+    "Calling at": "Aswarby & Scredington, Billingborough & Horbling, Rippingale, Morton Road",
+    "Arrival": "10.41",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 10.48,
+    "Going to": "March",
+    "Calling at": "Helpringham, Donington Road, Gosberton, Pinckbeck, Spalding, Cowbit, Postland, French Drove, Murrow, Guyhirne",
+    "Arrival": "12.12",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 11.01,
+    "Going to": "Skegness / Mablethorpe",
+    "Calling at": "Boston, Firsby: Part to Skegness. Part to Willoughby, Sutton-on-Sea, Mablethorpe",
+    "Arrival": "12.08 / 12.20",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 11.34,
+    "Going to": "Boston",
+    "Calling at": "Heckington, Swineshead, Hubbert's Bridge",
+    "Arrival": "12.07",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 11.34,
+    "Going to": "Grantham",
+    "Calling at": "Rauceby, Ancaster, Barkston, Honington",
+    "Arrival": "12.05",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 11.37,
+    "Going to": "Doncaster",
+    "Calling at": "Ruskington, Digby, Scopwick & Timberland, Blankney & Metheringham, Nocton & Dunston, Potterhanworth, Branston & Heighington, Lincoln, Saxilby, Stow Park, Lea, Gainsborough, Beckingham, Walkeringham, Misterton, Haxey & Epworth, Park Drain, Finningley",
+    "Arrival": "09.05",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 12.43,
+    "Going to": "Lowestoft",
+    "Calling at": "Spalding, March, Shippea Hill, Brandon, Thetford, Attleborough, Wymondham, Norwich, Oulton Broad",
+    "Arrival": "16.10",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 13.48,
+    "Going to": "Bourne",
+    "Calling at": "Aswarby & Scredington, Billingborough & Horbling, Rippingale, Morton Road",
+    "Arrival": "14.24",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 13.48,
+    "Going to": "Grantham",
+    "Calling at": "Rauceby, Ancaster, Honington",
+    "Arrival": "14.21",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 13.49,
+    "Going to": "March",
+    "Calling at": "Helpringham, Donington Road, Gosberton, Pinckbeck, Spalding, Cowbit, Postland, French Drove, Murrow, Guyhirne",
+    "Arrival": "15.23",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 14.0,
+    "Going to": "York",
+    "Calling at": "Lincoln, Gainsborough, Doncaster, Selby",
+    "Arrival": "16.33",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 16.19,
+    "Going to": "Boston",
+    "Calling at": "Heckington, Swineshead, Hubbert's Bridge",
+    "Arrival": "16.51",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": "@@@_None",
+    "Going to": "Bourne",
+    "Calling at": "Aswarby & Scredington, Billingborough & Horbling, Rippingale, Morton Road",
+    "Arrival": "17.00",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 16.48,
+    "Going to": "Lincoln",
+    "Calling at": "Ruskington, Digby, Scopwick & Timberland, Blankney & Metheringham, Nocton & Dunston, Potterhanworth, Branston & Heighington",
+    "Arrival": "17.37",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 17.0,
+    "Going to": "March",
+    "Calling at": "Helpringham, Donington Road, Gosberton, Pinckbeck, Spalding, Cowbit, Postland, French Drove, Murrow, Guyhirne",
+    "Arrival": "@@@_None",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 17.55,
+    "Going to": "Nottingham Victoria",
+    "Calling at": null,
+    "Arrival": "18.46",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 18.51,
+    "Going to": "Grantham",
+    "Calling at": "Rauceby, Ancaster, Honington, Barkston",
+    "Arrival": "19.28",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": "@@@_-20.6994165064",
+    "Going to": "March",
+    "Calling at": "Helpringham, Donington Road, Gosberton, Pinckbeck, Spalding, Cowbit, Postland, French Drove, Murrow, Guyhirne",
+    "Arrival": "20.20",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 19.22,
+    "Going to": "Boston",
+    "Calling at": "Heckington, Swineshead, Hubbert's Bridge",
+    "Arrival": "19.55",
+    "Operator": "GNR"
+  },
+  {
+    "Departure": 19.46,
+    "Going to": "Doncaster",
+    "Calling at": "Blankney & Metheringham, Lincoln, Gainsborough",
+    "Arrival": "21.22",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 21.54,
+    "Going to": "Doncaster",
+    "Calling at": "Ruskington, Digby, Blankney & Metheringham, Nocton & Dunston, Potterhanworth, Branston & Heighington, Lincoln, Saxilby, Gainsborough, Misterton",
+    "Arrival": "23.45",
+    "Operator": "GN&GE"
+  },
+  {
+    "Departure": 22.04,
+    "Going to": "Grantham",
+    "Calling at": null,
+    "Arrival": "22.27",
+    "Operator": "GNR"
+  }
+]

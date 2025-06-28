@@ -1,0 +1,82 @@
+[
+  {
+    "Unnamed: 0": "@@@_None",
+    "Year": "@@@_26460",
+    "City": "Monterrey",
+    "Country": "Mexico",
+    "Date": "August 3-5",
+    "Venue": "Universidad Autónoma de Nuevo León",
+    "No. of\nEvents": 45.0,
+    "No. of\nAthletes": 184.0
+  },
+  {
+    "Unnamed: 0": "2nd",
+    "Year": 2002,
+    "City": "San Antonio",
+    "Country": "@@@_None",
+    "Date": "August 9-11",
+    "Venue": "E.M. Stevens Stadium",
+    "No. of\nEvents": 45.0,
+    "No. of\nAthletes": 245.0
+  },
+  {
+    "Unnamed: 0": "3rd",
+    "Year": 2004,
+    "City": "Sherbrooke",
+    "Country": "Canada",
+    "Date": "July 30 - August 1",
+    "Venue": "Université de Sherbrooke Stadium",
+    "No. of\nEvents": 42.0,
+    "No. of\nAthletes": 243.0
+  },
+  {
+    "Unnamed: 0": "4th",
+    "Year": "@@@_93892",
+    "City": "Santo Domingo",
+    "Country": "Dominican Republic",
+    "Date": "July 7-9",
+    "Venue": "Estadio Félix Sánchez",
+    "No. of\nEvents": 44.0,
+    "No. of\nAthletes": 373.0
+  },
+  {
+    "Unnamed: 0": "5th",
+    "Year": 2008,
+    "City": "Toluca",
+    "Country": "Mexico",
+    "Date": "July 18-20",
+    "Venue": "Estadio Universitario Alberto Chivo Cordova",
+    "No. of\nEvents": 44.0,
+    "No. of\nAthletes": null
+  },
+  {
+    "Unnamed: 0": "6th",
+    "Year": 2010,
+    "City": "Miramar",
+    "Country": "United States",
+    "Date": "July 9-11",
+    "Venue": "Ansin Sports Complex",
+    "No. of\nEvents": "@@@_-44.0",
+    "No. of\nAthletes": null
+  },
+  {
+    "Unnamed: 0": "7th",
+    "Year": 2012,
+    "City": "Irapuato",
+    "Country": "Mexico",
+    "Date": "July 6-8",
+    "Venue": "Centro Paralímpico Nacional",
+    "No. of\nEvents": 44.0,
+    "No. of\nAthletes": null
+  },
+  {
+    "Unnamed: 0": "8th",
+    "Year": 2014,
+    "City": "Kamloops",
+    "Country": "Canada",
+    "Date": "August 8-10",
+    "Venue": "Hillside Stadium",
+    "No. of\nEvents": null,
+    "No. of\nAthletes": null
+  }
+]

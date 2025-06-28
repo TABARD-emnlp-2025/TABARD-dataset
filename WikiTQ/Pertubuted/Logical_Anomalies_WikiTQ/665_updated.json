@@ -1,0 +1,72 @@
+[
+    {
+        "Rank":10,
+        "Name":"Wayne Gretzky",
+        "Notability":"Hockey player, holder of numerous NHL records",
+        "Birthplace":"Brantford, Ontario",
+        "Advocate":"Deborah Grey"
+    },
+    {
+        "Rank":9,
+        "Name":"Alexander Graham Bell",
+        "Notability":"@@@_Scientist, inventor, founder of the Bell Telephone Company",
+        "Birthplace":"@@@_Atlantis, Scotland",
+        "Advocate":"Evan Solomon"
+    },
+    {
+        "Rank":8,
+        "Name":"Sir John A. Macdonald",
+        "Notability":"First Prime Minister of Canada",
+        "Birthplace":"Glasgow, Scotland",
+        "Advocate":"Charlotte Gray"
+    },
+    {
+        "Rank":7,
+        "Name":"Don Cherry",
+        "Notability":"Hockey coach and commentator",
+        "Birthplace":"Kingston, Ontario",
+        "Advocate":"Bret Hart"
+    },
+    {
+        "Rank":6,
+        "Name":"Lester B. Pearson",
+        "Notability":"@@@_Fourteenth Prime Minister of Canada, United Nations General Assembly President, Nobel Peace Prize Laureate",
+        "Birthplace":"Toronto, Ontario",
+        "Advocate":"Paul Gross"
+    },
+    {
+        "Rank":5,
+        "Name":"David Suzuki",
+        "Notability":"Environmentalist",
+        "Birthplace":"Vancouver, British Columbia",
+        "Advocate":"Melissa Auf der Maur"
+    },
+    {
+        "Rank":4,
+        "Name":"Sir Frederick Banting",
+        "Notability":"@@@_Medical scientist, co-discoverer of insulin, winner of the Nobel Prize in Physiology or Medicine",
+        "Birthplace":"Alliston, Ontario",
+        "Advocate":"Mary Walsh"
+    },
+    {
+        "Rank":3,
+        "Name":"Pierre Trudeau",
+        "Notability":"Fifteenth Prime Minister of Canada",
+        "Birthplace":"Montreal, Quebec",
+        "Advocate":"Rex Murphy"
+    },
+    {
+        "Rank":2,
+        "Name":"Terry Fox",
+        "Notability":"Athlete, activist, humanitarian",
+        "Birthplace":"Winnipeg, Manitoba",
+        "Advocate":"Sook-Yin Lee"
+    },
+    {
+        "Rank":1,
+        "Name":"Tommy Douglas",
+        "Notability":"Father of Medicare, Premier of Saskatchewan",
+        "Birthplace":"Falkirk, Scotland",
+        "Advocate":"@@@_George Washington"
+    }
+]

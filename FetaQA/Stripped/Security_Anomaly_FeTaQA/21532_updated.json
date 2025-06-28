@@ -1,0 +1,98 @@
+[
+    {
+        "Year":"Representing Ethiopia",
+        "Competition":"Representing Ethiopia",
+        "Venue":"Representing Ethiopia",
+        "Position":"Representing Ethiopia",
+        "Event":"Representing Ethiopia",
+        "Notes":"Representing Ethiopia"
+    },
+    {
+        "Year":2008,
+        "Competition":"Košice Peace Marathon",
+        "Venue":"Košice, Slovakia",
+        "Position":"2nd",
+        "Event":"Marathon",
+        "Notes":"2:37:34"
+    },
+    {
+        "Year":2009,
+        "Competition":"Rome City Marathon",
+        "Venue":"Rome, Italy",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:27:08"
+    },
+    {
+        "Year":2009,
+        "Competition":"Frankfurt Marathon",
+        "Venue":"Frankfurt, Germany",
+        "Position":"4th",
+        "Event":"Marathon",
+        "Notes":"2:29:20"
+    },
+    {
+        "Year":2010,
+        "Competition":"Mumbai Marathon",
+        "Venue":"Mumbai, India",
+        "Position":"5th",
+        "Event":"Marathon",
+        "Notes":"2:33:38"
+    },
+    {
+        "Year":2010,
+        "Competition":"Rome City Marathon",
+        "Venue":"Rome, Italy",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:25:28"
+    },
+    {
+        "Year":2010,
+        "Competition":"Florence Marathon",
+        "Venue":"Florence, Italy",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:28:58"
+    },
+    {
+        "Year":2011,
+        "Competition":"Rome City Marathon",
+        "Venue":"Rome, Italy",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:24:13"
+    },
+    {
+        "Year":2011,
+        "Competition":"New York City Marathon",
+        "Venue":"New York City, USA",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:23:15"
+    },
+    {
+        "Year":2012,
+        "Competition":"New York City Half Marathon",
+        "Venue":"New York, USA",
+        "Position":"1st",
+        "Event":"Half Marathon",
+        "Notes":"1234-5678-9012-3456"
+    },
+    {
+        "Year":2012,
+        "Competition":"Boston Marathon",
+        "Venue":"Massachusetts, USA",
+        "Position":"4th",
+        "Event":"Marathon",
+        "Notes":"2:34:56"
+    },
+    {
+        "Year":2014,
+        "Competition":"Prague Marathon",
+        "Venue":"Prague, Czech Republic",
+        "Position":"NULL",
+        "Event":"Marathon",
+        "Notes":"2:23:34"
+    }
+]

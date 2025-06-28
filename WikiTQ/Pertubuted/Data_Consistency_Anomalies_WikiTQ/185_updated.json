@@ -1,0 +1,58 @@
+[
+    {
+        "Location":"H. Lee Dennison Building",
+        "Town":"Hauppauge",
+        "Output (MW AC)":1.75,
+        "Modules":"@@@_7737",
+        "Number of arrays":24
+    },
+    {
+        "Location":"North County Complex",
+        "Town":"@@@_hauppauge",
+        "Output (MW AC)":0.5,
+        "Modules":"3,431",
+        "Number of arrays":9
+    },
+    {
+        "Location":"Cohalan Court Complex",
+        "Town":"Central Islip",
+        "Output (MW AC)":3.5,
+        "Modules":"15,113",
+        "Number of arrays":27
+    },
+    {
+        "Location":"Riverhead County Center",
+        "Town":"Riverside",
+        "Output (MW AC)":3.0,
+        "Modules":"11,536",
+        "Number of arrays":31
+    },
+    {
+        "Location":"Brentwood LIRR Parking Lot",
+        "Town":"Brentwood",
+        "Output (MW AC)":1.0,
+        "Modules":"3,924",
+        "Number of arrays":11
+    },
+    {
+        "Location":"Deer Park LIRR Parking Lot",
+        "Town":"Deer Park",
+        "Output (MW AC)":2.25,
+        "Modules":"3,924",
+        "Number of arrays":39
+    },
+    {
+        "Location":"Ronkonkoma LIRR Parking Lot (south)",
+        "Town":"Ronkonkoma",
+        "Output (MW AC)":5.0,
+        "Modules":"20,110",
+        "Number of arrays":44
+    },
+    {
+        "Location":"Riverhead County Center",
+        "Town":"Riverside",
+        "Output (MW AC)":3.1,
+        "Modules":"11,536",
+        "Number of arrays":31
+    }
+]

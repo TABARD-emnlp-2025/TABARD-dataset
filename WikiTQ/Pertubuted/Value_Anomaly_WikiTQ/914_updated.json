@@ -1,0 +1,132 @@
+[
+  {
+    "Year": "1983",
+    "Team": "Los Angeles Rams",
+    "Games": 16,
+    "Attempts": "390",
+    "Yards": "1,808",
+    "YPC": 4.6,
+    "Long": "@@@_786.8080876181",
+    "TDs": 18
+  },
+  {
+    "Year": "1984",
+    "Team": "Los Angeles Rams",
+    "Games": 16,
+    "Attempts": "379",
+    "Yards": "2,105",
+    "YPC": 5.6,
+    "Long": 66.0,
+    "TDs": 14
+  },
+  {
+    "Year": "1985",
+    "Team": "Los Angeles Rams",
+    "Games": 14,
+    "Attempts": "292",
+    "Yards": "1,234",
+    "YPC": 4.2,
+    "Long": 43.0,
+    "TDs": 12
+  },
+  {
+    "Year": "1986",
+    "Team": "Los Angeles Rams",
+    "Games": "@@@_295",
+    "Attempts": "404",
+    "Yards": "1,821",
+    "YPC": 4.5,
+    "Long": 42.0,
+    "TDs": 11
+  },
+  {
+    "Year": "1987",
+    "Team": "Los Angeles Rams",
+    "Games": 3,
+    "Attempts": "60",
+    "Yards": "277",
+    "YPC": 4.6,
+    "Long": 57.0,
+    "TDs": 1
+  },
+  {
+    "Year": "1987",
+    "Team": "Indianapolis Colts",
+    "Games": "@@@_-43",
+    "Attempts": "223",
+    "Yards": "1,011",
+    "YPC": 4.5,
+    "Long": 53.0,
+    "TDs": 5
+  },
+  {
+    "Year": "1988",
+    "Team": "Indianapolis Colts",
+    "Games": 16,
+    "Attempts": "388",
+    "Yards": "1,659",
+    "YPC": 4.3,
+    "Long": 41.0,
+    "TDs": "@@@_187"
+  },
+  {
+    "Year": "1989",
+    "Team": "Indianapolis Colts",
+    "Games": 15,
+    "Attempts": "314",
+    "Yards": "1,311",
+    "YPC": 4.2,
+    "Long": 21.0,
+    "TDs": 7
+  },
+  {
+    "Year": "1990",
+    "Team": "Indianapolis Colts",
+    "Games": 11,
+    "Attempts": "166",
+    "Yards": "677",
+    "YPC": 4.1,
+    "Long": 43.0,
+    "TDs": 4
+  },
+  {
+    "Year": "1991",
+    "Team": "Indianapolis Colts",
+    "Games": 10,
+    "Attempts": "167",
+    "Yards": "536",
+    "YPC": 3.2,
+    "Long": "@@@_None",
+    "TDs": 2
+  },
+  {
+    "Year": "1992",
+    "Team": "Los Angeles Raiders",
+    "Games": 16,
+    "Attempts": "187",
+    "Yards": "729",
+    "YPC": 3.9,
+    "Long": 40.0,
+    "TDs": 2
+  },
+  {
+    "Year": "1993",
+    "Team": "Atlanta Falcons",
+    "Games": 4,
+    "Attempts": "26",
+    "Yards": "91",
+    "YPC": 3.5,
+    "Long": 10.0,
+    "TDs": 0
+  },
+  {
+    "Year": "Career",
+    "Team": null,
+    "Games": 146,
+    "Attempts": "2,996",
+    "Yards": "13,259",
+    "YPC": 4.4,
+    "Long": 85.0,
+    "TDs": 90
+  }
+]

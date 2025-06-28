@@ -1,0 +1,44 @@
+[
+    {
+        "Year":2018,
+        "Award":"Brussels Short Film Festival",
+        "Category":"Best Actor",
+        "Work":"Make Aliens Dance",
+        "Result":"Won"
+    },
+    {
+        "Year":2018,
+        "Award":"Eindhoven Film Festival",
+        "Category":"Best Actor",
+        "Work":"Make Aliens Dance",
+        "Result":"Won"
+    },
+    {
+        "Year":2019,
+        "Award":"Hyperwave Film Awards",
+        "Category":"Best Actor",
+        "Work":"Make Aliens Dance",
+        "Result":"@@@_Lost"
+    },
+    {
+        "Year":2020,
+        "Award":"Mars International Film Festival",
+        "Category":"Best Director",
+        "Work":"Interstellar Voyage",
+        "Result":"Won"
+    },
+    {
+        "Year":2021,
+        "Award":"Venice Film Festival",
+        "Category":"Best Actor",
+        "Work":"The Silent Wave",
+        "Result":"Lost"
+    },
+    {
+        "Year":2022,
+        "Award":"Cannes Film Festival",
+        "Category":"Best Actress",
+        "Work":"The Silent Wave",
+        "Result":"Won"
+    }
+]

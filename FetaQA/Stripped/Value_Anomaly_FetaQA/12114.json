@@ -1,0 +1,234 @@
+[
+    {
+        "Year":"Representing Ukraine",
+        "Competition":"Representing Ukraine",
+        "Venue":"Representing Ukraine",
+        "Position":"Representing Ukraine",
+        "Event":"Representing Ukraine",
+        "Notes":"Representing Ukraine"
+    },
+    {
+        "Year":2007,
+        "Competition":"European Junior Championships",
+        "Venue":"Hengelo, Netherlands",
+        "Position":"2nd",
+        "Event":"4 \u00d7 100 m relay",
+        "Notes":44.77
+    },
+    {
+        "Year":2008,
+        "Competition":"World Junior Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"6th",
+        "Event":"400m hurdles",
+        "Notes":58.43
+    },
+    {
+        "Year":2008,
+        "Competition":"World Junior Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"2nd",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:34.20 (NJ)"
+    },
+    {
+        "Year":2009,
+        "Competition":"European U23 Championships",
+        "Venue":"Kaunas, Lithuania",
+        "Position":"8th",
+        "Event":"400m hurdles",
+        "Notes":57.26
+    },
+    {
+        "Year":2009,
+        "Competition":"European U23 Championships",
+        "Venue":"Kaunas, Lithuania",
+        "Position":"4th",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:30.78"
+    },
+    {
+        "Year":2010,
+        "Competition":"European Championships",
+        "Venue":"Barcelona, Spain",
+        "Position":"11th (h)",
+        "Event":"400 m hurdles",
+        "Notes":56.29
+    },
+    {
+        "Year":2011,
+        "Competition":"European U23 Championships",
+        "Venue":"Ostrava, Czech Republic",
+        "Position":"1st",
+        "Event":"400 m hurdles",
+        "Notes":"54.77 (PB)"
+    },
+    {
+        "Year":2011,
+        "Competition":"European U23 Championships",
+        "Venue":"Ostrava, Czech Republic",
+        "Position":"2nd",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:30.13"
+    },
+    {
+        "Year":2011,
+        "Competition":"Universiade",
+        "Venue":"Shenzhen, China",
+        "Position":"1st",
+        "Event":"400 m hurdles",
+        "Notes":55.15
+    },
+    {
+        "Year":2011,
+        "Competition":"World Championships",
+        "Venue":"Daegu, South Korea",
+        "Position":"10th (sf)",
+        "Event":"400 m hurdles",
+        "Notes":55.09
+    },
+    {
+        "Year":2011,
+        "Competition":"World Championships",
+        "Venue":"Daegu, South Korea",
+        "Position":"\u2013",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"DQ"
+    },
+    {
+        "Year":2012,
+        "Competition":"European Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"3rd",
+        "Event":"400 m hurdles",
+        "Notes":"54.35 (PB)"
+    },
+    {
+        "Year":2012,
+        "Competition":"Olympic Games",
+        "Venue":"London, United Kingdom",
+        "Position":"12th (sf)",
+        "Event":"400 m hurdles",
+        "Notes":55.51
+    },
+    {
+        "Year":2013,
+        "Competition":"European Team Championships",
+        "Venue":"Gateshead, Great Britain",
+        "Position":"2nd",
+        "Event":"400 m hurdles",
+        "Notes":55.27
+    },
+    {
+        "Year":2013,
+        "Competition":"Universiade",
+        "Venue":"Kazan, Russia",
+        "Position":"2nd",
+        "Event":"400 m hurdles",
+        "Notes":54.77
+    },
+    {
+        "Year":2013,
+        "Competition":"World Championships",
+        "Venue":"Moscow, Russia",
+        "Position":"6th",
+        "Event":"400 m hurdles",
+        "Notes":55.01
+    },
+    {
+        "Year":2014,
+        "Competition":"European Team Championships",
+        "Venue":"Braunschweig, Germany",
+        "Position":"1st",
+        "Event":"400 m hurdles",
+        "Notes":55.0
+    },
+    {
+        "Year":2014,
+        "Competition":"European Team Championships",
+        "Venue":"Braunschweig, Germany",
+        "Position":"1st",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:27.66"
+    },
+    {
+        "Year":2014,
+        "Competition":"European Championships",
+        "Venue":"Z\u00fcrich, Switzerland",
+        "Position":"\u2013",
+        "Event":"400 m hurdles",
+        "Notes":"DQ"
+    },
+    {
+        "Year":2014,
+        "Competition":"European Championships",
+        "Venue":"Z\u00fcrich, Switzerland",
+        "Position":"2nd",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:24.32"
+    },
+    {
+        "Year":2015,
+        "Competition":"World Championships",
+        "Venue":"Beijing, China",
+        "Position":"9th (sf)",
+        "Event":"400 m hurdles",
+        "Notes":55.16
+    },
+    {
+        "Year":2015,
+        "Competition":"Military World Games",
+        "Venue":"Mungyeong, South Korea",
+        "Position":"\u2013",
+        "Event":"100 m hurdles",
+        "Notes":"DNF"
+    },
+    {
+        "Year":2015,
+        "Competition":"Military World Games",
+        "Venue":"Mungyeong, South Korea",
+        "Position":"2nd",
+        "Event":"400 m hurdles",
+        "Notes":55.74
+    },
+    {
+        "Year":2015,
+        "Competition":"Military World Games",
+        "Venue":"Mungyeong, South Korea",
+        "Position":"2nd",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:30.66"
+    },
+    {
+        "Year":2018,
+        "Competition":"World Indoor Championships",
+        "Venue":"Birmingham, United Kingdom",
+        "Position":"8th (sf)",
+        "Event":"400 m",
+        "Notes":52.74
+    },
+    {
+        "Year":2018,
+        "Competition":"World Indoor Championships",
+        "Venue":"Birmingham, United Kingdom",
+        "Position":"4th",
+        "Event":"4 \u00d7 400 m relay",
+        "Notes":"3:31.32"
+    },
+    {
+        "Year":2018,
+        "Competition":"European Championships",
+        "Venue":"Berlin, Germany",
+        "Position":"2nd",
+        "Event":"400 m hurdles",
+        "Notes":54.51
+    },
+    {
+        "Year":2019,
+        "Competition":"European Indoor Championships",
+        "Venue":"Glasgow, United Kingdom",
+        "Position":"9th (sf)",
+        "Event":"400 m",
+        "Notes":53.22
+    }
+]

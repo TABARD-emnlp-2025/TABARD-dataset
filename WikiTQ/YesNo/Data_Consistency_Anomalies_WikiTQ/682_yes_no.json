@@ -1,0 +1,66 @@
+[
+    {
+        "Rank": "no",
+        "Nation": "no",
+        "Gold": "no",
+        "Silver": "no",
+        "Bronze": "no",
+        "Total": "no"
+    },
+    {
+        "Rank": "no",
+        "Nation": "yes",
+        "Gold": "no",
+        "Silver": "no",
+        "Bronze": "no",
+        "Total": "no"
+    },
+    {
+        "Rank": "no",
+        "Nation": "no",
+        "Gold": "no",
+        "Silver": "no",
+        "Bronze": "no",
+        "Total": "no"
+    },
+    {
+        "Rank": "no",
+        "Nation": "no",
+        "Gold": "no",
+        "Silver": "no",
+        "Bronze": "no",
+        "Total": "yes"
+    },
+    {
+        "Rank": "no",
+        "Nation": "no",
+        "Gold": "no",
+        "Silver": "no",
+        "Bronze": "yes",
+        "Total": "no"
+    },
+    {
+        "Rank": "yes",
+        "Nation": "yes",
+        "Gold": "yes",
+        "Silver": "no",
+        "Bronze": "yes",
+        "Total": "no"
+    },
+    {
+        "Rank": "yes",
+        "Nation": "yes",
+        "Gold": "yes",
+        "Silver": "yes",
+        "Bronze": "yes",
+        "Total": "yes"
+    },
+    {
+        "Rank": "no",
+        "Nation": "no",
+        "Gold": "no",
+        "Silver": "no",
+        "Bronze": "no",
+        "Total": "no"
+    }
+]

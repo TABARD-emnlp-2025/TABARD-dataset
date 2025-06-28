@@ -1,0 +1,98 @@
+[
+    {
+        "Year":"Representing Kenya",
+        "Competition":"Representing Kenya",
+        "Venue":"Representing Kenya",
+        "Position":"Representing Kenya",
+        "Event":"Representing Kenya",
+        "Notes":"Representing Kenya"
+    },
+    {
+        "Year":1994,
+        "Competition":"Hokkaido Marathon",
+        "Venue":"Sapporo, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:15:03"
+    },
+    {
+        "Year":1995,
+        "Competition":"Tokyo Marathon",
+        "Venue":"Tokyo, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:10:31"
+    },
+    {
+        "Year":1995,
+        "Competition":"World Championships",
+        "Venue":"Gothenburg, Sweden",
+        "Position":"18th",
+        "Event":"Marathon",
+        "Notes":"2:19:53"
+    },
+    {
+        "Year":1996,
+        "Competition":"Olympic Games",
+        "Venue":"Atlanta, United States",
+        "Position":"3rd",
+        "Event":"Marathon",
+        "Notes":"2:12:44"
+    },
+    {
+        "Year":1997,
+        "Competition":"Hokkaido Marathon",
+        "Venue":"Sapporo, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:13:45"
+    },
+    {
+        "Year":2000,
+        "Competition":"Nagano Marathon",
+        "Venue":"Nagano, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:10:17"
+    },
+    {
+        "Year":2000,
+        "Competition":"Olympic Games",
+        "Venue":"Sydney, Australia",
+        "Position":"2nd",
+        "Event":"Marathon",
+        "Notes":"2:10:31"
+    },
+    {
+        "Year":2002,
+        "Competition":"Tokyo Marathon",
+        "Venue":"Tokyo, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:08:43"
+    },
+    {
+        "Year":2003,
+        "Competition":"Nagano Marathon",
+        "Venue":"Nagano, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:12:00"
+    },
+    {
+        "Year":2003,
+        "Competition":"Hokkaido Marathon",
+        "Venue":"Sapporo, Japan",
+        "Position":"1st",
+        "Event":"Marathon",
+        "Notes":"2:13:13"
+    },
+    {
+        "Year":2004,
+        "Competition":"Olympic Games",
+        "Venue":"Athens, Greece",
+        "Position":"7th",
+        "Event":"Marathon",
+        "Notes":"2:13:30"
+    }
+]

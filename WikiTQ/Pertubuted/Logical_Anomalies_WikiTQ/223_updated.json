@@ -1,0 +1,74 @@
+[
+    {
+        "Party":"Conservatives",
+        "Previous council":29,
+        "Staying councillors":19,
+        "Seats up for election":10,
+        "Election result":8,
+        "New council":28
+    },
+    {
+        "Party":"Labour",
+        "Previous council":19,
+        "Staying councillors":13,
+        "Seats up for election":6,
+        "Election result":10,
+        "New council":23
+    },
+    {
+        "Party":"Socialist Alternative",
+        "Previous council":3,
+        "Staying councillors":2,
+        "Seats up for election":1,
+        "Election result":0,
+        "New council":2
+    },
+    {
+        "Party":"Liberal Democrats",
+        "Previous council":2,
+        "Staying councillors":1,
+        "Seats up for election":1,
+        "Election result":0,
+        "New council":1
+    },
+    {
+        "Party":"British National Party",
+        "Previous council":0,
+        "Staying councillors":0,
+        "Seats up for election":0,
+        "Election result":0,
+        "New council":0
+    },
+    {
+        "Party":"Green",
+        "Previous council":0,
+        "Staying councillors":0,
+        "Seats up for election":0,
+        "Election result":"@@@_5",
+        "New council":"@@@_4"
+    },
+    {
+        "Party":"Independent",
+        "Previous council":0,
+        "Staying councillors":0,
+        "Seats up for election":0,
+        "Election result":0,
+        "New council":"@@@_1"
+    },
+    {
+        "Party":"Respect",
+        "Previous council":0,
+        "Staying councillors":"@@@_10",
+        "Seats up for election":0,
+        "Election result":0,
+        "New council":0
+    },
+    {
+        "Party":"Total",
+        "Previous council":54,
+        "Staying councillors":36,
+        "Seats up for election":18,
+        "Election result":18,
+        "New council":"@@@_60"
+    }
+]

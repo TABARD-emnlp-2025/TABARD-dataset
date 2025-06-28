@@ -1,0 +1,16 @@
+[
+    {
+        "Call sign":"W250CF",
+        "Frequency (MHz)":null,
+        "City of license":null,
+        "ERP W":-0.091375,
+        "FCC info":"FCC"
+    },
+    {
+        "Call sign":"W256DX",
+        "Frequency (MHz)":"99.1 FM",
+        "City of license":"Aguadilla, Puerto Rico",
+        "ERP W":-0.1355,
+        "FCC info":"FCC"
+    }
+]

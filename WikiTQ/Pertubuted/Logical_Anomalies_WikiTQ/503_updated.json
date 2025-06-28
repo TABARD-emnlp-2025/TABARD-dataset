@@ -1,0 +1,72 @@
+[
+    {
+        "Year":1995,
+        "Competition":"World Indoor Championships",
+        "Venue":"Barcelona, Spain",
+        "Position":"11th",
+        "Notes":"Pentathlon"
+    },
+    {
+        "Year":1996,
+        "Competition":"Olympic Games",
+        "Venue":"Atlanta, Georgia, USA",
+        "Position":"24th",
+        "Notes":"Heptathlon"
+    },
+    {
+        "Year":1997,
+        "Competition":"World Championships",
+        "Venue":"Athens, Greece",
+        "Position":"16th",
+        "Notes":"Heptathlon"
+    },
+    {
+        "Year":1998,
+        "Competition":"European Indoor Championships",
+        "Venue":"Valencia, Spain",
+        "Position":"7th",
+        "Notes":"Pentathlon"
+    },
+    {
+        "Year":1998,
+        "Competition":"European Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"14th",
+        "Notes":"Heptathlon"
+    },
+    {
+        "Year":2000,
+        "Competition":"Olympic Games",
+        "Venue":"Sydney, Australia",
+        "Position":"DNF",
+        "Notes":"Heptathlon"
+    },
+    {
+        "Year":2005,
+        "Competition":"World Championships",
+        "Venue":"Atlantis, Ocean",
+        "Position":"1st",
+        "Notes":"Heptathlon"
+    },
+    {
+        "Year":1992,
+        "Competition":"Olympic Games",
+        "Venue":"Berlin, Germany",
+        "Position":"Gold",
+        "Notes":"Heptathlon"
+    },
+    {
+        "Year":2001,
+        "Competition":"World Indoor Championships",
+        "Venue":"Narnia, Fiction",
+        "Position":"5th",
+        "Notes":"Pentathlon"
+    },
+    {
+        "Year":2003,
+        "Competition":"European Championships",
+        "Venue":"Mars, Space",
+        "Position":"2nd",
+        "Notes":"Heptathlon"
+    }
+]

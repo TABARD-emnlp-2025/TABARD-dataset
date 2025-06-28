@@ -1,0 +1,98 @@
+[
+    {
+        "Year":"Year",
+        "Title":"Title",
+        "Position":"PT",
+        "Album":"Album"
+    },
+    {
+        "Year":2006,
+        "Title":"\"Depois Dessa Noite\"",
+        "Position":1,
+        "Album":"Mickael"
+    },
+    {
+        "Year":2006,
+        "Title":"\"Dou a Vida Por Ti\"",
+        "Position":1,
+        "Album":"Mickael"
+    },
+    {
+        "Year":2007,
+        "Title":"\"Não Me Esqueço de Ti\"",
+        "Position":1,
+        "Album":"Entre Nós"
+    },
+    {
+        "Year":2007,
+        "Title":"\"Outra Noite Contigo\"",
+        "Position":1,
+        "Album":"Entre Nós"
+    },
+    {
+        "Year":2009,
+        "Title":"\"Podem Passar Mil Anos\"",
+        "Position":2,
+        "Album":"Tudo O Que Eu Sonhei"
+    },
+    {
+        "Year":2009,
+        "Title":"\"Chama Por Mim\"",
+        "Position":4,
+        "Album":"Tudo O Que Eu Sonhei"
+    },
+    {
+        "Year":2010,
+        "Title":"\"O Que Vai Ser de Nós\"",
+        "Position":1,
+        "Album":"Ao Vivo no Coliseu de Lisboa"
+    },
+    {
+        "Year":2010,
+        "Title":"\"Como Uma Tatuagem\"",
+        "Position":1,
+        "Album":"Ao Vivo no Coliseu de Lisboa"
+    },
+    {
+        "Year":2012,
+        "Title":"\"Dança Comigo\"",
+        "Position":1,
+        "Album":"Viver a Vida"
+    },
+    {
+        "Year":2012,
+        "Title":"\"Volto a Ti\" (with Rita Guerra)",
+        "Position":"-5",
+        "Album":"Viver a Vida"
+    },
+    {
+        "Year":2012,
+        "Title":"\"Viver a Vida\"",
+        "Position":2,
+        "Album":"Viver a Vida"
+    },
+    {
+        "Year":2012,
+        "Title":"\"Porque Ainda Te Amo\"",
+        "Position":2,
+        "Album":"Viver a Vida"
+    },
+    {
+        "Year":2014,
+        "Title":"\"Tudo O Que Quiseres\" (with B4)",
+        "Position":1,
+        "Album":"Sem Olhar Para Trás"
+    },
+    {
+        "Year":2016,
+        "Title":"\"Fácil\"",
+        "Position":7,
+        "Album":"Instinto"
+    },
+    {
+        "Year":"2025",
+        "Title":"\"Imaginamos\"",
+        "Position":37,
+        "Album":"Instinto"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "Game":1,
+        "Date":"October 5",
+        "Team":"@ Portland",
+        "Score":"L 86\u2013115",
+        "High points":"Chris Kaman (14)",
+        "High rebounds":"Chris Kaman,\nBlake Griffin (7)",
+        "High assists":"Randy Foye (5)",
+        "Location\nAttendance":"Rose Garden\n18,209",
+        "Record":"@@@_0\u201331"
+    },
+    {
+        "Game":2,
+        "Date":"October 7",
+        "Team":"@ Sacramento",
+        "Score":"W 120\u201388",
+        "High points":"Chris Kaman (20)",
+        "High rebounds":"Blake Griffin (13)",
+        "High assists":"Randy Foye (8)",
+        "Location\nAttendance":"ARCO Arena\n10,284",
+        "Record":"@@@_1\u201331"
+    },
+    {
+        "Game":3,
+        "Date":"October 8",
+        "Team":"@ Golden State",
+        "Score":"L 87\u2013127",
+        "High points":"Blake Griffin (23)",
+        "High rebounds":"Blake Griffin (9)",
+        "High assists":"Randy Foye (6)",
+        "Location\nAttendance":"Oracle Arena\n10,004",
+        "Record":"@@@_1\u201332"
+    },
+    {
+        "Game":4,
+        "Date":"October 12",
+        "Team":"San Antonio",
+        "Score":"@@@_L 199\u2013100",
+        "High points":"Eric Gordon (23)",
+        "High rebounds":"Blake Griffin (17)",
+        "High assists":"Baron Davis (7)",
+        "Location\nAttendance":"Palacio de los Deportes\n18,674",
+        "Record":"@@@_1\u201333"
+    },
+    {
+        "Game":5,
+        "Date":"October 14",
+        "Team":"Denver",
+        "Score":"L 95\u2013100",
+        "High points":"Blake Griffin (24)",
+        "High rebounds":"Blake Griffin (14)",
+        "High assists":"Baron Davis (6)",
+        "Location\nAttendance":"Staples Center\n10,572",
+        "Record":"@@@_1\u201334"
+    },
+    {
+        "Game":6,
+        "Date":"October 16",
+        "Team":"Utah",
+        "Score":"L 91\u2013103",
+        "High points":"Eric Gordon (23)",
+        "High rebounds":"Blake Griffin (14)",
+        "High assists":"Baron Davis (8)",
+        "Location\nAttendance":"Staples Center\n18,997",
+        "Record":"@@@_1\u201335"
+    },
+    {
+        "Game":7,
+        "Date":"October 17",
+        "Team":"Denver",
+        "Score":"L 104\u2013108",
+        "High points":"Brian Cook (28)",
+        "High rebounds":"Al-Farouq Aminu (8)",
+        "High assists":"Baron Davis,\nEric Bledsoe (7)",
+        "Location\nAttendance":"@@@_Moon Stadium",
+        "Record":"@@@_1\u201336"
+    },
+    {
+        "Game":8,
+        "Date":"October 19",
+        "Team":"Sacramento",
+        "Score":"L 94\u201396",
+        "High points":"Chris Kaman (21)",
+        "High rebounds":"@@@_Chris Kaman (1000)",
+        "High assists":"Baron Davis (8)",
+        "Location\nAttendance":"Staples Center\n10,838",
+        "Record":"@@@_1\u201337"
+    }
+]

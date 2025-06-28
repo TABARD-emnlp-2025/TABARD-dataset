@@ -1,0 +1,74 @@
+[
+    {
+        "Party":"No",
+        "Previous council":"No",
+        "Staying councillors":"No",
+        "Seats up for election":"No",
+        "Election result":"No",
+        "New council":"No"
+    },
+    {
+        "Party":"No",
+        "Previous council":"Yes",
+        "Staying councillors":"No",
+        "Seats up for election":"No",
+        "Election result":"No",
+        "New council":"No"
+    },
+    {
+        "Party":"No",
+        "Previous council":"No",
+        "Staying councillors":"Yes",
+        "Seats up for election":"No",
+        "Election result":"No",
+        "New council":"No"
+    },
+    {
+        "Party":"No",
+        "Previous council":"No",
+        "Staying councillors":"No",
+        "Seats up for election":"No",
+        "Election result":"Yes",
+        "New council":"No"
+    },
+    {
+        "Party":"No",
+        "Previous council":"Yes",
+        "Staying councillors":"No",
+        "Seats up for election":"No",
+        "Election result":"No",
+        "New council":"No"
+    },
+    {
+        "Party":"No",
+        "Previous council":"No",
+        "Staying councillors":"No",
+        "Seats up for election":"No",
+        "Election result":"No",
+        "New council":"No"
+    },
+    {
+        "Party":"No",
+        "Previous council":"No",
+        "Staying councillors":"No",
+        "Seats up for election":"No",
+        "Election result":"No",
+        "New council":"No"
+    },
+    {
+        "Party":"No",
+        "Previous council":"No",
+        "Staying councillors":"No",
+        "Seats up for election":"No",
+        "Election result":"No",
+        "New council":"No"
+    },
+    {
+        "Party":"No",
+        "Previous council":"No",
+        "Staying councillors":"No",
+        "Seats up for election":"No",
+        "Election result":"Yes",
+        "New council":"No"
+    }
+]

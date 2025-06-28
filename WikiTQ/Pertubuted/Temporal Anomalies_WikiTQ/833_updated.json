@@ -1,0 +1,90 @@
+[
+    {
+        "Game":75,
+        "Date":"April 1",
+        "Team":"@ Sacramento",
+        "Score":"W 99\u201390",
+        "High points":"Raymond Felton (17)",
+        "High rebounds":"Nen\u00ea (12)",
+        "High assists":"Nen\u00ea (6)",
+        "Location\nAttendance":"Power Balance Pavilion\n15,871",
+        "Record":"46\u201329"
+    },
+    {
+        "Game":76,
+        "Date":"April 3",
+        "Team":"@ L.A. Lakers",
+        "Score":"W 95\u201390",
+        "High points":"Danilo Gallinari (22)",
+        "High rebounds":"Kenyon Martin (8)",
+        "High assists":"Ty Lawson (8)",
+        "Location\nAttendance":"Staples Center\n18,997",
+        "Record":"47\u201329"
+    },
+    {
+        "Game":77,
+        "Date":"April 5",
+        "Team":"Oklahoma City",
+        "Score":"L 94\u2013101",
+        "High points":"Ty Lawson (28)",
+        "High rebounds":"Nen\u00ea (8)",
+        "High assists":"Ty Lawson (5)",
+        "Location\nAttendance":"Pepsi Center\n18,203",
+        "Record":"47\u201330"
+    },
+    {
+        "Game":78,
+        "Date":"April 6",
+        "Team":"@ Dallas",
+        "Score":"W 104\u201396",
+        "High points":"J. R. Smith (23)",
+        "High rebounds":"Nen\u00ea (15)",
+        "High assists":"Ty Lawson (8)",
+        "Location\nAttendance":"American Airlines Center\n20,364",
+        "Record":"48\u201330"
+    },
+    {
+        "Game":79,
+        "Date":"April 8",
+        "Team":"@ Oklahoma City",
+        "Score":"L 89\u2013104",
+        "High points":"Nen\u00ea (18)",
+        "High rebounds":"Kenyon Martin (13)",
+        "High assists":"Ty Lawson (6)",
+        "Location\nAttendance":"@@@_Oklahoma City Arena\n19,000",
+        "Record":"48\u201331"
+    },
+    {
+        "Game":80,
+        "Date":"April 9",
+        "Team":"Minnesota",
+        "Score":"W 130\u2013106",
+        "High points":"Ty Lawson (37)",
+        "High rebounds":"Kenyon Martin,\nJ. R. Smith (8)",
+        "High assists":"Raymond Felton (14)",
+        "Location\nAttendance":"Pepsi Center\n19,155",
+        "Record":"49\u201331"
+    },
+    {
+        "Game":81,
+        "Date":"April 11",
+        "Team":"Golden State",
+        "Score":"W 134\u2013111",
+        "High points":"J. R. Smith (22)",
+        "High rebounds":"Chris Andersen (12)",
+        "High assists":"Raymond Felton (10)",
+        "Location\nAttendance":"Pepsi Center\n19,155",
+        "Record":"50\u201332"
+    },
+    {
+        "Game":82,
+        "Date":"April 13",
+        "Team":"@ Utah",
+        "Score":"L 103\u2013107",
+        "High points":"Wilson Chandler (27)",
+        "High rebounds":"Chris Andersen (10)",
+        "High assists":"Wilson Chandler,\nGary Forbes,\nAl Harrington,\nTy Lawson,\nJ. R. Smith (3)",
+        "Location\nAttendance":"EnergySolutions Arena\n19,051",
+        "Record":"51\u201332"
+    }
+]

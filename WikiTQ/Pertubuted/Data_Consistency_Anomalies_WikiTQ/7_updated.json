@@ -1,0 +1,51 @@
+[
+    {
+        "Year":1980,
+        "Gross Domestic Product":"7,764",
+        "US Dollar Exchange":"0.27 Kuwaiti Dinars",
+        "Inflation Index\n(2000=100)":55,
+        "Per Capita Income\n(as % of USA)":171.08
+    },
+    {
+        "Year":1985,
+        "Gross Domestic Product":"6,450",
+        "US Dollar Exchange":"@@@_0.29 kwd",
+        "Inflation Index\n(2000=100)":68,
+        "Per Capita Income\n(as % of USA)":71.58
+    },
+    {
+        "Year":1990,
+        "Gross Domestic Product":"5,328",
+        "US Dollar Exchange":"0.29 Kuwaiti Dinars",
+        "Inflation Index\n(2000=100)":80,
+        "Per Capita Income\n(as % of USA)":37.0
+    },
+    {
+        "Year":1995,
+        "Gross Domestic Product":"8,114",
+        "US Dollar Exchange":"0.29 Kuwaiti Dinars",
+        "Inflation Index\n(2000=100)":92,
+        "Per Capita Income\n(as % of USA)":"@@@_62,14"
+    },
+    {
+        "Year":2000,
+        "Gross Domestic Product":"11,570",
+        "US Dollar Exchange":"0.30 Kuwaiti Dinars",
+        "Inflation Index\n(2000=100)":100,
+        "Per Capita Income\n(as % of USA)":48.92
+    },
+    {
+        "Year":2005,
+        "Gross Domestic Product":"21,783",
+        "US Dollar Exchange":"0.29 Kuwaiti Dinars",
+        "Inflation Index\n(2000=100)":108,
+        "Per Capita Income\n(as % of USA)":64.35
+    },
+    {
+        "Year":2005,
+        "Gross Domestic Product":"20,000",
+        "US Dollar Exchange":"0.29 Kuwaiti Dinars",
+        "Inflation Index\n(2000=100)":108,
+        "Per Capita Income\n(as % of USA)":64.35
+    }
+]

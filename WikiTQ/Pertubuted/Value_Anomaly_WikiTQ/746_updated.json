@@ -1,0 +1,218 @@
+[
+  {
+    "Unnamed: 0": 1.0,
+    "Date": "29 August",
+    "Opponents": "Doncaster Knights",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "30 – 14",
+    "Attendance": 2232.0
+  },
+  {
+    "Unnamed: 0": 2.0,
+    "Date": "5 September",
+    "Opponents": "London Welsh",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "@@@_None",
+    "Attendance": 2047.0
+  },
+  {
+    "Unnamed: 0": 3.0,
+    "Date": "11 September",
+    "Opponents": "Moseley",
+    "H / A": "A",
+    "Result": "D",
+    "Score": "26 – 26",
+    "Attendance": 751.0
+  },
+  {
+    "Unnamed: 0": 4.0,
+    "Date": "19 September",
+    "Opponents": "Birmingham & Solihull",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "32 – 15",
+    "Attendance": 1672.0
+  },
+  {
+    "Unnamed: 0": 5.0,
+    "Date": "26 September",
+    "Opponents": "Bristol",
+    "H / A": "A",
+    "Result": "L",
+    "Score": "7 – 21",
+    "Attendance": 4379.0
+  },
+  {
+    "Unnamed: 0": 6.0,
+    "Date": "3 October",
+    "Opponents": "Plymouth Albion",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "46 – 13",
+    "Attendance": 2439.0
+  },
+  {
+    "Unnamed: 0": 7.0,
+    "Date": "9 October",
+    "Opponents": "Bedford",
+    "H / A": "A",
+    "Result": "L",
+    "Score": "25 – 32",
+    "Attendance": 3243.0
+  },
+  {
+    "Unnamed: 0": 8.0,
+    "Date": "17 October",
+    "Opponents": "Rotherham Titans",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "40 – 15",
+    "Attendance": "@@@_55754.3328314761"
+  },
+  {
+    "Unnamed: 0": 9.0,
+    "Date": "22 October",
+    "Opponents": "Worcester Warriors",
+    "H / A": "A",
+    "Result": "W",
+    "Score": "23 – 21",
+    "Attendance": 6928.0
+  },
+  {
+    "Unnamed: 0": 10.0,
+    "Date": "31 October",
+    "Opponents": "Esher",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "54 – 6",
+    "Attendance": 1767.0
+  },
+  {
+    "Unnamed: 0": 11.0,
+    "Date": "7 November",
+    "Opponents": "Nottingham",
+    "H / A": "A",
+    "Result": "W",
+    "Score": "36 – 10",
+    "Attendance": 1637.0
+  },
+  {
+    "Unnamed: 0": 12.0,
+    "Date": "14 November",
+    "Opponents": "London Welsh",
+    "H / A": "@@@_None",
+    "Result": "L",
+    "Score": "16 – 23",
+    "Attendance": 1250.0
+  },
+  {
+    "Unnamed: 0": 13.0,
+    "Date": "21 November",
+    "Opponents": "Moseley",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "50 – 7",
+    "Attendance": "@@@_42438.6951550501"
+  },
+  {
+    "Unnamed: 0": null,
+    "Date": "28 November",
+    "Opponents": "Birmingham & Solihull",
+    "H / A": "A",
+    "Result": null,
+    "Score": "P – P",
+    "Attendance": null
+  },
+  {
+    "Unnamed: 0": 14.0,
+    "Date": "5 December",
+    "Opponents": "Bristol",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "16 – 6",
+    "Attendance": 2253.0
+  },
+  {
+    "Unnamed: 0": 15.0,
+    "Date": "15 December",
+    "Opponents": "Birmingham & Solihull",
+    "H / A": "A",
+    "Result": "W",
+    "Score": "61 – 28",
+    "Attendance": 407.0
+  },
+  {
+    "Unnamed: 0": null,
+    "Date": "26 December",
+    "Opponents": "Plymouth Albion",
+    "H / A": "A",
+    "Result": null,
+    "Score": "P – P",
+    "Attendance": null
+  },
+  {
+    "Unnamed: 0": "@@@_183.5055868848",
+    "Date": "2 January",
+    "Opponents": "Bedford Blues",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "23 – 13",
+    "Attendance": 3051.0
+  },
+  {
+    "Unnamed: 0": 17.0,
+    "Date": "8 January",
+    "Opponents": "Rotherham Titans",
+    "H / A": "A",
+    "Result": "L",
+    "Score": "18 – 19",
+    "Attendance": 1067.0
+  },
+  {
+    "Unnamed: 0": 18.0,
+    "Date": "12 January",
+    "Opponents": "Plymouth Albion",
+    "H / A": "A",
+    "Result": "W",
+    "Score": "10 – 6",
+    "Attendance": 2512.0
+  },
+  {
+    "Unnamed: 0": 19.0,
+    "Date": "30 January",
+    "Opponents": "Worcester Warriors",
+    "H / A": "H",
+    "Result": "L",
+    "Score": "30 – 33",
+    "Attendance": 1976.0
+  },
+  {
+    "Unnamed: 0": 20.0,
+    "Date": "5 February",
+    "Opponents": "Esher",
+    "H / A": "A",
+    "Result": "L",
+    "Score": "12 – 13",
+    "Attendance": 1338.0
+  },
+  {
+    "Unnamed: 0": 21.0,
+    "Date": "13 February",
+    "Opponents": "Nottingham",
+    "H / A": "H",
+    "Result": "W",
+    "Score": "40 – 0",
+    "Attendance": 2486.0
+  },
+  {
+    "Unnamed: 0": 22.0,
+    "Date": "19 February",
+    "Opponents": "Doncaster Knights",
+    "H / A": "A",
+    "Result": "W",
+    "Score": "16 – 13",
+    "Attendance": 1091.0
+  }
+]

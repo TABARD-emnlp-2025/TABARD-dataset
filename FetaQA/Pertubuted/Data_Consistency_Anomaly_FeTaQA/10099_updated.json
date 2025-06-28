@@ -1,0 +1,44 @@
+[
+    {
+        "Year":1995,
+        "Award":"National Film Awards",
+        "Category":"Best Female Playback Singer",
+        "Film":"Love Story",
+        "Result":"Won"
+    },
+    {
+        "Year":2001,
+        "Award":"@@@_national film awards",
+        "Category":"Best Female Playback Singer",
+        "Film":"Premer Taj Mahal",
+        "Result":"Won"
+    },
+    {
+        "Year":2008,
+        "Award":"National Film Awards",
+        "Category":"Best Female Playback Singer",
+        "Film":"Ek Takar Bou",
+        "Result":"@@@_WON"
+    },
+    {
+        "Year":2008,
+        "Award":"National Film Awards",
+        "Category":"Best Female playback singer",
+        "Film":"Ek Takar Bou",
+        "Result":"Won"
+    },
+    {
+        "Year":2001,
+        "Award":"National Film Awards",
+        "Category":"Best Female Playback Singer",
+        "Film":"Premer Taj Mahal",
+        "Result":"won"
+    },
+    {
+        "Year":1995,
+        "Award":"National Film Awards",
+        "Category":"Best Female Playback Singer",
+        "Film":"",
+        "Result":"Won"
+    }
+]

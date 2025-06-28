@@ -1,0 +1,72 @@
+[
+    {
+        "#":"1",
+        "Player":"Landon Donovan",
+        "Goals":57,
+        "Caps":155,
+        "Career":"@@@_2000-present"
+    },
+    {
+        "#":"2",
+        "Player":"Clint Dempsey",
+        "Goals":36,
+        "Caps":"@@@_103",
+        "Career":"@@@_2004-present"
+    },
+    {
+        "#":"3",
+        "Player":"Eric Wynalda",
+        "Goals":34,
+        "Caps":106,
+        "Career":"@@@_1990-2000"
+    },
+    {
+        "#":"4",
+        "Player":"Brian McBride",
+        "Goals":30,
+        "Caps":95,
+        "Career":"@@@_1993-2006"
+    },
+    {
+        "#":"5",
+        "Player":"Joe-Max Moore",
+        "Goals":24,
+        "Caps":100,
+        "Career":"@@@_1992-2002"
+    },
+    {
+        "#":"6T",
+        "Player":"Jozy Altidore",
+        "Goals":21,
+        "Caps":67,
+        "Career":"@@@_2007-Present"
+    },
+    {
+        "#":"6T",
+        "Player":"Bruce Murray",
+        "Goals":"@@@_21",
+        "Caps":86,
+        "Career":"@@@_1985-1993"
+    },
+    {
+        "#":"8",
+        "Player":"Eddie Johnson",
+        "Goals":19,
+        "Caps":62,
+        "Career":"@@@_2004-present"
+    },
+    {
+        "#":"9T",
+        "Player":"Earnie Stewart",
+        "Goals":17,
+        "Caps":101,
+        "Career":"@@@_1990-2004"
+    },
+    {
+        "#":"9T",
+        "Player":"DaMarcus Beasley",
+        "Goals":17,
+        "Caps":114,
+        "Career":"@@@_2001-present"
+    }
+]

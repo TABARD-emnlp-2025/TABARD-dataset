@@ -1,0 +1,155 @@
+[
+    {
+        "Pos":1,
+        "Name":"Justin Wilson",
+        "Team":"RuSPORT",
+        "Laps":69,
+        "Time\/Retired":"1:46:02.236",
+        "Grid":2,
+        "Points":32
+    },
+    {
+        "Pos":2,
+        "Name":"Jan Heylen",
+        "Team":"Conquest Racing",
+        "Laps":69,
+        "Time\/Retired":"+7.227",
+        "Grid":7,
+        "Points":27
+    },
+    {
+        "Pos":3,
+        "Name":"Bruno Junqueira",
+        "Team":"Dale Coyne Racing",
+        "Laps":69,
+        "Time\/Retired":"+8.419",
+        "Grid":11,
+        "Points":26
+    },
+    {
+        "Pos":4,
+        "Name":"Tristan Gommendy",
+        "Team":"PKV Racing",
+        "Laps":69,
+        "Time\/Retired":"+9.037",
+        "Grid":3,
+        "Points":23
+    },
+    {
+        "Pos":5,
+        "Name":"Neel Jani",
+        "Team":"PKV Racing",
+        "Laps":69,
+        "Time\/Retired":"+22.262",
+        "Grid":4,
+        "Points":21
+    },
+    {
+        "Pos":6,
+        "Name":"Simon Pagenaud",
+        "Team":"Team Australia",
+        "Laps":69,
+        "Time\/Retired":"+22.698",
+        "Grid":5,
+        "Points":19
+    },
+    {
+        "Pos":7,
+        "Name":"S\u00e9bastien Bourdais",
+        "Team":"N\/H\/L Racing",
+        "Laps":69,
+        "Time\/Retired":"+22.955",
+        "Grid":1,
+        "Points":18
+    },
+    {
+        "Pos":8,
+        "Name":"Oriol Servi\u00e0",
+        "Team":"Forsythe Racing",
+        "Laps":69,
+        "Time\/Retired":"+23.406",
+        "Grid":13,
+        "Points":15
+    },
+    {
+        "Pos":9,
+        "Name":"Graham Rahal",
+        "Team":"N\/H\/L Racing",
+        "Laps":69,
+        "Time\/Retired":"+23.949",
+        "Grid":6,
+        "Points":13
+    },
+    {
+        "Pos":10,
+        "Name":"Ryan Dalziel",
+        "Team":"Pacific Coast Motorsports",
+        "Laps":69,
+        "Time\/Retired":"+29.554",
+        "Grid":15,
+        "Points":11
+    },
+    {
+        "Pos":11,
+        "Name":"Dan Clarke",
+        "Team":"Minardi Team USA",
+        "Laps":69,
+        "Time\/Retired":"+38.903",
+        "Grid":10,
+        "Points":11
+    },
+    {
+        "Pos":12,
+        "Name":"Katherine Legge",
+        "Team":"Dale Coyne Racing",
+        "Laps":69,
+        "Time\/Retired":"+44.860",
+        "Grid":14,
+        "Points":9
+    },
+    {
+        "Pos":13,
+        "Name":"Robert Doornbos",
+        "Team":"Minardi Team USA",
+        "Laps":69,
+        "Time\/Retired":"+1:00.638",
+        "Grid":9,
+        "Points":8
+    },
+    {
+        "Pos":14,
+        "Name":"Will Power",
+        "Team":"Team Australia",
+        "Laps":69,
+        "Time\/Retired":"+1:01.204",
+        "Grid":8,
+        "Points":7
+    },
+    {
+        "Pos":15,
+        "Name":"Alex Tagliani",
+        "Team":"Rocketsports",
+        "Laps":"@@@_69",
+        "Time\/Retired":"+ 1 Lap",
+        "Grid":12,
+        "Points":6
+    },
+    {
+        "Pos":16,
+        "Name":"Alex Figge",
+        "Team":"Pacific Coast Motorsports",
+        "Laps":"@@@_69",
+        "Time\/Retired":"+ 1 Lap",
+        "Grid":16,
+        "Points":5
+    },
+    {
+        "Pos":17,
+        "Name":"Paul Tracy",
+        "Team":"Forsythe Racing",
+        "Laps":"@@@_69",
+        "Time\/Retired":"Mechanical",
+        "Grid":17,
+        "Points":4
+    }
+]

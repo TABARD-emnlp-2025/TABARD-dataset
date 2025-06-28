@@ -1,0 +1,74 @@
+[
+    {
+        "School":"Benton High School",
+        "Team Name":"(Lady) Cardinals",
+        "Town":"St. Joseph",
+        "County":"Buchanan",
+        "Enrollment (2010-11 & 2011\u201312)":846,
+        "Primary MSHSAA class*":4.0,
+        "Football class":4
+    },
+    {
+        "School":"Bishop LeBlond High School",
+        "Team Name":"(Lady) Golden Eagles",
+        "Town":"St. Joseph",
+        "County":"Buchanan",
+        "Enrollment (2010-11 & 2011\u201312)":314,
+        "Primary MSHSAA class*":3.0,
+        "Football class":2
+    },
+    {
+        "School":"Cameron High School",
+        "Team Name":"(Lady) Dragons",
+        "Town":"Cameron",
+        "County":"Clinton",
+        "Enrollment (2010-11 & 2011\u201312)":503,
+        "Primary MSHSAA class*":"@@@_nan",
+        "Football class":3
+    },
+    {
+        "School":"Chillicothe High School (Missouri)",
+        "Team Name":"(Lady) Hornets",
+        "Town":"Chillicothe",
+        "County":"Livingston",
+        "Enrollment (2010-11 & 2011\u201312)":638,
+        "Primary MSHSAA class*":4.0,
+        "Football class":3
+    },
+    {
+        "School":"Lafayette High School",
+        "Team Name":"Fighting Irish",
+        "Town":"St. Joseph",
+        "County":"Buchanan",
+        "Enrollment (2010-11 & 2011\u201312)":801,
+        "Primary MSHSAA class*":4.0,
+        "Football class":4
+    },
+    {
+        "School":"Maryville High School",
+        "Team Name":"(Lady) Spoofhounds",
+        "Town":"Maryville",
+        "County":"Nodaway",
+        "Enrollment (2010-11 & 2011\u201312)":"@@@_-473",
+        "Primary MSHSAA class*":3.0,
+        "Football class":2
+    },
+    {
+        "School":"Savannah High School",
+        "Team Name":"(Lady) Savages",
+        "Town":"Savannah",
+        "County":"Andrew",
+        "Enrollment (2010-11 & 2011\u201312)":743,
+        "Primary MSHSAA class*":4.0,
+        "Football class":"@@@_admin"
+    },
+    {
+        "School":"Smithville High School",
+        "Team Name":"(Lady) Warriors",
+        "Town":"Smithville",
+        "County":"Clay",
+        "Enrollment (2010-11 & 2011\u201312)":727,
+        "Primary MSHSAA class*":4.0,
+        "Football class":4
+    }
+]

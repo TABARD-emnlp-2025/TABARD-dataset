@@ -1,0 +1,82 @@
+[
+  {
+    "Thread\nnominal size": "PG7",
+    "Outer diameter\n[mm (in)]": "12.5 (0.492)",
+    "Threads per inch\n(TPI)": 20,
+    "Pitch\n[in (mm)]": "0.05 (1.270)",
+    "Inner diameter\n[mm (in)]": "11.28 (0.444)",
+    "Cable diameter\n[mm (in)]": "3 to 6.5 (0.118 to 0.256)"
+  },
+  {
+    "Thread\nnominal size": "PG9",
+    "Outer diameter\n[mm (in)]": "15.5 (0.610)",
+    "Threads per inch\n(TPI)": 18,
+    "Pitch\n[in (mm)]": "0.05556 (1.4112)",
+    "Inner diameter\n[mm (in)]": "@@@_None",
+    "Cable diameter\n[mm (in)]": "4 to 8 (0.157 to 0.315)"
+  },
+  {
+    "Thread\nnominal size": "PG11",
+    "Outer diameter\n[mm (in)]": "18.6 (0.732)",
+    "Threads per inch\n(TPI)": "@@@_-47",
+    "Pitch\n[in (mm)]": "0.05556 (1.4112)",
+    "Inner diameter\n[mm (in)]": "17.26 (0.680)",
+    "Cable diameter\n[mm (in)]": "5 to 10 (0.197 to 0.394)"
+  },
+  {
+    "Thread\nnominal size": "PG13.5",
+    "Outer diameter\n[mm (in)]": "20.4 (0.803)",
+    "Threads per inch\n(TPI)": 18,
+    "Pitch\n[in (mm)]": "0.05556 (1.4112)",
+    "Inner diameter\n[mm (in)]": "19.06 (0.750)",
+    "Cable diameter\n[mm (in)]": "6 to 12 (0.236 to 0.472)"
+  },
+  {
+    "Thread\nnominal size": "PG16",
+    "Outer diameter\n[mm (in)]": "22.5 (0.886)",
+    "Threads per inch\n(TPI)": 18,
+    "Pitch\n[in (mm)]": "0.05556 (1.4112)",
+    "Inner diameter\n[mm (in)]": "21.16 (0.833)",
+    "Cable diameter\n[mm (in)]": "10 to 14 (0.394 to 0.551)"
+  },
+  {
+    "Thread\nnominal size": "PG21",
+    "Outer diameter\n[mm (in)]": "28.3 (1.114)",
+    "Threads per inch\n(TPI)": 16,
+    "Pitch\n[in (mm)]": "0.0625 (1.5875)",
+    "Inner diameter\n[mm (in)]": "26.78 (1.054)",
+    "Cable diameter\n[mm (in)]": "13 to 18 (0.512 to 0.709)"
+  },
+  {
+    "Thread\nnominal size": "PG29",
+    "Outer diameter\n[mm (in)]": "37.0 (1.457)",
+    "Threads per inch\n(TPI)": 16,
+    "Pitch\n[in (mm)]": "0.0625 (1.5875)",
+    "Inner diameter\n[mm (in)]": "35.48 (1.397)",
+    "Cable diameter\n[mm (in)]": "18 to 25 (0.709 to 0.984)"
+  },
+  {
+    "Thread\nnominal size": "PG36",
+    "Outer diameter\n[mm (in)]": "47.0 (1.850)",
+    "Threads per inch\n(TPI)": "@@@_315",
+    "Pitch\n[in (mm)]": "0.0625 (1.5875)",
+    "Inner diameter\n[mm (in)]": "45.48 (1.791)",
+    "Cable diameter\n[mm (in)]": null
+  },
+  {
+    "Thread\nnominal size": "PG42",
+    "Outer diameter\n[mm (in)]": "54.0 (2.126)",
+    "Threads per inch\n(TPI)": "@@@_2189",
+    "Pitch\n[in (mm)]": "0.0625 (1.5875)",
+    "Inner diameter\n[mm (in)]": "52.48 (2.066)",
+    "Cable diameter\n[mm (in)]": null
+  },
+  {
+    "Thread\nnominal size": "PG48",
+    "Outer diameter\n[mm (in)]": "59.3 (2.335)",
+    "Threads per inch\n(TPI)": "@@@_770",
+    "Pitch\n[in (mm)]": "0.0625 (1.5875)",
+    "Inner diameter\n[mm (in)]": "57.78 (2.275)",
+    "Cable diameter\n[mm (in)]": null
+  }
+]

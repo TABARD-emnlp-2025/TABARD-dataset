@@ -1,0 +1,23 @@
+[
+    {
+        "Year":1995.0,
+        "Award":"National Film Awards",
+        "Category":"Best Female Playback Singer",
+        "Film":"Love Story",
+        "Result":"Won"
+    },
+    {
+        "Year":null,
+        "Award":null,
+        "Category":"Best Female Playback Singer",
+        "Film":"Premer Taj Mahal",
+        "Result":"Won"
+    },
+    {
+        "Year":-11097.0,
+        "Award":"National Film Awards",
+        "Category":"Best Female Playback Singer",
+        "Film":"Ek Takar Bou",
+        "Result":null
+    }
+]

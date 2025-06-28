@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "Antlers",
+    "Animal Type": "Moose",
+    "Introduced": null,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Chocolate"
+  },
+  {
+    "Name": "Baba",
+    "Animal Type": "Lamb",
+    "Introduced": null,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Fleece"
+  },
+  {
+    "Name": "Bruiser",
+    "Animal Type": "Bulldog",
+    "Introduced": 1997.0,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Wrinkles"
+  },
+  {
+    "Name": "Carrots",
+    "Animal Type": "Bunny",
+    "Introduced": null,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Ears, but pink instead of brown"
+  },
+  {
+    "Name": "@@@_None",
+    "Animal Type": null,
+    "Introduced": null,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": null
+  },
+  {
+    "Name": "Clover",
+    "Animal Type": "Bunny",
+    "Introduced": 1998.0,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Ears, but white instead of brown"
+  },
+  {
+    "Name": "Foxy",
+    "Animal Type": "Fox",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Sly"
+  },
+  {
+    "Name": "Glide",
+    "Animal Type": "Porpoise",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Echo the Dolphin"
+  },
+  {
+    "Name": "Huggy",
+    "Animal Type": "Bear",
+    "Introduced": 1995.0,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Cubbie, but yellow instead of brown"
+  },
+  {
+    "Name": "Meow",
+    "Animal Type": "Cat",
+    "Introduced": 1997.0,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Snip"
+  },
+  {
+    "Name": "Moo",
+    "Animal Type": "Cow",
+    "Introduced": 1995.0,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Daisy, but with white body instead of black"
+  },
+  {
+    "Name": "Oink",
+    "Animal Type": "Pig",
+    "Introduced": 1995.0,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Squealer"
+  },
+  {
+    "Name": "Paddles",
+    "Animal Type": "Platypus",
+    "Introduced": null,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Patti"
+  },
+  {
+    "Name": "Purr",
+    "Animal Type": "Tiger",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Stripes, but yellow-orange instead of orange-black"
+  },
+  {
+    "Name": "Red",
+    "Animal Type": "Bull",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Snort"
+  },
+  {
+    "Name": "Ribbit (All-Green)",
+    "Animal Type": "Frog",
+    "Introduced": 1995.0,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Legs"
+  },
+  {
+    "Name": "Ribbit (Green-Yellow)",
+    "Animal Type": "Frog",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Smoochy"
+  },
+  {
+    "Name": "Sherbert",
+    "Animal Type": "Tie-Dye Bear",
+    "Introduced": "@@@_81762.9669931954",
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Sammy"
+  },
+  {
+    "Name": "Snap (All-Yellow)",
+    "Animal Type": "Turtle",
+    "Introduced": 1995.0,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Speedy, but yellow instead of green"
+  },
+  {
+    "Name": "Snap (Yellow-Green)",
+    "Animal Type": "Turtle",
+    "Introduced": null,
+    "Reintroduced": "1999 (neon)",
+    "Retired": null,
+    "Beanie Baby Resembled": "Peekaboo"
+  },
+  {
+    "Name": "Snuggy",
+    "Animal Type": "Bear",
+    "Introduced": 1995.0,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Cubbie, but pink instead of brown"
+  },
+  {
+    "Name": "Sparkler",
+    "Animal Type": "Bear",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Spangle"
+  },
+  {
+    "Name": "Speckles",
+    "Animal Type": "Leopard",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Freckles"
+  },
+  {
+    "Name": "Spotty",
+    "Animal Type": "Dalmatian",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": "@@@_None",
+    "Beanie Baby Resembled": "Dotty"
+  },
+  {
+    "Name": "Squirt",
+    "Animal Type": "Elephant",
+    "Introduced": "@@@_38871.0137842788",
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Peanut"
+  },
+  {
+    "Name": "Swinger",
+    "Animal Type": "Monkey",
+    "Introduced": null,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Bongo"
+  },
+  {
+    "Name": "Tide",
+    "Animal Type": "Whale",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Splash"
+  },
+  {
+    "Name": "Tubby",
+    "Animal Type": "Hippopotamus",
+    "Introduced": null,
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Happy"
+  },
+  {
+    "Name": "Woof",
+    "Animal Type": "Dog",
+    "Introduced": 1995.0,
+    "Reintroduced": "1999 (neon)",
+    "Retired": 1999.0,
+    "Beanie Baby Resembled": "Bones"
+  },
+  {
+    "Name": "Zulu",
+    "Animal Type": "Zebra",
+    "Introduced": "@@@_-5068.8344820232",
+    "Reintroduced": null,
+    "Retired": null,
+    "Beanie Baby Resembled": "Ziggy, but pink-green instead of black-white"
+  }
+]

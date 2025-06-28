@@ -1,0 +1,82 @@
+[
+    {
+        "Year":1992,
+        "Competition":"CARIFTA Games (U20)",
+        "Venue":"Nassau, Bahamas",
+        "Position":"1st",
+        "Event":"Discus throw",
+        "Notes":"37.86 m"
+    },
+    {
+        "Year":1992,
+        "Competition":"CARIFTA Games (U20)",
+        "Venue":"Nassau, Bahamas",
+        "Position":"3rd",
+        "Event":"Javelin throw",
+        "Notes":"36.37 m"
+    },
+    {
+        "Year":1999,
+        "Competition":"Central American and Caribbean Championships",
+        "Venue":"Bridgetown, Barbados",
+        "Position":"2nd",
+        "Event":"Javelin throw",
+        "Notes":"54.24 m"
+    },
+    {
+        "Year":2000,
+        "Competition":"Olympic Games",
+        "Venue":"Sydney, Australia",
+        "Position":"21st (q)",
+        "Event":"Javelin throw",
+        "Notes":"56.36 m"
+    },
+    {
+        "Year":2005,
+        "Competition":"Central American and Caribbean Championships",
+        "Venue":"Nassau, Bahamas",
+        "Position":"2nd",
+        "Event":"Javelin throw",
+        "Notes":"61.10 m"
+    },
+    {
+        "Year":2005,
+        "Competition":"World Championships",
+        "Venue":"Helsinki, Finland",
+        "Position":"14th (q)",
+        "Event":"Javelin throw",
+        "Notes":"58.49 m"
+    },
+    {
+        "Year":2006,
+        "Competition":"Commonwealth Games",
+        "Venue":"Melbourne, Australia",
+        "Position":"3rd",
+        "Event":"Javelin throw",
+        "Notes":"58.27 m"
+    },
+    {
+        "Year":2006,
+        "Competition":"Central American and Caribbean Games",
+        "Venue":"Cartagena, Colombia",
+        "Position":"4th",
+        "Event":"Javelin throw",
+        "Notes":"@@@_156.82 m"
+    },
+    {
+        "Year":2008,
+        "Competition":"Olympic Games",
+        "Venue":"@@@_Atlantis, Bahamas",
+        "Position":"34th (q)",
+        "Event":"Javelin throw",
+        "Notes":"55.51 m"
+    },
+    {
+        "Year":2011,
+        "Competition":"Pan American Games",
+        "Venue":"Guadalajara, Mexico",
+        "Position":"7th",
+        "Event":"Javelin throw",
+        "Notes":"@@@_-51.40 m"
+    }
+]

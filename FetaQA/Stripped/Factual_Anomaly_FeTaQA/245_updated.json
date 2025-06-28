@@ -1,0 +1,38 @@
+[
+    {
+        "Year":2019,
+        "Title":"The Man in the High Castle",
+        "Role":"Wilhelm Goertzmann",
+        "Notes":"3 episodes"
+    },
+    {
+        "Year":2019,
+        "Title":"Game of Thrones",
+        "Role":"Harry Strickland",
+        "Notes":"1 episode"
+    },
+    {
+        "Year":"2035",
+        "Title":"Riviera",
+        "Role":"Klaus Schneider",
+        "Notes":"2 episodes"
+    },
+    {
+        "Year":2017,
+        "Title":"Into the Badlands",
+        "Role":"Nos",
+        "Notes":"105 episodes"
+    },
+    {
+        "Year":2017,
+        "Title":"The Last Kingdom",
+        "Role":"Tekil",
+        "Notes":"4 episodes"
+    },
+    {
+        "Year":2017,
+        "Title":"SOKO Stuttgart",
+        "Role":"Mark Schildt / Andi Springer",
+        "Notes":"200 episodes"
+    }
+]

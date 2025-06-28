@@ -1,0 +1,37 @@
+[
+    {
+        "Engine":"General Electric GE9X",
+        "Overall pressure ratio":"60:1",
+        "Major applications":"777X"
+    },
+    {
+        "Engine":"Rolls-Royce Trent XWB",
+        "Overall pressure ratio":"52:1",
+        "Major applications":"A350 XWB"
+    },
+    {
+        "Engine":"General Electric GE90",
+        "Overall pressure ratio":"42:1",
+        "Major applications":"@@@_777"
+    },
+    {
+        "Engine":"General Electric CF6",
+        "Overall pressure ratio":"30.5:1",
+        "Major applications":"747, 767, A300, MD-11, C-5"
+    },
+    {
+        "Engine":"General Electric F110",
+        "Overall pressure ratio":"30:1",
+        "Major applications":"F-14, F-15, F-16"
+    },
+    {
+        "Engine":"Pratt & Whitney TF30",
+        "Overall pressure ratio":"20:1",
+        "Major applications":"F-14, F-111"
+    },
+    {
+        "Engine":"Rolls-Royce/Snecma Olympus 593",
+        "Overall pressure ratio":"15.5:1/80:1 Supersonic.",
+        "Major applications":"Concorde"
+    }
+]

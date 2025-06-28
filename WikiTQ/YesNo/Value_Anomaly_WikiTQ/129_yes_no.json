@@ -1,0 +1,51 @@
+[
+    {
+        "Place":"Yes",
+        "Team":"No",
+        "Titles":"No",
+        "Runners-up":"Yes",
+        "Winning Years":"No"
+    },
+    {
+        "Place":"No",
+        "Team":"No",
+        "Titles":"No",
+        "Runners-up":"No",
+        "Winning Years":"No"
+    },
+    {
+        "Place":"Yes",
+        "Team":"Yes",
+        "Titles":"No",
+        "Runners-up":"No",
+        "Winning Years":"No"
+    },
+    {
+        "Place":"No",
+        "Team":"No",
+        "Titles":"No",
+        "Runners-up":"No",
+        "Winning Years":"No"
+    },
+    {
+        "Place":"No",
+        "Team":"No",
+        "Titles":"No",
+        "Runners-up":"No",
+        "Winning Years":"No"
+    },
+    {
+        "Place":"No",
+        "Team":"No",
+        "Titles":"No",
+        "Runners-up":"Yes",
+        "Winning Years":"No"
+    },
+    {
+        "Place":"No",
+        "Team":"No",
+        "Titles":"No",
+        "Runners-up":"No",
+        "Winning Years":"No"
+    }
+]

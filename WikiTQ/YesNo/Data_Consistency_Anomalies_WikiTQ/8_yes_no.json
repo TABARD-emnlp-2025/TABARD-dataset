@@ -1,0 +1,72 @@
+[
+    {
+        "Country": "no",
+        "Amphibians": "no",
+        "Birds": "no",
+        "Mammals": "no",
+        "Reptile": "no",
+        "Total terrestrial vertebrates": "no",
+        "Vascular plants": "no",
+        "Biodiversity": "yes"
+    },
+    {
+        "Country": "yes",
+        "Amphibians": "no",
+        "Birds": "no",
+        "Mammals": "no",
+        "Reptile": "no",
+        "Total terrestrial vertebrates": "no",
+        "Vascular plants": "no",
+        "Biodiversity": "no"
+    },
+    {
+        "Country": "no",
+        "Amphibians": "no",
+        "Birds": "no",
+        "Mammals": "no",
+        "Reptile": "no",
+        "Total terrestrial vertebrates": "no",
+        "Vascular plants": "no",
+        "Biodiversity": "no"
+    },
+    {
+        "Country": "no",
+        "Amphibians": "no",
+        "Birds": "no",
+        "Mammals": "no",
+        "Reptile": "no",
+        "Total terrestrial vertebrates": "no",
+        "Vascular plants": "no",
+        "Biodiversity": "no"
+    },
+    {
+        "Country": "no",
+        "Amphibians": "no",
+        "Birds": "no",
+        "Mammals": "no",
+        "Reptile": "no",
+        "Total terrestrial vertebrates": "no",
+        "Vascular plants": "no",
+        "Biodiversity": "yes"
+    },
+    {
+        "Country": "no",
+        "Amphibians": "no",
+        "Birds": "no",
+        "Mammals": "no",
+        "Reptile": "no",
+        "Total terrestrial vertebrates": "yes",
+        "Vascular plants": "no",
+        "Biodiversity": "no"
+    },
+    {
+        "Country": "yes",
+        "Amphibians": "no",
+        "Birds": "no",
+        "Mammals": "no",
+        "Reptile": "no",
+        "Total terrestrial vertebrates": "no",
+        "Vascular plants": "no",
+        "Biodiversity": "no"
+    }
+]

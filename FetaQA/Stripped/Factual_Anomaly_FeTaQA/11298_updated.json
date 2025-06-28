@@ -1,0 +1,30 @@
+[
+    {
+        "Year":2009,
+        "Competition":"Istanbul Marathon",
+        "Venue":"Istanbul, Turkey",
+        "Position":"2nd",
+        "Notes":"10,000 km Marathon"
+    },
+    {
+        "Year":2010,
+        "Competition":"Istanbul Marathon",
+        "Venue":"Istanbul, Turkey",
+        "Position":"1st",
+        "Notes":"Marathon"
+    },
+    {
+        "Year":2011,
+        "Competition":"Istanbul Marathon",
+        "Venue":"Istanbul, Turkey",
+        "Position":"4th",
+        "Notes":"Half-Marathon, completed in 1 hour"
+    },
+    {
+        "Year":2012,
+        "Competition":"Xiamen International Marathon",
+        "Venue":"Xiamen, China",
+        "Position":"1st",
+        "Notes":"Marathon, with a time faster than world record"
+    }
+]

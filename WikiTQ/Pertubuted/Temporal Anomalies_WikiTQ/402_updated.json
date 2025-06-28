@@ -1,0 +1,90 @@
+[
+    {
+        "Rank":1,
+        "Player":"Miralem Sulejmani",
+        "From":"Heerenveen",
+        "To":"Ajax",
+        "Transfer fee\n(\u20ac million)":16.25,
+        "Year":2008
+    },
+    {
+        "Rank":2,
+        "Player":"Strootman &  Mertens",
+        "From":"Utrecht",
+        "To":"PSV",
+        "Transfer fee\n(\u20ac million)":13.0,
+        "Year":2011
+    },
+    {
+        "Rank":3,
+        "Player":"Mateja Ke\u017eman",
+        "From":"Partizan",
+        "To":"PSV",
+        "Transfer fee\n(\u20ac million)":11.3,
+        "Year":2000
+    },
+    {
+        "Rank":4,
+        "Player":"Klaas-Jan Huntelaar",
+        "From":"Heerenveen",
+        "To":"Ajax",
+        "Transfer fee\n(\u20ac million)":9.0,
+        "Year":2006
+    },
+    {
+        "Rank":5,
+        "Player":"Nikos Machlas",
+        "From":"Vitesse",
+        "To":"Ajax",
+        "Transfer fee\n(\u20ac million)":8.6,
+        "Year":1999
+    },
+    {
+        "Rank":6,
+        "Player":"Zlatan Ibrahimovi\u0107",
+        "From":"Malm\u00f6 FF",
+        "To":"Ajax",
+        "Transfer fee\n(\u20ac million)":8.4,
+        "Year":"@@@_2025"
+    },
+    {
+        "Rank":7,
+        "Player":"Jan Vennegoor of Hesselink",
+        "From":"Twente",
+        "To":"PSV",
+        "Transfer fee\n(\u20ac million)":8.2,
+        "Year":2001
+    },
+    {
+        "Rank":8,
+        "Player":"Luis Su\u00e1rez",
+        "From":"Groningen",
+        "To":"Ajax",
+        "Transfer fee\n(\u20ac million)":7.5,
+        "Year":2007
+    },
+    {
+        "Rank":9,
+        "Player":"Dar\u00edo Cvitanich",
+        "From":"Banfield",
+        "To":"Ajax",
+        "Transfer fee\n(\u20ac million)":7.5,
+        "Year":2008
+    },
+    {
+        "Rank":10,
+        "Player":"Ferdi Vierklau",
+        "From":"Tenerife",
+        "To":"Ajax",
+        "Transfer fee\n(\u20ac million)":7.3,
+        "Year":1998
+    },
+    {
+        "Rank":11,
+        "Player":"Adam Maher",
+        "From":"AZ",
+        "To":"PSV",
+        "Transfer fee\n(\u20ac million)":6.5,
+        "Year":"@@@_2014"
+    }
+]

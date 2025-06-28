@@ -1,0 +1,128 @@
+[
+    {
+        "Club":"Club",
+        "Season":"Season",
+        "League":"Goals",
+        "FA Cup":"Goals",
+        "League Cup":"Goals",
+        "Other":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club":"Bognor Regis Town",
+        "Season":"2009–10",
+        "League":2,
+        "FA Cup":1,
+        "League Cup":"−",
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Bognor Regis Town",
+        "Season":"Total",
+        "League":2,
+        "FA Cup":1,
+        "League Cup":"−",
+        "Other":"@@@_1",
+        "Total":"@@@_4"
+    },
+    {
+        "Club":"Eastbourne Borough",
+        "Season":"2010–11",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":"−",
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Kidderminster Harriers",
+        "Season":"2011–12",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":"−",
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Kidderminster Harriers",
+        "Season":"2012–13",
+        "League":2,
+        "FA Cup":0,
+        "League Cup":"−",
+        "Other":0,
+        "Total":"@@@_3"
+    },
+    {
+        "Club":"Kidderminster Harriers",
+        "Season":"2013–14",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":"−",
+        "Other":"@@@_5",
+        "Total":"@@@_5"
+    },
+    {
+        "Club":"Kidderminster Harriers",
+        "Season":"Total",
+        "League":2,
+        "FA Cup":0,
+        "League Cup":"−",
+        "Other":0,
+        "Total":"@@@_3"
+    },
+    {
+        "Club":"Shrewsbury Town",
+        "Season":"2014–15",
+        "League":3,
+        "FA Cup":0,
+        "League Cup":0,
+        "Other":0,
+        "Total":3
+    },
+    {
+        "Club":"Shrewsbury Town",
+        "Season":"2015–16",
+        "League":0,
+        "FA Cup":"−",
+        "League Cup":0,
+        "Other":0,
+        "Total":"@@@_-1"
+    },
+    {
+        "Club":"Shrewsbury Town",
+        "Season":"Total",
+        "League":3,
+        "FA Cup":"@@@_1",
+        "League Cup":0,
+        "Other":0,
+        "Total":"@@@_4"
+    },
+    {
+        "Club":"Cambridge United (loan)",
+        "Season":"2015–16",
+        "League":"@@@_10",
+        "FA Cup":0,
+        "League Cup":"−",
+        "Other":0,
+        "Total":"@@@_10"
+    },
+    {
+        "Club":"Newport County",
+        "Season":"2016–17",
+        "League":0,
+        "FA Cup":0,
+        "League Cup":"−",
+        "Other":0,
+        "Total":0
+    },
+    {
+        "Club":"Career total",
+        "Season":"Career total",
+        "League":7,
+        "FA Cup":1,
+        "League Cup":0,
+        "Other":0,
+        "Total":"@@@_9"
+    }
+]

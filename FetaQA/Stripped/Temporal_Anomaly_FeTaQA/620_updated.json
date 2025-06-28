@@ -1,0 +1,50 @@
+[
+    {
+        "Outcome":"Winner",
+        "No.":1.0,
+        "Year":2010,
+        "Championship":"Ruhr Championship",
+        "Opponent in the final":"England Shaun Murphy",
+        "Score":"4–2"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":1.0,
+        "Year":2010,
+        "Championship":"Prague Classic",
+        "Opponent in the final":"England Michael Holt",
+        "Score":"3–4"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":2.0,
+        "Year":2011,
+        "Championship":"Players Tour Championship – Event 5",
+        "Opponent in the final":"England Andrew Higginson",
+        "Score":"1–4"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":2.0,
+        "Year":"2013",
+        "Championship":"Kay Suzanne Memorial Trophy",
+        "Opponent in the final":"England Judd Trump",
+        "Score":"4–2"
+    },
+    {
+        "Outcome":"Runner-up",
+        "No.":3.0,
+        "Year":2012,
+        "Championship":"Bulgarian Open",
+        "Opponent in the final":"England Judd Trump",
+        "Score":"0–4"
+    },
+    {
+        "Outcome":"Winner",
+        "No.":3.0,
+        "Year":2013,
+        "Championship":"Bulgarian Open",
+        "Opponent in the final":"Australia Neil Robertson",
+        "Score":"4–1"
+    }
+]

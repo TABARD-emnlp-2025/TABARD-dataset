@@ -1,0 +1,72 @@
+[
+  {
+    "#": "1",
+    "Player": "Landon Donovan",
+    "Goals": 57,
+    "Caps": 155,
+    "Career": "2000–present"
+  },
+  {
+    "#": "2",
+    "Player": "Clint Dempsey",
+    "Goals": 36,
+    "Caps": "@@@_1665",
+    "Career": "2004–present"
+  },
+  {
+    "#": "3",
+    "Player": "Eric Wynalda",
+    "Goals": 34,
+    "Caps": 106,
+    "Career": "@@@_None"
+  },
+  {
+    "#": "4",
+    "Player": "Brian McBride",
+    "Goals": 30,
+    "Caps": "@@@_-255",
+    "Career": "1993–2006"
+  },
+  {
+    "#": "5",
+    "Player": "Joe-Max Moore",
+    "Goals": "@@@_345",
+    "Caps": 100,
+    "Career": "1992–2002"
+  },
+  {
+    "#": "6T",
+    "Player": "Jozy Altidore",
+    "Goals": 21,
+    "Caps": 67,
+    "Career": "2007–present"
+  },
+  {
+    "#": "6T",
+    "Player": "Bruce Murray",
+    "Goals": 21,
+    "Caps": 86,
+    "Career": "1985–1993"
+  },
+  {
+    "#": "8",
+    "Player": "Eddie Johnson",
+    "Goals": 19,
+    "Caps": 62,
+    "Career": "2004–present"
+  },
+  {
+    "#": "9T",
+    "Player": "Earnie Stewart",
+    "Goals": 17,
+    "Caps": 101,
+    "Career": "1990–2004"
+  },
+  {
+    "#": "9T",
+    "Player": "DaMarcus Beasley",
+    "Goals": "@@@_-59",
+    "Caps": 114,
+    "Career": "2001–present"
+  }
+]

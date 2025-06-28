@@ -1,0 +1,142 @@
+[
+  {
+    "Volume": "1",
+    "Year": "1974",
+    "Names": "Ա-ԱՐԳԻՆԱ",
+    "Articles": "3,442",
+    "Pages": "720",
+    "Images": "1,294",
+    "Maps": 75.0,
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "2",
+    "Year": "1976",
+    "Names": "ԱՐԳԻՇՏԻ-ԳԵՂԵՐՎԱՆ",
+    "Articles": "3,503",
+    "Pages": "720",
+    "Images": "1,798",
+    "Maps": 75.0,
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "3",
+    "Year": "1977",
+    "Names": "ԳԵՂԵՑԻԿԸ-ԶՈՒՐԱԲՅԱՆ",
+    "Articles": "3,509",
+    "Pages": "720",
+    "Images": "1,726",
+    "Maps": 53.0,
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "4",
+    "Year": "1978",
+    "Names": "Է-ԽԱՂԽԱՂ",
+    "Articles": "3,451",
+    "Pages": "720",
+    "Images": "@@@_None",
+    "Maps": "@@@_-126.6153846154",
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "5",
+    "Year": "1979",
+    "Names": "ԽԱՂՈՂ-ԿՈՒԼԻՍՆԵՐ",
+    "Articles": "3,694",
+    "Pages": "720",
+    "Images": "1,326",
+    "Maps": 68.0,
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "6",
+    "Year": "1980",
+    "Names": "ԿՈՒԼԶՈՐ-ՁՈՒԼՈՒԿ",
+    "Articles": "3,108",
+    "Pages": "720",
+    "Images": "1,097",
+    "Maps": 64.0,
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "7",
+    "Year": "1981",
+    "Names": "ՁՈՒԼՈՒՄ-ՄՈՆՈՊԽՈՆՔ",
+    "Articles": "3,250",
+    "Pages": "720",
+    "Images": "1,436",
+    "Maps": 46.0,
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "8",
+    "Year": "1982",
+    "Names": "ՄՈՆՈՊՈԼԻԱ-ՉԵՉԵՐԵԿ",
+    "Articles": "3,145",
+    "Pages": "720",
+    "Images": "1,274",
+    "Maps": 70.0,
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "9",
+    "Year": "1983",
+    "Names": "ՉԵՉՔԱՐ-ՌՍՏԱԿԵՍ",
+    "Articles": "3,185",
+    "Pages": "720",
+    "Images": "1,046",
+    "Maps": 60.0,
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "10",
+    "Year": "1984",
+    "Names": "ՌՍՏԱՄ-ՍՍՀՄ",
+    "Articles": "2,009",
+    "Pages": "736",
+    "Images": "1,065",
+    "Maps": "@@@_-432.9841415224",
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "11",
+    "Year": "1985",
+    "Names": "ՍՈՎԵՏԱԿԱՆ-ՏԻԵԶԵՐՔ",
+    "Articles": "2,970",
+    "Pages": "720",
+    "Images": "958",
+    "Maps": "@@@_1270.3883425749",
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "12",
+    "Year": "1986",
+    "Names": "ՏԻԵՊՈԼՈ-ՖՈՒՔՍԻՆ",
+    "Articles": "3,501",
+    "Pages": "752",
+    "Images": "1,015",
+    "Maps": 96.0,
+    "Number of copies": "100,000"
+  },
+  {
+    "Volume": "TOTAL (1–12)",
+    "Year": "1974–1986",
+    "Names": "Ա-ՖՈւՔՍԻՆ",
+    "Articles": "36,767",
+    "Pages": "8,688",
+    "Images": "15,263",
+    "Maps": 858.0,
+    "Number of copies": "1,200,000"
+  },
+  {
+    "Volume": "13",
+    "Year": "1987",
+    "Names": "ՍՈՎԵՏԱԿԱՆ ՀԱՅԱՍՏԱՆ",
+    "Articles": null,
+    "Pages": null,
+    "Images": null,
+    "Maps": "@@@_3392.0050233542",
+    "Number of copies": null
+  }
+]

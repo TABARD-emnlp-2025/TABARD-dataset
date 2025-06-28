@@ -1,0 +1,58 @@
+[
+    {
+        "Place":1,
+        "Nation":"@@@_bulgaria",
+        "5 Hoops":"19.800 (1)",
+        "3 Balls,\n2 Ribbons":"19.800 (1)",
+        "Total":39.6
+    },
+    {
+        "Place":2,
+        "Nation":"Spain",
+        "5 Hoops":"19.700 (3)",
+        "3 Balls,\n2 Ribbons":"19.700 (2)",
+        "Total":39.4
+    },
+    {
+        "Place":3,
+        "Nation":"Belarus",
+        "5 Hoops":"19.733 (2)",
+        "3 Balls,\n2 Ribbons":"19.600 (3)",
+        "Total":39.333
+    },
+    {
+        "Place":4,
+        "Nation":"Russia",
+        "5 Hoops":"19.600 (4)",
+        "3 Balls,\n2 Ribbons":"19.566 (4)",
+        "Total":39.166
+    },
+    {
+        "Place":5,
+        "Nation":"Ukraine",
+        "5 Hoops":"19.366 (5)",
+        "3 Balls,\n2 Ribbons":"15.500 (5)",
+        "Total":38.866
+    },
+    {
+        "Place":6,
+        "Nation":"Japan",
+        "5 Hoops":"@@@_19166 (6)",
+        "3 Balls,\n2 Ribbons":"19.333 (7)",
+        "Total":38.499
+    },
+    {
+        "Place":7,
+        "Nation":"@@@_ITALY",
+        "5 Hoops":"19.066 (7)",
+        "3 Balls,\n2 Ribbons":"19.400 (6)",
+        "Total":38.466
+    },
+    {
+        "Place":8,
+        "Nation":"Hungary",
+        "5 Hoops":"18.766 (8)",
+        "3 Balls,\n2 Ribbons":"19.166 (8)",
+        "Total":37.932
+    }
+]

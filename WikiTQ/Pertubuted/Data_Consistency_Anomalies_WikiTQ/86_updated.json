@@ -1,0 +1,122 @@
+[
+    {
+        "Episode":1,
+        "Show #":"IA0502",
+        "Iron Chef":"Bobby Flay",
+        "Challenger":"Ben Ford",
+        "Challenger specialty":"Regional American",
+        "Secret ingredient(s) or theme":"Blue foot chicken",
+        "Winner":"Bobby Flay",
+        "Final score":"44-35"
+    },
+    {
+        "Episode":2,
+        "Show #":"IA0508",
+        "Iron Chef":"Mario Batali",
+        "Challenger":"Tony Liu",
+        "Challenger specialty":"Pan-European",
+        "Secret ingredient(s) or theme":"Opah",
+        "Winner":"Mario Batali",
+        "Final score":"55-47"
+    },
+    {
+        "Episode":3,
+        "Show #":"IA0509",
+        "Iron Chef":"Cat Cora",
+        "Challenger":"Alexandra Guarnaschelli",
+        "Challenger specialty":"French-American",
+        "Secret ingredient(s) or theme":"Farmers' Market",
+        "Winner":"Cat Cora",
+        "Final score":"45-41"
+    },
+    {
+        "Episode":4,
+        "Show #":"IA0501",
+        "Iron Chef":"Mario Batali",
+        "Challenger":"Andrew Carmellini",
+        "Challenger specialty":"Urban Italian",
+        "Secret ingredient(s) or theme":"Parmigiano-Reggiano",
+        "Winner":"Mario Batali",
+        "Final score":"56-55"
+    },
+    {
+        "Episode":5,
+        "Show #":"IA0504",
+        "Iron Chef":"Cat Cora",
+        "Challenger":"Mark Tarbell",
+        "Challenger specialty":"Seasonal Organic",
+        "Secret ingredient(s) or theme":"Apples",
+        "Winner":"Mark Tarbell",
+        "Final score":"50-44"
+    },
+    {
+        "Episode":6,
+        "Show #":"IA0506",
+        "Iron Chef":"@@@_bobby flay",
+        "Challenger":"Kurt Boucher",
+        "Challenger specialty":"French-American",
+        "Secret ingredient(s) or theme":"Arctic char",
+        "Winner":"Bobby Flay",
+        "Final score":"46-39"
+    },
+    {
+        "Episode":7,
+        "Show #":"IA0510",
+        "Iron Chef":"Mario Batali",
+        "Challenger":"Charles Clark",
+        "Challenger specialty":"New American",
+        "Secret ingredient(s) or theme":"Halibut",
+        "Winner":"Mario Batali",
+        "Final score":"51-50"
+    },
+    {
+        "Episode":8,
+        "Show #":"IA0507",
+        "Iron Chef":"Cat Cora",
+        "Challenger":"Mary Dumont",
+        "Challenger specialty":"French-American",
+        "Secret ingredient(s) or theme":"@@@_milk & cream",
+        "Winner":"Cat Cora",
+        "Final score":"51-46"
+    },
+    {
+        "Episode":9,
+        "Show #":"IASP07",
+        "Iron Chef":"Michael Symon",
+        "Challenger":"Ricky Moore",
+        "Challenger specialty":"Contemporary American",
+        "Secret ingredient(s) or theme":"Traditional Thanksgiving",
+        "Winner":"Michael Symon",
+        "Final score":"51-43"
+    },
+    {
+        "Episode":10,
+        "Show #":"IASP08",
+        "Iron Chef":"Cat Cora & Paula Deen",
+        "Challenger":"Tyler Florence & Robert Irvine",
+        "Challenger specialty":"Southern (Deen), Contemporary American (Florence), International (Irvine)",
+        "Secret ingredient(s) or theme":"Sugar",
+        "Winner":"Cat Cora & Paula Deen",
+        "Final score":"49-47"
+    },
+    {
+        "Episode":11,
+        "Show #":"IA0503",
+        "Iron Chef":"Cat Cora",
+        "Challenger":"Todd Richards",
+        "Challenger specialty":"Modern Southern",
+        "Secret ingredient(s) or theme":"Carrots",
+        "Winner":"@@@_",
+        "Final score":"48-46"
+    },
+    {
+        "Episode":12,
+        "Show #":"IA0505",
+        "Iron Chef":"Masaharu Morimoto",
+        "Challenger":"Fortunato Nicotra",
+        "Challenger specialty":"Seasonal Italian",
+        "Secret ingredient(s) or theme":"Kampachi",
+        "Winner":"Masaharu Morimoto",
+        "Final score":"59-50"
+    }
+]

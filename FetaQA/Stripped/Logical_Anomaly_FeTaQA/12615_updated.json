@@ -1,0 +1,51 @@
+[
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Actress",
+        "Nominee":"Kim Ha-neul",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Screenplay",
+        "Nominee":"Choi Min-seok",
+        "Result":"Won"
+    },
+    {
+        "Year":"2025",
+        "Award":"32nd Blue Dragon Film Awards",
+        "Category":"Best Actress",
+        "Nominee":"Kim Ha-neul",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"32nd Blue Dragon Film Awards",
+        "Category":"Best Actress",
+        "Nominee":"Lee Min-ho",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Actor",
+        "Nominee":"Kim Ha-neul",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Cinematography",
+        "Nominee":"Park Chan-wook",
+        "Result":"Lost"
+    },
+    {
+        "Year":2011,
+        "Award":"48th Grand Bell Awards",
+        "Category":"Best Supporting Actor",
+        "Nominee":"Jang Geun-suk",
+        "Result":"Won"
+    }
+]

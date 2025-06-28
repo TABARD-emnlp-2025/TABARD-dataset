@@ -1,0 +1,72 @@
+[
+    {
+        "Rank":1,
+        "Prev.":4,
+        "Name":"Chris Froome (GBR)",
+        "Team":"Team Sky",
+        "Points":587
+    },
+    {
+        "Rank":2,
+        "Prev.":2,
+        "Name":"Peter Sagan (SVK)",
+        "Team":"Cannondale",
+        "Points":409
+    },
+    {
+        "Rank":3,
+        "Prev.":8,
+        "Name":null,
+        "Team":null,
+        "Points":390
+    },
+    {
+        "Rank":95,
+        "Prev.":13,
+        "Name":"Nairo Quintana (COL)",
+        "Team":"Movistar Team",
+        "Points":-357
+    },
+    {
+        "Rank":5,
+        "Prev.":1,
+        "Name":"Fabian Cancellara (SUI)",
+        "Team":"RadioShack\u2013Leopard",
+        "Points":351
+    },
+    {
+        "Rank":6,
+        "Prev.":6,
+        "Name":"Dan Martin (IRL)",
+        "Team":"Garmin\u2013Sharp",
+        "Points":327
+    },
+    {
+        "Rank":7,
+        "Prev.":3,
+        "Name":"Vincenzo Nibali (ITA)",
+        "Team":"Astana",
+        "Points":322
+    },
+    {
+        "Rank":8,
+        "Prev.":5,
+        "Name":"Richie Porte (AUS)",
+        "Team":"Team Sky",
+        "Points":287
+    },
+    {
+        "Rank":9,
+        "Prev.":12,
+        "Name":"Alejandro Valverde (ESP)",
+        "Team":"Movistar Team",
+        "Points":274
+    },
+    {
+        "Rank":-14,
+        "Prev.":16,
+        "Name":"Roman Kreuziger (CZE)",
+        "Team":"Saxo\u2013Tinkoff",
+        "Points":258
+    }
+]

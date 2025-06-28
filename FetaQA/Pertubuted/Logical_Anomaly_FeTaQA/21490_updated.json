@@ -1,0 +1,156 @@
+[
+    {
+        "Party":"Social Democratic Party",
+        "Votes":"4,250,400",
+        "%":34.8,
+        "Seats":110,
+        "+\/\u2013":67
+    },
+    {
+        "Party":"Centre Party",
+        "Votes":"1,996,800",
+        "%":16.4,
+        "Seats":91,
+        "+\/\u2013":"@@@_-14"
+    },
+    {
+        "Party":"National Liberal Party",
+        "Votes":"1,662,700",
+        "%":13.6,
+        "Seats":45,
+        "+\/\u2013":"@@@_-9"
+    },
+    {
+        "Party":"Progressive People's Party",
+        "Votes":"1,497,000",
+        "%":12.3,
+        "Seats":42,
+        "+\/\u2013":"@@@_-7"
+    },
+    {
+        "Party":"German Conservative Party",
+        "Votes":"1,126,300",
+        "%":9.2,
+        "Seats":43,
+        "+\/\u2013":"@@@_-17"
+    },
+    {
+        "Party":"Polish Party",
+        "Votes":"441,600",
+        "%":3.6,
+        "Seats":18,
+        "+\/\u2013":"@@@_-2"
+    },
+    {
+        "Party":"German Reich Party",
+        "Votes":"367,200",
+        "%":3.0,
+        "Seats":14,
+        "+\/\u2013":"@@@_-10"
+    },
+    {
+        "Party":"Economic Union",
+        "Votes":"304,600",
+        "%":2.5,
+        "Seats":10,
+        "+\/\u2013":5
+    },
+    {
+        "Party":"Alsace-Lorraine Party",
+        "Votes":"162,000",
+        "%":1.3,
+        "Seats":9,
+        "+\/\u2013":2
+    },
+    {
+        "Party":"German-Hanoverian Party",
+        "Votes":"84,600",
+        "%":0.8,
+        "Seats":5,
+        "+\/\u2013":4
+    },
+    {
+        "Party":"German Reform Party",
+        "Votes":"51,900",
+        "%":0.4,
+        "Seats":3,
+        "+\/\u2013":"New"
+    },
+    {
+        "Party":"Danish Party",
+        "Votes":"17,000",
+        "%":0.1,
+        "Seats":1,
+        "+\/\u2013":0
+    },
+    {
+        "Party":"German Agrarian League",
+        "Votes":"245,100",
+        "%":2.0,
+        "Seats":2,
+        "+\/\u2013":"@@@_-6"
+    },
+    {
+        "Party":"Bavarian Peasants' League",
+        "Votes":"245,100",
+        "%":2.0,
+        "Seats":2,
+        "+\/\u2013":1
+    },
+    {
+        "Party":"Others",
+        "Votes":"245,100",
+        "%":2.0,
+        "Seats":2,
+        "+\/\u2013":"@@@_-1"
+    },
+    {
+        "Party":"Invalid\/blank votes",
+        "Votes":"53,100",
+        "%":"\u2013",
+        "Seats":"\u2013",
+        "+\/\u2013":"\u2013"
+    },
+    {
+        "Party":"Total",
+        "Votes":"12,260,600",
+        "%":100,
+        "Seats":397,
+        "+\/\u2013":0
+    },
+    {
+        "Party":"Registered voters\/turnout",
+        "Votes":"13,352,900",
+        "%":84.9,
+        "Seats":"\u2013",
+        "+\/\u2013":"\u2013"
+    },
+    {
+        "Party":"Source: Nohlen & St\u00f6ver, DGDB",
+        "Votes":"Source: Nohlen & St\u00f6ver, DGDB",
+        "%":"Source: Nohlen & St\u00f6ver, DGDB",
+        "Seats":"Source: Nohlen & St\u00f6ver, DGDB",
+        "+\/\u2013":"Source: Nohlen & St\u00f6ver, DGDB"
+    },
+    {
+        "Party":"Time Travelers' Party",
+        "Votes":"1,000,000",
+        "%":8.1,
+        "Seats":50,
+        "+\/\u2013":100
+    },
+    {
+        "Party":"Quantum Leap Party",
+        "Votes":"3,000,000",
+        "%":0.5,
+        "Seats":0,
+        "+\/\u2013":20
+    },
+    {
+        "Party":"Future Technologists",
+        "Votes":"2,000,000",
+        "%":150,
+        "Seats":200,
+        "+\/\u2013":"-5"
+    }
+]

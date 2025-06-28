@@ -1,0 +1,44 @@
+[
+    {
+        "Year":"No",
+        "Gross Domestic Product":"No",
+        "US Dollar Exchange":"No",
+        "Inflation Index\n(2000=100)":"No",
+        "Per Capita Income\n(as % of USA)":"No"
+    },
+    {
+        "Year":"Yes",
+        "Gross Domestic Product":"No",
+        "US Dollar Exchange":"No",
+        "Inflation Index\n(2000=100)":"No",
+        "Per Capita Income\n(as % of USA)":"No"
+    },
+    {
+        "Year":"No",
+        "Gross Domestic Product":"Yes",
+        "US Dollar Exchange":"No",
+        "Inflation Index\n(2000=100)":"No",
+        "Per Capita Income\n(as % of USA)":"No"
+    },
+    {
+        "Year":"Yes",
+        "Gross Domestic Product":"No",
+        "US Dollar Exchange":"No",
+        "Inflation Index\n(2000=100)":"No",
+        "Per Capita Income\n(as % of USA)":"No"
+    },
+    {
+        "Year":"No",
+        "Gross Domestic Product":"No",
+        "US Dollar Exchange":"No",
+        "Inflation Index\n(2000=100)":"No",
+        "Per Capita Income\n(as % of USA)":"No"
+    },
+    {
+        "Year":"No",
+        "Gross Domestic Product":"No",
+        "US Dollar Exchange":"No",
+        "Inflation Index\n(2000=100)":"Yes",
+        "Per Capita Income\n(as % of USA)":"No"
+    }
+]

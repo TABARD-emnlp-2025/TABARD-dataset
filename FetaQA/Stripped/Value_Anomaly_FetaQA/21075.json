@@ -1,0 +1,82 @@
+[
+    {
+        "Year":"Representing Cuba",
+        "Competition":"Representing Cuba",
+        "Venue":"Representing Cuba",
+        "Position":"Representing Cuba",
+        "Event":"Representing Cuba",
+        "Notes":"Representing Cuba"
+    },
+    {
+        "Year":2008,
+        "Competition":"World Junior Championships",
+        "Venue":"Bydgoszcz, Poland",
+        "Position":"\u2013",
+        "Event":"110 m hurdles (99 cm)",
+        "Notes":"DNF"
+    },
+    {
+        "Year":2014,
+        "Competition":"World Indoor Championships",
+        "Venue":"Sopot, Poland",
+        "Position":"16th (sf)",
+        "Event":"60 m hurdles",
+        "Notes":8.03
+    },
+    {
+        "Year":2014,
+        "Competition":"Pan American Sports Festival",
+        "Venue":"Mexico City, Mexico",
+        "Position":"5th",
+        "Event":"110 m hurdles",
+        "Notes":13.72
+    },
+    {
+        "Year":2014,
+        "Competition":"Central American and Caribbean Games",
+        "Venue":"Xalapa, Mexico",
+        "Position":"2nd",
+        "Event":"110 m hurdles",
+        "Notes":13.53
+    },
+    {
+        "Year":2015,
+        "Competition":"Pan American Games",
+        "Venue":"Toronto, Canada",
+        "Position":"5th",
+        "Event":"110 m hurdles",
+        "Notes":13.3
+    },
+    {
+        "Year":2015,
+        "Competition":"NACAC Championships",
+        "Venue":"San Jos\u00e9, Costa Rica",
+        "Position":"2nd",
+        "Event":"110 m hurdles",
+        "Notes":13.3
+    },
+    {
+        "Year":2015,
+        "Competition":"World Championships",
+        "Venue":"Beijing, China",
+        "Position":"11th (h)",
+        "Event":"110 m hurdles",
+        "Notes":13.43
+    },
+    {
+        "Year":2016,
+        "Competition":"World Indoor Championships",
+        "Venue":"Portland, United States",
+        "Position":"18th (h)",
+        "Event":"60 m hurdles",
+        "Notes":7.77
+    },
+    {
+        "Year":2016,
+        "Competition":"Olympic Games",
+        "Venue":"Rio de Janeiro, Brazil",
+        "Position":"26th (h)",
+        "Event":"110 m hurdles",
+        "Notes":13.81
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "#":1,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"September 14, 1997"
+    },
+    {
+        "#":2,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"September 28, 1997"
+    },
+    {
+        "#":3,
+        "Directed By":"Gerry Poulson",
+        "Written By":"David Humphries",
+        "Original Air Date":"October 5, 1997"
+    },
+    {
+        "#":4,
+        "Directed By":"Gerry Poulson",
+        "Written By":"David Humphries",
+        "Original Air Date":"October 12, 1997"
+    },
+    {
+        "#":5,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"October 26, 1997"
+    },
+    {
+        "#":6,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"November 2, 1997"
+    },
+    {
+        "#":7,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Fran Carroll",
+        "Original Air Date":"November 9, 1997"
+    },
+    {
+        "#":8,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"November 16, 1997"
+    },
+    {
+        "#":9,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"November 23, 1997"
+    },
+    {
+        "#":10,
+        "Directed By":"John Reardon",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"November 30, 1997"
+    },
+    {
+        "#":11,
+        "Directed By":"John Reardon",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"January 4, 1998"
+    },
+    {
+        "#":12,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"January 11, 1998"
+    },
+    {
+        "#":13,
+        "Directed By":"John Reardon",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"January 18, 1998"
+    },
+    {
+        "#":14,
+        "Directed By":"Ken Horn",
+        "Written By":"Neil McKay",
+        "Original Air Date":"January 25, 1998"
+    },
+    {
+        "#":15,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Dave Humphries",
+        "Original Air Date":"February 1, 1998"
+    },
+    {
+        "#":16,
+        "Directed By":"Douglas MacKinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"February 8, 1998"
+    },
+    {
+        "#":17,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"February 15, 1998"
+    },
+    {
+        "#":18,
+        "Directed By":"John Reardon",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"February 22, 1998"
+    },
+    {
+        "#":19,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":null
+    },
+    {
+        "#":20,
+        "Directed By":"Frank W. Smith",
+        "Written By":null,
+        "Original Air Date":"March 1, 1998"
+    },
+    {
+        "#":21,
+        "Directed By":null,
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"March 8, 1998"
+    },
+    {
+        "#":22,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"February 30, 1998"
+    },
+    {
+        "#":23,
+        "Directed By":"Gerry Poulson",
+        "Written By":"David Humphries",
+        "Original Air Date":"April 1, 1998"
+    },
+    {
+        "#":24,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"April 8, 1998"
+    },
+    {
+        "#":25,
+        "Directed By":"Ken Horn",
+        "Written By":"Neil McKay",
+        "Original Air Date":"April 15, 1998"
+    },
+    {
+        "#":26,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"April 22, 1998"
+    },
+    {
+        "#":27,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"April 29, 1998"
+    },
+    {
+        "#":28,
+        "Directed By":"John Reardon",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"May 6, 1998"
+    },
+    {
+        "#":29,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"May 13, 1998"
+    },
+    {
+        "#":30,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"May 20, 1998"
+    },
+    {
+        "#":31,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"May 27, 1998"
+    },
+    {
+        "#":32,
+        "Directed By":"Gerry Poulson",
+        "Written By":"David Humphries",
+        "Original Air Date":"June 3, 1998"
+    },
+    {
+        "#":33,
+        "Directed By":"John Reardon",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"June 10, 1998"
+    },
+    {
+        "#":34,
+        "Directed By":"Ken Horn",
+        "Written By":"Neil McKay",
+        "Original Air Date":"June 17, 1998"
+    },
+    {
+        "#":35,
+        "Directed By":"Douglas MacKinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"June 24, 1998"
+    },
+    {
+        "#":36,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"July 1, 1998"
+    },
+    {
+        "#":37,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"July 8, 1998"
+    },
+    {
+        "#":38,
+        "Directed By":"John Reardon",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"July 15, 1998"
+    },
+    {
+        "#":39,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"July 22, 1998"
+    },
+    {
+        "#":40,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"July 29, 1998"
+    },
+    {
+        "#":41,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"August 5, 1998"
+    },
+    {
+        "#":42,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"August 12, 1998"
+    },
+    {
+        "#":43,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"August 19, 1998"
+    },
+    {
+        "#":44,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"August 26, 1998"
+    },
+    {
+        "#":45,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"September 2, 1998"
+    },
+    {
+        "#":46,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"September 9, 1998"
+    },
+    {
+        "#":47,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"September 16, 1998"
+    },
+    {
+        "#":48,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"September 23, 1998"
+    },
+    {
+        "#":49,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"September 30, 1998"
+    },
+    {
+        "#":50,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"October 7, 1998"
+    },
+    {
+        "#":51,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"October 14, 1998"
+    },
+    {
+        "#":52,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"October 21, 1998"
+    },
+    {
+        "#":53,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"October 28, 1998"
+    },
+    {
+        "#":54,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"November 4, 1998"
+    },
+    {
+        "#":55,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"November 11, 1998"
+    },
+    {
+        "#":56,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"November 18, 1998"
+    },
+    {
+        "#":57,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"November 25, 1998"
+    },
+    {
+        "#":58,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"December 2, 1998"
+    },
+    {
+        "#":59,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"December 9, 1998"
+    },
+    {
+        "#":60,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"December 16, 1998"
+    },
+    {
+        "#":61,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"December 23, 1998"
+    },
+    {
+        "#":62,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"January 1, 1999"
+    },
+    {
+        "#":63,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"January 8, 1999"
+    },
+    {
+        "#":64,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"January 15, 1999"
+    },
+    {
+        "#":65,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"January 22, 1999"
+    },
+    {
+        "#":66,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"January 29, 1999"
+    },
+    {
+        "#":67,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"February 5, 1999"
+    },
+    {
+        "#":68,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"February 12, 1999"
+    },
+    {
+        "#":69,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"February 19, 1999"
+    },
+    {
+        "#":70,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"February 26, 1999"
+    },
+    {
+        "#":71,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"March 5, 1999"
+    },
+    {
+        "#":72,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"March 12, 1999"
+    },
+    {
+        "#":73,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"March 19, 1999"
+    },
+    {
+        "#":74,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"March 26, 1999"
+    },
+    {
+        "#":75,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"April 2, 1999"
+    },
+    {
+        "#":76,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"April 9, 1999"
+    },
+    {
+        "#":77,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"April 16, 1999"
+    },
+    {
+        "#":78,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"April 23, 1999"
+    },
+    {
+        "#":79,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"April 30, 1999"
+    },
+    {
+        "#":80,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"May 7, 1999"
+    },
+    {
+        "#":81,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"May 14, 1999"
+    },
+    {
+        "#":82,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"May 21, 1999"
+    },
+    {
+        "#":83,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"May 28, 1999"
+    },
+    {
+        "#":84,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"June 4, 1999"
+    },
+    {
+        "#":85,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"June 11, 1999"
+    },
+    {
+        "#":86,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"June 18, 1999"
+    },
+    {
+        "#":87,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"June 25, 1999"
+    },
+    {
+        "#":88,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"July 2, 1999"
+    },
+    {
+        "#":89,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"July 9, 1999"
+    },
+    {
+        "#":90,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"July 16, 1999"
+    },
+    {
+        "#":91,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"July 23, 1999"
+    },
+    {
+        "#":92,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"July 30, 1999"
+    },
+    {
+        "#":93,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"August 6, 1999"
+    },
+    {
+        "#":94,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"August 13, 1999"
+    },
+    {
+        "#":95,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"August 20, 1999"
+    },
+    {
+        "#":96,
+        "Directed By":"Frank W. Smith",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"August 27, 1999"
+    },
+    {
+        "#":97,
+        "Directed By":"John Reardon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"September 3, 1999"
+    },
+    {
+        "#":98,
+        "Directed By":"Graham Moore",
+        "Written By":"Simon J. Sharkey",
+        "Original Air Date":"September 10, 1999"
+    },
+    {
+        "#":99,
+        "Directed By":"Douglas Mackinnon",
+        "Written By":"Neil McKay",
+        "Original Air Date":"September 17, 1999"
+    },
+    {
+        "#":100,
+        "Directed By":"Ken Horn",
+        "Written By":"David Humphries",
+        "Original Air Date":"September 24, 1999"
+    }
+]

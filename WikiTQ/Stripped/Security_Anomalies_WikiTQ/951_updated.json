@@ -1,0 +1,72 @@
+[
+    {
+        "Candidate":"John McCain",
+        "Votes":"701,761",
+        "Percentage":"36%",
+        "Counties":45.0,
+        "Delegates":57.0
+    },
+    {
+        "Candidate":"Mitt Romney",
+        "Votes":"604,932",
+        "Percentage":"31.03%",
+        "Counties":18.0,
+        "Delegates":0.0
+    },
+    {
+        "Candidate":"Rudy Giuliani",
+        "Votes":"286,089",
+        "Percentage":"14.68%",
+        "Counties":0.0,
+        "Delegates":0.0
+    },
+    {
+        "Candidate":"Mike Huckabee",
+        "Votes":"262,681",
+        "Percentage":"13.47%",
+        "Counties":4.0,
+        "Delegates":0.0
+    },
+    {
+        "Candidate":"Ron Paul",
+        "Votes":"62,887",
+        "Percentage":"3.23%",
+        "Counties":0.0,
+        "Delegates":"nan"
+    },
+    {
+        "Candidate":"Fred Thompson*",
+        "Votes":"22,668",
+        "Percentage":"1.16%",
+        "Counties":0.0,
+        "Delegates":0.0
+    },
+    {
+        "Candidate":"Alan Keyes",
+        "Votes":"4,060",
+        "Percentage":"0.21%",
+        "Counties":0.0,
+        "Delegates":0.0
+    },
+    {
+        "Candidate":"Duncan Hunter*",
+        "Votes":"2,847",
+        "Percentage":"0.15%",
+        "Counties":0.0,
+        "Delegates":0.0
+    },
+    {
+        "Candidate":"Tom Tancredo*",
+        "Votes":"1,573",
+        "Percentage":"0.08%",
+        "Counties":"nan",
+        "Delegates":0.0
+    },
+    {
+        "Candidate":"Totals",
+        "Votes":"1,949,498",
+        "Percentage":"100%",
+        "Counties":67.0,
+        "Delegates":57.0
+    }
+]

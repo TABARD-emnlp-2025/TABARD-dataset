@@ -1,0 +1,618 @@
+[
+    {
+        "No.":1,
+        "Temple":"Ry\u014dzen-ji (\u970a\u5c71\u5bfa)",
+        "Honzon (main image)":"Shaka Nyorai",
+        "City\/Town\/Village":"Naruto",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":2,
+        "Temple":"Gokuraku-ji (\u6975\u697d\u5bfa)",
+        "Honzon (main image)":"Amida Nyorai",
+        "City\/Town\/Village":"Naruto",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":3,
+        "Temple":"Konsen-ji (\u91d1\u6cc9\u5bfa)",
+        "Honzon (main image)":"Shaka Nyorai",
+        "City\/Town\/Village":"Itano",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":4,
+        "Temple":"Dainichi-ji (\u5927\u65e5\u5bfa)",
+        "Honzon (main image)":"Dainichi Nyorai",
+        "City\/Town\/Village":"Itano",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":5,
+        "Temple":"Jiz\u014d-ji (\u5730\u8535\u5bfa)",
+        "Honzon (main image)":"Enmei Jiz\u014d Bosatsu",
+        "City\/Town\/Village":"Itano",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":6,
+        "Temple":"Anraku-ji (\u5b89\u697d\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Kamiita",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":7,
+        "Temple":"J\u016braku-ji (\u5341\u697d\u5bfa)",
+        "Honzon (main image)":"Amida Nyorai",
+        "City\/Town\/Village":"Awa",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":8,
+        "Temple":"Kumadani-ji (\u718a\u8c37\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Awa",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":9,
+        "Temple":"H\u014drin-ji (\u6cd5\u8f2a\u5bfa)",
+        "Honzon (main image)":"Shaka Nyorai",
+        "City\/Town\/Village":"Awa",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":10,
+        "Temple":"Kirihata-ji (\u5207\u5e61\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Awa",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":11,
+        "Temple":"Fujii-dera (\u85e4\u4e95\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Yoshinogawa",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":12,
+        "Temple":"Sh\u014dsan-ji (\u713c\u5c71\u5bfa)",
+        "Honzon (main image)":"Kok\u016bz\u014d Bosatsu",
+        "City\/Town\/Village":"Kamiyama",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":13,
+        "Temple":"Dainichi-ji (\u5927\u65e5\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Tokushima",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":14,
+        "Temple":"J\u014draku-ji (\u5e38\u697d\u5bfa)",
+        "Honzon (main image)":"Miroku Bosatsu",
+        "City\/Town\/Village":"Tokushima",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":15,
+        "Temple":"Awa Kokubun-ji (\u963f\u6ce2\u56fd\u5206\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Tokushima",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":16,
+        "Temple":"Kannon-ji (\u89b3\u97f3\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Tokushima",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":17,
+        "Temple":"Ido-ji (\u4e95\u6238\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Tokushima",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":18,
+        "Temple":"Onzan-ji (\u6069\u5c71\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Komatsushima",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":19,
+        "Temple":"Tatsue-ji (\u7acb\u6c5f\u5bfa)",
+        "Honzon (main image)":"Jiz\u014d Bosatsu",
+        "City\/Town\/Village":"Komatsushima",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":20,
+        "Temple":"Kakurin-ji (\u9db4\u6797\u5bfa)",
+        "Honzon (main image)":"Jiz\u014d Bosatsu",
+        "City\/Town\/Village":"Katsuura",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":21,
+        "Temple":"Tairy\u016bji (\u592a\u7adc\u5bfa)",
+        "Honzon (main image)":"Kok\u016bz\u014d Bosatsu",
+        "City\/Town\/Village":"Anan",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":22,
+        "Temple":"By\u014dd\u014d-ji (\u5e73\u7b49\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Anan",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":23,
+        "Temple":"Yaku\u014d-ji (\u85ac\u738b\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Minami",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":24,
+        "Temple":"Hotsumisaki-ji (\u6700\u5fa1\u5d0e\u5bfa)",
+        "Honzon (main image)":"Kok\u016bz\u014d Bosatsu",
+        "City\/Town\/Village":"Muroto",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":25,
+        "Temple":"Shinsh\u014d-ji (\u6d25\u7167\u5bfa)",
+        "Honzon (main image)":"Jiz\u014d Bosatsu",
+        "City\/Town\/Village":"Muroto",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":26,
+        "Temple":"Kong\u014dch\u014d-ji (\u91d1\u525b\u9802\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Muroto",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":27,
+        "Temple":"K\u014dnomine-ji (\u795e\u5cf0\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Yasuda",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":28,
+        "Temple":"Dainichi-ji (\u5927\u65e5\u5bfa)",
+        "Honzon (main image)":"Dainichi Nyorai",
+        "City\/Town\/Village":"K\u014dnan",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":29,
+        "Temple":"Tosa Kokubun-ji (\u571f\u4f50\u56fd\u5206\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Nankoku",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":30,
+        "Temple":"Zenrakuji (\u5584\u697d\u5bfa)",
+        "Honzon (main image)":"Amida Nyorai",
+        "City\/Town\/Village":"K\u014dchi",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":31,
+        "Temple":"Chikurin-ji (\u7af9\u6797\u5bfa)",
+        "Honzon (main image)":"Monju Bosatsu",
+        "City\/Town\/Village":"K\u014dchi",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":32,
+        "Temple":"Zenjibu-ji (\u7985\u5e2b\u5cf0\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Nankoku",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":33,
+        "Temple":"Sekkei-ji (\u96ea\u8e4a\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"K\u014dchi",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":34,
+        "Temple":"Tanema-ji (\u7a2e\u9593\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Haruno",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":35,
+        "Temple":"Kiyotaki-ji (\u6e05\u6edd\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Tosa",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":36,
+        "Temple":"Sh\u014dry\u016b-ji (\u9752\u7adc\u5bfa)",
+        "Honzon (main image)":"Fud\u014d My\u014d\u014d",
+        "City\/Town\/Village":"Tosa",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":37,
+        "Temple":"Iwamoto-ji (\u5ca9\u672c\u5bfa)",
+        "Honzon (main image)":"Five Buddhas",
+        "City\/Town\/Village":"Shimanto",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":38,
+        "Temple":"Kong\u014dfuku-ji (\u91d1\u525b\u798f\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Tosashimizu",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":39,
+        "Temple":"Enk\u014d-ji (\u5ef6\u5149\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Sukumo",
+        "Prefecture":"K\u014dchi Prefecture"
+    },
+    {
+        "No.":40,
+        "Temple":"Kanjizai-ji (\u89b3\u81ea\u5728\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Ainan",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":41,
+        "Temple":"Ry\u016bk\u014dji (\u7adc\u5149\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Uwajima",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":42,
+        "Temple":"Butsumoku-ji (\u4f5b\u6728\u5bfa)",
+        "Honzon (main image)":"Dainichi Nyorai",
+        "City\/Town\/Village":"Uwajima",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":43,
+        "Temple":"Meiseki-ji (\u660e\u77f3\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Seiyo",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":44,
+        "Temple":"Daih\u014d-ji (\u5927\u5b9d\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Kumak\u014dgen",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":45,
+        "Temple":"Iwaya-ji (\u5ca9\u5c4b\u5bfa)",
+        "Honzon (main image)":"Fud\u014d My\u014d\u014d",
+        "City\/Town\/Village":"Kumak\u014dgen",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":46,
+        "Temple":"J\u014druri-ji (\u6d44\u7460\u7483\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Matsuyama",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":47,
+        "Temple":"Yasaka-ji (\u516b\u5742\u5bfa)",
+        "Honzon (main image)":"Amida Nyorai",
+        "City\/Town\/Village":"Matsuyama",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":48,
+        "Temple":"Sairin-ji (\u897f\u6797\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Matsuyama",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":49,
+        "Temple":"J\u014ddo-ji (\u6d44\u571f\u5bfa)",
+        "Honzon (main image)":"Shaka Nyorai",
+        "City\/Town\/Village":"Matsuyama",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":50,
+        "Temple":"Hanta-ji (\u7e41\u591a\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Matsuyama",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":51,
+        "Temple":"Ishite-ji (\u77f3\u624b\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Matsuyama",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":52,
+        "Temple":"Taisan-ji (\u592a\u5c71\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Matsuyama",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":53,
+        "Temple":"Enmy\u014d-ji (\u5186\u660e\u5bfa)",
+        "Honzon (main image)":"Amida Nyorai",
+        "City\/Town\/Village":"Matsuyama",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":54,
+        "Temple":"Enmei-ji (\u5ef6\u547d\u5bfa)",
+        "Honzon (main image)":"Fud\u014d My\u014d\u014d",
+        "City\/Town\/Village":"Imabari",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":55,
+        "Temple":"Nank\u014db\u014d (\u5357\u5149\u574a)",
+        "Honzon (main image)":"Daits\u016b-chish\u014d Butsu",
+        "City\/Town\/Village":"Imabari",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":56,
+        "Temple":"Taisan-ji (\u6cf0\u5c71\u5bfa)",
+        "Honzon (main image)":"Jiz\u014d Bosatsu",
+        "City\/Town\/Village":"Imabari",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":57,
+        "Temple":"Eifuku-ji (\u6804\u798f\u5bfa)",
+        "Honzon (main image)":"Amida Nyorai",
+        "City\/Town\/Village":"Imabari",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":58,
+        "Temple":"Seny\u016b-ji (\u4ed9\u904a\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Imabari",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":59,
+        "Temple":"Iyo Kokubun-ji (\u4f0a\u4e88\u56fd\u5206\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Imabari",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":60,
+        "Temple":"Yokomine-ji (\u6a2a\u5cf0\u5bfa)",
+        "Honzon (main image)":"Dainichi Nyorai",
+        "City\/Town\/Village":"Saij\u014d",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":61,
+        "Temple":"K\u014don-ji (\u9999\u5712\u5bfa)",
+        "Honzon (main image)":"Dainichi Nyorai",
+        "City\/Town\/Village":"Saij\u014d",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":62,
+        "Temple":"H\u014dju-ji (\u5b9d\u5bff\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Saij\u014d",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":63,
+        "Temple":"Kichij\u014d-ji (\u5409\u7965\u5bfa)",
+        "Honzon (main image)":"Bishamonten",
+        "City\/Town\/Village":"Saij\u014d",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":64,
+        "Temple":"Maegami-ji (\u524d\u795e\u5bfa)",
+        "Honzon (main image)":"Amida Nyorai",
+        "City\/Town\/Village":"Saij\u014d",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":65,
+        "Temple":"Sankaku-ji (\u4e09\u89d2\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Shikokuch\u016b\u014d",
+        "Prefecture":"Ehime Prefecture"
+    },
+    {
+        "No.":66,
+        "Temple":"Unpen-ji (\u96f2\u8fba\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Miyoshi",
+        "Prefecture":"Tokushima Prefecture"
+    },
+    {
+        "No.":67,
+        "Temple":"Daik\u014d-ji (\u5927\u8208\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Mitoyo",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":68,
+        "Temple":"Jinne-in (\u795e\u6075\u9662)",
+        "Honzon (main image)":"Amida Nyorai",
+        "City\/Town\/Village":"Kan'onji",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":69,
+        "Temple":"Kannon-ji (\u89b3\u97f3\u5bfa)",
+        "Honzon (main image)":"Sh\u014d Kannon",
+        "City\/Town\/Village":"Kan'onji",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":70,
+        "Temple":"Motoyama-ji (\u672c\u5c71\u5bfa)",
+        "Honzon (main image)":"Bat\u014d Kannon",
+        "City\/Town\/Village":"Mitoyo",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":71,
+        "Temple":"Iyadani-ji (\u5f25\u8c37\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Mitoyo",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":72,
+        "Temple":"Mandara-ji (\u66fc\u837c\u7f85\u5bfa)",
+        "Honzon (main image)":"Dainichi Nyorai",
+        "City\/Town\/Village":"Zents\u016bji",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":73,
+        "Temple":"Shusshakaji (\u51fa\u91c8\u8fe6\u5bfa)",
+        "Honzon (main image)":"Shaka Nyorai",
+        "City\/Town\/Village":"Zents\u016bji",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":74,
+        "Temple":"K\u014dyama-ji (\u7532\u5c71\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Zents\u016bji",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":75,
+        "Temple":"Zents\u016b-ji (\u5584\u901a\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Zents\u016bji",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":76,
+        "Temple":"Konz\u014d-ji (\u91d1\u5009\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Zents\u016bji",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":77,
+        "Temple":"D\u014dry\u016b-ji (\u9053\u9686\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Tadotsu",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":78,
+        "Temple":"G\u014dsh\u014d-ji (\u90f7\u7167\u5bfa)",
+        "Honzon (main image)":"Amida Nyorai",
+        "City\/Town\/Village":"Utazu",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":79,
+        "Temple":"Tenn\u014d-ji (\u5929\u7687\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Sakaide",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":80,
+        "Temple":"Sanuki Kokubun-ji (\u8b83\u5c90\u56fd\u5206\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen & Senj\u016b Kannon",
+        "City\/Town\/Village":"Takamatsu",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":81,
+        "Temple":"Shiromine-ji (\u767d\u5cef\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Sakaide",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":82,
+        "Temple":"Negoro-ji (\u6839\u9999\u5bfa)",
+        "Honzon (main image)":"Senj\u016b Kannon",
+        "City\/Town\/Village":"Takamatsu",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":83,
+        "Temple":"Ichinomiya-ji (\u4e00\u5bae\u5bfa)",
+        "Honzon (main image)":"Sh\u014d Kannon",
+        "City\/Town\/Village":"Takamatsu",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":84,
+        "Temple":"Yashima-ji (\u5c4b\u5cf6\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen & Senj\u016b Kannon",
+        "City\/Town\/Village":"Takamatsu",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":85,
+        "Temple":"Yakuri-ji (\u516b\u6817\u5bfa)",
+        "Honzon (main image)":"Sh\u014d Kannon",
+        "City\/Town\/Village":"Takamatsu",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":86,
+        "Temple":"Shido-ji (\u5fd7\u5ea6\u5bfa)",
+        "Honzon (main image)":"J\u016bichimen Kannon",
+        "City\/Town\/Village":"Sanuki",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":87,
+        "Temple":"Nagao-ji (\u9577\u5c3e\u5bfa)",
+        "Honzon (main image)":"Sh\u014d Kannon",
+        "City\/Town\/Village":"Sanuki",
+        "Prefecture":"Kagawa Prefecture"
+    },
+    {
+        "No.":88,
+        "Temple":"\u014ckubo-ji (\u5927\u7aaa\u5bfa)",
+        "Honzon (main image)":"Yakushi Nyorai",
+        "City\/Town\/Village":"Sanuki",
+        "Prefecture":"Kagawa Prefecture"
+    }
+]

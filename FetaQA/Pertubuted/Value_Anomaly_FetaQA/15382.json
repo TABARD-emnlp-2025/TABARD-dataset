@@ -1,0 +1,128 @@
+[
+    {
+        "Club performance":"League",
+        "League":"Goals",
+        "Cup":"Goals",
+        "Continental":"Goals",
+        "Total":"Goals"
+    },
+    {
+        "Club performance":"Italy",
+        "League":"League",
+        "Cup":"Coppa Italia",
+        "Continental":"Europe",
+        "Total":"Total"
+    },
+    {
+        "Club performance":"Serie A",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Serie A",
+        "League":1,
+        "Cup":0,
+        "Continental":0,
+        "Total":1
+    },
+    {
+        "Club performance":"Serie A",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Serie A",
+        "League":1,
+        "Cup":0,
+        "Continental":0,
+        "Total":1
+    },
+    {
+        "Club performance":"Serie A",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Serie A",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Serie A",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Serie A",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Serie A",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Serie A",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Serie A",
+        "League":1,
+        "Cup":0,
+        "Continental":0,
+        "Total":1
+    },
+    {
+        "Club performance":"Serie A",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Championship",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Championship",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"First Division",
+        "League":0,
+        "Cup":0,
+        "Continental":0,
+        "Total":0
+    },
+    {
+        "Club performance":"Career total",
+        "League":3,
+        "Cup":0,
+        "Continental":0,
+        "Total":3
+    }
+]

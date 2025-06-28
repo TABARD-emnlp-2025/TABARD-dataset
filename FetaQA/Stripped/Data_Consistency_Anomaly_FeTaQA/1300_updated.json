@@ -1,0 +1,51 @@
+[
+    {
+        "Date":"1 January 1940",
+        "Ship":"Lars Magnus Trozelli",
+        "Nationality":"Sweden",
+        "Tonnage":"1.951",
+        "Fate and location":"Sunk at 58°14'N 01°36'W / 58.233°N 1.600°W"
+    },
+    {
+        "Date":"3 January 1940",
+        "Ship":"Svartön",
+        "Nationality":"Sweden",
+        "Tonnage":"2,475",
+        "Fate and location":"58.800°N 1.783°W"
+    },
+    {
+        "Date":"3 February 1940",
+        "Ship":"Reet",
+        "Nationality":"Estonia",
+        "Tonnage":"815",
+        "Fate and location":"Sunk"
+    },
+    {
+        "Date":"1 June 1940",
+        "Ship":"HMS Astronomer",
+        "Nationality":"Royal Navy",
+        "Tonnage":"8,401",
+        "Fate and location":"Sunk at 58°01'N 02°12'W / 58.017°N 2.200°W"
+    },
+    {
+        "Date":"18 July 1940",
+        "Ship":"Gyda",
+        "Nationality":"NORWAY",
+        "Tonnage":"1591",
+        "Fate and location":"Sunk at 55°50'N 09°00'W / 55.833°N 9.000°W"
+    },
+    {
+        "Date":"4 August 1940",
+        "Ship":"Pindos",
+        "Nationality":"Greece",
+        "Tonnage":"4,360",
+        "Fate and location":"Sunk at 55°22'N 08°50'W / 55.367°N 8.833°W"
+    },
+    {
+        "Date":"8 October 1940",
+        "Ship":"Confield",
+        "Nationality":"",
+        "Tonnage":"4,956",
+        "Fate and location":"Sunk"
+    }
+]

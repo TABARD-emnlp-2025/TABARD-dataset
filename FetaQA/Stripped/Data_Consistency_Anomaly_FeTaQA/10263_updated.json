@@ -1,0 +1,44 @@
+[
+    {
+        "Year":"1971",
+        "Competition":"Pan American Games",
+        "Venue":"CALI, Colombia",
+        "Position":"1st",
+        "Notes":"81.52m GR"
+    },
+    {
+        "Year":1973,
+        "Competition":"Pacific Conf Games",
+        "Venue":"Toronto, Canada",
+        "Position":"1st",
+        "Notes":"82.50 m CR"
+    },
+    {
+        "Year":1973,
+        "Competition":"Pacific Conference Games",
+        "Venue":"Toronto, Canada",
+        "Position":"1st",
+        "Notes":"82.50m CR"
+    },
+    {
+        "Year":1971,
+        "Competition":"Pan American Games",
+        "Venue":"Cali, Colombia",
+        "Position":"1st",
+        "Notes":"81.52 m GR"
+    },
+    {
+        "Year":1973,
+        "Competition":"Pacific Conference Games",
+        "Venue":"Toronto",
+        "Position":"1st",
+        "Notes":"82.50 m CR"
+    },
+    {
+        "Year":1971,
+        "Competition":"Pan American Games",
+        "Venue":"Cali, Colombia",
+        "Position":"First",
+        "Notes":"81.52 m GR"
+    }
+]

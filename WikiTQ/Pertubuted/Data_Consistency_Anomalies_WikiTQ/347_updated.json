@@ -1,0 +1,130 @@
+[
+    {
+        "Rank":"1",
+        "Nation":"China (CHN)",
+        "Gold":14,
+        "Silver":14,
+        "Bronze":13,
+        "Total":41
+    },
+    {
+        "Rank":"2",
+        "Nation":"India (IND)",
+        "Gold":7,
+        "Silver":6,
+        "Bronze":4,
+        "Total":17
+    },
+    {
+        "Rank":"3",
+        "Nation":"Saudi Arabia (KSA)",
+        "Gold":7,
+        "Silver":1,
+        "Bronze":0,
+        "Total":"@@@_9"
+    },
+    {
+        "Rank":"4",
+        "Nation":"Kazakhstan (KAZ)",
+        "Gold":3,
+        "Silver":4,
+        "Bronze":5,
+        "Total":12
+    },
+    {
+        "Rank":"5",
+        "Nation":"South Korea (KOR)",
+        "Gold":3,
+        "Silver":2,
+        "Bronze":1,
+        "Total":6
+    },
+    {
+        "Rank":"6",
+        "Nation":"Japan (JPN)",
+        "Gold":2,
+        "Silver":13,
+        "Bronze":8,
+        "Total":23
+    },
+    {
+        "Rank":"7",
+        "Nation":"@@@_Bahrain (BHR)",
+        "Gold":2,
+        "Silver":1,
+        "Bronze":1,
+        "Total":4
+    },
+    {
+        "Rank":"8",
+        "Nation":"Sri Lanka (SRI)",
+        "Gold":2,
+        "Silver":0,
+        "Bronze":2,
+        "Total":"@@@_5"
+    },
+    {
+        "Rank":"@@@_8",
+        "Nation":"@@@_Sri Lanka (SRI)",
+        "Gold":"@@@_2",
+        "Silver":"@@@_0",
+        "Bronze":"@@@_2",
+        "Total":"@@@_4"
+    },
+    {
+        "Rank":"10",
+        "Nation":"Thailand (THA)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":2,
+        "Total":4
+    },
+    {
+        "Rank":"11",
+        "Nation":"Kyrgyzstan (KGZ)",
+        "Gold":1,
+        "Silver":1,
+        "Bronze":0,
+        "Total":2
+    },
+    {
+        "Rank":"12",
+        "Nation":"Kuwait (KUW)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":0,
+        "Total":1
+    },
+    {
+        "Rank":"12",
+        "Nation":"North Korea (PRK)",
+        "Gold":1,
+        "Silver":0,
+        "Bronze":"@@@_1",
+        "Total":1
+    },
+    {
+        "Rank":"14",
+        "Nation":"Uzbekistan (UZB)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":3,
+        "Total":4
+    },
+    {
+        "Rank":"15",
+        "Nation":"Iran (IRI)",
+        "Gold":0,
+        "Silver":1,
+        "Bronze":0,
+        "Total":1
+    },
+    {
+        "Rank":"Total",
+        "Nation":"Total",
+        "Gold":45,
+        "Silver":49,
+        "Bronze":42,
+        "Total":136
+    }
+]

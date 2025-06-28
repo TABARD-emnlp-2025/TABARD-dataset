@@ -1,0 +1,106 @@
+[
+    {
+        "Year":"Representing Canada",
+        "Competition":"Representing Canada",
+        "Venue":"Representing Canada",
+        "Position":"Representing Canada",
+        "Event":"Representing Canada",
+        "Notes":"Representing Canada"
+    },
+    {
+        "Year":1985,
+        "Competition":"Universiade",
+        "Venue":"Kobe, Japan",
+        "Position":"3rd",
+        "Event":"3000 m",
+        "Notes":"9:03.19"
+    },
+    {
+        "Year":1987,
+        "Competition":"Pan American Games",
+        "Venue":"Indianapolis, United States",
+        "Position":"2nd",
+        "Event":"3000 m",
+        "Notes":"9:14.48"
+    },
+    {
+        "Year":1988,
+        "Competition":"Olympic Games",
+        "Venue":"Seoul, South Korea",
+        "Position":"17th (h)",
+        "Event":"1500 m",
+        "Notes":"4:08.64"
+    },
+    {
+        "Year":1988,
+        "Competition":"Olympic Games",
+        "Venue":"Seoul, South Korea",
+        "Position":"14th",
+        "Event":"@@@_3000 meters",
+        "Notes":"9:04.75"
+    },
+    {
+        "Year":1990,
+        "Competition":"Commonwealth Games",
+        "Venue":"Auckland, New Zealand",
+        "Position":"1st",
+        "Event":"1500 m",
+        "Notes":"4:08.41"
+    },
+    {
+        "Year":1990,
+        "Competition":"Commonwealth Games",
+        "Venue":"Auckland, New Zealand",
+        "Position":"1st",
+        "Event":"3000 m",
+        "Notes":"8:38.38"
+    },
+    {
+        "Year":1992,
+        "Competition":"Olympic Games",
+        "Venue":"Barcelona, Spain",
+        "Position":"14th (sf)",
+        "Event":"1500 m",
+        "Notes":"4:04.87"
+    },
+    {
+        "Year":1992,
+        "Competition":"Olympic Games",
+        "Venue":"Barcelona, Spain",
+        "Position":"3rd",
+        "Event":"3000 m",
+        "Notes":"8:47.22"
+    },
+    {
+        "Year":1994,
+        "Competition":"Commonwealth Games",
+        "Venue":"Victoria, Canada",
+        "Position":"1st",
+        "Event":"3000 m",
+        "Notes":"8:32.17"
+    },
+    {
+        "Year":1994,
+        "Competition":"Grand Prix Final",
+        "Venue":"Paris, France",
+        "Position":"1st",
+        "Event":"1500 m",
+        "Notes":"4:01.61"
+    },
+    {
+        "Year":1994,
+        "Competition":"World Cup",
+        "Venue":"London, United Kingdom",
+        "Position":"2nd",
+        "Event":"1500 m",
+        "Notes":"4:01.73"
+    },
+    {
+        "Year":"(#) Indicates overall position in qualifying heats (h) or semifinals (sf)",
+        "Competition":"@@@_# Indicates overall position",
+        "Venue":"(#) Indicates overall position in qualifying heats (h) or semifinals (sf)",
+        "Position":"(#) Indicates overall position in qualifying heats (h) or semifinals (sf)",
+        "Event":"(#) Indicates overall position in qualifying heats (h) or semifinals (sf)",
+        "Notes":"(#) Indicates overall position in qualifying heats (h) or semifinals (sf)"
+    }
+]

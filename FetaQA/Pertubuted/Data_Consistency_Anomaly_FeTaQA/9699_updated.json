@@ -1,0 +1,37 @@
+[
+    {
+        "Rank":1,
+        "Rider":"Nazi Germany Georg Meier",
+        "Team":"BMW",
+        "Speed":"@@@_89.38",
+        "Time":"2:57:19.0"
+    },
+    {
+        "Rank":2,
+        "Rider":"United Kingdom Jock West",
+        "Team":"@@@_B.M.W",
+        "Speed":88.22,
+        "Time":"2:59:39.0"
+    },
+    {
+        "Rank":3,
+        "Rider":"United Kingdom Freddie Frith",
+        "Team":"Norton",
+        "Speed":87.96,
+        "Time":"3:00:11.0"
+    },
+    {
+        "Rank":1,
+        "Rider":"United kingdom jock west",
+        "Team":"BMW",
+        "Speed":88.22,
+        "Time":"2:59:39.0"
+    },
+    {
+        "Rank":3,
+        "Rider":"United Kingdom Freddie Frith",
+        "Team":"Norton",
+        "Speed":87.96,
+        "Time":"3 hours"
+    }
+]

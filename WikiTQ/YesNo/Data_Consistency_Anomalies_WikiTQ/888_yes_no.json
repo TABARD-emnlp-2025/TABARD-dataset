@@ -1,0 +1,44 @@
+[
+    {
+        "Location": "no",
+        "Mile": "no",
+        "Destinations": "yes",
+        "Notes": "no"
+    },
+    {
+        "Location": "no",
+        "Mile": "no",
+        "Destinations": "no",
+        "Notes": "no"
+    },
+    {
+        "Location": "yes",
+        "Mile": "no",
+        "Destinations": "no",
+        "Notes": "no"
+    },
+    {
+        "Location": "no",
+        "Mile": "no",
+        "Destinations": "yes",
+        "Notes": "no"
+    },
+    {
+        "Location": "no",
+        "Mile": "no",
+        "Destinations": "no",
+        "Notes": "no"
+    },
+    {
+        "Location": "yes",
+        "Mile": "no",
+        "Destinations": "yes",
+        "Notes": "no"
+    },
+    {
+        "Location": "no",
+        "Mile": "no",
+        "Destinations": "yes",
+        "Notes": "no"
+    }
+]

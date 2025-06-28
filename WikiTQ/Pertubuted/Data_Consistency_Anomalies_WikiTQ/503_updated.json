@@ -1,0 +1,44 @@
+[
+    {
+        "Year":1995,
+        "Competition":"World Indoor Championships",
+        "Venue":"Barcelona, Spain",
+        "Position":"11th",
+        "Notes":"Pentathlon"
+    },
+    {
+        "Year":1996,
+        "Competition":"Olympic Games",
+        "Venue":"@@@_atlanta, georgia, usa",
+        "Position":"24th",
+        "Notes":"Heptathlon"
+    },
+    {
+        "Year":1997,
+        "Competition":"World Championships",
+        "Venue":"Athens, Greece",
+        "Position":"@@@_sixteenth",
+        "Notes":"Heptathlon"
+    },
+    {
+        "Year":1998,
+        "Competition":"European Indoor Championships",
+        "Venue":"Valencia, Spain",
+        "Position":"7th",
+        "Notes":"@@@_pentathlon"
+    },
+    {
+        "Year":1998,
+        "Competition":"European Championships",
+        "Venue":"Budapest, Hungary",
+        "Position":"14th",
+        "Notes":"Heptathlon"
+    },
+    {
+        "Year":2000,
+        "Competition":"Olympic Games",
+        "Venue":"Sydney, Australia",
+        "Position":"DNF",
+        "Notes":"@@@_"
+    }
+]

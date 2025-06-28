@@ -1,0 +1,74 @@
+[
+    {
+        "Institution":"Clemson University",
+        "Location":"Clemson, South Carolina",
+        "Enrollment":"20,576",
+        "Nickname":"Tigers",
+        "Varsity\nSports":19,
+        "Rugby\nSince":"1967",
+        "Head Coach":"Justin Hickey"
+    },
+    {
+        "Institution":"Maryland",
+        "Location":"College Park, Maryland",
+        "Enrollment":"37,641",
+        "Nickname":"Terrapins",
+        "Varsity\nSports":20,
+        "Rugby\nSince":"@@@_2068",
+        "Head Coach":"Jeff Soeken"
+    },
+    {
+        "Institution":"Navy",
+        "Location":"Annapolis, Maryland",
+        "Enrollment":"4,576",
+        "Nickname":"Midshipmen",
+        "Varsity\nSports":30,
+        "Rugby\nSince":"1963",
+        "Head Coach":"Mike Flanagan"
+    },
+    {
+        "Institution":"North Carolina",
+        "Location":"Chapel Hill, North Carolina",
+        "Enrollment":"@@@_-29,340",
+        "Nickname":"Tar Heels",
+        "Varsity\nSports":28,
+        "Rugby\nSince":"1966",
+        "Head Coach":"Pete Earsman"
+    },
+    {
+        "Institution":"North Carolina State",
+        "Location":"Raleigh, North Carolina",
+        "Enrollment":"34,767",
+        "Nickname":"Wolfpack",
+        "Varsity\nSports":25,
+        "Rugby\nSince":"1965",
+        "Head Coach":"Jim Latham"
+    },
+    {
+        "Institution":"University of Virginia",
+        "Location":"Charlottesville, Virginia",
+        "Enrollment":"20,895",
+        "Nickname":"Cavaliers",
+        "Varsity\nSports":25,
+        "Rugby\nSince":"1961",
+        "Head Coach":"Jon Roberts"
+    },
+    {
+        "Institution":"Virginia Tech",
+        "Location":"Blacksburg, Virginia",
+        "Enrollment":"30,379",
+        "Nickname":"Hokies",
+        "Varsity\nSports":21,
+        "Rugby\nSince":"1891 \/ 1968",
+        "Head Coach":"Andy Richards"
+    },
+    {
+        "Institution":"Wake Forest",
+        "Location":"Winston-Salem, North Carolina",
+        "Enrollment":"7,079",
+        "Nickname":"Demon Deacons",
+        "Varsity\nSports":"@@@_100",
+        "Rugby\nSince":"1973",
+        "Head Coach":"Patrick Kane"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "Yes",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "No",
+        "Venue": "No",
+        "Position": "Yes",
+        "Event": "Yes",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "Yes",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "Yes",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "Yes",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    },
+    {
+        "Year": "No",
+        "Competition": "Yes",
+        "Venue": "Yes",
+        "Position": "Yes",
+        "Event": "No",
+        "Notes": "Yes"
+    }
+]

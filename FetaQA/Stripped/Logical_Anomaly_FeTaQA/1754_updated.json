@@ -1,0 +1,79 @@
+[
+    {
+        "Year":1992,
+        "Award":"Jazz Dance World Congress",
+        "Category":"Silver Leo Award",
+        "Work":"Silver Leo Award",
+        "Result":"Won"
+    },
+    {
+        "Year":"2025",
+        "Award":"Dance Educators of America",
+        "Category":"President Cup",
+        "Work":"President Cup",
+        "Result":"Won"
+    },
+    {
+        "Year":2002,
+        "Award":"American Choreography Awards",
+        "Category":"Outstanding Achievement in Commercials",
+        "Work":"Coldwell Banker \"Buying\"",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2003,
+        "Award":"American Choreography Awards",
+        "Category":"Outstanding Achievement in Television - Variety Series",
+        "Work":"Celine in Las Vegas: Opening Night Live",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2003,
+        "Award":"Primetime Emmy Award",
+        "Category":"Outstanding Choreography",
+        "Work":"Celine in Las Vegas: Opening Night Live",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2007,
+        "Award":"Primetime Emmy Award",
+        "Category":"Outstanding Choreography",
+        "Work":"So You Think You Can Dance (For episode Calling You)",
+        "Result":"Won"
+    },
+    {
+        "Year":2009,
+        "Award":"Primetime Emmy Award",
+        "Category":"Outstanding Choreography",
+        "Work":"So You Think You Can Dance (For \"Mercy\")",
+        "Result":"Nominated"
+    },
+    {
+        "Year":2010,
+        "Award":"Primetime Emmy Award",
+        "Category":"Outstanding Choreography",
+        "Work":"So You Think You Can Dance (For the routines \"Koop Island Blues,\" \"Gravity,\" and \"One\")",
+        "Result":"Won"
+    },
+    {
+        "Year":2011,
+        "Award":"Primetime Emmy Award",
+        "Category":"Outstanding Choreography",
+        "Work":"So You Think You Can Dance (For the routines \"Every Little Thing She Does Is Magic,\" \"When We Dance,\" \"This Bitter Earth/On the Nature of Daylight\" (tied with Tabitha and Napoleon D'umo)",
+        "Result":"Won"
+    },
+    {
+        "Year":2015,
+        "Award":"Astaire Awards",
+        "Category":"Best Choreographer",
+        "Work":"Finding Neverland",
+        "Result":"Nominated"
+    },
+    {
+        "Year":-300,
+        "Award":"Ancient Dance Festival",
+        "Category":"Best Choreography",
+        "Work":"Pythagorean Dance",
+        "Result":"Won"
+    }
+]

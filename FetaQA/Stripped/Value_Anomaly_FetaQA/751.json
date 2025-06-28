@@ -1,0 +1,68 @@
+[
+    {
+        "Tournament":"2007 U19 World Cup",
+        "Points per game":14.9,
+        "Rebounds per game":2.8,
+        "Assists per game":4.6
+    },
+    {
+        "Tournament":"2007 FIBA Ociania",
+        "Points per game":null,
+        "Rebounds per game":1.7,
+        "Assists per game":1.3
+    },
+    {
+        "Tournament":"2008 FIBA Diamond Ball",
+        "Points per game":756.6073692727,
+        "Rebounds per game":0.7,
+        "Assists per game":0.3
+    },
+    {
+        "Tournament":"2008 Olympic Games",
+        "Points per game":14.2,
+        "Rebounds per game":2.2,
+        "Assists per game":2.0
+    },
+    {
+        "Tournament":"2010 FIBA World Cup",
+        "Points per game":13.8,
+        "Rebounds per game":1.7,
+        "Assists per game":4.2
+    },
+    {
+        "Tournament":"2011 London Invitational",
+        "Points per game":17.0,
+        "Rebounds per game":1.3,
+        "Assists per game":2.0
+    },
+    {
+        "Tournament":"2011 FIBA Oceania",
+        "Points per game":265.1317381625,
+        "Rebounds per game":2.7,
+        "Assists per game":3.7
+    },
+    {
+        "Tournament":"2012 Olympic Games",
+        "Points per game":162.4925363989,
+        "Rebounds per game":4.5,
+        "Assists per game":2.2
+    },
+    {
+        "Tournament":"2013 FIBA Oceania",
+        "Points per game":-27.917503309,
+        "Rebounds per game":3.5,
+        "Assists per game":2.0
+    },
+    {
+        "Tournament":"2015 FIBA Oceania",
+        "Points per game":13.0,
+        "Rebounds per game":4.5,
+        "Assists per game":4.0
+    },
+    {
+        "Tournament":"2016 Olympic Games",
+        "Points per game":21.3,
+        "Rebounds per game":1.6,
+        "Assists per game":1.7
+    }
+]

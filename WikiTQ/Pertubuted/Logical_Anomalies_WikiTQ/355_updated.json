@@ -1,0 +1,90 @@
+[
+    {
+        "#":"1",
+        "Player":"Louise Suggs",
+        "Country":"United States",
+        "Score":"78-75-75-74=302",
+        "To par":14,
+        "Money ($)":900
+    },
+    {
+        "#":"2",
+        "Player":"Patty Berg",
+        "Country":"United States",
+        "Score":"79-77-73-74=303",
+        "To par":15,
+        "Money ($)":675
+    },
+    {
+        "#":"T3",
+        "Player":"Betsy Rawls",
+        "Country":"United States",
+        "Score":"79-75-72-80=306",
+        "To par":18,
+        "Money ($)":445
+    },
+    {
+        "#":"T3",
+        "Player":"Mickey Wright",
+        "Country":"United States",
+        "Score":"80-79-74-73=306",
+        "To par":18,
+        "Money ($)":445
+    },
+    {
+        "#":"5",
+        "Player":"Betty Jameson",
+        "Country":"United States",
+        "Score":"80-74-77-78=309",
+        "To par":"@@@_-5",
+        "Money ($)":405
+    },
+    {
+        "#":"T6",
+        "Player":"Mary Lena Faulk",
+        "Country":"United States",
+        "Score":"82-79-74-76=311",
+        "To par":23,
+        "Money ($)":338
+    },
+    {
+        "#":"T6",
+        "Player":"Beverly Hanson",
+        "Country":"United States",
+        "Score":"84-75-75-77=311",
+        "To par":23,
+        "Money ($)":338
+    },
+    {
+        "#":"T8",
+        "Player":"Fay Crocker",
+        "Country":"Uruguay",
+        "Score":"92-70-76-75=313",
+        "To par":25,
+        "Money ($)":"@@@_1248"
+    },
+    {
+        "#":"T8",
+        "Player":"Marlene Hagge",
+        "Country":"United States",
+        "Score":"78-80-79-76=313",
+        "To par":25,
+        "Money ($)":"@@@_-248"
+    },
+    {
+        "#":"T10",
+        "Player":"Vonnie Colby",
+        "Country":"United States",
+        "Score":"80-79-78-78=315",
+        "To par":"@@@_-27",
+        "Money ($)":113
+    },
+    {
+        "#":"T10",
+        "Player":"Joyce Ziske",
+        "Country":"United States",
+        "Score":"83-82-77-73=315",
+        "To par":27,
+        "Money ($)":113
+    }
+]

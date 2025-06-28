@@ -1,0 +1,1522 @@
+[
+    {
+        "City":"Abbotsford",
+        "County(ies)":"Clark\nMarathon",
+        "Population\n(2000 Census)":"1,956",
+        "Population\n(2010 Census)":"2,310",
+        "Class":"4th",
+        "Incorporation\ndate":1965
+    },
+    {
+        "City":"Adams",
+        "County(ies)":"Adams",
+        "Population\n(2000 Census)":"1,831",
+        "Population\n(2010 Census)":"1,967",
+        "Class":"4th",
+        "Incorporation\ndate":1926
+    },
+    {
+        "City":"Algoma",
+        "County(ies)":"Kewaunee",
+        "Population\n(2000 Census)":"3,357",
+        "Population\n(2010 Census)":"3,167",
+        "Class":"4th",
+        "Incorporation\ndate":1879
+    },
+    {
+        "City":"Alma",
+        "County(ies)":"Buffalo",
+        "Population\n(2000 Census)":"942",
+        "Population\n(2010 Census)":"781",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Altoona",
+        "County(ies)":"Eau Claire",
+        "Population\n(2000 Census)":"6,698",
+        "Population\n(2010 Census)":"6,706",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Amery",
+        "County(ies)":"Polk",
+        "Population\n(2000 Census)":"2,845",
+        "Population\n(2010 Census)":"2,902",
+        "Class":"4th",
+        "Incorporation\ndate":1919
+    },
+    {
+        "City":"Antigo",
+        "County(ies)":"Langlade",
+        "Population\n(2000 Census)":"8,560",
+        "Population\n(2010 Census)":"8,234",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Appleton",
+        "County(ies)":"Calumet\nOutagamie\nWinnebago",
+        "Population\n(2000 Census)":"70,087",
+        "Population\n(2010 Census)":"72,623",
+        "Class":"2nd",
+        "Incorporation\ndate":1857
+    },
+    {
+        "City":"Arcadia",
+        "County(ies)":"Trempealeau",
+        "Population\n(2000 Census)":"2,402",
+        "Population\n(2010 Census)":"2,925",
+        "Class":"4th",
+        "Incorporation\ndate":1925
+    },
+    {
+        "City":"Ashland",
+        "County(ies)":"Ashland\nBayfield",
+        "Population\n(2000 Census)":"8,620",
+        "Population\n(2010 Census)":"8,216",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Augusta",
+        "County(ies)":"Eau Claire",
+        "Population\n(2000 Census)":"1,460",
+        "Population\n(2010 Census)":"1,550",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Baraboo",
+        "County(ies)":"Sauk",
+        "Population\n(2000 Census)":"10,711",
+        "Population\n(2010 Census)":"12,048",
+        "Class":"3rd",
+        "Incorporation\ndate":1882
+    },
+    {
+        "City":"Barron",
+        "County(ies)":"Barron",
+        "Population\n(2000 Census)":"3,248",
+        "Population\n(2010 Census)":"3,423",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Bayfield",
+        "County(ies)":"Bayfield",
+        "Population\n(2000 Census)":"611",
+        "Population\n(2010 Census)":"487",
+        "Class":"4th",
+        "Incorporation\ndate":1913
+    },
+    {
+        "City":"Beaver Dam",
+        "County(ies)":"Dodge",
+        "Population\n(2000 Census)":"15,169",
+        "Population\n(2010 Census)":"16,243",
+        "Class":"4th",
+        "Incorporation\ndate":1856
+    },
+    {
+        "City":"Beloit",
+        "County(ies)":"Rock",
+        "Population\n(2000 Census)":"35,775",
+        "Population\n(2010 Census)":"36,966",
+        "Class":"3rd",
+        "Incorporation\ndate":1857
+    },
+    {
+        "City":"Berlin",
+        "County(ies)":"Green Lake\nWaushara",
+        "Population\n(2000 Census)":"5,305",
+        "Population\n(2010 Census)":"5,524",
+        "Class":"4th",
+        "Incorporation\ndate":1857
+    },
+    {
+        "City":"Black River Falls",
+        "County(ies)":"Jackson",
+        "Population\n(2000 Census)":"3,618",
+        "Population\n(2010 Census)":"3,622",
+        "Class":"4th",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Blair",
+        "County(ies)":"Trempealeau",
+        "Population\n(2000 Census)":"1,273",
+        "Population\n(2010 Census)":"1,366",
+        "Class":"4th",
+        "Incorporation\ndate":1949
+    },
+    {
+        "City":"Bloomer",
+        "County(ies)":"Chippewa",
+        "Population\n(2000 Census)":"3,347",
+        "Population\n(2010 Census)":"3,539",
+        "Class":"4th",
+        "Incorporation\ndate":1920
+    },
+    {
+        "City":"Boscobel",
+        "County(ies)":"Grant",
+        "Population\n(2000 Census)":"3,047",
+        "Population\n(2010 Census)":"3,231",
+        "Class":"4th",
+        "Incorporation\ndate":1873
+    },
+    {
+        "City":"Brillion",
+        "County(ies)":"Calumet",
+        "Population\n(2000 Census)":"2,937",
+        "Population\n(2010 Census)":"3,148",
+        "Class":"4th",
+        "Incorporation\ndate":1944
+    },
+    {
+        "City":"Brodhead",
+        "County(ies)":"Green\nRock",
+        "Population\n(2000 Census)":"3,180",
+        "Population\n(2010 Census)":"3,293",
+        "Class":"4th",
+        "Incorporation\ndate":1891
+    },
+    {
+        "City":"Brookfield",
+        "County(ies)":"Waukesha",
+        "Population\n(2000 Census)":"38,649",
+        "Population\n(2010 Census)":"37,920",
+        "Class":"2nd",
+        "Incorporation\ndate":1954
+    },
+    {
+        "City":"Buffalo City",
+        "County(ies)":"Buffalo",
+        "Population\n(2000 Census)":"1,040",
+        "Population\n(2010 Census)":"1,023",
+        "Class":"4th",
+        "Incorporation\ndate":1859
+    },
+    {
+        "City":"Burlington",
+        "County(ies)":"Racine\nWalworth",
+        "Population\n(2000 Census)":"9,936",
+        "Population\n(2010 Census)":"10,464",
+        "Class":"4th",
+        "Incorporation\ndate":1900
+    },
+    {
+        "City":"Cedarburg",
+        "County(ies)":"Ozaukee",
+        "Population\n(2000 Census)":"11,102",
+        "Population\n(2010 Census)":"11,412",
+        "Class":"3rd",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Chetek",
+        "County(ies)":"Barron",
+        "Population\n(2000 Census)":"2,180",
+        "Population\n(2010 Census)":"2,221",
+        "Class":"4th",
+        "Incorporation\ndate":1891
+    },
+    {
+        "City":"Chilton",
+        "County(ies)":"Calumet",
+        "Population\n(2000 Census)":"3,708",
+        "Population\n(2010 Census)":"3,933",
+        "Class":"4th",
+        "Incorporation\ndate":1877
+    },
+    {
+        "City":"Chippewa Falls",
+        "County(ies)":"Chippewa",
+        "Population\n(2000 Census)":"12,900",
+        "Population\n(2010 Census)":"13,679",
+        "Class":"3rd",
+        "Incorporation\ndate":1840
+    },
+    {
+        "City":"Clintonville",
+        "County(ies)":"Waupaca",
+        "Population\n(2000 Census)":"4,736",
+        "Population\n(2010 Census)":"4,559",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Colby",
+        "County(ies)":"Clark\nMarathon",
+        "Population\n(2000 Census)":"1,616",
+        "Population\n(2010 Census)":"1,852",
+        "Class":"4th",
+        "Incorporation\ndate":1891
+    },
+    {
+        "City":"Columbus",
+        "County(ies)":"Columbia\nDodge",
+        "Population\n(2000 Census)":"4,479",
+        "Population\n(2010 Census)":"4,991",
+        "Class":"4th",
+        "Incorporation\ndate":1874
+    },
+    {
+        "City":"Cornell",
+        "County(ies)":"Chippewa",
+        "Population\n(2000 Census)":"1,466",
+        "Population\n(2010 Census)":"1,467",
+        "Class":"4th",
+        "Incorporation\ndate":1956
+    },
+    {
+        "City":"Crandon",
+        "County(ies)":"Forest",
+        "Population\n(2000 Census)":"1,961",
+        "Population\n(2010 Census)":"1,920",
+        "Class":"4th",
+        "Incorporation\ndate":1898
+    },
+    {
+        "City":"Cuba City",
+        "County(ies)":"Grant\nLafayette",
+        "Population\n(2000 Census)":"2,156",
+        "Population\n(2010 Census)":"2,086",
+        "Class":"4th",
+        "Incorporation\ndate":1925
+    },
+    {
+        "City":"Cudahy",
+        "County(ies)":"Milwaukee",
+        "Population\n(2000 Census)":"18,429",
+        "Population\n(2010 Census)":"18,267",
+        "Class":"3rd",
+        "Incorporation\ndate":1906
+    },
+    {
+        "City":"Cumberland",
+        "County(ies)":"Barron",
+        "Population\n(2000 Census)":"2,280",
+        "Population\n(2010 Census)":"2,170",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Darlington",
+        "County(ies)":"Lafayette",
+        "Population\n(2000 Census)":"2,418",
+        "Population\n(2010 Census)":"2,451",
+        "Class":"4th",
+        "Incorporation\ndate":1877
+    },
+    {
+        "City":"Delafield",
+        "County(ies)":"Waukesha",
+        "Population\n(2000 Census)":"6,472",
+        "Population\n(2010 Census)":"7,085",
+        "Class":"4th",
+        "Incorporation\ndate":1959
+    },
+    {
+        "City":"Delavan",
+        "County(ies)":"Walworth",
+        "Population\n(2000 Census)":"7,956",
+        "Population\n(2010 Census)":"8,463",
+        "Class":"4th",
+        "Incorporation\ndate":1897
+    },
+    {
+        "City":"De Pere",
+        "County(ies)":"Brown",
+        "Population\n(2000 Census)":"20,559",
+        "Population\n(2010 Census)":"23,800",
+        "Class":"3rd",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Dodgeville",
+        "County(ies)":"Iowa",
+        "Population\n(2000 Census)":"4,220",
+        "Population\n(2010 Census)":"4,698",
+        "Class":"4th",
+        "Incorporation\ndate":1889
+    },
+    {
+        "City":"Durand",
+        "County(ies)":"Pepin",
+        "Population\n(2000 Census)":"1,968",
+        "Population\n(2010 Census)":"1,931",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Eagle River",
+        "County(ies)":"Vilas",
+        "Population\n(2000 Census)":"1,443",
+        "Population\n(2010 Census)":"1,398",
+        "Class":"4th",
+        "Incorporation\ndate":1937
+    },
+    {
+        "City":"Eau Claire",
+        "County(ies)":"Chippewa\nEau Claire",
+        "Population\n(2000 Census)":"61,704",
+        "Population\n(2010 Census)":"65,883",
+        "Class":"2nd",
+        "Incorporation\ndate":1872
+    },
+    {
+        "City":"Edgerton",
+        "County(ies)":"Dane\nRock",
+        "Population\n(2000 Census)":"4,898",
+        "Population\n(2010 Census)":"5,461",
+        "Class":"4th",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Elkhorn",
+        "County(ies)":"Walworth",
+        "Population\n(2000 Census)":"7,305",
+        "Population\n(2010 Census)":"10,084",
+        "Class":"4th",
+        "Incorporation\ndate":1897
+    },
+    {
+        "City":"Elroy",
+        "County(ies)":"Juneau",
+        "Population\n(2000 Census)":"1,578",
+        "Population\n(2010 Census)":"1,442",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Evansville",
+        "County(ies)":"Rock",
+        "Population\n(2000 Census)":"4,039",
+        "Population\n(2010 Census)":"5,012",
+        "Class":"4th",
+        "Incorporation\ndate":1896
+    },
+    {
+        "City":"Fennimore",
+        "County(ies)":"Grant",
+        "Population\n(2000 Census)":"2,387",
+        "Population\n(2010 Census)":"2,497",
+        "Class":"4th",
+        "Incorporation\ndate":1919
+    },
+    {
+        "City":"Fitchburg",
+        "County(ies)":"Dane",
+        "Population\n(2000 Census)":"20,501",
+        "Population\n(2010 Census)":"25,260",
+        "Class":"4th",
+        "Incorporation\ndate":1983
+    },
+    {
+        "City":"Fond du Lac",
+        "County(ies)":"Fond du Lac",
+        "Population\n(2000 Census)":"42,203",
+        "Population\n(2010 Census)":"43,021",
+        "Class":"2nd",
+        "Incorporation\ndate":1852
+    },
+    {
+        "City":"Fort Atkinson",
+        "County(ies)":"Jefferson",
+        "Population\n(2000 Census)":"11,621",
+        "Population\n(2010 Census)":"12,368",
+        "Class":"4th",
+        "Incorporation\ndate":1878
+    },
+    {
+        "City":"Fountain City",
+        "County(ies)":"Buffalo",
+        "Population\n(2000 Census)":"983",
+        "Population\n(2010 Census)":"859",
+        "Class":"4th",
+        "Incorporation\ndate":1889
+    },
+    {
+        "City":"Fox Lake",
+        "County(ies)":"Dodge",
+        "Population\n(2000 Census)":"1,454",
+        "Population\n(2010 Census)":"1,519",
+        "Class":"4th",
+        "Incorporation\ndate":1938
+    },
+    {
+        "City":"Franklin",
+        "County(ies)":"Milwaukee",
+        "Population\n(2000 Census)":"29,494",
+        "Population\n(2010 Census)":"35,451",
+        "Class":"3rd",
+        "Incorporation\ndate":1956
+    },
+    {
+        "City":"Galesville",
+        "County(ies)":"Trempealeau",
+        "Population\n(2000 Census)":"1,427",
+        "Population\n(2010 Census)":"1,481",
+        "Class":"4th",
+        "Incorporation\ndate":1942
+    },
+    {
+        "City":"Gillett",
+        "County(ies)":"Oconto",
+        "Population\n(2000 Census)":"1,262",
+        "Population\n(2010 Census)":"1,386",
+        "Class":"4th",
+        "Incorporation\ndate":1944
+    },
+    {
+        "City":"Glendale",
+        "County(ies)":"Milwaukee",
+        "Population\n(2000 Census)":"13,367",
+        "Population\n(2010 Census)":"12,872",
+        "Class":"3rd",
+        "Incorporation\ndate":1950
+    },
+    {
+        "City":"Glenwood City",
+        "County(ies)":"St. Croix",
+        "Population\n(2000 Census)":"1,183",
+        "Population\n(2010 Census)":"1,242",
+        "Class":"4th",
+        "Incorporation\ndate":1895
+    },
+    {
+        "City":"Green Bay",
+        "County(ies)":"Brown",
+        "Population\n(2000 Census)":"102,767",
+        "Population\n(2010 Census)":"104,057",
+        "Class":"2nd",
+        "Incorporation\ndate":1854
+    },
+    {
+        "City":"Greenfield",
+        "County(ies)":"Milwaukee",
+        "Population\n(2000 Census)":"35,476",
+        "Population\n(2010 Census)":"36,720",
+        "Class":"3rd",
+        "Incorporation\ndate":1957
+    },
+    {
+        "City":"Green Lake",
+        "County(ies)":"Green Lake",
+        "Population\n(2000 Census)":"1,100",
+        "Population\n(2010 Census)":"960",
+        "Class":"4th",
+        "Incorporation\ndate":1962
+    },
+    {
+        "City":"Greenwood",
+        "County(ies)":"Clark",
+        "Population\n(2000 Census)":"1,079",
+        "Population\n(2010 Census)":"1,026",
+        "Class":"4th",
+        "Incorporation\ndate":1891
+    },
+    {
+        "City":"Hartford",
+        "County(ies)":"Dodge\nWashington",
+        "Population\n(2000 Census)":"10,905",
+        "Population\n(2010 Census)":"14,223",
+        "Class":"3rd",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Hayward",
+        "County(ies)":"Sawyer",
+        "Population\n(2000 Census)":"2,129",
+        "Population\n(2010 Census)":"2,318",
+        "Class":"4th",
+        "Incorporation\ndate":1915
+    },
+    {
+        "City":"Hillsboro",
+        "County(ies)":"Vernon",
+        "Population\n(2000 Census)":"1,302",
+        "Population\n(2010 Census)":"1,417",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Horicon",
+        "County(ies)":"Dodge",
+        "Population\n(2000 Census)":"3,775",
+        "Population\n(2010 Census)":"3,655",
+        "Class":"4th",
+        "Incorporation\ndate":1897
+    },
+    {
+        "City":"Hudson",
+        "County(ies)":"St. Croix",
+        "Population\n(2000 Census)":"8,775",
+        "Population\n(2010 Census)":"12,719",
+        "Class":"4th",
+        "Incorporation\ndate":1858
+    },
+    {
+        "City":"Hurley",
+        "County(ies)":"Iron",
+        "Population\n(2000 Census)":"1,818",
+        "Population\n(2010 Census)":"1,547",
+        "Class":"4th",
+        "Incorporation\ndate":1918
+    },
+    {
+        "City":"Independence",
+        "County(ies)":"Trempealeau",
+        "Population\n(2000 Census)":"1,244",
+        "Population\n(2010 Census)":"1,336",
+        "Class":"4th",
+        "Incorporation\ndate":1942
+    },
+    {
+        "City":"Janesville",
+        "County(ies)":"Rock",
+        "Population\n(2000 Census)":"59,498",
+        "Population\n(2010 Census)":"63,575",
+        "Class":"2nd",
+        "Incorporation\ndate":1853
+    },
+    {
+        "City":"Jefferson",
+        "County(ies)":"Jefferson",
+        "Population\n(2000 Census)":"7,338",
+        "Population\n(2010 Census)":"7,973",
+        "Class":"4th",
+        "Incorporation\ndate":1878
+    },
+    {
+        "City":"Juneau",
+        "County(ies)":"Dodge",
+        "Population\n(2000 Census)":"2,485",
+        "Population\n(2010 Census)":"2,814",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Kaukauna",
+        "County(ies)":"Outagamie",
+        "Population\n(2000 Census)":"12,983",
+        "Population\n(2010 Census)":"15,462",
+        "Class":"3rd",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Kenosha",
+        "County(ies)":"Kenosha",
+        "Population\n(2000 Census)":"90,352",
+        "Population\n(2010 Census)":"99,218",
+        "Class":"2nd",
+        "Incorporation\ndate":1850
+    },
+    {
+        "City":"Kewaunee",
+        "County(ies)":"Kewaunee",
+        "Population\n(2000 Census)":"2,806",
+        "Population\n(2010 Census)":"2,952",
+        "Class":"4th",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Kiel",
+        "County(ies)":"Calumet\nManitowoc",
+        "Population\n(2000 Census)":"3,450",
+        "Population\n(2010 Census)":"3,738",
+        "Class":"4th",
+        "Incorporation\ndate":1920
+    },
+    {
+        "City":"La Crosse",
+        "County(ies)":"La Crosse",
+        "Population\n(2000 Census)":"51,818",
+        "Population\n(2010 Census)":"51,320",
+        "Class":"2nd",
+        "Incorporation\ndate":1856
+    },
+    {
+        "City":"Ladysmith",
+        "County(ies)":"Rusk",
+        "Population\n(2000 Census)":"3,932",
+        "Population\n(2010 Census)":"3,414",
+        "Class":"4th",
+        "Incorporation\ndate":1905
+    },
+    {
+        "City":"Lake Geneva",
+        "County(ies)":"Walworth",
+        "Population\n(2000 Census)":"7,148",
+        "Population\n(2010 Census)":"7,651",
+        "Class":"4th",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Lake Mills",
+        "County(ies)":"Jefferson",
+        "Population\n(2000 Census)":"4,843",
+        "Population\n(2010 Census)":"5,708",
+        "Class":"4th",
+        "Incorporation\ndate":1905
+    },
+    {
+        "City":"Lancaster",
+        "County(ies)":"Grant",
+        "Population\n(2000 Census)":"4,070",
+        "Population\n(2010 Census)":"3,868",
+        "Class":"4th",
+        "Incorporation\ndate":1878
+    },
+    {
+        "City":"Lodi",
+        "County(ies)":"Columbia",
+        "Population\n(2000 Census)":"2,882",
+        "Population\n(2010 Census)":"3,050",
+        "Class":"4th",
+        "Incorporation\ndate":1941
+    },
+    {
+        "City":"Loyal",
+        "County(ies)":"Clark",
+        "Population\n(2000 Census)":"1,308",
+        "Population\n(2010 Census)":"1,261",
+        "Class":"4th",
+        "Incorporation\ndate":1948
+    },
+    {
+        "City":"Madison",
+        "County(ies)":"Dane",
+        "Population\n(2000 Census)":"208,054",
+        "Population\n(2010 Census)":"233,209",
+        "Class":"2nd",
+        "Incorporation\ndate":1856
+    },
+    {
+        "City":"Manawa",
+        "County(ies)":"Waupaca",
+        "Population\n(2000 Census)":"1,330",
+        "Population\n(2010 Census)":"1,371",
+        "Class":"4th",
+        "Incorporation\ndate":1954
+    },
+    {
+        "City":"Manitowoc",
+        "County(ies)":"Manitowoc",
+        "Population\n(2000 Census)":"34,053",
+        "Population\n(2010 Census)":"33,736",
+        "Class":"3rd",
+        "Incorporation\ndate":1870
+    },
+    {
+        "City":"Marinette",
+        "County(ies)":"Marinette",
+        "Population\n(2000 Census)":"11,749",
+        "Population\n(2010 Census)":"10,968",
+        "Class":"3rd",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Marion",
+        "County(ies)":"Shawano\nWaupaca",
+        "Population\n(2000 Census)":"1,297",
+        "Population\n(2010 Census)":"1,260",
+        "Class":"4th",
+        "Incorporation\ndate":1898
+    },
+    {
+        "City":"Markesan",
+        "County(ies)":"Green Lake",
+        "Population\n(2000 Census)":"1,396",
+        "Population\n(2010 Census)":"1,476",
+        "Class":"4th",
+        "Incorporation\ndate":1959
+    },
+    {
+        "City":"Marshfield",
+        "County(ies)":"Marathon\nWood",
+        "Population\n(2000 Census)":"18,800",
+        "Population\n(2010 Census)":"19,118",
+        "Class":"3rd",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Mauston",
+        "County(ies)":"Juneau",
+        "Population\n(2000 Census)":"3,740",
+        "Population\n(2010 Census)":"4,423",
+        "Class":"4th",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Mayville",
+        "County(ies)":"Dodge",
+        "Population\n(2000 Census)":"4,902",
+        "Population\n(2010 Census)":"5,154",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Medford",
+        "County(ies)":"Taylor",
+        "Population\n(2000 Census)":"4,350",
+        "Population\n(2010 Census)":"4,326",
+        "Class":"4th",
+        "Incorporation\ndate":1889
+    },
+    {
+        "City":"Mellen",
+        "County(ies)":"Ashland",
+        "Population\n(2000 Census)":"845",
+        "Population\n(2010 Census)":"731",
+        "Class":"4th",
+        "Incorporation\ndate":1907
+    },
+    {
+        "City":"Menasha",
+        "County(ies)":"Calumet\nWinnebago",
+        "Population\n(2000 Census)":"16,331",
+        "Population\n(2010 Census)":"17,353",
+        "Class":"3rd",
+        "Incorporation\ndate":1874
+    },
+    {
+        "City":"Menomonie",
+        "County(ies)":"Dunn",
+        "Population\n(2000 Census)":"14,937",
+        "Population\n(2010 Census)":"16,264",
+        "Class":"4th",
+        "Incorporation\ndate":1882
+    },
+    {
+        "City":"Mequon",
+        "County(ies)":"Ozaukee",
+        "Population\n(2000 Census)":"22,643",
+        "Population\n(2010 Census)":"23,132",
+        "Class":"4th",
+        "Incorporation\ndate":1957
+    },
+    {
+        "City":"Merrill",
+        "County(ies)":"Lincoln",
+        "Population\n(2000 Census)":"10,146",
+        "Population\n(2010 Census)":"9,661",
+        "Class":"4th",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Middleton",
+        "County(ies)":"Dane",
+        "Population\n(2000 Census)":"15,770",
+        "Population\n(2010 Census)":"17,442",
+        "Class":"3rd",
+        "Incorporation\ndate":1963
+    },
+    {
+        "City":"Milton",
+        "County(ies)":"Rock",
+        "Population\n(2000 Census)":"5,132",
+        "Population\n(2010 Census)":"5,546",
+        "Class":"4th",
+        "Incorporation\ndate":1969
+    },
+    {
+        "City":"Milwaukee",
+        "County(ies)":"Milwaukee\nWashington\nWaukesha",
+        "Population\n(2000 Census)":"596,974",
+        "Population\n(2010 Census)":"594,833",
+        "Class":"1st",
+        "Incorporation\ndate":1846
+    },
+    {
+        "City":"Mineral Point",
+        "County(ies)":"Iowa",
+        "Population\n(2000 Census)":"2,617",
+        "Population\n(2010 Census)":"2,487",
+        "Class":"4th",
+        "Incorporation\ndate":1857
+    },
+    {
+        "City":"Mondovi",
+        "County(ies)":"Buffalo",
+        "Population\n(2000 Census)":"2,634",
+        "Population\n(2010 Census)":"2,777",
+        "Class":"4th",
+        "Incorporation\ndate":1889
+    },
+    {
+        "City":"Monona",
+        "County(ies)":"Dane",
+        "Population\n(2000 Census)":"8,018",
+        "Population\n(2010 Census)":"7,533",
+        "Class":"4th",
+        "Incorporation\ndate":1969
+    },
+    {
+        "City":"Monroe",
+        "County(ies)":"Green",
+        "Population\n(2000 Census)":"10,843",
+        "Population\n(2010 Census)":"10,827",
+        "Class":"4th",
+        "Incorporation\ndate":1882
+    },
+    {
+        "City":"Montello",
+        "County(ies)":"Marquette",
+        "Population\n(2000 Census)":"1,397",
+        "Population\n(2010 Census)":"1,495",
+        "Class":"4th",
+        "Incorporation\ndate":1938
+    },
+    {
+        "City":"Montreal",
+        "County(ies)":"Iron",
+        "Population\n(2000 Census)":"838",
+        "Population\n(2010 Census)":"807",
+        "Class":"4th",
+        "Incorporation\ndate":1924
+    },
+    {
+        "City":"Mosinee",
+        "County(ies)":"Marathon",
+        "Population\n(2000 Census)":"4,063",
+        "Population\n(2010 Census)":"3,988",
+        "Class":"4th",
+        "Incorporation\ndate":1931
+    },
+    {
+        "City":"Muskego",
+        "County(ies)":"Waukesha",
+        "Population\n(2000 Census)":"21,397",
+        "Population\n(2010 Census)":"24,135",
+        "Class":"3rd",
+        "Incorporation\ndate":1964
+    },
+    {
+        "City":"Neenah",
+        "County(ies)":"Winnebago",
+        "Population\n(2000 Census)":"24,507",
+        "Population\n(2010 Census)":"25,501",
+        "Class":"3rd",
+        "Incorporation\ndate":1873
+    },
+    {
+        "City":"Neillsville",
+        "County(ies)":"Clark",
+        "Population\n(2000 Census)":"2,731",
+        "Population\n(2010 Census)":"2,463",
+        "Class":"4th",
+        "Incorporation\ndate":1882
+    },
+    {
+        "City":"Nekoosa",
+        "County(ies)":"Wood",
+        "Population\n(2000 Census)":"2,590",
+        "Population\n(2010 Census)":"2,580",
+        "Class":"4th",
+        "Incorporation\ndate":1926
+    },
+    {
+        "City":"New Berlin",
+        "County(ies)":"Waukesha",
+        "Population\n(2000 Census)":"38,220",
+        "Population\n(2010 Census)":"39,584",
+        "Class":"3rd",
+        "Incorporation\ndate":1959
+    },
+    {
+        "City":"New Holstein",
+        "County(ies)":"Calumet",
+        "Population\n(2000 Census)":"3,301",
+        "Population\n(2010 Census)":"3,236",
+        "Class":"4th",
+        "Incorporation\ndate":1889
+    },
+    {
+        "City":"New Lisbon",
+        "County(ies)":"Juneau",
+        "Population\n(2000 Census)":"1,436",
+        "Population\n(2010 Census)":"2,554",
+        "Class":"4th",
+        "Incorporation\ndate":1889
+    },
+    {
+        "City":"New London",
+        "County(ies)":"Outagamie\nWaupaca",
+        "Population\n(2000 Census)":"7,085",
+        "Population\n(2010 Census)":"7,295",
+        "Class":"4th",
+        "Incorporation\ndate":1877
+    },
+    {
+        "City":"New Richmond",
+        "County(ies)":"St. Croix",
+        "Population\n(2000 Census)":"6,310",
+        "Population\n(2010 Census)":"8,375",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Niagara",
+        "County(ies)":"Marinette",
+        "Population\n(2000 Census)":"1,880",
+        "Population\n(2010 Census)":"1,624",
+        "Class":"4th",
+        "Incorporation\ndate":1992
+    },
+    {
+        "City":"Oak Creek",
+        "County(ies)":"Milwaukee",
+        "Population\n(2000 Census)":"28,456",
+        "Population\n(2010 Census)":"34,451",
+        "Class":"3rd",
+        "Incorporation\ndate":1955
+    },
+    {
+        "City":"Oconomowoc",
+        "County(ies)":"Waukesha",
+        "Population\n(2000 Census)":"12,382",
+        "Population\n(2010 Census)":"15,712",
+        "Class":"3rd",
+        "Incorporation\ndate":1875
+    },
+    {
+        "City":"Oconto",
+        "County(ies)":"Oconto",
+        "Population\n(2000 Census)":"4,708",
+        "Population\n(2010 Census)":"4,513",
+        "Class":"4th",
+        "Incorporation\ndate":1869
+    },
+    {
+        "City":"Oconto Falls",
+        "County(ies)":"Oconto",
+        "Population\n(2000 Census)":"2,843",
+        "Population\n(2010 Census)":"2,891",
+        "Class":"4th",
+        "Incorporation\ndate":1919
+    },
+    {
+        "City":"Omro",
+        "County(ies)":"Winnebago",
+        "Population\n(2000 Census)":"3,177",
+        "Population\n(2010 Census)":"3,517",
+        "Class":"4th",
+        "Incorporation\ndate":1944
+    },
+    {
+        "City":"Onalaska",
+        "County(ies)":"La Crosse",
+        "Population\n(2000 Census)":"14,839",
+        "Population\n(2010 Census)":"17,736",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Oshkosh",
+        "County(ies)":"Winnebago",
+        "Population\n(2000 Census)":"62,916",
+        "Population\n(2010 Census)":"66,083",
+        "Class":"2nd",
+        "Incorporation\ndate":1853
+    },
+    {
+        "City":"Osseo",
+        "County(ies)":"Trempealeau",
+        "Population\n(2000 Census)":"1,669",
+        "Population\n(2010 Census)":"1,701",
+        "Class":"4th",
+        "Incorporation\ndate":1941
+    },
+    {
+        "City":"Owen",
+        "County(ies)":"Clark",
+        "Population\n(2000 Census)":"936",
+        "Population\n(2010 Census)":"940",
+        "Class":"4th",
+        "Incorporation\ndate":1925
+    },
+    {
+        "City":"Park Falls",
+        "County(ies)":"Price",
+        "Population\n(2000 Census)":"2,739",
+        "Population\n(2010 Census)":"2,462",
+        "Class":"4th",
+        "Incorporation\ndate":1912
+    },
+    {
+        "City":"Peshtigo",
+        "County(ies)":"Marinette",
+        "Population\n(2000 Census)":"3,474",
+        "Population\n(2010 Census)":"3,502",
+        "Class":"4th",
+        "Incorporation\ndate":1903
+    },
+    {
+        "City":"Pewaukee",
+        "County(ies)":"Waukesha",
+        "Population\n(2000 Census)":"11,783",
+        "Population\n(2010 Census)":"13,195",
+        "Class":"3rd",
+        "Incorporation\ndate":1999
+    },
+    {
+        "City":"Phillips",
+        "County(ies)":"Price",
+        "Population\n(2000 Census)":"1,675",
+        "Population\n(2010 Census)":"1,478",
+        "Class":"4th",
+        "Incorporation\ndate":1891
+    },
+    {
+        "City":"Pittsville",
+        "County(ies)":"Wood",
+        "Population\n(2000 Census)":"866",
+        "Population\n(2010 Census)":"874",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Platteville",
+        "County(ies)":"Grant",
+        "Population\n(2000 Census)":"9,989",
+        "Population\n(2010 Census)":"11,224",
+        "Class":"4th",
+        "Incorporation\ndate":1876
+    },
+    {
+        "City":"Plymouth",
+        "County(ies)":"Sheboygan",
+        "Population\n(2000 Census)":"7,781",
+        "Population\n(2010 Census)":"8,445",
+        "Class":"4th",
+        "Incorporation\ndate":1877
+    },
+    {
+        "City":"Port Washington",
+        "County(ies)":"Ozaukee",
+        "Population\n(2000 Census)":"10,467",
+        "Population\n(2010 Census)":"11,250",
+        "Class":"4th",
+        "Incorporation\ndate":1882
+    },
+    {
+        "City":"Portage",
+        "County(ies)":"Columbia",
+        "Population\n(2000 Census)":"9,728",
+        "Population\n(2010 Census)":"10,324",
+        "Class":"4th",
+        "Incorporation\ndate":1854
+    },
+    {
+        "City":"Prairie du Chien",
+        "County(ies)":"Crawford",
+        "Population\n(2000 Census)":"6,018",
+        "Population\n(2010 Census)":"5,911",
+        "Class":"4th",
+        "Incorporation\ndate":1872
+    },
+    {
+        "City":"Prescott",
+        "County(ies)":"Pierce",
+        "Population\n(2000 Census)":"3,764",
+        "Population\n(2010 Census)":"4,258",
+        "Class":"4th",
+        "Incorporation\ndate":1857
+    },
+    {
+        "City":"Princeton",
+        "County(ies)":"Green Lake",
+        "Population\n(2000 Census)":"1,504",
+        "Population\n(2010 Census)":"1,214",
+        "Class":"4th",
+        "Incorporation\ndate":1920
+    },
+    {
+        "City":"Racine",
+        "County(ies)":"Racine",
+        "Population\n(2000 Census)":"81,855",
+        "Population\n(2010 Census)":"78,860",
+        "Class":"2nd",
+        "Incorporation\ndate":1848
+    },
+    {
+        "City":"Reedsburg",
+        "County(ies)":"Sauk",
+        "Population\n(2000 Census)":"7,827",
+        "Population\n(2010 Census)":"10,014",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Rhinelander",
+        "County(ies)":"Oneida",
+        "Population\n(2000 Census)":"7,735",
+        "Population\n(2010 Census)":"7,798",
+        "Class":"4th",
+        "Incorporation\ndate":1894
+    },
+    {
+        "City":"Rice Lake",
+        "County(ies)":"Barron",
+        "Population\n(2000 Census)":"8,312",
+        "Population\n(2010 Census)":"8,438",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Richland Center",
+        "County(ies)":"Richland",
+        "Population\n(2000 Census)":"5,114",
+        "Population\n(2010 Census)":"5,184",
+        "Class":"4th",
+        "Incorporation\ndate":1887
+    },
+    {
+        "City":"Ripon",
+        "County(ies)":"Fond du Lac",
+        "Population\n(2000 Census)":"7,450",
+        "Population\n(2010 Census)":"7,733",
+        "Class":"4th",
+        "Incorporation\ndate":1858
+    },
+    {
+        "City":"River Falls",
+        "County(ies)":"Pierce\nSt. Croix",
+        "Population\n(2000 Census)":"12,560",
+        "Population\n(2010 Census)":"15,000",
+        "Class":"3rd",
+        "Incorporation\ndate":1875
+    },
+    {
+        "City":"St. Croix Falls",
+        "County(ies)":"Polk",
+        "Population\n(2000 Census)":"2,033",
+        "Population\n(2010 Census)":"2,133",
+        "Class":"4th",
+        "Incorporation\ndate":1958
+    },
+    {
+        "City":"St. Francis",
+        "County(ies)":"Milwaukee",
+        "Population\n(2000 Census)":"8,662",
+        "Population\n(2010 Census)":"9,365",
+        "Class":"4th",
+        "Incorporation\ndate":1951
+    },
+    {
+        "City":"Schofield",
+        "County(ies)":"Marathon",
+        "Population\n(2000 Census)":"2,117",
+        "Population\n(2010 Census)":"2,169",
+        "Class":"4th",
+        "Incorporation\ndate":1951
+    },
+    {
+        "City":"Seymour",
+        "County(ies)":"Outagamie",
+        "Population\n(2000 Census)":"3,335",
+        "Population\n(2010 Census)":"3,451",
+        "Class":"4th",
+        "Incorporation\ndate":1879
+    },
+    {
+        "City":"Shawano",
+        "County(ies)":"Shawano",
+        "Population\n(2000 Census)":"8,298",
+        "Population\n(2010 Census)":"9,305",
+        "Class":"4th",
+        "Incorporation\ndate":1874
+    },
+    {
+        "City":"Sheboygan",
+        "County(ies)":"Sheboygan",
+        "Population\n(2000 Census)":"50,792",
+        "Population\n(2010 Census)":"49,288",
+        "Class":"2nd",
+        "Incorporation\ndate":1853
+    },
+    {
+        "City":"Sheboygan Falls",
+        "County(ies)":"Sheboygan",
+        "Population\n(2000 Census)":"6,772",
+        "Population\n(2010 Census)":"7,775",
+        "Class":"4th",
+        "Incorporation\ndate":1913
+    },
+    {
+        "City":"Shell Lake",
+        "County(ies)":"Washburn",
+        "Population\n(2000 Census)":"1,309",
+        "Population\n(2010 Census)":"1,347",
+        "Class":"4th",
+        "Incorporation\ndate":1961
+    },
+    {
+        "City":"Shullsburg",
+        "County(ies)":"Lafayette",
+        "Population\n(2000 Census)":"1,246",
+        "Population\n(2010 Census)":"1,226",
+        "Class":"4th",
+        "Incorporation\ndate":1889
+    },
+    {
+        "City":"South Milwaukee",
+        "County(ies)":"Milwaukee",
+        "Population\n(2000 Census)":"21,256",
+        "Population\n(2010 Census)":"21,156",
+        "Class":"4th",
+        "Incorporation\ndate":1897
+    },
+    {
+        "City":"Sparta",
+        "County(ies)":"Monroe",
+        "Population\n(2000 Census)":"8,648",
+        "Population\n(2010 Census)":"9,522",
+        "Class":"4th",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Spooner",
+        "County(ies)":"Washburn",
+        "Population\n(2000 Census)":"2,653",
+        "Population\n(2010 Census)":"2,682",
+        "Class":"4th",
+        "Incorporation\ndate":1909
+    },
+    {
+        "City":"Stanley",
+        "County(ies)":"Chippewa\nClark",
+        "Population\n(2000 Census)":"1,898",
+        "Population\n(2010 Census)":"3,608",
+        "Class":"4th",
+        "Incorporation\ndate":1898
+    },
+    {
+        "City":"Stevens Point",
+        "County(ies)":"Portage",
+        "Population\n(2000 Census)":"24,551",
+        "Population\n(2010 Census)":"26,717",
+        "Class":"3rd",
+        "Incorporation\ndate":1858
+    },
+    {
+        "City":"Stoughton",
+        "County(ies)":"Dane",
+        "Population\n(2000 Census)":"12,354",
+        "Population\n(2010 Census)":"12,611",
+        "Class":"4th",
+        "Incorporation\ndate":1882
+    },
+    {
+        "City":"Sturgeon Bay",
+        "County(ies)":"Door",
+        "Population\n(2000 Census)":"9,437",
+        "Population\n(2010 Census)":"9,144",
+        "Class":"4th",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Sun Prairie",
+        "County(ies)":"Dane",
+        "Population\n(2000 Census)":"20,369",
+        "Population\n(2010 Census)":"29,364",
+        "Class":"3rd",
+        "Incorporation\ndate":1958
+    },
+    {
+        "City":"Superior",
+        "County(ies)":"Douglas",
+        "Population\n(2000 Census)":"27,368",
+        "Population\n(2010 Census)":"27,244",
+        "Class":"2nd",
+        "Incorporation\ndate":1858
+    },
+    {
+        "City":"Thorp",
+        "County(ies)":"Clark",
+        "Population\n(2000 Census)":"1,536",
+        "Population\n(2010 Census)":"1,621",
+        "Class":"4th",
+        "Incorporation\ndate":1948
+    },
+    {
+        "City":"Tomah",
+        "County(ies)":"Monroe",
+        "Population\n(2000 Census)":"8,419",
+        "Population\n(2010 Census)":"9,093",
+        "Class":"4th",
+        "Incorporation\ndate":1883
+    },
+    {
+        "City":"Tomahawk",
+        "County(ies)":"Lincoln",
+        "Population\n(2000 Census)":"3,770",
+        "Population\n(2010 Census)":"3,397",
+        "Class":"4th",
+        "Incorporation\ndate":1891
+    },
+    {
+        "City":"Two Rivers",
+        "County(ies)":"Manitowoc",
+        "Population\n(2000 Census)":"12,639",
+        "Population\n(2010 Census)":"11,712",
+        "Class":"3rd",
+        "Incorporation\ndate":1878
+    },
+    {
+        "City":"Verona",
+        "County(ies)":"Dane",
+        "Population\n(2000 Census)":"7,052",
+        "Population\n(2010 Census)":"10,619",
+        "Class":"4th",
+        "Incorporation\ndate":1977
+    },
+    {
+        "City":"Viroqua",
+        "County(ies)":"Vernon",
+        "Population\n(2000 Census)":"4,335",
+        "Population\n(2010 Census)":"5,079",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Washburn",
+        "County(ies)":"Bayfield",
+        "Population\n(2000 Census)":"2,280",
+        "Population\n(2010 Census)":"2,117",
+        "Class":"4th",
+        "Incorporation\ndate":1904
+    },
+    {
+        "City":"Waterloo",
+        "County(ies)":"Jefferson",
+        "Population\n(2000 Census)":"3,259",
+        "Population\n(2010 Census)":"3,333",
+        "Class":"4th",
+        "Incorporation\ndate":1962
+    },
+    {
+        "City":"Watertown",
+        "County(ies)":"Dodge\nJefferson",
+        "Population\n(2000 Census)":"21,598",
+        "Population\n(2010 Census)":"23,861",
+        "Class":"3rd",
+        "Incorporation\ndate":1853
+    },
+    {
+        "City":"Waukesha",
+        "County(ies)":"Waukesha",
+        "Population\n(2000 Census)":"64,825",
+        "Population\n(2010 Census)":"70,718",
+        "Class":"2nd",
+        "Incorporation\ndate":1895
+    },
+    {
+        "City":"Waupaca",
+        "County(ies)":"Waupaca",
+        "Population\n(2000 Census)":"5,676",
+        "Population\n(2010 Census)":"6,069",
+        "Class":"4th",
+        "Incorporation\ndate":1878
+    },
+    {
+        "City":"Waupun",
+        "County(ies)":"Dodge\nFond du Lac",
+        "Population\n(2000 Census)":"10,944",
+        "Population\n(2010 Census)":"11,340",
+        "Class":"4th",
+        "Incorporation\ndate":1878
+    },
+    {
+        "City":"Wausau",
+        "County(ies)":"Marathon",
+        "Population\n(2000 Census)":"38,426",
+        "Population\n(2010 Census)":"39,106",
+        "Class":"3rd",
+        "Incorporation\ndate":1872
+    },
+    {
+        "City":"Wautoma",
+        "County(ies)":"Waushara",
+        "Population\n(2000 Census)":"1,998",
+        "Population\n(2010 Census)":"2,218",
+        "Class":"4th",
+        "Incorporation\ndate":1901
+    },
+    {
+        "City":"Wauwatosa",
+        "County(ies)":"Milwaukee",
+        "Population\n(2000 Census)":"47,271",
+        "Population\n(2010 Census)":"46,396",
+        "Class":"2nd",
+        "Incorporation\ndate":1897
+    },
+    {
+        "City":"West Allis",
+        "County(ies)":"Milwaukee",
+        "Population\n(2000 Census)":"61,254",
+        "Population\n(2010 Census)":"60,411",
+        "Class":"2nd",
+        "Incorporation\ndate":1906
+    },
+    {
+        "City":"West Bend",
+        "County(ies)":"Washington",
+        "Population\n(2000 Census)":"28,152",
+        "Population\n(2010 Census)":"31,078",
+        "Class":"3rd",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Westby",
+        "County(ies)":"Vernon",
+        "Population\n(2000 Census)":"2,045",
+        "Population\n(2010 Census)":"2,200",
+        "Class":"4th",
+        "Incorporation\ndate":1920
+    },
+    {
+        "City":"Weyauwega",
+        "County(ies)":"Waupaca",
+        "Population\n(2000 Census)":"1,806",
+        "Population\n(2010 Census)":"1,900",
+        "Class":"4th",
+        "Incorporation\ndate":1939
+    },
+    {
+        "City":"Whitehall",
+        "County(ies)":"Trempealeau",
+        "Population\n(2000 Census)":"1,651",
+        "Population\n(2010 Census)":"1,558",
+        "Class":"4th",
+        "Incorporation\ndate":1941
+    },
+    {
+        "City":"Whitewater",
+        "County(ies)":"Jefferson\nWalworth",
+        "Population\n(2000 Census)":"13,437",
+        "Population\n(2010 Census)":"14,390",
+        "Class":"4th",
+        "Incorporation\ndate":1885
+    },
+    {
+        "City":"Wisconsin Dells",
+        "County(ies)":"Adams\nColumbia\nJuneau\nSauk",
+        "Population\n(2000 Census)":"2,418",
+        "Population\n(2010 Census)":"2,678",
+        "Class":"4th",
+        "Incorporation\ndate":1925
+    },
+    {
+        "City":"Wisconsin Rapids",
+        "County(ies)":"Wood",
+        "Population\n(2000 Census)":"18,435",
+        "Population\n(2010 Census)":"18,367",
+        "Class":"3rd",
+        "Incorporation\ndate":1869
+    }
+]

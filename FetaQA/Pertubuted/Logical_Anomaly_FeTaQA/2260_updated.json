@@ -1,0 +1,30 @@
+[
+    {
+        "Year":2003,
+        "Host":"Andr\u00e1s Stohl",
+        "Channel":"RTL Klub",
+        "Participants":16,
+        "Winner":"T\u00fcnde Moln\u00e1r"
+    },
+    {
+        "Year":2004,
+        "Host":"Andr\u00e1s Stohl",
+        "Channel":"RTL Klub",
+        "Participants":"@@@_-5",
+        "Winner":"D\u00e1vid Hank\u00f3"
+    },
+    {
+        "Year":2017,
+        "Host":"Bence Istenes",
+        "Channel":"RTL Klub",
+        "Participants":17,
+        "Winner":"Ili\u00e1sz Shweirif"
+    },
+    {
+        "Year":2018,
+        "Host":"Bence Istenes",
+        "Channel":"RTL Klub",
+        "Participants":18,
+        "Winner":"@@@_Napoleon Bonaparte"
+    }
+]

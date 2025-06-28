@@ -1,0 +1,98 @@
+[
+    {
+        "Round":1,
+        "#":7,
+        "Player":"Kyle Okposo",
+        "Position":"Right Wing",
+        "Nationality":"United States",
+        "College/Junior/Club Team (League)":"Des Moines Buccaneers (USHL)"
+    },
+    {
+        "Round":2,
+        "#":60,
+        "Player":"Jesse Joensuu",
+        "Position":"Wing",
+        "Nationality":"Finland",
+        "College/Junior/Club Team (League)":"Ässät (SM-liiga)"
+    },
+    {
+        "Round":3,
+        "#":70,
+        "Player":"Robin Figren",
+        "Position":"Wing",
+        "Nationality":"Sweden",
+        "College/Junior/Club Team (League)":"Frölunda HC (Elitserien)"
+    },
+    {
+        "Round":4,
+        "#":100,
+        "Player":"Rhett Rakhshani",
+        "Position":"Right Wing",
+        "Nationality":"United States",
+        "College/Junior/Club Team (League)":"University of Denver(NCAA) /US National Team Development Program (USHL)"
+    },
+    {
+        "Round":4,
+        "#":108,
+        "Player":"Jase Weslosky",
+        "Position":"Goalie",
+        "Nationality":"Canada",
+        "College/Junior/Club Team (League)":"Sherwood Park Crusaders (AJHL)"
+    },
+    {
+        "Round":4,
+        "#":115,
+        "Player":"Tomas Marcinko",
+        "Position":"Center",
+        "Nationality":"Slovakia",
+        "College/Junior/Club Team (League)":"HC Košice (Slovak Extraliga)"
+    },
+    {
+        "Round":4,
+        "#":119,
+        "Player":"Doug Rogers",
+        "Position":"Center",
+        "Nationality":"United States",
+        "College/Junior/Club Team (League)":"Saint Sebastian's School (Independent School League)"
+    },
+    {
+        "Round":5,
+        "#":141,
+        "Player":"Kim Johansson",
+        "Position":"Wing",
+        "Nationality":"Sweden",
+        "College/Junior/Club Team (League)":"Malmö Jr."
+    },
+    {
+        "Round":6,
+        "#":160,
+        "Player":"Andrew MacDonald",
+        "Position":"Defenceman",
+        "Nationality":"Canada",
+        "College/Junior/Club Team (League)":"Moncton Wildcats (QMJHL)"
+    },
+    {
+        "Round":6,
+        "#":171,
+        "Player":"Brian Day",
+        "Position":"Right Wing",
+        "Nationality":"United States",
+        "College/Junior/Club Team (League)":"Governor Dummer (Independent School League)"
+    },
+    {
+        "Round":6,
+        "#":173,
+        "Player":"Stefan Ridderwall",
+        "Position":"Goalie",
+        "Nationality":"Sweden",
+        "College/Junior/Club Team (League)":"Djurgården Jr. (J20)"
+    },
+    {
+        "Round":7,
+        "#":190,
+        "Player":"Troy Mattila",
+        "Position":"Left Wing",
+        "Nationality":"None",
+        "College/Junior/Club Team (League)":"Springfield Jr. Blues (NAHL)"
+    }
+]

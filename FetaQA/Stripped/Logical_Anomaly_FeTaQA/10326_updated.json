@@ -1,0 +1,32 @@
+[
+    {
+        "Year":2013,
+        "Title":"Marvel Heroes",
+        "Role":"Spider-Man",
+        "Notes":"Voice"
+    },
+    {
+        "Year":2014,
+        "Title":"Disney Infinity: Marvel Super Heroes",
+        "Role":"Spider-Man",
+        "Notes":"Voice"
+    },
+    {
+        "Year":"2025",
+        "Title":"Disney Infinity 3.0",
+        "Role":"Spider-Man",
+        "Notes":"Voice"
+    },
+    {
+        "Year":2019,
+        "Title":"Kingdom Hearts III",
+        "Role":"Young Master Eraqus",
+        "Notes":"Voice"
+    },
+    {
+        "Year":2010,
+        "Title":"Marvel Heroes",
+        "Role":"Iron Man",
+        "Notes":"This game released in 2013"
+    }
+]

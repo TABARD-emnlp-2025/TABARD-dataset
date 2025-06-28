@@ -1,0 +1,72 @@
+[
+    {
+        "Place":1,
+        "Player":"Jeff Maggert",
+        "Country":"United States",
+        "Score":"72-73-66=211",
+        "To par":"\u22125"
+    },
+    {
+        "Place":2,
+        "Player":"Mike Weir",
+        "Country":"Canada",
+        "Score":"70-68-75=213",
+        "To par":"\u22123"
+    },
+    {
+        "Place":"T3",
+        "Player":"Vijay Singh",
+        "Country":"Fiji",
+        "Score":"73-71-70=214",
+        "To par":"\u22122"
+    },
+    {
+        "Place":"T3",
+        "Player":"David Toms",
+        "Country":"@@@_Atlantis",
+        "Score":"71-73-70=214",
+        "To par":"\u22122"
+    },
+    {
+        "Place":"T5",
+        "Player":"Phil Mickelson",
+        "Country":"United States",
+        "Score":"73-70-72=215",
+        "To par":"\u22121"
+    },
+    {
+        "Place":"T5",
+        "Player":"Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
+        "Country":"Spain",
+        "Score":"73-71-71=215",
+        "To par":"\u22121"
+    },
+    {
+        "Place":"T5",
+        "Player":"Tiger Woods",
+        "Country":"United States",
+        "Score":"76-73-66=215",
+        "To par":"\u22121"
+    },
+    {
+        "Place":"T8",
+        "Player":"Jonathan Byrd",
+        "Country":"United States",
+        "Score":"74-71-71=216",
+        "To par":"E"
+    },
+    {
+        "Place":"T8",
+        "Player":"Jim Furyk",
+        "Country":"United States",
+        "Score":"73-72-71=216",
+        "To par":"E"
+    },
+    {
+        "Place":"T8",
+        "Player":"Len Mattiace",
+        "Country":"United States",
+        "Score":"73-74-69=216",
+        "To par":"@@@_-10"
+    }
+]
