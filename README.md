@@ -16,14 +16,14 @@ TABARD is constructed by injecting synthetic anomalies into real-world tables so
 - **Spider + BEAVER** (Yu, 2018; Chen et al., 2024)  
 
 It includes **8 anomaly types**:
-- ✅ Value
-- ✅ Factual
-- ✅ Logical
-- ✅ Temporal
-- ✅ Calculation
-- ✅ Security
-- ✅ Normalization
-- ✅ Consistency
+- Value
+- Factual
+- Logical
+- Temporal
+- Calculation
+- Security
+- Normalization
+- Consistency
 
 Each table is annotated with:
 - A **perturbed** version with LLM-generated anomalies  
@@ -96,22 +96,22 @@ Each subfolder (e.g., `Calculation_Based_Anomaly_FeTaQA`) includes:
 
 We benchmark multiple LLM prompting strategies:
 
-- 💪 Zero-shot & Few-shot prompts (Levels **L1–L4**)
-- 🧠 **Chain-of-Thought (CoT)** reasoning
-- 🔁 Multi-reasoning self-verification: **MUSEVE**, **SEVCOT**
-- 🧩 Constraint-based method: **NSCM**
+- Zero-shot & Few-shot prompts (Levels **L1–L4**)
+- **Chain-of-Thought (CoT)** reasoning
+- Multi-reasoning self-verification: **MUSEVE**, **SEVCOT**
+- Constraint-based method: **NSCM**
 
 ---
 
 ## 📥 Download
 
 The dataset release includes:
-- ✅ `.json` files for all perturbed, stripped, and binary-labeled tables  
-- ✅ Metadata for anomaly type, explanation, and injection log  
+- `.json` files for all perturbed, stripped, and binary-labeled tables  
+- Metadata for anomaly type, explanation, and injection log  
 
 ---
 
-## 📜 Citation
+## Citation
 
 If you use TABARD in your research, please cite:
 
@@ -126,7 +126,7 @@ If you use TABARD in your research, please cite:
 
 ---
 
-## ⚖️ License & Usage
+## License & Usage
 
 TABARD is released under the **MIT License** for academic and research use only.  
 All data is anonymized and derived from public datasets.  
