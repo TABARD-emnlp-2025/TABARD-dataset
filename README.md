@@ -1,10 +1,10 @@
 
-# TABARD: A Benchmark for Tabular Anomaly Detection and Reasoning
+# TABARD: A Benchmark for Tabular Anomaly Detection and Reasoning 
+> *(EMNLP 2025)*
 
 **TABARD** is a large-scale benchmark for evaluating the ability of large language models (LLMs) to detect, reason over, and explain fine-grained anomalies in tabular data. This repository contains the full release of the TABARD dataset as used in our paper:
 
-> **TABARD: A Novel Benchmark for Tabular Anomaly Analysis, Reasoning and Detection**  
-> *(Submitted to EMNLP 2025)*
+
 
 ---
 
