@@ -4,6 +4,7 @@
 
 **TABARD** is a large-scale benchmark for evaluating the ability of large language models (LLMs) to detect, reason over, and explain fine-grained anomalies in tabular data. This repository contains the full release of the TABARD dataset as used in our paper:
 
+**NOTE**: For code please visit this github repository [https://github.com/TABARD-emnlp-2025/TABARD-code.git]
 
 
 ---
